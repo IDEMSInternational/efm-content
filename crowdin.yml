@@ -1,3 +1,3 @@
 files:
-  - source: translations/us_en/*.pot
+  - source: translations/en/*.pot
     translation: translations/%language%/%original_file_name%
