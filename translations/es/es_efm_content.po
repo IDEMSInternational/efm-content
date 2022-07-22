@@ -11,10 +11,61 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-06-01 13:04\n"
+"PO-Revision-Date: 2022-07-22 15:41\n"
 
 #. type=template
 msgctxt "template"
 msgid "Template list"
 msgstr "Lista de plantillas"
+
+#. type=template
+msgctxt "template"
+msgid "At these early ages, it is all about exposure! Your child is being exposed to a wide array of experiences and is discovering patterns. Expose your child to math and play with math together."
+msgstr "En estas edades tempranas, ¡se trata sobre todo de experimentación! Su niño/niña tiene a su alcance una amplia gama de experiencias que le permitirán descubrir patrones."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Start this even before your child seems to understand what you are saying. Your child is a sponge who will eventually understand your words.\n"
+"\n"
+"Make a habit of pointing at things your child is interacting with and describing them with words involving numbers, shapes, and colors. If you are dealing with a small set of things, count them out loud to your child."
+msgstr ""
+"Exponga a su niño/niña a experiencias matemáticas y jueguen juntos con las matemáticas. Puede empezar incluso antes de que su niño/niña parezca entender lo que le dice. Lo cierto es que su niño/niña es una esponja que eventualmente entenderá sus palabras. \n"
+"\n"
+"Adquiera el hábito de señalar las cosas con las que su niño/niña está interactuando mientras las describe con palabras que incluyan números, formas y colores. Si está tratando con un pequeño conjunto de objetos, cuente cuántos hay en voz alta a su niño/niña."
+
+#. type=template
+msgctxt "template"
+msgid "Activity"
+msgstr "Actividad"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "His bed was too short."
+msgstr "Su cama era demasiado corta."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have two ears. Whose ears are bigger?"
+msgstr "Cada uno tiene dos orejas. ¿Quién tiene las orejas más grandes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – GENERAL"
+msgstr "MATEMÁTICAS EN VOZ ALTA – IDEAS GENERALES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTERACTIVE READ OUT LOUD"
+msgstr "LECTURA INTERACTIVA EN VOZ ALTA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Activity"
+msgstr "Actividad"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story looks at counting to 5, descriptions, and comparisons. Practice describing words: too, very, short, tall, long, low, high, big, small; color names; and comparison words: shorter, taller, longer, lower, higher, bigger, smaller"
+msgstr "Esta historia enseña a contar hasta 5, a hacer descripciones y comparaciones. Practica usar las siguientes palabras para hacer descripciones: demasiado, muy, corto, alto, largo, bajo, alto, grande, pequeño; nombres de colores; y palabras para comparar: más corto, más largo, más bajo, más alto, más grande, más pequeño"
 
