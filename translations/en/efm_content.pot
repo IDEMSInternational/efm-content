@@ -4,12 +4,57 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Reset app"
+msgid "Privacy policy"
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "Template list"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
 msgstr ""
 
 #. type=template
@@ -20,41 +65,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Chapter"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.chapter
-#.      @local.efm_activity.chapter
-#.      @local.efm_activity.page_title
-msgctxt "template"
-msgid "@local.chapter @local.efm_activity.chapter – @local.efm_activity.page_title"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @item.id
-#.      @local.activity_id
-msgctxt "template"
-msgid "@item.id == @local.activity_id"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.has_activity_been_seen
-#.      @local.do_ids_match
-msgctxt "template"
-msgid "@local.has_activity_been_seen || @local.do_ids_match"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "<"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "\\>"
 msgstr ""
 
 #. type=template
@@ -4346,79 +4356,6 @@ msgid ""
 msgstr ""
 
 #. type=template
-#. The string @local.title1 should not be translated.
-msgctxt "template"
-msgid "– @local.title1 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title2 should not be translated.
-msgctxt "template"
-msgid "– @local.title2 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title3 should not be translated.
-msgctxt "template"
-msgid "– @local.title3 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title4 should not be translated.
-msgctxt "template"
-msgid "– @local.title4 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title5 should not be translated.
-msgctxt "template"
-msgid "– @local.title5 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title6 should not be translated.
-msgctxt "template"
-msgid "– @local.title6 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title7 should not be translated.
-msgctxt "template"
-msgid "– @local.title7 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title8 should not be translated.
-msgctxt "template"
-msgid "– @local.title8 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title9 should not be translated.
-msgctxt "template"
-msgid "– @local.title9 –"
-msgstr ""
-
-#. type=template
-#. The string @local.title10 should not be translated.
-msgctxt "template"
-msgid "– @local.title10 –"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Games, Puzzles, and More"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Each of the chapters has about a dozen sections of fun games, puzzles, activities, and investigations. Each chapter name describes the main requirement for your child to start that chapter. For example, if your child can count to ten, **and knows what those numbers mean,** then start with chapter 3. The materials in the chapters are designed in a learning progression so that later sections build on the earlier ones.\n"
-"\n"
-"Please select the kinds of activities you would like to do."
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Introductions"
 msgstr ""
@@ -4440,11 +4377,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Please select whether you would rather view the chapter activities individually or by topic."
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Individually"
 msgstr ""
 
@@ -4455,22 +4387,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Select a starting chapter. You can always go forward or backward from there."
+msgid "**Chapters**"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Activities - Bonus Material"
+msgid "**Bonus Material**"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Bonus Material"
+msgid "Bonus Material — Activities"
 msgstr ""
 
 #. type=template
@@ -4558,16 +4485,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Reading with your child is a wonderful experience! Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience.\n"
-"\n"
-"**Beginning Storybooks** Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions.\n"
-"\n"
-"**Intermediate Storybooks** These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Beginning"
 msgstr ""
 
@@ -4607,36 +4524,8 @@ msgid "Third reading"
 msgstr ""
 
 #. type=template
-#. The string @item.annotation_1 should not be translated.
-msgctxt "template"
-msgid "1. @item.annotation_1"
-msgstr ""
-
-#. type=template
-#. The string @item.annotation_2 should not be translated.
-msgctxt "template"
-msgid "2. @item.annotation_2"
-msgstr ""
-
-#. type=template
-#. The string @item.annotation_3 should not be translated.
-msgctxt "template"
-msgid "3. @item.annotation_3"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Welcome!"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. We have two kinds of materials for your family to enjoy together.\n"
-"\n"
-"**Storybooks** Read our storybooks with your child. These storybooks have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!\n"
-"\n"
-"**Activities** These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
 msgstr ""
 
 #. type=template
@@ -4647,6 +4536,111 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Activities"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the chapters has about a dozen sections of fun games, puzzles, activities, and investigations."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Chapters"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Each chapter name describes the main requirement for your child to start that chapter. For example, if your child can count to ten, and knows what those numbers mean, then start with chapter 3. The materials in the chapters are designed in a learning progression so that later sections build on the earlier ones."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the chapter activities individually or by topic."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. We have two kinds of materials for your family to enjoy together."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Read our storybooks with your child. These storybooks have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr ""
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
 msgstr ""
 
 #. type=data_list
@@ -5036,7 +5030,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Sometimes we fell better when someone pats us or holds our hand. Have you ever tried to help a friend feel better with a friendly touch?"
+msgid "Sometimes we feel better when someone pats us or holds our hand. Have you ever tried to help a friend feel better with a friendly touch?"
 msgstr ""
 
 #. type=data_list
@@ -5081,7 +5075,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "So Flap, flap, flap, every day Daisy would flap her wings."
+msgid "So flap, flap, flap, every day Daisy would flap her wings."
 msgstr ""
 
 #. type=data_list
@@ -5121,7 +5115,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "I'm never going to fly!\" Daisy cried to Mama. \"The others are right.\""
+msgid "\"I'm never going to fly!\" Daisy cried to Mama. \"The others are right.\""
 msgstr ""
 
 #. type=data_list
@@ -5166,7 +5160,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "There are lots of stright lines here. Some are vertical -- they go up and down. Some are horizontal -- they go side to side. Find some vertical and horizontal lines where you are."
+msgid "There are lots of straight lines here. Some are vertical -- they go up and down. Some are horizontal -- they go side to side. Find some vertical and horizontal lines where you are."
 msgstr ""
 
 #. type=data_list
@@ -5536,7 +5530,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Have you ever helped a person or animal that needed something. Even little things count, like opening a door or sharing some food. How did you feel?"
+msgid "Have you ever helped a person or animal that needed something? Even little things count, like opening a door or sharing some food. How did you feel?"
 msgstr ""
 
 #. type=data_list
@@ -5611,7 +5605,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Yusuf's father, grandfather, and great-grandfather were all fisherman. Do you know anyone who does the same job as one of their parents?"
+msgid "Yusuf's father, grandfather, and great-grandfather were all fishermen. Do you know anyone who does the same job as one of their parents?"
 msgstr ""
 
 #. type=data_list
@@ -5641,7 +5635,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "All day long Yusuf looks at the sky. It is bright and clear and windless. A fish and a gift! What will Papa bring home from the sea? Sometimes he brings a beauttiful shell. Sometimes he brings a jewel green bottle rinsed by the waves."
+msgid "All day long Yusuf looks at the sky. It is bright and clear and windless. A fish and a gift! What will Papa bring home from the sea? Sometimes he brings a beautiful shell. Sometimes he brings a jewel green bottle rinsed by the waves."
 msgstr ""
 
 #. type=data_list
@@ -5691,12 +5685,12 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "It is hard work pulling a wet fishing net out of the water. How many fisherman are pulling? Do they all pull together or take turns?"
+msgid "It is hard work pulling a wet fishing net out of the water. How many fishermen are pulling? Do they all pull together or take turns?"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Are there more gulls or fisherman in this picture? How many more?"
+msgid "Are there more gulls or fishermen in this picture? How many more?"
 msgstr ""
 
 #. type=data_list
@@ -5721,7 +5715,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Last year the fisherman fought with the surfers. Angry fists and shouting words. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"There's enough sea for everybody,\" said Yusuf's father. He showed them the fishing license that had been Oupa Salie's. \"Waves for all. Water for free.\""
+msgid "Last year the fishermen fought with the surfers. Angry fists and shouting words. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"There's enough sea for everybody,\" said Yusuf's father. He showed them the fishing license that had been Oupa Salie's. \"Waves for all. Water for free.\""
 msgstr ""
 
 #. type=data_list
@@ -5741,7 +5735,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Ouma Safiya watches through her binoculars, her fingers curled in curiosity. The shark siren sounds. Swimmers run back to the sand and grab their towels. Surfers rush to the shore, carrying their boards under their arms. Under the showers they strip off their wetsuits. \"Whaaat? Whaaat? Whaaat?\" cry the gulls. \"What will Yusuf's father bring from the ocean?"
+msgid "Ouma Safiya watches through her binoculars, her fingers curled in curiosity. The shark siren sounds. Swimmers run back to the sand and grab their towels. Surfers rush to the shore, carrying their boards under their arms. Under the showers they strip off their wetsuits. \"Whaaat? Whaaat? Whaaat?\" cry the gulls. \"What will Yusuf's father bring from the ocean?\""
 msgstr ""
 
 #. type=data_list
@@ -5756,7 +5750,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Goblin sharks are not very agressive. They have not attacked a person, partly because they are so far out in the deep ocean."
+msgid "Goblin sharks are not very aggressive. They have not attacked a person, partly because they are so far out in the deep ocean."
 msgstr ""
 
 #. type=data_list
@@ -6064,7 +6058,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Notice how Paul is looking at the cat. Pual sure likes cats!"
+msgid "Notice how Paul is looking at the cat. Paul sure likes cats!"
 msgstr ""
 
 #. type=data_list
@@ -6394,7 +6388,7 @@ msgctxt "data_list"
 msgid ""
 "Then Cat throws the ball very high.\n"
 "\n"
-"Oh! oh!"
+"Oh! Oh!"
 msgstr ""
 
 #. type=data_list
@@ -6797,7 +6791,7 @@ msgctxt "data_list"
 msgid ""
 "The Cat and Dog stop. They stop and sit down. They sit down at a tree.\n"
 "\n"
-"The sit down at a big tree.\n"
+"They sit down at a big tree.\n"
 "\n"
 "But then ...."
 msgstr ""
@@ -6917,7 +6911,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Two of the building are round around the base. The third one has a base shaped like this page."
+msgid "Two of the buildings are round around the base. The third one has a base shaped like this page."
 msgstr ""
 
 #. type=data_list
@@ -7038,7 +7032,7 @@ msgctxt "data_list"
 msgid ""
 "Cat and Dog walk to the goose.\n"
 "\n"
-"They ask the goose, \"is this your egg?\""
+"They ask the goose, \"Is this your egg?\""
 msgstr ""
 
 #. type=data_list
@@ -7148,7 +7142,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"The baby lizard says, \"Where is my mother? Where is my father? Where are my mother and father?\n"
+"The baby lizard says, \"Where is my mother? Where is my father? Where are my mother and father?\"\n"
 "\n"
 "Cat and Dog bring the baby lizard to his mother and father."
 msgstr ""
@@ -7616,7 +7610,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"First drog draws an oval.\n"
+"First, Dog draws an oval.\n"
 "\n"
 "The oval is the body of Cat.\n"
 "\n"
@@ -7724,7 +7718,7 @@ msgid ""
 "\n"
 "He draws the arms and legs of Cat.\n"
 "\n"
-"The arms and legs are lines and he draws the toe of Cat.\n"
+"The arms and legs are lines and he draws the toes of Cat.\n"
 "\n"
 "The toes are circles and he draws the tail of Cat.\n"
 "\n"
@@ -7751,7 +7745,7 @@ msgctxt "data_list"
 msgid ""
 "At last he draws some stripes on the body of Cat and colors the body orange.\n"
 "\n"
-"The the drawing is finished.\n"
+"The drawing is finished.\n"
 "\n"
 "Wow, that is beautiful!"
 msgstr ""
@@ -7799,7 +7793,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"First Cat draws an oval.\n"
+"First, Cat draws an oval.\n"
 "\n"
 "The oval is the body of Dog.\n"
 "\n"
@@ -7838,7 +7832,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "The picure doesn't look like Dog yet. Use your imagination to think of what else the drawing might become. Perhaps a ladybug, or a water bottle squirting water, or a space alien?"
+msgid "The picture doesn't look like Dog yet. Use your imagination to think of what else the drawing might become. Perhaps a ladybug, or a water bottle squirting water, or a space alien?"
 msgstr ""
 
 #. type=data_list
@@ -7849,9 +7843,11 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"Now he draws the eyes and the eyebrows of dog.\n"
+"Now he draws the eyes and the eyebrows of Dog.\n"
 "\n"
-"The eyes are two dots. \\PARA The eyebrows are two lines.\n"
+"The eyes are two dots.\n"
+"\n"
+"The eyebrows are two lines.\n"
 "\n"
 "Wow, that is perfect!"
 msgstr ""
@@ -7878,7 +7874,7 @@ msgid ""
 "\n"
 "The mouth is a line.\n"
 "\n"
-"The shape is again the letter 'w' and he draws some dots around the mouth of dog.\n"
+"The shape is again the letter 'w' and he draws some dots around the mouth of Dog.\n"
 "\n"
 "Three on the left side and three on the right side."
 msgstr ""
@@ -7905,7 +7901,7 @@ msgid ""
 "\n"
 "He draws the arms and legs of Dog.\n"
 "\n"
-"The arms and legs are lines and he draws the toe of Dog.\n"
+"The arms and legs are lines and he draws the toes of Dog.\n"
 "\n"
 "The toes are circles and he draws the tail of Dog.\n"
 "\n"
@@ -8231,7 +8227,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Have you ever seen a rainbow after it rains? Sometime, you can even see a double rainbow if you're lucky!"
+msgid "Have you ever seen a rainbow after it rains? Sometimes, you can even see a double rainbow if you're lucky!"
 msgstr ""
 
 #. type=data_list
@@ -8256,7 +8252,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "People often paint things red or choose red things because of the color's high energy. Have you seen cars that are read?"
+msgid "People often paint things red or choose red things because of the color's high energy. Have you seen cars that are red?"
 msgstr ""
 
 #. type=data_list
@@ -8972,11 +8968,6 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "SHAPES ON THE FLOOR"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Acitivity"
 msgstr ""
 
 #. type=data_list
@@ -10381,7 +10372,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Can We Count Our Cats"
+msgid "Can We Count Our Cats?"
 msgstr ""
 
 #. type=data_list
@@ -10451,12 +10442,32 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Creature With Two"
+msgid "Creature with Two"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has counting to seven and shapes. Practice words: small numbers, especially one and two; and comparing words such as more, equal, same, and less. Also, talk about squares, circles, solids, stripes, bigger, and smaller."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where Is Lulu?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 10, comparing sizes, and geometry. Practice words: numbers to 10, one more, one less, less, more, small, big, too, too big, smallest, largest, triangle, rectangle, pentagon, cylinder, same, on, under, and on top of."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where Is My Cat?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
 msgstr ""
 
 #. type=data_list
@@ -10476,7 +10487,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "This story has counting to 8, descriptions and comparisons, and shapes. Practice words: numbers to 8, earlier, later, dark, faster, down, backwards, longest, more, little, different, triangle, rectangle, line, side, striaght, horizon, and horizontal."
+msgid "This story has counting to 8, descriptions and comparisons, and shapes. Practice words: numbers to 8, earlier, later, dark, faster, down, backwards, longest, more, little, different, triangle, rectangle, line, side, straight, horizon, and horizontal."
 msgstr ""
 
 #. type=data_list
@@ -10501,6 +10512,16 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How Many?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Is There Anyone Like Me?"
 msgstr ""
 
@@ -10517,6 +10538,216 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has  counting to 10 and comparing. Practice words: more, less, difference, and counting by 2's."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Little Jojo's Long Tall Tale"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has many shapes. Practice words: circle, round, short, polygon, side, triangle, quadrilateral, pentagon, hexagon, square, rectangle, diamond, rhombus, cone, pattern, concentric circles, colors, tall, tallest, far, farthest, long, half, pair, add, subtract, easy, hard, easier, harder, and problem solving."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory Dory"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Singing the Truth: The Story of Miriam Makeba"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise Finds his House"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who Can Count to Ten?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs do two ladybugs have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting is counting by steps bigger than 1. You can skip count these legs by 6's by counting 6, 12. You can also skip count by 3's using the sides of their bodies 3, 6, 9, 12."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can skip count to 12 in steps of 3 and 6. Can you think of other ways to skip count to 12? Which ways work (1, 2, 3, 4, 6, 12) and which ways don't (5, 7, 8, 9, 10, 11)?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the dots on each ladybug's back. Have you seen ladybugs around where you live -- did they have more or fewer dots than these?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many wings do four birds have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting by 2's -- one 2 for each bird."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting the four left wings and then the four right wings. It's fun that you get the same answer whether you skip by 2's or 4's!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If the bird in the sky flies away, how many of the four birds will remain?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns do three rhinos have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has two horns, a big one and a small one. Skip count their horns by 2's and 3's."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How would you skip count to find out how many feet they have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has twice as many feet as horns. Take the total number of horns and double that to get the total number of feet."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trunks do five elephants have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count trunks, tails, tusks, and ears. Counting tails and trunks is simple -- what number do you get?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each elephant has two tusks and two ears. Which do you like better -- skip counting these by 2's or by 5's?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four big elephants and one baby elephant. How much is four plus one more?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many ears do seven dogs have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you count the ears by 1's, 2's, or 7's?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are 14 ears. We can skip count to 14 by 1's, 2's, and 7's. Are there any other step sizes that work for counting to 14?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four dogs in the top group and three in the bottom. What do you get when put four dogs together with three more?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many tails do three monkeys have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count the tails, eyes, and feet. How many tails do you count?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you count the eyes two at a time, two for each monkey, or would you count them three at a time, which is doubling the number of monkeys?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You have many choices for skip counting their feet. What are your choices and which one would you choose to use?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many eyes do six cats have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Wow, these cats are a bit creepy! Did you skip count the eyes by 2's or 6's?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many whiskers does each cat have? Can you count high enough to skip count all the whiskers?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you skip count high enough to count all the feet?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs does one worm have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count all those legs, or is it too tricky to see or too high to count?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other things that are just too many to count."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer."
 msgstr ""
 
 #. type=data_list
@@ -10794,7 +11025,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Do you know someone who is very similar to you? How are they similar?"
+msgid "Do you know someone who is very similar to you? How are they similar to you?"
 msgstr ""
 
 #. type=data_list
@@ -10925,7 +11156,8 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"And I can make my breath noisier. Ssssssssssss!\n"
+"And I can make my breath noisier. \n"
+"Ssssssssssss!\n"
 "\n"
 "And softer.\n"
 "Mmmmmmmm."
@@ -10999,12 +11231,12 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Have you ever seen your own heart beating in yuor chest? Is it possible to see it?"
+msgid "Have you ever seen your own heart beating in your chest? Is it possible to see it?"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "The storyteller and artist are streatching the truth a bit here. Have you ever stretched the truth a bit to make a story a little more interesting?"
+msgid "The storyteller and artist are stretching the truth a bit here. Have you ever stretched the truth a bit to make a story a little more interesting?"
 msgstr ""
 
 #. type=data_list
@@ -11162,4 +11394,2046 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I have a very big problem, cried Chief Short and Round in a loud voice. \"Everyone, come here! I have a very big problem.\"\n"
+"\n"
+"The people of the Village of Many Shapes formed a big circle around Chief Short and Round. They wanted to hear what he had to say."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A polygon is a shape with several straight sides. Triangles have 3 sides, quadrilaterals have 4, pentagons have 5, and hexagons have 6. Name some polygons where you are."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the shapes of the buildings in this picture?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are snowflakes in the sky on a sunny day on  this page. Have you ever seen this?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Chief Short and Round began, \"This is the worst news ever. I have lost my spring horn.\" \n"
+"\n"
+"The villagers whispered to each other, \"Oh no!\" Chief Short and Round continued talking, \"If I don't find my spring horn then I can't blow my spring horn! And we can't start the springtime party if I can't blow my spring horn. And spring won't come if we don't have a springtime party.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many of these people have very colorful clothes. What are your favorite colors to wear to a party?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever looked forward to a party and then worried that it might not happen?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many beautiful polygons on these clothes! There are patterns with squares (polygons with four equal sides and four square corners), and some with hexagons. Notice how the hexagons on the back of the shirt are made of six triangles in a lively pattern!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Little Square Jojo stepped into the circle and lifted up his hand. \"I will find your spring horn, Chief Short and Round.\" \"Good, good,\" said the chief with a smile. \"You can start looking in the last place I visited this morning. Go to Tata Rectangle's house. I remember having my horn with me there.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does Little Square Jojo deserve his name?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many circles in this picture. How many circles can you find?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many squares are there on Jojo's clothes? That is a very tricky question because there are squares of different sizes on his clothes -- some of the squares are made up of smaller squares!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Tata Rectangle was happy to see Jojo. He opened his door and welcomed Jojo inside. \"I remember seeing Chief Short and Round earlier this morning,\" said Tata Rectangle, \"but I don't think he had his spring horn with him.\" \n"
+"\n"
+"Little Square Jojo looked under Tata Rectangle's bed and behind his books. He even looked into his fridge. But Jojo couldn't find the spring horn anywhere."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle has four straight sides with corners like the corners of this page. A square is always a rectangle, but rectangles are not always squares. What would make a rectangle not be a square?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there any rectangles that are squares in this picture?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which objects in this room are rectangles? There are rectangles everywhere on this page! Point to as many rectangles as you can."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Go and see if Mama Triangle has the spring horn, said Tata Rectangle. \"Chief Short and Round visited her before he came to see me.\" \"Thank you, Tata,\" said Jojo as he waved goodbye.\n"
+"\n"
+"Mama Triangle's house is about three kilometers from here, thought Jojo. That is a far distance to walk. I will stop at my house along the way and have a rest."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the tallest things in this picture? Have you ever seen a person almost as tall as a house?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo is going for a long 3km (about two miles) walk. What is the farthest you have ever walked?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you ever walk a long, long time? How many minutes was that walk? 10? 20? 60? more?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo was hot and tired by the time he reached his house. He went inside to open his freezer and pour a glass of cold water with ice blocks. \"I must be half the way to Mama Triangle's house,\" he said. \"I hope she has the chief's horn.\"\n"
+"\n"
+"Then Jojo had an idea. \"I can visit Dudu Diamond. Her house is only half a kilometer from here and it's on the way."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On this floor, you can hop from one square to another square of the same color. Choose one color with your finger and hop around that room."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a pattern on the floor where you are? Do you ever hop around a room trying to stay on just one color?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo has walked half way of his 3 km (2 mi) walk. How far has he walked?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond was cleaning her house when Jojo arrived. Her earrings were making a lovely tinkling sound as she worked. \n"
+"\n"
+"\"Hello, Jojo,\" she said. \"What are you doing today?\" \"I am on my way to Mama Triangle's house to find the chief's spring horn,\" said Little Square Jojo. \"That's nice of you,\" said Dudu. \"I am happy to come with you. How much further do you have to go?\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another name for a diamond is a rhombus. A rhombus is a quadrilateral with four equal sides. A square is always a rhombus, but not every rhombus is a square. Point to some diamonds in this picture that aren't squares."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room is full of diamond shapes. What shape are the diamond windows if you turn them on their side? Jojo should feel right at home with those windows!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room has many pairs of things. Which pairs do you see?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo scratched his head. \"Let's see. Mama Triangle's house was three kilometers away from where I started. I walked about half the way to get to my house, that's one and a half kilometers. Then I walked another half a kilometer to get to your house. That makes 2 kilometers. So we only have one more kilometer to go!\" \n"
+"\n"
+"\"That's not so far then!\" smiled Dudu. \"I'll pack some things to take with.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo added 1 1/2 km plus 1/2 km to get 2 km. He subtracted 2 km from 3 km to get 1 km."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another way is: He had 1 1/2 km to go and he walked 1/2 km, so there was only 1 km left."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yet another way: Think of 3 km as 6 half kms. When he did half of 6 of those, that meant he did 3 halves and had 3 halves to go. When he did another half km, then he only had 2 halves left. It's a fun puzzle to find different ways to calculate the same thing!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond and Little Square Jojo walked until they reached the bottom of a tall mountain. \"Mama Triangle's house is right up there at the top,\" said Dudu.\n"
+"\n"
+"\"Let's stop for a while and have a rest. You can have the sandwich I packed.\" Jojo cut the sandwich into four smaller pieces. \"Here, let's share the sandwich, you have two pieces and I'll have two.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We can't see the top of the mountain. What do you think the shape is of the part we can't see?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some different ways to cut a sandwich into four parts. Which shapes can you make that way?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A round shape that comes to a point is called a cone. The mountain next to them is in the shape of a cone. Find some other cones in this picture."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Soon Dudu Diamond and Little Square Jojo were half the way up the mountain. Things were very different there.\n"
+"\n"
+"\"Look,\" said Jojo. \"That's the strangest spider I've ever seen.\" \"Wow,\" said Dudu. \"It has spun a beautiful web. Let's count the sides. One, two, three, four, five, and six! That makes it a hexagon then!\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of any other hexagons you see or know about? Are there any where you are right now? Perhaps there are some hexagons on a bathroom floor?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know any stories or songs about spiders?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spiders make webs in trees, in holes in the ground, and even across water. Where have you seen spider webs where you live? Why do spiders make webs?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After climbing over a very big rock, Little Square Jojo and Dudu Diamond finally arrived at Mama Triangle's house. They were high up now and felt a bit dizzy.\n"
+"\n"
+"\"Hello, you two,\" said Mama Triangle with a smile. \"I am so happy to have visitors. Most of the time I'm all alone here on the top of my mountain. Come inside and sit down at my table."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mama Triangle knows where the Chief's spring horn is? Do you think they wasted their time coming to the top of the mountain?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a great many polygons in this picture and they are of many types. Point at some polygons and name their types."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few shapes that are not polygons. These shapes have at least one side that is curved and not straight. Can you find them?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle, said Jojo after catching his breath, \"We've come to find Chief Short and Round's spring horn. Tata Rectangle said that the chief visited you this morning.\" \"Yes, that is correct,\" said Mama Triangle. \"The chief came to ask me to help prepare for the springtime party. But he didn't leave his spring horn here.\" \"Oh no,\" said Jojo sadly, \"We've come all this way for nothing!\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think they went all that way for nothing? They may not know where the horn is, but they have learned a lot during their travels."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes, finding out what something can't be can be almost as valuable as finding out what it is. Useful information comes in many forms!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next in the story? Create an ending for how this story turns out. Do they find the horn, and if so, how do they find it?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle held Jojo's hand as she led him outside. \"Don't worry Jojo,\" she said. \"Chief Short and Round didn't leave his spring horn here, but I know where it is. That chief can be such a silly thing!\" Mama Triangle, Little Square Jojo and Dudu Diamond all ran down the mountain and in no time at all they were safely at the bottom."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a lot of triangles in this picture! Can you count them all, or is it higher than you can count?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why were they able to go down the mountain so much more quickly than when they went up?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oddly enough, going down a steep hill can be harder than going up. Has this happened to you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It was evening by the time they reached Chief Short and Round's house. Mama Triangle knocked on the door and when it was opened everyone rushed inside.\n"
+"\n"
+"\"Hello,\" said Chief Short and Round, blinking sleepily. \"Did you find my spring horn? Will we be able to have the springtime party?\" Little Square Jojo felt very bad and shook his head."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief's room is round and is filled with round things. Point at and count as many circles as you can."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The circles in the rug have the same center. Circles that share a common center are called concentric circles. Do you see any concentric circles where you are?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief is wearing his pajamas. What do you think his bedtime is? What is your bedtime?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Jojo looked for your spring horn all day, said Mama Triangle. \"It is not his fault that he didn't find it. It is your fault, Chief Short and Round. Don't you remember?\" Mama Triangle pointed at the chief. \"You are wearing your spring horn on your head!\"\n"
+"\n"
+"Chief Short and Round gasped, \"Oh my, I remember it now. I was so hot from climbing up that mountain that I put my horn on my head.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think the Chief felt when he realized the horn was on his head?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long in this story has the horn been on his head?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a story about a time when you thought you lost something and then found out it was in an obvious place all along."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I am so embarrassed, said Chief Short and Round as he took his spring horn off his head. Then he passed it to Little Square Jojo. \"You have done all the hard work, Jojo. You should blow the horn.\"\n"
+"\n"
+"Little Square Jojo smiled. He lifted up the horn and gave a loud blow. \"Now we can have the springtime party!\" All was well in the Village of Many Shapes."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unlike real snowflakes, the snowflakes in this sky come in many, very different shapes. Point to a few and describe them."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo did a great job of problem solving. He thought about the problem, he discussed ideas with others, and he persisted even when he was having trouble solving the problem."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a fun story, real or make believe, of a time when someone was searching all over for something for a long time and then finally found it."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One night Grandpa was tucking me in. His hands were soft and his hair was thin."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two words rhyme when their endings sound alike. Look for the rhyming words on many of the pages of this story. For this page, \"in\" and \"thin\" are the rhyming words."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other words that rhyme with in and thin. (fin, din, kin, tin, win, bin, grin)"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting things in pairs can be fun. However, not everything can be paired up. There are five buttons on Grandpa's coat, and no matter how you pair them up there will be one left over -- that's because five is an odd number!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I'm going to tell you a special story, about a girl named Lory Dory."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hearing someone tell you a story is a special treat. Someone is reading this story to you right now. How does it make you feel?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When lines are lined up and go in exactly the same direction they are called parallel lines. The artist has drawn this room in a style with almost no parallel lines. Point out some parallel lines where you are right now."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the rhyming words on this page?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You couldn't see Lory Dory at all because she was born invisible."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think it feels to be invisible? You could go places and no one would know you were there. Would you like to be invisible?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you are invisible and you put clothes on, are the clothes invisible too?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is Lory Dory in this picture? How can you tell?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You'd only see Lory when rain hit her head."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you see a shape by seeing an empty space in a picture, that is called \"negative space.\" You can tell where Lory is by seeing the negative space where there is no rain."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The rain lines in this picture are lined up. Those lines are parallel lines."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look for parallel lines around you. Most of them will probably be horizontal lines (going side to side) or vertical lines (going up and down). Are there any other parallel lines around you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Or when she was curled under blankets in bed."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The artist took many liberties with this drawing. There are extra squiggles that aren't really there. What else is extra in the picture? (the big red area)"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the artist put in those extra things?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the easiest part of Lory to see in this picture?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory was left out of all the kids' games. They teased her and they called her names."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We can see Lory in this picture by her negative space and her eyes."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you suppose her eyelashes are visible when the rest of her is not?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often make fun of someone who is different in some way. Have you ever been made fun for this reason? Have you made fun of someone for this reason? Why do you think people do this?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look, it's Lory. The Imaginary Friend! She's not like us, she's just pretend!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The umbrellas are divided into areas that are triangles. Triangles are shapes with three straight sides. Do you see any triangles where you are?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Triangles are stronger than four-sided shapes. It is much harder to bend triangles and make them lose their shape. Why do you suppose that is?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That child is about to throw a snowball. Balls are also called spheres. Spheres roll well and are fun to kick and play with. Do you have any spheres around you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day at school, a boy wanted to know: \"How do you look? I only see you in snow.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What did the boy mean when he said \"I only see you in snow.\"? Where is Lory in this picture?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The lines on the boy's shirt go in two directions. The two directions meet each other in the same way as the edges of this page do. Lines that meet this way are said to be perpendicular to each other."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out some perpendicular lines where you are. There will probably be a lot of them! Horizontal and vertical lines are usually perpendicular to each other."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you paint yourself? Lory knew that she could. But not in the same way the boy thought she would."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It often happens that someone will mean something different when they say something than what the person hearing it understands. Has that happened to you recently?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What did the boy mean by \"paint yourself\" and what do you think Lory is going to do?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A partial circle is called an arc. There are at least five arcs on this page -- can you find them all? Can you find more than five?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory painted her body with all that she loved from the world all around and the sky above."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The expression \"wearing your feelings on your sleeve\" refers to showing the world how you feel. Do you keep your feelings to yourself or do you show them to the world?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory is showing the world all the things she loves. She is wearing her thoughts all over her body!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is inside each of us is invisible to the world until we tell the world. Which things that you love would you like to share with the world?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She painted herself every day with such pride, to bring out the person who she was inside."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color did she use for her right foot and which one for her left foot?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Using paint is a bit messy, but it is one way to show her mark on the world. There are many ways we leave marks on the world without using paint. Can you think of a few?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can count the toe prints one by one, or you can count them by 5's. Skip counting is often a quick way to count a bunch of things! How many toe prints are there?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I know I'm invisible and hard to see. So I painted these pictures to show the real me."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different things can you see on her that Lory likes?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How well does this share who Lory is?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which things would be hard to share this way?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are you making this up, Gramps? Is this story true? \"Lory is real -- real as me, real as you.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story may not be real, but it has a real message. What is the message?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How well do you think people see the invisible things inside you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there something inside you that you would want to keep invisible?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Grandpa had left me, I can't quite be sure, but I think I saw Lory just outside my door."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think? Do \"sure\" and \"door\" rhyme?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go back and look at all the pairs of rhyming words. Can you find a few more words that with each pair?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some kinds of poems use rhyming words. Have you ever written a poem?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A long time ago, in the vast city of Johannesburg, a baby girl was born. That baby was me. My mom called me Miriam. Miriam Makeba."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is sitting on a three-legged stool. Most chairs have four legs. What is better about having three legs?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has lots of rectangles. A rectangle is a shape with four straight sides and corners that are right angles, like the corners of this page. Point to some rectangles in this picture."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are rectangles all around you. Point to some rectangles where you are."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mom was a sangoma, but she also worked to make other people's homes neat and clean. It was hard for my mom to earn enough for both of us. She started selling homemade beer to bring in more money."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sangoma is an herbalist or a healer. Do you like going to the doctor?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the rectangles that are beautiful shades of blue in this picture. How many do you count? Did you count them by 1's, 2's, or in some other way?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to some rectangles that are not blue, if you can find any."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The laws of the land said that selling homemade beer was wrong. The police sent my mom to jail for six long months. I was only 18 days old, and needed my mom. So even though I was a baby, I went to jail too."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at their faces, how are Miriam and her mother feeling? How were they feeling on the previous page?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More and more rectangles! There are lots of rectangles, but there are also some other shapes -- can you find them?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are circles for the eyes, beads, and hoop earrings. There is a downturned arc, which is a part of a circle, for the mother's mouth."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As a little girl I loved to sing. When I was older, I helped my mom clean houses. Singing songs as I worked made the chores go faster and the days seem brighter. Singing made me happier than I can explain."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What in this page shows that she is singing? Do you know how to read music notes on a page?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like to sing? Some people have trouble hearing the right notes to sing, but with practice and listening they can get much better at it."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles are a very common shape in most rooms. How many rectangles can you find in this picture?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I sang in my church, and this made others happy too. Music has the power to bring people together. When we were singing we felt brave and strong."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does it surprise you to read that she felt brave and strong while singing? What do you think she meant by that?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These windows are not rectangles! One of the windows is a circle. We can't see the whole scene, but it looks like the other windows have arched tops. An arch is part of an oval."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the particularly interesting interplay of shapes on the blue dress. Shapes can be combined in such interesting ways!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People said my voice was a gift and my songs were special. I sang with other musicians and our music was heard all over the world."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Miriam is standing in a spotlight shining down from a bright light in the ceiling. The spotlight makes a cone of light that the singer can be in and stand on the stage. People can have cones that are funnels or ice cream cones."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When a spotlight shines straight down it makes a circle on the stage floor. When it shines from the side, the shape on the floor is called an oval or an ellipse. Do you see any ellipses where you are?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Other than the spotlight, what other ovals or parts of ovals do you see in this picture?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My home was Sophiatown, a place of culture and music. Sophiatown is a place where South Africans could make music and harmony and dance together. But the people who ruled the land at the time did not like this togetherness. Those rulers didn't want black and white people to be friends."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unfortunately, some people pay attention to things that are different about people, such as skin color, how tall they are, or the place where they come from. Are there some differences that keep you away from some people?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Music is something that can be shared and it can help bring people together. What brings you together with your friends?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think doing math is something that can be shared and bring people together?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I knew it was wrong to treat people differently because of their skin color. I did not hide my beliefs, and so those people in charge wanted me out of the country. When I was singing in America, I was told I could never return home."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is Miriam feeling? How can you tell?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been away from home and worried about getting back? Did it make you sad, or was it just hard to wait?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Clouds can come in many shapes! Notice that the bottoms of these clouds are flat. That often happens with clouds. Look at the clouds where you are, or remember a time when there were lots of clouds -- were they flat on the bottom?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People all over the world heard my story. My songs and my story helped many to see how there was no fairness in South Africa for those with black skin. I decided to go on singing and telling the truth about my country, no matter what."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever done something that some people thought was a bad idea, but you knew it was the right thing to do? What was it? Were you glad you stood up for what you believed in?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do the eyebrows and mouths in this picture show that the people are dismayed?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use your eyebrows to show different feelings. Try to show that you are happy, sad, surprised, or worried."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The world loved my music and I was welcomed in many countries. I won awards and sang for important people all over the globe. My life was good, but something was missing. I could not sing in my home country, and people there were not free."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice how the spotlight creates part of an oval on the floor."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes an outline of a shape is enough to tell what it is. The two dark outlines show people wearing something special on their heads. Who do you think these people are?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever done some singing, dancing, or other performing in front of people? How did you feel?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then a wonderful day dawned when Nelson Mandela became president of South Africa. New people were in charge and the unfair laws belonged to the past. I finally went home with new hope in my heart."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which arcs on their faces show that they are happy?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The stripes on the shirt of President Mandela are made up of rectangles. There are shapes all around us!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice the flat-bottomed clouds in this picture?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After that, I could sing in a free, fair country. People of different colors could enjoy music together. I helped make this happen because I was brave and strong. I sang the truth in all of my songs."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some times when you have been brave and strong? How did you feel?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the people on this page. If you take away the people on the stage, how many are left?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How wonderful to see all these people enjoying Miriam's music and dancing together!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day Tortoise was walking through the countryside. He was looking for something. He gazed into the distance and squinted at the grass. Then he walked past Snail."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise is looking for his house. Do you think he forgot it or did he never know where it was? Do you know where Tortoise's house is?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know where Snail's house is?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you live? Is your house easy to find, or do you need help finding your house sometimes?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Are you looking for something?\" Snail asked. \"Yes, Snail, I'm looking for my house. Have you seen it, by any chance?\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you remember having trouble finding something and discovering it was easy to find all along?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you don't think of how to do something that is easy to do, how do you feel? Does it frustrate you? People overlook things all the time, it's very easy to do!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's fun to imagine animals talking together like this. If you could talk with an animal, what would you ask them?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Snail said, \"No, I haven't, but I'll help you look!\" She climbed onto Tortoise's shell.\n"
+"\n"
+"Tortoise walked on with Snail on his back. They looked and looked, but there was no sign of a house. The sun was high in the sky."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why didn't Snail and Tortoise walk together side by side?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the story mention where the sun is? Do you think something interesting is going to happen with the sun?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A little later they passed Sparrow.\n"
+"\n"
+"\"Are you looking for something?\" asked Sparrow. \"Yes, Sparrow, I'm looking for my house. Have you seen it, by any chance?\" Sparrow said, \"No, I haven't, but I'll help you look!\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The leaves of each branch are paired up except for one leaf at the very end. When things are paired up with one left over, that means there are an odd number of them."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you have an odd number of something, you can't share it equally with two people. If you can share something equally, that means you have an even number of things. Two and four are examples of even numbers. Can you think of some other even numbers?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's even trickier to think of numbers that can be shared equally by three people? Can you think of any examples of this?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The average speed of a sparrow is at least 10 times faster than a person, so it is about 50 times faster than a tortoise!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What a huge range of speeds! Sparrow is 50 times faster than Tortoise, and Tortoise is 20 times faster than Snail!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fortunately for Tortoise, Sparrow and Snail are very light to carry. Have you ever carried a heavy load for a long distance?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise carried on, with Snail and Sparrow perched on his shell. They looked and looked, but there was no sign of a house. The sun had inched lower in the sky."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does the story keep mentioning where the sun is? Where was the sun the last time it was mentioned?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mentioning the sun's position is a way for the story to let us know that time is passing and it is getting later in the day."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is getting later and the group is still not successful. What do you think happens next? WIll Tortoise give up?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A little later they passed Ladybird. \"Are you looking for something?\" asked Ladybird. \"Yes, Ladybird, I'm looking for my house. Have you seen it, by any chance?\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many names for ladybirds -- they are also called ladybugs, lady beetles, lady clocks, and lady flies. There are many thousands of types of ladybirds in the world!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although ladybugs do not fly for very long, they can briefly fly as fast as a sparrow!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ladybirds can have different numbers of spots. How many spots have you seen on a ladybird?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Ladybird said, \"No, I haven't, but I'll help you look!\" She hopped onto Tortoise's back and on he went, with Snail and Sparrow and Ladybird on his back.\n"
+"\n"
+"They looked and looked, but there was no sign of a house. A breeze started to blow."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise is lucky. A ladybird is another very light animal to carry."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is getting later in the day and a breeze is starting to blow. Hmm ... What do you think will happen with the weather?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's hard to see all of Tortoise's shell. What's your best estimate for how many yellow regions are in his shell? An estimate is an educated guess."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A little later they passed Mouse. He was making a garland of daisies. \"Are you looking for something?\" asked Mouse. \"Yes, Mouse, I'm looking for my house. Have you seen it, by any chance?\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Estimate and then count the number of daisies. Do the same for the number of dark spots on Tortoise."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more daisies or spots, and how many more are there?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What happened to all the animals Tortoise was carrying? Where do you think they went?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mouse said: \"No, I haven't, but I'll help you look!\" She hopped onto Tortoise's back. \"Wait, I can't leave my flowers behind.\" Tortoise waited. Mouse stretched and stretched and scooped up her daisies."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How much help have the other animals been? Do you think Tortoise could have done just as well alone?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which kinds of things do you like to do with others, and which do you like to do by yourself?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Estimate and count the leaves blowing around Tortoise. Are your estimates getting better?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise walked on, with Snail and Sparrow and Ladybird and Mouse on his back. They looked and looked, but there was no sign of a house. The wind swept leaves off the ground and swirled them around Tortoise's feet. He was tired. \"You lot are heavy,\" he sighed."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind is getting stronger. The weather is changing!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you notice the weather changing when a storm comes? The wind picks up and there are more clouds."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you enjoy the excitement of a storm coming in? Sometimes there is lightning and thunder! Do you enjoy the thunder, or is it scary, or perhaps some of both?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind got stronger. The sky turned dark. \"Oh, where is my house?\" asked Tortoise. Thunder roared in the hills. Lightning flashed in the distance. Drip-drip came the rain."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does Tortoise want to find his house so urgently now?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Usually, people look for shelter when a storm comes. Do you see anyplace that could give them shelter?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been caught out in an open area when a storm came up suddenly? If you don't mind getting wet, it can be fun to experience being in the storm!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind swirled and whipped. It blew Snail and Sparrow and Ladybird and Mouse right off Tortoise's back."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many parts of this picture that show how strongly the wind is blowing things around. Describe a few of them."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the rain coming down vertically (straight up and down), or is the wind blowing the rain diagonally?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The diagonal rain is all falling in the same direction. Parallel lines are lines that go in the same direction. Find some parallel lines around where you are."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And then came the hail, tip-tip-tip. Tortoise got such a fright he shrank into his shell. It was warm and cozy in there. \"Oh, here is my house!\" smiled Tortoise."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise solved his problem when he got distracted and stopped looking for the answer. Sometimes, when we focus too hard on something, it's hard to have new ideas and find an answer."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever stopped thinking about something, relaxed for a while, and then suddenly realized the answer? It can be very powerful to let a different part of your brain work on a problem!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise found his shell was a warm and cozy place, and that meant home to Tortoise! What does home mean to you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oh, here is Tortoise's house! said Snail and Sparrow and Ladybird and Mouse."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The hail coming down on Tortoise's shell probably made a lot of noise. Imagine the racket! Have you ever heard hail falling on a roof or hard surface?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is easy for Tortoise to carry his home wherever he goes. Is your home easy to carry around, or is it a structure that would be very hard to move?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A nice thing about a home, if it is big enough, is that it can be shared with friends. It looks like a happy time for our group of friends in the story!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oh, no!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu is scared of something. She is holding that book very tightly -- perhaps her fear has something to do with the book?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some things that scare you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you do when you are scared? Do you go to someone or maybe find a safe place?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu, it is time to go, calls Ma."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu is running away from her mother. Where do you think she will hide?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think is Lulu's favorite color? How can you tell?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Lulu walking or running? How can you tell?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Where is Lulu?\n"
+"\n"
+"Is she under the sofa?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu is hiding. Do you see Lulu?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the cushions and window panes."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more or less cushions than window panes? What is the difference -- how far apart are the two numbers?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is she behind the curtain?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That's a clever disguise for Lulu. Why does her clothing make her stand out?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of legs on the lamp table. Do you have any tables around you with that many legs?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The number of legs on the lamp table is one less than the number on the couch.  Three is one less than what number?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Where is Lulu?\n"
+"\n"
+"Is she next to the stove?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess where Lulu is hiding in the kitchen."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the cabinet knobs together."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at all the round things you can find in this kitchen -- there are quite a few."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is she in the cupboard?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Once again, Lulu picked a clever hiding place, but her colors don't fit in with the colors in the kitchen."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. Count the rectangles you see on this page."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A cylinder is a shape like a jar with straight sides. There are five cylinders on the top shelf (the bowl is not a cylinder). How many are there on Lulu's shelf? Is it the same number?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu, it is time to go! Where are you? calls Ma."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu blends in better this time. Do you see her?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So many things to count! Point at and count together the blocks on the floor, the dolls, and the drawings on the wall."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which group of things is the largest and which is the smallest?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There you are! says Ma.\n"
+"\n"
+"\"I do not want to gooo!\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu is still holding her book tightly. Do you think Lulu is afraid her mother will take it away?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu seems like she can be difficult when she doesn't get her way. How are you when you don't get your way?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu's room has many rectangles. How many can you count?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We have to go, says Ma.\n"
+"\n"
+"\"But I really like this one!\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu's book looks very big compared to Lulu. Do you think her book is really that big?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a favorite book or story that you like to look through or have told to you? Have you heard the story many times?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many kinds of stories. There are scary ones, funny ones, and some are adventures. Do you have a favorite type?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This building has many rectangles. Most buildings use rectangles a lot for their sides and windows."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Triangles are three-sided shapes, and pentagons are five-sided shapes. There is a famous building called the Pentagon because it is made in the shape of a pentagon."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you suppose buildings are not often made in the shape of a triangle or circle? Have you seen any buildings like that?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are they going? What does that big book on top of the building tell you about what this building is?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is going to happen to Lulu's book at this library?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a place where you can borrow books near where you live? Have you ever borrowed books there?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I really like this one!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She found a new book very quickly. It didn't take Lulu long to forget about her old book."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does Lulu feel about this new book? How can you tell?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The windows behind Lulu have four sides and are almost rectangles. How are they different from rectangles?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And this one!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu is a very enthusiastic person. Some people display their feelings a lot and others are quieter with them. Which are you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many books do you think she will want to take home?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a library near you? Do you like to check books out of the library?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"And this one! \n"
+"\n"
+"\"And this one!\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many Lulus are there in this picture? Why did the artist draw more than one?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To count as Lulu grabs books, you would keep adding \"one more\" each time she added a book. What is one more than zero? What is one more than one? You can count as high as you like this way!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Libraries are supposed to be quiet places. Do you think Lulu should be running around?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"See, you return books and borrow more, says Ma.\n"
+"\n"
+"\"YAY!\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why isn't Lulu sad about having to return her old book?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the books on the counter."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many books do you think Lulu is checking out? What is the largest number you know?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is Lulu now?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu checked out a lot of books! Can you count them all?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Lulu likes to look at and read books?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is my cat?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cat is very good at hiding. The dark black of this cat helps it hide."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of places would make it easy to see this cat?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you like to hide?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it under the bed?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat under the bed before the boy looked there?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This bed cover has lots of colorful stripes. Count how many different colors it has."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The walls in this room have a free form design that doesn't repeat. Have you  seen walls like this before?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it on top of the cupboard?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Instead of being on top of the cupboard, the cat is inside it."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cupboard has a beautiful design. How many colors does it have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about the shapes and patterns on the cupboard doors."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it behind the couch?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is very easy to see right now. Too bad the boy is looking in the wrong place."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the strong colors on this page: red, orange, yellow, green, blue, and brown."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors of the rainbow are missing from the room?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it next to the trash can?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat must be very fast and quiet -- he was next to where the boy is now."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the red bricks just below the window."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many straight lines in this picture. Point to some curved lines."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it inside the basket?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which part of the cat is not inside the SOAP box?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is inside the basket? Is that where the cat sleeps?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the wall does not line up with the squares of the floor."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it outside the house?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That poor boy is always looking in the wrong place."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the boy ever finds the cat, or will the boy give up?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the same wall pattern as on the last page, but the floor is a different color!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here it is!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like the cat is in a cupboard or under a sink."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat playing a game with the boy?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A long time ago, deep in the forests, King Leopard began to think about the future.\n"
+"\n"
+"He thought, \"I'm getting old and one day, I'm going to die. A wise ruler should pick a successor while still young and healthy.\"\n"
+"\n"
+"But how could King Leopard choose? He loved all the members of the animal kingdom the same!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you were going to pick a leader, which skills would you want them to have?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess what King Leopard will look for in a successor. Do you think he will look for the largest, the fastest, or the friendliest animal?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the tree trunks you can see. Can you count that high?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"King Leopard had an idea. He sent his messengers out into the forests. He told them to ask all the animals of the kingdom to come to the palace.\n"
+"\n"
+"He was going to have a big party and he was going to make an important announcement.\n"
+"\n"
+"Away the messengers ran, to all four corners of the forest."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many messengers does the King have? Are there enough to go to four corners? How many more does he need?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the forest really has four corners?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does the writer mean by the phrase \"all four corners of the forest?\" If forests don't have four corners, what shape are they?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"On the night of the party, all the animals were at the palace. They sang and they danced and had a great time.\n"
+"\n"
+"After the moon had risen above the trees, King Leopard came and stood in the middle of the clearing. The animals stopped their singing and dancing. They listened quietly as their king began to speak."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals can you count in this picture? Are there more animals or more trees?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals do you think are in the forest? 10, 20, 30, ... ? A forest usually has hundreds or even thousands of animals, so this will be a very large party!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a non-human animal dance?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of these animals would usually hunt some of these other animals. Can you think of some examples in this picture of animals who would hunt and others who would be hunted?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kind of contest would be good for picking a successor? Would you have a race to see who can run the fastest or longest?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would be good contests if you want to find the largest or the strongest?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "King Leopard held up a spear. He said, \"The first one among you who can throw this spear up into the sky and count to ten before it touches the ground, will be my successor.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Will this contest produce a good successor? Predict which animal is going to win."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the animal skins have stripes, some have spots, some are segmented, and some have just one color. Do you see any that involve more than two colors?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of these animals have horns, antlers, or tusks? Are there more of these animals than the other animals on this page?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As King Leopard finished talking, the animals heard a loud noise from behind them. They turned around and saw elephant stomping through the crowd to the front.\n"
+"\n"
+"\"Move out of my way. I'm the biggest, I should be king,\" said Elephant."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did the Elephant listen to the King? Was being the biggest important to the King?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When we have our own ideas about the way something should be, we sometimes don't listen to others. Can you think of a time when you were like the elephant and didn't listen well?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A lion is often called the King of the Jungle. Do you think a lion will win this contest and be the next king?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant took the spear and held it up with his trunk. He put his head back and threw the spear up into the sky. \"One! Two! Three! Oh!\" Elephant cried.\n"
+"\n"
+"The spear hit the ground on the count of three. Elephant was angry and started stomping. King Leopard told him, \"You've had your chance.\"\n"
+"\n"
+"And so Elephant had to leave."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does it help to get angry when you lose? How do you feel and what do you show to other people when you lose?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many four-legged animals in this picture. Name some animals that don't have four legs."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An odd number is a number that can't be split into two equal parts -- 7 is an example. Can you think of any animals that have an odd number of arms or legs?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After Elephant left, the animals started to talk excitedly amongst themselves. They were again disturbed by a loud noise coming from the back of the crowd.\n"
+"\n"
+"Boar came charging through saying, \"Get out of my way. Get out of my way. I'm going to be king. I've got the biggest muscles. I'm the strongest. I should be king.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Boar did not listen to the King either. Do you think the King wants someone who is the strongest?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think leaders need to be good listeners to help them know how to lead?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In this picture, there is only one of most of the animals. Can you spot the animals that there are more than one of?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Boar leaned back, clenched the spear, and threw it into the sky. \"One! Two! Three! Four! Five! Oh!\" he shouted.\n"
+"\n"
+"The spear dropped on the count of five. He was so angry. He fumed and threw clouds of dirt into the air.\n"
+"\n"
+"Leopard told him \"Boar, you only throw once and you've had your chance.\" Boar had to leave."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is an animal who gets angry when they lose likely to be a good leader?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So far, it looks like the King's contest is removing poor leaders. The contest is working! Who do you think will win?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories sometimes vary from reality. This story does that in many ways. A boar does not have any fingers! How would a boar be able to clench a spear and throw it? Have you seen other ways this story seems unreal?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After that, the animals started to say things like, \"This contest is difficult! Elephant couldn't do it, and he's really big. Boar couldn't do it either, and he's really strong. No one can win this contest!\"\n"
+"\n"
+"Right about then, they heard another sound coming from the back of the crowd. When the animals looked around, they couldn't believe their eyes."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is unusual about the body positions these animals are in?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of animals -- it is a bit tricky, but do your best. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can count all the legs by multiplying the number of animals by 4, skip counting by 4, or by doubling the number of eyes! Which do you like best? Why does this work?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They saw a big ape coming forward. As Ape moved, he chanted \"I can do it. I know I can do it. I can do it.\"\n"
+"\n"
+"Ape took the spear and he backed way up. He pulled his arm back, charged forward, leapt into the air and threw the spear into the sky.\n"
+"\n"
+"\"One! Two! Three! Four! Five! Six! Seven! Oh!\" cried Ape."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Ape start by saying \"I can do it?\" Having confidence often helps with success."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your attitude can make a big difference! Have you ever started to do something by saying to yourself that you wouldn't be able to do it -- do it help or did it get in your way?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How much higher was Ape able to count before the spear landed than Boar could count?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The spear hit the ground on the count of seven.\n"
+"\n"
+"Ape was upset. He was so angry that he started turning around, complaining and making all sorts of excuses.\n"
+"\n"
+"But King Leopard told him \"No, Ape, you only get one chance.\" And so the ape had to leave."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So far, no animal has done it. Make up an ending for this story. Either think of a way an animal can win, change the contest, or figure out what to do if no animal can win."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long does it take you to count to ten? Do you think you can throw something in the air long enough to count to ten?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use their facial expressions to describe what each of the animals in this picture is feeling."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Some of the animals turned and started to leave for home. As they were leaving, they saw a little antelope coming through the crowd. As she trotted, she said, \"Wait, wait, Let me try. I can do it. I can do it. Let me try.\"\n"
+"\n"
+"When the animals heard her words, they all started laughing."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the other animals laugh at the little antelope? Were they being nice?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What skill might the antelope have that the others did not?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen people laugh at someone and just assume that person would do poorly? How did that make the person feel?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "King Leopard jumped up and shouted angrily. \"Stop it! Do not make fun of Antelope! Who is to say that small animals can't do things that big animals can do? If Antelope wants to have a chance, she will be given the same chance that all the animals had. So stand back and let Antelope throw the spear.\""
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It sounds like there might be a surprise coming. What do you think will be surprising about Antelope?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A good leader takes care of everyone. Do you think King Leopard is a good leader?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of a good leader who you know. Describe some qualities that you think make that person a good leader."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Antelope bowed to her king, turned and took the spear in her mouth. She backed up, and with all the strength in her tiny body she started running. When she reached the center of the clearing, she jumped high.\n"
+"\n"
+"She took a deep breath, released the spear and shouted, \"Five and five is ten.\" The spear hit the ground."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The surprise is Math! Antelope used her intelligence and the power of math to win the contest!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other combinations of numbers that add up to ten. How many ways can you think of?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try some smaller numbers, such as three, four, or five, and find all the ways to make combinations of numbers add up to those totals. Do you notice any patterns that can save you time? Discovering interesting patterns is what math is all about!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The animals were quiet. They were confused. King Leopard explained, \"Yes, Antelope! Five plus five is another way to get to ten. There is more than one way to count to ten.\"\n"
+"\n"
+"The contest was not to find the biggest or the strongest animal. It was a contest to find the smartest animal! That is how Antelope became queen when leopard died."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Antelope listened carefully to the rules and found a new solution. Did Antelope cheat or was she clever?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If someone asked you to count to ten, would you count by 1's, 2's, 5's, or 10's? What would happen if you counted by 3's or 4's? Why don't those numbers come out evenly?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr ""
