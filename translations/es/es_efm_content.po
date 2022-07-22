@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-22 15:41\n"
+"PO-Revision-Date: 2022-07-22 16:43\n"
 
 #. type=template
 msgctxt "template"
@@ -38,6 +38,11 @@ msgstr ""
 msgctxt "template"
 msgid "Activity"
 msgstr "Actividad"
+
+#. type=template
+msgctxt "template"
+msgid "**Chapters**"
+msgstr "**Capítulos**"
 
 #. type=data_list
 msgctxt "data_list"
