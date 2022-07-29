@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-29 10:04\n"
+"PO-Revision-Date: 2022-07-29 14:14\n"
 
 #. type=template
 msgctxt "template"
@@ -55,6 +55,41 @@ msgstr ""
 "A medida que su niño/niña crezca y comprenda más cosas, pueden contar juntos o pedirle a su niño/niña que señale las cosas que usted describe.\n"
 "\n"
 "Hemos proporcionado libros de historias con fotos en formato PDFs que puedes descargar y leer con tu niño/a. Cada libro ha sugerido comentarios o preguntas que usted puede decir a su niño/a mientras lee la historia. Usa estas mismas interacciones matemáticas en tus actividades diarias con tu niño/a. Por ejemplo, mientras usted da un paseo puede señalar a las aves en un cable y contarlas juntos."
+
+#. type=template
+msgctxt "template"
+msgid "Pushing your child on the swings is a perfect opportunity to count with your child. With each push, count “1, 2, 3, 4, 5.”"
+msgstr "Mientras empuja a su niño/niña en los columpios tiene una oportunidad perfecta para contar con él/ella. Con cada empuje, cuente \"1, 2, 3, 4, 5.\""
+
+#. type=template
+msgctxt "template"
+msgid "After your child starts learning how to count to 5, counting down from 5 is also a good idea. Start or end at 0 sometimes."
+msgstr "Una vez que su niño/niña comience a aprender a contar hasta 5, puede ser una buena idea contar hacia atrás desde 5. A veces comience o termine en 0."
+
+#. type=template
+msgctxt "template"
+msgid "There are many things to count or describe when you shop in a store."
+msgstr "Hay muchos objetos que pueden contarse o describirse cuando se va de compras."
+
+#. type=template
+msgctxt "template"
+msgid "Count the apples you buy or the people in line in front of you. Point out the shapes of fruit or pictures on food boxes."
+msgstr "Cuente las manzanas que compra o las personas en la fila frente a usted. Señale las formas de las frutas o de los dibujos en las cajas de comida."
+
+#. type=template
+msgctxt "template"
+msgid "While you are traveling, there are many opportunities to talk mathematically with your child."
+msgstr "Al viajar aparecen muchas oportunidades para hablar matemáticamente con su niño/niña."
+
+#. type=template
+msgctxt "template"
+msgid "For example, if you see a somewhat unusual red car, you can point that out and count together other red cars that are like it. Similarly, you might see a big truck and start counting those. You might see a circle in a design in a building and ask your child to point out other circles they see."
+msgstr "Por ejemplo, si ve un automóvil rojo algo inusual, puede aprovechar para contar cuántos automóviles rojos ven similares. Del mismo modo, si ven un camión grande pueden empezar a contar cuántos ven. Si ve, por ejemplo, un círculo en un logotipo de un edificio puede pedirle a su niño/niña que señale otros círculos."
+
+#. type=template
+msgctxt "template"
+msgid "There is no end to the shapes, colors, and counting that you can find and talk about once you get used to looking for them."
+msgstr "En realidad, son infinitas las formas, los colores y el conteo que pueden llevarse a cabo cuando uno se acostumbra a buscarlos."
 
 #. type=template
 msgctxt "template"
@@ -141,6 +176,26 @@ msgstr "MATEMÁTICAS EN VOZ ALTA – IDEAS GENERALES"
 msgctxt "data_list"
 msgid "INTERACTIVE READ OUT LOUD"
 msgstr "LECTURA INTERACTIVA EN VOZ ALTA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – SWINGS"
+msgstr "MATEMÁTICAS EN VOZ ALTA – COLUMPIOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – SHOPPING"
+msgstr "MATEMÁTICAS EN VOZ ALTA — COMPRAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – TRAVELING"
+msgstr "MATEMÁTICAS EN VOZ ALTA — VIAJANDO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Math Out Loud"
+msgstr "Matemáticas en voz alta"
 
 #. type=data_list
 msgctxt "data_list"
