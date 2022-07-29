@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-29 14:14\n"
+"PO-Revision-Date: 2022-07-29 15:26\n"
 
 #. type=template
 msgctxt "template"
@@ -90,6 +90,66 @@ msgstr "Por ejemplo, si ve un automóvil rojo algo inusual, puede aprovechar par
 msgctxt "template"
 msgid "There is no end to the shapes, colors, and counting that you can find and talk about once you get used to looking for them."
 msgstr "En realidad, son infinitas las formas, los colores y el conteo que pueden llevarse a cabo cuando uno se acostumbra a buscarlos."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Help your child explore the physical relationships between shapes by providing an environment rich in opportunities.\n"
+"\n"
+"Cut holes (square, circle, triangle) in a box and watch your child fit toys through them."
+msgstr ""
+"Ayude a su niño/niña a explorar las relaciones físicas entre las formas brindándole un ambiente rico en oportunidades.\n"
+"\n"
+"Haga agujeros (cuadrados, círculos, triángulos) en una caja y observe cómo su niño/niña mete juguetes a través de ellos."
+
+#. type=template
+msgctxt "template"
+msgid "Add different colors to outline the holes (red triangle, blue circle, yellow square) and name the shape of the hole when your child puts the toy through."
+msgstr "Agregue diferentes colores para delinear los agujeros (triángulo rojo, círculo azul, cuadrado amarillo) y nombre la forma del agujero cuando su niño pase el juguete."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Similar to I Spy, play this game anywhere!\n"
+"Player 1: “I’m thinking of a large blue circle.”\n"
+"Player 2: “I see it! It’s the clock!”"
+msgstr ""
+"Similar a Veo, Veo, Qué Ves, ¡juega a este juego en cualquier lugar!\n"
+"Jugador 1: \"Estoy pensando en un gran círculo azul\".\n"
+"Jugador 2: “¡Lo veo! ¡Es el reloj! \""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Take turns with your child observing and finding.\n"
+"\n"
+"Start with simple shapes, add size and color, and then add shape inside of shape or other arrangements."
+msgstr ""
+"Turnense con su niño/niña para observar y encontrar.\n"
+"\n"
+"Comience con formas simples, agregue tamaño y color, y luego agregue forma dentro de la forma u otros arreglos."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Make a puzzle for your child to play with. Have your child paint or draw on a piece of cardboard or stiff paper.\n"
+"\n"
+"Cut the paper into large pieces. Jigsaw puzzle!"
+msgstr ""
+"Haga un rompecabezas para que su niño/niña juegue. Haga que su niño/niña pinte o dibuje en un trozo de cartón o papel rígido.\n"
+"\n"
+"Corta el papel en trozos grandes. ¡Rompecabezas!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"With older children, talk about patterns in the tiling that repeat. Also, talk about symmetries in the overall design. Some designs have one side that is the reflection of the other side, and that is called mirror symmetry. \n"
+"\n"
+"After your child has made a few designs, start pointing out patterns in the tiled floors and buildings that you see."
+msgstr ""
+"Con los niños mayores, hable sobre los patrones en el mosaico que se repiten. Además, hable sobre las simetrías en el diseño general. Algunos diseños tienen un lado que es el reflejo del otro lado, y eso se llama simetría de espejo.\n"
+"\n"
+"Después de que su niño/niña haya hecho algunos diseños, comience a señalar patrones en los pisos de baldosas y los edificios que ve."
 
 #. type=template
 msgctxt "template"
@@ -199,6 +259,26 @@ msgstr "Matemáticas en voz alta"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SHAPES INSIDE SHAPES"
+msgstr "FORMAS DENTRO DE FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES HUNT"
+msgstr "BÚSQUEDA DE FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATE A JIGSAW PUZZLE"
+msgstr "CREA UN ROMPECABEZAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COLORED TILINGS"
+msgstr "AZULEJOS DE COLORES"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Chapter 2 Introduction"
 msgstr "Capítulo 2 Introducción"
 
@@ -206,6 +286,11 @@ msgstr "Capítulo 2 Introducción"
 msgctxt "data_list"
 msgid "Chapter 3 Introduction"
 msgstr "Capítulo 3 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes"
+msgstr "Formas"
 
 #. type=data_list
 msgctxt "data_list"
@@ -221,6 +306,11 @@ msgstr "Capítulo 5 Introducción"
 msgctxt "data_list"
 msgid "Introduction"
 msgstr "Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "Formas dentro de formas"
 
 #. type=data_list
 msgctxt "data_list"
