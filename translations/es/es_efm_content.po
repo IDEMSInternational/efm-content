@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-27 16:37\n"
+"PO-Revision-Date: 2022-07-29 10:04\n"
 
 #. type=template
 msgctxt "template"
@@ -99,6 +99,16 @@ msgstr "Actividad"
 
 #. type=template
 msgctxt "template"
+msgid "Introduction"
+msgstr "Introducción"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "Introducciones"
+
+#. type=template
+msgctxt "template"
 msgid "**Chapters**"
 msgstr "**Capítulos**"
 
@@ -119,6 +129,11 @@ msgstr "Capítulo 1 — ¡Puedo escucharte!"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Chapter 1 Introduction"
+msgstr "Capítulo 1 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MATH OUT LOUD – GENERAL"
 msgstr "MATEMÁTICAS EN VOZ ALTA – IDEAS GENERALES"
 
@@ -126,6 +141,31 @@ msgstr "MATEMÁTICAS EN VOZ ALTA – IDEAS GENERALES"
 msgctxt "data_list"
 msgid "INTERACTIVE READ OUT LOUD"
 msgstr "LECTURA INTERACTIVA EN VOZ ALTA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chapter 2 Introduction"
+msgstr "Capítulo 2 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chapter 3 Introduction"
+msgstr "Capítulo 3 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chapter 4 Introduction"
+msgstr "Capítulo 4 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chapter 5 Introduction"
+msgstr "Capítulo 5 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduction"
+msgstr "Introducción"
 
 #. type=data_list
 msgctxt "data_list"
