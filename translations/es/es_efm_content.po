@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-29 15:26\n"
+"PO-Revision-Date: 2022-08-01 18:12\n"
 
 #. type=template
 msgctxt "template"
@@ -276,6 +276,11 @@ msgstr "CREA UN ROMPECABEZAS"
 msgctxt "data_list"
 msgid "COLORED TILINGS"
 msgstr "AZULEJOS DE COLORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Descriptions"
+msgstr "Descripciones de objetos"
 
 #. type=data_list
 msgctxt "data_list"
