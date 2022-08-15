@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-15 17:06\n"
+"PO-Revision-Date: 2022-08-15 18:09\n"
 
 #. type=template
 msgctxt "template"
@@ -438,13 +438,61 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"* Counting forward and backward to 10. Don’t ignore backward counting – it is important for understanding number relationships as well as being an aid for subtraction.\n"
+"* Include 0 in your counting sometimes. Including 0 now makes it a familiar number and keeps it from feeling exotic.\n"
+"* Reasoning with properties and numbers. Understanding properties and reasoning with them is a key part of developing mathematical ability.\n"
+"* Deepening understanding of shapes, especially circles, triangles, and squares. Keep using descriptive shape names as your child interacts with them.\n"
+"* Comparing and ordering numbers. How quantities compare and interact with each other is central to understanding them.\n"
+"* One more, one less, two more, two less. These concepts are relatively easy to pick up, and they will form the basis for addition and subtraction.\n"
+"* Learning to use manipulatives, especially fingers, to understand adding and subtracting.\n"
+"* Adding and subtracting 0.\n"
+"* Subtracting a number from itself."
+msgstr ""
+"* Contar hacia adelante y hacia atrás hasta 10. No ignore el conteo hacia atrás: es importante para comprender las relaciones numéricas y también es una ayuda para la resta.\n"
+"* Incluya 0 en su conteo a veces. Incluir 0 ahora lo convierte en un número familiar y evita que se sienta raro.\n"
+"* Razonamiento con propiedades y números. Comprender las propiedades y razonar con ellas es una parte clave del desarrollo de la capacidad matemática.\n"
+"* Profundizar la comprensión de las formas, especialmente círculos, triángulos y cuadrados. Siga usando nombres de formas descriptivas a medida que su niño/niña interactúe con ellos.\n"
+"* Comparar y ordenar números. La forma en que las cantidades se comparan e interactúan entre sí es fundamental para comprenderlas.\n"
+"* Uno más, uno menos, dos más, dos menos. Estos conceptos son relativamente fáciles de aprender y formarán la base para la suma y la resta.\n"
+"* Aprender a usar manipuladores, especialmente los dedos, para comprender la suma y la resta.\n"
+"* Sumar y restar 0.\n"
+"* Restar un número de sí mismo."
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order. The easiest versions have numbers that go from 1 to the number of islands."
+msgstr "Estos rompecabezas tienen islas numeradas (círculos) conectados por puentes (líneas) dibujados en papel. El desafío es encontrar un camino que conecte las islas en orden. Las versiones más sencillas tienen números que van del 1 al número de islas."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
 #. type=template
 msgctxt "template"
+msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
+msgstr "Completa dibujos divertidos conectando puntos numerados. Una forma es tomar un dibujo simple, digamos de una casa, eliminar algunas líneas rectas y reemplazarlas con puntos numerados, que cuando se conectan en orden recrean el dibujo original."
+
+#. type=template
+msgctxt "template"
+msgid "Island Hopping – Counting"
+msgstr "Saltando Islas – Contando"
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "Estos rompecabezas tienen islas numeradas (círculos) conectados por puentes (líneas) dibujados en papel. El desafío es encontrar un camino que conecte las islas en orden."
+
+#. type=template
+msgctxt "template"
 msgid "Activity"
 msgstr "Actividad"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzle"
+msgstr "Rompecabezas"
 
 #. type=template
 msgctxt "template"
@@ -465,6 +513,11 @@ msgstr "Introducciones"
 msgctxt "template"
 msgid "Games"
 msgstr "Juegos"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "Rompecabezas"
 
 #. type=template
 msgctxt "template"
@@ -608,6 +661,11 @@ msgstr "EN LA OTRA MANO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "HOPSCOTCH"
+msgstr "RAYUELA"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Numbers up to 5"
 msgstr "Números hasta 5"
 
@@ -640,6 +698,21 @@ msgstr "Capítulo 2 – ¡Puedo contar hasta 5!"
 msgctxt "data_list"
 msgid "Chapter 2 Introduction"
 msgstr "Capítulo 2 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CONNECT THE DOTS"
+msgstr "CONECTA LOS PUNTOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COUNTING"
+msgstr "SALTANDO ISLAS – CONTANDO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 10"
+msgstr "Contar hasta 10"
 
 #. type=data_list
 msgctxt "data_list"
@@ -678,8 +751,23 @@ msgstr "Uno de estos no es como los demás"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "Saltando Islas – Contando"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connect The Dots"
+msgstr "Conecta Los Puntos"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Activity"
 msgstr "Actividad"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle"
+msgstr "Rompecabezas"
 
 #. type=data_list
 msgctxt "data_list"
