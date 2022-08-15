@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-15 18:09\n"
+"PO-Revision-Date: 2022-08-15 19:18\n"
 
 #. type=template
 msgctxt "template"
@@ -427,6 +427,16 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Place all the dominoes, also known as bones, face up between the players. For a turn, a player rolls two dice. If the domino that matches the two dice is available, the player claims it and moves it to their own pile — an alternative rule is that, even if a domino has already been claimed by one player, it can be stolen by another player."
+msgstr "Coloque todas las fichas de dominó, también conocidas como huesos, boca arriba entre los jugadores. Por turno, un jugador lanza dos dados. Si el dominó que coincide con los dos dados está disponible, el jugador lo reclama y lo mueve a su propia pila — una regla alternativa es que, incluso si un jugador ya ha reclamado un dominó, otro jugador puede robarlo."
+
+#. type=template
+msgctxt "template"
+msgid "For two players, the first player to claim ten dominoes wins. For more than two players, the first player with six dominoes wins."
+msgstr "Para dos jugadores, el primer jugador en reclamar diez dominós gana. Para más de dos jugadores, el primer jugador con seis dominó gana."
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
@@ -466,6 +476,87 @@ msgstr "Estos rompecabezas tienen islas numeradas (círculos) conectados por pue
 
 #. type=template
 msgctxt "template"
+msgid ""
+"To add challenge, leave out some of the numbers so your child figures out what is missing and where it belongs. Also, instead of starting at 1, design the puzzles to start at 0 or other numbers (usually noting this at the top of the puzzle).\n"
+"\n"
+"Make this into a physical puzzle by placing pieces of paper with consecutive numbers on the floor in some twisty path. Your child can solve this puzzle by walking along the path from the smallest to the largest number. To add challenge, replace some of the numbered pieces with blank ones. Also, challenge your child to start at the largest number and go downward."
+msgstr ""
+"Para agregar desafío, omita algunos de los números para que su niño/niña descubra lo que falta y a dónde pertenece. Además, en lugar de comenzar en 1, diseñe los rompecabezas para que comiencen en 0 u otros números (por lo general, notando esto en la parte superior del rompecabezas).\n"
+"\n"
+"Convierta esto en un rompecabezas físico colocando trozos de papel con números consecutivos en el piso en un camino sinuoso. Su niño/niña puede resolver este acertijo caminando por el camino desde el número más pequeño hasta el más grande. Para agregar desafío, reemplace algunas de las piezas numeradas con piezas en blanco. Además, desafíe a su niño/niña a que comience con el número más grande y vaya hacia abajo."
+
+#. type=template
+msgctxt "template"
+msgid "In addition to putting a number line on a piece of paper on a wall, create a number line using a string. Tie or clip a section of string between two objects. Use paper clips to attach sliding Number Cards from 0 to 10 along the string in order."
+msgstr "Además de poner una recta numérica en una hoja de papel en la pared, crea una recta numérica usando una cuerda. Ata o sujeta una sección de cuerda entre dos objetos. Utilice sujetapapeles para sujetar las Tarjetas Numéricas deslizantes del 0 al 10 a lo largo de la cuerda en orden."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Here are some things you can do with this. You and your child will probably discover many more.\n"
+"* Switch two numbers and have your child find the mistake.\n"
+"* Leave out a number and have your child find which one is missing.\n"
+"* Practice adding. For example, to do 4 + 2, slide over the first 4 numbers and then slide over the next 2.\n"
+"* Practice subtracting. To do 6 - 2, slide over to the left the first 6 cards and then slide 2 of those back to the right."
+msgstr ""
+"Aquí hay algunas cosas que puede hacer con esto. Usted y su niño/niña probablemente descubrirán muchos más.\n"
+"* Cambie dos números y haga que su niño/niña encuentre el error.\n"
+"* Quite un número y pídale a su niño/niña que encuentre cuál falta.\n"
+"* Practica sumar. Por ejemplo, para hacer 4 + 2, deslice sobre los primeros 4 números y luego sobre los siguientes 2.\n"
+"* Practique la resta. Para hacer 6 - 2, deslice hacia la izquierda las primeras 6 cartas y luego deslice 2 de ellas hacia la derecha."
+
+#. type=template
+msgctxt "template"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami. Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes."
+msgstr "Cree diseños doblando una hoja de papel y cortando el papel mientras está doblado. Esto se llama Kirigami. Doblar el papel una vez y cortarlo crea un diseño con un lado como la imagen especular del otro. Experimente recortando caras, lámparas o formas geométricas."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"If your child makes two intersecting folds, cutting this paper creates designs that are mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"\n"
+"Experiment with various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example, and then doing two more folds that split the folded paper into thirds.\n"
+" \n"
+"Make a game of this by working backwards - draw a symmetrical shape on a piece of paper and challenge your child to cut a folded piece of paper to create that shape."
+msgstr ""
+"Si su niño/niña hace dos pliegues que se cruzan, cortar este papel crea diseños que son imágenes de espejo en dos direcciones. Esto facilita la creación de diseños como flores.\n"
+"\n"
+"Experimente con varios pliegues y cortes. Cree diseños de copos de nieve comenzando con los mismos dos pliegues que en el último ejemplo y luego haciendo dos pliegues más que dividan el papel doblado en tercios. \n"
+"\n"
+"Haga un juego de esto trabajando al revés - dibuje una forma simétrica en una hoja de papel y desafíe a su niño/niña a cortar una hoja de papel doblada para crear esa forma."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Cut out large shapes from big pieces of paper (use color paper if you have it) and place the shapes on the floor. At first, use simple shapes such as a triangle, a rectangle, a square, a pentagon, a hexagon, and an octagon. You can find patterns for these online or in the EFM Printables file. To create more running around, include more than one of each shape. \n"
+"\n"
+"As your child gets better at this, include variations of these shapes - include a right triangle, an obtuse triangle, an acute triangle, a kite, a parallelogram (diamond), and some more unusual shapes."
+msgstr ""
+"Recorta formas grandes de trozos grandes de papel (usa papel de color si lo tienes) y coloca las formas en el suelo. Al principio, use formas simples como un triángulo, un rectángulo, un cuadrado, un pentágono, un hexágono y un octágono. Puede encontrar patrones para estos en el internet o en el archivo EFM Reproducibles. Para crear más movimiento, incluya más de una de cada forma. \n"
+"\n"
+"A medida que su niño/niña mejore en esto, incluya variaciones de estas formas - incluya un triángulo rectángulo, un triángulo obtuso, un triángulo agudo, una cometa, un paralelogramo (diamante) y algunas formas más inusuales."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Give  your child some shape information and challenge them to run to the shape, or shapes, that satisfy that information. For a very young child, show them a drawing and challenge them to find the matching shape on the floor, and maybe name it when they do. For a slightly older child, you could name the shape and challenge them to find it.\n"
+"\n"
+"Add aspects to this by asking for shapes all of whose sides are the same length, or all of whose angles are the same (or all different), or whose opposite sides (or angles) are the same size. \n"
+"\n"
+"As your child gets experienced, playfully mix in some impossible requests such as a triangle with two right angles or a quadrilateral with exactly three right angles.\n"
+"\n"
+"One useful variation in a lot of activities is to reverse your roles — have your child make up questions and you find the shapes. Make a \"mistake\" sometimes and have your child explain to you what you did wrong."
+msgstr ""
+"Déle a su niño/niña información sobre la forma y desafíe a que corra hacia la forma, o formas, que satisfagan esa información. Para un niño/niña muy pequeño, enséñeles un dibujo y desafíe a encontrar la forma correspondiente en el piso, y tal vez nombrarla cuando lo hagan. Para un niño/niña un poco mayor, puede nombrar la forma y desafiarlos a encontrarla.\n"
+"\n"
+"Agregue aspectos a esto preguntando por formas cuyos lados tengan la misma longitud, o cuyos ángulos sean todos iguales (o todos diferentes), o cuyos lados (o ángulos) opuestos tengan el mismo tamaño. \n"
+"\n"
+"A medida que su niño/niña vaya adquiriendo experiencia, mezcle juguetonamente algunas peticiones imposibles, como un triángulo con dos ángulos rectos o un cuadrilátero con exactamente tres ángulos rectos.\n"
+"\n"
+"Una variación útil en muchas actividades es invertir sus roles — haga que su niño/niña invente preguntas y usted encuentre las formas. Cometa un \"error\" a veces y haz que su niño/niña le explique lo que hizo mal."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -483,6 +574,16 @@ msgstr "Saltando Islas – Contando"
 msgctxt "template"
 msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
 msgstr "Estos rompecabezas tienen islas numeradas (círculos) conectados por puentes (líneas) dibujados en papel. El desafío es encontrar un camino que conecte las islas en orden."
+
+#. type=template
+msgctxt "template"
+msgid "Cutting Symmetric Shapes"
+msgstr "Corte de Formas Simétricas"
+
+#. type=template
+msgctxt "template"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "Cree diseños doblando una hoja de papel y cortando el papel mientras está doblado. Esto se llama Kirigami."
 
 #. type=template
 msgctxt "template"
@@ -711,8 +812,33 @@ msgstr "SALTANDO ISLAS – CONTANDO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "STRING NUMBER LINE"
+msgstr "LÍNEA DE NÚMERO DE CADENA"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Counting up to 10"
 msgstr "Contar hasta 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "CORTE DE FORMAS SIMÉTRICAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES ON THE FLOOR"
+msgstr "FORMAS EN EL SUELO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEALING BONES"
+msgstr "ROBO DE HUESOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games With Dominoes"
+msgstr "Juegos Con Dominó"
 
 #. type=data_list
 msgctxt "data_list"
@@ -753,6 +879,11 @@ msgstr "Uno de estos no es como los demás"
 msgctxt "data_list"
 msgid "Island Hopping – Counting"
 msgstr "Saltando Islas – Contando"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "Corte de Formas Simétricas"
 
 #. type=data_list
 msgctxt "data_list"
