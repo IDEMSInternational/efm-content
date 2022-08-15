@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-01 20:18\n"
+"PO-Revision-Date: 2022-08-15 17:06\n"
 
 #. type=template
 msgctxt "template"
@@ -427,6 +427,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
+"\n"
+"Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
+msgstr ""
+"¡Guau! ¡Su niño/niña ahora puede contar hasta 5! Estos números no solo se repiten en orden como un loro – sino que representan cantidades que su niño/niña está adquiriendo. Está listo/a para asignar propiedades a los objetos que describe y de los que habla. ¡Piense en lo lejos que ha llegado su niño/niña en la comprensión del mundo!\n"
+"\n"
+"Su niño/niña se está volviendo más verbal y más capaz de razonar y explicar. Puedes discutir cosas matemáticas y esto te permite comenzar a jugar y hacer rompecabezas juntos."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -619,6 +630,11 @@ msgstr "UNO DE ESTOS NO ES COMO LOS DEMÁS"
 msgctxt "data_list"
 msgid "Object Properties"
 msgstr "Propiedades de objetos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHAPTER 2 – I CAN COUNT TO 5!"
+msgstr "Capítulo 2 – ¡Puedo contar hasta 5!"
 
 #. type=data_list
 msgctxt "data_list"
