@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-16 17:39\n"
+"PO-Revision-Date: 2022-08-16 18:39\n"
 
 #. type=template
 msgctxt "template"
@@ -554,6 +554,74 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
+"Each Shape Card has three properties:\n"
+"\n"
+"*shape (circle, triangle, or square)\n"
+"*count (one, two, or three)\n"
+"*color (red, blue, or black)\n"
+"\n"
+"Deal five cards to each player, with the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card."
+msgstr ""
+"Cada Carta de Forma tiene tres propiedades:\n"
+"\n"
+"*forma (círculo, triángulo o cuadrado)\n"
+"*cuenta (uno, dos o tres)\n"
+"*color (rojo, azul o negro)\n"
+"\n"
+"Distribuya cinco cartas a cada jugador, con las cartas restantes boca abajo en una pila para robar. Gire boca arriba la carta superior de la pila de robo para comenzar una nueva pila. Túrnense para colocar una carta en la pila; la nueva carta debe coincidir con dos características de la carta superior."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"If you cannot play a card on your turn, draw a card from the draw pile and end your turn. \n"
+"The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins. \n"
+"\n"
+"Simplify the game by only requiring a match of one property with the top card. Another variation is to allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"Si no puede jugar una carta en su turno, robe una carta de la pila de robo y finalice su turno. \n"
+"La primera persona que se quede sin cartas es la ganadora. Si la pila de robo se agota, el jugador con la menor cantidad de cartas en su mano gana.\n"
+"\n"
+"Simplifique el juego requiriendo solo una coincidencia de una propiedad con la carta superior. Otra variación es permitir que un jugador coloque más de una carta en un turno siempre que cada carta sea un juego legal sobre la carta anterior."
+
+#. type=template
+msgctxt "template"
+msgid "Choose one of the Shape Cards - this is your starting card. Create a sequence of 4 to 8 cards that can legally be played in sequence on that starting card – each card must have two properties in common with the previous card."
+msgstr "Elige una de las Cartas de Formas: esta es tu carta inicial. Crea una secuencia de 4 a 8 cartas que se puedan jugar legalmente en secuencia en esa carta inicial; cada carta debe tener dos propiedades en común con la carta anterior."
+
+#. type=template
+msgctxt "template"
+msgid "When you’re done, separate the starting card and shuffle the other cards. The challenge is to take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr "Cuando hayas terminado, separa la carta inicial y baraja las otras cartas. El desafío consiste en tomar las cartas barajadas y colocarlas en una serie de movimientos legales en la carta inicial."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Draw a tic-tac-toe grid big enough to hold a Shape Card in each square. Choose 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are either red or blue. Place these 8 cards around the outside of the board.\n"
+"\n"
+"Players take turns picking an unused card for their opponent to place on the board. The first player to place a card that completes 3 cards in a row which have at least one property in common wins!  If all the cards are played without a winner, it's a tie game. Here are some examples of ways to win:"
+msgstr ""
+"Dibuja una cuadrícula de tic-tac-toe lo suficientemente grande como para contener una Carta de Forma en cada cuadrado. Elija 8 de las Tarjetas de Forma que tengan dos de cada propiedad. Por ejemplo, elija las 8 cartas que son un triángulo o un cuadrado, tienen una o dos figuras y son rojas o azules. Coloque estas 8 cartas alrededor del exterior del tablero.\n"
+"\n"
+"Los jugadores se turnan para elegir una carta sin usar para que su oponente la coloque en el tablero. ¡El primer jugador en colocar una carta que complete 3 cartas seguidas que tengan al menos una propiedad en común gana! Si todas las cartas se juegan sin un ganador, es un juego de empate. Aquí hay algunos ejemplos de formas de ganar:"
+
+#. type=template
+msgctxt "template"
+msgid "Simplify the game and add an element of luck by placing the cards face down and having each player play the top card."
+msgstr "Simplifique el juego y agregue un elemento de suerte colocando las cartas boca abajo y haciendo que cada jugador juegue la carta superior."
+
+#. type=template
+msgctxt "template"
+msgid "Remove the cards from two, four, or six Number Decks outside your child’s comfort range. Split the cards evenly in two piles face down. Flip over the top cards and the player with the larger card keeps both cards. If the cards match, flip the next two cards and the winner gets all four cards. The player with the most cards after one or more runs through all the cards is the winner."
+msgstr "Retire las cartas de dos, cuatro o seis barajas de números fuera del rango de comodidad de su niño/niña. Divida las cartas de manera uniforme en dos pilas boca abajo. Da la vuelta a las cartas superiores y el jugador con la carta más grande se queda con ambas cartas. Si las cartas coinciden, voltee las siguientes dos cartas y el ganador obtendrá las cuatro cartas. El jugador con más cartas después de una o más vueltas por todas las cartas es el ganador."
+
+#. type=template
+msgctxt "template"
+msgid "To change things up, sometimes play that the smaller of the two cards wins."
+msgstr "Para cambiar las cosas, a veces juegue que gana la más pequeña de las dos cartas."
+
+#. type=template
+msgctxt "template"
+msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
 "Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
@@ -1008,8 +1076,28 @@ msgstr "JUEGO DE PAREAR CARACTERÍSTICAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "ROMPECABEZAS DE JUEGO DE CARACTERÍSTICAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "TRILLIZO"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Shape Cards Games"
 msgstr "Juegos de Cartas de Formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – SINGLE-DIGIT COMPARING"
+msgstr "GUERRA – COMPARACIÓN DE UN SOLO DÍGITO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "Números Más Grandes y Más Pequeños"
 
 #. type=data_list
 msgctxt "data_list"
