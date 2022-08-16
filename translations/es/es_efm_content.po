@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-16 16:40\n"
+"PO-Revision-Date: 2022-08-16 17:39\n"
 
 #. type=template
 msgctxt "template"
@@ -496,6 +496,63 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "When a player has a pair of matching cards, those cards are placed in a “book” in front of them. The game is over after all the cards have been put into books. The player with the most books wins."
+msgstr "Cuando un jugador tiene un par de cartas iguales, esas cartas se colocan en un \"libro\" frente a él. El juego termina después de poner todas las cartas en los libros. El jugador con más libros gana."
+
+#. type=template
+msgctxt "template"
+msgid "Play this with Number Cards, or if there are many players, with numbered regular playing cards. Reserve two suits worth of cards for a draw pile, and divide the remaining cards among the players. Each player will randomly select 16 cards to place in a 4 by 4 grid face up in front of them."
+msgstr "Juegue con cartas numéricas, o si hay muchos jugadores, con cartas regulares numeradas. Reserve dos palos de cartas para una pila de robo y divida las cartas restantes entre los jugadores. Cada jugador seleccionará al azar 16 cartas para colocar en una cuadrícula de 4 por 4 boca arriba frente a ellos."
+
+#. type=template
+msgctxt "template"
+msgid "Cards are then drawn from the draw pile and the number is called out. Each player may turn over one card from their grid that matches the number drawn. If a player has more than one card that matches, the player must choose which one to turn over. The first player to get four cards flipped over in a row horizontally, vertically, or diagonally wins the game and calls out “Bingo!”"
+msgstr "A continuación, se extraen cartas de la pila de cartas y se dice el número. Cada jugador puede dar la vuelta a una carta de su cuadrícula que coincida con el número extraído. Si un jugador tiene más de una carta que coincide, el jugador debe elegir cuál dar la vuelta. El primer jugador que obtenga cuatro cartas volteadas en una fila horizontal, vertical o diagonalmente gana el juego y grita \"¡Bingo!\""
+
+#. type=template
+msgctxt "template"
+msgid "Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down. The players take turns placing a single card on the stack in the middle between them. If the card is one more, same, or one less than the previous card, the first player to yell out the relationship claims the whole pile."
+msgstr "Cree una pila de Cartas Numéricas con una variedad de cantidades con las que su niño/niña se sienta cómodo. Divida las cartas equitativamente entre los dos jugadores y colóquelas boca abajo. Los jugadores se turnan para colocar una sola carta en la pila en el medio entre ellos. Si la carta es una más, la misma o una menos que la carta anterior, el primer jugador que grite la relación puede reclamar toda la pila."
+
+#. type=template
+msgctxt "template"
+msgid "This can be extended to include the relationships of two more or two less as options. Another variation is to use a target sum, say 10 – yell out whenever the top two cards add up to the target."
+msgstr "Esto se puede ampliar para incluir las relaciones de dos más o dos menos como opciones. Otra variación es usar una suma objetivo, digamos 10 – gritar cada vez que las dos cartas superiores se suman al objetivo."
+
+#. type=template
+msgctxt "template"
+msgid "Have your child count a small number of objects and put them in a box. Next, ask your child to put up the same number of fingers as there are objects in the box."
+msgstr "Haga que su niño/niña cuente una pequeña cantidad de objetos y los ponga en una caja. A continuación, pídale a su niño/niña que levante la misma cantidad de dedos que objetos en la caja."
+
+#. type=template
+msgctxt "template"
+msgid "Finally, show your child that you are adding (or removing) one or two objects to the box, and then ask how many objects there are in the box. When this becomes too easy, you can add or remove more than two objects."
+msgstr "Finalmente, muéstrele a su niño/niña que está agregando (o quitando) uno o dos objetos a la caja, y luego pregúntele cuántos objetos hay en la caja. Cuando esto sea demasiado fácil, puede agregar o eliminar más de dos objetos."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. Once children learn to play this verbally, it is a great travel game.\n"
+"\n"
+"For younger children, use  an actual pile of objects to play with instead of writing anything down. In this case, a player would add one or two objects to the pile on their turn until the target quantity is reached. Similarly, a number line to the target number could be used and a marker could be advanced along the line one or two spaces during each move."
+msgstr ""
+"Se elige un número objetivo, digamos 10. Deje que su niño/niña elija si va primero o segundo. El total comienza en 0. Durante un turno, una persona elige sumar 1 o 2 al total actual. La primera persona en alcanzar el objetivo gana. Una vez que los niños aprenden a jugar esto verbalmente, es un gran juego de viaje.\n"
+"\n"
+"Para los niños más pequeños, use una pila real de objetos para jugar en lugar de escribir algo. En este caso, un jugador agregaría uno o dos objetos a la pila en su turno hasta alcanzar la cantidad objetivo. De manera similar, se podría usar una línea numérica hasta el número objetivo y se podría avanzar un marcador a lo largo de la línea uno o dos espacios durante cada movimiento."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"There are many variations to this popular game. You can use larger target numbers as your child’s skills improve. One variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"Este juego también se puede jugar con resta. En esta versión, el total inicial comienza en el objetivo, que en este ejemplo es 10. En un turno dado, el jugador elige si restar 1 o 2. La primera persona en llegar a 0 gana.\n"
+"\n"
+"Hay muchas variaciones de este juego popular. Puede utilizar números más grandes a medida que mejoran las habilidades de su niño/niña. Una variación es que en lugar de ganar, el jugador obligado a acertar o ir más allá del número objetivo pierde. También puedes experimentar con lo que sucede si permites que un jugador sume (o reste) 1, 2 o 3 en cada turno."
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
@@ -618,6 +675,11 @@ msgstr ""
 msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
+
+#. type=template
+msgctxt "template"
+msgid "Nim With One and Two"
+msgstr "Nim Con Uno y Dos"
 
 #. type=template
 msgctxt "template"
@@ -911,8 +973,43 @@ msgstr "DESAFÍO DE LA MEMORIA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "BINGO! WITH CARDS"
+msgstr "BINGO CON CARTAS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Numbers up to 10"
 msgstr "Números hasta 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "DENTRO DE UNO O DOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "SUMAR Y RESTAR INVISIBLES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "NIM CON UNO Y DOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "Números Cercanos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "JUEGO DE PAREAR CARACTERÍSTICAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards Games"
+msgstr "Juegos de Cartas de Formas"
 
 #. type=data_list
 msgctxt "data_list"
@@ -958,6 +1055,11 @@ msgstr "Saltando Islas – Contando"
 msgctxt "data_list"
 msgid "Cutting Symmetric Shapes"
 msgstr "Corte de Formas Simétricas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "Nim Con Uno y Dos"
 
 #. type=data_list
 msgctxt "data_list"
