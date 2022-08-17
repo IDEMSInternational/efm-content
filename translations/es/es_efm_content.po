@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-16 18:39\n"
+"PO-Revision-Date: 2022-08-17 17:09\n"
 
 #. type=template
 msgctxt "template"
@@ -1038,6 +1038,11 @@ msgstr "Juegos Con Dominó"
 msgctxt "data_list"
 msgid "MEMORY CHALLENGE"
 msgstr "DESAFÍO DE LA MEMORIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH!"
+msgstr "¡VE A PESCAR!"
 
 #. type=data_list
 msgctxt "data_list"
