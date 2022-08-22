@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-22 19:39\n"
+"PO-Revision-Date: 2022-08-22 20:42\n"
 
 #. type=template
 msgctxt "template"
@@ -863,6 +863,43 @@ msgstr "Para desarrollar el sentido de las cantidades, vea quién puede hacer la
 #. type=template
 msgctxt "template"
 msgid ""
+"This is similar to the Shape Sudoku puzzles, only now it uses numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper."
+msgstr ""
+"Es similar al Sudoku de Formas, solo que ahora usa números (o cantidades de puntos). Para evitar borrar, use tiras de papel numeradas (o con puntos) para resolver los acertijos.\n"
+"\n"
+"Para un rompecabezas de 4 por 4, cada fila y columna tiene los números del 1 al 4 una vez. Además, cada subregión marcada tiene los números del 1 al 4 una vez. ¡Es todo! Crea estos rompecabezas para su niño/niña comenzando con un rompecabezas completo y quitando algunos de los pedazos de papel."
+
+#. type=template
+msgctxt "template"
+msgid "For variety, you can use irregularly-sized subregions. You can also create puzzles of larger size (two 5 by 5 puzzles are shown)."
+msgstr "Para variar, puede utilizar subregiones de tamaño irregular. También puede crear rompecabezas de mayor tamaño (se muestran dos rompecabezas de 5 x 5)."
+
+#. type=template
+msgctxt "template"
+msgid "Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship."
+msgstr "Los rompecabezas de Más Qué Sudoku comienzan con las mismas reglas que el Sudoku normal: cada número aparece exactamente una vez en cada fila, columna y subregión. Además, si hay un símbolo menor que o mayor que entre dos celdas, los números en las celdas deben obedecer esa relación."
+
+#. type=template
+msgctxt "template"
+msgid "Tell a child who has never seen a comparison symbol that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number."
+msgstr "Dígale a un niño/niña que nunca ha visto un símbolo de comparación que el número más grande está en el lado con la parte más ancha del símbolo. Algunas personas dicen que el símbolo es un caimán hambriento y siempre quiere que su boca apunte en la dirección del número mayor."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"A useful strategy is to first look for where the smallest and largest numbers are. As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to help your child get started."
+msgstr ""
+"Una estrategia útil es buscar primero dónde están los números más pequeños y más grandes. A medida que su niño/niña mejore, haga que los rompecabezas sean más desafiantes omitiendo más símbolos de desigualdad.\n"
+"\n"
+"Haga estos rompecabezas usando un Sudoku terminado. Coloque signos de mayor y menor que en una cuadrícula en blanco de la misma geometría. Si su niño/niña se atasca, ingrese algunos números para ayudarlo a comenzar."
+
+#. type=template
+msgctxt "template"
+msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
 "Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
@@ -1444,6 +1481,21 @@ msgstr "JUEGO DE ESTIMACIÓN"
 msgctxt "data_list"
 msgid "Order and Size"
 msgstr "Orden y Tamaño"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SUDOKU"
+msgstr "SUDOKU DE NÚMERO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU – COMPARING"
+msgstr "SUDOKU – COMPARANDO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being Logical"
+msgstr "Siendo Lógico"
 
 #. type=data_list
 msgctxt "data_list"
