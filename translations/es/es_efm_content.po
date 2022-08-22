@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-22 12:33\n"
+"PO-Revision-Date: 2022-08-22 15:40\n"
 
 #. type=template
 msgctxt "template"
@@ -1202,6 +1202,11 @@ msgstr "BATALLA DE LÍNEA NUMÉRICA"
 msgctxt "data_list"
 msgid "Bigger and Smaller Numbers"
 msgstr "Números Más Grandes y Más Pequeños"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "Principiantes en Matemáticas con los dedos"
 
 #. type=data_list
 msgctxt "data_list"
