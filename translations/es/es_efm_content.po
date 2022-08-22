@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-22 10:27\n"
+"PO-Revision-Date: 2022-08-22 11:24\n"
 
 #. type=template
 msgctxt "template"
@@ -641,6 +641,22 @@ msgstr "Este también es un juego rápido y divertido para jugar con un gran gru
 
 #. type=template
 msgctxt "template"
+msgid "Make this an active game as follows. With two to four children, play it like Rock, Paper, Scissors. Have the children raise some number of fingers on one or two hands behind their backs. At the count of three, everyone brings their hands out and the game is played as described above. With more children, have them thinking of their number while crouched down in a ball on the floor, looking at the floor. When the adult calls their number, they get to pop up, and the  game is played as described above."
+msgstr "Haga de este un juego activo de la siguiente manera. Con dos o cuatro niños, juegue como Piedra, Papel, Tijeras. Haga que los niños levanten algunos dedos de una o dos manos detrás de la espalda. A la cuenta de tres, todos sacan las manos y el juego se juega como se describe arriba. Con más niños, pídales que piensen en su número mientras están agachados, mirando al piso. Cuando el adulto llama a su número, saltan  y el juego se juega como se describe arriba."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Each player has two number lines, one for their battleships and one for their guesses. These number lines are drawn on paper and go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships. \n"
+"\n"
+"After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line. The first person to get all the targets wins."
+msgstr ""
+"Cada jugador tiene dos líneas numéricas, una para sus buques de guerra y otra para sus conjeturas. Estas líneas numéricas están dibujadas en papel y van del 0 al 12 (o más si los niños pueden contar más). Fuera de la vista, en la recta numérica de sus buques de guerra, cada jugador coloca fichas en dos números que serán sus buques de guerra.\n"
+"\n"
+"Después de la configuración, los jugadores se turnan para adivinar números. Cuando un jugador hace una suposición, el otro jugador dice qué tan cerca estaba la suposición del objetivo más cercano; el adivinador luego marca esa información en su segunda recta numérica. La primera persona en conseguir todos los objetivos gana."
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
@@ -1128,6 +1144,11 @@ msgstr "CONTAR SI ES APROPIADO"
 msgctxt "data_list"
 msgid "SMALLEST SINGLE NUMBER"
 msgstr "NÚMERO ÚNICO MÁS PEQUEÑO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "BATALLA DE LÍNEA NUMÉRICA"
 
 #. type=data_list
 msgctxt "data_list"
