@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-22 09:12\n"
+"PO-Revision-Date: 2022-08-22 10:27\n"
 
 #. type=template
 msgctxt "template"
@@ -621,6 +621,26 @@ msgstr "Para cambiar las cosas, a veces juegue que gana la más pequeña de las 
 
 #. type=template
 msgctxt "template"
+msgid "Give your child some number of small objects, say seven, and count them together. Pick a target number, say five. Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "Dele a su niño/niña algunos objetos pequeños, digamos siete, y cuéntenlos juntos. Elija un número objetivo, digamos cinco. Pídale a su niño/niña que saque cinco objetos del grupo original de siete objetos, si es posible. Esto ayuda a su niño/niña a aprender los tamaños relativos de los números y cuánto son más grandes o más pequeños que los demás."
+
+#. type=template
+msgctxt "template"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "Al principio, el número objetivo debe ser menor o igual al número total. Más adelante, dar números que son demasiado grandes proporciona práctica con el tamaño relativo de las cantidades, así como también proporciona práctica para verificar que las solicitudes son razonables."
+
+#. type=template
+msgctxt "template"
+msgid "This is a group game that starts with each player thinking of a number for that round. When everyone is ready, the adult starts slowly counting aloud from 1. With the announcement of each number, any children who were thinking of that number call out. If more than one child calls out, those children are \"out\" and the adult continues to count. If only one child calls out, that child is the winner of the round."
+msgstr "Este es un juego grupal que comienza con cada jugador pensando en un número para esa ronda. Cuando todos están listos, el adulto comienza a contar lentamente en voz alta desde 1. Con el anuncio de cada número, los niños que estaban pensando en ese número gritan. Si más de un niño/niña grita, esos niños están \"fuera\" y el adulto continúa contando. Si solo un niño/niña grita, ese niño/niña es el ganador de la ronda."
+
+#. type=template
+msgctxt "template"
+msgid "This is also a quick, fun game to play with a large group of adults — it can be quite funny when no one picks a particular low number (such as two)."
+msgstr "Este también es un juego rápido y divertido para jugar con un gran grupo de adultos; puede ser bastante divertido cuando nadie elige un número bajo en particular (como dos)."
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
@@ -1103,6 +1123,11 @@ msgstr "GUERRA – COMPARACIÓN DE UN SOLO DÍGITO"
 msgctxt "data_list"
 msgid "FITTING IN"
 msgstr "CONTAR SI ES APROPIADO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SMALLEST SINGLE NUMBER"
+msgstr "NÚMERO ÚNICO MÁS PEQUEÑO"
 
 #. type=data_list
 msgctxt "data_list"
