@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-22 17:40\n"
+"PO-Revision-Date: 2022-08-22 18:43\n"
 
 #. type=template
 msgctxt "template"
@@ -706,6 +706,84 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
+"This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on. \n"
+"\n"
+"For addition, count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Make sure you pick two numbers that add up to 5 or less. Now, bring the two hands together and poof - the fingers on your right hand are transferred to the left hand, where there are now 4 fingers raised. Magic! Summarize by saying “3 fingers plus 1 more finger creates 4 fingers. Tada!”"
+msgstr ""
+"Este es un truco de magia para practicar la suma y la resta. Haga esto con la suficiente lentitud para que su niño/niña tenga la oportunidad de ver lo que está sucediendo. \n"
+"\n"
+"Para sumar, cuente el número de dedos levantados en su mano izquierda, digamos 3. Cuente el número de dedos levantados en su mano derecha, digamos 1. Asegúrese de elegir dos números que sumen 5 o menos. Ahora, junte las dos manos y puf: los dedos de la mano derecha se transfieren a la mano izquierda, donde ahora hay 4 dedos levantados. ¡Magia! Resuma diciendo “3 dedos más 1 dedo más crean 4 dedos. ¡Tara!\""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"For subtraction, raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Verbally summarize this saying that 4 take away 1 gives three, or you can say that you have broken 4 into two pieces which are 3 and 1. The latter wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total.\n"
+"\n"
+"Occasionally, throw in the following special cases. For addition, let one or both of the hands have 0 fingers raised and show nothing changes when adding 0. For subtraction, subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"Para restar, levante algunos dedos de su mano izquierda, digamos 4 de ellos. Haga que su mano derecha se estire y agarre algunos de los dedos, digamos 1 de ellos. Listo, quedarán 3 dedos levantados en la mano izquierda y 1 levantado en la mano derecha. Resume verbalmente este dicho de que 4 quita 1 da tres, o puedes decir que has dividido 4 en dos partes que son 3 y 1. La última redacción enfatiza el concepto de enlaces numéricos, que son pares de números que suman un total dado.\n"
+"\n"
+"De vez en cuando, agregue los siguientes casos especiales. Para sumar, deje que una o ambas manos tengan 0 dedos levantados y no muestren ningún cambio al sumar 0. Para restar, reste todos los dedos para que no quede ninguno y, a veces, no reste ninguno de los dedos para mostrar que nada cambia."
+
+#. type=template
+msgctxt "template"
+msgid "It is useful for your child to easily recognize numbers of objects. Practice this in two ways. One way is to use Number Cards with ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr "Es útil para su niño/niña reconocer fácilmente una cantidad de objetos. Practica esto de dos formas. Una forma es usar Tarjetas Numéricas con diez marcos. Elija una tarjeta al azar y vea juguetonamente si su niño/niña puede reconocer la cantidad. Para variar, pídale a su niño/niña que tome su turno y le pregunte a usted."
+
+#. type=template
+msgctxt "template"
+msgid "The other way is to use fingers. Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "La otra forma es usar los dedos. Muestre algunos dedos en una o ambas manos y haga que su niño/niña reconozca el recuento total. Cuando se usan dos manos para números superiores a cinco, una de las manos debe tener 5 dedos levantados, de esa manera se ve como un marco de diez."
+
+#. type=template
+msgctxt "template"
+msgid "Count a small number of little things. Hide some of them while your child is not looking. When your child looks back, ask how many are hidden."
+msgstr "Cuente una pequeña cantidad de pequeñas cosas. Esconda algunos de ellos cuando su niño/niña no esté mirando. Cuando su niño/niña vuelva a mirar, pregúntele cuántos están escondidos."
+
+#. type=template
+msgctxt "template"
+msgid "For example, suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total. One way for your child to figure this is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "Por ejemplo, suponga que tiene 6 pasas en una mesa. Haga que su niño/niña mire hacia otro lado y cubra 2 de ellos con un tazón. Cuando su niño/niña vuelva a mirar, cuente las 4 pasas visibles y pregunte cuántas pasas hay debajo del tazón si hay 6 en total. Una forma de que su niño/niña se dé cuenta de esto es “contar” de 4 a 6; mientras su niño/niña cuenta 4, 5 y 6, comience con 0 dedos levantados y levante un dedo a la vez para llegar a 2 dedos levantados. De manera similar, su niño/niña puede hacer casi lo mismo “contando hacia atrás” de 6 a 4. Ver que 4 más 2 más es 6 está relacionado con quitar 2 de 6 para obtener 4 es una gran práctica para comprender las familias de operaciones."
+
+#. type=template
+msgctxt "template"
+msgid "Create an empty 5 by 5 grid using five horizontal and vertical lines.  Players take turns putting their tokens on points where the lines cross in the grid. The first player with four tokens on the corners of a square of any size wins."
+msgstr "Crea una cuadrícula vacía de 5 por 5 usando cinco líneas horizontales y verticales. Los jugadores se turnan para colocar sus fichas en los puntos donde las líneas se cruzan en la cuadrícula. El primer jugador con cuatro fichas en las esquinas de un cuadrado de cualquier tamaño gana."
+
+#. type=template
+msgctxt "template"
+msgid "As your child gets experienced with this, change the rules to allow squares with diagonal sides."
+msgstr "A medida que su niño/niña vaya adquiriendo experiencia con esto, cambie las reglas para permitir cuadrados con lados diagonales."
+
+#. type=template
+msgctxt "template"
+msgid "String Art - Make abstract drawings by connecting points with the same number along opposite sides of an angle."
+msgstr "Arte con Cuerdas: haga dibujos abstractos conectando puntos con el mismo número a lo largo de lados opuestos de un ángulo."
+
+#. type=template
+msgctxt "template"
+msgid "A second way is to put some dots, say 8, evenly spaced on a circle. Play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot."
+msgstr "Una segunda forma es poner algunos puntos, digamos 8, espaciados uniformemente en un círculo. Juega creando diferentes patrones conectando los puntos en orden, o conectando cada segundo punto, o cada tercer punto."
+
+#. type=template
+msgctxt "template"
+msgid "Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds. To create one of these puzzles, start with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid."
+msgstr "Usa cuatro fichas de cada uno de cuatro tipos diferentes. Por ejemplo, use ositos de goma de diferentes colores. Hemos utilizado triángulos naranjas, cuadrados azules, círculos rojos y diamantes morados. Para crear uno de estos rompecabezas, comience con la respuesta: este será un patrón de fichas con una de cada tipo en cada fila y columna, y una de cada tipo en cada cuadro de esquina de 2 por 2 de la cuadrícula."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Once you have the “answer,” pull off some of the tokens and place them in a pile to the side. Finally, give the puzzle to your child to figure out how to put back the tokens that were pulled off.\n"
+"\n"
+"Although you can remove any set of tokens you feel will make a good puzzle, there are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr ""
+"Una vez que tenga la \"respuesta\", saque algunas de las fichas y colóquelas en una pila a un lado. Finalmente, dele el rompecabezas a su niño/niña para que descubra cómo volver a colocar las fichas que se quitaron.\n"
+"\n"
+"Aunque puede eliminar cualquier conjunto de fichas que crea que será un buen rompecabezas, existen algunas estrategias sencillas para crear rompecabezas: retire una ficha de cada fila; eliminar todos los de un tipo de ficha y cada uno de los demás fichas; o elimine una fila y una columna completas."
+
+#. type=template
+msgctxt "template"
+msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
 "Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
@@ -837,6 +915,11 @@ msgstr "Nim Con Uno y Dos"
 msgctxt "template"
 msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
 msgstr "Completa dibujos divertidos conectando puntos numerados. Una forma es tomar un dibujo simple, digamos de una casa, eliminar algunas líneas rectas y reemplazarlas con puntos numerados, que cuando se conectan en orden recrean el dibujo original."
+
+#. type=template
+msgctxt "template"
+msgid "Shape Sudoku"
+msgstr "Sudoku de Formas"
 
 #. type=template
 msgctxt "template"
@@ -1210,8 +1293,43 @@ msgstr "MANOS MÁGICAS – SUMAR Y RESTAR"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "RECONOCIMIENTO DE NÚMEROS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "LO QUE FALTA"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Beginning Finger Math"
 msgstr "Principiantes en Matemáticas con los dedos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "ENCONTRANDO CUADRADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CONNECT THE DOTS  — STRING ART"
+msgstr "CONECTA LOS PUNTOS — ARTE CON HILOS/CUERDAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "SUDOKU DE FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "Figuras"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "Historias de Números"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1272,6 +1390,11 @@ msgstr "Nim Con Uno y Dos"
 msgctxt "data_list"
 msgid "Connect The Dots"
 msgstr "Conecta Los Puntos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Sudoku"
+msgstr "Sudoku de Formas"
 
 #. type=data_list
 msgctxt "data_list"
