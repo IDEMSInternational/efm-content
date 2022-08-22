@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-22 11:24\n"
+"PO-Revision-Date: 2022-08-22 12:33\n"
 
 #. type=template
 msgctxt "template"
@@ -657,6 +657,54 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "There are several variations to make this more challenging. A wider range of numbers can be used. The response to a guess can be a range of distances rather than an exact amount - for example: “the nearest ship is 1 or 2 away.” Another variation is to have ships that are two or three spaces in length."
+msgstr "Hay varias variaciones para hacer esto más desafiante. Se puede utilizar una gama más amplia de números. La respuesta a una suposición puede ser un rango de distancias en lugar de una cantidad exacta, por ejemplo: \"el barco más cercano está a 1 o 2 de distancia\". Otra variación es tener barcos de dos o tres espacios de eslora."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This is an introductory, warmup version of a fun game we will revisit again soon.\n"
+"\n"
+"There are two people involved. The Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (or whatever upper limit they like). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number. \n"
+"\n"
+"Here is an example of a game with a target of 5:\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. Question: How does your number compare to 3?\n"
+"Puzzler: My number is larger than 3."
+msgstr ""
+"Esta es una versión de antecedentes del tema de un divertido juego que volveremos a visitar pronto. \n"
+"\n"
+"Hay dos personas involucradas. El enigma piensa en un número y el interrogador lo descubre. El enigma declara: \"Estoy pensando en un número del 0 al 8\" (o el límite superior que quieran). Luego, el interrogador hace preguntas del tipo \"¿Cómo se compara su número con el 3?\" El enigma responde que el número es menor, igual o mayor que ese número. \n"
+"\n"
+"Aquí hay un ejemplo de un juego con un objetivo de 5:\n"
+"\n"
+"Rompecabezas: Estoy pensando en un número del 0 al 8. Pregunta: ¿Cómo se compara tu número con el 3?\n"
+"Rompecabezas: Mi número es mayor que 3."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Question: How does your number compare to 6?\n"
+"Puzzler: My number is smaller than 6."
+msgstr ""
+"Pregunta: ¿Cómo se compara tu número con el 6?\n"
+"Rompecabezas: Mi número es menor que 6."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Question: How does your number compare to 5?\n"
+"Puzzler: Well done! My number is equal to 5.\n"
+"\n"
+"With younger children, you can play this game with counting cards from 0 to 8 (or whatever the limits are) placed face up in order on the table. Under one of the cards you hide a star or whatever is fun. After each guess, the child (Questioner) turns over all the cards that have been eliminated until the star is discovered."
+msgstr ""
+"Pregunta: ¿Cómo se compara su número con el 5?\n"
+"Enigma: ¡Bien hecho! Mi número es igual a 5.\n"
+"\n"
+"Con niños más pequeños, puedes jugar a este juego contando cartas del 0 al 8 (o cualquiera que sea el límite) colocadas boca arriba en orden sobre la mesa. Debajo de una de las cartas escondes una estrella o lo que sea divertido. Después de cada intento, el niño o la niña (Interrogador) da vuelta todas las cartas que han sido eliminadas hasta que se descubre la estrella."
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
@@ -1169,6 +1217,11 @@ msgstr "Formas"
 msgctxt "data_list"
 msgid "Chapter 4 Introduction"
 msgstr "Capítulo 4 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "ESTOY PENSANDO EN UN NÚMERO"
 
 #. type=data_list
 msgctxt "data_list"
