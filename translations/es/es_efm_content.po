@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 18:22\n"
+"PO-Revision-Date: 2022-08-23 19:21\n"
 
 #. type=template
 msgctxt "template"
@@ -1563,6 +1563,154 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some interesting investigations. Here are a few possibilities - have fun thinking of many more with your child.\n"
+"\n"
+"Investigation 1: Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"Investigation 2: You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"Investigation 3: Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"Contar el número de maneras de hacer algo que involucre decisiones puede conducir a algunas investigaciones interesantes. Aquí hay algunas posibilidades: diviértase pensando en muchas más con su niño/niña.\n"
+"\n"
+"Investigación 1: Dibujando solo con rojo y azul, ¿de cuántas maneras puedes dibujar un monstruo con sombrero, ojos y capa? ¿Cómo cambia esto si solo colorea el sombrero y la capa? ¿Cómo cambiaría si usara tres colores, o si solo pudiera usar cada color una vez?\n"
+"\n"
+"Investigación 2: Si tiene una fila de 5 caramelos idénticos. ¿De cuántas maneras puede colorearlos para que haya 2 rojos y 3 azules?\n"
+"\n"
+"Investigación 3: Encuentre todas las maneras de obtener una suma usando un pequeño conjunto de números. Haga esto con y sin tener en cuenta el orden. Por ejemplo, si usa 1 y 2, hay 1+1+1+1 = 2+1+1 = 2+2 maneras de obtener 4 sin considerar el orden, y 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 maneras de obtener 4 considerando el orden."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine. Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target total using addition and/or subtraction with any of their cards to reach the target. \n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"Los jugadores se ponen de acuerdo sobre un objetivo. Un objetivo útil es 10, pero otros números están bien. Cada jugador recibe cinco cartas de una baraja sin figuras. Luego, los jugadores encuentran tantas maneras como pueden para obtener el total objetivo mediante la suma y/o la resta con cualquiera de sus cartas para alcanzar el objetivo.\n"
+"\n"
+"Haga esto como una actividad grupal en la que todo el grupo recibe cinco tarjetas para que las utilicen y, de manera cooperativa, encuentren formas de lograr el total."
+
+#. type=template
+msgctxt "template"
+msgid "One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on. As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr "Una persona le da a la otra persona un número objetivo y la desafía a pensar en diferentes maneras de sumar y/o restar para obtener ese número. Si el objetivo es 3, puede comenzar con 1 + 2, pero luego convertirse en 1 + 5 - 3 y así sucesivamente. A medida que su niño/niña aprende más matemáticas, se pueden agregar habilidades adicionales, como duplicar y reducir a la mitad. Por ejemplo, 5 es 2 duplicado más 1 o dos decenas menos tres veces cinco."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Roll five dice to create numbers to work with. Roll two more dice to create a two-digit target number - the first die will be the tens place digit and the second die will be the ones digit. The challenge is to use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number - the score is how close they come. You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Allow multiplication once your child knows how to double or triple numbers.\n"
+"\n"
+"Suppose the roll is: 4, 4, 3, 1, 3 and 22. One player might add and get 4 + 4 + 3 + 1 + 3 = 15. Another player might use 14 + 4 + 3 + 3 = 24. Someone else might have 34 - 14 + 3 = 23.\n"
+"\n"
+"Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 = 64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"Tira cinco dados para crear números con los que trabajar. Tira dos dados más para crear un número objetivo de dos dígitos: el primer dado será el dígito de las decenas y el segundo dado será el de las unidades. El desafío es usar la suma, la resta y la formación de números de dos dígitos para acercarse lo más posible al número objetivo; la puntuación es lo cerca que se acercan al número objetivo. Puede tener un ganador para cada ronda, o puede sumar las puntuaciones en varias rondas y tener un ganador general con la puntuación más baja. Permita la multiplicación una vez que su niño/niña sepa cómo duplicar o triplicar números.\n"
+"\n"
+"Suponga que la tirada es: 4, 4, 3, 1, 3 y 22. Un jugador podría sumar y obtener 4 + 4 + 3 + 1 + 3 = 15. Otro jugador podría usar 14 + 4 + 3 + 3 = 24. Alguien más podría tener 34 - 14 + 3 = 23.\n"
+"\n"
+"Suponga que la tirada es: 1, 2, 5, 6, 4 y 63. Un jugador se acerca con 65 - 4 + 2 + 1 = 64. Otro lo obtiene exactamente con 56 + 4 + 2 + 1 = 63. Un tercero dice 52 + 6 + 4 + 1 = 63 también funciona. Platique el por qué algunos problemas tienen muchas soluciones."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Remove all cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up with each lower row half-overlapping the smaller row above it. The remaining cards create a draw pile.\n"
+"\n"
+"A group of one or more cards summing to the target may be used if each card is not covered at all. This group can include the top card of the draw pile or the discard pile. These cards are then moved aside. If there are no matches, move the top draw pile card to the discard pile."
+msgstr ""
+"Quite todas las cartas mayores que un número objetivo, digamos 10. Haga una pirámide de 21 cartas con 6 filas. Coloque las cartas en la pirámide boca arriba con cada fila inferior superponiendo a la mitad la fila más pequeña de arriba. Las cartas restantes crean una pila para robar.\n"
+"\n"
+"Un grupo de una o más cartas que sumadas den como resultado el objetivo se puede usar si cada carta no está cubierta en absoluto. Este grupo puede incluir la carta superior de la pila de robo (extraer) o la pila de descarte. Luego, estas cartas se apartan. Si no hay coincidencias, mueva la carta superior de la pila de robo (extraer) a la pila de descarte."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The game is over when the draw pile is empty. Your goal is to use as many cards as possible from the pyramid. \n"
+"\n"
+"If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5. For this, remove pairs of cards whose difference is 5. When you have a card with a 5, you can either remove it or pair it with a 10."
+msgstr ""
+"El juego termina cuando la pila de robo está vacía. Su objetivo es utilizar tantas cartas como sea posible de la pirámide.\n"
+"\n"
+"Si usa un objetivo menor a 10, reduzca el tamaño de la pirámide en una fila o dos para que tenga una pila lo suficientemente grande. Por ejemplo, para un objetivo de 8, use 15 cartas en 5 filas.\n"
+"\n"
+"En lugar de usar la suma, usa la resta. Si usa las cartas hasta diez, un buen número objetivo es 5. Para ello, elimine los pares de cartas cuya diferencia sea 5. Cuando tenga una carta con un 5, puede eliminarla o emparejarla con un 10."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The challenge is to stack a deck of numbered cards, say 1 to 5, so that the following happens: \n"
+"\n"
+"The top card is 1. Remove the top card and set it aside. Move the next card to the bottom of the deck. The next card is 2 and is set aside. Move the next card to the bottom of the deck. Continue until all cards are set aside in order.\n"
+"\n"
+"Once your child finds it easy for 1 to 5, challenge your child to do it for larger number ranges."
+msgstr ""
+"El desafío consiste en apilar una baraja de cartas numeradas, digamos del 1 al 5, de modo que suceda lo siguiente:\n"
+"\n"
+"La carta superior es 1. Retire la carta superior y déjela a un lado. Mueve la siguiente carta al fondo del mazo. La siguiente carta es 2 y se deja a un lado. Mueve la siguiente carta al fondo del mazo. Continúe hasta que todas las tarjetas estén reservadas en orden.\n"
+"\n"
+"Una vez que a su niño/niña le resulte fácil de 1 a 5, desafíe a su niño/niña a que lo haga para rangos de números más grandes."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The challenge is to place the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers below it. \n"
+"\n"
+"Let your child take time and play around with this. Most likely, just by playing with it, your child will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1.\n"
+"\n"
+"If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different - if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a pyramid."
+msgstr ""
+"El desafío es colocar los números del 1 al 6 en una pirámide con una carta en la fila superior, dos cartas en la segunda fila y tres cartas en la tercera fila, donde cada número es la diferencia de los dos números debajo.\n"
+"\n"
+"Deje que su niño/niña se tome un tiempo y juegue con esto. Lo más probable es que, con solo jugar con él, su niño/niña encuentre una solución. Sin embargo, si su niño/niña se pone ansioso, aquí hay dos consejos que le ayudarán. El 6 debe estar en la fila inferior porque no puede ser la diferencia de ningún par de números. De manera similar, el 5 debe estar en la fila inferior o en la fila del medio encima del 6 y el 1.\n"
+"\n"
+"Si a su niño/niña le resulta fácil, desafíe a su niño/niña a encontrar de cuántas maneras se puede hacer. Analice lo que significa que dos soluciones sean diferentes: si una solución es la imagen especular de otra, ¿debería considerarse diferente? Otro desafío es resolver el rompecabezas más difícil de poner los números del 1 al 10 en una pirámide."
+
+#. type=template
+msgctxt "template"
+msgid "Playing strategy games will help your child immensely with many reasoning, planning, and problem solving skills. There are dozens of such games - such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess - far too many to cover here."
+msgstr "Los juegos de estrategia ayudarán enormemente a su niño/niña con muchas habilidades de razonamiento, planificación y resolución de problemas. Hay docenas de juegos de este tipo, como tic-tac-toe, 9 Men's Morris, Fox and Geese (zorro y ganso), Dara, Connect Four, Mancala, Juego de Damas, Go, Ajedrez, demasiados para cubrir aquí."
+
+#. type=template
+msgctxt "template"
+msgid "There are many games similar to this one - games such as Rota, 9 Holes, and 3 Men’s Morris. In this version, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "Hay muchos juegos similares a este: juegos como Rota, 9 Holes y 3 Men's Morris. En esta versión, hay 9 puntos conectados en una cuadrícula por 3 líneas horizontales y 3 verticales. Cada jugador tiene tres fichas idénticas para jugar. El objetivo del juego es poner tus tres fichas en una línea."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"There are two phases of play. During the first phase, the placement phase, the players take turns placing their tokens one at a time on vacant points. After all the tokens have been placed, the second phase, the movement phase, begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"Hay dos fases de juego. Durante la primera fase, la fase de colocación, los jugadores se turnan para colocar sus fichas de una en una en los puntos vacantes. Una vez colocadas todas las fichas, comienza la segunda fase, la fase de movimiento. Durante esta fase, los jugadores se turnan para mover sus fichas a puntos adyacentes vacíos. Una regla alternativa es que las piezas se pueden mover a cualquier punto vacío, no solo a puntos adyacentes.\n"
+"\n"
+"El juego termina cuando un jugador gana o cuando la misma posición ocurre tres veces, en cuyo caso es un juego empatado."
+
+#. type=template
+msgctxt "template"
+msgid "This satisfying game starts with a rectangular grid of dots - say 3 by 4. During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line. When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr "Este juego satisfactorio comienza con una cuadrícula rectangular de puntos, digamos 3 por 4. Durante un turno, un jugador dibuja una línea horizontal o vertical que conecta dos puntos adyacentes separados. Si la nueva línea completa un cuadro de 1 por 1, el jugador gana un punto y dibuja otra línea. Cuando no se pueden dibujar más líneas, el jugador con más puntos gana. Una forma fácil de realizar un seguimiento de los puntos es poner una inicial dentro de cada casilla ganada."
+
+#. type=template
+msgctxt "template"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons - it’s just a bit harder to draw."
+msgstr "Aunque esto se juega tradicionalmente con pequeños cuadrados, también se puede jugar con puntos en un patrón para producir triángulos o hexágonos; es un poco más difícil de dibujar."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"There are a cluster of games played with similar rules. Rather than use any of the detailed official rules, a simpler version should work just fine for young players. Although the official games are played on a 19 by 19 rectangular grid of points, a 13 by 13 grid produced by 13 horizontal and vertical lines should work well.\n"
+"\n"
+"Players take turns placing their tokens on grid points - you can use raisins and cheerios, or any other tokens you have lots of. The first player to get five of their tokens in a row wins."
+msgstr ""
+"Hay un grupo de juegos que se juegan con reglas similares. En lugar de utilizar cualquiera de las reglas oficiales detalladas, una versión más simple debería funcionar bien para los jugadores jóvenes. Aunque los juegos oficiales se juegan en una cuadrícula rectangular de 19 por 19 puntos, una cuadrícula de 13 por 13 producida por 13 líneas horizontales y verticales debería funcionar bien.\n"
+"\n"
+"Los jugadores se turnan para colocar sus fichas en los puntos de la cuadrícula; puedes usar pasas y cheerios, o cualquier otra ficha que tengas. El primer jugador en obtener cinco de sus fichas consecutivas en una línea gana."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -1694,6 +1842,11 @@ msgstr "Investigación 2"
 msgctxt "template"
 msgid "Investigation 3"
 msgstr "Investigación 3"
+
+#. type=template
+msgctxt "template"
+msgid "Card Deck Ordering"
+msgstr "Ordenando Tablas de Tarjetas"
 
 #. type=template
 msgctxt "template"
@@ -2377,8 +2530,68 @@ msgstr "DE CUÁNTAS MANERAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "DE CUALQUIER MANERA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE"
+msgstr "CÓMO PUEDO HACER"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "COMPONIENDO NÚMEROS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Let Me Count the Ways"
 msgstr "Permítame Contar las Maneras"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "PIRÁMIDE SOLITARIO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARD DECK ORDERING"
+msgstr "ORDENANDO TABLAS DE TARJETAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "PIRÁMIDE DE DIFERENCIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "Rompecabezas Solitarios"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "JUEGOS DE ESTRATEGIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "TAPATAN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "PUNTOS Y CAJAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PENTE OR GOMOKU"
+msgstr "PENTE O GOMOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "Juegos de Estrategia"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2489,6 +2702,16 @@ msgstr "Variaciones de Sudoku"
 msgctxt "data_list"
 msgid "How Many Ways?"
 msgstr "¿De Cuántas Maneras?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Card Deck Ordering"
+msgstr "Ordenando Tablas de Tarjetas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Difference Pyramid"
+msgstr "Pirámide de Diferencia"
 
 #. type=data_list
 msgctxt "data_list"
