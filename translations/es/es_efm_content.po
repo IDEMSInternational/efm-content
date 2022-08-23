@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 12:49\n"
+"PO-Revision-Date: 2022-08-23 13:55\n"
 
 #. type=template
 msgctxt "template"
@@ -1202,6 +1202,33 @@ msgstr "Haga estos rompecabezas comenzando con un diagrama que esté completamen
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. But, before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The next games are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next chapter."
+msgstr ""
+"¡Bienvenido al mundo más allá de los 10 dedos! Hay cosas maravillosas por descubrir aquí. El siguiente grupo de números del 10 al 20 es 10 más que los números que su niño/niña ya conoce. Pero, antes de que esto se vuelva sencillo, su niño/niña debe conquistar los nombres locos que usamos para once, doce y trece.\n"
+"\n"
+"Los siguientes juegos están diseñados para enfatizar el papel que juega el 10 conectando parejas de números como 6 y 16. Estos juegos también enfatizan la idea de que 16 debe considerarse como 10 más 6. Esta visión de la descomposición de números usando el valor posicional será mucho más importante cuando su niño/niña cuente hasta 100 en el próximo capítulo."
+
+#. type=template
+msgctxt "template"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9), 10 + (0 to 9), and 20 + 0, and one deck will use ten frames."
+msgstr "Si aún no los tiene, cree algunas barajas extendidas de cartas de conteo del 0 al 20. Una baraja serán números normales, otra baraja tendrá los números en forma expandida de 0 a 20 como 0 + (0 a 9), 10 + (0 a 9) y 20 + 0, y otra baraja utilizará marcos de diez."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Place a random collection of 16 Number Cards from 0 to 20 with expanded form on a 4 by 4 bingo board for each child. Then, mix up a collection of counting cards from 0 to 20. Select one card at a time from this pile until the first child gets four in a row and yells Bingo!\n"
+"\n"
+"One important variation of this game is to do a “Tens-Reversed” version using cards with numerals. When a card is chosen, if it is 1 to 10, then 10 is added to find the matching value, and if it is 11 to 20, then 10 is subtracted for the matching value."
+msgstr ""
+"Seleccione al azar 16 tarjetas numéricas de la baraja del 0 al 20 con forma expandida, y coloquelas en un tablero de bingo de 4 por 4 para cada niño. Luego, mezcle una colección de tarjetas de conteo del 0 al 20. Seleccione una a una las tarjetas de esta baraja hasta que el primer niño obtenga cuatro seguidos y grite ¡Bingo!\n"
+"\n"
+"Una variación importante de este juego se llama \"Diez Invertido\" y se usan tarjetas con números. Cuando se elige una carta, si el número es del 1 al 10, se agrega 10 al valor, y si es del 11 al 20, se resta 10 del valor."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -1759,6 +1786,21 @@ msgstr "Familias de Hechos"
 msgctxt "data_list"
 msgid "INTRODUCING 10’S"
 msgstr "PRESENTAMOS LAS DECENAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING NUMBER CARDS 1 TO 20"
+msgstr "HACIENDO TARJETAS NUMÉRICAS 1 A 20"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO WITH 10"
+msgstr "BINGO CON 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE – 10’S"
+msgstr "RETO DE MEMORIA – DECENAS"
 
 #. type=data_list
 msgctxt "data_list"
