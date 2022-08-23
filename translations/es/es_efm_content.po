@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 15:23\n"
+"PO-Revision-Date: 2022-08-23 16:21\n"
 
 #. type=template
 msgctxt "template"
@@ -1336,6 +1336,64 @@ msgstr "Cree estos rompecabezas empezando con una cuadrícula vacía y avanzando
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Using a target sum that your child is comfortable with, remove cards at or above that target from the Number Card deck. If there are more than two players and you have restricted the numbers significantly, you may need to use several decks. \n"
+"\n"
+"Play starts by dealing 5 cards to each player. Put the remaining cards in a common draw pile. Players take turns “fishing” for cards whose number will sum to the target sum with cards they already have. \n"
+"\n"
+"For example, a player might ask a player, “Do you have any 4’s?” If that player has some 4’s, they are handed over and the original player gets another turn. However, if that player does not have any 4’s, then the player says “Go Fish!” and a card is drawn from the draw pile. If the drawn card matches with a card they have, the player may have another turn; otherwise, the turn is over and play continues to the left. \n"
+"\n"
+"When a player has a pair of cards that sum to the total, the player puts that pair on the table in front of them. The game is over when all cards are in pairs. The player with the most pairs wins.\n"
+"\n"
+"To create some variety, allow players to use more than two cards to create a group of cards that sum to the target sum. Another possibility is to say that two cards match when their difference is a specified target difference."
+msgstr ""
+"Usando una suma objetivo con la que su niño/niña se sienta cómodo, retire las cartas con ese número objetivo o que sean mayores que ese objetivo de una baraja de Cartas Numéricas. Si hay más de dos jugadores y ha restringido significativamente los números, es posible que deba usar varios mazos. \n"
+"\n"
+"El juego comienza repartiendo 5 cartas a cada jugador. Ponga las cartas restantes en una pila de robo común. Los jugadores se turnan para “pescar” tarjetas cuyo número se sumará a la suma objetivo con las tarjetas que ya tienen. \n"
+"\n"
+"Por ejemplo, un jugador podría preguntarle a otro jugador: \"¿Tienes algún 4?\" Si ese jugador tiene cartas de 4, se entregan y el jugador original tiene otro turno. Sin embargo, si ese jugador no tiene ningún 4, entonces el jugador dice \"¡Ve a pescar!\" y se saca una carta del mazo de robo. Si la carta robada coincide con una carta que tiene, el jugador puede tener otro turno; de lo contrario, el turno termina y el juego continúa hacia la izquierda.\n"
+"\n"
+"Cuando un jugador tiene un par de cartas que suman el total, el jugador pone ese par en la mesa frente a él. El juego termina cuando todas las cartas están en pares. El jugador con más parejas gana.\n"
+"\n"
+"Para crear algo de variedad, permita que los jugadores usen más de dos cartas para crear un grupo de cartas que sumen la suma objetivo. Otra posibilidad es decir que dos cartas coinciden cuando su resta es una resta objetivo específica."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Depending on how many children are playing, there are two ways to play this.\n"
+"\n"
+"Adult with two children: Each child draws a card and places it on their forehead facing out without seeing it. You announce the sum of the cards and the children are challenged to figure out their own card by looking at the other child’s card.\n"
+"\n"
+"Adult with one child: Create several pairs of cards in advance where each pair of cards has the same total known to all. The unused cards are moved to the side. Pick up one random pair of cards, place the cards on your foreheads, and figure out each card by looking at the other person’s card."
+msgstr ""
+"Dependiendo de cuántos niños estén jugando, hay dos formas de hacerlo.\n"
+"\n"
+"Adulto con dos niños: cada niño saca una tarjeta y la coloca en su frente con la carta mirando hacia afuera sin verla. Usted anuncia la suma de las tarjetas y los niños tienen el desafío de descubrir su propia tarjeta mirando la tarjeta del otro niño.\n"
+"\n"
+"Adulto con un niño/niña: cree varios pares de tarjetas de antemano donde cada par de tarjetas tenga el mismo total conocido por todos. Las cartas no utilizadas se mueven a un lado. Tomen un par de cartas al azar, colóquenlas en sus frentes y descubran cada carta mirando la carta de la otra persona."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use one deck (two if there are several players) of cards that go from 0 to 20. Each player is dealt four cards face up in the order they are dealt, and the remaining cards form a draw pile.\n"
+"\n"
+"You can either play that a player must select one of their existing cards in advance or, the friendlier version, that the card can be selected after seeing the new card. Either way, one of their cards is replaced by the top card of the pile and the replaced card is put on the draw pile bottom.\n"
+"\n"
+"The first player to get their cards in order wins. Make this easier by allowing duplicate cards. Make this harder by using more cards in a hand."
+msgstr ""
+"Utilice un mazo (dos si hay varios jugadores) de cartas que van del 0 al 20. A cada jugador se le reparten cuatro cartas boca arriba en el orden en que se reparten, y las cartas restantes forman una pila para robar.\n"
+"\n"
+"Puede jugar a que un jugador debe seleccionar una de sus cartas existentes de antemano, o, una versión más fácil, es que la carta se puede seleccionar después de ver la carta nueva. De cualquier manera, una de sus cartas se reemplaza por la carta superior de la pila y la carta reemplazada se coloca en la parte inferior de la pila de robo.\n"
+"\n"
+"El primer jugador en poner sus cartas en orden gana. Haga esto más fácil permitiendo tarjetas duplicadas. Haga esto más difícil usando más cartas en una mano."
+
+#. type=template
+msgctxt "template"
+msgid "Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
+msgstr "Cada jugador dibuja una escalera con entre 4 y 10 escalones (más escalones para jugadores mayores)."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -1991,8 +2049,28 @@ msgstr "IR A PESCAR CON SUMAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "WHICH NUMBER AM I"
+msgstr "¿CUÁL NÚMERO SOY?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Number Bonds"
 msgstr "Vínculos Numéricos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING UP"
+msgstr "SUBIENDO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING UP SOME MORE"
+msgstr "SUBIENDO MÁS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order in the House"
+msgstr "Orden en la Casa"
 
 #. type=data_list
 msgctxt "data_list"
