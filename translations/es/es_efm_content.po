@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 08:26\n"
+"PO-Revision-Date: 2022-08-23 09:44\n"
 
 #. type=template
 msgctxt "template"
@@ -900,6 +900,26 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
+"Someone makes a statement and the other players attempt to show that the person is lying. \n"
+"\n"
+"One type of statement is to say something is always true. Examples of this are: all trucks have four wheels, all rectangles are squares, all birds can fly, and the moon comes out at night.\n"
+"\n"
+"Another type of statement is of the form “if __, then ___ .” Examples of this are: if today is Monday, then it is a school day; if I don’t eat for three hours, then I am hungry; and if a person is taller than someone, then they are older."
+msgstr ""
+"Alguien hace una declaración y los otros jugadores intentan demostrar que la persona está mintiendo. \n"
+"\n"
+"Un tipo de afirmación es decir que algo siempre es cierto. Ejemplos de esto son: todos los camiones tienen cuatro ruedas, todos los rectángulos son cuadrados, todos los pájaros pueden volar y la luna sale de noche.\n"
+"\n"
+"Otro tipo de declaración es de la forma \"si __, entonces ___ .\" Ejemplos de esto son: si hoy es lunes, entonces es un día escolar; si no como durante tres horas, entonces tengo hambre; y si una persona es más alta que otra, entonces es mayor."
+
+#. type=template
+msgctxt "template"
+msgid "The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to  5. An example of such a code would be 321."
+msgstr "El Maestro de Códigos crea un código, y el otro jugador es el Descifrador de Códigos. Suponga que el código tiene tres posiciones, cada una de las cuales puede ser de 1 a 5. Un ejemplo de tal código sería 321."
+
+#. type=template
+msgctxt "template"
+msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
 "Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
@@ -1501,6 +1521,11 @@ msgstr "SUDOKU – COMPARANDO"
 msgctxt "data_list"
 msgid "MAKE ME A LIAR"
 msgstr "HAZME UN MENTIROSO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CODEBREAKER"
+msgstr "DESCIFRADOR DE CÓDIGOS"
 
 #. type=data_list
 msgctxt "data_list"
