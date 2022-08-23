@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 13:55\n"
+"PO-Revision-Date: 2022-08-23 15:23\n"
 
 #. type=template
 msgctxt "template"
@@ -1229,6 +1229,113 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"This version of the Memory Challenge game uses a Number Card deck from 0 to 20 with the rule that two numbers match if they are 10 apart. If you also have cards from 0 to 20 that use expanded form or ten frames, you should use those too. Deal a 3 by 4 grid of cards out on the table, all face-down.\n"
+"\n"
+"Players take turns flipping two cards face-up. If the two cards are ten apart, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards do not match, the player flips the cards back over and ends their turn.\n"
+"\n"
+"The game ends when the last pair of cards is taken. The player with the most cards wins."
+msgstr ""
+"Esta versión del juego Reto de Memoria usa una baraja de artas numéricas del 0 al 20 con la regla de que dos números coinciden si están separados por 10. Si también tiene tarjetas de 0 a 20 que usan forma expandida o marcos de diez, también debe usarlas. Reparta una cuadrícula de cartas de 3 por 4 sobre la mesa, todas boca abajo.\n"
+"\n"
+"Los jugadores se turnan para voltear dos cartas boca arriba. Si las dos cartas volteadas por un jugador están separadas por diez, el jugador se queda con las cartas, reemplaza las dos cartas con dos de la pila de robo y continúa su turno. Si las cartas no coinciden, el jugador voltea las cartas y termina su turno.\n"
+"\n"
+"El juego termina cuando se toma el último par de cartas. El jugador con más cartas gana."
+
+#. type=template
+msgctxt "template"
+msgid "Here are some geometric concepts your child can play around with. The first is the idea of similarity. Two shapes are similar if they have the same shape except that one is smaller or larger than the other. Challenge your child to pick a picture and draw it twice as big or twice as small."
+msgstr "Aquí hay algunos conceptos geométricos con los que su niño/niña puede jugar. La primera es la idea de similitud. Dos formas son similares si tienen la misma forma, excepto que una es más pequeña o más grande que la otra. Desafíe a su niño/niña a que elija un dibujo y lo dibuje dos veces más grande o dos veces más pequeño."
+
+#. type=template
+msgctxt "template"
+msgid "Another geometric concept to play with is mirror symmetry. Your child can see this by taking a mirror with a flat side and putting it down along its edge on a drawing or photo and seeing what the mirror image looks like. Once your child has the idea, give your child half of a picture and challenge them to draw the mirror image."
+msgstr "Otro concepto geométrico con el que jugar es la simetría especular. Su niño/niña puede ver esto tomando un espejo con un lado plano y colocándolo a lo largo de su borde en un dibujo o foto y viendo cómo se ve la imagen del espejo. Una vez que su niño/niña entienda la idea, dele la mitad de una imagen y desafíelo a dibujar la imagen del espejo."
+
+#. type=template
+msgctxt "template"
+msgid "The two players have different colored markers. Place six (use more for a harder game) dots evenly around a circle. Players take turns drawing lines between the dots using their color. The loser is the first player forced to create a triangle all of whose sides have the player’s color and whose corners are on the circle. In the illustrated game, green moves next and must lose."
+msgstr "Los dos jugadores tienen marcadores de diferentes colores. Coloque seis (use más para un juego más difícil) puntos uniformemente distribuidos alrededor de un círculo. Los jugadores se turnan para trazar líneas entre los puntos usando su color. El perdedor es el primer jugador obligado a crear un triángulo cuyos lados tienen el color del jugador y cuyas esquinas están en el círculo. En el juego ilustrado, el verde perderá en su próximo movimiento."
+
+#. type=template
+msgctxt "template"
+msgid "Using something small, such as pieces of food, challenge your child to make shapes with a given number of pieces. These shapes can be rectangles, triangles, squares, or anything fun."
+msgstr "Con algo relativamente pequeño, como trozos de comida, desafíe a su niño/niña a hacer formas con la comida. Estas formas pueden ser rectángulos, triángulos, cuadrados o cualquier cosa divertida."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Once your child knows what an odd number is, investigate adding up the first few odd numbers as shown in this diagram. Amazingly, the sum of the first odd numbers is always a square number.\n"
+"\n"
+"Your child may notice that for some numbers, such as 12, there are different shapes of rectangles that can be made, and that for other numbers, such as 7, only flat rectangles can be made. If you want to, you can tell your child that numbers such as 5 and 7 are called prime numbers because there is no  way to break them into normal rectangles."
+msgstr ""
+"Una vez que su niño/niña sepa lo qué es un número impar, investigue sumando los primeros números impares como se muestra en este diagrama. Sorprendentemente, la suma de los primeros números impares es siempre un número cuadrado.\n"
+"\n"
+"Su niño/niña puede notar que para algunos números, como el 12, hay diferentes formas de rectángulos que se pueden hacer, y que para otros números, como el 7, solo se pueden hacer rectángulos planos. Si lo desea, puede decirle a su niño/niña que los números como el 5 y el 7 se llaman números primos porque no hay forma de dividirlos en rectángulos normales."
+
+#. type=template
+msgctxt "template"
+msgid "Very gradually, introduce multiplication to your child by a small change in language - start referring to doubling a number as taking “two of it” or as “multiplying it by 2.”"
+msgstr "Muy gradualmente, introduzca la multiplicación a su niño/niña con un pequeño cambio en el lenguaje; comience a referirse a duplicar un número como si fuera \"dos de estos\" o como \"multiplicarlo por dos.\""
+
+#. type=template
+msgctxt "template"
+msgid "Set a starting total, say 20. Let your child choose whether to go first or second. During the first turn, a player chooses to subtract 1 or 2 from the current total. After the first turn, a player may subtract any number from 1 up to twice the number used on the last turn. The first person to reach 0 wins (an alternative rule is they lose). Once children learn to play this without writing anything down, it is a fun travel game."
+msgstr "Establezca un total inicial, digamos 20. Deje que su niño/niña elija si va primero o segundo. Durante el primer turno, un jugador elige restar 1 o 2 del total actual. Después del primer turno, un jugador puede restar cualquier número desde 1 hasta el doble del número utilizado en el último turno. La primera persona en llegar a 0 gana (una regla alternativa es que pierde). Una vez que los niños aprenden a jugar sin escribir nada, es un divertido juego de viaje."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a small collection of Number Cards involving some small quantities. Start with combinations of three cards and work your way up to more cards. \n"
+"\n"
+"Suppose the numbers are 1, 2, and 3. The question is: If you randomly pick two cards and add them, are you more likely to get an even or odd number? Count how many ways there are of getting an odd number versus an even number. For example, in the case of using 1, 2, and 3, there is one way to get an even number (1 + 3) and two ways to get an odd number (1 + 2, 2 + 3). So the odd number sums are more likely.\n"
+"\n"
+"To make a game of it, let one player be Even and the other player be Odd. See who has the most successes after a dozen trial runs."
+msgstr ""
+"Utilice una pequeña colección de tarjetas numéricas de cantidades pequeñas. Empiece con combinaciones de tres cartas y vaya aumentando hasta obtener más cartas. \n"
+"\n"
+"Suponga que los números son 1, 2 y 3. La pregunta es: si elige dos cartas al azar y las suma, ¿es más probable que obtenga un número par o impar? Cuente cuántas formas hay de obtener un número impar frente a un número par. Por ejemplo, en el caso de usar 1, 2 y 3, hay una forma de obtener un número par (1 + 3) y dos formas de obtener un número impar (1 + 2, 2 + 3). Entonces, las sumas de números impares son más probables.\n"
+"\n"
+"Para convertirlo en un juego, deje que un jugador sea Par y el otro jugador Impar. Vea quién tiene más éxitos después de una docena de pruebas."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"In addition to being good practice, skip counting is a faster way to count a collection of things, such as toes, than counting them one at a time. \n"
+"\n"
+"Count by 2’s while pushing your child on the swings. Start by alternating with your child - you say 1, your child says 2, you say 3, your child says 4, and so on. After establishing the pattern, one of you can say their part without the other person saying anything.\n"
+"\n"
+"While traveling, find something fun to skip count like yellow cars. Skip count up or down by 2’s ending by 20. Initially, do this starting at 0 or 20, but eventually, start at any number."
+msgstr ""
+"Además de ser una buena práctica, contar de 2 en 2 es una forma más rápida de contar una colección de cosas, como los dedos de los pies, que contarlas una a la vez. \n"
+"\n"
+"Cuente de 2 en 2 mientras empuja a su niño/niña en los columpios. Comience alternando con su niño/niña: usted dice 1, su niño/niña dice 2, usted dice 3, su niño/niña dice 4, y así sucesivamente. Después de establecer el patrón, uno de ustedes puede decir su parte sin que la otra persona diga nada.\n"
+"\n"
+"Mientras viaja, encuentre algo divertido para omitir el conteo, como los autos amarillos. Salte la cuenta hacia arriba o hacia abajo de 2 a 20. Inicialmente, haga esto comenzando en 0 o 20, pero eventualmente, comience en cualquier número."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Two players agree on a target number, say 20, set their running total to 0, and choose who will go first. A turn starts by generating a number using one die or the sum of two dice. If the number is odd, the player must double it. If the number is even, the player may take half of it as many times as is desired as long as the numbers being halved are even. The player then adds that final result to the running total as long as that does not put the total over the target - if the final result cannot be used, the turn is skipped. The player who brings the total exactly to the target number wins. \n"
+"\n"
+"There are a few variations. You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
+msgstr ""
+"Dos jugadores acuerdan un número objetivo, digamos 20, establecen su total acumulado en 0 y eligen quién irá primero. Un turno comienza generando un número usando un dado o la suma de dos dados. Si el número es impar, el jugador debe doblarlo. Si el número es par, el jugador puede tomar la mitad tantas veces como desee, siempre que los números que se reduzcan a la mitad sean pares. Luego, el jugador agrega ese resultado final al total acumulado siempre que eso no coloque el total sobre el objetivo; si el resultado final no se puede usar, se salta el turno. El jugador que lleve el total exactamente al número objetivo gana. \n"
+"\n"
+"Hay algunas variaciones. Puede permitir que el jugador no cambie el número inicial. Puede permitir reducir a la mitad como máximo una vez. Finalmente, puede practicar la resta comenzando en el número objetivo y restando hasta llegar a 0."
+
+#. type=template
+msgctxt "template"
+msgid "Use a grid of numbers with a target sum. Find groups of two or three numbers that add up to the target. The members of a group must share sides. Use tokens, such as different types of food items, to identify each group within the puzzle. When complete, the entire puzzle will be made up of identified groups."
+msgstr "Use una cuadrícula de números con una suma objetivo. Busque grupos de dos o tres números que sumados den como resultado el objetivo. Los miembros de un grupo deben compartir lados. Use fichas, como diferentes tipos de alimentos, para identificar a cada grupo dentro del rompecabezas. Cuando esté completo, todo el rompecabezas estará compuesto por grupos identificados."
+
+#. type=template
+msgctxt "template"
+msgid "Create these puzzles by starting with an empty grid and working your way around the grid using pairs and triples that add up to the target sum. It’s more fun if the puzzle has just one solution, but don’t worry about it."
+msgstr "Cree estos rompecabezas empezando con una cuadrícula vacía y avanzando alrededor de la cuadrícula usando pares y triples que sumados den como resultado la suma objetivo. Es más divertido si el rompecabezas tiene solo una solución, pero no se preocupe por eso."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -1281,6 +1388,21 @@ msgstr "Cree diseños doblando una hoja de papel y cortando el papel mientras es
 msgctxt "template"
 msgid "Shape Sums"
 msgstr "Suma de Formas"
+
+#. type=template
+msgctxt "template"
+msgid "Nim – Doubling the Limit"
+msgstr "Nim – Doblando el Límite"
+
+#. type=template
+msgctxt "template"
+msgid "Counting Evens and Odds"
+msgstr "Contar Pares e Impares"
+
+#. type=template
+msgctxt "template"
+msgid "Sum Groups"
+msgstr "Grupos de Suma"
 
 #. type=template
 msgctxt "template"
@@ -1809,8 +1931,68 @@ msgstr "Sumar y Restar 10"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "GEOMETRIC ART"
+msgstr "ARTE GEOMÉTRICO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIM TRIANGLE"
+msgstr "TRIÁNGULO SIM"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES"
+msgstr "FORMAS DE NÚMEROS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Shapes"
 msgstr "Formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 2"
+msgstr "MULTIPLICANDO POR 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM – DOUBLING THE LIMIT"
+msgstr "NIM – DOBLANDO EL LÍMITE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING EVENS AND ODDS"
+msgstr "CONTAR PARES E IMPARES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING BY 2’s"
+msgstr "SALTAR EL CONTEO DE 2 EN 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HALVES AND HALF NOTS"
+msgstr "MITADES Y NO MITADES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Evens and Odds"
+msgstr "Pares e Impares"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM GROUPS"
+msgstr "GRUPOS DE SUMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH WITH SUMS"
+msgstr "IR A PESCAR CON SUMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds"
+msgstr "Vínculos Numéricos"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1886,6 +2068,21 @@ msgstr "15-Rompecabezas Deslizantes"
 msgctxt "data_list"
 msgid "Shape Sums"
 msgstr "Suma de Formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim – Doubling the Limit"
+msgstr "Nim – Doblando el Límite"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting Evens and Odds"
+msgstr "Contar Pares e Impares"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Groups"
+msgstr "Grupos de Suma"
 
 #. type=data_list
 msgctxt "data_list"
