@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 10:41\n"
+"PO-Revision-Date: 2022-08-23 11:38\n"
 
 #. type=template
 msgctxt "template"
@@ -945,6 +945,56 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "There are two methods for this:"
+msgstr "Hay dos métodos para esto:"
+
+#. type=template
+msgctxt "template"
+msgid "Method 1: Use this method if both numbers are 5 or less. For the example of adding 4 and 2, put up 4 fingers on one hand and 2 fingers on the other. Then, bring the two hands together - Tada! Your child will see 4 and 2 brought together becomes 6."
+msgstr "Método 1: Utilice este método si ambos números son 5 o menos. Para el ejemplo de sumar 4 y 2, coloque 4 dedos en una mano y 2 dedos en la otra. Luego, junta las dos manos: ¡Tara! Su niño/niña verá que 4 y 2 juntos se convierten en 6."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Method 2:  Use “counting on” from one of the numbers to reach any sum of up to 10. \n"
+"\n"
+"To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised. \n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"Método 2:  Use \"contar\" de uno de los números para llegar a cualquier suma de hasta 10. \n"
+"\n"
+"Para sumar 4 y 2, levante 4 dedos de una mano y cuente en voz alta de 0 a 2. Por cada número hablado después del 0, levante un dedo más. Cuando se alcanza el 2, debe haber 6 dedos levantados. \n"
+"\n"
+"Este método permite sumar números mayores que 5. Su niño/niña se dará cuenta de que es más fácil comenzar con la mayor cantidad de dedos levantados y contar con el número menor."
+
+#. type=template
+msgctxt "template"
+msgid "There are two mental models for subtraction. It can be thought of as “take away” or “difference,” and your child should be comfortable with both models. Here is 8 - 5 calculated both ways:"
+msgstr "Hay dos modelos mentales para restar. Se puede considerar como \"para quitar\" o \"la diferencia\", y su niño/niña debe sentirse cómodo con ambos modelos. Aquí hay 8 - 5 calculados en ambos sentidos:"
+
+#. type=template
+msgctxt "template"
+msgid "Take Away: Think of  8 - 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "Para quitar: Piense en 8 - 5 como lo que queda después de comenzar con 8 cosas y quitar 5 de ellas. Comience con 8 dedos levantados. Luego, cuente en voz alta de 0 a 5, y para cada número después del 0, ponga un dedo hacia abajo. Cuando se llega a 5 en la cuenta, quedarán tres dedos hacia arriba."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Difference: This model views 8 - 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8.\n"
+"\n"
+"Mix in problems where a number is subtracted from itself to get 0."
+msgstr ""
+"Diferencia: Este modelo considera que 8 - 5 encuentra la diferencia o la distancia entre los dos números. Comience con 5 dedos levantados. Luego cuente los nuevos dedos que se levantan, y cuando haya 8 dedos levantados, se habrá contado la diferencia de 3.\n"
+"\n"
+"Este método usa el método de la suma \"contando hacia adelante\" para encontrar el número que se debe sumar a 5 para obtener 8.\n"
+"\n"
+"Mezcle los problemas en los que se resta un número de sí mismo para obtener 0."
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
@@ -1062,6 +1112,17 @@ msgstr ""
 "A medida que su niño/niña vaya adquiriendo experiencia, mezcle juguetonamente algunas peticiones imposibles, como un triángulo con dos ángulos rectos o un cuadrilátero con exactamente tres ángulos rectos.\n"
 "\n"
 "Una variación útil en muchas actividades es invertir sus roles — haga que su niño/niña invente preguntas y usted encuentre las formas. Cometa un \"error\" a veces y haz que su niño/niña le explique lo que hizo mal."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Your child can now count up and down between 0 and 10 and understand what all those quantities mean. Beginning addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 (and maybe 3) with other small numbers. Your child also understands small quantities, and can reason with those quantities to do addition and subtraction for small numbers.\n"
+"\n"
+"In addition to that wonderful stuff, your child is able to reason so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them."
+msgstr ""
+"Su niño/niña ahora puede contar hacia arriba y hacia abajo entre 0 y 10 y comprende lo que significan todas esas cantidades. Se están desarrollando las habilidades iniciales de suma y resta. Una base importante para esas habilidades es la confianza al sumar y restar 1 y 2 (y tal vez 3) con otros números pequeños. Su niño/niña también comprende cantidades pequeñas y puede razonar con esas cantidades para sumar y restar números pequeños.\n"
+"\n"
+"Además de esas cosas maravillosas, ¡su niño/niña puede razonar mucho mejor ahora! Entiende que los objetos y los números tienen propiedades, y pueden razonar y comenzar a resolver problemas. Su niño/niña ahora es un miembro de tiempo completo en los juegos y acertijos matemáticos familiares y explora el mundo matemático que lo rodea."
 
 #. type=template
 msgctxt "template"
@@ -1570,8 +1631,23 @@ msgstr "Siendo Lógico"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "SUMAR CON DEDOS HASTA 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "RESTA DE LOS DEDOS HASTA 10"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Finger Math"
 msgstr "Matemáticas con los Dedos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHAPTER 3 – I CAN COUNT TO 10!"
+msgstr "CAPÍTULO 3 – ¡PUEDO CONTAR HASTA 10!"
 
 #. type=data_list
 msgctxt "data_list"
