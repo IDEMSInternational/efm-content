@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-22 20:42\n"
+"PO-Revision-Date: 2022-08-23 08:26\n"
 
 #. type=template
 msgctxt "template"
@@ -1039,6 +1039,11 @@ msgstr "Sudoku de Formas"
 
 #. type=template
 msgctxt "template"
+msgid "Make Me a Liar"
+msgstr "Hazme un Mentiroso"
+
+#. type=template
+msgctxt "template"
 msgid "Island Hopping – Counting"
 msgstr "Saltando Islas – Contando"
 
@@ -1494,6 +1499,11 @@ msgstr "SUDOKU – COMPARANDO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MAKE ME A LIAR"
+msgstr "HAZME UN MENTIROSO"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Being Logical"
 msgstr "Siendo Lógico"
 
@@ -1566,6 +1576,11 @@ msgstr "Conecta Los Puntos"
 msgctxt "data_list"
 msgid "Shape Sudoku"
 msgstr "Sudoku de Formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make Me a Liar"
+msgstr "Hazme un Mentiroso"
 
 #. type=data_list
 msgctxt "data_list"
