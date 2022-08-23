@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 16:21\n"
+"PO-Revision-Date: 2022-08-23 17:20\n"
 
 #. type=template
 msgctxt "template"
@@ -1394,6 +1394,105 @@ msgstr "Cada jugador dibuja una escalera con entre 4 y 10 escalones (más escalo
 
 #. type=template
 msgctxt "template"
+msgid "Create a number using Number Cards numbered from 0 to 9. The first selection will be from the cards 0 to 1, and this is the tens digit. Then select a ones digit from all the cards. The two digits together form the number. If possible, the player must place this number on their steps. The first player to fill their steps in increasing order from bottom to top wins. Make it easier by allowing neighboring steps to have the same value."
+msgstr "Cree un número usando Tarjetas Numéricas numeradas del 0 al 9. La primera selección será de las tarjetas 0 a 1, y este es el dígito de las decenas. Luego seleccione una tarjeta de un dígito de entre todas las otras tarjetas. Los dos dígitos juntos forman el número. Si es posible, el jugador debe colocar este número en uno de sus escalones. El primer jugador en completar sus escalones en orden creciente de abajo hacia arriba gana. Para una versión más fácil, permita que escalones vecinos tengan el mismo valor."
+
+#. type=template
+msgctxt "template"
+msgid "Start with a deck of Number Cards that go from 0 to 40 (higher with more players). Deal ten cards to each player (fewer cards for younger players). The dealt cards are placed in front of each player in the order they are dealt. The remaining cards are placed face down in a draw pile. The top card is placed facing up as the first card in a discard pile. The goal of the game is to get the cards in ascending order from left to right."
+msgstr "Empiece con una baraja de cartas numéricas que van del 0 al 40 (más alto con más jugadores). Reparta diez cartas a cada jugador (menos cartas para los jugadores más pequeños). Las cartas repartidas se colocan frente a cada jugador en el orden en que se reparten. Las cartas restantes se colocan boca abajo en una pila para robar. La carta superior se coloca boca arriba como la primera carta en una pila de descarte. El objetivo del juego es conseguir las cartas en orden ascendente de izquierda a derecha."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile.\n"
+"\n"
+"You can play that the first player to get their cards in order wins, and that’s all there is to it. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr ""
+"Durante un turno, un jugador puede seleccionar la carta superior de la pila de descarte o la pila de robo; esta carta debe usarse para reemplazar una de las cartas que está frente al jugador, y la carta reemplazada se coloca boca arriba en la parte superior de la pila de descarte.\n"
+"\n"
+"Puede jugar a que el primer jugador en poner sus cartas en orden gana, y eso es todo. O puede utilizar un sistema de puntos para cada ronda de juego. En este sistema, el ganador recibe 15 puntos. Los otros jugadores reciben un punto por cada carta que tengan en orden, comenzando por la carta más baja."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a deck of cards from 1 to 10. Choose a target sum, say 10. Each round starts by dealing five cards face down on the table. One player chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given to the other player to choose two cards to get close to the target. The player closest to the target from either side wins a point. \n"
+"\n"
+"Have a number line handy to use for discussions about which player is closer to the target sum.\n"
+"\n"
+"One variation is to use subtraction instead, in which case you would use a lower target."
+msgstr ""
+"Utilice una baraja de cartas del 1 al 10. Elija una suma objetivo, digamos 10. Cada ronda comienza repartiendo cinco cartas boca abajo sobre la mesa. Un jugador elige tres de esas cartas y las da vuelta. Se eligen dos cartas de esas tres para que se sumen lo más cerca posible al objetivo. Las tres cartas no utilizadas se le dan al otro jugador para que elija dos cartas para acercarse al objetivo. El jugador más cercano al objetivo desde cualquier lado gana un punto.\n"
+"\n"
+"Tenga a mano una recta numérica para discutir sobre qué jugador está más cerca de la suma objetivo.\n"
+"\n"
+"Una variación es usar la resta, en cuyo caso usaría un objetivo más bajo."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+" \n"
+"During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box. The first player to rescue all their tokens wins.\n"
+"\n"
+"Alternatively, use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9. \n"
+"\n"
+"An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others."
+msgstr ""
+"Utilice dos dados o dos juegos de tarjetas numéricas del 1 al 6. Cada jugador tiene 6 fichas; las fichas de animales son perfectas para este juego si las tiene. Cada jugador también tiene una hoja de papel con casillas numeradas del 0 al 5. Cada jugador decide dónde colocar sus 6 fichas; está bien poner más de una ficha en una casilla. \n"
+"\n"
+"Durante el turno de un jugador, se crean dos números tirando los dados o eligiendo dos cartas, y se usa la diferencia de esos números. Un jugador puede liberar una de sus fichas si tiene una en esa caja. El primer jugador en rescatar todas sus fichas gana.\n"
+"\n"
+"Alternativamente, use tarjetas numeradas del 1 al 10 y tenga 10 casillas numeradas del 0 al 9. \n"
+"\n"
+"Una parte importante de este juego es elegir buenas casillas para colocar fichas para empezar. Con la práctica, su niño/niña se dará cuenta de que es más probable que ocurran algunas casillas que otras."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"*Which token will win and why? \n"
+"*Which tokens do well and which ones do poorly? \n"
+"*Which token is the worst?\n"
+"*How will the winners change if the rows are changed to have fewer squares or more squares?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"Haga una hoja de papel con 12 filas. En cada fila, coloque 8 cuadrados. La columna de cuadrados más a la izquierda tiene los números del 1 al 12 escritos en los cuadrados. Pon 1 ficha en cada uno de los 12 números. Empiece a lanzar un par de dados. Después de cada lanzamiento, mueva la ficha de la suma de los dados un cuadrado a la derecha. El objetivo para cada ficha es ser el primero en llegar hasta la derecha en la página.\n"
+"\n"
+"Deje que su niño/niña haga algunas preguntas para investigar. Algunas preguntas naturales son:\n"
+"\n"
+"*¿Qué ficha ganará y por qué? \n"
+"*¿Qué fichas funcionan bien y cuáles no? \n"
+"*¿Qué ficha es la peor?\n"
+"*¿Cómo cambiarán los ganadores si las filas se cambian para tener menos cuadrados o más cuadrados?\n"
+"\n"
+"Haga que su niño/niña explique sus ideas sobre las respuestas a estas preguntas y luego investigue sus ideas realizando experimentos con los dados.\n"
+"\n"
+"Agregue un elemento competitivo a esto adivinando qué ficha ganará antes de que comience la ronda."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"All puzzles on this page start with the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column. \n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"Todos los acertijos de esta página comienzan con la regla básica del Sudoku de que una cuadrícula cuadrada está llena de números de manera que cada número aparezca exactamente una vez en cada fila y columna. \n"
+"\n"
+"Haga estos acertijos comenzando con un acertijo completamente lleno, eliminando algunos o todos los números y creando subregiones y la información adicional apropiada para ese tipo de rompecabezas.\n"
+"\n"
+"Para ahorrar espacio, los ejemplos aquí son 4 por 4. Puede hacer rompecabezas más grandes usted mismo, o puede encontrar versiones más grandes de estos por Internet."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -1464,13 +1563,72 @@ msgstr "Grupos de Suma"
 
 #. type=template
 msgctxt "template"
+msgid "Zoo Rescue"
+msgstr "Rescate en el Zoológico"
+
+#. type=template
+msgctxt "template"
+msgid "Common Sums"
+msgstr "Sumas Comunes"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token will win and why? \n"
+"* Which tokens do well and which ones do poorly? \n"
+"* Which token is the worst?\n"
+"* How will the winners change if the rows are changed to have fewer squares or more squares?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"Haga una hoja de papel con 12 filas. En cada fila, coloque 8 cuadrados. La columna de cuadrados más a la izquierda tiene los números del 1 al 12 escritos en los cuadrados. Pon 1 ficha en cada uno de los 12 números. Empiece a lanzar un par de dados. Después de cada lanzamiento, mueva la ficha de la suma de los dados un cuadrado a la derecha. El objetivo para cada ficha es ser el primero en llegar hasta la derecha en la página.\n"
+"\n"
+"Deje que su niño/niña haga algunas preguntas para investigar. Algunas preguntas naturales son:\n"
+"\n"
+"* ¿Qué ficha ganará y por qué? \n"
+"* ¿Qué fichas funcionan bien y cuáles no? \n"
+"* ¿Qué ficha es la peor?\n"
+"* ¿Cómo cambiarán los ganadores si las filas se cambian para tener menos cuadrados o más cuadrados?\n"
+"\n"
+"Haga que su niño/niña explique sus ideas sobre las respuestas a estas preguntas y luego investigue sus ideas realizando experimentos con los dados.\n"
+"\n"
+"Agregue un elemento competitivo a esto adivinando qué ficha ganará antes de que comience la ronda."
+
+#. type=template
+msgctxt "template"
 msgid "Sudoku Variations"
 msgstr "Variaciones de Sudoku"
 
 #. type=template
 msgctxt "template"
+msgid "Investigation 1"
+msgstr "Investigación 1"
+
+#. type=template
+msgctxt "template"
+msgid "Investigation 2"
+msgstr "Investigación 2"
+
+#. type=template
+msgctxt "template"
+msgid "Investigation 3"
+msgstr "Investigación 3"
+
+#. type=template
+msgctxt "template"
 msgid "Activity"
 msgstr "Actividad"
+
+#. type=template
+msgctxt "template"
+msgid "Investigation"
+msgstr "Investigación"
 
 #. type=template
 msgctxt "template"
@@ -1501,6 +1659,11 @@ msgstr "Juegos"
 msgctxt "template"
 msgid "Puzzles"
 msgstr "Rompecabezas"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "Investigaciones"
 
 #. type=template
 msgctxt "template"
@@ -2069,13 +2232,43 @@ msgstr "SUBIENDO MÁS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "CREATING ORDER"
+msgstr "CREANDO ORDEN"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Order in the House"
 msgstr "Orden en la Casa"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "CLOSEST TO 10"
+msgstr "MÁS CERCANO AL 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ZOO RESCUE"
+msgstr "RESCATE EN EL ZOOLÓGICO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMMON SUMS"
+msgstr "SUMAS COMUNES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Small Adding and Subtracting"
+msgstr "Sumar y Restar Números Pequeños"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "SUDOKU VARIATIONS"
 msgstr "VARIACIONES DE SUDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "PARES-IMPARES Y SUDOKU KROPKI"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2086,6 +2279,11 @@ msgstr "Capítulo 4 Introducción"
 msgctxt "data_list"
 msgid "I’M THINKING OF A NUMBER"
 msgstr "ESTOY PENSANDO EN UN NÚMERO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVESTIGATIONS"
+msgstr "INVESTIGACIONES"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2164,13 +2362,33 @@ msgstr "Grupos de Suma"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Zoo Rescue"
+msgstr "Rescate en el Zoológico"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Common Sums"
+msgstr "Sumas Comunes"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Sudoku Variations"
 msgstr "Variaciones de Sudoku"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Investigations"
+msgstr "Investigaciones"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Activity"
 msgstr "Actividad"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Investigation"
+msgstr "Investigación"
 
 #. type=data_list
 msgctxt "data_list"
