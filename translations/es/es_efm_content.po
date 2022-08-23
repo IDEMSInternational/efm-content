@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 09:44\n"
+"PO-Revision-Date: 2022-08-23 10:41\n"
 
 #. type=template
 msgctxt "template"
@@ -919,6 +919,32 @@ msgstr "El Maestro de Códigos crea un código, y el otro jugador es el Descifra
 
 #. type=template
 msgctxt "template"
+msgid "To break the code, the CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code. The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "Para descifrar el código, el Descifrador de Códigos adivina un código y el Maestro de Códigos dice qué tan cerca está la conjetura. Por ejemplo, si el Descifrador de Códigos adivina 131, el Maestro de Códigos diría que un lugar era exactamente correcto y otro lugar tenía el número correcto pero en el lugar incorrecto. El juego continúa hasta que el Descifrador de Códigos descubre el código. El número de conjeturas es la puntuación del Descifrador de Códigos. Gana la puntuación más baja."
+
+#. type=template
+msgctxt "template"
+msgid "To add challenge, have a maximum number of questions that the CodeBreaker is allowed to ask. Other variations are: allow or disallow repeated numbers in the code, use shorter or longer lengths for the code, and use a narrower or wider range of numbers for each place of the code."
+msgstr "Para agregar desafío, tenga un número máximo de preguntas que el Descifrador de Códigos pueda hacer. Otras variaciones son: permitir o no permitir números repetidos en el código, usar longitudes más cortas o más largas para el código y usar un rango de números más estrecho o más amplio para cada lugar del código."
+
+#. type=template
+msgctxt "template"
+msgid "Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid. The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable."
+msgstr "Comience con una cuadrícula vacía de cuadrados de 4 x 4 formada por 5 líneas horizontales y verticales. Use un set de 15 hojas de papel del tamaño de los cuadrados de la cuadrícula y numere las hojas de papel del 1 al 15. El rompecabezas comienza con alguien que coloque las hojas de papel en la cuadrícula. El objetivo del rompecabezas es poner los trozos de papel en orden con solo la esquina inferior derecha de la cuadrícula vacía. Para lograr esto, se puede mover una hoja de papel si está adyacente al cuadrado vacío, en cuyo caso se puede deslizar en ese espacio. Dependiendo de cómo la persona configure el rompecabezas, el rompecabezas puede resolverse o no."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"A 4 x 4 grid is too hard for a beginner, so start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5.\n"
+"\n"
+"To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"Una cuadrícula de 4 x 4 es demasiado difícil para un principiante, así que comience con algo más pequeño. La cuadrícula puede ser tan pequeña como 2 x 2 o tan grande como desee el niño. El número de hojas de papel numeradas siempre será uno menos que el tamaño de la cuadrícula. Por ejemplo, en una cuadrícula de 2 x 3, use las tarjetas del 1 al 5.\n"
+"\n"
+"Para crear estos rompecabezas, tiene dos opciones. La primera es colocar los cuadrados al azar, en cuyo caso tienes una probabilidad del 50 / 50 de que la posición se pueda resolver. Alternativamente, puede comenzar colocando los trozos de papel en la posición final y luego realizar una serie de movimientos legales para mover el papel. Cuando haya terminado, se le garantiza que el rompecabezas se puede resolver."
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
 "\n"
@@ -1061,6 +1087,11 @@ msgstr "Sudoku de Formas"
 msgctxt "template"
 msgid "Make Me a Liar"
 msgstr "Hazme un Mentiroso"
+
+#. type=template
+msgctxt "template"
+msgid "15-Sliding Puzzle"
+msgstr "15-Rompecabezas Deslizantes"
 
 #. type=template
 msgctxt "template"
@@ -1529,8 +1560,18 @@ msgstr "DESCIFRADOR DE CÓDIGOS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "15 SLIDING PUZZLE"
+msgstr "15 ROMPECABEZAS DESLIZANTES"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Being Logical"
 msgstr "Siendo Lógico"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "Matemáticas con los Dedos"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1606,6 +1647,11 @@ msgstr "Sudoku de Formas"
 msgctxt "data_list"
 msgid "Make Me a Liar"
 msgstr "Hazme un Mentiroso"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15-Sliding Puzzle"
+msgstr "15-Rompecabezas Deslizantes"
 
 #. type=data_list
 msgctxt "data_list"
