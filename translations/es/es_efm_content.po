@@ -11,12 +11,22 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-24 13:06\n"
+"PO-Revision-Date: 2022-08-24 14:08\n"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "Política de privacidad"
 
 #. type=template
 msgctxt "template"
 msgid "Template list"
 msgstr "Lista de plantillas"
+
+#. type=template
+msgctxt "template"
+msgid "Chapter"
+msgstr "Capítulo"
 
 #. type=template
 msgctxt "template"
@@ -1781,6 +1791,80 @@ msgstr "Para llevar: Comience con el puño cerrado y diga \"11.\" Luego, levanta
 
 #. type=template
 msgctxt "template"
+msgid "Difference: This uses counting on, much as we did for Easy Way Finger Addition. What we are doing is finding out which number we need to add to 3 to get 11. Have your child make a closed fist and say “3.” Then, lifting one more finger each time, count “4, 5, 6, 7, 8, 9, 10, 11.” When your child says 11, there are 8 fingers raised - the difference between 3 and 11 is 8!"
+msgstr "Diferencia: Esto usa el conteo hacia adelante, como lo hicimos con “Adición con los dedos de manera fácil”. Lo que estamos haciendo es averiguar qué número debemos sumar a 3 para obtener 11. Haga que su niño/niña cierre el puño y diga \"3\". Luego, levantando un dedo adicional cada vez, cuente \"4, 5, 6, 7, 8, 9, 10, 11\". Cuando su niño/niña dice 11, hay 8 dedos levantados: ¡la diferencia entre 3 y 11 es 8!"
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes that border it. While circles may have any value, a non-circle must have the same value as any figure of the same shape. The puzzle is to figure out the numbers not supplied."
+msgstr "Estos rompecabezas tienen formas conectadas por líneas. Cada región contenida tiene un número que es la suma de las formas que la bordean. Si bien los círculos pueden tener cualquier valor, un no-círculo debe tener el mismo valor que cualquier figura de la misma forma. El rompecabezas consiste en averiguar los números que no se incluyen."
+
+#. type=template
+msgctxt "template"
+msgid "Create these puzzles by making a diagram of circles and maybe some squares. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers."
+msgstr "Cree estos rompecabezas haciendo un diagrama de círculos y tal vez algunos cuadrados. A continuación, complete todas las cifras con números y complete las regiones contenidas con la suma de las cifras que las rodean. Finalmente, elimine algunos de los números."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Ready for some fun risk? During a turn, roll a die as many times as you want. When a roll is not 1, you add that roll to your turn’s total. If it is 1, you lose everything for that turn and the turn is over. A player may choose to stop before rolling a 1, keep the turn’s points so far, and add them to the player’s running total. The first player to reach the target number, say 30, wins.\n"
+"\n"
+"A two dice variation has these rules: If neither die shows a 1, the sum is added to the turn’s running total. If exactly one of the dice shows a 1, then nothing more is added to the running total and the turn ends. If two 1’s are rolled, the turn’s total becomes 0 and the turn ends."
+msgstr ""
+"¿Listo para un riesgo divertido? Durante un turno, tira un dado tantas veces como quieras. Cuando una tirada no es 1, sumas esa tirada al total de tu turno. Si es 1, pierde todo para ese turno y el turno termina. Un jugador puede optar por detenerse antes de sacar un 1, mantener los puntos del turno hasta ahora y agregarlos al total acumulado del jugador. El primer jugador en alcanzar el número objetivo, digamos 30, gana.\n"
+"\n"
+"Una variación de dos dados tiene estas reglas: si ninguno de los dados muestra un 1, la suma se suma al total acumulado del turno. Si exactamente uno de los dados muestra un 1, entonces no se agrega nada más al total acumulado y el turno termina. Si se lanzan dos unos, el total del turno se convierte en 0 y el turno termina."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use 5 dice and 4 rolls. On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+" \n"
+"The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr ""
+"Utilice 5 dados y 4 tiradas. En la primera tirada, elige guardar de 0 a 5 dados. Una vez que se guarda un dado, no se puede cambiar. Lo mismo ocurre con los dados restantes en las tiradas dos y tres. En la tirada final, se guardan todos los dados. Cualquier puntuación menor o igual a 20 vale, cualquier puntuación superior a 20 le da al jugador 0.\n"
+"\n"
+"La puntuación objetivo de 20, el número de dados y el número de tiradas, se pueden cambiar para adaptarse a los jugadores más jóvenes o mayores. Por ejemplo, podrías jugar esto con una puntuación objetivo de 12 y 3 dados."
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles show how compensation creates easier problems. The challenge is to find a path that connects all the islands with the same answer. Two islands can only connect if their problem’s numbers differ by 1. Only some of the islands will be on the path."
+msgstr "Estos rompecabezas muestran cómo la compensación crea problemas más fáciles. El desafío es encontrar un camino que conecte todas las islas con la misma respuesta. Dos islas solo pueden conectarse si el número de sus problemas difiere en 1. Solo algunas de las islas estarán en el camino."
+
+#. type=template
+msgctxt "template"
+msgid "Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr "Haga estos rompecabezas comenzando con unos diez círculos vacíos con algunas conexiones. Identifica un camino de un lado de las islas al otro. A lo largo de ese camino, coloque problemas cuyos números difieran entre sí en uno. En las islas cercanas, ponga problemas con pequeños cambios que tienen distintas respuestas."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead. Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes. Either way, the winner is the player who has the most cards. \n"
+"\n"
+"For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr ""
+"Divida uniformemente una baraja de naipes barajada sin las figuras. Si lo desea, use dominós en lugar de pares de naipes. Ambos jugadores dan la vuelta a sus dos cartas superiores y las suman. El jugador con la suma mayor gana las cuatro cartas. Si las sumas son iguales, se suman los siguientes dos pares de cartas y el ganador obtiene las ocho cartas. Juege esto con una sola pasada a través del mazo o varias pasadas. De cualquier manera, el ganador es el jugador que termina con más cartas. \n"
+"\n"
+"Para variar, juegue esto usando la diferencia de las dos cartas. O puede agregar tres cartas a la vez. Otra opción es asignar a una persona Impar y la otra Par. Para ello, cada jugador da vuelta una carta y el resultado par o impar de la suma determina quién recibe las cartas."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target. During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card. When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”\n"
+"\n"
+"Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr ""
+"Acuerde una suma de objetivo, digamos 10. Retire las figuras del mazo y reparta siete cartas a cada jugador. Las cartas restantes se convierten en una pila para robar, cuya carta superior es volteada para comenzar la pila de descarte. El objetivo es tener siete cartas que se dividen en grupos separados de una o más cartas que sumadas den como resultado el objetivo. Durante un turno, el jugador tiene la opción de tomar la carta superior de la pila de descarte o la carta invisible en la parte superior de la pila de robo. Ese jugador luego descarta una carta. Cuando un jugador completa con éxito toda su mano, el jugador enseña la mano y dice \"¡Gin!\"\n"
+"\n"
+"Se puede usar la diferencia con pares de cartas en lugar de sumar. En ese caso, reparta un número par de cartas a cada jugador."
+
+#. type=template
+msgctxt "template"
+msgid "The DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "Los rompecabezas DiffTriangles tienen triángulos y cuadrados que comparten lados. Un triángulo siempre tiene exactamente dos cuadrados en sus lados y el lado restante tiene un triángulo o está vacío. El número de un triángulo es la diferencia de los dos cuadrados contiguos. El desafío es proporcionar los números que faltan."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -1788,6 +1872,11 @@ msgstr "Uno de estos no es como los demás"
 msgctxt "template"
 msgid "Nim With One and Two"
 msgstr "Nim Con Uno y Dos"
+
+#. type=template
+msgctxt "template"
+msgid "Connect The Dots"
+msgstr "Conecta Los Puntos"
 
 #. type=template
 msgctxt "template"
@@ -1917,6 +2006,26 @@ msgstr "Investigación 3"
 msgctxt "template"
 msgid "Card Deck Ordering"
 msgstr "Ordenando Tablas de Tarjetas"
+
+#. type=template
+msgctxt "template"
+msgid "Enclosed Sums"
+msgstr "Suma Cerrada"
+
+#. type=template
+msgctxt "template"
+msgid "Island Hopping – Compensation"
+msgstr "Saltando Islas – Compensación"
+
+#. type=template
+msgctxt "template"
+msgid "DiffTriangles and SumTriangles"
+msgstr "DiffTriangles y SumaTriángulos"
+
+#. type=template
+msgctxt "template"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "Rompecabezas de DiffTriangles tienen triángulos y cuadrados que comparten lados. Un triángulo siempre tiene exactamente dos cuadrados en sus lados y el lado restante tiene un triángulo o está vacío. El número de un triángulo es la diferencia de los dos cuadrados contiguos. El desafío es proporcionar los números que faltan."
 
 #. type=template
 msgctxt "template"
@@ -2695,6 +2804,51 @@ msgstr "Matemáticas con los dedos hasta 20"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "ENCLOSED SUMS"
+msgstr "SUMA CERRADA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PIG"
+msgstr "CERDO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "NO PASAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "SALTANDO ISLAS – COMPENSACIÓN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "Suma hasta 20"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – ADDITION AND SUBTRACTION"
+msgstr "GUERRA – SUMA Y RESTA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET GIN RUMMY"
+msgstr "OBJETIVO GIN RUMMY"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "DIFFTRIANGLES Y SUMATRIÁNGULOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds and Fact Families"
+msgstr "Vínculos Numéricos y Familias de Operaciones"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I’M THINKING OF A NUMBER"
 msgstr "ESTOY PENSANDO EN UN NÚMERO"
 
@@ -2807,6 +2961,21 @@ msgstr "Ordenando Tablas de Tarjetas"
 msgctxt "data_list"
 msgid "Difference Pyramid"
 msgstr "Pirámide de Diferencia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Enclosed Sums"
+msgstr "Suma Cerrada"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Compensation"
+msgstr "Saltando Islas – Compensación"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "DiffTriangles y SumaTriángulos"
 
 #. type=data_list
 msgctxt "data_list"
