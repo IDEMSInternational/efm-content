@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-24 14:08\n"
+"PO-Revision-Date: 2022-08-24 15:11\n"
 
 #. type=template
 msgctxt "template"
@@ -1865,6 +1865,101 @@ msgstr "Los rompecabezas DiffTriangles tienen triángulos y cuadrados que compar
 
 #. type=template
 msgctxt "template"
+msgid "SumTriangles puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors."
+msgstr "Los rompecabezas de SumTriangles usan la suma en lugar de la resta. El valor de un triángulo es la suma de sus dos o tres vecinos cuadrados."
+
+#. type=template
+msgctxt "template"
+msgid "Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, and then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr "Hacer rompecabezas sin bucles es fácil. Dibuje una secuencia alterna de cuadrados y triángulos, y luego coloque números comenzando en un extremo y avanzando hasta el otro extremo. Cuando haya terminado, elimine algunos de los números. Busque en Recursos para obtener ideas para estos rompecabezas con bucles."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice very relaxed. \n"
+"\n"
+"This page has methods that practice structural insights until the facts become automatic."
+msgstr ""
+"La facilidad de practicar operaciones matemáticas con tarjetas didácticas las hace tentadoras. Sin embargo, a menudo son abusadas ​​por ayudantes bien intencionados y pueden contribuir al odio hacia las matemáticas. Más allá del daño psicológico que se produce con un ejercicio exageradamente entusiasta, el uso de tarjetas didácticas no permite aprender las relaciones importantes entre los números. Siéntase libre de usar tarjetas didácticas para brindar una práctica enfocada para un pequeño repaso de datos de matemática, pero mantenga la práctica muy relajada.\n"
+"\n"
+"Esta página tiene métodos que practican conocimientos estructurales hasta que los hechos se vuelven automáticos."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* do adding twins and near twins\n"
+"* know the number bonds for 10\n"
+"* add 10 to single-digit numbers. \n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"Para realizar las actividades de esta página, su niño/niña debe saber cómo hacer mentalmente lo siguiente:\n"
+"\n"
+"* sumar y restar 0, 1, 2 (y quizás 3)\n"
+"* sumar gemelos y casi gemelos\n"
+"* conocer los vínculos numéricos para 10\n"
+"* sumar 10 a números de un solo dígito. \n"
+"\n"
+"Si su niño/niña es débil con alguna de estas habilidades, este es el momento de practicarlas un poco más."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Compensation is a powerful technique for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins for what remains:  3 + 5, 3 + 6, 4 + 7, and 5 + 7.  For example, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"La compensación es una técnica poderosa para facilitar las matemáticas mentales. Al sumar dos números, puede obtener la misma suma cambiando parte de un número al otro. Agregar 8 o 9 es fácil usando la compensación. Por ejemplo, adicione 6 + 9 cambiando 1 del 6 al 9, lo que da 5 + 10. De manera similar, 4 + 8 se convierte en 2 + 10.\n"
+"\n"
+"Use la compensación de gemelos y gemelos cercanos para lo que queda: 3 + 5, 3 + 6, 4 + 7 y 5 + 7. Por ejemplo, 5 + 7 es lo mismo que 6 + 6.\n"
+"\n"
+"Algunas operaciones matemáticas se pueden hacer de varias formas. Desafíe a su niño/niña a encontrar más de una forma de resolver un problema. Por ejemplo, 5 + 7 puede convertirse en 6 + 6, pero también puede convertirse en 2 + 10. Este tipo de juego matemático conducirá a percepciones duraderas."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to be weak for your child:\n"
+"\n"
+"* add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* subtract numbers 1 or 2 apart\n"
+"* know  the number bonds for 10 and how they make subtracting from 10 easy\n"
+"* subtract 10 from numbers from 11 to 19."
+msgstr ""
+"Antes de comenzar con estas actividades de resta, practique cualquiera de las siguientes habilidades que resultan ser débiles para su niño/niña:\n"
+"\n"
+"* sumar y restar 0, 1, 2 (y quizás 3)\n"
+"* restar números 1 o 2 de diferencia\n"
+"* saber los vínculos numéricos del 10 y cómo permiten restar de 10 más fácil.\n"
+"* restar 10 de los números del 11 al 19."
+
+#. type=template
+msgctxt "template"
+msgid "For problems with numbers larger than 10, such as 13 - 8, break them into two differences. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. So, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5."
+msgstr "Para problemas con números mayores a 10, como 13 - 8, divídalos en dos diferencias. La distancia de 13 a 8 es la distancia de 13 a 10 más la distancia de 10 a 8. Entonces, 13 - 8 se convierte en (13 - 10) + (10 - 8) = 3 + 2 = 5."
+
+#. type=template
+msgctxt "template"
+msgid "Compensation for subtraction means adding or subtracting the same amount for both numbers to maintain their distance. Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 - 6."
+msgstr "La compensación por la resta significa sumar o restar la misma cantidad para ambos números para mantener la distancia. Use la compensación en 13 - 8 agregando 2 a ambos números para convertir el problema en 15 - 10. Los problemas de un solo dígito también se pueden resolver de esta manera. Por ejemplo, se puede agregar 3 a ambos números 7 menos 3 para que sea 10 - 6."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25. Players take turns choosing and turning over one of the numbers and adding that number to the running total. The last player to pick a number that does not run over the target number wins. \n"
+"\n"
+"Replace using 1 to 5 with any set of five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr ""
+"Comience colocando todas las cartas del 1 al 5 en una cuadrícula de 4 por 5. Comience el total en 0 y elija un número objetivo, digamos 25. Los jugadores se turnan para elegir y voltear uno de los números y agregar ese número al total acumulado. Gana el último jugador que elija un número que no supere el número objetivo.\n"
+"\n"
+"Reemplaza del 1 al 5 con cualquier conjunto de cinco números que quieras practicar sumando. Para practicar la resta, comience en el número objetivo, reste los números seleccionados y no permita ir por debajo de 0."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -2849,8 +2944,63 @@ msgstr "Vínculos Numéricos y Familias de Operaciones"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "TARJETAS DIDÁCTICAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "REPASO DE LAS HABILIDADES DE SUMAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "COMPENSACIÓN PARA SUMAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "REPASO DE LAS HABILIDADES DE RESTAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "USANDO 10 COMO PARADA INTERMEDIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "COMPENSACIÓN PARA RESTAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Subtract"
+msgstr "Matemática Mental – Suma y Resta de un Dígito"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "TARJETAS AL BLANCO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "COMBINACIÓN DE DOMINÓS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Adding and Subtracting"
+msgstr "Juegos para Sumar y Restar"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I’M THINKING OF A NUMBER"
 msgstr "ESTOY PENSANDO EN UN NÚMERO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Adding and Subtracting"
+msgstr "Más Juegos para Sumar y Restar"
 
 #. type=data_list
 msgctxt "data_list"
