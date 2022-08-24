@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-24 20:34\n"
+"PO-Revision-Date: 2022-08-24 21:37\n"
 
 #. type=template
 msgctxt "template"
@@ -2108,6 +2108,93 @@ msgstr "Haga este rompecabezas tomando una cuadrícula vacía y llenándola con 
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close. Whoever has the most points wins.\n"
+"\n"
+"Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr ""
+"Escriba los números 5, 10, 25 y 50 verticalmente en una hoja de papel. Ponga un solo espacio en blanco a cada lado del 5 y dos espacios en blanco a cada lado de los otros números. Un jugador llena los espacios en blanco del lado izquierdo y el otro llena el otro lado. Cada jugador también tiene un espacio en blanco adicional para usar una vez con un número para ignorar.\n"
+"\n"
+"Juega con una baraja de cartas numéricas del 0 al 9. Elige al azar una carta de la baraja y vuelve a colocarla después de usarla. Ambos jugadores deben usar ese número en algún lugar de los espacios que aún no se han completado. Una vez que se llenan todos los espacios, los valores del jugador se comparan con cada uno de los números de objetivo. El jugador que se acerque más a cada número objetivo obtiene un punto, y ambos jugadores obtienen un punto si están igualmente cerca. Quien tenga más puntos gana.\n"
+"\n"
+"Varíe este juego teniendo diferentes conjuntos de números objetivo. También puedes optar por obtener el puntaje del juego sumando todos los errores de cada jugador. En este caso, gana el jugador con la puntuación menor."
+
+#. type=template
+msgctxt "template"
+msgid "Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players. Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards. After one or more passes through the cards, the player with the most cards wins."
+msgstr "Mezcle una baraja de cartas con las figuras y los dieces eliminados, y divídala equitativamente entre dos jugadores. Cada jugador da vuelta dos cartas y las coloca una al lado de la otra para formar un número de dos dígitos. El jugador con el número más grande se queda con las cuatro cartas. Si hay un empate, cada jugador da vuelta a dos cartas más y el ganador obtiene las ocho cartas. Después de uno o más pases a través de las cartas, el jugador con más cartas gana."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits. \n"
+"\n"
+"Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards. The player with the sum closest to the target without going over wins."
+msgstr ""
+"Tradicionalmente, el número objetivo es 21, pero para un niño pequeño use un número más pequeño, como 12. Ajuste el contenido de las cartas para su niño/niña. Por ejemplo, para un niño muy pequeño, esto podría ser las cartas 1 a 4 en los cuatro palos.\n"
+"\n"
+"Se reparten dos cartas a cada jugador: una boca arriba y otra boca abajo (el jugador receptor es el único que mira la carta boca abajo). Durante un turno, el jugador tiene la opción de pedir una carta más hasta que decida detenerse. Después de que cada jugador ha tenido su turno, los jugadores comparan la suma de sus cartas. El jugador con la suma más cercana al objetivo sin pasarse gana."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Shuffle a deck of playing cards with the numbers 1 to 9. Deal two cards to each player face down. Then, each player turns over one card and decides whether that card will be the tens or ones card. After deciding, each player’s remaining card is turned over and is used to fill the remaining place. The player with the larger number wins. You can also play that the smaller number wins. You can decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"\n"
+"To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"Baraja una baraja de cartas con los números del 1 al 9. Reparta dos cartas a cada jugador boca abajo. Luego, cada jugador da la vuelta a una carta y decide si esa carta será de decenas o de unidades. Después de decidir, la carta restante de cada jugador se voltea y se usa para llenar el lugar restante. El jugador con el número más grande gana. También puedes jugar a que gane el número más pequeño. Puede decidir si es más dramático mostrar las cartas a medida que se dan vuelta o esperar hasta que se tomen todas las decisiones y se formen los números finales.\n"
+"\n"
+"Para practicar un poco de suma, además de hacer que las decisiones sean más complicadas, saque tres cartas para dar vuelta una a la vez para formar un número de dos dígitos y un número de un solo dígito. El objetivo es crear la mayor suma de los dos números."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. The first player to get 3 in a row wins."
+msgstr ""
+"Usa una baraja de cartas con las figuras removidas. Llene un tablero de tic-tac-toe con números generados al azar del 1 al 20. Use un rango más grande si desea incluir la multiplicación.\n"
+"\n"
+"Reparta 6 cartas a cada jugador y luego les dan la vuelta al mismo tiempo. Para la primera jugada, es una carrera entre los dos jugadores: el primer jugador que combina dos o más de sus cartas para hacer coincidir uno de los cuadrados pone una X allí y reemplaza las cartas que se usaron. Después de eso, los jugadores se turnan para poner una X o una O en un cuadrado elegido cuyo valor pueden igualar: las cartas utilizadas para el partido se reemplazan por otras nuevas. Si no se puede hacer una coincidencia, el jugador pierde su turno y puede elegir dos de sus cartas para reemplazarlas por otras nuevas. El primer jugador en conseguir 3 seguidos gana."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use three dice and a board with three rows of five squares numbered from 1 to 15 . A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn. The winner is the one with the most claimed numbers after a fixed number of turns.\n"
+"\n"
+"A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr ""
+"Use tres dados y un tablero con tres filas de cinco cuadrados numerados del 1 al 15. Un jugador lanza los dados y usa la suma y la resta para combinar los tres números para que coincidan con uno de los números del tablero. El número coincidente es tachado y reclamado. Si un jugador no puede encontrar una coincidencia, el otro jugador tiene la oportunidad de usar los números y reclamar el resultado; en cualquier caso, el otro jugador tiene el siguiente turno. El ganador es el que tenga más números reclamados después de un número fijo de turnos.\n"
+"\n"
+"Una versión más pequeña usaría dos dados con los números del 1 al 10, y una versión más grande usaría 4 dados y los números del 1 al 20."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a deck with the  picture cards removed – you can leave in the Queens and use them as 0’s if you like. Before play starts, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with. Some examples are: \n"
+"\n"
+"* even numbers\n"
+"* odd numbers\n"
+"* square numbers (1, 4, 9, 16)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as 3\n"
+"\n"
+"Each player starts with three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so that the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so that the sum of the three cards is not a poison number, and so on. The first player unable to discard a legal card loses. This game works equally well with more than two players."
+msgstr ""
+"Use un mazo de cartas con las figuras removidas; puede dejar las Reinas y usarlas como ceros si quiere. Antes de que comience el juego, acuerde un conjunto de números \"venenosos\" para la ronda. Los números venenosos pueden ser cualquier conjunto de números con los que desee que su niño/niña practique. Algunos ejemplos son:\n"
+"\n"
+"*  números pares\n"
+"*  números impares\n"
+"*  números elevados al cuadrado (1, 4, 9, 16)\n"
+"*  números primos (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"*  múltiplos de un número, como 3\n"
+"\n"
+"Cada jugador comienza con tres cartas. El primer jugador descarta un número que no es un número venenoso y lo reemplaza con un número de la pila de robo. El siguiente jugador descarta un número para que la suma de los dos primeros números no sea un número venenoso y reemplaza el descarte con un número de la pila de robo. El siguiente jugador juega para que la suma de las tres cartas no sea un número venenoso, y así sucesivamente. El primer jugador que no pueda descartar una carta legal pierde. Este juego funciona igualmente bien con más de dos jugadores."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -3242,8 +3329,38 @@ msgstr "MÁS CERCA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "GUERRA – COMPARACIÓN DE DOBLE DÍGITO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "BLACKJACK DE MATEMÁTICAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "RELLENA EL ESPACIO Y COMPARA"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Comparing Double-Digit Numbers"
 msgstr "Comparación de Números de Dos Dígitos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "AL BLANCO DE O Y X"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "EXTERMINADOR 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "NÚMEROS VENENOSOS"
 
 #. type=data_list
 msgctxt "data_list"
