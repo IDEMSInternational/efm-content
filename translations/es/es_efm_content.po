@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-24 12:09\n"
+"PO-Revision-Date: 2022-08-24 13:06\n"
 
 #. type=template
 msgctxt "template"
@@ -1743,6 +1743,44 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Use compensation for sums between 11 and 18 to make them much easier. Suppose you’re adding 7 + 8. One person puts up 7 fingers and the other person puts up 8 fingers. Then, one person gives away as many fingers as are needed to put up 10 fingers on the other person’s hands. In this example, 7 + 8 could turn into 5 + 10 (giving away 2) or 10 + 5 (giving away 3). \n"
+"\n"
+"Be dramatic and give away the fingers by having one person’s hand bang into the other person’s hand and having the fingers transfer “magically.”"
+msgstr ""
+"Use compensación para sumas entre 11 y 18 para que sean mucho más fáciles. Suponga que suma 7 + 8. Una persona levanta 7 dedos y la otra 8 dedos. Luego, una persona regala tantos dedos como sean necesarios para poner 10 dedos en las manos de la otra persona. En este ejemplo, 7 + 8 podría convertirse en 5 + 10 (regalando 2) o 10 + 5 (regalando 3). \n"
+"\n"
+"Sea dramático y regale los dedos haciendo que la mano de una persona golpee la mano de la otra y que los dedos se transfieran \"mágicamente.\""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use “counting on” to make addition easy. Suppose you’re adding 8 + 3. For ease, pick the larger number being added to start the counting on. Have your child make a closed fist and say “8.” Then, lift one more finger each time as your child counts out loud “9, 10, 11.” When 3 fingers are raised, the counting stops. At that point, you  have that 8 plus 3 is 11.\n"
+"\n"
+"With practice and further ideas, your child will memorize these math facts. However, there is no hurry for memorization and it can wait until more experience with the quantities and relationships between the numbers has been gained."
+msgstr ""
+"Utilice \"contar hacia adelante\" para facilitar la adición. Suponga que está agregando 8 + 3. Para mayor facilidad, elija el número más grande que se está agregando para comenzar a contar. Haga que su niño/niña cierre el puño cerrado y diga \"8\". Luego, levante un dedo adicional cada vez que su niño/niña cuente en voz alta \"9, 10, 11\". Cuando se levantan 3 dedos, la cuenta se detiene. En ese momento, tiene que 8 más 3 son 11.\n"
+"\n"
+"Con práctica y más ideas, su niño/niña memorizará estas operaciones matemáticas. Sin embargo, no hay prisa por la memorización y se puede esperar hasta que se haya adquirido más experiencia con las cantidades y las relaciones entre los números."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Subtraction can be thought of as “take away” or “difference,” and both models are essential to a complete understanding. Have your child practice both ways of thinking of subtraction using these finger subtraction methods. We’ll look at 11 - 3.\n"
+"\n"
+"We’ll look at 11 - 3."
+msgstr ""
+"Se puede pensar en la resta como \"para llevar\" o \"diferencia\", y ambos modelos son esenciales para una comprensión completa. Haga que su niño/niña practique ambas formas de pensar en la resta usando estos métodos de resta de dedos. \n"
+"\n"
+"Veremos 11 - 3."
+
+#. type=template
+msgctxt "template"
+msgid "Take Away: Start with a closed fist and say “11.” Then, lifting one more finger each time, count “10, 9, 8.” When your child sees 3 fingers raised, the counting should stop. At that point you have that taking 3 away from 11 leaves 8."
+msgstr "Para llevar: Comience con el puño cerrado y diga \"11.\" Luego, levantando un dedo adicional cada vez, cuente \"10, 9, 8\". Cuando su niño/niña vea 3 dedos levantados, el conteo debe detenerse. En ese punto, determinan que quitar 3 de 11 deja 8."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -2634,6 +2672,21 @@ msgstr "CAPÍTULO 4 – ¡PUEDO CONTAR HASTA 20!"
 msgctxt "data_list"
 msgid "Chapter 4 Introduction"
 msgstr "Capítulo 4 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION W/ COMPENSATION"
+msgstr "ADICIÓN CON DEDOS USANDO COMPENSACIÓN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION THE EASY WAY"
+msgstr "ADICIÓN CON LOS DEDOS DE MANERA FÁCIL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION THE EASY WAY"
+msgstr "RESTA CON LOS DEDOS DE MANERA FÁCIL"
 
 #. type=data_list
 msgctxt "data_list"
