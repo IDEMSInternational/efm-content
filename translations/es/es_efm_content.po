@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-24 15:11\n"
+"PO-Revision-Date: 2022-08-24 16:09\n"
 
 #. type=template
 msgctxt "template"
@@ -1960,6 +1960,43 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them. The aim of the game is to be the first player to get rid of all their dominoes. \n"
+"\n"
+"To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes. For example, if [1,5] is on top, then it matches [2,4] because 1+5 = 2+4, and it also matches [2,2] because 5-1 = 2x2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile."
+msgstr ""
+"Use un juego de dominós que van del 1 al 6 o del 1 al 9. Cada jugador comienza con 5 dominós al azar sin dejar que el otro jugador los vea. El objetivo del juego es ser el primer jugador en deshacerse de todas sus fichas de dominó.\n"
+"\n"
+"Para empezar, se coloca un dominó al azar boca arriba en el medio. Después de eso, un jugador debe igualar el dominó superior que se encuentre en el medio. Emparejar significa que los dos números en la parte superior del dominó se pueden combinar con cualquier operación (sumar, restar o incluso multiplicar si lo desea) para obtener el mismo resultado que alguna operación, posiblemente diferente, que actúa sobre los dos números de uno de sus dominós. Por ejemplo, si [1,5] está arriba, entonces coincide con [2,4] porque 1+5 = 2+4, y también coincide con [2,2] porque 5-1 = 2x2. El nuevo dominó se coloca encima de la parte superior anterior. Si no puede emparejar, debe recoger un nuevo dominó de la pila."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile. \n"
+"\n"
+"During a turn, a player takes the top discard card or the unknown card at the top of the draw pile. The chosen card must replace a card they already have, and the replaced card is discarded. The goal for each player is to create a 6-card pyramid where each card is the sum of the two below it. The first player to achieve this wins. \n"
+"\n"
+"Experiment with smaller or larger ranges of cards to accommodate the skills of younger or older players."
+msgstr ""
+"Utilice tarjetas numéricas del 1 al 13. Para comenzar, cada jugador recibe 6 cartas boca arriba. Hay una pila de robo con una carta volteada para comenzar una pila de descarte.\n"
+"\n"
+"Durante un turno, un jugador toma la carta de descarte superior o la carta desconocida en la parte superior de la pila de robo. La carta elegida debe reemplazar una carta que ya tiene, y la carta reemplazada se descarta. El objetivo de cada jugador es crear una pirámide de 6 cartas donde cada carta es la suma de las dos que están debajo. El primer jugador en lograrlo gana.\n"
+"\n"
+"Experimente con rangos de cartas más pequeños o más grandes para adaptarse a las habilidades de los jugadores más jóvenes o mayores."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens. \n"
+"\n"
+"During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.” The first player to put all their tokens in houses wins."
+msgstr ""
+"Usa una baraja de cartas con números del 1 (As) al 10. En una hoja de papel compartida, dibuja 20 cajas o casas simples numeradas del 0 al 19. Cada jugador tiene 7 fichas distintas de las 7 fichas del otro jugador. \n"
+"\n"
+"Durante un turno, un jugador selecciona dos cartas al azar y puede elegir sumarlas, restarlas o multiplicarlas para poner su ficha en una casa con menos de tres de las fichas del oponente. Si la casa contiene una o dos de las fichas del oponente, esas fichas se devuelven al oponente y el jugador dice \"Sal de mi casa\". El primer jugador en poner todas sus fichas en las casas gana."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -2989,8 +3026,33 @@ msgstr "COMBINACIÓN DE DOMINÓS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "TRIÁNGULOS PARCIALMENTE ENTEROS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "SALGA DE MI CASA – RESTAR/SUMAR"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Games for Adding and Subtracting"
 msgstr "Juegos para Sumar y Restar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "CONTEO DE DOS EN DOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "SALTANDO ISLAS – SALTAR CONTEO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "Conteo de Dos en Dos"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3126,6 +3188,11 @@ msgstr "Saltando Islas – Compensación"
 msgctxt "data_list"
 msgid "DiffTriangles and SumTriangles"
 msgstr "DiffTriangles y SumaTriángulos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Skip Counting"
+msgstr "Saltando Islas – Saltar Conteo"
 
 #. type=data_list
 msgctxt "data_list"
