@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-23 19:21\n"
+"PO-Revision-Date: 2022-08-24 11:11\n"
 
 #. type=template
 msgctxt "template"
@@ -1711,6 +1711,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Your child has come so far! They can now count up and down between 0 and 20 and understand what all those quantities mean. Your child is comfortable “counting on” or “counting down” starting at any number in between 0 and 20. There is also a budding understanding of place value and how that relates to expanded form.\n"
+"\n"
+"Calculational abilities have also grown! Beyond adding and subtracting small numbers, your child has a sense of the number relationships of number bonds and fact families. The ideas of adding and subtracting 1 or 2, adding twins, and near twins, are ready to form the foundation for learning all the addition and subtraction facts. Your child has also picked up skip counting by 2, doubling, halving, and even and odd numbers – all of which are setting the stage for learning multiplication and division."
+msgstr ""
+"¡Su niño/niña ha llegado tan lejos! Ahora pueden contar hacia arriba y hacia abajo entre 0 y 20 y comprender qué significan todas esas cantidades. Su niño/niña se siente cómodo \"contando\" o \"contando hacia atrás\" a partir de cualquier número entre 0 y 20. También hay una comprensión incipiente del valor posicional y cómo eso se relaciona con la forma expandida.\n"
+"\n"
+"¡Las habilidades de cálculo también han aumentado! Más allá de sumar y restar números pequeños, su niño/niña tiene una idea de las relaciones numéricas de los vínculos numéricos y las familias de operaciones. Las ideas de sumar y restar 1 o 2, sumar gemelos y casi gemelos, están listas para formar la base para aprender todas las operaciones de suma y resta. Su niño/niña también ha aprendido a contar de 2 en 2, duplicar, dividir a la mitad y números pares e impares, todo lo cual está preparando el escenario para aprender a multiplicar y dividir."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -2592,6 +2603,11 @@ msgstr "PENTE O GOMOKU"
 msgctxt "data_list"
 msgid "Strategy Games"
 msgstr "Juegos de Estrategia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHAPTER 4 – I CAN COUNT TO 20!"
+msgstr "CAPÍTULO 4 – ¡PUEDO CONTAR HASTA 20!"
 
 #. type=data_list
 msgctxt "data_list"
