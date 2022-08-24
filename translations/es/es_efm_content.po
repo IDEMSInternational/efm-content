@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-24 16:09\n"
+"PO-Revision-Date: 2022-08-24 17:27\n"
 
 #. type=template
 msgctxt "template"
@@ -2161,6 +2161,11 @@ msgstr "Rompecabezas de DiffTriangles tienen triángulos y cuadrados que compart
 
 #. type=template
 msgctxt "template"
+msgid "Island Hopping – Skip Counting"
+msgstr "Saltando Islas – Saltar Conteo"
+
+#. type=template
+msgctxt "template"
 msgid "Activity"
 msgstr "Actividad"
 
@@ -3043,6 +3048,11 @@ msgstr "Juegos para Sumar y Restar"
 msgctxt "data_list"
 msgid "SKIP COUNTING"
 msgstr "CONTEO DE DOS EN DOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "PASOS CORTOS HACIA UN OBJETIVO"
 
 #. type=data_list
 msgctxt "data_list"
