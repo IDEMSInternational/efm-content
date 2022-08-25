@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-25 17:38\n"
+"PO-Revision-Date: 2022-08-25 18:50\n"
 
 #. type=template
 msgctxt "template"
@@ -2565,6 +2565,141 @@ msgstr "Para las tarjetas de expresión, reemplace cada número con el símbolo 
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Start with a blank multiplication table that has 4 product rows and 4 product columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers from 2 to 9, and these numbers can be duplicated.\n"
+"\n"
+"Fill in the table out of sight of your child, and then flip over or cover all the numbers. Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to figure out the entries for the top and left sides before running out of turns."
+msgstr ""
+"Comience con una tabla de multiplicar en blanco que tenga 4 filas de productos y 4 columnas de productos. También hay grupos de cuatro números faltantes en los lados superior e izquierdo; estos tendrán algunos de los números del 2 al 9, y estos números se pueden duplicar.\n"
+"\n"
+"Llene la tabla fuera de la vista de su niño/niña y luego dé vuelta o cubra todos los números. Su niño/niña puede pedir revelar, uno a la vez, hasta 10 de las 16 entradas de productos. El objetivo es averiguar las entradas para los lados superior e izquierdo antes de quedarse sin turnos."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Imagine that all the cards were flipped over in this example. If your child chose to flip over the card that happened to have the 63 under it, then they would know it came from a  7 and a 9. Flipping over any other card in the same row or column as the 63 would indicate where the 7 and 9 are. Suppose the second card they flipped over was where the 56 is. Not only would they know that the third column was for 7, they would also know that the second row was for 9 and the third row was for 8.\n"
+"\n"
+"Larger sizes also work. For example, a table with 5 blank rows and columns that allows for up to 12 flips will work well.\n"
+"\n"
+"Pick numbers for the top and left sides that you want your child to practice with."
+msgstr ""
+"Imagínese que se voltearon todas las cartas en este ejemplo. Si su niño/niña elige darle la vuelta a la tarjeta que tenía el 63 debajo, entonces sabría que proviene de un 7 y un 9. Voltear cualquier otra tarjeta en la misma fila o columna que el 63 indicaría dónde están el 7 y 9. Suponga que la segunda carta que voltearon estaba donde está el 56. No solo sabrían que la tercera columna era para 7, sino que también sabrían que la segunda fila era para 9 y la tercera fila para 8.\n"
+"\n"
+"Los tamaños más grandes también funcionan. Por ejemplo, una tabla con 5 filas y columnas en blanco que permita hasta 12 volteos funcionará bien.\n"
+"\n"
+"Elija números para los lados superior e izquierdo con los que desea que su niño/niña practique."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Have a board of numbers from 1 to 30. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens. \n"
+"\n"
+"The first player gets to pick any number and cover it with the last move token. After that, a player replaces the last move token with the other type of token and moves the last move token to any number that is a factor or multiple of the number from the last move. The losing player is the one forced to cover the number 1. \n"
+"\n"
+"As children get better at this game, they will discover rules they need to follow governing reasonable first moves. The most basic rule is that the first move cannot be on a prime number in the upper half of the numbers.\n"
+"\n"
+"Adjust the range of numbers for the skill level of the players - you can use 1 to 24, 1 to 48, or even 1 to 60."
+msgstr ""
+"Tenga un tablero de números del 1 al 30. Hay dos tipos de fichas: una sola ficha reservada para \"el último movimiento\" y una pila de otras fichas.\n"
+"\n"
+"El primer jugador puede elegir cualquier número y cubrirlo con la ficha de último movimiento. Después de eso, un jugador reemplaza la ficha de último movimiento con el otro tipo de ficha y mueve la ficha de último movimiento a cualquier número que sea un factor o múltiplo del número del último movimiento. El jugador perdedor es el que se ve obligado a cubrir el número 1.\n"
+"\n"
+"A medida que los niños mejoren en este juego, descubrirán las reglas que deben seguir y que determinan los primeros movimientos razonables. La regla más básica es que el primer movimiento no puede estar en un número primo en la mitad superior de los números.\n"
+"\n"
+"Ajuste el rango de números para el nivel de habilidad de los jugadores; puede usar 1 a 24, 1 a 48 o incluso 1 a 60."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Start with any number, say 20. Let your child decide whether to go first or second. During their turn, a player may subtract any divisor of the current number from the number. The player forced to 0 loses.\n"
+"\n"
+"After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for playing it - once they discover it, see if they can explain why it works."
+msgstr ""
+"Empiece con cualquier número, digamos 20. Deje que su niño/niña decida si va primero o segundo. Durante su turno, un jugador puede restar cualquier divisor del número actual de ese número. El jugador obligado a 0 pierde.\n"
+"\n"
+"Después de que su niño/niña se familiarice con el juego, anímelo a buscar la estrategia notablemente simple para jugarlo; una vez que lo descubra, vea si puede explicar por qué funciona."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Children have fun putting in X’s and watching the primes fall through the sieve. This activity creates opportunities for discovering many interesting properties of divisibility and primes.\n"
+"\n"
+"Start with a number line numbered from 1 to 25 - or a larger range if space and patience allows."
+msgstr ""
+"Los niños se divierten poniendo las X y viendo caer los números primos a través del tamiz. Esta actividad crea oportunidades para descubrir muchas propiedades interesantes de divisibilidad y números primos.\n"
+"\n"
+"Comience con una recta numérica numerada del 1 al 25, o un rango mayor si el espacio y la paciencia lo permiten."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Write the number 2 below itself. On the line even with this 2, put X’s below each multiple of 2.\n"
+" \n"
+"Now, pull down the lowest number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples. Keep pulling down numbers and marking their multiples. When you are finished, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!\n"
+"\n"
+"Here are some good questions to discuss with your child as they play with this sieve:\n"
+"\n"
+"* Why are the numbers pulled down primes?\n"
+"* What is the last prime whose multiples you need to cross out? Why were the other primes not useful?\n"
+"* For all the primes that were useful, which of their multiples produced new restrictions and which were not useful?\n"
+"* If you had a number, say 53, which prime numbers would you need to divide it by to confirm that it’s a prime?"
+msgstr ""
+"Escribe el número 2 debajo de sí mismo. En la línea par con este 2, coloque una X debajo de cada múltiplo de 2. \n"
+"\n"
+"Ahora, baje el número más bajo sin X debajo de él (3 en este caso) y colóquelo en la siguiente línea. Escribe el 3 y coloca X en esa línea para todos sus múltiplos. Sigue tirando números y marcando sus múltiplos. Cuando haya terminado, habrá eliminado todos los números primos. ¡Recuerde que 1 es una unidad y no un primo!\n"
+"\n"
+"Aquí hay algunas buenas preguntas para discutir con su niño/niña mientras juega con este colador:\n"
+"\n"
+"* ¿Por qué los números se reducen a números primos?\n"
+"* ¿Cuál es el último primo cuyos múltiplos necesitas tachar? ¿Por qué los otros números primos no fueron útiles?\n"
+"* Para todos los números primos que fueron útiles, ¿cuáles de sus múltiplos produjeron nuevas restricciones y cuáles no fueron útiles?\n"
+"* Si tuvieras un número, digamos 53, ¿por qué números primos necesitarías dividirlo para confirmar que es primo?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Have a collection of numbered cards from 1 to 25, or whatever range your child is comfortable with. A card is selected at random and used as everyone’s target number. The card is returned to the deck. Each player is dealt five cards to be used, in any order and with any operations, to get as close as possible to the target number. The closest player wins the round.\n"
+"\n"
+"A different way to score gives a player twice as many points as the number of cards they use to reach the target; a player receives 5 points for hitting the target with help; and a player receives 6 points for helping someone hit the target."
+msgstr ""
+"Tenga una colección de tarjetas numeradas del 1 al 25, o cualquier rango con el que su niño/niña se sienta cómodo. Se selecciona una carta al azar y se utiliza como número objetivo de todos. La carta se devuelve a la baraja. A cada jugador se le reparten cinco cartas para usar, en cualquier orden y con cualquier operación, para acercarse lo más posible al número objetivo. El jugador más cercano gana la ronda.\n"
+"\n"
+"Una forma diferente de anotar le da a un jugador el doble de puntos que la cantidad de cartas que usa para alcanzar el objetivo; un jugador recibe 5 puntos por llegar al objetivo con ayuda; y un jugador recibe 6 puntos por ayudar a alguien a dar en el blanco."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Near the end of Chapter 4, the Sum Difference activity had one person think of two numbers and then challenge the other person to find the numbers by telling them the sum and difference of the numbers. Secret Ops uses the same idea, only now the challenger can use any two operations, such as multiplying and subtracting.\n"
+"\n"
+"For example, the challenger might say “Which two numbers have a product of 12 and a difference of 4?” You can extend this to three numbers, if you like - “Which three numbers have a product of 12 and a sum of 8?”"
+msgstr ""
+"Cerca del final del Capítulo 4, la actividad de Diferencia de Suma hizo que una persona pensara en dos números y luego desafiara a la otra persona a encontrar los números diciéndoles la suma y la diferencia de los números. Operaciones Secretas usa la misma idea, solo que ahora el retador puede usar dos operaciones, como multiplicar y restar.\n"
+"\n"
+"Por ejemplo, el retador podría decir \"¿Qué dos números tienen un producto de 12 y una diferencia de 4?\" Puede ampliar esto a tres números, si lo desea: \"¿Qué tres números tienen un producto de 12 y una suma de 8?\""
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles are very easy for an adult to create. Take any equation, such as 9 = (2 + 7) x (5 - 2 x 2) and remove the parentheses. The challenge for your child is how to take 2 + 7 x 5 - 2 x 2 and add parentheses to it so that the result is 9."
+msgstr "Estos rompecabezas son muy fáciles de crear para un adulto. Toma cualquier ecuación, como 9 = (2 + 7) x (5 - 2 x 2) y quita el paréntesis. El desafío para su niño/niña es cómo tomar 2 + 7 x 5 - 2 x 2 y agregarle paréntesis para que el resultado sea 9."
+
+#. type=template
+msgctxt "template"
+msgid "Use the lever principle to practice multiplication and addition. The principle states that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
+msgstr "Usa el principio de palanca para practicar la multiplicación y la suma. El principio establece que la fuerza ejercida por una masa en un lado de una palanca es igual a la masa multiplicada por su distancia desde el punto de pivote, el fulcro. Las fuerzas de un lado de varias masas se suman para dar la fuerza total. Las fuerzas totales en los dos lados deben ser iguales para que la palanca esté en equilibrio."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be distances 5 and 3, but it can also be 10 and 6, or even larger answers like 15 and 9.\n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? What if the two weights are on different sides of the lever? This question continues the questions on the Make It Count page at the end of Chapter 4."
+msgstr ""
+"Tienes un peso de 3 unidades y un peso de 5 unidades para colocar en lados opuestos del fulcro. ¿Dónde deben equilibrarse? La respuesta a esto puede ser distancias 5 y 3, pero también puede ser 10 y 6, o respuestas incluso más grandes como 15 y 9.\n"
+"\n"
+"Si tienes un peso de 3 unidades y un peso de 5 unidades para poner en un lado de una palanca, ¿qué pesas puedes poner a cuales distancias del otro lado? ¿Qué pasa si las dos pesas están en lados diferentes de la palanca? Esta pregunta continúa con las preguntas de la página Hazlo Contar al final del Capítulo 4."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -2784,8 +2919,33 @@ msgstr "Balanza"
 
 #. type=template
 msgctxt "template"
+msgid "Nim With Factors"
+msgstr "Nim Con Factores"
+
+#. type=template
+msgctxt "template"
+msgid "Sieve of Eratosthenes"
+msgstr "Tamiz de Eratóstenes"
+
+#. type=template
+msgctxt "template"
 msgid "Activity"
 msgstr "Actividad"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Start with a number line numbered from 1 to 25 - or a larger range if space and your patience allows. \n"
+"\n"
+"Write the number 2 below itself. On the line even with this 2, put X’s below each multiple of 2. \n"
+"\n"
+"Now, pull down the first number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples. Continue in this way. At the end, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!"
+msgstr ""
+"Comience con una recta numérica numerada del 1 al 25, o un rango mayor si el espacio y la paciencia lo permiten.\n"
+"\n"
+"Escribe el número 2 debajo de sí mismo. En la línea par con este 2, coloque una X debajo de cada múltiplo de 2. \n"
+"\n"
+"Ahora, baje el número más bajo sin X debajo de él (3 en este caso) y colóquelo en la siguiente línea. Escribe el 3 y coloca X en esa línea para todos sus múltiplos. Sigue tirando números y marcando sus múltiplos. Cuando haya terminado, habrá eliminado todos los números primos. ¡Recuerde que 1 es una unidad y no un primo!"
 
 #. type=template
 msgctxt "template"
@@ -3914,6 +4074,51 @@ msgstr "Tarjetas y Tablas de Multiplicar"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "COVER FACTORS AND MULTIPLES"
+msgstr "CUBRIR FACTORES Y MÚLTIPLOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH FACTORS"
+msgstr "NIM CON FACTORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIEVE OF ERATOSTHENES"
+msgstr "TAMIZ DE ERATÓSTENES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors, Multiples, and Primes"
+msgstr "Factores, Múltiplos y Primos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MIX IT UP"
+msgstr "MÉZCLALO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SECRET OPS"
+msgstr "OPERACIONES SECRETAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PARENTHESES PUZZLES"
+msgstr "ROMPECABEZAS DE PARÉNTESIS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LEVER BALANCE"
+msgstr "BALANCE DE PALANCA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mixed Operations"
+msgstr "Operaciones Mixtas"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Introduction"
 msgstr "Introducción"
 
@@ -4066,6 +4271,16 @@ msgstr "Pirámide de Sumar"
 msgctxt "data_list"
 msgid "Investigations"
 msgstr "Investigaciones"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With Factors"
+msgstr "Nim Con Factores"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sieve of Eratosthenes"
+msgstr "Tamiz de Eratóstenes"
 
 #. type=data_list
 msgctxt "data_list"
