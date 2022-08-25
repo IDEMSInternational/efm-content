@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-25 16:30\n"
+"PO-Revision-Date: 2022-08-25 17:38\n"
 
 #. type=template
 msgctxt "template"
@@ -2432,6 +2432,139 @@ msgstr "Además de ser genial de una manera nerd, también significa que su niñ
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Skip counting is great for getting better at addition and subtraction. It also is a big help in getting started with multiplication.\n"
+"\n"
+"Although skip counting is not the fastest way to find a result, it is reliable and your child should use it as long as they need to. Suppose your child needs to find 7 x 3. Skip count by 3’s seven times or skip count by 7’s three times to get 21."
+msgstr ""
+"El conteo salteado es excelente para mejorar la suma y la resta. También es de gran ayuda para comenzar con la multiplicación.\n"
+"\n"
+"Aunque el conteo de saltos no es la forma más rápida de encontrar un resultado, es confiable y su niño/niña debe usarlo todo el tiempo que lo necesite. Suponga que su niño/niña necesita calcular 7 x 3. Cuente salteado de tres en tres siete veces o cuente de siete en siete tres veces para obtener 21."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"**Multiplying by 5 and 10**\n"
+"\n"
+"These facts are quickly learned, provide a backbone for other multiplication facts, and they help with understanding two-digit place value.\n"
+"\n"
+"**Squares**\n"
+"\n"
+"Just as addition twins are favorite math facts for addition, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts.\n"
+"\n"
+"**Doubling**\n"
+"\n"
+"Use this strategy for multiplying by even numbers. For example, the result of 6 x 7 is the double of 3 x 7. So, 6 x 7 is the double of 21, which is 42.\n"
+"\n"
+"**One More or One Less**\n"
+"\n"
+"This strategy is effective for the remaining multiplication facts. For example, 9 x 7 is one 7 less than 10 x 7 = 70. So it is 70 - 7 = 63. This can be done for all the 9’s. Similarly, 3 x 7 is one more 7 than doubling 7, so it is 7 + 14 = 21. This can be done for all the 3’s.\n"
+"\n"
+"**Multiplying by 9**\n"
+"\n"
+"Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write out the multiples of 9 in order, you’ll see that the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr ""
+"**Multiplicando por 5 y 10**\n"
+"\n"
+"Estas operaciones se aprenden rápidamente, proporcionan una columna vertebral para otras operaciones de multiplicación y ayudan a comprender el valor posicional de dos dígitos.\n"
+"\n"
+"**Cuadrados**\n"
+"\n"
+"Así como los gemelos de suma son las operaciones matemáticas favoritas para la suma, los cuadrados suelen ser los favoritos para la multiplicación. Aprender estos proporciona otra base para aprender otras tablas de multiplicar.\n"
+"\n"
+"**Doblamiento**\n"
+"\n"
+"Utilice esta estrategia para multiplicar por números pares. Por ejemplo, el resultado de 6 x 7 es el doble de 3 x 7. Entonces, 6 x 7 es el doble de 21, que es 42.\n"
+"\n"
+"**1 Más o 1 Menos**\n"
+"\n"
+"Esta estrategia es eficaz para el resto de las tablas de multiplicar. Por ejemplo, 9 x 7 es un 7 menos que 10 x 7 = 70. Entonces es 70 - 7 = 63. Esto se puede hacer para todos los 9. \n"
+"De manera similar, 3 x 7 es un 7 más que duplicar 7, por lo que es 7 + 14 = 21. Esto se puede hacer para todos los 3.\n"
+"\n"
+"**Multiplicando por 9**\n"
+"\n"
+"Aunque multiplicar por 9 está cubierto por la última estrategia, es divertido aprenderlos por derecho propio. Si escribe los múltiplos de 9 en orden, verá que el dígito de las decenas es siempre uno menos que el número por el que está multiplicando y el dígito de las unidades más el dígito de las decenas siempre suman 9!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.” Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total. A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins. \n"
+"\n"
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number.\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins.\n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"Cada jugador tiene una hoja de papel con 7 filas y 3 columnas. Las columnas están marcadas con \"10\", \"1\" y \"Total Acumulado\". El total acumulado de cada jugador comienza en 0. Tira un dado o elige una carta de juego al azar del 1 al 9. Cada jugador elige usar este número en la columna de 1 o 10 para la fila actual. Por ejemplo, si es un 4, puede convertirse en 4 o 40. El número elegido se suma al total acumulado. Un jugador que pasa por encima del objetivo de 100 \"se arruina\" y pierde. Si ninguno de los jugadores se quiebra, el que esté más cerca de 100 gana.\n"
+"\n"
+"Hay muchas opciones para este juego:\n"
+"\n"
+"* Use un número objetivo diferente.\n"
+"* Utilice menos o más filas.\n"
+"* No vayas a la quiebra si pasas por encima del objetivo. El jugador más cercano de cualquier lado gana.\n"
+"* Use una cuarta columna de 100 para practicar números de 3 dígitos.\n"
+"* Practique la resta comenzando en el número objetivo y reste hasta 0."
+
+#. type=template
+msgctxt "template"
+msgid "Have a paper with a number line from 0 to 99 to share. On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line. The first player to get four numbers in a region without any of the opponent’s numbers in between wins. The game can also be played from 000 to 999 if you like."
+msgstr "Tenga un papel con una recta numérica del 0 al 99 para compartir. En un turno, un jugador usa dos cartas aleatorias del 0 al 9, eligiendo el orden de estos dos dígitos, para generar un número del 00 al 99, y luego coloca ese número en su lado de la recta numérica. El primer jugador que obtenga cuatro números en una región sin ninguno de los números del oponente en el medio gana. El juego también se puede jugar de 000 a 999 si lo desea."
+
+#. type=template
+msgctxt "template"
+msgid "There are two versions of this. The first is the same as the Sum Groups puzzle in Chapter 3, only now the target sums can be bigger."
+msgstr "Hay dos versiones de esto. El primero es el mismo que el rompecabezas Suma de Grupos del Capítulo 3, solo que ahora el objetivo de sumas pueden ser mayores."
+
+#. type=template
+msgctxt "template"
+msgid "The other version uses a 4 by 4 board with a target number, say 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups. The challenge is to find that number."
+msgstr "La otra versión usa un tablero de 4 por 4 con un número objetivo, digamos 20. Como en los grupos de suma, el tablero está lleno de pares y triples de números que se suman al objetivo. Sin embargo, ahora habrá una casilla que no esté involucrada en ninguno de esos grupos. El desafío es encontrar ese número."
+
+#. type=template
+msgctxt "template"
+msgid "Create these by taking a simple addition or subtraction equation and leaving out some of the digits. For example, the following two problems are turned into Missing Number puzzles by leaving out a couple digits."
+msgstr "Cree estos tomando una ecuación simple de suma o resta y omitiendo algunos de los dígitos. Por ejemplo, los siguientes dos problemas se convierten en acertijos de Números Ausentes al omitir un par de dígitos."
+
+#. type=template
+msgctxt "template"
+msgid "After getting comfortable with these, your child may enjoy doing some Letter Substitution puzzles that are described on a later Adding and Subtracting page in this chapter."
+msgstr "Después de sentirse cómodo con estos, su niño/niña puede disfrutar haciendo algunos acertijos de Sustitución de Letras que se describen en una página posterior de Sumar y Restar en este capítulo."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Make a set of multiplication cards to practice these math facts while playing matching games your family played earlier: Chapter 1 - Go Fish, Memory Challenge; Chapter 2 - Bingo; Chapter 3 - Hot Potato; and Chapter 4 - Gin Rummy.\n"
+"\n"
+"Hand draw four cards to go with each math fact - 1) the expression 2) groups of objects, 3) an array, and 4) the prime factorization. If you make these the size of playing cards (2½” by 3½”), use a template from the Printables file if you like. \n"
+"\n"
+"Take 3 x 4 for example. The four cards would be:"
+msgstr ""
+"Haga un juego de tarjetas de multiplicación para practicar estas operaciones matemáticas mientras juega juegos de emparejar que su familia jugó anteriormente: Capítulo 1 - Ve a Pescar, Desafío de Memoria; Capítulo 2 - Bingo; Capítulo 3 - Papa Caliente; y Capítulo 4 - Gin Rummy.\n"
+"\n"
+"Dibuje cuatro tarjetas para cada operación matemática: 1) la expresión 2) grupos de objetos, 3) una matriz y 4) la factorización prima. Si los hace del tamaño de cartas de juego (2½ ”por 3½”), use una plantilla del archivo Imprimibles si lo desea.\n"
+"\n"
+"En 3 x 4 por ejemplo. Las cuatro cartas serían:"
+
+#. type=template
+msgctxt "template"
+msgid "You have several options for these cards. One option is to include 3 x 4 and not include 4 x 3. While this means you make about half as many cards, it has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3."
+msgstr "Tienes varias opciones para estas cartas. Una opción es incluir 3 x 4 y no 4 x 3. Si bien esto significa que genera aproximadamente la mitad de las tarjetas, tiene el inconveniente de que ver 3 grupos de 4 es diferente a ver 4 grupos de 3."
+
+#. type=template
+msgctxt "template"
+msgid "For array cards, put the skip counting numbers along one or both of the sides to help your child practice skip counting."
+msgstr "Para tarjetas de matriz, coloque los números de conteo de saltos a lo largo de uno o ambos lados para ayudar a su niño/niña a practicar el conteo de saltos."
+
+#. type=template
+msgctxt "template"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "Para las tarjetas de expresión, reemplace cada número con el símbolo de factorización prima del número. Esto hace que sea más fácil ver cómo encajan las factorizaciones primas al multiplicar dos números."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -3738,6 +3871,46 @@ msgstr "SALTAR EL CONTEO ES MULTIPLICACIÓN"
 msgctxt "data_list"
 msgid "Mental Multiplication"
 msgstr "Multiplicación Mental"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING 100"
+msgstr "HACIENDO 100"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAKE YOUR CLAIM"
+msgstr "HAGA SU RECLAMO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BONDED GROUPS"
+msgstr "GRUPOS VINCULADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MISSING NUMBERS"
+msgstr "NÚMEROS AUSENTES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value, Add, and Subtract"
+msgstr "Valor Posicional, Suma y Resta"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING MULTIPLICATION CARDS"
+msgstr "HACIENDO TARJETAS DE MULTIPLICACIÓN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "PRODUCTOS REVELADORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "Tarjetas y Tablas de Multiplicar"
 
 #. type=data_list
 msgctxt "data_list"
