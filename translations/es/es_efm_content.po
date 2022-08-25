@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-24 21:37\n"
+"PO-Revision-Date: 2022-08-25 10:08\n"
 
 #. type=template
 msgctxt "template"
@@ -2374,6 +2374,16 @@ msgstr "Saltando Islas por Unos y Dieces"
 
 #. type=template
 msgctxt "template"
+msgid "Solitaire Shape Puzzles"
+msgstr "Rompecabezas con Forma de Solitario"
+
+#. type=template
+msgctxt "template"
+msgid "Magic Triangles"
+msgstr "Triángulos Mágicos"
+
+#. type=template
+msgctxt "template"
 msgid "Activity"
 msgstr "Actividad"
 
@@ -3369,6 +3379,11 @@ msgstr "Más Juegos para Sumar y Restar"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MAGIC TRIANGLES"
+msgstr "TRIÁNGULOS MÁGICOS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "INVESTIGATIONS"
 msgstr "INVESTIGACIONES"
 
@@ -3506,6 +3521,11 @@ msgstr "Arreglalo"
 msgctxt "data_list"
 msgid "Island Hopping by Ones and Tens"
 msgstr "Saltando Islas por Unos y Dieces"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Shape Puzzles"
+msgstr "Rompecabezas con Forma de Solitario"
 
 #. type=data_list
 msgctxt "data_list"
