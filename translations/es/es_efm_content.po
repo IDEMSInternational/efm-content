@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-25 14:22\n"
+"PO-Revision-Date: 2022-08-25 15:24\n"
 
 #. type=template
 msgctxt "template"
@@ -2311,6 +2311,42 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "This starts with a 3 by 3 that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid. For the numbers that are not yet placed, the challenge is to place them to make the row and column sums be the target values."
+msgstr "Esto comienza con un 3 por 3 que tiene objetivo de sumas para cada fila y columna. Algunos de los números del 1 al 9 ya están colocados en la cuadrícula. Para los números que aún no se han colocado, el desafío es colocarlos para que las sumas de filas y columnas sean los valores del objetivo."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid. For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “where were these?”\n"
+"\n"
+"One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr ""
+"Para hacer uno de estos rompecabezas, comience colocando trozos de papel con los números del 1 al 9 en una cuadrícula de 3 x 3. Para cada fila y columna, escriba la suma a la derecha o abajo. Luego, elimine algunos de los números de la cuadrícula. Por último, entregue las hojas de papel con los números que le quitó a su niño/niña y pregúntele \"¿dónde estaban estos?\"\n"
+"\n"
+"Una variación que mantiene las sumas más pequeñas es usar los números del 0 al 8 en su lugar. Una variación más difícil es hacer lo mismo con los números del 1 al 12 en una cuadrícula de 3 por 4."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"One person gives two numbers, one a sum and the other a difference, and the other person is challenged to find the two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the numbers are 3 and 9.\n"
+"\n"
+"Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. If you start with two numbers and then say their sum and difference, that will guarantee that there is an answer.\n"
+"\n"
+"Challenge an older child with the question of why some sums and differences have reasonable answers and others do not."
+msgstr ""
+"Una persona da dos números, uno una suma y el otro una diferencia, y la otra persona tiene el desafío de encontrar los dos números que tienen esa suma y diferencia. Por ejemplo, si una persona dice que la suma es 12 y la diferencia es 6, la otra persona dice que los números son 3 y 9.\n"
+"\n"
+"Debido a lo fácil que es crear estas preguntas, esta es una buena actividad para dejar que su niño/niña sea el preguntador. No todas las combinaciones de números para la suma y la diferencia producirán respuestas razonables. Si comienza con dos números y luego dice su suma y diferencia, eso garantizará que hay una respuesta.\n"
+"\n"
+"Desafíe a un niño mayor con la pregunta de por qué algunas sumas y diferencias tienen respuestas razonables y otras no."
+
+#. type=template
+msgctxt "template"
+msgid "A pyramid of 10 numbers placed in 4 rows is given with a target number. The challenge is to find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other."
+msgstr "Se da una pirámide de 10 números colocados en 4 filas con un número objetivo. El desafío es encontrar un camino a través de la pirámide usando un número de cada fila para que la suma de los números sea el número objetivo. Los números en la ruta deben conectarse entre sí."
+
+#. type=template
+msgctxt "template"
 msgid "By now, your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication. This illustration makes it easy to see that two rows of three is the same as three rows of two – you just change your point of view! It doesn’t matter which order you multiply two numbers – you get the same answer either way!"
 msgstr "A estas alturas, su niño/niña está tan familiarizado con la suma que no es de extrañar que 2 + 3 sea lo mismo que 3 + 2. Aunque no es tan obvio, lo mismo ocurre con la multiplicación. Esta ilustración debería hacer que sea más fácil ver que dos filas de tres es lo mismo que tres filas de dos: ¡solo está cambiando su punto de vista! No importa en qué orden multiplique dos números, ¡obtendrá la misma respuesta de cualquier manera!"
 
@@ -2512,6 +2548,16 @@ msgstr "Triángulos Mágicos"
 msgctxt "template"
 msgid "Magic Designs"
 msgstr "Diseños Mágicos"
+
+#. type=template
+msgctxt "template"
+msgid "Sum Square"
+msgstr "Cuadrícula de Sumas"
+
+#. type=template
+msgctxt "template"
+msgid "Addition Pyramid"
+msgstr "Pirámide de Sumar"
 
 #. type=template
 msgctxt "template"
@@ -3535,8 +3581,28 @@ msgstr "Más Matemáticas Mentales"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "CUADRÍCULA DE SUMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "DIFERENCIA Y SUMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "PIRÁMIDE DE SUMAR"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "INVESTIGATIONS"
 msgstr "INVESTIGACIONES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "Haz Que Cuente"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3557,6 +3623,11 @@ msgstr "SALTAR EL CONTEO ES MULTIPLICACIÓN"
 msgctxt "data_list"
 msgid "Introduction"
 msgstr "Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "Sumando y Restando"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3687,6 +3758,16 @@ msgstr "Saltando Islas por Unos y Dieces"
 msgctxt "data_list"
 msgid "Solitaire Shape Puzzles"
 msgstr "Rompecabezas con Forma de Solitario"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Square"
+msgstr "Cuadrícula de Sumas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition Pyramid"
+msgstr "Pirámide de Sumar"
 
 #. type=data_list
 msgctxt "data_list"
