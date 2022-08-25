@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-25 11:05\n"
+"PO-Revision-Date: 2022-08-25 12:08\n"
 
 #. type=template
 msgctxt "template"
@@ -2240,6 +2240,27 @@ msgstr "9. Los números del 1 al 7 están en forma de H: 3 verticalmente a la iz
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Here’s a fun way to make a long addition problem into a much simpler problem. Use an adding problem that has several number bonds for 10. Instead of adding 3 + 8 + 9 + 4 + 7 + 6 + 2 the usual way from left to right, rearrange the terms to put the number bonds together. This example would become (3 + 7) + (8 + 2) + (4 + 6) + 9, which is just 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Once this is easy, include trickier problems such as 4 + 8 + 9 + 5 + 3, which can be rearranged as  (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Have your child make a habit of looking for ways to simplify long expressions to make these calculations easier."
+msgstr ""
+"Aquí hay una manera divertida de convertir un problema de suma larga en un problema mucho más simple. Utilice un problema de suma que tenga varios vínculos numéricos para 10. En lugar de sumar 3 + 8 + 9 + 4 + 7 + 6 + 2 de la forma habitual de izquierda a derecha, reorganice los términos para juntar los vínculos numéricos. Este ejemplo se convertiría en (3 + 7) + (8 + 2) + (4 + 6) + 9, que es solo 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Una vez que esto sea fácil, incluya problemas más complicados como 4 + 8 + 9 + 5 + 3, que se puede reorganizar como (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Haga que su niño/niña se acostumbre a buscar formas de simplificar expresiones largas para facilitar estos cálculos."
+
+#. type=template
+msgctxt "template"
+msgid "By now, your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication. This illustration makes it easy to see that two rows of three is the same as three rows of two – you just change your point of view! It doesn’t matter which order you multiply two numbers – you get the same answer either way!"
+msgstr "A estas alturas, su niño/niña está tan familiarizado con la suma que no es de extrañar que 2 + 3 sea lo mismo que 3 + 2. Aunque no es tan obvio, lo mismo ocurre con la multiplicación. Esta ilustración debería hacer que sea más fácil ver que dos filas de tres es lo mismo que tres filas de dos: ¡solo está cambiando su punto de vista! No importa en qué orden multiplique dos números, ¡obtendrá la misma respuesta de cualquier manera!"
+
+#. type=template
+msgctxt "template"
+msgid "In addition to being cool in a nerdy way, it also means that your child needs to master only about half as many multiplication facts – once your child knows 3 x 4, they also know 4 x 3."
+msgstr "Además de ser genial de una manera nerd, también significa que su niño/niña necesita dominar solo la mitad de las multiplicaciones; una vez que su niño/niña sabe 3 x 4, también sabe 4 x 3."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -3439,6 +3460,11 @@ msgstr "DISEÑOS MÁGICOS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "GRABBING 10’S"
+msgstr "AGARRANDO DECENAS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "More Mental Math"
 msgstr "Más Matemáticas Mentales"
 
@@ -3451,6 +3477,16 @@ msgstr "INVESTIGACIONES"
 msgctxt "data_list"
 msgid "Chapter 5 Introduction"
 msgstr "Capítulo 5 Introducción"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 x 4 = 4 x 3"
+msgstr "3 x 4 = 4 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING IS MULTIPLICATION"
+msgstr "SALTAR EL CONTEO ES MULTIPLICACIÓN"
 
 #. type=data_list
 msgctxt "data_list"
