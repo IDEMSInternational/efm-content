@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 10:41\n"
+"PO-Revision-Date: 2022-08-26 11:38\n"
 
 #. type=template
 msgctxt "template"
@@ -2876,6 +2876,76 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Factor trees are an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree.\n"
+"\n"
+"Start with a number, say 54. This can be broken down several ways. One way is  9 x 6, another is 18 x 3, and yet another is 3 x 3 x 6. Each of these produces a different start to a factor tree."
+msgstr ""
+"Los árboles de factores son una extensión de Productos de Forma de la página anterior Siente el Poder. El objetivo al crear un árbol de factores es reducir un número a sus factores primos. Se pueden aprender muchas cosas sobre un número en el proceso de construcción de un árbol de factores.\n"
+"\n"
+"Empiece con un número, digamos 54. Puede desglosarse de varias formas. Una forma es 9 x 6, otra es 18 x 3 y otra más es 3 x 3 x 6. Cada una de ellas produce un comienzo diferente para un árbol de factores."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2 x 3 x 3 x 3, but look at the different ways of getting there!\n"
+"\n"
+"After doing some examples like these, your child may naturally start asking some questions.\n"
+"\n"
+"Why do some trees have more levels than others? Why are some trees broader than others? Why do the leaves always stop at primes? Why do the leaves always have the same list of primes, perhaps with rearrangement?\n"
+"\n"
+"This last question is a really big question. It is so big it is called the Fundamental Theorem of Arithmetic. It says that each number has exactly one way of being expressed as a product of primes!\n"
+"\n"
+"You may ask: Why is that so important? It says that primes are the multiplicative building blocks of numbers, and once you have found one way to build a number, that is the only way. If you know that 54 = 2 x 3 x 3 x 3, then there is no way, using whole numbers, to write 54 = 5 x ___ . The uniqueness of prime factorizations is at the heart of a lot of beautiful number theory."
+msgstr ""
+"Cada uno de estos árboles finalmente produce los mismos primos en sus hojas. En cada caso, terminamos con 2 x 3 x 3 x 3, ¡pero mire las diferentes formas de llegar allí!\n"
+"\n"
+"Después de hacer algunos ejemplos como estos, su niño/niña naturalmente puede comenzar a hacer algunas preguntas.\n"
+"\n"
+"¿Por qué algunos árboles tienen más niveles que otros? ¿Por qué algunos árboles son más anchos que otros? ¿Por qué las hojas siempre se detienen en los números primos? ¿Por qué las hojas siempre tienen la misma lista de números primos, quizás con reordenamiento?\n"
+"\n"
+"Esta última pregunta es realmente importante. Es tan grande que se llama Teorema Fundamental de la Aritmética. ¡Dice que cada número tiene exactamente una forma de expresarse como producto de números primos!\n"
+"\n"
+"Puede preguntar: ¿Por qué es eso tan importante? Dice que los números primos son los bloques de construcción multiplicativos de los números, y una vez que haya encontrado una forma de construir un número, esa es la única forma. Si sabe que 54 = 2 x 3 x 3 x 3, entonces no hay forma, usando números enteros, de escribir 54 = 5 x ___. La singularidad de las factorizaciones primas es central en la gran cantidad de hermosas teorías de números."
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles are the multiplicative version of the Addition Pyramids seen in Chapter 4. You are supplied with a target number and a pyramid of numbers. The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr "Estos acertijos son la versión multiplicativa de las Pirámides de Suma que se vieron en el Capítulo 4. Se le proporciona un número objetivo y una pirámide de números. El desafío es encontrar un camino de números conectados hacia abajo de la pirámide para que el producto de los números seleccionados sea el objetivo."
+
+#. type=template
+msgctxt "template"
+msgid "The target is 36 in this pyramid and the red lines indicate the path that works. Your child may notice that these puzzles are much easier if they start by doing the prime factorization of the target. Because 36 = 2 x 2 x 3 x 3, they know they must pick up those prime factors along the path and this helps guide the search. Having the adult know about prime factorizations also makes it much easier to create these puzzles."
+msgstr "El objetivo es 36 en esta pirámide y las líneas rojas indican el camino que funciona. Su niño/niña puede notar que estos acertijos son mucho más fáciles si comienzan haciendo la factorización principal del objetivo. Debido a que 36 = 2 x 2 x 3 x 3, saben que deben recoger esos factores primos a lo largo del camino y esto ayuda a guiar la búsqueda. El que el adulto sepa sobre las factorizaciones primas también hace que sea mucho más fácil crear estos rompecabezas."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the  target number at 100. Four random cards are chosen and used to make a pair of 2-digit numbers, a shared resource. \n"
+"\n"
+"Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player uses two cards to replace two of the four cards, and the resulting pair of numbers must add up to the target. A player passes if that is not possible. The first player to run out of cards wins. If both players become stuck, the player with fewer cards wins.\n"
+"\n"
+"Some options are to change the target number and to give players fewer or more than 14 cards. Another option is to use subtraction together with a smaller target number."
+msgstr ""
+"Utilice una baraja de cartas con Q (como 0), A (como 1) y 2-9. Establezca el número objetivo como 100. Se eligen cuatro cartas al azar y se usan para hacer un par de números de 2 dígitos, un recurso compartido.\n"
+"\n"
+"Cada jugador recibe 14 cartas al azar boca arriba. Los jugadores alternan turnos. Durante un turno, un jugador usa dos cartas para reemplazar dos de las cuatro cartas, y el par de números resultante debe sumarse al objetivo. Un jugador pasa si eso no es posible. El primer jugador que se quede sin cartas gana. Si ambos jugadores se atascan, el jugador con menos cartas gana.\n"
+"\n"
+"Algunas opciones son cambiar el número objetivo y dar a los jugadores menos o más de 14 cartas. Otra opción es utilizar la resta junto con un número objetivo más pequeño."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Choose a target number, say 100. Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round. The highest number of points after a fixed number of rounds wins.\n"
+"\n"
+"One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr ""
+"Elija un número objetivo, digamos 100. Cada jugador toma cinco cartas al azar del 0 al 9. Se forman dos números de 2 dígitos con estos números, la quinta carta no se usa. Se suman los dos números y el jugador más cercano al objetivo gana un punto para esa ronda. Gana el mayor número de puntos después de un número fijo de rondas.\n"
+"\n"
+"Una opción es usar números de tres dígitos, y el número objetivo de 1000, y cada jugador recibe siete cartas. Otra opción es utilizar la resta con un número objetivo más pequeño."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -4375,8 +4445,28 @@ msgstr "Sienta el Poder"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "ÁRBOLES DE FACTORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "PIRÁMIDE DE PRODUCTO"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Factoring With Primes"
 msgstr "Factorización con Primos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100 RISAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "SORTEO DE 5 CARTAS HACIA UN OBJETIVO"
 
 #. type=data_list
 msgctxt "data_list"
