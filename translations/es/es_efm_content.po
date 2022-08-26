@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-25 20:51\n"
+"PO-Revision-Date: 2022-08-26 10:41\n"
 
 #. type=template
 msgctxt "template"
@@ -4372,6 +4372,11 @@ msgstr "PRACTICA FACTORIZACIONES DE PRIMOS"
 msgctxt "data_list"
 msgid "Feel the Power"
 msgstr "Sienta el Poder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "Factorización con Primos"
 
 #. type=data_list
 msgctxt "data_list"
