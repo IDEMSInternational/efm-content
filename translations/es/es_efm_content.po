@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 15:28\n"
+"PO-Revision-Date: 2022-08-26 16:27\n"
 
 #. type=template
 msgctxt "template"
@@ -2999,6 +2999,63 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"In which ways can you fill a square with other squares, where the other squares need not all be the same size? However, the side length of each square must be some whole number multiple of a fixed length. The question to investigate is: What are all the numbers of squares that are possible? If you know a number is possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days and don’t be in a hurry to get to the answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"¿De qué manera se puede llenar un cuadrado con otros cuadrados, donde los otros cuadrados no necesitan ser todos del mismo tamaño? Sin embargo, la longitud del lado de cada cuadrado debe ser un múltiplo de un número entero de una longitud fija. La pregunta a investigar es: ¿Cuáles son todos los números de cuadrados que son posibles? Si sabe que un número es posible, ¿hay una manera fácil de describir cómo hacerlo?\n"
+"\n"
+"Deje que su juegue con él durante muchos días y no se apresure a encontrar la respuesta. Aquí hay un diagrama que muestra cómo 6 es posible."
+
+#. type=template
+msgctxt "template"
+msgid "If your child enjoys exploring that question, explore variations on this theme. Suppose you only allow squares of certain sizes - such as 1 by 1, 2 by 2, and 3 by 3. Another direction to look at is  filling other figures with figures that have the same shape. For example, ask the same question for regular triangles (triangles with all their sides the same length). Some figures are interesting to investigate in this way, and some are not interesting at all - which ones?"
+msgstr "Si a sus niños les gusta explorar esa pregunta, explore variaciones sobre este tema. Suponga que sólo permite cuadrados de ciertos tamaños, como 1 por 1, 2 por 2 y 3 por 3. Otra dirección para mirar es llenar otras figuras con figuras que tienen la misma forma. Por ejemplo, haz la misma pregunta para triángulos regulares (triángulos con todos sus lados de la misma longitud). Algunas cifras son interesantes de investigar de esta manera, y otras no lo son en absoluto, ¿cuáles?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can). The first player to claim 3 squares in a row wins.\n"
+"\n"
+"Mix up the product numbers to give your child better practice identifying the products. See the Chapter 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"El primer jugador mueve una ficha a cualquier número del 1 al 9 en los cuadrados del 1 al 9. El segundo jugador coloca otra ficha en uno de los cuadrados del 1 al 9 y reclama el producto en la cuadrícula de 6 por 6. A partir de ese momento, cada jugador elige mover cualquiera de las dos fichas y reclama el producto (si puede). El primer jugador en reclamar 3 casillas seguidas gana.\n"
+"\n"
+"Mezcle los números de los productos para que su niño/niña practique mejor la identificación de los productos. Consulte el Capítulo 5 Material Adicional para conocer los diseños de tablas más grandes con rangos más amplios."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles. The challenge is to fill in the missing numbers.\n"
+"\n"
+"Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"Estos rompecabezas tienen islas (círculos y cuadrados) conectados por puentes (líneas). Si hay dos círculos a cada lado de un cuadrado, entonces el cuadrado contiene el producto de los dos círculos. El desafío consiste en completar los números que faltan.\n"
+"\n"
+"Haga estos rompecabezas llenando los círculos, luego llenando los cuadrados y finalmente quitando algunos de los números antes de dárselos a su niño/niña.\n"
+"\n"
+"Además de practicar la multiplicación, estos acertijos se pueden estructurar para practicar también factores comunes. En el primer acertijo, el único número, que no sea 1, que divide 14 y 21 es 7, por lo que es el número en el círculo inferior."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces. You win by taking all your opponent’s pieces. \n"
+"\n"
+"For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr ""
+"Este juego está ligeramente inspirado por las damas. Cada jugador tiene 10 fichas. Las fichas están numeradas del 1 al 10, con la ficha \"10\" marcada con 10 y 11. Las fichas comienzan en las últimas filas de una tabla de 100: un jugador en las casillas 1 a 10 y el otro en las casillas 91 a 100.\n"
+"\n"
+"Inicialmente, las fichas solo pueden avanzar una fila a cualquier múltiplo de los números en el marcador que elijan; para el jugador que comienza del 1 al 10, avanzar significa números más grandes, y para el jugador que comienza del 91 al 100, adelante significa números más pequeños. Una vez que un contador ha recorrido todo el tablero, se convierte en rey y luego puede avanzar o retroceder una fila después de eso. Una pieza del oponente se toma al aterrizar sobre ella. La pieza de un jugador no puede duplicarse con otra pieza del mismo jugador. Ganas tomando todas las piezas de tu oponente. \n"
+"\n"
+"Para los jugadores más jóvenes, acorte el tablero para usar las primeras 6 filas, los números del 1 al 60. Los niños que aún no conocen todos los múltiplos pueden usar el conteo por saltos para calcular los movimientos."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -3284,6 +3341,22 @@ msgstr "Investigación"
 msgctxt "template"
 msgid "Filling Regions With Shapes - Introduction"
 msgstr "Llenando Regiones con Formas - Introducción"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and you have a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough. \n"
+"\n"
+"Let’s start removing some squares from the chessboard and see what happens. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will always cover an even number of squares, and there are now 63 squares to cover. Okay, remove two corners to make an even number of remaining squares - can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what will happen then?"
+msgstr ""
+"Suponga que tiene un tablero de ajedrez de 8 por 8 y tiene una colección de fichas de 1 por 2. Encuentre una manera de cubrir exactamente el tablero de ajedrez con 32 de estas fichas de 1 por 2 es bastante simple.\n"
+"\n"
+"Empecemos quitando cuadrados del tablero de ajedrez y viendo qué pasa. Si quita una esquina del tablero de ajedrez, sabrá de inmediato que ya no puede cubrir el tablero de ajedrez con fichas porque las fichas siempre cubrirán un número par de casillas, y ahora hay 63 casillas. Bien, quite dos esquinas para hacer un número par de cuadrados restantes, ¿puede cubrirlo ahora? La respuesta depende de las dos esquinas que elimine. ¿Por qué? ¿Qué pasa si ya no te limitas a quitar esquinas, entonces qué sucederá?"
+
+#. type=template
+msgctxt "template"
+msgid "Use a shared piece of paper filled out as follows:"
+msgstr "Utilice una hoja de papel compartida rellenada de la siguiente manera:"
 
 #. type=template
 msgctxt "template"
@@ -4572,8 +4645,33 @@ msgstr "LLENANDO REGIONES CON FORMAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "LLENADO CUADRADOS CON CUADRADOS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Shapes Inside Shapes"
 msgstr "Formas dentro de formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "EL JUEGO DEL PRODUCTO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "SALTANDO ISLAS CON PRODUCTOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "JUEGO DE LAS DAMAS EN MATEMÁTICA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "Multiplicación y Múltiplos"
 
 #. type=data_list
 msgctxt "data_list"
