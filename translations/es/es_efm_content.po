@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 11:38\n"
+"PO-Revision-Date: 2022-08-26 12:59\n"
 
 #. type=template
 msgctxt "template"
@@ -4467,6 +4467,11 @@ msgstr "100 RISAS"
 msgctxt "data_list"
 msgid "5-CARD DRAW TO A TARGET"
 msgstr "SORTEO DE 5 CARTAS HACIA UN OBJETIVO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "SUSTITUCIÓN DE LETRAS"
 
 #. type=data_list
 msgctxt "data_list"
