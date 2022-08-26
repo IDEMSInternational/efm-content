@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 18:23\n"
+"PO-Revision-Date: 2022-08-26 19:26\n"
 
 #. type=template
 msgctxt "template"
@@ -3128,6 +3128,77 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Players start the game by secretly picking 5 distinct numbers larger than 20 and not bigger than 120. After they are selected, they are written where all can see them.\n"
+"\n"
+"Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120. The first player to have all five numbers hit is the winner. \n"
+"\n"
+"After your child has played a few times, they will begin developing strategies for selecting their five numbers. A simple strategy is that it is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 - it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them..\n"
+"\n"
+"There are many other options to play with. You can triple the number each time instead of doubling it. You can double it and add one each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr ""
+"Los jugadores comienzan el juego eligiendo en secreto 5 números distintos mayores de 20 y no mayores de 120. Una vez seleccionados, se escriben donde todos puedan verlos.\n"
+"\n"
+"Usando tarjetas numéricas o algún otro dispositivo, se crea un número aleatorio del 1 al 20. Ese número se duplica repetidamente hasta que se acierta el número de alguien por primera vez o el número se vuelve más grande que 120. El primer jugador en obtener los cinco números es el ganador.\n"
+"\n"
+"Después de que su niño/niña haya jugado varias veces, comenzará a desarrollar estrategias para seleccionar sus cinco números. Una estrategia simple es que es una mala idea elegir un número, como 46, que no sea una potencia de 2 veces un número entre 1 y 20; nunca lo acertará. Algunos números con muchos factores de 2, como 32, tienen más probabilidades de acertar porque pueden llegar a ellos más números iniciales.\n"
+"\n"
+"Hay muchas otras opciones para jugar. Puede triplicar el número cada vez en lugar de duplicarlo. Puede duplicarlo y agregar uno cada vez. Para los jugadores más jóvenes, seleccione números por encima de 10 y no por encima de 60, y seleccione un número aleatorio del 1 al 10."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Have two sets of cards, say from 1 to 25. Play the standard game of war with these, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards - otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, then next cards are turned over and the winner receives all the cards.\n"
+"\n"
+"There are several possible variations for you to play around with. You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr ""
+"Tenga dos juegos de cartas, digamos del 1 al 25. Juegue el juego de guerra (War) estándar con estos, solo que ahora el ganador es la carta que tiene más factores. Por ejemplo, 12 vence a 16 porque 12 tiene 6 factores (1, 2, 3, 4, 6 y 12) mientras que 16 tiene 5 factores (1, 2, 4, 8 y 16). El poseedor de la carta ganadora debe poder enumerar correctamente los factores para ganar las cartas; de lo contrario, las cartas se volverán a barajar en la pila de robo de cada jugador. Al igual que con Guerra (War) estándar, cuando hay un empate, las siguientes cartas se dan la vuelta y el ganador recibe todas las cartas.\n"
+"\n"
+"Hay varias variaciones posibles con las que puedes jugar. Puedes jugar a que gane el menor número de factores. Puede contar el total de sólo los factores primos en lugar de todos los factores. Puedes jugar a que las potencias primas (números que son la potencia de un primo) vencen a otros números."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Each player starts with a 4 by 4 grid of numbers that are possible multiplication products - these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it. The first player to get 4 in a row wins."
+msgstr ""
+"Cada jugador comienza con una cuadrícula de números de 4 por 4 que son posibles productos de la multiplicación; estos números pueden ser asignados al azar o elegidos cuidadosamente por el jugador.\n"
+"\n"
+"Para empezar, se reparten dos cartas y se ponen boca arriba sobre la mesa. Si alguno de los jugadores tiene el producto de esos dos números, lo cubren. A partir de ese momento, los jugadores se turnan para tomar la primera carta del mazo de robo y elegir cuál de las dos cartas reemplazar. Todos los jugadores que tienen un partido con el producto lo cubren. El primer jugador en conseguir 4 seguidos gana."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10. \n"
+"\n"
+"On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path. \n"
+"\n"
+"You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr ""
+"Usa una tabla de 100 con los 36 cuadrados en los cuatro bordes de color gris. Use naipes sin dibujos o use tarjetas de números del 1 al 10. \n"
+"\n"
+"En un turno, si elige un 1, puede reclamar cualquier número impar; si elige cualquier otro número, puede reclamar cualquier múltiplo. Si reclama un número, su oponente no puede reclamarlo. El objetivo es trazar un camino desde un borde hasta el borde opuesto, en cualquier dirección. No necesita reclamar los cuadrados en el orden de su ruta. \n"
+"\n"
+"Puedes jugar a que las conexiones diagonales están bien o no. Otra opción es incluir tarjetas con imágenes; si obtiene una de estas, puede colocar un cuadrado bloqueado que no se puede incluir en el camino de ninguna de las personas."
+
+#. type=template
+msgctxt "template"
+msgid "This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once. The challenge is to fill in some of the squares, two numbers for each row and each column, so that the product of a row is the number marked to the far left and the product of the column is the number marked above the column. Some rows or columns may not be marked - if so, there is no constraint on the product of those rows or columns."
+msgstr "Este acertijo de multiplicación es de 3 por 3 con cada uno de los números del 1 al 6 que aparezcan exactamente una vez, o de 4 por 4 con los números del 1 al 8 exactamente una vez. El desafío es llenar algunos de los cuadrados, dos números para cada fila y cada columna, de modo que el producto de una fila sea el número marcado en el extremo izquierdo y el producto de la columna sea el número marcado arriba de la columna. Es posible que algunas filas o columnas no estén marcadas; de ser así, no hay ninguna restricción sobre el producto de esas filas o columnas."
+
+#. type=template
+msgctxt "template"
+msgid "Solve this puzzle by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "Resuelve este acertijo encontrando columnas y filas donde puedas identificar los dos números. La columna 30 debe tener 5 y 6, y la fila 10 debe tener 2 y 5. Luego, la columna 12 debe tener 3 y 4 y la fila 4 debe tener 1 y 4. El resto sigue rápidamente."
+
+#. type=template
+msgctxt "template"
+msgid "As is often the case with these puzzles, the adult can make them by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr "Como suele ser el caso con estos rompecabezas, el adulto puede hacerlos completando los números en el interior del rompecabezas primero, escribiendo los productos y luego quitando todos los números del interior."
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -3454,6 +3525,11 @@ msgstr "Juego"
 msgctxt "template"
 msgid "Introduction"
 msgstr "Introducción"
+
+#. type=template
+msgctxt "template"
+msgid "Players start the game by secretly picking 5 distinct numbers larger than 20 and not bigger than 120. After they are selected, they are written where all can see them. Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120. The first player to have all five numbers hit is the winner."
+msgstr "Los jugadores comienzan el juego eligiendo en secreto 5 números distintos mayores de 20 y no mayores de 120. Una vez seleccionados, se escriben donde todos puedan verlos. Usando tarjetas numéricas o algún otro dispositivo, se crea un número aleatorio del 1 al 20. Ese número se duplica repetidamente hasta que se acierta el número de alguien por primera vez o el número se vuelve más grande que 120. El primer jugador en obtener los cinco números es el ganador."
 
 #. type=template
 msgctxt "template"
@@ -4782,8 +4858,33 @@ msgstr "DOBLE O NADA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FACTOR WAR"
+msgstr "GUERRA DE FACTORES"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Factors Count"
 msgstr "Recuento de Factores"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "BINGO DE MULTIPLICACIÓN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "CRUZANDO EL VOLCÁN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "PRODUCTOS CRUZADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "Productos Interesantes"
 
 #. type=data_list
 msgctxt "data_list"
