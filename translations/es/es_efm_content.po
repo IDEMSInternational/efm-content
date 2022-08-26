@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 12:59\n"
+"PO-Revision-Date: 2022-08-26 14:25\n"
 
 #. type=template
 msgctxt "template"
@@ -2943,6 +2943,30 @@ msgstr ""
 "Elija un número objetivo, digamos 100. Cada jugador toma cinco cartas al azar del 0 al 9. Se forman dos números de 2 dígitos con estos números, la quinta carta no se usa. Se suman los dos números y el jugador más cercano al objetivo gana un punto para esa ronda. Gana el mayor número de puntos después de un número fijo de rondas.\n"
 "\n"
 "Una opción es usar números de tres dígitos, y el número objetivo de 1000, y cada jugador recibe siete cartas. Otra opción es utilizar la resta con un número objetivo más pequeño."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Once your child becomes comfortable with the Missing Number puzzles from a few pages earlier in this chapter, they can start these puzzles. In these, one or more of the digits are replaced by letters. The three rules for letters are: \n"
+"\n"
+"* A given letter is always the same digit\n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits\n"
+"\n"
+"Create these puzzles by taking an addition or subtraction problem and replacing one or more of the digits, as in the following examples:"
+msgstr ""
+"Una vez que su niño/niña se sienta cómodo/a con los acertijos de Números Perdidos de algunas páginas anteriores de este capítulo, puede comenzar con estos rompecabezas. En estos, uno o más de los dígitos se reemplazan por letras. Las tres reglas para las letras son:\n"
+"\n"
+"* Una letra dada es siempre el mismo dígito \n"
+"* El más a la izquierda de un número nunca es 0\n"
+"* Las letras diferentes deben ser dígitos diferentes\n"
+"\n"
+"Cree estos rompecabezas tomando un problema de suma o resta y reemplazando uno o más de los dígitos, como en los siguientes ejemplos:"
+
+#. type=template
+msgctxt "template"
+msgid "The puzzles can also be created to make interesting problem-solving challenges for your child. Note that the values of the letters do not carry over from puzzle to puzzle."
+msgstr "Los acertijos también se pueden crear para crear interesantes desafíos de resolución de problemas para su niño/niña. Tenga en cuenta que los valores de las letras no se transfieren de un rompecabezas a otro."
 
 #. type=template
 msgctxt "template"
