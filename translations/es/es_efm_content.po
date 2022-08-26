@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 14:25\n"
+"PO-Revision-Date: 2022-08-26 15:28\n"
 
 #. type=template
 msgctxt "template"
@@ -2955,7 +2955,7 @@ msgid ""
 "\n"
 "Create these puzzles by taking an addition or subtraction problem and replacing one or more of the digits, as in the following examples:"
 msgstr ""
-"Una vez que su niño/niña se sienta cómodo/a con los acertijos de Números Perdidos de algunas páginas anteriores de este capítulo, puede comenzar con estos rompecabezas. En estos, uno o más de los dígitos se reemplazan por letras. Las tres reglas para las letras son:\n"
+"Una vez que su niño/niña se sienta cómodo/a con los acertijos de Números Perdidos de algunas páginas anteriores de este capítulo, pueden comenzar con estos rompecabezas. En estos, uno o más de los dígitos se reemplazan por letras. Las tres reglas para las letras son:\n"
 "\n"
 "* Una letra dada es siempre el mismo dígito \n"
 "* El más a la izquierda de un número nunca es 0\n"
@@ -2967,6 +2967,35 @@ msgstr ""
 msgctxt "template"
 msgid "The puzzles can also be created to make interesting problem-solving challenges for your child. Note that the values of the letters do not carry over from puzzle to puzzle."
 msgstr "Los acertijos también se pueden crear para crear interesantes desafíos de resolución de problemas para su niño/niña. Tenga en cuenta que los valores de las letras no se transfieren de un rompecabezas a otro."
+
+#. type=template
+msgctxt "template"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at. This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up? The answer depends on the size of the table. This is what happens on a 3 by 4 table."
+msgstr "Imagine una mesa de billar que tiene un bolsillo en cada una de las cuatro esquinas. Cuando una pelota rebota en el costado de la mesa, rebota en el mismo ángulo en el que entró. Esta investigación analiza la pregunta: si disparamos una pelota en un ángulo de 45 grados desde una esquina, ¿dónde terminará? La respuesta depende del tamaño de la mesa. Esto es lo que sucede en una mesa de 3 por 4."
+
+#. type=template
+msgctxt "template"
+msgid "After playing with several of these, challenge your child to predict what the answer is in advance. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr "Después de jugar con varios de estos, desafíe a sus niños a predecir cuál es la respuesta de antemano. Comenzando en la esquina inferior izquierda, ¿qué esquina se golpeará primero y cuántos rebotes tomará?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and you have a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough. \n"
+"\n"
+"Let’s start playing around with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares - can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"One important lesson in dealing with questions like these is to learn from playing with smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first.\n"
+"\n"
+"If your child is enjoying these questions, start branching out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to play with?"
+msgstr ""
+"Suponga que tiene un tablero de ajedrez de 8 por 8 y tiene una colección de fichas de 1 por 2. Encuentre una manera de cubrir exactamente el tablero de ajedrez con 32 de estas fichas de 1 por 2 es bastante simple.\n"
+"\n"
+"Empecemos a jugar quitando cuadrados del tablero de ajedrez. Si quita una esquina del tablero de ajedrez, sabrá de inmediato que ya no puede cubrir el tablero de ajedrez con fichas porque las fichas cubrirán un número par de casillas, y ahora hay 63 casillas. Bien, quite dos esquinas para hacer un número par de cuadrados restantes, ¿puede cubrirlo ahora? La respuesta depende de las dos esquinas que elimine. ¿Por qué? ¿Qué pasa si ya no te limitas a quitar esquinas, qué sucede?\n"
+"\n"
+"Una lección importante al tratar con preguntas como estas es aprender jugando con problemas más pequeños. Pruebe estas preguntas en un tablero de 4 por 4 o 6 por 6 primero.\n"
+"\n"
+"Si sus niños disfrutan con estas preguntas, comience a usar otras formas para llenar el tablero. Juega llenándolo con fichas de 1 por 3 o con 3 cuadrados en forma de L. ¿Qué patrones y reglas descubres con estos? ¿Con qué otras formas podría ser interesante jugar?"
 
 #. type=template
 msgctxt "template"
@@ -3224,8 +3253,37 @@ msgstr "Divide la Caja"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Once your child becomes comfortable with the Missing Number puzzles from a few pages earlier in this chapter, they can start playing with these puzzles. In these, one or more of the digits are replaced by letters. The three rules for letters are: \n"
+"\n"
+"* A given letter is always the same digit\n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits\n"
+"\n"
+"Create these puzzles by taking an addition or subtraction problem and replacing one or more of the digits. The puzzles can also be created to make interesting problem-solving challenges for your child. Note that the values of the letters do not carry over from puzzle to puzzle."
+msgstr ""
+"Una vez que su niño/niña se sienta cómodo/a con los acertijos de Números Perdidos de algunas páginas anteriores de este capítulo, pueden comenzar a jugar con estos rompecabezas. En estos, uno o más de los dígitos se reemplazan por letras. Las tres reglas para las letras son:\n"
+"\n"
+"* Una letra dada es siempre el mismo dígito \n"
+"* El más a la izquierda de un número nunca es 0\n"
+"* Las letras diferentes deben ser dígitos diferentes\n"
+"\n"
+"Cree estos rompecabezas tomando un problema de suma o resta y reemplazando uno o más de los dígitos. Los acertijos también se pueden crear para crear interesantes desafíos de resolución de problemas para su niño/niña. Tenga en cuenta que los valores de las letras no se transfieren de un rompecabezas a otro."
+
+#. type=template
+msgctxt "template"
+msgid "Bouncing Billiard Ball"
+msgstr "Bola de Billar que Rebote"
+
+#. type=template
+msgctxt "template"
 msgid "Investigation"
 msgstr "Investigación"
+
+#. type=template
+msgctxt "template"
+msgid "Filling Regions With Shapes - Introduction"
+msgstr "Llenando Regiones con Formas - Introducción"
 
 #. type=template
 msgctxt "template"
@@ -4504,6 +4562,16 @@ msgstr "Sumando y Restando"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "BOLA DE BILLAR QUE REBOTE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "LLENANDO REGIONES CON FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Shapes Inside Shapes"
 msgstr "Formas dentro de formas"
 
@@ -4666,6 +4734,11 @@ msgstr "Actividad"
 msgctxt "data_list"
 msgid "Divide Up the Box"
 msgstr "Divide la Caja"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bouncing Billiard Ball"
+msgstr "Bola de Billar que Rebote"
 
 #. type=data_list
 msgctxt "data_list"
