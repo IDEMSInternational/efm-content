@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 16:27\n"
+"PO-Revision-Date: 2022-08-26 17:22\n"
 
 #. type=template
 msgctxt "template"
@@ -3056,6 +3056,63 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Use three dice and an 8 by 8 board of numbers from 1 to 64. A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score. Play five or more rounds, with the largest score winning.\n"
+"\n"
+"Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr ""
+"Use tres dados y un tablero de números de 8 por 8 del 1 al 64. Un jugador tira los dados y usa sumas, restas, multiplicaciones y divisiones para hacer cualquier número no marcado en el tablero. El jugador marca este cuadrado y recibe un punto por el cuadrado más un punto más por cada cuadrado marcado que toca, incluso en diagonal. Si un jugador no puede hacer una jugada, cualquier otro jugador que encuentre una jugada puede reclamar esa puntuación. Juegue cinco o más rondas, ganando la mayor puntuación.\n"
+"\n"
+"Algunas opciones del juego son usar un cuarto dado y usar un tablero más pequeño o más grande."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this chapter - practice those puzzles before starting these.\n"
+"\n"
+"Start with the simplest mobiles, which are just levers in the air. Here is a solution for putting the weights from 1 to 4 on this mobile to balance it."
+msgstr ""
+"Te dan algunas pesas y un diseño para un móvil que tiene algunos puntos de sujeción. El desafío es poner como máximo una pesa por punto de sujeción para que el móvil se equilibre a lo largo de cada brazo. Suponga que los cables no pesan. Cada brazo del móvil es una palanca que necesita equilibrio, por lo que estos acertijos son una extensión del acertijo de Palanca de balance que se presentó anteriormente en este capítulo; practique esos acertijos antes de comenzar con estos.\n"
+"\n"
+"Comience con los móviles más simples, que son solo palancas en el aire. Aquí hay una solución para poner las pesas de 1 a 4 en este móvil para equilibrarlo."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This works because 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2.\n"
+"\n"
+"Here is a more complicated mobile. Use the total of the weights below it to balance each side of the top wire (1 + 3) x 3 = (4 + 2) x 2."
+msgstr ""
+"Esto funciona porque 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2.\n"
+"\n"
+"Aquí hay un móvil más complicado. Use el total de las pesas debajo de él para equilibrar cada lado del cable superior (1 + 3) x 3 = (4 + 2) x 2."
+
+#. type=template
+msgctxt "template"
+msgid "Go to the Chapter 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "Consulte el Material Adicional del Capítulo 5 para obtener más ejemplos y una discusión más extensa sobre los móviles."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The premise is that you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started..\n"
+"\n"
+"Suppose you had a calculator with +, -, x, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results.\n"
+"\n"
+"Suppose your calculator could only add 4 or 7. Which numbers could you produce? Suppose it had 4 or 7, but now it can add and subtract. Which numbers could you produce? This is the same activity we’ve seen in other settings.\n"
+"\n"
+"Suppose you only had a 1 key and could only add or double. For example, 2 x (2 x 1) + 1 is 5. What other numbers can you create?"
+msgstr ""
+"La premisa es que tienes una calculadora que está muy averiada y tienes el desafío de producir algún resultado en la calculadora. Esto es fácil de jugar oralmente siempre que tengas un momento libre. Aquí hay algunos ejemplos para comenzar.\n"
+"\n"
+"Suponga que tiene una calculadora con +, -, x y /, pero solo una tecla numérica que funciona, la 4. ¿Podría obtener el resultado 21? Si es así, ¿cuál es la menor cantidad de pasos que necesitaría? Suponga que podría usar 4 como máximo cuatro veces, ¿qué números podría producir? Suponga que tiene que usar el 4 exactamente cuatro veces. Juega con tener otras teclas únicas y creando otros resultados.\n"
+"\n"
+"Suponga que su calculadora solo pudiera sumar 4 o 7. ¿Qué números podría producir? Suponga que tiene 4 o 7, pero ahora puede sumar y restar. ¿Qué números podrías producir? Esta es la misma actividad que hemos visto en otros entornos.\n"
+"\n"
+"Suponga que solo tiene una tecla del 1 y solo puede sumar o duplicar. Por ejemplo, 2 x (2 x 1) + 1 es 5. ¿Qué otros números puedes crear?"
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -3357,6 +3414,11 @@ msgstr ""
 msgctxt "template"
 msgid "Use a shared piece of paper filled out as follows:"
 msgstr "Utilice una hoja de papel compartida rellenada de la siguiente manera:"
+
+#. type=template
+msgctxt "template"
+msgid "Limited Calculators"
+msgstr "Calculadoras Limitadas"
 
 #. type=template
 msgctxt "template"
@@ -4675,6 +4737,31 @@ msgstr "Multiplicación y Múltiplos"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "CONTANDO VECINOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "HACIENDO UN MÓVIL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "CALCULADORAS LIMITADAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "Sumar, Restar y Multiplicar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "Recuento de Factores"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -4842,6 +4929,11 @@ msgstr "Bola de Billar que Rebote"
 msgctxt "data_list"
 msgid "Investigation"
 msgstr "Investigación"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Limited Calculators"
+msgstr "Calculadoras Limitadas"
 
 #. type=data_list
 msgctxt "data_list"
