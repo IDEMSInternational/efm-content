@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-26 19:26\n"
+"PO-Revision-Date: 2022-08-29 15:23\n"
 
 #. type=template
 msgctxt "template"
@@ -3556,6 +3556,26 @@ msgctxt "template"
 msgid "**Chapters**"
 msgstr "**Capítulos**"
 
+#. type=template
+msgctxt "template"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
+msgstr "Habla con tu hijo así él todavía no hable o no entienda todas las palabras. Señala, nombra y describe los objetos que ve como formas, colores, comparaciones y cantidades. A medida que tu hijo comience a comprender las palabras, pregúntale sobre un objeto y pídele que lo señale. Por ejemplo, \"¿Dónde está la pelota?\" Si tu hijo no puede encontrar el objeto, señálaselo."
+
+#. type=template
+msgctxt "template"
+msgid "**Adult Readers**"
+msgstr "**Lectores Adultos**"
+
+#. type=template
+msgctxt "template"
+msgid "Before Talking"
+msgstr "Antes de Hablar"
+
+#. type=template
+msgctxt "template"
+msgid "Early Talking"
+msgstr "Comenzando a Hablar"
+
 #. type=data_list
 msgctxt "data_list"
 msgid "His bed was too short."
@@ -5075,6 +5095,11 @@ msgstr "Doble o Nada"
 msgctxt "data_list"
 msgid "Game"
 msgstr "Juego"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A Very Tall Man"
+msgstr "Un Hombre Muy Alto"
 
 #. type=data_list
 msgctxt "data_list"
