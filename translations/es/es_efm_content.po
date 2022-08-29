@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-29 16:24\n"
+"PO-Revision-Date: 2022-08-29 17:22\n"
 
 #. type=template
 msgctxt "template"
@@ -3689,6 +3689,27 @@ msgstr "Señala que el pájaro ha cambiado de color, ¡de amarillo a naranja!"
 msgctxt "data_list"
 msgid "Where is the boy in this picture?"
 msgstr "¿Dónde está el niño en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This man was too tall!\n"
+"\n"
+"What can he do to solve his problem and fit into his world?"
+msgstr ""
+"¡Este hombre era muy alto!\n"
+"\n"
+"¿Qué puede hacer él para resolver su problema y encajar en su mundo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Maybe the man is not too tall -- maybe he just needs to solve his problems!"
+msgstr "Tal vez el hombre no sea muy alto, ¡tal vez sólo necesita resolver sus problemas!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The man has a problem and he is feeling sad about it."
+msgstr "El hombre tiene un problema y se siente triste por eso."
 
 #. type=data_list
 msgctxt "data_list"
