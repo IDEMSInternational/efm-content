@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-29 17:22\n"
+"PO-Revision-Date: 2022-08-30 13:11\n"
 
 #. type=template
 msgctxt "template"
@@ -3710,6 +3710,26 @@ msgstr "Tal vez el hombre no sea muy alto, ¡tal vez sólo necesita resolver sus
 msgctxt "data_list"
 msgid "The man has a problem and he is feeling sad about it."
 msgstr "El hombre tiene un problema y se siente triste por eso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that this man is much taller than the other people."
+msgstr "Menciona que este hombre es mucho más alto que las otras personas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He made a very long handle."
+msgstr "Él hizo un mango más largo para su azada."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He solved his problem with the hoe! He made his hoe bigger!"
+msgstr "¡Resolvió su problema con la azada! ¡Hizo su azada más larga!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one is bigger, the hoe or the man?"
+msgstr "¿Cuál es más grande, la azada o el hombre?"
 
 #. type=data_list
 msgctxt "data_list"
