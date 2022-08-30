@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-30 15:15\n"
+"PO-Revision-Date: 2022-08-30 18:36\n"
 
 #. type=template
 msgctxt "template"
@@ -3853,6 +3853,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "0 is an important number! It's where all counting starts, even when we don't say it."
+msgstr "¡0 es un número importante! Es donde comienza todo el conteo, incluso cuando no lo decimos."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "How many cats? \n"
 "\n"
@@ -3865,6 +3870,11 @@ msgstr ""
 "1 Un gato.\n"
 "\n"
 "Un gato negro está comiendo carne roja."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name the green and orange squares, blue shirt, and black cat."
+msgstr "Señala y nombra los cuadrados verdes y naranjas, la camisa azul y el gato negro."
 
 #. type=data_list
 msgctxt "data_list"
