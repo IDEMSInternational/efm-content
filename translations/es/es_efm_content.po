@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-30 18:36\n"
+"PO-Revision-Date: 2022-08-30 19:38\n"
 
 #. type=template
 msgctxt "template"
@@ -3858,6 +3858,16 @@ msgstr "¡0 es un número importante! Es donde comienza todo el conteo, incluso 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many cats do you see?"
+msgstr "¿Cuántos gatos ves?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the butterflies – they are tricky to find in this picture."
+msgstr "Cuenten juntos cuántas mariposas hay; son difíciles de encontrar en esta imagen."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "How many cats? \n"
 "\n"
@@ -3878,6 +3888,16 @@ msgstr "Señala y nombra los cuadrados verdes y naranjas, la camisa azul y el ga
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Notice how Paul is looking at the cat. Paul sure likes cats!"
+msgstr "Fíjate cómo Paul mira al gato. ¡A Paul seguro le gustan los gatos!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each time a cat is added: a) say that one more than the last number of cats is the new number, and b) one less than the current number is the last number."
+msgstr "Cada vez que se agrega un gato: a) di que el nuevo número de gatos es uno más que el anterior, y b) di que el anterior número de gatos es uno menos que el número actual."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "How many cats? \n"
 "\n"
@@ -3890,6 +3910,21 @@ msgstr ""
 "2 Dos gatos. \n"
 "\n"
 "Un gato blanco y un gato gris están durmiendo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the cats, plants, and people."
+msgstr "Cuenten juntos cuántos gatos, plantas y personas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of cats, plants, and people, which number is the biggest? Which one is the smallest?"
+msgstr "Del número de gatos, plantas y personas, ¿cuál es el número más grande? ¿Cuál es el número más pequeño?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the square tiles are now all the same gray color."
+msgstr "Observa que los mosaicos cuadrados ahora son todos del mismo color, gris."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3908,6 +3943,21 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "What a mess! There must be zero people here!"
+msgstr "¡Qué desastre! ¡Debe haber cero personas aquí!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together each group – the cats, cabinet doors, food containers, and spoons."
+msgstr "Cuenten juntos cuántos hay de cada uno de los siguientes grupos: gatos, puertas de los gabinetes, recipientes de comida y cucharas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which thing is there the most of in this picture?"
+msgstr "En esta imagen: ¿de qué objeto u elemento hay una mayor cantidad?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "How many cats? \n"
 "\n"
@@ -3920,6 +3970,21 @@ msgstr ""
 "4 Cuatro gatos. \n"
 "\n"
 "Cuatro gatos son amigos de Paul."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the cats."
+msgstr "Cuenta todos los gatos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these cats have you seen before, and which are new? Which ones are missing?"
+msgstr "¿Cuáles de estos gatos has visto antes y cuáles son nuevos? ¿Cuáles faltan?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and name all the different colors in the room."
+msgstr "Señala y nombra todos los colores que hay en la habitación."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3938,6 +4003,21 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Looking at their faces and bodies, do the cats and the dog like each other?"
+msgstr "Al mirar sus caras y sus cuerpos, ¿crees que los gatos y el perro se llevan bien?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of cats and the number of dogs. Which group is bigger? Poor dog!"
+msgstr "Cuenta el número de gatos y el número de perros. ¿Qué grupo es más grande? ¡Pobre perro!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These cats all have different coloring. Describe the color and pattern of each cat."
+msgstr "Todos estos gatos tienen diferentes colores. Describe el color y el patrón del pelaje de cada gato."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "How many cats?\n"
 "\n"
@@ -3953,6 +4033,21 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Count the cats on the floor and in the picture. Is it the same number?"
+msgstr "Cuenta los gatos que hay en el piso y los que hay en el cuadro de la pared. ¿Es el mismo número?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Find a cat or two in the picture on the wall that is not on the floor."
+msgstr "Encuentra uno o dos gatos en el cuadro de la pared que no estén en el piso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog doesn't want to come back. Why not?"
+msgstr "El perro no quiere entrar. ¿Por qué?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "How many cats? \n"
 "\n"
@@ -3965,6 +4060,16 @@ msgstr ""
 "7 Siete gatos. \n"
 "\n"
 "Siete gatos están jugando en el lugar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at each of the seven cats."
+msgstr "Señala cada uno de los siete gatos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Paul looking for?"
+msgstr "¿Qué está buscando Paul?"
 
 #. type=data_list
 msgctxt "data_list"
