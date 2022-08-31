@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-30 19:38\n"
+"PO-Revision-Date: 2022-08-31 10:53\n"
 
 #. type=template
 msgctxt "template"
@@ -4070,6 +4070,11 @@ msgstr "Señala cada uno de los siete gatos."
 msgctxt "data_list"
 msgid "What is Paul looking for?"
 msgstr "¿Qué está buscando Paul?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat on the roof is the highest cat. How did that cat get up so high?"
+msgstr "El gato que está en el techo es el que está más alto. ¿Cómo hizo este gato para subir allí?"
 
 #. type=data_list
 msgctxt "data_list"
