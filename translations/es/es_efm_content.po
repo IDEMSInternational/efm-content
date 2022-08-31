@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-31 15:52\n"
+"PO-Revision-Date: 2022-08-31 16:52\n"
 
 #. type=template
 msgctxt "template"
@@ -5255,6 +5255,32 @@ msgstr "¿Qué hace Perro con la mano derecha? ¿Qué movimiento usas para trata
 msgctxt "data_list"
 msgid "Are Dog's clothes finally making him warm, or too warm?"
 msgstr "¿La ropa de Perro finalmente lo está calentando o lo está calentando demasiado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye hot Dog."
+msgstr ""
+"Adiós Gato. \n"
+"\n"
+"Adiós Perro con calor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count Cat's whiskers. How many whiskers does Dog have?"
+msgstr "Cuenta los bigotes de Gato. ¿Cuántos bigotes tiene Perro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who has more whiskers -- Cat or Dog? They have the same number, but Dog's whiskers are small."
+msgstr "¿Quién tiene más bigotes, Gato o Perro? Tienen el mismo número, pero los bigotes de Perro son pequeños."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In the end, how many pieces of clothing does Dog have? Too many!"
+msgstr "Al final, ¿cuántas prendas de ropa tiene Perro? ¡Demasiadas!"
 
 #. type=data_list
 msgctxt "data_list"
