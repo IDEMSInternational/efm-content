@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-31 17:55\n"
+"PO-Revision-Date: 2022-08-31 18:53\n"
 
 #. type=template
 msgctxt "template"
@@ -6862,4 +6862,9 @@ msgstr "¿Dónde está Lulú?"
 msgctxt "data_list"
 msgid "This story has counting to 10, comparing sizes, and geometry. Practice words: numbers to 10, one more, one less, less, more, small, big, too, too big, smallest, largest, triangle, rectangle, pentagon, cylinder, same, on, under, and on top of."
 msgstr "Esta historia enseña a contar hasta 10, a comparar tamaños y geometría. Practica palabras como: los números hasta 10, uno más, uno menos, menos, más, pequeño, grande, demasiado, demasiado grande, el más pequeño, el más grande, triángulo, rectángulo, pentágono, cilindro, igual, sobre, debajo y encima de."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oh, no!"
+msgstr "¡Oh, no!"
 
