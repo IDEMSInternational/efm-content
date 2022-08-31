@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-31 10:53\n"
+"PO-Revision-Date: 2022-08-31 11:53\n"
 
 #. type=template
 msgctxt "template"
@@ -4093,6 +4093,47 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "The cats have many different colors and patterns. Have you seen cats like these?"
+msgstr "Los gatos tienen muchos colores y diferentes patrones en sus pelajes. ¿Has visto gatos como estos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Seven cats plus one dog makes how many animals?"
+msgstr "¿Cuántos animales suman siete gatos más un perro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the dog looks happy or worried?"
+msgstr "¿Crees que el perro se ve feliz o preocupado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A kitten is stuck in a tree! \n"
+"\n"
+"\"I will rescue you!\" says Paul."
+msgstr ""
+"¡Un gatito está atrapado en un árbol!\n"
+"\n"
+"\"¡Te rescataré!\" dice Paul."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many cats are stuck in the tree?"
+msgstr "¿Cuántos gatos están atrapados en el árbol?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How did the cat get up there?"
+msgstr "¿Cómo subió el gato allí?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is higher than Paul. How will Paul help the cat?"
+msgstr "El gato está más alto que Paul. ¿Cómo puede ayudar Paul al gato?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Mama, can we keep him?\" \n"
 "\n"
@@ -4112,13 +4153,138 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "One more than eight cats is nine cats. A dog and nine cats is how many animals?"
+msgstr "Si sumamos un gato más al grupo de ocho gatos son nueve gatos en total. ¿Cuántos animales suma un perro y nueve gatos."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Do you know anyone with cats? How many cats do they have?"
 msgstr "¿Conoces a alguien que tenga gatos? ¿Cuántos gatos tiene?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Do you think nine cats is too many?"
+msgstr "¿Crees que nueve gatos son demasiados?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "Cuenten juntos el número de bigotes, orejas, patas, ojos y colas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "¿Cuáles recuentos son iguales?, ¿cuáles son diferentes?, ¿cuál es el más grande? y ¿cuál es el más pequeño?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "¿Qué animal es rojo y cuál es amarillo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"Gato y Perro viven en una casa. \n"
+"\n"
+"Una casa con una puerta. \n"
+"\n"
+"Una casa con techo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "Gato y Perro viven en una casa redonda. ¿Tu casa es redonda?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "Señala cualquier otro objeto redondo que haya en la imagen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "¿Cuántas habitaciones parece tener su casa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and green."
+msgstr ""
+"Gato y Perro tienen una pelota.\n"
+"\n"
+"La pelota es roja, azul y verde."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "Cuenten juntos el número de colores que tiene la pelota."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "¿Qué color de la pelota no es un color para un gato o un perro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "¿Hay algún objeto a tu alrededor que tenga rayas como esta pelota?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog.\n"
+"\n"
+"Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Cat.\n"
+"\n"
+"Cat catches the ball."
+msgstr ""
+"Gato y Perro juegan con la pelota.\n"
+"\n"
+"Gato le tira la pelota a Perro. \n"
+"\n"
+"Perro atrapa la pelota.\n"
+"\n"
+"Perro le lanza la pelota a Gato.\n"
+"\n"
+"Gato atrapa la pelota."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times did they throw the ball?"
+msgstr "¿Cuántas veces lanzaron la pelota?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like playing with balls? Do you throw them, catch them, or kick them?"
+msgstr "¿Te gusta jugar con pelotas? ¿Las arrojas, las atrapas o las pateas?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "They each have two ears. Whose ears are bigger?"
 msgstr "Cada uno tiene dos orejas. ¿Quién tiene las orejas más grandes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is Cat.\n"
+"\n"
+"This is Dog."
+msgstr ""
+"Él es Gato.\n"
+"\n"
+"Él es Perro."
 
 #. type=data_list
 msgctxt "data_list"
@@ -5649,4 +5815,24 @@ msgstr "¿Podemos contar nuestros gatos?"
 msgctxt "data_list"
 msgid "This story looks at counting from 0 to 9, colors, and color patterns. Practice counting words, color words, words like: too many, biggest number, smallest number, one more, and one less."
 msgstr "Esta historia enseña a contar del 0 al 9, los colores y los patrones de colores. Practica contar palabras, los nombres de los colores y decir palabras como: muchos, el número más grande, el número más pequeño, uno más y uno menos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog and the Ball"
+msgstr "Gato y Perro y la Pelota"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 6, colors, and descriptions. Practice counting words, color names, and words: high, too, similar, different, smallest, biggest, short, tall, biggest, smallest, fewer, and more."
+msgstr "Esta historia enseña a contar hasta 6, los colores y a hacer descripciones. Practica contar palabras, los nombres de los colores y el uso de palabras como: alto, también, similar, diferente, más pequeño, más grande, bajo, menos y más."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog and the Butterfly"
+msgstr "Gato y Perro y la Mariposa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog and the Egg"
+msgstr "Gato y Perro y el Huevo"
 
