@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-31 11:53\n"
+"PO-Revision-Date: 2022-08-31 12:53\n"
 
 #. type=template
 msgctxt "template"
@@ -4269,6 +4269,58 @@ msgstr "¿Cuántas veces lanzaron la pelota?"
 msgctxt "data_list"
 msgid "Do you like playing with balls? Do you throw them, catch them, or kick them?"
 msgstr "¿Te gusta jugar con pelotas? ¿Las arrojas, las atrapas o las pateas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can real cats and dogs play catch with a ball? How can they play with balls?"
+msgstr "¿Pueden los perros y los gatos de verdad jugar a atrapar una pelota? ¿Cómo juegan ellos con las pelotas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat throws the ball very high.\n"
+"\n"
+"Oh! Oh!"
+msgstr ""
+"De repente, Gato tira la pelota muy alto. \n"
+"\n"
+"¡Oh! ¡Oh!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Dog. How much higher than Dog did Cat throw it?"
+msgstr "La pelota está más alta que Perro. ¿Cuánto más alto que Perro está la pelota que arrojó Gato?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat mean to do that? How can you tell from Cat's face?"
+msgstr "¿Quiso Gato hacer eso? ¿Cómo puedes saberlo? Mira la cara de Gato."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball sometimes not go where you want it when you play catch?"
+msgstr "Cuando juegas con la pelota, ¿te sucede que a veces la pelota no va a donde tú quieres?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball is on the roof.\n"
+"\n"
+"The ball is on the roof of the house."
+msgstr ""
+"La pelota está en el techo.\n"
+"\n"
+"La pelota está en el techo de la casa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The roof is slanted. Does the ball look like it would roll off the roof?"
+msgstr "El techo está inclinado. ¿Crees que la pelota se rodará del techo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are Cat and Dog?"
+msgstr "¿Dónde están Gato y Perro?"
 
 #. type=data_list
 msgctxt "data_list"
