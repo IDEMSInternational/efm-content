@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-31 13:54\n"
+"PO-Revision-Date: 2022-08-31 14:56\n"
 
 #. type=template
 msgctxt "template"
@@ -4541,6 +4541,425 @@ msgstr "Cada uno tiene dos orejas. ¿Quién tiene las orejas más grandes?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "They each have one tail. Whose tail is longer?"
+msgstr "Cada uno tiene una cola. ¿Quién tiene la cola más larga?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have markings on their belly. Whose markings are bigger?"
+msgstr "Cada uno tiene marcas en el vientre. ¿Quién tiene las marcas más grandes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk.\n"
+"\n"
+"They walk in their village."
+msgstr ""
+"Gato y Perro caminan juntos. \n"
+"\n"
+"Ellos caminan por su pueblo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the homes in the village."
+msgstr "Cuenten juntos cuántas casas hay en el pueblo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many things to count together -- one bird, one cat, one dog, three animals, three buildings, and one tree."
+msgstr "Hay muchos elementos que pueden contar juntos: un pájaro, un gato, un perro, tres animales, tres casas y un árbol."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two of the buildings are round around the base. The third one has a base shaped like this page."
+msgstr "Dos de las casas tienen una base redonda. La tercera tiene una base con la forma de esta página."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then they see an egg.\n"
+"\n"
+"The egg is in the grass.\n"
+"\n"
+"The egg is alone in the grass.\n"
+"\n"
+"The egg is all alone."
+msgstr ""
+"De repente, ellos ven un huevo. \n"
+"\n"
+"El huevo está en medio de la hierba.\n"
+"\n"
+"El huevo está solo en la hierba.\n"
+"\n"
+"El huevo está solo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the animals, trees, houses, and eggs."
+msgstr "Cuenten juntos cuántos animales, árboles, casas y huevos hay."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name an animal that lays eggs."
+msgstr "Nombra un animal que ponga huevos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog pick up the egg. It is usually better to leave eggs where you find them."
+msgstr "Gato y Perro recogen el huevo. Aunque siempre es mejor dejar los huevos donde uno los encuentra."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to a bird.\n"
+"\n"
+"They ask the bird, \"Is this your egg?\""
+msgstr ""
+"Gato y Perro caminan hacia un pájaro.\n"
+"\n"
+"Ellos le preguntan al pájaro, \"¿Este huevo es tuyo?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The egg is round. Point to other things with round sides."
+msgstr "El huevo es redondo. Señala otros objetos que tengan sus lados redondos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to round things where you are."
+msgstr "Señala objetos redondos que haya a tu alrededor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe where the bird is -- Cat and Dog are below the roof and below the bird, and the bird is above them."
+msgstr "Describe el lugar dónde está el pájaro: Gato y Perro están debajo del techo y debajo del pájaro, y el pájaro está encima de ellos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But the bird says, \"No, that is not my egg. Ask the owl. Maybe it is his egg.\""
+msgstr "Pero el pájaro dice: \"No, ese no es mi huevo. Pregúntale al búho. Tal vez sea su huevo\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you seen blue birds where you live?"
+msgstr "¿Has visto pájaros azules en el lugar donde vives?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What color is the tie the owl is wearing? Have you seen a bird wearing a tie?"
+msgstr "¿De qué color es la corbata que lleva el búho? ¿Has visto alguna vez un pájaro con corbata?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The blue bird is sitting on the roof. What is the owl sitting on?"
+msgstr "El pájaro azul está sentado en el techo. ¿Sobre qué está sentado el búho?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to the owl.\n"
+"\n"
+"They ask the owl, \"Is this your egg?\""
+msgstr ""
+"Gato y Perro van donde el búho. \n"
+"\n"
+"Ellos le preguntan al búho: \"¿Este huevo es tuyo?\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Owls are said to be wise. Does this owl look wise to you?"
+msgstr "Se dice que los búhos son sabios. ¿Este búho te parece sabio?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the birds, cats, and dogs. Which type of animal is there the most of?"
+msgstr "Cuenta los pájaros, los gatos y los perros. ¿De qué animal hay una mayor cantidad?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice owl's unusual kite-shaped tie!"
+msgstr "¡Mira la inusual corbata en forma de cometa que tiene el búho!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But the owl says, \"No, that is not my egg. Ask the goose. Maybe it is her egg.\""
+msgstr "Pero el búho dice: \"No, ese no es mi huevo. Pregúntale al ganso. Tal vez sea su huevo\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you get something wrong two times, do you get discouraged?"
+msgstr "Si te equivocas en algo dos veces seguidas, ¿te desanimas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog are great at persisting -- trying over and over until they succeed. Are you good at persisting?"
+msgstr "Gato y Perro son excelentes para persistir: ellos intentan hacer algo una y otra vez hasta que lo consiguen. ¿Tú eres bueno persistiendo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the houses and how many animals there are now."
+msgstr "Cuenta cuántas casas y animales hay ahora."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to the goose.\n"
+"\n"
+"They ask the goose, \"Is this your egg?\""
+msgstr ""
+"Gato y Perro van donde el ganso.\n"
+"\n"
+"Ellos le preguntan al ganso, \"¿Este huevo es tuyo?\".}"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals are there?"
+msgstr "¿Cuántos animales hay?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are any of the animals the same color? How many different colors are there for all the animals?"
+msgstr "¿Hay animales que sean del mismo color? ¿Cuántos colores ves en los diferentes animales?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three birds. How are these three similar and how are they different?"
+msgstr "Hay tres pájaros. ¿En qué se parecen los tres y en qué se diferencian?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But the goose says, \"No, that is not my egg. Ask the two ducks. Maybe it is their egg.\""
+msgstr "Pero el ganso dice: \"No, ese no es mi huevo. Pregúntenles a los dos patos. Tal vez sea su huevo\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Cat and Dog will give up? Would you give up at this point?"
+msgstr "¿Crees que Gato y Perro se rendirán? ¿Te rendirías en este punto?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many birds have they talked to?"
+msgstr "¿Con cuántos pájaros han hablado Gato y Perro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If they can't find the home for the egg, what should they do with it?"
+msgstr "Si no pueden encontrar el hogar del huevo, ¿qué deberían hacer con él?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to the two ducks.\n"
+"\n"
+"They ask the two ducks, \"Is this your egg?\""
+msgstr ""
+"Gato y Perro van donde los dos patos.\n"
+"\n"
+"Ellos les preguntan a los dos patos, \"¿Este huevo es suyo?\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the ducks going to say?"
+msgstr "¿Qué responderán los patos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The two ducks are different colors and patterns. Describe how they are the same and how they are different."
+msgstr "Los dos patos son de diferente color y sus plumas tienen diferentes patrones. Describe en qué se parecen y en qué se diferencian."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have ducks around where you live?"
+msgstr "¿Hay patos en el lugar donde vives?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"But the two ducks say, \"No, that is not our egg.\"\n"
+"\n"
+"Then the egg breaks."
+msgstr ""
+"Pero los dos patos dicen: \"No, ese no es nuestro huevo\".\n"
+"\n"
+"De repente, el huevo se rompe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that the egg is breaking?"
+msgstr "¿Cómo puedes saber que el huevo se está rompiendo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat drop the egg? Have you ever dropped an egg?"
+msgstr "¿Se le cayó el huevo a Gato? ¿Alguna vez se te ha caído un huevo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will come out of the egg?"
+msgstr "¿Qué crees que saldrá del huevo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There is a lizard in the egg.\n"
+"\n"
+"A baby lizard."
+msgstr ""
+"Hay una lagartija en el huevo. \n"
+"\n"
+"Una lagartija bebé."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is it surprising to see a baby lizard come out of the egg? Were you expecting a baby bird?"
+msgstr "¿Por qué es sorprendente ver salir una lagartija bebé del huevo? ¿Esperabas que fuera un pájaro bebé?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of other animals that lay eggs and that are not birds? Hint: Fish, insects, and turtles are examples."
+msgstr "¿Puedes pensar en otros animales que pongan huevos y que no sean pájaros? Pista: los peces, los insectos y las tortugas son algunos ejemplos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What color is the lizard? Have you seen lizards like this before?"
+msgstr "¿De qué color es la lagartija? ¿Has visto lagartijas como esta antes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The baby lizard says, \"Where is my mother? Where is my father? Where are my mother and father?\"\n"
+"\n"
+"Cat and Dog bring the baby lizard to his mother and father."
+msgstr ""
+"La lagartija bebé dice: \"¿Dónde está mi mamá? ¿Dónde está mi papá? ¿Dónde están mi mamá y mi papá?\"\n"
+"\n"
+"Gato y Perro le llevan la lagartija bebé a su madre y a su padre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many lizards are on top of the rocks?"
+msgstr "¿Cuántas lagartijas hay encima de las rocas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do lizards like to be on rocks on sunny days?"
+msgstr "¿Por qué a las lagartijas les gusta estar en las rocas en los días soleados?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are most rocks round like these, or do some have sharp edges and points?"
+msgstr "¿La mayoría de las rocas son redondas como estas? O ¿hay algunas que tienen bordes afilados y puntiagudos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye baby lizard."
+msgstr ""
+"Adiós Gato. \n"
+"\n"
+"Adiós Perro. \n"
+"\n"
+"Adiós lagartija bebé."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The baby lizard is still in the egg. Is it stuck in there?"
+msgstr "La lagartija bebé todavía está en el huevo. ¿Será que está atascada allí?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three animals here. If you take away the baby lizard, how many animals does that leave?"
+msgstr "Hay tres animales aquí. Si quitas la lagartija bebé, ¿cuántos animales quedan?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some round shapes you see in this picture?"
+msgstr "¿Cuáles son algunas formas redondas que ves en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the animals together and describe their colors."
+msgstr "Cuenten juntos los animales y describan sus colores."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has shorter ears? Which one has longer ears?"
+msgstr "¿Cuál tiene las orejas más cortas? ¿Cuál tiene las orejas más largas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has short whiskers? Which one has long whiskers?"
+msgstr "¿Cuál tiene los bigotes cortos? ¿Cuál tiene los bigotes largos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is night. It is dark.\n"
+"\n"
+"It is cold. It is very cold."
+msgstr ""
+"Es de noche. Está oscuro. \n"
+"\n"
+"Hace frío. Hace mucho frío."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their house is round. Do you live in a round building?"
+msgstr "Su casa es redonda. ¿Tú vives en una casa redonda?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the trees together."
+msgstr "Cuenten juntos cuántos árboles hay."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A full moon forms a complete circle. A moon that is a partial circle like this is called a crescent moon."
+msgstr "La luna llena forma un círculo completo. Una luna que forma un semicírculo como ésta, se llama luna creciente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For Dog it is too cold."
+msgstr "Para Perro hace mucho frío."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What shows you that Dog is cold?"
+msgstr "¿Qué te muestra que Perro tiene frío?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A light blue color is often used to show something cold. Does seeing blue make you feel cold?"
+msgstr "El color azul claro se usa a menudo para hacer referencia a algo frío. ¿Ver el color azul te hace sentir frío?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On cold nights, even outdoor animals can use help with the cold."
+msgstr "En las noches frías, incluso los animales al aire libre pueden necesitar ayuda con el frío."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog underwear.\n"
+"\n"
+"One pair of underwear is dirty. One pair of underwear is clean."
+msgstr ""
+"Gato le da ropa interior a Perro.\n"
+"\n"
+"Una prenda de ropa interior está sucia. Una prenda de ropa interior está limpia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this choice of underwear very helpful?"
+msgstr "¿Es útil esta elección de ropa interior?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "This is Cat.\n"
 "\n"
@@ -6099,4 +6518,14 @@ msgstr "Gato y Perro y la Mariposa"
 msgctxt "data_list"
 msgid "Cat and Dog and the Egg"
 msgstr "Gato y Perro y el Huevo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, comparing, colors, and shapes. Practice words: round, above, below, similar, round, kite, different, bigger, and longer."
+msgstr "Esta historia enseña a contar hasta 5, a comparar, los colores y las formas. Practica palabras como: redondo, arriba, abajo, similar, cometa, diferente, más grande y más largo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story talks about extremes of describing words, and counting to 6 with one more or one less. Words to practice are: too, cold, warm, hot, light, dark, day, night, clean, dirty, small, big, short, long, wet, dry, thin, thick, low, high, new, and old."
+msgstr "Esta historia enseña a describir los opuestos y a contar hasta 6 usando expresiones como uno más o uno menos. Practica palabras como: también, frío, cálido, claro, oscuro, día, noche, limpio, sucio, pequeño, grande, corto, largo, húmedo, seco, delgado, grueso, bajo, alto, nuevo y viejo."
 
