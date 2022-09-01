@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-01 09:31\n"
+"PO-Revision-Date: 2022-09-01 16:52\n"
 
 #. type=template
 msgctxt "template"
@@ -6984,4 +6984,50 @@ msgstr "¿Está Lulú en el estante?"
 msgctxt "data_list"
 msgid "Once again, Lulu picked a clever hiding place, but her colors don't fit in with the colors in the kitchen."
 msgstr "Una vez más, Lulú eligió un escondite inteligente, pero sus colores no combinan con los colores de la cocina."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. Count the rectangles you see on this page."
+msgstr "Un rectángulo es una figura de cuatro lados como esta página. Cuenta el número de rectángulos que ves en esta página."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A cylinder is a shape like a jar with straight sides. There are five cylinders on the top shelf (the bowl is not a cylinder). How many are there on Lulu's shelf? Is it the same number?"
+msgstr "Un cilindro es una figura que se parece a un frasco con lados rectos. Hay cinco cilindros en el estante superior (el tazón no es un cilindro). ¿Cuántos cilindros hay en el estante de Lulú? ¿Hay el mismo número?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu, it is time to go! Where are you? calls Ma."
+msgstr "¡Lulú, es hora de irnos! ¿Dónde estás?” dice Ma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu blends in better this time. Do you see her?"
+msgstr "Lulú se camufla mejor esta vez. ¿La ves?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So many things to count! Point at and count together the blocks on the floor, the dolls, and the drawings on the wall."
+msgstr "¡Hay muchas cosas para contar! Señalen y cuenten juntos el número de bloques en el piso, las muñecas y los dibujos en la pared."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which group of things is the largest and which is the smallest?"
+msgstr "¿Qué grupo de objetos es el más grande y cuál es el más pequeño?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There you are! says Ma.\n"
+"\n"
+"\"I do not want to gooo!\""
+msgstr ""
+"¡Ahí estás! dice Ma.\n"
+"\n"
+"\"¡No me quiero irrrr!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu is still holding her book tightly. Do you think Lulu is afraid her mother will take it away?"
+msgstr "Lulú todavía sostiene su libro con fuerza. ¿Crees que Lulú tiene miedo de que su madre se lo quite?"
 
