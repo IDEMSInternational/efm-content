@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-31 18:53\n"
+"PO-Revision-Date: 2022-09-01 08:32\n"
 
 #. type=template
 msgctxt "template"
@@ -6867,4 +6867,14 @@ msgstr "Esta historia enseña a contar hasta 10, a comparar tamaños y geometrí
 msgctxt "data_list"
 msgid "Oh, no!"
 msgstr "¡Oh, no!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu is scared of something. She is holding that book very tightly -- perhaps her fear has something to do with the book?"
+msgstr "Lulú tiene miedo de algo. Ella sostiene el libro con mucha fuerza, ¿quizás su miedo tiene que ver con el libro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some things that scare you?"
+msgstr "¿Cuáles son algunas de las cosas que te asustan?"
 
