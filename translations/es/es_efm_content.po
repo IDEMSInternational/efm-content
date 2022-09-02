@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-01 18:53\n"
+"PO-Revision-Date: 2022-09-02 14:40\n"
 
 #. type=template
 msgctxt "template"
@@ -6865,6 +6865,16 @@ msgstr "Esta historia enseña a contar hasta 10, a comparar tamaños y geometrí
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Where Is My Cat?"
+msgstr "¿Dónde Está Mi Gato?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
+msgstr "Esta historia enseña a contar hasta 5, palabras para expresar una relación y colores. Practica palabras como: números hasta el 5, debajo, encima, detrás, al lado, adentro, afuera, nombres de colores, recto y curvo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Oh, no!"
 msgstr "¡Oh, no!"
 
@@ -7208,4 +7218,39 @@ msgstr "¿Crees que a Lulú le gusta mirar y leer los libros?"
 msgctxt "data_list"
 msgid "Do you?"
 msgstr "¿Y a ti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is my cat?"
+msgstr "¿Dónde está mi gato?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cat is very good at hiding. The dark black of this cat helps it hide."
+msgstr "Este gato es muy bueno para esconderse. El color negro oscuro de este gato le ayuda a esconderse."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of places would make it easy to see this cat?"
+msgstr "¿Qué tipo de lugares facilitarían ver a este gato?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you like to hide?"
+msgstr "¿Dónde te gusta esconderte?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it under the bed?"
+msgstr "¿Está debajo de la cama?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat under the bed before the boy looked there?"
+msgstr "¿Estaba el gato debajo de la cama antes de que el niño mirara allí?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This bed cover has lots of colorful stripes. Count how many different colors it has."
+msgstr "Esta colcha tiene muchas rayas de colores. Cuenta cuántos colores tiene."
 
