@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-02 16:38\n"
+"PO-Revision-Date: 2022-09-02 17:42\n"
 
 #. type=template
 msgctxt "template"
@@ -3821,6 +3821,42 @@ msgstr ""
 msgctxt "data_list"
 msgid "The hawk snatched the fish with the talons on its feet. How many talons do you see?"
 msgstr "El halcón arrebató el pez con las garras de sus patas. ¿Cuántas garras ves?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The hawk's wings and Akadeli's shirt look a bit alike -- describe how they are similar and how they are different."
+msgstr "Las alas del halcón y la blusa de Akadeli se parecen un poco – describe en qué son similares y en qué son diferentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Akadeli feeling as she watches the hawk fly away with her fish?"
+msgstr "¿Qué siente Akadeli al ver el halcón volar lejos con su pez?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The hawk left behind a feather from its tail.\n"
+"\n"
+"Akadeli picked up the feather and continued walking home."
+msgstr ""
+"El halcón dejó una pluma de su cola atrás.\n"
+"\n"
+"Akadeli la recogió y continuó caminando a casa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many spots are on this feather?"
+msgstr "¿Cuántas manchas hay en esta pluma?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever found a feather? Was it very colorful?"
+msgstr "¿Alguna vez has encontrado una pluma? ¿Era muy colorida?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three kinds of plants in this picture. Point at the tallest and shortest ones."
+msgstr "Hay tres tipos de plantas en esta ilustración. Señala las más altas y las más bajas."
 
 #. type=data_list
 msgctxt "data_list"
