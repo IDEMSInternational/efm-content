@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-02 17:42\n"
+"PO-Revision-Date: 2022-09-04 13:33\n"
 
 #. type=template
 msgctxt "template"
@@ -3857,6 +3857,17 @@ msgstr "¿Alguna vez has encontrado una pluma? ¿Era muy colorida?"
 msgctxt "data_list"
 msgid "There are three kinds of plants in this picture. Point at the tallest and shortest ones."
 msgstr "Hay tres tipos de plantas en esta ilustración. Señala las más altas y las más bajas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"She came across a traditional wedding. Dancers were wearing grass on their heads instead of feathers as was the tradition.\n"
+"\n"
+"They took her feather and gave her a big bull!"
+msgstr ""
+"Se encontró con una boda tradicional. Los danzantes lucían hierba en sus cabezas en lugar de plumas como era la tradición.\n"
+"\n"
+"¡Tomaron su pluma y le dieron un toro grande!"
 
 #. type=data_list
 msgctxt "data_list"
