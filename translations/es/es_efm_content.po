@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-04 14:34\n"
+"PO-Revision-Date: 2022-09-04 15:41\n"
 
 #. type=template
 msgctxt "template"
@@ -4883,6 +4883,246 @@ msgstr "Señala y cuenta el número de alas en la mariposa."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Point at and count the short lines going away from the butterfly. They show the butterfly is alarmed."
+msgstr "Señala y cuenta el número de líneas cortas que salen de la mariposa. Muestran que la mariposa está alarmada."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog want to catch the butterfly.\n"
+"\n"
+"Cat and Dog follow the butterfly.\n"
+"\n"
+"They follow the butterfly."
+msgstr ""
+"Gato y Perro quieren atrapar la mariposa. \n"
+"\n"
+"Gato y Perro siguen a la mariposa. \n"
+"\n"
+"Ellos siguen a la mariposa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the butterfly want to be caught?"
+msgstr "¿Quiere ser atrapada la mariposa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it mean of Cat and Dog to want to catch the butterfly?"
+msgstr "¿Es malo que Gato y Perro quieran atrapar a la mariposa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When is it fun to be chased and when is it frightening?"
+msgstr "¿Cuándo es divertido ser perseguido y cuándo es alarmante?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by foot. They walk after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is too fast and Cat and Dog are slow. They are too slow."
+msgstr ""
+"Gato y Perro siguen a la mariposa a pie. Caminan detrás de la mariposa. \n"
+"\n"
+"Pero la mariposa es rápida. La mariposa es demasiado rápida y Gato y Perro son lentos. Ellos son demasiado lentos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is going the fastest?"
+msgstr "¿Qué animal va más rápido?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you go faster or slower than Cat and Dog?"
+msgstr "¿Puedes ir más rápido o más lento que Gato y Perro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out that their feet are drawn going in circles to indicate they are running fast."
+msgstr "Señale que los pies son dibujados moviéndose en círculos para indicar que están corriendo rápido."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by bike. They ride after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is very fast, and Cat and Dog are slow. They are very slow."
+msgstr ""
+"Gato y Perro siguen a la mariposa en bicicleta. Ellos van en bicicleta detrás de la mariposa.\n"
+"\n"
+"Pero la mariposa es rápida. La mariposa es muy rápida, y Gato y Perro son lentos. Ellos son muy lentos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can butterflies fly faster than a bike can go?"
+msgstr "¿Pueden las mariposas volar más rápido de lo que va una bicicleta?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can cats and dogs ride bikes?"
+msgstr "¿Pueden montar en bicicleta los gatos y los perros?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you could catch a butterfly while riding a bike?"
+msgstr "¿Crees que tú podrías atrapar una mariposa en bicicleta?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by car. They drive after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is still too fast, and Cat and Dog are slow. They are still too slow."
+msgstr ""
+"Gato y Perro siguen a la mariposa en carro. Ellos manejan detrás de la mariposa. \n"
+"\n"
+"Pero la mariposa es rápida. La mariposa es todavía muy rápida, y Gato y Perro son lentos. Ellos todavía son muy lentos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can a butterfly or a bird fly faster than a car?"
+msgstr "¿Puede una mariposa o un ave volar más rápido que un carro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can a real dog drive a car?"
+msgstr "¿Puede un perro de verdad manejar un carro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the clouds in the sky."
+msgstr "Cuenten juntos las nubes en el cielo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by boat. They float after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is super-fast, and Cat and Dog are slow. They are still super-slow."
+msgstr ""
+"Gato y Perro siguen a la mariposa en un bote. Ellos flotan detrás de la mariposa.\n"
+"\n"
+"Pero la mariposa es muy rápida. La mariposa es superrápida, y Gato y Perro son lentos. Ellos todavía son superlentos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of fish."
+msgstr "Cuenta el número de peces."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Including Cat and Dog, count the number of animals."
+msgstr "Incluyendo a Gato y Perro, cuenta el número de animales."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fish look surprised. Why are they surprised?"
+msgstr "Los peces se ven sorprendidos. ¿Por qué están sorprendidos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by plane. They flow after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is still super-super-fast, and Cat and Dog are slow. They are still super-super-slow."
+msgstr ""
+"Gato y Perro siguen a la mariposa en avión. Ellos vuelan detrás de la mariposa.\n"
+"\n"
+"Pero la mariposa es muy rápida. La mariposa es todavía supersuperrápida, y Gato y Perro son lentos. Ellos todavía son superlentos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think a dog can fly a plane?"
+msgstr "¿Crees que un perro puede volar un avión?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of cars, boats, and planes is the fastest and which is the slowest?"
+msgstr "¿Cuál de los carros, barcos y aviones es el más rápido y cuál es el más lento?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are up very high. Count together the clouds where they are."
+msgstr "Ellos están muy arriba. Cuenten juntos las nubes donde ellos están."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The Cat and Dog stop. They stop and sit down. They sit down at a tree.\n"
+"\n"
+"They sit down at a big tree.\n"
+"\n"
+"But then ...."
+msgstr ""
+"Gato y Perro paran. Ellos paran y se sientan. Ellos se sientan debajo de un árbol.\n"
+"\n"
+"Ellos se sientan debajo de un árbol grande.\n"
+"\n"
+"Pero entonces...."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which is longer, Cat's tongue or Cat's legs?"
+msgstr "¿Cuál es más larga, la lengua o las patas de Gato?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think cats have tongues that long?"
+msgstr "¿Crees que los gatos tengan lenguas tan largas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are their tongues hanging out because Cat and Dog are tired?"
+msgstr "¿Están sacando las lenguas Gato y Perro porque están cansados?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They see one butterfly in the tree.\n"
+"\n"
+"They see two butterflies in the tree.\n"
+"\n"
+"They see three butterflies in the tree."
+msgstr ""
+"Ellos ven una mariposa en el árbol.\n"
+"\n"
+"Ellos ven dos mariposas en el árbol.\n"
+"\n"
+"Ellos ven tres mariposas en el árbol."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the butterflies you can see in the tree."
+msgstr "Cuenten juntos las mariposas que pueden ver en el árbol."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you can see all the butterflies?"
+msgstr "¿Crees que puedes ver todas las mariposas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three types of living things in the picture: trees, Cat and Dog, and butterflies. Which group is the largest and which is the smallest?"
+msgstr "Hay tres clases de seres vivos en esta ilustración: los árboles, Gato y Perro y las mariposas. ¿Qué grupo es el más grande y cuál es el más pequeño?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They see a hundred butterflies!"
+msgstr "¡Ellos ven cien mariposas!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many butterflies can you count? Are there too many for you to count?"
+msgstr "¿Cuántas mariposas puedes contar? ¿Hay demasiadas para contar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different colors of butterflies are there?{For which color of butterfly is there the most?}"
+msgstr "¿Cuántos colores diferentes de mariposas hay? ¿De qué color hay más mariposas?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Bye bye Cat.\n"
 "\n"
@@ -4895,6 +5135,21 @@ msgstr ""
 "Adiós Perro. \n"
 "\n"
 "Adiós Mariposas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are you happy or sad that Cat and Dog caught a butterfly?"
+msgstr "¿Estás feliz o triste de que Gato y Perro hayan atrapado una mariposa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In the picture, who do you think is happy and who is sad?"
+msgstr "En la ilustración, ¿quién crees que está feliz y quién está triste?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long do you think a butterfly can live in a jar?"
+msgstr "¿Cuánto tiempo crees que una mariposa pueda vivir en un frasco?"
 
 #. type=data_list
 msgctxt "data_list"
