@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-05 15:26\n"
+"PO-Revision-Date: 2022-09-05 16:27\n"
 
 #. type=template
 msgctxt "template"
@@ -6579,6 +6579,36 @@ msgstr "¿Cómo puedes usar los tamaños para saber que las niñas están lejos 
 msgctxt "data_list"
 msgid "Why are the girls far away behind some bushes?"
 msgstr "¿Por qué están las niñas detrás de algunos arbustos a lo lejos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The grass, bushes, and trees are different shades of green. Are there different shades of some color where you are?"
+msgstr "La hierba, los arbustos y los árboles tienen diferentes tonos de verde. ¿Hay diferentes tonos del mismo color donde tú estás?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They searched and searched, but all they could see was the tall grass and trees. \\PARA Suddenly, they heard a noise, and looked up."
+msgstr "Buscaron y buscaron, pero lo único que pudieron ver fue la hierba alta y los árboles. De repente, escucharon un ruido y miraron hacia arriba."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think made that noise above them?"
+msgstr "¿Qué crees que hizo el ruido arriba de ellos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of things make noises above our heads?"
+msgstr "¿Qué tipos de objetos hacen ruido sobre nuestras cabezas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That is really tall grass! What part of their bodies does the grass reach up to?"
+msgstr "¡Esa hierba es muy alta! ¿Hasta qué parte de sus cuerpos llega la hierba?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Up on a tree swung the strangest creature they had ever seen. It had two arms, two hands, two legs and two feet. Instead of one each, like them."
+msgstr "Arriba en el árbol colgaba la criatura más extraña que jamás habían visto. Tenía dos brazos, dos manos, dos piernas y dos pies. En lugar de uno de cada uno, como ellos."
 
 #. type=data_list
 msgctxt "data_list"
