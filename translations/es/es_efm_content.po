@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-05 12:40\n"
+"PO-Revision-Date: 2022-09-05 15:26\n"
 
 #. type=template
 msgctxt "template"
@@ -6564,6 +6564,21 @@ msgstr "¿Hay más niñas o niños en esta ilustración?"
 msgctxt "data_list"
 msgid "Look at their mouths and eyebrows. What do their faces tell you about what these children are thinking and feeling?"
 msgstr "Observa sus bocas y sus cejas. ¿Qué te dicen sus caras acerca de lo que piensan y sienten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eventually, curiosity got the better of the boys. They followed the girls to the river to see this strange creature for themselves."
+msgstr "Finalmente, la curiosidad se apoderó de los niños. Ellos siguieron a las niñas al río para ver esta extraña criatura por sí mismos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from their size in the picture that the girls are far away and the boys are nearby?"
+msgstr "¿Cómo puedes usar los tamaños para saber que las niñas están lejos y los niños están cerca?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the girls far away behind some bushes?"
+msgstr "¿Por qué están las niñas detrás de algunos arbustos a lo lejos?"
 
 #. type=data_list
 msgctxt "data_list"
