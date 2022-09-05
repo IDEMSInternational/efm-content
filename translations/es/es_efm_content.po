@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-05 17:35\n"
+"PO-Revision-Date: 2022-09-05 19:49\n"
 
 #. type=template
 msgctxt "template"
@@ -3609,6 +3609,11 @@ msgstr "Matemáticas: Temas y Palabras"
 msgctxt "template"
 msgid "Read, Talk, and Have Fun!"
 msgstr "Lee, Habla y ¡Diviértete!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "Habla con tu hijo así él todavía no hable o no entienda todas las palabras. Señala, nombra y describe los objetos que ve como formas, colores, comparaciones y cantidades. A medida que tu hijo comience a comprender las palabras, pregúntale sobre un objeto y pídele que lo señale. A medida que su niño/niña empiece a comprender y decir palabras, añada preguntas simples."
 
 #. type=data_list
 msgctxt "data_list"
