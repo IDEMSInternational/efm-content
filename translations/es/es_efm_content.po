@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-05 19:49\n"
+"PO-Revision-Date: 2022-09-12 15:57\n"
 
 #. type=template
 msgctxt "template"
@@ -3599,6 +3599,11 @@ msgstr "Antes de Hablar"
 msgctxt "template"
 msgid "Early Talking"
 msgstr "Comenzando a Hablar"
+
+#. type=template
+msgctxt "template"
+msgid "3 Levels of Discussion"
+msgstr "3 Niveles de Discusión"
 
 #. type=template
 msgctxt "template"
