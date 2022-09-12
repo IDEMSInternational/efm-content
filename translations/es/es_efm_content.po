@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-12 18:54\n"
+"PO-Revision-Date: 2022-09-12 19:55\n"
 
 #. type=template
 msgctxt "template"
@@ -8362,6 +8362,11 @@ msgstr "Esta historia enseña a contar hasta 5, palabras para expresar una relac
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many animals can you count in this picture?"
+msgstr "¿Cuántos animales puedes contar en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Oh, no!"
 msgstr "¡Oh, no!"
 
@@ -8910,4 +8915,65 @@ msgstr ""
 "Iba a tener una gran fiesta e iba a hacer un anuncio importante.\n"
 "\n"
 "Los mensajeros corrieron lejos, a los cuatro rincones del bosque."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many messengers does the King have? Are there enough to go to four corners? How many more does he need?"
+msgstr "¿Cuántos mensajeros tiene el Rey? ¿Hay suficientes para ir a las cuatro esquinas? ¿Cuántos más necesita?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the forest really has four corners?"
+msgstr "¿Crees que el bosque realmente tiene cuatro esquinas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does the writer mean by the phrase \"all four corners of the forest?\" If forests don't have four corners, what shape are they?"
+msgstr "¿Qué quiere decir el escritor con la frase \"los cuatro rincones del bosque\"? Si los bosques no tienen cuatro esquinas, ¿qué forma tienen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"On the night of the party, all the animals were at the palace. They sang and they danced and had a great time.\n"
+"\n"
+"After the moon had risen above the trees, King Leopard came and stood in the middle of the clearing. The animals stopped their singing and dancing. They listened quietly as their king began to speak."
+msgstr ""
+"La noche de la fiesta, todos los animales estaban en el palacio. Cantaron y bailaron y la pasaron muy bien.\n"
+"\n"
+"Después de que la luna se elevó sobre los árboles, el Rey Leopardo llegó y se detuvo en medio del claro del bosque. Los animales dejaron de cantar y bailar. Ellos escucharon en silencio mientras su Rey empezaba a hablar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals can you count in this picture? Are there more animals or more trees?"
+msgstr "¿Cuántos animales puedes contar en esta imagen? ¿Hay más animales o más árboles?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals do you think are in the forest? 10, 20, 30, ... ? A forest usually has hundreds or even thousands of animals, so this will be a very large party!"
+msgstr "¿Cuántos animales crees que hay en el bosque? ¿10, 20, 30, ... ? Un bosque suele tener cientos o incluso miles de animales, ¡así que será una fiesta muy grande!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a non-human animal dance?"
+msgstr "¿Alguna vez has visto bailar a un animal no humano?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me."
+msgstr "Se aclaró la garganta y dijo: \"He estado pensando que es hora de elegir un sucesor. Pero como los amo a todos por igual, no puedo decidir quién de ustedes es más digno. Así que he decidido dejar que un concurso decida por mí."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of these animals would usually hunt some of these other animals. Can you think of some examples in this picture of animals who would hunt and others who would be hunted?"
+msgstr "Algunos de estos animales generalmente cazarían a algunos de estos otros animales. ¿Puedes pensar en algunos ejemplos en esta imagen de animales que cazarían y otros que serían cazados?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kind of contest would be good for picking a successor? Would you have a race to see who can run the fastest or longest?"
+msgstr "¿Qué tipo de concurso sería bueno para elegir un sucesor? ¿Harías una carrera para ver quién puede correr más rápido o más lejos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would be good contests if you want to find the largest or the strongest?"
+msgstr "¿Cuáles serían unos buenos concursos si quieres encontrar el más grande o el más fuerte?"
 
