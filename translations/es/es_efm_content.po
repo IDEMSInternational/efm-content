@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-12 19:55\n"
+"PO-Revision-Date: 2022-09-13 16:57\n"
 
 #. type=template
 msgctxt "template"
@@ -8976,4 +8976,9 @@ msgstr "¿Qué tipo de concurso sería bueno para elegir un sucesor? ¿Harías u
 msgctxt "data_list"
 msgid "What would be good contests if you want to find the largest or the strongest?"
 msgstr "¿Cuáles serían unos buenos concursos si quieres encontrar el más grande o el más fuerte?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "King Leopard held up a spear. He said, \"The first one among you who can throw this spear up into the sky and count to ten before it touches the ground, will be my successor.\""
+msgstr "El Rey Leopardo levantó una lanza. Él dijo: \"El primero entre ustedes que pueda lanzar esta lanza al cielo y contar hasta diez antes de que toque el suelo, será mi sucesor\"."
 
