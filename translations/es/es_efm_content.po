@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-13 18:08\n"
+"PO-Revision-Date: 2022-09-13 19:09\n"
 
 #. type=template
 msgctxt "template"
@@ -9124,4 +9124,29 @@ msgstr ""
 msgctxt "data_list"
 msgid "What is unusual about the body positions these animals are in?"
 msgstr "¿Qué tienen de inusual las posiciones de los cuerpos en la que se encuentran estos animales?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of animals -- it is a bit tricky, but do your best. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
+msgstr "Cuenta la cantidad de animales; es un poco complicado, pero haz lo mejor que puedas. Cada animal tiene dos ojos, así que puedes duplicar ese número para encontrar el número total de ojos. También puedes contar los ojos de 2 en 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can count all the legs by multiplying the number of animals by 4, skip counting by 4, or by doubling the number of eyes! Which do you like best? Why does this work?"
+msgstr "¡Puedes contar todas las patas multiplicando el número de animales por 4, contando de 4 en 4 o duplicando el número de ojos! ¿Cuál te gusta más? ¿Por qué funciona esto?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They saw a big ape coming forward. As Ape moved, he chanted \"I can do it. I know I can do it. I can do it.\"\n"
+"\n"
+"Ape took the spear and he backed way up. He pulled his arm back, charged forward, leapt into the air and threw the spear into the sky.\n"
+"\n"
+"\"One! Two! Three! Four! Five! Six! Seven! Oh!\" cried Ape."
+msgstr ""
+"Vieron un gran simio que se acercaba. Mientras Simio se movía, cantaba \"Puedo hacerlo. Sé que puedo hacerlo. Puedo hacerlo\".\n"
+"\n"
+"Simio tomó la lanza y retrocedió. Echó el brazo hacia atrás, cargó hacia adelante, saltó en el aire y arrojó la lanza al cielo.\n"
+"\n"
+"\"¡Uno! ¡Dos! ¡Tres! ¡Cuatro! ¡Cinco! ¡Seis! ¡Siete! ¡Oh!\" gritó Simio."
 
