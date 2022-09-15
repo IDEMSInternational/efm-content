@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-15 19:39\n"
+"PO-Revision-Date: 2022-09-15 20:37\n"
 
 #. type=template
 msgctxt "template"
@@ -4034,6 +4034,21 @@ msgstr "Hay muchos rectángulos en esta imagen. Señala todos los que puedas y c
 msgctxt "data_list"
 msgid "Some of the rectangles are flags on the bottom of Phyllis' dress. What are the colors on those flags? Do you recognize the flag of any country you know?"
 msgstr "Algunos de los rectángulos son banderas en la parte inferior del vestido de Phyllis.¿Qué colores hay en esas banderas? ¿Reconoces la bandera de algún país que conozcas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Phyllis has the flag of South Africa. How many colors are on this flag? Can you see some of those colors where you are?"
+msgstr "Phyllis sostiene la bandera de Sudáfrica. ¿Cuántos colores hay en esa bandera ¿Puedes ver algunos de esos colores en el lugar donde estás?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to the triangle on the flag. What shape is the green region on the flag?"
+msgstr "Señala el triángulo de la bandera. ¿Qué forma tiene el área verde de la bandera?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever traveled away from home? Was it exciting to be away, or did you miss your home?"
+msgstr "¿Has viajado alguna vez lejos de casa? ¿Fue emocionante viajar lejos o echaste de menos tu casa?"
 
 #. type=data_list
 msgctxt "data_list"
