@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-20 17:51\n"
+"PO-Revision-Date: 2022-09-20 18:53\n"
 
 #. type=template
 msgctxt "template"
@@ -6847,6 +6847,241 @@ msgstr ""
 msgctxt "data_list"
 msgid "A rectangle is a shape with four straight sides, like this page. A square is a rectangle with four equal sides. Point out some squares where you are now."
 msgstr "Un rectángulo es una figura con cuatro lados rectos como esta página. Un cuadrado es un rectángulo con cuatro lados iguales. Señala algunos cuadrados donde tú estás en este momento."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes when we draw, we know exactly what we want to draw. Other times, we have to think and think. If you drew something right now, what would you draw?"
+msgstr "A veces cuando dibujamos sabemos exactamente lo que queremos dibujar. Otras veces tenemos que pensar y pensar. Si dibujaras algo ahora mismo, ¿qué dibujarías?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog is holding the pencil in his right paw. When you write or draw, which hand do you use?"
+msgstr "Perro sostiene el lápiz con su pata derecha. Cuando escribes o dibujas, ¿qué mano usas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"First, Dog draws an oval.\n"
+"\n"
+"The oval is the body of Cat.\n"
+"\n"
+"Wow, that is simple!"
+msgstr ""
+"Primero, Perro dibuja un óvalo.\n"
+"\n"
+"El óvalo es el cuerpo de Gato.\n"
+"\n"
+"¡Vaya, qué simple!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An oval is like a squished or pulled circle. Ellipses are also ovals. Look for some ovals around where you are."
+msgstr "Un óvalo es como un círculo aplanado o alargado. Las elipses también son óvalos. Busca óvalos alrededor de donde tú te encuentras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the tails for Cat and Dog. Describe how they are similar and how they are different."
+msgstr "Mira las colas de Perro y Gato. Describe de qué maneras son similares y cómo son diferentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog draws Cat one step at a time. Which part of Cat do you think Dog will draw next?"
+msgstr "Perro dibuja a Gato paso a paso. ¿Qué parte de Gato crees que Perro va a dibujar a continuación?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws two triangles on top of the oval.\n"
+"\n"
+"The two triangles are the ears of Cat and he draws a black triangle in the oval.\n"
+"\n"
+"The black triangle is the nose of Cat and he draws a line above the nose."
+msgstr ""
+"Luego dibuja dos triángulos encima del óvalo.\n"
+"\n"
+"Los dos triángulos son las orejas de Gato, y dibuja un triángulo negro dentro del óvalo. \n"
+"\n"
+"El triángulo negro es la nariz de Gato, y traza una línea sobre la nariz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An arc is part of a circle. Point to each part of this drawing and name the shape (oval, triangle, arc)."
+msgstr "Un arco es una parte de un círculo. Señala cada parte de este dibujo y nombre la figura (óvalo, triángulo, arco)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look around where you are and see how many of the shapes you can name."
+msgstr "Mira alrededor de donde te encuentras y ve cuántas figuras puedes nombrar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the line above the nose. That is a surprising line. See what happens to this line in the next two pages."
+msgstr "Observa la línea sobre la nariz. Esa línea es sorprendente. Fíjate lo que sucede con esta línea en las siguientes dos páginas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now he draws the eyes and the eyebrows of Cat.\n"
+"\n"
+"The eyes are two dots.\n"
+"\n"
+"The eyebrows are two lines.\n"
+"\n"
+"Wow, that is easy!"
+msgstr ""
+"Ahora dibuja los ojos y las cejas de Gato. \n"
+"\n"
+"Los ojos son dos puntos. \n"
+"\n"
+"Las cejas son dos líneas. \n"
+"\n"
+"¡Vaya, qué sencillo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That unusual line from the last page is the start of Cat's muzzle. That line separates the muzzle from the rest of Cat's face."
+msgstr "La línea inusual de la última página es el principio del hocico de Gato. Esa línea separa el hocico del resto de la cara de Gato."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The way people move their eyebrows can tell us what they are feeling. Can you move your eyebrows to show you are surprised? Angry?"
+msgstr "La manera en que las personas mueven las cejas puede decirnos lo que sienten. ¿Puedes mover tus cejas para mostrar que estás sorprendido/a? ¿O enojado/a?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do Cat's eyebrows tell us about how Cat is feeling?"
+msgstr "¿Qué nos dicen las cejas de Gato acerca de cómo se siente?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws the mouth of Cat.\n"
+"\n"
+"The mouth is a line.\n"
+"\n"
+"It looks like the letter 'w' and he draws the hairs of Cat.\n"
+"\n"
+"Three hairs on the left side and three hairs on the right side."
+msgstr ""
+"Luego dibuja la boca de Gato. \n"
+"\n"
+"La boca es una línea. \n"
+"\n"
+"Se parece a la letra “w”, y dibuja los pelos de Gato. \n"
+"\n"
+"Tres pelos del lado izquierdo y tres pelos del lado derecho."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The lines beside Cat's nose are whiskers. They are very sensitive to touch. They help a cat sense things in the dark."
+msgstr "Las líneas a los lados de la nariz de Gato son bigotes. Son muy sensibles al tacto. Le ayudan a un gato a percibir objetos en la oscuridad."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the fourth step in the drawing. See if you can describe the steps in order, calling each one by its number."
+msgstr "Este es el cuarto paso del dibujo. Trata de describir los pasos en orden, enumerando cada uno."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of something you do step by step. Perhaps it is getting dressed or going to the store. List as many of the steps in order that you can think of."
+msgstr "Piensa en algo que haces paso a paso. Quizás es vestirte o ir a la tienda. Enumera todos los pasos que se te ocurran."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drawing is almost finished.\n"
+"\n"
+"He draws the arms and legs of Cat.\n"
+"\n"
+"The arms and legs are lines and he draws the toes of Cat.\n"
+"\n"
+"The toes are circles and he draws the tail of Cat.\n"
+"\n"
+"The tail is a long line."
+msgstr ""
+"El dibujo está casi terminado. \n"
+"\n"
+"Él dibuja los brazos y las piernas de Gato. \n"
+"\n"
+"Los brazos y las piernas son líneas, y dibuja los dedos de las patas de Gato. \n"
+"\n"
+"Los dedos son círculos, y dibuja la cola de Gato. \n"
+"\n"
+"La cola es una línea larga."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which details still need to be added to this picture?"
+msgstr "¿Qué detalles faltan por añadir a este dibujo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count by 3's to count how many of Cat's toes you can see (3 + 3)."
+msgstr "Cuenta de 3 en 3 para contar los dedos de Gato que puedes ver (3 + 3)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cats usually have 4 toes on a back leg. How many toes would that make? How many more toes would that be than 3 + 3?"
+msgstr "Los gatos usualmente tienen cuatro dedos en sus patas traseras. ¿Cuántos dedos serían en total? ¿Cuántos dedos más serían que 3 + 3?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"At last he draws some stripes on the body of Cat and colors the body orange.\n"
+"\n"
+"The drawing is finished.\n"
+"\n"
+"Wow, that is beautiful!"
+msgstr ""
+"Por último, él dibuja unas rayas en el cuerpo de Gato y lo colorea de anaranjado.\n"
+"\n"
+"El dibujo está terminado. \n"
+"\n"
+"¡Vaya, es hermoso!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe what Cat and Dog are each feeling by looking at their faces."
+msgstr "Describe lo que sienten Gato y Perro basándote en sus caras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are lots of groups of 3 in the picture now. Can you skip count by 3's to count them all?"
+msgstr "Hay muchos grupos de 3 en la imagen. ¿Puedes contar de 3 en 3 para contarlos todos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"First, Cat draws an oval.\n"
+"\n"
+"The oval is the body of Dog.\n"
+"\n"
+"Wow, that is good!"
+msgstr ""
+"Primero, Gato dibuja un óvalo.\n"
+"\n"
+"El óvalo es el cuerpo de Perro.\n"
+"\n"
+"¡Vaya, qué sencillo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now he draws the eyes and the eyebrows of Dog.\n"
+"\n"
+"The eyes are two dots.\n"
+"\n"
+"The eyebrows are two lines.\n"
+"\n"
+"Wow, that is perfect!"
+msgstr ""
+"Ahora dibuja los ojos y las cejas de Perro. \n"
+"\n"
+"Los ojos son dos puntos. \n"
+"\n"
+"Las cejas son dos líneas. \n"
+"\n"
+"¡Vaya, eso es perfecto!"
 
 #. type=data_list
 msgctxt "data_list"
