@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-21 19:51\n"
+"PO-Revision-Date: 2022-09-21 20:51\n"
 
 #. type=template
 msgctxt "template"
@@ -9898,6 +9898,51 @@ msgstr "Contemos las colas, los ojos y los pies. ¿Cuántas colas hay?"
 msgctxt "data_list"
 msgid "Would you count the eyes two at a time, two for each monkey, or would you count them three at a time, which is doubling the number of monkeys?"
 msgstr "¿Contarías los ojos de dos en dos, dos por cada mono, o los contarías de tres en tres, que es lo mismo que duplicar el número de monos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You have many choices for skip counting their feet. What are your choices and which one would you choose to use?"
+msgstr "Tienes muchas opciones para contar sus pies. ¿Cuáles son tus opciones y cuál escogerías?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many eyes do six cats have?"
+msgstr "¿Cuántos ojos tienen seis gatos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Wow, these cats are a bit creepy! Did you skip count the eyes by 2's or 6's?"
+msgstr "¡Vaya, estos gatos son un poco espeluznantes! ¿Contaste los ojos de 2 en 2 o de 6 en 6?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many whiskers does each cat have? Can you count high enough to skip count all the whiskers?"
+msgstr "¿Cuántos bigotes tiene cada gato? ¿Puedes contar lo suficientemente alto como para contar salteado todos los bigotes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you skip count high enough to count all the feet?"
+msgstr "¿Puedes contar lo suficientemente alto para contar todos los pies?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs does one worm have?"
+msgstr "¿Cuántas patas tiene un gusano?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count all those legs, or is it too tricky to see or too high to count?"
+msgstr "¿Puedes contar todas esas patas o es demasiado difícil ver o hay demasiadas patas para contar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other things that are just too many to count."
+msgstr "Piensa en otras cosas que son demasiadas para contar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer."
+msgstr "Contar saltando números puede ser divertido porque obtienes la respuesta mucho más rápido que contando de 1 en 1. También es divertido encontrar los números que puedes usar para saltar y llegar a la respuesta."
 
 #. type=data_list
 msgctxt "data_list"
