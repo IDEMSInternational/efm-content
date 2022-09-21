@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-21 18:45\n"
+"PO-Revision-Date: 2022-09-21 19:51\n"
 
 #. type=template
 msgctxt "template"
@@ -9773,6 +9773,131 @@ msgstr "Gato y Perro Dibuja y Colorea"
 msgctxt "data_list"
 msgid "This story has shapes, comparisons, and skip counting.  Practice words: rectangle, square, oval, circle, arc, triangle, line, straight, curved, mirror symmetry, similar, different, less, same, more, pair, difference, right, left, skip counting by 2's, 3's, and 5's."
 msgstr "Esta historia trata sobre las figuras, hacer comparaciones y contar saltando números.  Palabras para practicar: rectángulo, cuadrado, óvalo, círculo, arco, triángulo, línea, recto, curvo, simetría reflectiva, similar, diferente, menos, igual, más, par, diferencia, derecha, izquierda, contar de 2 en 2, de 3 en 3 y de 5 en 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How Many?"
+msgstr "¿Cuántos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
+msgstr "Esta historia contiene conteo hasta 14 y conteo saltando números. Palabras para practicar: los números hasta el 14, contar de… en…, más, menos, uno más, tres más y el doble."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs do two ladybugs have?"
+msgstr "¿Cuántas patas tienen dos mariquitas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting is counting by steps bigger than 1. You can skip count these legs by 6's by counting 6, 12. You can also skip count by 3's using the sides of their bodies 3, 6, 9, 12."
+msgstr "Contar saltando números es contar brincando números mayores que uno. Puedes contar las patas de 6 en 6 de esta manera: 6, 12. También puedes contarlas de 3 en 3 usando cada lado de los cuerpos: 3, 6, 9, 12."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can skip count to 12 in steps of 3 and 6. Can you think of other ways to skip count to 12? Which ways work (1, 2, 3, 4, 6, 12) and which ways don't (5, 7, 8, 9, 10, 11)?"
+msgstr "Puedes contar hasta doce 12 de 3 en 3 y de 6 en 6. ¿Se te ocurren otras maneras de contar hasta 12? ¿Qué maneras funcionan (1, 2, 3, 4, 6, 12) y cuáles no (5, 7, 8, 9, 10, 11)?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the dots on each ladybug's back. Have you seen ladybugs around where you live -- did they have more or fewer dots than these?"
+msgstr "Cuenten juntos las manchas de cada mariquita. ¿Has visto mariquitas cerca de donde tú vives?, ¿tenían más o menos manchas que estas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many wings do four birds have?"
+msgstr "¿Cuántas alas tienen cuatro aves?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting by 2's -- one 2 for each bird."
+msgstr "Cuenta las alas contando de 2 en 2 -- 2 por cada ave."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting the four left wings and then the four right wings. It's fun that you get the same answer whether you skip by 2's or 4's!"
+msgstr "Cuenta las alas contando primero las cuatro alas izquierdas y luego las cuatro alas derechas. ¡Es divertido obtener la misma respuesta contando tanto de 2 en 2 como de 4 en 4!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If the bird in the sky flies away, how many of the four birds will remain?"
+msgstr "Si el ave en el cielo se va, ¿cuántas aves quedan?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns do three rhinos have?"
+msgstr "¿Cuántos cuernos tienen tres rinocerontes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has two horns, a big one and a small one. Skip count their horns by 2's and 3's."
+msgstr "Cada rinoceronte tiene dos cuernos: uno grande y uno pequeño. Cuenta sus cuernos de 2 en 2 y de 3 en 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How would you skip count to find out how many feet they have?"
+msgstr "¿Cómo contarías para averiguar cuántos pies tienen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has twice as many feet as horns. Take the total number of horns and double that to get the total number of feet."
+msgstr "Cada rinoceronte tiene el doble de patas que de cuernos. Toma el número total de cuernos y calcula el doble para obtener el número total de pies."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trunks do five elephants have?"
+msgstr "¿Cuántas trompas tienen cinco elefantes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count trunks, tails, tusks, and ears. Counting tails and trunks is simple -- what number do you get?"
+msgstr "Contemos las trompas, las colas, los colmillos y las orejas. Contar las colas y las trompas es sencillo. ¿Qué número obtienes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each elephant has two tusks and two ears. Which do you like better -- skip counting these by 2's or by 5's?"
+msgstr "Cada elefante tiene dos colmillos y dos orejas. ¿Qué prefieres: contar de 2 en 2 o de 5 en 5?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four big elephants and one baby elephant. How much is four plus one more?"
+msgstr "Hay cuatro elefantes grandes y una cría de elefante. ¿Cuántos son cuatro más uno más?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many ears do seven dogs have?"
+msgstr "¿Cuántas orejas tienen siete perros?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you count the ears by 1's, 2's, or 7's?"
+msgstr "¿Contaste las orejas de 1 en 1, de 2 en 2 o de 7 en 7?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are 14 ears. We can skip count to 14 by 1's, 2's, and 7's. Are there any other step sizes that work for counting to 14?"
+msgstr "Hay 14 orejas. Podemos contar hasta 14 de 1 en 1, de 2 en 2 y de 7 en 7. ¿Hay otra manera de saltar números para llegar a 14?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four dogs in the top group and three in the bottom. What do you get when put four dogs together with three more?"
+msgstr "Hay cuatro perros en el grupo de arriba y tres en el grupo de abajo. ¿Qué número obtienes cuando sumas cuatro perros más tres más?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many tails do three monkeys have?"
+msgstr "¿Cuántas colas tienen tres monos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count the tails, eyes, and feet. How many tails do you count?"
+msgstr "Contemos las colas, los ojos y los pies. ¿Cuántas colas hay?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you count the eyes two at a time, two for each monkey, or would you count them three at a time, which is doubling the number of monkeys?"
+msgstr "¿Contarías los ojos de dos en dos, dos por cada mono, o los contarías de tres en tres, que es lo mismo que duplicar el número de monos?"
 
 #. type=data_list
 msgctxt "data_list"
