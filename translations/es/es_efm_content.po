@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-23 17:20\n"
+"PO-Revision-Date: 2022-09-23 18:25\n"
 
 #. type=template
 msgctxt "template"
@@ -9796,6 +9796,16 @@ msgstr "Esta historia enseña a contar hasta el 8 y a comparar. Palabras para pr
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Listen to My Body"
+msgstr "Escuchando a Mi Cuerpo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has  counting to 10 and comparing. Practice words: more, less, difference, and counting by 2's."
+msgstr "Esta historia tiene conteo hasta 10 y comparaciones. Palabras para practicar: mayor, menor, diferencia y contar de 2 en 2."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How many legs do two ladybugs have?"
 msgstr "¿Cuántas patas tienen dos mariquitas?"
 
@@ -10178,8 +10188,71 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "I couldn't find another me in any single place."
+msgstr "No pude encontrar otro yo en ningún lugar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think his shadow temporarily fooled him into thinking that there was another animal just like him?"
+msgstr "¿Crees que su sombra lo engañó haciéndole creer que había otro animal como él?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How much does your shadow look like you?"
+msgstr "¿Cuánto se parece tu sombra a ti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a shadow that you thought was a person?"
+msgstr "¿Has visto alguna vez una sombra que creías que era una persona?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There's only one me in the world!\n"
+"I'm special, oh it's true!"
+msgstr ""
+"¡Solo hay uno como yo en el mundo!\n"
+"Soy especial, ¡oh, es verdad!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How many animals can you count in this picture?"
 msgstr "¿Cuántos animales puedes contar en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the ways each animal in this picture is different than our friend."
+msgstr "Describe algunas de las formas en que cada animal de esta imagen es diferente a nuestro amigo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the ways each animal is similar to our friend."
+msgstr "Describe algunas de las formas en que cada animal es semejante a nuestro amigo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"But not just me, don't you see?\n"
+"There's only one of you!"
+msgstr ""
+"Pero no solo yo, ¿no lo ves? \n"
+"¡Solo hay uno como tú!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know someone who is very similar to you? How are they similar to you?"
+msgstr "¿Conoces a alguien que sea muy parecido a ti? ¿En qué se parecen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Despite the similarities, describe some ways they are different from you."
+msgstr "A pesar de las semejanzas, describe algunas maneras en que son diferentes a ti."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like being the only you that there is?"
+msgstr "¿Te gusta ser único?"
 
 #. type=data_list
 msgctxt "data_list"
