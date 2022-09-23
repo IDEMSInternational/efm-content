@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-21 20:51\n"
+"PO-Revision-Date: 2022-09-23 16:20\n"
 
 #. type=template
 msgctxt "template"
@@ -9786,6 +9786,16 @@ msgstr "Esta historia contiene conteo hasta 14 y conteo saltando números. Palab
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Is There Anyone Like Me?"
+msgstr "¿Hay Alguien Como Yo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 8 and comparing. Practice words: one more, one less, take away, fact family, symmetry, mirror symmetry, similarity, difference, and same."
+msgstr "Esta historia enseña a contar hasta el 8 y a comparar. Palabras para practicar: más uno, menos uno, quitar, familia de operaciones, simetría, simetría reflectiva, semejanza, diferencia e igual."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How many legs do two ladybugs have?"
 msgstr "¿Cuántas patas tienen dos mariquitas?"
 
@@ -9943,6 +9953,46 @@ msgstr "Piensa en otras cosas que son demasiadas para contar."
 msgctxt "data_list"
 msgid "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer."
 msgstr "Contar saltando números puede ser divertido porque obtienes la respuesta mucho más rápido que contando de 1 en 1. También es divertido encontrar los números que puedes usar para saltar y llegar a la respuesta."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I wonder if there's another me somewhere in the world."
+msgstr "Me pregunto si hay otro yo en algún lugar del mundo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think -- is there another animal just like this one somewhere in the world?"
+msgstr "¿Qué crees?¿Hay algún otro animal como este en algún lugar del mundo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think there's another person just like you?"
+msgstr "¿Crees que hay otra persona como tú?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five trees in this picture. If you take away the one by itself on one side, how many trees are there on the other side? What is one less than five?"
+msgstr "Hay cinco árboles en esta imagen. Si quitas el que está solo en un lado, ¿cuántos árboles hay del otro lado? ¿Cuánto es cinco menos uno?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who looks the same."
+msgstr "Quien se ve igual."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you look in a mirror or in water, the image is almost the same as how you look. How is it different and how is it the same?"
+msgstr "Cuando te miras en un espejo o en el agua, la imagen es casi igual a ti. ¿En qué se parece y en qué se diferencia?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Something that has one side that is the mirror image of the other side is called symmetric, or even mirror symmetric. Do you see some things around you that are symmetric?"
+msgstr "Un objeto que tiene un lado que es el reflejo del otro lado se llama simétrico o se dice que tiene simetría reflectiva. ¿Ves algunas cosas a tu alrededor que son simétricas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People's faces are very close to being symmetric. Do you notice anything on one side of your face that is a little different than the other side? Perhaps your hair?"
+msgstr "Las caras de las personas son casi simétricas. ¿Notas algo en un lado de tu cara que es un poco diferente en el otro? ¿Quizás tu cabello?"
 
 #. type=data_list
 msgctxt "data_list"
