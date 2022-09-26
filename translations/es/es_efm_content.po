@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-23 18:25\n"
+"PO-Revision-Date: 2022-09-26 17:06\n"
 
 #. type=template
 msgctxt "template"
@@ -10253,6 +10253,17 @@ msgstr "A pesar de las semejanzas, describe algunas maneras en que son diferente
 msgctxt "data_list"
 msgid "Do you like being the only you that there is?"
 msgstr "¿Te gusta ser único?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Today I an not going to school.\n"
+"\n"
+"It is a holiday."
+msgstr ""
+"Hoy no voy a ir a la escuela.\n"
+"\n"
+"Es un día de asueto."
 
 #. type=data_list
 msgctxt "data_list"
