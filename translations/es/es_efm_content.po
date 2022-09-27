@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-27 11:49\n"
+"PO-Revision-Date: 2022-09-27 12:58\n"
 
 #. type=template
 msgctxt "template"
@@ -10480,6 +10480,52 @@ msgstr "¿Alguna vez has visto tu corazón latir en tu pecho? ¿Es posible verlo
 msgctxt "data_list"
 msgid "The storyteller and artist are stretching the truth a bit here. Have you ever stretched the truth a bit to make a story a little more interesting?"
 msgstr "El narrador y el artista están exagerando un poco aquí. ¿Alguna vez has exagerado para que una historia sea un poco más interesante?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her toy is covering its ears because the heart is beating so loudly. Is it possible to hear someone else's heart from a distance?"
+msgstr "Su juguete se tapa los oídos porque su corazón late muy fuerte. ¿Es posible escuchar el corazón de alguien a distancia?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If I put my fingers on my wrist, then I can feel my pulse!"
+msgstr "Si pongo mis dedos sobre la muñeca, ¡puedo sentir mi pulso!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you feel your pulse on your wrist? Some people like to feel their pulse on their neck or on their head. Try it!"
+msgstr "¿Puedes sentir tu pulso en tu muñeca? A algunas personas les gusta sentir su pulso en el cuello o en su cabeza. ¡Inténtalo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count your pulse for ten seconds. Did you get a count between 7 and 20?"
+msgstr "Cuenta tu pulso durante diez segundos. ¿Contaste entre 7 y 20?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have another person do the same thing and compare the counts you got. Whose count was more and whose was less?"
+msgstr "Pídele a otra persona que haga lo mismo y comparen los resultados que obtuvieron. ¿Quién obtuvo el mayor resultado y quién el menor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear myself laughing.\n"
+"\n"
+"Haha, haha, haaah, haaa!"
+msgstr ""
+"Puedo oír mi risa. \n"
+"\n"
+"¡Jaja, jaja, jaaa, jaaa!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is very expressive, so her laughter is probably very loud. Is it possible to laugh softly? Can you do it?"
+msgstr "Ella es muy expresiva, así que su risa probablemente es muy fuerte. ¿Es posible reír en voz baja? ¿Puedes hacerlo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often like to laugh together. When you laugh, do other people laugh with you?"
+msgstr "A menudo a las personas les gusta reír juntas. Cuando tú te ríes, ¿se ríen otros contigo?"
 
 #. type=data_list
 msgctxt "data_list"
