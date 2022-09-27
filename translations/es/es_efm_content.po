@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-26 17:06\n"
+"PO-Revision-Date: 2022-09-27 09:34\n"
 
 #. type=template
 msgctxt "template"
@@ -10264,6 +10264,37 @@ msgstr ""
 "Hoy no voy a ir a la escuela.\n"
 "\n"
 "Es un día de asueto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think she will do with her day off from school?"
+msgstr "¿Qué crees que hará en su día libre?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does she like not going to school?"
+msgstr "¿Por qué le gusta no ir a la escuela?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she will miss seeing her school friends and teachers?"
+msgstr "¿Crees que extrañará a sus compañeros de clase y a sus maestros?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Today I am not going to watch TV.\n"
+"\n"
+"There is no electricity anyway."
+msgstr ""
+"Hoy no voy a ver la tele. \n"
+"\n"
+"De todos modos, no hay luz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does she decide to not watch TV?"
+msgstr "¿Por qué decide no ver la tele?"
 
 #. type=data_list
 msgctxt "data_list"
