@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-27 13:56\n"
+"PO-Revision-Date: 2022-09-27 14:54\n"
 
 #. type=template
 msgctxt "template"
@@ -9806,6 +9806,16 @@ msgstr "Esta historia tiene conteo hasta 10 y comparaciones. Palabras para pract
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Little Jojo's Long Tall Tale"
+msgstr "El Cuento Largo y Fantástico del Pequeño Jojo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has many shapes. Practice words: circle, round, short, polygon, side, triangle, quadrilateral, pentagon, hexagon, square, rectangle, diamond, rhombus, cone, pattern, concentric circles, colors, tall, tallest, far, farthest, long, half, pair, add, subtract, easy, hard, easier, harder, and problem solving."
+msgstr "Esta historia tiene muchas figuras. Palabras para practicar: círculo, redondo, corto, polígono, lado, triángulo, cuadrilátero, pentágono, hexágono, cuadrado, rectángulo, diamante, rombo, cono, patrón, círculos concéntricos, colores, alto, el más alto, lejos, el más lejano, largo, mitad, par, sumar, restar, fácil, difícil, más fácil, más difícil y resolver problemas."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How many legs do two ladybugs have?"
 msgstr "¿Cuántas patas tienen dos mariquitas?"
 
@@ -10562,6 +10572,140 @@ msgstr ""
 "Puedo oír mis aplausos.\n"
 "\n"
 "Plas, plas, plas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a pattern using claps and foot stomps on the ground."
+msgstr "Inventa un patrón con aplausos y pisotones sobre el piso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was your pattern complicated, or was it as simple as: clap clap stomp, clap clap stomp?"
+msgstr "¿Tu patrón era complicado o sencillo como: plas plas pum, plas plas pum?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dancing is often a pattern of movements with your arms and legs. Do you like to dance?"
+msgstr "A menudo el baile es un patrón de movimientos con tus brazos y tus piernas. ¿Te gusta bailar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear my stomach rumbling!\n"
+"\n"
+"Guddu, guddu, guddu."
+msgstr ""
+"¡Puedo oír los ruidos de mi barriga! \n"
+"\n"
+"Gura, gura, gura."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your stomach rumbles, what is your body feeling?"
+msgstr "Cuando tu barriga hace ruido, ¿qué está sintiendo tu cuerpo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does your stomach ever rumble when it is having trouble digesting something or when you're sick?"
+msgstr "¿Alguna vez suena tu barriga cuando te cuesta digerir algo o cuando estás enfermo/a?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at her face, what is she feeling right now?"
+msgstr "Fíjate en su cara, ¿qué está sintiendo ella en este momento?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My stomach is saying, \"Feed me!\""
+msgstr "Mi barriga dice: \"¡Dame de comer!\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been so hungry you couldn't wait and you had to eat immediately?"
+msgstr "¿Alguna vez has tenido tanta hambre que no podías esperar y tuviste que comer algo inmediatamente?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think her stomach is really shoving her to get some food?"
+msgstr "¿Crees que su barriga está realmente empujándola para conseguir algo de comida?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each time she bounds forward, she takes two steps. You can count those steps by counting by 2's -- 2, 4, 6, 8, ..."
+msgstr "Cada vez que salta hacia adelante, ella avanza dos pasos. Puedes contar los pasos de 2 en 2: 2, 4, 6, 8, ..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"My nose can smell cakes baking in mother's kitchen.\n"
+"\n"
+"And now I want to hear my jaws chewing those cakes!"
+msgstr ""
+"Mi nariz puede oler los pasteles horneándose en la cocina de mamá. \n"
+"\n"
+"¡Y ahora quiero oír a mis mandíbulas masticando esos pasteles!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many really small cakes do you think she will eat?"
+msgstr "¿Cuántos pasteles pequeños crees que comerá?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the most cookies or other snack you've eaten at one time?"
+msgstr "¿Cuál es la mayor cantidad de galletas u otros bocadillos que has comido al mismo tiempo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
+msgstr "Esta historia ha mencionado varios sonidos de tu cuerpo que puedes escuchar. ¿Cuántos puedes recordar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I have a very big problem, cried Chief Short and Round in a loud voice. \"Everyone, come here! I have a very big problem.\"\n"
+"\n"
+"The people of the Village of Many Shapes formed a big circle around Chief Short and Round. They wanted to hear what he had to say."
+msgstr ""
+"Tengo un gran problema, gritó el jefe Corto y Redondo con voz fuerte. \"¡Todos, vengan aquí! Tengo un gran problema\". \n"
+"\n"
+"Los habitantes de la aldea de Muchas Figuras formaron un círculo grande alrededor de jefe Corto y Redondo. Querían escuchar lo que tenía que decir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A polygon is a shape with several straight sides. Triangles have 3 sides, quadrilaterals have 4, pentagons have 5, and hexagons have 6. Name some polygons where you are."
+msgstr "Un polígono es una figura con varios lados rectos. Los triángulos tienen 3 lados, los cuadriláteros tienen 4, los pentágonos tienen 5 y los hexágonos tienen 6. Nombra algunos polígonos donde tú te encuentras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the shapes of the buildings in this picture?"
+msgstr "¿Cuáles son algunas de las figuras de los edificios en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are snowflakes in the sky on a sunny day on  this page. Have you ever seen this?"
+msgstr "En esta página hay copos de nieve en el cielo en un día soleado. ¿Alguna vez has visto eso?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Chief Short and Round began, \"This is the worst news ever. I have lost my spring horn.\" \n"
+"\n"
+"The villagers whispered to each other, \"Oh no!\" Chief Short and Round continued talking, \"If I don't find my spring horn then I can't blow my spring horn! And we can't start the springtime party if I can't blow my spring horn. And spring won't come if we don't have a springtime party.\""
+msgstr ""
+"El jefe Corto y Redondo comenzó: \"Esta es la peor noticia de todas. He perdido mi cuerno primaveral\". \n"
+"\n"
+"Los habitantes se susurraron unos a otros: \"¡Ay, no!\". El jefe Corto y Redondo continuó: \"¡Si no encuentro mi cuerno primaveral no puedo tocarlo! ¡Y no podemos empezar la fiesta de primavera si no puedo tocar el cuerno primaveral! Y la primavera no llegará si no tenemos una fiesta de primavera\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many of these people have very colorful clothes. What are your favorite colors to wear to a party?"
+msgstr "Varias de estas personas tienen ropas de muchos colores. ¿Qué colores te gusta vestir para una fiesta?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever looked forward to a party and then worried that it might not happen?"
+msgstr "¿Alguna vez has esperado con ansias una fiesta y luego te preocupaste de que no se llevara a cabo?"
 
 #. type=data_list
 msgctxt "data_list"
