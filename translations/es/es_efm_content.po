@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-27 14:54\n"
+"PO-Revision-Date: 2022-09-27 15:55\n"
 
 #. type=template
 msgctxt "template"
@@ -10706,6 +10706,109 @@ msgstr "Varias de estas personas tienen ropas de muchos colores. ¿Qué colores 
 msgctxt "data_list"
 msgid "Have you ever looked forward to a party and then worried that it might not happen?"
 msgstr "¿Alguna vez has esperado con ansias una fiesta y luego te preocupaste de que no se llevara a cabo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many beautiful polygons on these clothes! There are patterns with squares (polygons with four equal sides and four square corners), and some with hexagons. Notice how the hexagons on the back of the shirt are made of six triangles in a lively pattern!"
+msgstr "¡Hay muchos hermosos polígonos en las ropas! Hay patrones con cuadrados (polígonos con cuatro lados iguales y cuatro esquinas rectas) y algunos con hexágonos. ¡Observa como los hexágonos en la parte trasera de la camisa están hechos de seis triángulos con un patrón muy dinámico!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Little Square Jojo stepped into the circle and lifted up his hand. \"I will find your spring horn, Chief Short and Round.\" \"Good, good,\" said the chief with a smile. \"You can start looking in the last place I visited this morning. Go to Tata Rectangle's house. I remember having my horn with me there.\""
+msgstr "El pequeño Jojo Cuadrado entró en el círculo y levantó la mano. \"Yo encontraré tu cuerno primaveral, jefe Corto y Redondo\". \"Muy bien\", dijo el jefe con una sonrisa. \"Puedes empezar a buscar en el último lugar que visité esta mañana. Ve a la casa de Tata Rectángulo. Recuerdo haber tenido el cuerno conmigo ahí\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does Little Square Jojo deserve his name?"
+msgstr "¿Por qué se llama así el pequeño Jojo Cuadrado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many circles in this picture. How many circles can you find?"
+msgstr "Hay muchos círculos en esta imagen. ¿Cuántos círculos puedes encontrar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many squares are there on Jojo's clothes? That is a very tricky question because there are squares of different sizes on his clothes -- some of the squares are made up of smaller squares!"
+msgstr "¿Cuántos cuadrados hay en la ropa de Jojo? Esa es una pregunta difícil porque hay cuadrados de distintos tamaños en su ropa. ¡Algunos cuadrados están formados por cuadrados más pequeños!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Tata Rectangle was happy to see Jojo. He opened his door and welcomed Jojo inside. \"I remember seeing Chief Short and Round earlier this morning,\" said Tata Rectangle, \"but I don't think he had his spring horn with him.\" \n"
+"\n"
+"Little Square Jojo looked under Tata Rectangle's bed and behind his books. He even looked into his fridge. But Jojo couldn't find the spring horn anywhere."
+msgstr ""
+"Tata Rectángulo se alegró de ver a Jojo. Abrió la puerta y recibió a Jojo. Tata Rectángulo dijo: \"Recuerdo haber visto al jefe Corto y Redondo esta mañana, pero no creo que tuviera su cuerno primaveral con él\". \n"
+"\n"
+"El pequeño Jojo Cuadrado buscó debajo de la cama de Tata Rectángulo y detrás de sus libros. Incluso buscó en su refrigerador. Pero Jojo no encontró el cuerno primaveral por ningún lado."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle has four straight sides with corners like the corners of this page. A square is always a rectangle, but rectangles are not always squares. What would make a rectangle not be a square?"
+msgstr "Un rectángulo tiene cuatro lados rectos con esquinas como las esquinas de esta página. Un cuadrado siempre es un rectángulo, pero los rectángulos no siempre son cuadrados. ¿Qué haría que un rectángulo no fuera un cuadrado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there any rectangles that are squares in this picture?"
+msgstr "¿Hay rectángulos que sean cuadrados en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which objects in this room are rectangles? There are rectangles everywhere on this page! Point to as many rectangles as you can."
+msgstr "¿Qué objetos en esta habitación son rectángulos? ¡Hay rectángulos por todas partes en esta página! Señala tantos rectángulos como puedas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Go and see if Mama Triangle has the spring horn, said Tata Rectangle. \"Chief Short and Round visited her before he came to see me.\" \"Thank you, Tata,\" said Jojo as he waved goodbye.\n"
+"\n"
+"Mama Triangle's house is about three kilometers from here, thought Jojo. That is a far distance to walk. I will stop at my house along the way and have a rest."
+msgstr ""
+"Ve a ver si Mamá Triángulo tiene el cuerno primaveral, dijo Tata Rectángulo. \"El jefe Corto y Redondo fue a visitarla antes de venir a verme\". \"Gracias, Tata\", dijo Jojo mientras se despedía con la mano. \n"
+"\n"
+"La casa de Mama Triángulo está como a tres kilómetros de aquí, pensó Jojo. Esa es una distancia muy lejana para caminar. Me detendré en mi casa por el camino y tomaré un descanso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the tallest things in this picture? Have you ever seen a person almost as tall as a house?"
+msgstr "¿Cuáles son los objetos más altos en esta imagen? ¿Alguna vez has visto a una persona casi tan alta como una casa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo is going for a long 3km (about two miles) walk. What is the farthest you have ever walked?"
+msgstr "Jojo va a dar una caminata larga de 3 km (cerca de dos millas). ¿Cuánto es lo más lejos que has caminado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you ever walk a long, long time? How many minutes was that walk? 10? 20? 60? more?"
+msgstr "¿Alguna vez has caminado por mucho mucho tiempo? ¿Cuántos minutos duró esa caminata? ¿10? ¿20? ¿60? ¿O más?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo was hot and tired by the time he reached his house. He went inside to open his freezer and pour a glass of cold water with ice blocks. \"I must be half the way to Mama Triangle's house,\" he said. \"I hope she has the chief's horn.\"\n"
+"\n"
+"Then Jojo had an idea. \"I can visit Dudu Diamond. Her house is only half a kilometer from here and it's on the way."
+msgstr ""
+"El pequeño Jojo Cuadrado estaba acalorado y cansado cuando llegó a su casa. Fue a abrir su congelador y se sirvió un vaso de agua fría con cubos de hielo. \"Debo estar a medio camino de la casa de Mamá Triángulo\", dijo. \"Espero que ella tenga el cuerno del jefe\". \n"
+"\n"
+"Entonces Jojo tuvo una idea. \"Puedo visitar a Dudu Diamante. Su casa está a solo medio kilómetro de aquí y está en el camino\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On this floor, you can hop from one square to another square of the same color. Choose one color with your finger and hop around that room."
+msgstr "En este piso, puedes saltar de un cuadrado a otro cuadrado del mismo color. Escoge un color con tu dedo y salta alrededor de la habitación."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a pattern on the floor where you are? Do you ever hop around a room trying to stay on just one color?"
+msgstr "¿Hay un patrón en el piso donde tú te encuentras? ¿Alguna vez has saltado alrededor de una habitación tratando de quedarte en un solo color?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo has walked half way of his 3 km (2 mi) walk. How far has he walked?"
+msgstr "Jojo ha caminado la mitad de su caminata de 3 km (2 mi). ¿Cuánto ha caminado?"
 
 #. type=data_list
 msgctxt "data_list"
