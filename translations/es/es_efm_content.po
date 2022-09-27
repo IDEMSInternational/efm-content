@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-27 12:58\n"
+"PO-Revision-Date: 2022-09-27 13:56\n"
 
 #. type=template
 msgctxt "template"
@@ -10526,6 +10526,42 @@ msgstr "Ella es muy expresiva, así que su risa probablemente es muy fuerte. ¿E
 msgctxt "data_list"
 msgid "People often like to laugh together. When you laugh, do other people laugh with you?"
 msgstr "A menudo a las personas les gusta reír juntas. Cuando tú te ríes, ¿se ríen otros contigo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even when there is nothing funny happening, sometimes just laughing out loud can make you feel better."
+msgstr "Aun cuando no sucede nada gracioso, a veces reír en voz alta puede hacerte sentir mejor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I can hear myself crying. Boohoooo hooo!"
+msgstr "Puedo oír mi llanto. ¡Buaaa, buaaa!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she is really crying, or is she just pretending?"
+msgstr "¿Crees que realmente está llorando o está haciendo como que llora?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you ever pretend to cry so that people will feel sorry for you?"
+msgstr "¿Haces como qué lloras para que otros sientan lástima por ti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people feel much better after they cry. Do you feel better after you cry?"
+msgstr "Algunas personas se sienten mucho mejor después de llorar. ¿Tú te sientes mejor después de llorar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear myself clapping.\n"
+"\n"
+"Clap, clap, clap."
+msgstr ""
+"Puedo oír mis aplausos.\n"
+"\n"
+"Plas, plas, plas."
 
 #. type=data_list
 msgctxt "data_list"
