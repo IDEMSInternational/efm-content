@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-04 15:19\n"
+"PO-Revision-Date: 2022-10-05 17:42\n"
 
 #. type=template
 msgctxt "template"
@@ -10959,6 +10959,21 @@ msgstr "A veces, descubrir lo que algo no puede ser es casi tan valioso como des
 msgctxt "data_list"
 msgid "What do you think will happen next in the story? Create an ending for how this story turns out. Do they find the horn, and if so, how do they find it?"
 msgstr "¿Qué crees que sucederá a continuación en la historia? Crea un final para el desenlace de esta historia. ¿Encuentran el cuerno? Y, si es así, ¿cómo lo encuentran?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle held Jojo's hand as she led him outside. \"Don't worry Jojo,\" she said. \"Chief Short and Round didn't leave his spring horn here, but I know where it is. That chief can be such a silly thing!\" Mama Triangle, Little Square Jojo and Dudu Diamond all ran down the mountain and in no time at all they were safely at the bottom."
+msgstr "Mamá Triángulo tomó la mano de Jojo y lo llevó afuera. \"No te preocupes, Jojo\", le dijo. \"El jefe Corto y Redondo no dejó su cuerno primaveral aquí, pero yo sé dónde está. ¡El jefe puede ser tan bobo!\". Mamá Triángulo, el pequeño Jojo Cuadrado y Dudu Diamante corrieron todos montaña abajo y en poco tiempo estaban todos a salvo al pie de la montaña."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a lot of triangles in this picture! Can you count them all, or is it higher than you can count?"
+msgstr "¡Hay muchos triángulos en esta imagen! ¿Puedes contarlos todos o son demasiados?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why were they able to go down the mountain so much more quickly than when they went up?"
+msgstr "¿Por qué pudieron bajar la montaña más rápido de lo que tardaron en subirla?"
 
 #. type=data_list
 msgctxt "data_list"
