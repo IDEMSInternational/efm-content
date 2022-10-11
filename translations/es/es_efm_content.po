@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-11 16:37\n"
+"PO-Revision-Date: 2022-10-11 18:02\n"
 
 #. type=template
 msgctxt "template"
@@ -11657,6 +11657,78 @@ msgstr "¿Alguna vez has visto un milpiés? ¡No se mueven para nada rápido! ¿
 msgctxt "data_list"
 msgid "Clouds often look like the clouds in this picture; they have flat bottoms and fluffy tops. Do you have any ideas on why that would be?"
 msgstr "Las nubes a veces se ven como las nubes en esta imagen; tienen la parte inferior plana y la parte superior esponjosa. ¿Tienes alguna idea de por qué?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After Millipede left, Snake came to Maguru's house. He said to Maguru, \"Please give me some legs.\""
+msgstr "Después de que Milpiés se fue, Serpiente vino a la casa de Maguru. Él le dijo a Maguru: \"Por favor dame algunas patas\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Uh oh! There are no more legs and Snake needs some. How would you solve this problem?"
+msgstr "¡Ay, no! Ya no hay más patas y Serpiente necesita algunas. ¿Cómo resolverías este problema?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles are shapes with four straight sides that look like this page. How many rectangles can you find on this page?"
+msgstr "Los rectángulos son figuras con cuatro lados rectos como esta página. ¿Cuántos rectángulos puedes encontrar en esta página?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Squares are rectangles with four equal sides. Can you find the rectangle on this page that is a square?"
+msgstr "Los cuadrados son rectángulos con cuatro lados iguales. ¿Puedes encontrar el rectángulo de esta página que es un cuadrado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maguru said, \"I have given out all the legs. Where were you?\"\n"
+"\n"
+"Snake answered, \"I overslept.\""
+msgstr ""
+"Maguru dijo: \"Ya repartí todas las patas. ¿Dónde estabas?\".\n"
+"\n"
+"Serpiente respondió: \"Me quedé dormido\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their faces. How do they feel?"
+msgstr "Mira sus caras. ¿Cómo se sienten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever overslept? Was it fun to sleep in, or did you feel guilty about sleeping so long?"
+msgstr "¿Alguna vez te has quedado dormido/a? ¿Fue divertido dormir más tiempo o te sentiste culpable?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count all the stripes on this page? Can you count that high?"
+msgstr "¿Puedes contar todas las rayas de esta página? ¿Puedes contar tan alto?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maguru looked to see if there were legs remaining.\n"
+"\n"
+"He did not find any."
+msgstr ""
+"Maguru revisó para ver si le quedaban patas.\n"
+"\n"
+"No encontró ninguna."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the rectangles on this page. Are any of  them squares?"
+msgstr "Describe algunos de los rectángulos de esta página. ¿Son cuadrados algunos de ellos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you can only see part of something that has a stripe, it can look like a rectangle. Describe a few of those on this page."
+msgstr "Cuando solo puedes ver una parte de algo que tiene una raya, puede parecer un rectángulo. Describe algunos de esos casos en esta página."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are no legs where Maguru looked. When you have none of something, you have 0 of them. Zero is a very useful number for describing not having anything. Name some silly things that you have zero of!"
+msgstr "No hay patas donde buscó Maguru. Cuando no tienes algo, tienes 0 de eso. El cero es un número muy útil para describir el no tener nada. ¡Nombra algunas cosas de las que tienes cero!"
 
 #. type=data_list
 msgctxt "data_list"
