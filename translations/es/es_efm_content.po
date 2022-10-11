@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-11 15:36\n"
+"PO-Revision-Date: 2022-10-11 16:37\n"
 
 #. type=template
 msgctxt "template"
@@ -11606,6 +11606,57 @@ msgstr "Cuando estás en una fila y no hay nadie detrás de ti, tú eres el últ
 msgctxt "data_list"
 msgid "Why was it important to Maguru that Millipede is last? Do you think Maguru is tired of giving legs to animals?"
 msgstr "¿Por qué era importante para Maguru que Milpiés fuera el último? ¿Crees que Maguru está cansado de dar patas a los animales?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next?"
+msgstr "¿Qué crees que sucederá a continuación?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maguru thought, \"He is the last one. What will I do with the rest of the legs?\"\n"
+"\n"
+"Maguru gave Millipede all the remaining legs."
+msgstr ""
+"Maguru pensó, \"Él es el último. ¿Qué haré con el resto de las patas?\"\n"
+"\n"
+"Maguru le dio a Milpiés todas las patas que quedaban."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Millipede looks very happy to have so many legs. Would you like to have that many legs?"
+msgstr "Milpiés se ve muy feliz de tener tantas patas. ¿Te gustaría tener tantas piernas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you had so many legs, think of all the shoes you would need. Tying your shoes in the morning would take forever!"
+msgstr "Si tuvieras muchas piernas, piensa en todos los zapatos que necesitarías. ¡Amarrarte los cordones por la mañana tomaría mucho tiempo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count high enough to count all of Millipede's feet? Millipede's name means \"thousand feet.\" The record for a millipede is 750 feet, so the name is not exactly correct."
+msgstr "¿Puedes contar todas las patas de Milpiés? El nombre de Milpiés significa \"mil pies\". El máximo número de patas para un milpiés es 750, así que el nombre no es exactamente correcto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Millipede was very happy. He said, \"I will move faster than others.\""
+msgstr "Milpiés estaba muy contento. Él dijo: \"Me moveré más rápido que otros\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think an animal moves faster because it has more feet? Can you think of four-legged animals that move more slowly than people?"
+msgstr "¿Crees que un animal se mueva más rápido porque tiene más patas? ¿Se te ocurren animales de cuatro patas que se muevan más lentamente que las personas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a millipede? They do not move very quickly at all! Why do you suppose they are so slow?"
+msgstr "¿Alguna vez has visto un milpiés? ¡No se mueven para nada rápido! ¿Por qué crees que son lentos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Clouds often look like the clouds in this picture; they have flat bottoms and fluffy tops. Do you have any ideas on why that would be?"
+msgstr "Las nubes a veces se ven como las nubes en esta imagen; tienen la parte inferior plana y la parte superior esponjosa. ¿Tienes alguna idea de por qué?"
 
 #. type=data_list
 msgctxt "data_list"
