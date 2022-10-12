@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-11 19:09\n"
+"PO-Revision-Date: 2022-10-12 08:47\n"
 
 #. type=template
 msgctxt "template"
@@ -11785,6 +11785,11 @@ msgstr "Esta historia tiene muchos rectángulos. Un rectángulo es una figura co
 msgctxt "data_list"
 msgid "There are rectangles all around you. Point to some rectangles where you are."
 msgstr "Hay rectángulos en todo lo que te rodea. Señala algunos rectángulos en el lugar donde tú estás."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mom was a sangoma, but she also worked to make other people's homes neat and clean. It was hard for my mom to earn enough for both of us. She started selling homemade beer to bring in more money."
+msgstr "Mamá era una curandera, pero también trabajaba limpiando y ordenando las casas de otras personas. Era difícil para mi madre ganar lo suficiente para las dos. Empezó a vender cerveza casera para conseguir más dinero."
 
 #. type=data_list
 msgctxt "data_list"
