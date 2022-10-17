@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-12 08:47\n"
+"PO-Revision-Date: 2022-10-17 18:43\n"
 
 #. type=template
 msgctxt "template"
@@ -11790,6 +11790,21 @@ msgstr "Hay rectángulos en todo lo que te rodea. Señala algunos rectángulos e
 msgctxt "data_list"
 msgid "Mom was a sangoma, but she also worked to make other people's homes neat and clean. It was hard for my mom to earn enough for both of us. She started selling homemade beer to bring in more money."
 msgstr "Mamá era una curandera, pero también trabajaba limpiando y ordenando las casas de otras personas. Era difícil para mi madre ganar lo suficiente para las dos. Empezó a vender cerveza casera para conseguir más dinero."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sangoma is an herbalist or a healer. Do you like going to the doctor?"
+msgstr "Una sangoma es una yerbera o curandera. ¿Te gusta ir al doctor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the rectangles that are beautiful shades of blue in this picture. How many do you count? Did you count them by 1's, 2's, or in some other way?"
+msgstr "Mira los rectángulos de hermosos tonos de azul en esta imagen. ¿Cuántos puedes contar? ¿Los contaste de 1 en 1, de 2 en 2 o de alguna otra manera?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to some rectangles that are not blue, if you can find any."
+msgstr "Señala algunos rectángulos que no son azules si puedes encontrar alguno."
 
 #. type=data_list
 msgctxt "data_list"
