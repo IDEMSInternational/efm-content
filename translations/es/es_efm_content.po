@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-18 18:36\n"
+"PO-Revision-Date: 2022-10-19 17:54\n"
 
 #. type=template
 msgctxt "template"
@@ -11860,6 +11860,11 @@ msgstr "¿Te sorprende leer que se sentía valiente y fuerte mientras cantaba? �
 msgctxt "data_list"
 msgid "These windows are not rectangles! One of the windows is a circle. We can't see the whole scene, but it looks like the other windows have arched tops. An arch is part of an oval."
 msgstr "¡Estas ventanas no son rectángulos! Una de las ventanas es un círculo. No podemos ver toda la escena, pero parece que las otras ventanas tienen la parte superior en forma de arco. Un arco es una parte de un óvalo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the particularly interesting interplay of shapes on the blue dress. Shapes can be combined in such interesting ways!"
+msgstr "Fíjate en el conjunto de figuras especialmente interesante en el vestido azul. ¡Las figuras se pueden combinar de formas tan interesantes!"
 
 #. type=data_list
 msgctxt "data_list"
