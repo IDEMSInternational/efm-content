@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-20 09:12\n"
+"PO-Revision-Date: 2022-10-20 10:43\n"
 
 #. type=template
 msgctxt "template"
@@ -12107,6 +12107,21 @@ msgstr "Cuando solo puedes ver una parte de la Luna como en esta imagen, se llam
 msgctxt "data_list"
 msgid "When you look at a crescent moon in the sky, you are only seeing part of the moon. What happened to the part of the moon you don't see? Has that part disappeared, or is something going on that makes that part hard to see?"
 msgstr "Cuando miras una luna creciente en el cielo, solo estás viendo una parte de la luna. ¿Qué pasó con la parte de la luna que no ves? ¿Ha desaparecido esa parte o está sucediendo algo que hace que esa parte sea difícil de ver?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's fun to start tracking the relationship of the sun and the moon. For example, where is the sun relative to the moon when the moon is full?"
+msgstr "Es divertido comenzar a rastrear la relación del sol y la luna. Por ejemplo, ¿dónde está el sol en relación con la luna cuando la luna está llena?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The next day he started building a huge compound in which to entertain his friend."
+msgstr "Al día siguiente, Sol comenzó a construir un enorme recinto para recibir a su amigo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun is building a very large wall. Will it be big enough to hold Water and all Water's friends?"
+msgstr "Sol está construyendo una pared muy grande. ¿Será lo suficientemente grande para albergar a Agua y sus amigos?"
 
 #. type=data_list
 msgctxt "data_list"
