@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-20 10:43\n"
+"PO-Revision-Date: 2022-10-20 18:54\n"
 
 #. type=template
 msgctxt "template"
@@ -12122,6 +12122,47 @@ msgstr "Al día siguiente, Sol comenzó a construir un enorme recinto para recib
 msgctxt "data_list"
 msgid "Sun is building a very large wall. Will it be big enough to hold Water and all Water's friends?"
 msgstr "Sol está construyendo una pared muy grande. ¿Será lo suficientemente grande para albergar a Agua y sus amigos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun's wall is straight up and down, but follows a curved path. Have you ever seen a wall near you that follows a curved path?"
+msgstr "La pared que está construyendo Sol es recta hacia arriba y hacia abajo, pero sigue un camino curvo. ¿Alguna vez has visto una pared cerca de ti que siga un camino curvo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wall is made of bricks that are shaped like boxes. How many sides does a brick have? Name the shapes you see on the sides of a brick."
+msgstr "La pared está hecha de ladrillos que tienen forma de cajas. ¿Cuántos lados tiene un ladrillo? Nombra las figuras que ves en los lados de un ladrillo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As soon as the compound was completed, he asked Water to come and visit them."
+msgstr "Tan pronto como Sol finalizó la construcción del recinto, le pidió a Agua que viniera a visitarlos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The pictures of the wall are a little confusing. On this page the wall looks a little taller than the house. On other pages, the wall looks about half as high as the house. Which do you think it is?"
+msgstr "Las fotos de la pared son un poco confusas. En esta página, la pared parece un poco más alta que la casa. En otras páginas, la pared parece que es la mitad de alta que la casa. ¿Cuál crees que es la correcta?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think Sun made some of the wall straight and some of it curved?"
+msgstr "¿Por qué crees que Sol hizo una parte de la pared recta y otra parte curva?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's time for Water to visit. What do you think will happen next?"
+msgstr "Es hora de que Agua haga la visita. ¿Qué crees que pasará después?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When Water arrived, he asked Sun whether it would be safe for him to enter.\n"
+"\n"
+"\"Yes, come in, my friend,\" Sun answered."
+msgstr ""
+"Cuando llegó Agua, le preguntó a Sol si sería seguro para él entrar. \n"
+"\n"
+"\"Sí, entra amigo\", respondió Sol."
 
 #. type=data_list
 msgctxt "data_list"
