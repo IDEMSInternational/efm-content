@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-19 19:54\n"
+"PO-Revision-Date: 2022-10-20 09:12\n"
 
 #. type=template
 msgctxt "template"
@@ -12087,6 +12087,26 @@ msgstr "La historia conduce a que Agua vaya a visitar la casa de Sol. En la pág
 msgctxt "data_list"
 msgid "How do you think this story will end after Water comes to visit?"
 msgstr "¿Cómo crees que terminará esta historia después de que Agua venga de visita?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who do you think is in Water's family? Why does Water describe his family as being big?"
+msgstr "¿Quién crees que está en la familia de Agua? ¿Por qué Agua describe a su familia como grande?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun returned home to his wife, Moon, who greeted him with a broad smile. Sun told Moon what he had promised Water."
+msgstr "Sol regresó a casa con su esposa, Luna, quien lo recibió con una gran sonrisa. Sol le dijo a Luna lo que le había prometido a Agua."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you can only see part of Moon like this, it is called a crescent moon. The outline of a crescent moon is made of two arcs."
+msgstr "Cuando solo puedes ver una parte de la Luna como en esta imagen, se llama luna creciente. El contorno de una luna creciente está formado por dos arcos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you look at a crescent moon in the sky, you are only seeing part of the moon. What happened to the part of the moon you don't see? Has that part disappeared, or is something going on that makes that part hard to see?"
+msgstr "Cuando miras una luna creciente en el cielo, solo estás viendo una parte de la luna. ¿Qué pasó con la parte de la luna que no ves? ¿Ha desaparecido esa parte o está sucediendo algo que hace que esa parte sea difícil de ver?"
 
 #. type=data_list
 msgctxt "data_list"
