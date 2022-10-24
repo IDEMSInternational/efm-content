@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-23 17:52\n"
+"PO-Revision-Date: 2022-10-24 08:22\n"
 
 #. type=template
 msgctxt "template"
@@ -3221,6 +3221,17 @@ msgstr "Completa dibujos divertidos conectando puntos numerados. Una forma es to
 msgctxt "template"
 msgid "Shape Sudoku"
 msgstr "Sudoku de Formas"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Before giving you a collection of finished Sudokus, there is one thing to note. You can take any one of these and create 23 more of them simply by interchanging token types - for example, you can take a finished puzzle and create a “new” one by swapping the circles and triangles and swapping the diamonds and squares. \n"
+"\n"
+"The examples below are distinctly different from each other and cannot be made from each other by doing interchanges. You can create more examples from these by doing such interchanges if you like."
+msgstr ""
+"Antes de proporcionarle una colección de Sudokus terminados, hay algo que debe tener en cuenta. Puede tomar cualquiera de estos y crear 23 más, simplemente intercambiando tipos de fichas; por ejemplo, puede tomar un rompecabezas terminado y crear uno \"nuevo\" intercambiando círculos y triángulos e intercambiando diamantes y cuadrados. \n"
+"\n"
+"Los ejemplos siguientes son claramente diferentes entre sí y no se pueden hacer entre sí mediante intercambios. Puede crear más ejemplos a partir de estos, intercambiando las fichas si lo desea."
 
 #. type=template
 msgctxt "template"
