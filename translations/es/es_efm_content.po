@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-25 13:14\n"
+"PO-Revision-Date: 2022-10-25 14:14\n"
 
 #. type=template
 msgctxt "template"
@@ -4461,8 +4461,43 @@ msgstr "Suma Cerrada"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Create these puzzles by making a diagram of circles and maybe some other shapes. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers.\n"
+"\n"
+"As with Shape Sums puzzles in Chapter 3, start with simple puzzles with just one or two numbers missing and slowly progress to puzzles with more numbers missing, more enclosed regions next to each other, and more use of values in non-circular regions."
+msgstr ""
+"Cree estos juegos haciendo un diagrama de círculos y tal vez algunas otras figuras. A continuación, llene todas las figuras con números y llene las regiones encerradas con la suma de las cifras que las rodean. Finalmente, quite algunos de los números.\n"
+"\n"
+"Al igual que con los juegos de Sumas de figuras en el Capítulo 3, comience con juegos simples con solo uno o dos números faltantes y progrese lentamente a juegos con más números faltantes, con más regiones cerradas una al lado de la otra y más uso de valores en figuras no circulares."
+
+#. type=template
+msgctxt "template"
 msgid "Island Hopping – Compensation"
 msgstr "Saltando Islas – Compensación"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"Usar la compensación para la suma es una forma de hacer los problemas de suma de una manera más fácil. La idea es quitar una cantidad de uno de los números que está sumando y dársela al otro número; el resultado sigue siendo el mismo, pero es más fácil trabajar con uno de los números. \n"
+"\n"
+"Por ejemplo, cuando suma 7 + 8, si quita 2 del 7 y le da el 2 al 8, el problema se convierte en 5 + 10. Alternativamente, si quita 3 del 8 y le da 3 al 7, el problema se convierte en 10 + 5. Siempre que pueda convertir uno de los números en múltiplo de 10, tendrá un problema mucho más simple.\n"
+"\n"
+"Estos juegos proporcionan práctica en crear nuevos problemas usando la compensación. El desafío es encontrar un camino que conecte todas las islas con la misma respuesta. Solo es válido conectar dos islas si los números del problema difieren por uno. Solo algunas de las islas estarán en el camino.\n"
+"\n"
+"Haga estos juegos comenzando con unas diez islas con algunas conexiones. Identifique un camino de un borde de las islas al otro. A lo largo de ese camino, coloque problemas que se diferencian entre sí por uno; tal vez comience con un problema que implique sumar 10 y luego haga variaciones. En las islas cercanas al camino, ponga problemas con pequeños cambios que tengan diferentes respuestas."
+
+#. type=template
+msgctxt "template"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "Realmente hay poco por hacer para variar la dificultad de este juego. La introducción de caminos falsos probablemente generará confusión en lugar de desafíos, por eso es generalmente una mala idea."
 
 #. type=template
 msgctxt "template"
@@ -4471,13 +4506,68 @@ msgstr "DiffTriangles y SumaTriángulos"
 
 #. type=template
 msgctxt "template"
+msgid "DiffTriangles"
+msgstr "Diftriángulos"
+
+#. type=template
+msgctxt "template"
 msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
 msgstr "Rompecabezas de DiffTriangles tienen triángulos y cuadrados que comparten lados. Un triángulo siempre tiene exactamente dos cuadrados en sus lados y el lado restante tiene un triángulo o está vacío. El número de un triángulo es la diferencia de los dos cuadrados contiguos. El desafío es proporcionar los números que faltan."
 
 #. type=template
 msgctxt "template"
+msgid ""
+"**Constructing Puzzles** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, put in numbers starting at one end, and then work your way to the far end. When you are done, remove some of the numbers. Making puzzles with loops or more complicated interactions is trickier; however, the effort pays off with some challenging puzzles!\n"
+"\n"
+"When your child gets very comfortable with these, they may want to take a turn creating some new puzzles of their own. They should have fun and learn a lot by figuring out how the numbers fit together.\n"
+"\n"
+"**Strategies for Solving** The places to do first are any triangles between two filled in squares. Another easy case is a square next to a filled triangle that has a smaller filled square next to it - in this case, because we are not working with negative numbers, there is only one choice for filling in the empty square. The most common case is a square that has two possible values looking in one direction, and two other possibilities looking in the other direction - there is usually only one number that overlaps in those possibilities."
+msgstr ""
+"**Construir rompecabezas** Haciendo rompecabezas sin bucles es fácil. Dibuje una secuencia alterna de cuadrados y triángulos, coloque números comenzando en un lado y luego avance hasta el otro lado. Cuando haya terminado, elimine algunos de los números. Hacer rompecabezas con bucles o interacciones más complicadas es más difícil; sin embargo, ¡el esfuerzo vale la pena al dar con algunos rompecabezas desafiantes!\n"
+"\n"
+"Cuando su niño/niña se sienta cómodo con estos, es posible que desee crear sus propios rompecabezas. Deben divertirse y aprender mucho averiguando cómo encajan los números.\n"
+"\n"
+"**Estrategias para resolver** Los lugares para resolver primero son los triángulos entre dos cuadrados resueltos. Otro caso fácil es un cuadrado al lado de un triángulo resuelto que tiene un cuadrado resuelto más pequeño al lado; en este caso, debido a que no estamos trabajando con números negativos, solo hay una opción para completar el cuadrado vacío. El caso más común es un cuadrado que tiene dos valores posibles mirando en una dirección y otras dos posibilidades mirando en la otra dirección; por lo general, usualmente solo hay un número que se superpone en esas posibilidades."
+
+#. type=template
+msgctxt "template"
+msgid "Here are some examples with lots of interconnections."
+msgstr "Aquí hay algunos ejemplos con muchas interconexiones."
+
+#. type=template
+msgctxt "template"
+msgid "SumTriangles"
+msgstr "SumTriángulos"
+
+#. type=template
+msgctxt "template"
+msgid "SumTriangles puzzles are just like DiffTriangles only they use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors. Make these puzzles using methods similar to DiffTriangles. SumTriangles puzzles are typically simpler to solve than DiffTriangles."
+msgstr "Los rompecabezas SumTriángulos son como los DifTriángulos, solo que usan la suma en lugar de la resta. El valor de un triángulo es la suma de sus dos o tres vecinos cuadrados. Haga estos rompecabezas usando métodos similares a los DifTriángulos. Los acertijos de SumTriángulos suelen ser más sencillos de resolver que los DifTriángulos."
+
+#. type=template
+msgctxt "template"
 msgid "Island Hopping – Skip Counting"
 msgstr "Saltando Islas – Conteo Salteado"
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles have islands (circles) connected by bridges (lines). In this version of Island Hopping, the connections are made by skip counting. Some of the islands have numbers written on them and some will start off blank. Above the puzzle is the starting number, ending number, and the skip amount. The challenge is to fill in the missing numbers and find the path. You can also place the numbers and blanks on pieces of paper on the floor to make a stepping puzzle."
+msgstr "Estos juegos tienen islas (círculos) conectadas por puentes (líneas). En esta versión de Saltando islas, las conexiones se realizan al contar saltándose números. Algunas de las islas tienen números escritos y algunas comenzarán en blanco. Encima del juego está el número inicial, el número final y la cantidad que se salta. El desafío es completar los números que faltan y encontrar el camino. También puede colocar los números y los espacios en blanco en pedazos de papel en el piso para hacer un juego."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount. \n"
+"\n"
+"Creating these puzzles is the same as creating the Island Hopping - Counting puzzles from early in Chapter 2. Make the islands first, fill in the skip counting numbers, connect those islands in the correct order, and then add some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out.\n"
+"\n"
+"You can revisit the puzzle construction strategies described in the Bonus Material for Chapter 2 for Island Hopping - Counting. Also, if you still have any of those puzzles, it is very easy to convert one of those puzzles to one of these. Take the following puzzle from Chapter 2. It involves counting from 0 to 6. The red numbers are the ones that would normally be left out when the puzzle is given to your child. To convert it to a puzzle that starts at 3 and skip counts by 2, simply multiply all the numbers by 2 and then add 3 to them (leaving out the red ones, of course)."
+msgstr ""
+"Al igual que con la actividad de Conteo salteado, cree juegos para practicar el conteo hacia adelante o hacia atrás comenzando con una variedad de números, no solo números que son un múltiplo de la cantidad de saltos. \n"
+"\n"
+"Crear estos juegos es lo mismo que crear los juegos de Saltando islas: contando de principios del Capítulo 2. Primero haga las islas, agregue los números de conteo salteado, conecte esas islas en el orden correcto y luego agregue algunas conexiones adicionales para ayudar a hacer un juego a partir de él. En la versión que le dé a su niño/niña, elimine algunos números dejando suficientes números para que aún se pueda descifrar.\n"
+"\n"
+"Puede volver a consultar las estrategias de construcción del juego descritas en el Material adicional del Capítulo 2 para Saltando islas: contando. Además, si todavía tiene alguno de esos juegos, es muy fácil convertir uno de esos en uno de estos. Tome el siguiente juego del Capítulo 2. Se trata de contar del 0 al 6. Los números rojos son los que normalmente se dejarían fuera cuando se le da el juego a su niño/niña. Para convertirlo en un juego que comience en 3 y cuente de 2 en 2, simplemente multiplique todos los números por 2 y luego sume 3, como se muestra en la siguiente tabla. Después de eso, reemplace los números originales por los nuevos (omitiendo los rojos, por supuesto)."
 
 #. type=template
 msgctxt "template"
