@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-25 01:54\n"
+"PO-Revision-Date: 2022-10-25 10:46\n"
 
 #. type=template
 msgctxt "template"
@@ -4057,6 +4057,11 @@ msgstr ""
 "En este juego, use dos dados o dos juegos de tarjetas numéricas que vayan del 1 al 6. Cada jugador tiene 6 fichas; las fichas de animales son perfectas para este juego si las tiene. Cada jugador también tiene una hoja de papel con casillas numeradas del 0 al 5. Cada jugador decide dónde colocar sus 6 fichas; está bien poner más de una ficha en una casilla.\n"
 "\n"
 "Durante el turno de un jugador, se crean dos números tirando los dados o eligiendo dos cartas, y se usa la resta de esos números. El jugador puede liberar una de sus fichas si tiene una en la casilla con el número correspondiente. El primer jugador en rescatar todas sus fichas gana."
+
+#. type=template
+msgctxt "template"
+msgid "Strategy For Placing Tokens"
+msgstr "Estrategia Para Colocar las Fichas"
 
 #. type=template
 msgctxt "template"
