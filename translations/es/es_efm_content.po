@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-25 00:57\n"
+"PO-Revision-Date: 2022-10-25 01:54\n"
 
 #. type=template
 msgctxt "template"
@@ -22,6 +22,11 @@ msgstr "Política de privacidad"
 msgctxt "template"
 msgid "Template list"
 msgstr "Lista de plantillas"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "Leer Material Adicional"
 
 #. type=template
 msgctxt "template"
@@ -3199,6 +3204,11 @@ msgstr "Como suele ser el caso con estos rompecabezas, el adulto puede hacerlos 
 
 #. type=template
 msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "Actividades - Material Adicional"
+
+#. type=template
+msgctxt "template"
 msgid "One of These is Not Like the Others"
 msgstr "Uno de estos no es como los demás"
 
@@ -3334,6 +3344,27 @@ msgstr "Hacer Patrones Geométricos con Ángulos"
 
 #. type=template
 msgctxt "template"
+msgid "Make abstract drawings by connecting points with the same number along opposite sides of an angle. The numbers may not be needed - if so, feel free to omit them - this will make the finished designs a little less cluttered. You can add variety to these by having your child draw with colors. There are lots of amazing examples of this to be found under the category of String Art on the Internet. This circle drawing was made by moving ahead by one dot on one side of the line segment and ahead by two dots on the other side."
+msgstr "Haga dibujos abstractos conectando puntos con el mismo número a lo largo de lados opuestos de un ángulo. Es posible que los números no sean necesarios; si es así, puede omitirlos, esto hará que los diseños terminados se vean menos abarrotados. Puede agregar variedad a estos dibujos haciendo que su niño/niña dibuje con colores. Hay muchos ejemplos asombrosos de lo que se puede crear, se pueden encontrar en la categoría de String Art en Internet. Este dibujo circular fue hecho avanzando un punto en un lado del círculo en relación con la línea base y avanzando dos puntos en el otro lado."
+
+#. type=template
+msgctxt "template"
+msgid "Making Patterns With Circles"
+msgstr "Hacer Patrones Con Círculos"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This is a special case of the last idea. Put some dots, say 8 or 9, evenly spaced on a circle. Your child can play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot. To make it easier to do different experiments, use push pins in a piece of cardboard or wood and then use string between the push pins.\n"
+"\n"
+"If your child is intrigued by the patterns that are produced, you can look at questions such as: For a circle with 8 dots, why is only one string needed to skip by 1, 3, 5, or 7, but 2 or 4 strings are needed for skipping 2, 4, or 6. Similarly, for a circle with 9 dots, why is only one string needed to skip by 1, 2, 4, 5, 7, or 8, but 3 strings are needed for 3 and 6? It’s too young to understand the idea that 2, 4, and 6 have a factor in common with 8, and 3 and 6 have a factor in common in 9 - however, seeing the patterns may plant the seeds for later ideas."
+msgstr ""
+"Este es un caso especial de la última idea. Ponga algunos puntos, digamos 8 o 9, espaciados uniformemente en un círculo. Su niño/niña puede jugar creando diferentes patrones conectando los puntos en orden, o conectando cada segundo punto o cada tercer punto. Para facilitar la creación de diferentes experimentos, use chinchetas, tachuelas, o alfileres en un trozo de cartón o madera y luego use una cuerda entre los alfileres para conectarlos.\n"
+"\n"
+"Si su niño/niña está intrigado por los patrones que se producen, puede evaluar preguntas como: Para un círculo con 8 puntos, ¿por qué solo se necesita una cuerda para saltar 1, 3, 5 o 7, pero 2 o 4 cuerdas son necesarios para saltar también 2, 4 o 6 siguiendo un patrón?. De manera similar, para un círculo con 9 puntos, ¿por qué solo se necesita una cuerda para saltar 0, 2, 4, 6, 8, 1, 3, 5, 7 formando un patrón, pero se necesitan 3 cuerdas para 3 y 6? Su niño/niña es demasiado joven para entender la idea de que 2, 4 y 6 tienen un factor en común con 8, y que 3 y 6 tienen un factor en común en 9; sin embargo, ver los patrones puede plantar las semillas para ideas posteriores."
+
+#. type=template
+msgctxt "template"
 msgid "Shape Sudoku"
 msgstr "Sudoku de Formas"
 
@@ -3464,13 +3495,171 @@ msgstr "De acuerdo, está entendiendo la idea. ¡Hay muchos de estos! Aquí se m
 
 #. type=template
 msgctxt "template"
+msgid "Greater Than Sudoku"
+msgstr "Más Grande que Sudoku"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship. \n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
+msgstr ""
+"Los rompecabezas Más grande que Sudoku comienzan con las mismas reglas que el Sudoku normal: cada número aparece exactamente una vez en cada fila, columna y subregión. Además, si hay un símbolo menor que o mayor que entre dos celdas, los números en las celdas deben obedecer esa relación.\n"
+"\n"
+"Haga estos rompecabezas utilizando un Sudoku terminado; todos los rompecabezas de Sudoku numéricos de ejemplo que se dieron al principio de estos Recursos serán útiles para crear estos rompecabezas. Ponga signos de mayor y menor en una cuadrícula en blanco de la misma geometría. Si omite todos los números y agrega todas las desigualdades (menor que o mayor que), generalmente es bastante fácil resolver el rompecabezas. Una estrategia útil para su niño/niña es buscar primero dónde deben ir los números más pequeños y más grandes."
+
+#. type=template
+msgctxt "template"
+msgid "When your child is first learning how to do these puzzles, put in all the inequalities and some of the numbers. Gradually, start omitting more of the numbers and some of the inequalities."
+msgstr "Cuando su niño/niña esté aprendiendo a resolver estos rompecabezas, ingrese todas las desigualdades y algunos de los números. Poco a poco, comience a omitir más números y algunas desigualdades."
+
+#. type=template
+msgctxt "template"
 msgid "Make Me a Liar"
 msgstr "Hazme un Mentiroso"
 
 #. type=template
 msgctxt "template"
+msgid "Someone makes an absolute statement and the other players attempt to show that the person is lying. This is done by finding an example that breaks the statement."
+msgstr "Alguien hace una declaración absoluta y los otros jugadores intentan demostrar que la persona está mintiendo. Esto se hace encontrando un ejemplo que rompa la afirmación."
+
+#. type=template
+msgctxt "template"
+msgid "Simple Statements That Are Almost Always True"
+msgstr "Declaraciones Simples que Casi Siempre son Ciertas"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"One type of statement to use is saying that something is always true. Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* All trucks have four wheels. - Large trucks often have 6, 10 or more wheels.\n"
+"* All rectangles are squares. - Rectangles need not have all their sides the same length.\n"
+"* All birds can fly. - Ostriches, emus, and kiwis are birds that cannot fly.\n"
+"* The moon is only visible at night. - The moon is often visible during the day.\n"
+"* All shapes have straight sides. - A circle does not have a straight side.\n"
+"* All playgrounds have swing sets. - Some playgrounds don’t have swing sets.\n"
+"* All rooms have chairs. Bedrooms and bathrooms often don’t have a chair."
+msgstr ""
+"Un tipo de afirmación que se puede utilizar es decir que algo siempre es cierto. Aquí hay algunos ejemplos con discusiones rápidas de por qué son mentiras.\n"
+"\n"
+"*Todos los camiones tienen cuatro ruedas. - Los camiones grandes suelen tener 6, 10 o más ruedas.\n"
+"*Todos los rectángulos son cuadrados. - No es necesario que los rectángulos tengan todos sus lados de la misma longitud.\n"
+"*Todas las aves pueden volar. - Avestruces, emúes y kiwis son aves que no pueden volar.\n"
+"*La luna solo es visible de noche. - La luna suele ser visible durante el día.\n"
+"*Todas las formas tienen lados rectos. - Un círculo no tiene un lado recto.\n"
+"*Todos los patios de recreo tienen columpios. - Algunos parques infantiles no tienen columpios.\n"
+"*Todas las habitaciones tienen sillas. Los dormitorios y los baños a menudo no tienen silla."
+
+#. type=template
+msgctxt "template"
+msgid "If-Then Statements That Are Almost Always True"
+msgstr "Si - Entonces Declaraciones que son Casi Siempre Verdaderas"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Another type of statement is of the form “if __, then ___ .” Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* If today is Monday, then it is a school day. - Some Mondays are holidays and some Mondays occur during the summer.\n"
+"* If I don’t eat for three hours, then I am hungry. - Most people can sleep for more than three hours and not wake up hungry.\n"
+"* If a person is taller than someone, then they are older. - Children often grow up to be taller than their parents.\n"
+"* If the sun is shining, it is a warm day. - Winter days can be sunny and cold.\n"
+"* If someone is late, something bad must have happened to them. - Sometimes people are late through carelessness or reasons beyond their control (traffic, bad weather, car trouble)."
+msgstr ""
+"Otro tipo de declaración es de la forma \"si __, entonces ___\". Aquí hay algunos ejemplos con discusiones rápidas de por qué son mentiras.\n"
+"\n"
+"*Si hoy es lunes, entonces es un día escolar. - Algunos lunes son festivos y otros durante el verano.\n"
+"*Si no como durante tres horas, entonces tengo hambre. - La mayoría de las personas pueden dormir más de tres horas y no despertarse con hambre.\n"
+"*Si una persona es más alta que otra, entonces es mayor. - Los niños suelen llegar a ser más altos que sus padres.\n"
+"*Si brilla el sol, es un día cálido. - Los días de invierno pueden ser soleados y fríos.\n"
+"*Si alguien llega tarde, debe haberle pasado algo malo. - A veces las personas llegan tarde por descuido o por motivos que escapan a su control (tráfico, mal tiempo, problemas con el coche)."
+
+#. type=template
+msgctxt "template"
 msgid "15-Sliding Puzzle"
 msgstr "15-Rompecabezas Deslizantes"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The classic version of this puzzle starts with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid. The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"A 4 x 4 grid is too hard for a beginner, so start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr ""
+"La versión clásica de este rompecabezas comienza con una cuadrícula vacía de cuadrados de 4 x 4 formada por 5 líneas horizontales y verticales. Use 15 pedazos de papel del tamaño de los cuadrados de la cuadrícula y numere los pedazos de papel del 1 al 15. El rompecabezas comienza con alguien colocando las hojas de papel sobre la cuadrícula. El objetivo del rompecabezas es poner los trozos de papel en orden con solo la esquina inferior derecha de la cuadrícula vacía. Para lograr esto, se puede mover un pedazo de papel si está adyacente al cuadrado vacío, en cuyo caso se puede deslizar en ese espacio. Dependiendo de cómo la persona configure el rompecabezas, el rompecabezas puede resolverse o no.\n"
+"\n"
+"Una cuadrícula de 4 x 4 es demasiado difícil para un principiante, así que comience con algo más pequeño. La cuadrícula puede ser tan pequeña como 2 x 2 o tan grande como desee el niño. El número de pedazos de papel numerados siempre será uno menos que el tamaño de la cuadrícula. Por ejemplo, en una cuadrícula de 2 x 3, use los números del 1 al 5."
+
+#. type=template
+msgctxt "template"
+msgid "To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr "Para crear estos rompecabezas, tiene dos opciones. La primera es colocar los cuadrados al azar, en cuyo caso tiene una probabilidad del 50/50 de que el rompecabezas se pueda resolver. Alternativamente, puede comenzar colocando los trozos de papel en la posición final y luego realizar una serie de movimientos legales para mover el papel. Cuando haya terminado, está garantizado que el rompecabezas se puede resolver."
+
+#. type=template
+msgctxt "template"
+msgid "Solving the Puzzle"
+msgstr "Resolviendo el Rompecabezas"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The main reason for a child to play with this puzzle is to have fun moving pieces around until they accidentally solve it and also to practice getting numbers in order. Despite that simple goal, you may start to wonder about deeper ideas in the puzzle.\n"
+"\n"
+"A frequent theme of problem solving is to learn from simpler problems or examples. So, let’s do that.\n"
+"\n"
+"The smallest example is 2 by 2. For this size, it is clear that the rows will end up being either 1 2; 3 0 or 1 3; 2 0.\n"
+"\n"
+"The next smallest is 2 by 3. Start this by getting the 1 and 4 in the left column. Once this is done, your puzzle will look like 1 _ _; 4 _ _ . Finish off the last four squares as you would the 2 by 2 case.\n"
+"\n"
+"The 2 by 4 puzzle is done similarly. Start by putting 1 and 5 in the left column. Next, put the 2 and 6 in the second left column without disturbing the 1 and 4. Finally finish off the last 2 by 2.\n"
+"\n"
+"At this point, the pattern for attacking puzzles with 2 rows is clear. What to do with more than 2 rows? Suppose you have 3 rows. Start the solution by getting the top row correctly laid out. After that, leave the top row undisturbed and use your ability to solve a puzzle with 2 rows.\n"
+"\n"
+"Similarly, if there are 4 rows, do the top row first, the second row next (without disturbing the top row), and finish off the last 2 rows as before."
+msgstr ""
+"La razón principal para que un niño juegue con este rompecabezas es divertirse moviendo piezas hasta que accidentalmente lo resuelven y también practicar poner los números en orden. A pesar de ese simple objetivo, es posible que comience a preguntarse acerca de ideas más profundas en el rompecabezas.\n"
+"\n"
+"Un tema frecuente de la resolución de problemas es aprender de problemas o ejemplos más simples. Entonces, hagámoslo.\n"
+"\n"
+"El ejemplo más pequeño es 2 por 2. Para este tamaño, está claro que las filas terminarán siendo 1 2; 3 0 o 1 3; 2 0.\n"
+"\n"
+"El siguiente más pequeño es 2 por 3. Comience esto obteniendo el 1 y el 4 en la columna de la izquierda. Una vez hecho esto, su rompecabezas se verá como 1 _ _; 4 _ _. Termine los últimos cuatro cuadrados como lo haría con el caso de 2 por 2.\n"
+"\n"
+"El rompecabezas de 2 por 4 se hace de manera similar. Empiece por poner 1 y 5 en la columna de la izquierda. A continuación, coloque el 2 y el 6 en la segunda columna de la izquierda sin perturbar el 1 y el 4. Finalmente, termine los últimos 2 por 2.\n"
+"\n"
+"En este punto, el patrón para resolver rompecabezas con 2 filas es claro. ¿Qué hacer con más de 2 filas? Suponga que tiene 3 filas. Inicie la solución colocando correctamente la fila superior. Después de eso, no toque la fila superior y use su habilidad para resolver un rompecabezas con 2 filas.\n"
+"\n"
+"De manera similar, si hay 4 filas, haga la fila superior primero, la segunda fila a continuación (sin tocar la fila superior) y termine las 2 últimas filas como antes."
+
+#. type=template
+msgctxt "template"
+msgid "Is This Puzzle Solvable?"
+msgstr "¿Se puede Resolver este Rompecabezas?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Okay, you have a simple method for solving the puzzle. The next question is: How can I just look at the puzzle and know whether it is solvable or not?\n"
+"\n"
+"To make describing the answer as simple as possible, do a few quick moves, if needed, to place the empty square in the bottom row. Next, make a list of the rows in one long list - the first row is listed first, the second row is listed second, and so on with the last row listed last. Omit the empty square when you list the last row.\n"
+"\n"
+"Take this long list and count the number of inversions in it. When a number earlier in the list is larger than a number later in the list, this is called an inversion. If the number of inversions is an even number, then the puzzle is solvable. If it is an odd number, it is not.\n"
+"\n"
+"As an example, take the 3 by 3 puzzle at the start of this discussion. Start by moving the 4 up to the second row. Then the list is: 6 1 2 4 8 5 3 7. There are 10 inversions in this list: 6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7, and 5 3. There are an even number of inversions, so the puzzle is solvable.\n"
+"\n"
+"Why does this rule work? I won’t drag you through a detailed analysis. The key idea is to keep track of the number of inversions every time you make a move. It turns out that, if you adjust for the hole being in the last row, the number of inversions must always change by an even number after any move. Consequently, if the number of inversions starts as an odd number, it can never get down to 0 inversions."
+msgstr ""
+"De acuerdo, ahora tiene un método simple para resolver el rompecabezas. La siguiente pregunta es: ¿Cómo puedo simplemente mirar el rompecabezas y saber si se puede resolver o no?\n"
+"\n"
+"Para que la descripción de la respuesta sea lo más simple posible, haga algunos movimientos rápidos, si es necesario, para colocar el cuadrado vacío en la fila inferior. A continuación, haga una lista de las filas en una lista larga: la primera fila se enumera primero, la segunda fila se enumera en segundo lugar y así sucesivamente con la última fila en último lugar. Omita el cuadrado vacío cuando enumere la última fila.\n"
+"\n"
+"Tome esta larga lista y cuente el número de inversiones en ella. Cuando un número anterior en la lista es mayor que un número posterior en la lista, esto se llama inversión. Si el número de inversiones es un número par, entonces el rompecabezas se puede resolver. Si es un número impar, no lo es.\n"
+"\n"
+"Como ejemplo, tome el rompecabezas de 3 por 3 al comienzo de esta discusión. Comience moviendo el 4 hacia la segunda fila. Entonces la lista es: 6 1 2 4 8 5 3 7. Hay 10 inversiones en esta lista: 6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7, y 5 3. Hay un número par de inversiones, por lo que el rompecabezas se puede resolver.\n"
+"\n"
+"¿Por qué funciona esta regla? No vamos a hacer un análisis detallado. La idea clave es realizar un seguimiento del número de inversiones cada vez que se realiza un movimiento. Resulta que, si hace los ajustes para que el cuadrado vacío esté en la última fila, el número de inversiones siempre debe cambiar en un número par después de cualquier movimiento. En consecuencia, si el número de inversiones comienza como un número impar, nunca puede bajar a 0 inversiones."
 
 #. type=template
 msgctxt "template"
@@ -3604,8 +3793,119 @@ msgstr "Suma de Formas"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"These puzzles use numbered circles connected in an upward fashion, and every circle is the sum of all the circles directly below and connected to it. \n"
+"\n"
+"The easiest puzzles have most of the circles filled in. Here are two examples that are straightforward to solve."
+msgstr ""
+"Estos juegos matemáticos utilizan círculos numerados conectados de manera ascendente, y cada círculo es la suma de todos los círculos directamente debajo y conectados a él. \n"
+"\n"
+"Los juegos más fáciles tienen la mayoría de los círculos resueltos. Aquí hay dos ejemplos que son fáciles de resolver."
+
+#. type=template
+msgctxt "template"
+msgid "These puzzles can be made more difficult by having one circle used in more than one direction. All of the next seven puzzles are direct calculations except the rightmost one of the first row. It is trickier because the one circle in the middle is shared by two unknown circles above it. That puzzle involves small enough numbers that it can be solved easily with a little trial and error."
+msgstr "Estos juegos se pueden hacer más difíciles si se usa un círculo en más de una dirección. Los siguientes siete son cálculos directos, excepto el de la derecha de la primera fila. Es más complicado porque el círculo en el medio está conectado a dos círculos desconocidos encima de él. Este juego involucra números lo suficientemente pequeños como para que se pueda resolver fácilmente con un poco de prueba y error."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Another option for adding complexity to these puzzles is to use non-circular shapes. While the value in a circle may or may not duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape. For example, all squares have the same value. Use matching shapes to practice adding twins, near twins, and halving. \n"
+"\n"
+"If you like, you can add the rule that two non-circular shapes that have different shapes must have different values - for example, a square and a hexagon would have to have different values.\n"
+"\n"
+"Make any of these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square or other shape instead of a circle for that repeated number.\n"
+"\n"
+"The next two puzzles illustrate the psychological difference between using a circle from two directions and replacing the circle with two squares. These two puzzles are essentially the same, but a young child will find the first one much easier to understand and work with. Please give your child plenty of practice with circle-only puzzles before venturing into more sophisticated puzzles with non-circular shapes."
+msgstr ""
+"Otra opción para agregar complejidad a estos juegos es utilizar figuras no circulares. Si bien el valor en un círculo puede o no ser el doble del valor en algún otro círculo o figura, el valor en una figura no circular debe tener el mismo valor en todos los demás lugares con la misma figura. Por ejemplo, todos los cuadrados tienen el mismo valor. Use figuras similares para practicar la suma de números iguales, casi iguales y calcular mitades. \n"
+"\n"
+"Si lo desea, puede agregar la regla de que dos figuras no circulares que tienen formas diferentes deben tener valores diferentes; por ejemplo, un cuadrado y un hexágono deberían tener valores diferentes.\n"
+"\n"
+"Haga cualquiera de estos juegos comenzando con un diagrama que esté completamente resuelto y luego quite algunos números. Si el juego tiene algunos números repetidos, use un cuadrado u otra figura en lugar de un círculo para ese número repetido.\n"
+"\n"
+"Los siguientes dos juegos ilustran la diferencia psicológica entre usar un círculo desde dos direcciones y reemplazar el círculo con dos cuadrados. Estos dos juegos son esencialmente iguales, pero un niño pequeño encontrará el primero mucho más fácil de entender y trabajar. Por favor, ofrézcale a su niño/niña mucha práctica con juegos de solo círculos antes de aventurarse con juegos más sofisticados con figuras no circulares."
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles similar to the next three are useful for practicing adding twins, near twins, and triples."
+msgstr "Los juegos similares a los tres siguientes son útiles para practicar la suma de números iguales, casi iguales y triples."
+
+#. type=template
+msgctxt "template"
+msgid "Here are some examples of using non-circular shapes to make trickier puzzles. If your child enjoys these, there are a great many more variations to explore. Happy puzzling!"
+msgstr "A continuación, se muestran algunos ejemplos del uso de figuras no circulares para hacer juegos más complicados. Si su niño/niña disfruta de estos, hay muchas más variaciones para explorar. ¡Diviértanse!"
+
+#. type=template
+msgctxt "template"
 msgid "Nim – Doubling the Limit"
 msgstr "Nim – Doblando el Límite"
+
+#. type=template
+msgctxt "template"
+msgid "One Pile"
+msgstr "Un Montón"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Set a starting total, say 20. Let your child choose whether to go first or second. During the first turn, a player chooses to subtract 1 or 2 from the current total. After the first turn, a player may subtract any number from 1 up to twice the number used on the last turn. The first person to reach 0 wins.\n"
+"\n"
+"There are many alternative versions of this game. Some of them are:\n"
+"\n"
+"* The first person to reach the target loses.\n"
+"* Instead of using the range of 1 to 2, the initial range is from 1 to one less (or two less) than the target number.\n"
+"* Practice adding, rather than subtracting, by starting at 0 and having the first person to reach the target win (or lose).\n"
+"* The initial limit is one (or two) less than the target number, and instead of doubling the value used of the last turn, use the value of the last turn as the limit.\n"
+"* The initial limit is one (or two) less than the target number, and instead of doubling the value used of the last turn, use the triple of the value of the last turn.\n"
+"\n"
+"As you can see, there are lots of variations. Make up your own family rules if you are enjoying the game.\n"
+"\n"
+"For the most part, these games are much harder to analyze than the versions of Nim that use a fixed set of choices for each move."
+msgstr ""
+"Establezca un total inicial, digamos 20. Deje que su niño/niña elija si va primero o segundo. Durante el primer turno, un jugador elige restar 1 o 2 del total actual. Después del primer turno, un jugador puede restar cualquier número desde 1 hasta el doble del número utilizado en el último turno. La primera persona en llegar a 0 gana.\n"
+"\n"
+"Hay muchas versiones alternativas de este juego. Algunas de ellas son:\n"
+"\n"
+"* La primera persona en alcanzar el objetivo pierde.\n"
+"* En lugar de utilizar el rango de 1 a 2, el rango inicial es de 1 a uno menos (o dos menos) que el número objetivo.\n"
+"* Practiquen sumar, en lugar de restar, comenzando en 0 y haciendo que la primera persona en alcanzar el objetivo gane (o pierda).\n"
+"* El límite inicial es uno (o dos) menos que el número objetivo y, en lugar de duplicar el valor utilizado en el último turno, utilice el valor del último turno como límite.\n"
+"* El límite inicial es uno (o dos) menos que el número objetivo, y en lugar de duplicar el valor usado en el último turno, use el triple del valor del último turno.\n"
+"\n"
+"Como puede ver, hay muchas variaciones. Inventen sus propias reglas familiares si están disfrutando del juego.\n"
+"\n"
+"En su mayor parte, estos juegos son mucho más difíciles de analizar que las versiones de Nim que utilizan un conjunto fijo de opciones para cada movimiento."
+
+#. type=template
+msgctxt "template"
+msgid "More Than One Pile"
+msgstr "Más De un Montón"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Yet another way to make new versions of this game is to use more than one number. Picture this version as having several piles of tokens (pebbles, bits of food). For example, you could have two piles with 12 tokens in one pile and 8 in the other. A standard rule to use is that you can take any number of tokens, but they must all be from one pile.\n"
+"\n"
+"Alternative versions of this game are:\n"
+"\n"
+"* There are more than two piles.\n"
+"* You have the option of taking the same number of tokens from all the piles.\n"
+"* You have the option of taking the same number of tokens from the piles you choose.\n"
+"* You can only take tokens from the largest pile.\n"
+"\n"
+"As you can imagine, there are even more versions of this game; however, perhaps this is more than enough for now!"
+msgstr ""
+"Otra forma adicional de crear nuevas versiones de este juego es usar más de un número. Imagine que esta versión tiene varios montones de fichas (piedritas, trozos de comida). Por ejemplo, podría tener dos montones con 12 fichas en un montón y 8 en el otro. Una regla estándar a utilizar es que puede tomar cualquier número de fichas, pero todas deben ser de un solo montón.\n"
+"\n"
+"Las versiones alternativas de este juego son:\n"
+"\n"
+"* Hay más de dos montones.\n"
+"* Tienen la opción de tomar la misma cantidad de fichas de todos los montones.\n"
+"* Tienen la opción de tomar la misma cantidad de fichas de los montones que elijan.\n"
+"* Solo pueden tomar fichas del montón más grande.\n"
+"\n"
+"Como puede imaginar, hay incluso más versiones de este juego; sin embargo, ¡quizás esto sea más que suficiente por ahora!"
 
 #. type=template
 msgctxt "template"
@@ -3614,13 +3914,149 @@ msgstr "Contar Pares e Impares"
 
 #. type=template
 msgctxt "template"
+msgid "Basic Setup"
+msgstr "Configuración Básica"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Use a small collection of Number Cards involving some small quantities. Start with three cards and later on use more cards if your child enjoys the investigation.\n"
+"\n"
+"Suppose the numbers are 1, 2, and 3. The question is: If you randomly pick two cards and add them, are you more likely to get an even number or an odd number? \n"
+"\n"
+"There are two ways to look into this. One way is to do experiments. Shuffle the cards, randomly pick two cards, and see whether the sum is even or odd. After each experiment, put a tick mark in the appropriate column on a piece of paper to count the even and odd results.\n"
+"\n"
+"The second way is to count how many ways there are of getting an odd number versus an even number. For example, in the case of using 1, 2, and 3, there is one way to get an even number (1 + 3) and two ways to get an odd number (1 + 2, 2 + 3). So, for the numbers 1, 2, and 3, the odd number sums are twice as likely.\n"
+"\n"
+"After you’ve played around with 1, 2, and 3 for a while, try other groups of three cards. Does 2, 3, and 4 behave any differently? The groups 1, 3, 5 and 2, 4, 6 produce only even numbers - why is that? After playing around with three cards for a while, see what happens with 4 or more cards.\n"
+"To make a game of it, let one player be Even and the other player be Odd. See who has the most successes after a dozen trial runs."
+msgstr ""
+"Utilice una pequeña colección de tarjetas numéricas con cantidades pequeñas. Comience con tres tarjetas y luego use más tarjetas si a su niño/niña le gusta la investigación.\n"
+"\n"
+"Suponga que los números son 1, 2 y 3. La pregunta es: Si elige dos tarjetas al azar y las suma, ¿es más probable que obtenga una número par o impar? \n"
+"\n"
+"Hay dos formas de analizar esto. Una forma es hacer experimentos. Baraje las cartas, elija dos cartas al azar y compruebe si la suma es par o impar. Después de cada experimento, coloque una marca de verificación en la columna correspondiente en una hoja de papel para contar los resultados pares e impares.\n"
+"\n"
+"La segunda forma es contar cuántas formas hay de obtener un número impar frente a un número par. Por ejemplo, en el caso de usar 1, 2 y 3, hay una forma de obtener un número par (1 + 3) y dos formas de obtener un número impar (1 + 2, 2 + 3). Entonces, para los números 1, 2 y 3, las sumas de números impares son dos veces más probables.\n"
+"\n"
+"Después de haber jugado con 1, 2 y 3 por un tiempo, pruebe con otros grupos de tres cartas. ¿Sucede algo diferente con los números 2, 3 y 4? Los grupos 1, 3, 5 y 2, 4, 6 solo producen números pares, ¿por qué? Después de jugar un rato con tres cartas, observen qué pasa con 4 o más cartas.\n"
+"Para convertirlo en un juego, deje que un jugador sea par y el otro jugador impar. Vea quién tiene más éxitos después de una docena de pruebas."
+
+#. type=template
+msgctxt "template"
+msgid "Investigation Analysis"
+msgstr "Análisis de la Investigación"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The fun thing about an investigation is that it invites a person to play with the numbers and be a mathematician. As mentioned above, play around with different groups of three numbers. After some experimentation, your child may notice that any group of three numbers that has at least one even number and one odd number behaves the same. However, if all the numbers are all odd numbers or all even numbers, then the sums are all even. Which brings up the usual question: Why does that happen?\n"
+"\n"
+"After some experimentation, even a young child can stumble upon the beautiful number theory rule that says:\n"
+"\n"
+"* Even plus Even is Even\n"
+"* Even plus Odd is Odd\n"
+"* Odd plus Odd is Even\n"
+"\n"
+"Why does this rule work? Use the Number Shapes activity to represent even numbers and odd numbers with two rows of tokens - when will adding these numbers come out to two equal rows?\n"
+"\n"
+"Once this rule is discovered, your child may realize that the particular numbers do not matter so much. Having the numbers 1, 2, 3 is really no different from having the numbers 3, 4, 5 (or 3, 12, 17 for that matter). The analysis really depends on how many numbers are even and how many are odd.\n"
+"\n"
+"With that in mind, here is a table of the possible outcomes for groups of size three and four.\n"
+"\n"
+"3 Numbers:\n"
+"\n"
+"* 3 Evens, 0 Odds - 3 Even sums\n"
+"* 2 Evens, 1 Odd - 1 Even sum, 2 Odd sums\n"
+"* 1 Even, 2 Odds - 1 Even sum, 2 Odd sums\n"
+"* 0 Evens, 3 Odds - 3 Even sums\n"
+"\n"
+"4 Numbers:\n"
+"\n"
+"* 4 Evens, 0 Odds - 6 Even sums\n"
+"* 3 Evens, 1 Odd - 3 Even sums, 3 Odd sums\n"
+"* 2 Evens, 2 Odds - 2 Even sums, 4 Odd sums\n"
+"* 1 Even, 3 Odds - 3 Even sums, 3 Odd sums\n"
+"* 0 Evens, 4 Odds - 6 Even sums\n"
+"\n"
+"The results are surprising and leave many things to investigate if one is interested! What happens with 5 numbers, 6 numbers, or more? Why is it that interchanging Even numbers and Odd numbers does not seem to change the results? For example, if you have 3 Evens and 1 Odd you get the same results as 1 Even and 3 odds. For circumstances like 3 Evens and 1 Odd, why do the results come out balanced when the Even and Odd counts start out unbalanced?\n"
+"\n"
+"This is some cool mathematics and even a small child can play around with it!"
+msgstr ""
+"Lo divertido de una investigación es que invita a una persona a jugar con los números y a ser matemático. Como se mencionó anteriormente, juegue con diferentes grupos de tres números. Después de un poco de experimentación, su niño/niña puede notar que cualquier grupo de tres números que tenga al menos un número par y un número impar se comporta de la misma manera. Sin embargo, si todos los números son impares o pares, entonces las sumas son todas pares. Lo que trae a colación la pregunta habitual: ¿Por qué sucede eso?\n"
+"\n"
+"Después de un poco de experimentación, incluso un niño pequeño puede dar con la hermosa regla de la teoría de los números que dice:\n"
+"\n"
+"*Par más par resulta en par\n"
+"*Par más impar resulta en impar\n"
+"*Impar más impar resulta en par\n"
+"\n"
+"¿Por qué funciona esta regla? Utilice la actividad Formas de números para representar números pares e impares con dos filas de fichas. ¿Cuándo va a resultar en dos filas iguales la suma de estos dos números?\n"
+"\n"
+"Una vez que se descubre esta regla, su niño/niña puede darse cuenta de que los números en particular no importan tanto. Tener los números 1, 2, 3 realmente no es diferente de tener los números 3, 4, 5 (o 3, 12, 17 para el caso). El análisis realmente depende de cuántos números son pares y cuántos son impares.\n"
+"\n"
+"Con eso en mente, aquí hay una tabla de los posibles resultados para grupos de tamaño tres y cuatro.\n"
+"\n"
+"3 números:\n"
+"\n"
+"*3 pares, 0 impares - 3 sumas pares\n"
+"*2 pares, 1 impar - 1 suma par, 2 sumas impares\n"
+"*1 par, 2 impares - 1 suma par, 2 sumas impares \n"
+"*0 pares, 3 impares - 3 sumas pares\n"
+"\n"
+"4 números:\n"
+"\n"
+"*4 pares, 0 impares - 6 sumas pares\n"
+"*3 pares, 1 impar - 3 sumas pares, 3 sumas impares \n"
+"*2 pares, 2 impares - 2 sumas pares, 4 sumas impares\n"
+"*1 par, 3 impares - 3 sumas pares, 3 sumas impares \n"
+"*0 pares, 4 impares - 6 sumas pares\n"
+"\n"
+"¡Los resultados son sorprendentes y dejan muchas cosas por investigar si a uno le interesa! ¿Qué sucede con 5 números, 6 números o más? ¿Por qué el intercambio de números pares e impares no parece cambiar los resultados? Por ejemplo, si tiene 3 pares y 1 impar, obtendrá los mismos resultados que 1 par y 3 impares. Para circunstancias como 3 pares y 1 impar, ¿por qué los resultados salen equilibrados cuando los pares e impares comienzan desequilibrados?\n"
+"\n"
+"¡Estas son algunas matemáticas geniales e incluso un niño pequeño puede jugar con ellas!"
+
+#. type=template
+msgctxt "template"
 msgid "Sum Groups"
 msgstr "Grupos de Suma"
 
 #. type=template
 msgctxt "template"
+msgid "These puzzles use a grid of numbers with a target sum. Find groups of two, three, or four numbers that add up to the target. The members of a group must share sides. Use tokens, such as different types of food items, to identify each group within the puzzle. When complete, the entire puzzle will be made up of identified groups."
+msgstr "Estos juegos matemáticos utilizan una cuadrícula de números con una suma objetivo. Busque grupos de dos, tres o cuatro números que sumados den como resultado el objetivo. Los miembros de un grupo deben compartir lados. Use fichas, como diferentes tipos de productos alimenticios, para identificar a cada grupo dentro de la cuadrícula. Cuando esté completada, toda la cuadrícula estará compuesta por grupos identificados."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"These puzzles provide particularly good practice with number bonds. By using tokens instead of a pencil, you can use puzzle sheets over and over.\n"
+"\n"
+"Create these puzzles by starting with an empty grid and putting in numbers around the grid using pairs and triples that add up to the target sum. It’s more fun if the puzzle has just one solution, but don’t worry about it."
+msgstr ""
+"Estos juegos proporcionan una práctica particularmente buena con los vínculos numéricos. Al usar fichas en lugar de un lápiz, puede usar las hojas de juegos una y otra vez.\n"
+"\n"
+"Cree estos juegos comenzando con una cuadrícula vacía y colocando números alrededor de la cuadrícula usando pares y tríos que sumados den como resultado la suma objetivo. Es más divertido si el juego tiene una sola solución, pero no se preocupe por eso."
+
+#. type=template
+msgctxt "template"
 msgid "Zoo Rescue"
 msgstr "Rescate en el Zoológico"
+
+#. type=template
+msgctxt "template"
+msgid "Game Description"
+msgstr "Descripción del Juego"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"In this game, use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box. \n"
+"\n"
+"During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box. The first player to rescue all their tokens wins."
+msgstr ""
+"En este juego, use dos dados o dos juegos de tarjetas numéricas que vayan del 1 al 6. Cada jugador tiene 6 fichas; las fichas de animales son perfectas para este juego si las tiene. Cada jugador también tiene una hoja de papel con casillas numeradas del 0 al 5. Cada jugador decide dónde colocar sus 6 fichas; está bien poner más de una ficha en una casilla.\n"
+"\n"
+"Durante el turno de un jugador, se crean dos números tirando los dados o eligiendo dos cartas, y se usa la resta de esos números. El jugador puede liberar una de sus fichas si tiene una en la casilla con el número correspondiente. El primer jugador en rescatar todas sus fichas gana."
 
 #. type=template
 msgctxt "template"
@@ -3685,6 +4121,11 @@ msgstr "Investigación 3"
 msgctxt "template"
 msgid "Card Deck Ordering"
 msgstr "Ordenando Tablas de Tarjetas"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzle Description"
+msgstr "Descripción del Rompecabezas"
 
 #. type=template
 msgctxt "template"
@@ -3903,6 +4344,16 @@ msgstr "**Capítulos**"
 
 #. type=template
 msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**Material Adicional**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "Material Adicional — Actividades"
+
+#. type=template
+msgctxt "template"
 msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
 msgstr "Habla con tu hijo así él todavía no hable o no entienda todas las palabras. Señala, nombra y describe los objetos que ve como formas, colores, comparaciones y cantidades. A medida que tu hijo comience a comprender las palabras, pregúntale sobre un objeto y pídele que lo señale. Por ejemplo, \"¿Dónde está la pelota?\" Si tu hijo no puede encontrar el objeto, señálaselo."
 
@@ -3974,6 +4425,11 @@ msgstr "Matemáticas: Temas y Palabras"
 msgctxt "template"
 msgid "Read, Talk, and Have Fun!"
 msgstr "Lee, Habla y ¡Diviértete!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "Material Adicional"
 
 #. type=tour
 msgctxt "tour"
@@ -9808,6 +10264,11 @@ msgstr "Sudoku de Formas"
 msgctxt "data_list"
 msgid "Number Sudoku With Jigsaws"
 msgstr "Sudoku Numérico Con Rompecabezas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Greater Than Sudoku"
+msgstr "Más Grande que Sudoku"
 
 #. type=data_list
 msgctxt "data_list"
