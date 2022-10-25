@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-25 15:13\n"
+"PO-Revision-Date: 2022-10-25 16:15\n"
 
 #. type=template
 msgctxt "template"
@@ -4899,8 +4899,67 @@ msgstr "Balanza"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"A balance scale is a simple device for telling when two things have exactly the same weight. The scale is usually supplied with a set of weights that are used to measure the weight of other objects. There are many interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**One Kind of Weight** Suppose you have lots of weights, but they are all the same - say, 5 units. Then the only things you can weigh exactly are objects that are a multiple of 5 (just like skip counting by 5).\n"
+"\n"
+"**Two Kinds of Weights - One Side** Suppose you have lots of weights that are either 4 units or 7 units and you only use them on one side of the balance. The things you can weigh are the same numbers you found in the flower petal investigation. For 4 and 7, starting at 18 units you can weigh everything exactly. If the weights are 4 units and 6 units, you can only weigh even numbers starting with 4.\n"
+"\n"
+"**Two Kinds of Weights - Both Sides** After doing the investigation with two kinds of weights on one side, your child might be surprised if you ask them to weigh a 3-unit item, or even a 1-unit item, with 4’s and 7’s. The trick is to put some weights on one side and other weights on the other side. For example, verify an item weighs 3 units by putting it with a 4-unit weight and see that it balances with a 7-unit weight. Similarly, verify an item weighs 1 unit by putting it with a 7-unit weight and see that it balances with two 4-unit weights.\n"
+"\n"
+"There is an important math theorem called Bezout’s Theorem hidden in this investigation. Your child doesn’t need to know about that theorem at this point, but isn’t it cool that a young child can be playing around with advanced mathematics!\n"
+"\n"
+"**Doubling Weights** What happens if you have one weight each for each of the weights in the doubling progression 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? What is the largest weight you can measure? \n"
+"\n"
+"After some investigation, you will find that you can weigh everything up to one less than double the highest weight - in this case that is 31. Also, each item you can weigh can only be weighed in one way - for example, 13 = 1 + 4 + 8, and there is no other way to do it. Pretty cool! This situation is related to the binary number system.\n"
+"\n"
+"Fibonacci Weights: What happens if the weights are in the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction that would cause there to be only one way for each weight.\n"
+"\n"
+"Suppose you have one each for the weights 1, 1, 2, 3, 5, 8, and 13. With this, 10 = 2 + 3 + 5 = 2 + 8 = 1 + 1 + 3 + 5 = 1 + 1 + 8. What is causing the duplication is that the Fibonacci rule creates more than one way to write the Fibonacci numbers in terms of themselves - for example, 2 = 1 + 1 and 8 = 5 + 3. The way to fix this problem is to insist that you cannot use two Fibonacci numbers that are neighbors of each other in the sequence. When you add that restriction, the only way to get 10 is 2 + 8."
+msgstr ""
+"Una balanza es un dispositivo simple para saber cuándo dos cosas tienen exactamente el mismo peso. La báscula generalmente se suministra con un juego de pesas que se utilizan para medir el peso de otros objetos. Hay muchas investigaciones interesantes que puede hacer si restringe los pesos que puede usar.\n"
+"\n"
+"**Un Tipo de Peso** Suponga que tiene muchos pesos, pero todos son iguales, digamos, 5 unidades. Entonces, las únicas cosas que puede pesar con exactitud son los objetos que son múltiplos de 5 (como contar de 5 en 5).\n"
+"\n"
+"**Dos Tipos de Pesas— Un Lado** Suponga que tiene muchas pesas de 4 o 7 unidades y solo las usa en un lado de la balanza. Las cosas que puede pesar son los mismos números que encontró en la investigación de pétalos de flores. Para 4 y 7, a partir de 18 unidades, puede pesar todo exactamente. Si los pesos son 4 unidades y 6 unidades, solo puede pesar números pares a partir del 4.\n"
+"\n"
+"**Dos Tipos de Pesos— ambos Lados** Después de hacer la investigación con dos tipos de pesos en un lado, su niño/niña podría sorprenderse si le pide pesar un artículo de 3 unidades, o incluso un artículo de 1 unidad, con 4 y 7. El truco consiste en poner algunas pesas en un lado y otras pesas en el otro lado. Por ejemplo, verifique que un artículo pesa 3 unidades colocándolo con un peso de 4 unidades y verificando que se equilibre con un peso de 7 unidades. De manera similar, verifique que un artículo pesa 1 unidad colocándolo con un peso de 7 unidades y verificando que se equilibre con dos pesos de 4 unidades.\n"
+"\n"
+"Hay un teorema matemático importante llamado Teorema de Bezout escondido en esta investigación. Su niño/niña no necesita saber sobre este teorema en este momento, ¡pero no es genial que un niño pequeño pueda estar jugando con matemáticas avanzadas!\n"
+"\n"
+"**Duplicar Pesos** ¿Qué sucede si tiene un peso para cada uno de los pesos en la serie de dobles 1, 2, 4, 8 y 16? ¿De cuántas formas puede pesar algo que pesa 13? ¿Cuál es el peso más grande que puede medir? \n"
+"\n"
+"Después de investigar un poco, encontrará que puede pesar todo hasta uno menos del doble del peso más alto; en este caso, es 31. Además, cada artículo que puede pesar solo se puede pesar de una manera, por ejemplo, 13 = 1 + 4 + 8, y no hay otra forma de hacerlo. ¡Muy genial! Esta situación está relacionada con el sistema numérico binario.\n"
+"\n"
+"Pesos de Fibonacci: ¿Qué sucede si los pesos son los números de Fibonacci? ¿Hay más de una forma de pesar algunos pesos? Busque una restricción que provoque que solo haya una forma para cada peso.\n"
+"\n"
+"Suponga que tiene uno para cada uno de los pesos 1, 1, 2, 3, 5, 8 y 13. Con esto, 10 = 2 + 3 + 5 = 2 + 8 = 1 + 1 + 3 + 5 = 1 + 1 + 8. Lo que está causando la duplicación es que la regla de Fibonacci crea más de una forma de escribir los números de Fibonacci en términos de sí mismos, por ejemplo, 2 = 1 + 1 y 8 = 5 + 3. La forma de solucionar este problema es insistir en que no se pueden usar dos números de Fibonacci que sean vecinos entre sí en la secuencia. Cuando se agrega esa restricción, la única forma de obtener 10 es 2 + 8."
+
+#. type=template
+msgctxt "template"
 msgid "Nim With Factors"
 msgstr "Nim Con Factores"
+
+#. type=template
+msgctxt "template"
+msgid "Start with any number, say 20. Let the child decide whether to go first or second. During their turn, a player may subtract any divisor of the current number from the number. The player forced to 0 loses."
+msgstr "Empiece con cualquier número, digamos 20. Deje que el niño decida si va primero o segundo. Durante su turno, un jugador puede restar cualquier divisor del número. El jugador obligado a llegar a 0 pierde."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"As usual, a good strategy for learning about this game is to look at a simpler version of the game, which in this case means starting with very small numbers. If it is your turn and you are faced with each of these numbers, here is what will happen: 1 - lose, 2 - win, 3 - lose, 4 - win, 5 - lose, 6 - win, 7 lose, and 8 win. By now the pattern is clear - if it is your move and you have an odd number, then you will lose; if you have an even number, then you will win.\n"
+"\n"
+"Finding the winning strategy is a big step, but let’s go deeper. Why does this work? What are the properties of odd and even numbers that create this situation? Set this question before your child and give them a lot of time to think about it and experiment with it - there is no hurry, and this process of wrestling with a question is invaluable and should not be short circuited.\n"
+"\n"
+"Some experimentation with small numbers quickly reveals what is going on. If you have an odd number, all of the divisors are odd, so when you subtract any divisor the result is an even number. Consequently, odd numbers on one turn always lead to an even number on the next turn. Even numbers always have both odd and even numbers for divisors. So, the situation is not quite the same. However, if you have an even number, your goal is to give your opponent an odd number, and there is an easy way to do that - select the divisor 1 and subtract it!"
+msgstr ""
+"Como es habitual, una buena estrategia para aprender sobre este juego es observar una versión más simple del juego, que en este caso significa comenzar con números muy pequeños. Si es su turno y se enfrenta con cada uno de estos números, esto es lo que sucederá: 1 - pierde, 2 - gana, 3 - pierde, 4 - gana, 5 - pierde, 6 - gana, 7 - pierde y 8 - gana. A estas alturas, el patrón es claro: si es su turno y tiene un número impar, perderá; si tiene un número par, ganará.\n"
+"\n"
+"Encontrar la estrategia ganadora es un gran paso, pero profundicemos. ¿Por qué funciona esto? ¿Cuáles son las propiedades de los números pares e impares que crean esta situación? Plantee esta pregunta a su niño/niña y déle mucho tiempo para pensar en ella y experimentar con ella; no hay prisa, y este proceso de batallar con una pregunta es invaluable y no debe ser acortado.\n"
+"\n"
+"Un poco de experimentación con números pequeños revela rápidamente lo que está sucediendo. Si tiene un número impar, todos los divisores son impares, por lo que cuando resta cualquier divisor, el resultado es un número par. En consecuencia, los números impares en un turno siempre conducen a un número par en el siguiente turno. Los números pares siempre tienen números pares e impares como divisores. Entonces, la situación no es la misma. Sin embargo, si tiene un número par, su objetivo es darle a su oponente un número impar, y hay una manera fácil de hacerlo: ¡seleccione el divisor 1 y réstelo!"
 
 #. type=template
 msgctxt "template"
@@ -4929,8 +4988,146 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"This simple process reveals some interesting facts about primes. See if your child can come up with some of these questions - however, if they don’t arise naturally, here are some questions to ask.\n"
+"\n"
+"a) Why are the numbers that drop down primes?\n"
+"\n"
+"Suppose you have a composite number. We want to show that this number will have an X under it. Being composite, it is divisible by some number, n, between 1 and that number. If n is a prime, then our composite number would have an X under it from n being an earlier prime. If n is not a prime, then it has an X under it from some earlier prime, call it p. Now, p evenly divides n and n evenly divides our new number, so p must divide our new number. Consequently, when marking the multiples of p, an X would have been placed under our new number.\n"
+"\n"
+"b) When you are placing X’s for the multiples of a prime, there are some numbers that already have an X from an earlier prime. When does that happen and when doesn’t it happen?\n"
+"\n"
+"Let’s look at the multiples of 5 in the sieve above. The multiples 5 x 2, 5 x 3, and 5 x 4 are already crossed out. Only 5 x 5 is new. This happens because 5 x 2, 5 x 3, and 5 x 4 are all multiples of 2 and 3, earlier primes. If we want to put X’s in fresh places, we must multiply 5 by numbers that only have prime factors that are 5 and above. Because it is a little tedious to keep track of all that, what some people do is only cross out odd multiples and leave it at that.\n"
+"\n"
+"c) For this sieve, what was the last prime that had a useful new X in its row?\n"
+"\n"
+"In this sieve, the primes with useful X’s are 2, 3, and 5. The multiples of 7 and 11 were all old X’s. If you look at the answer to the last question, you will see the answer here. The only way to get new X’s is to multiply a prime by primes bigger than or equal to itself. Once we reach a prime like 7 where 7 x 7 > 25, we do not need to check it. So, we only need to check primes whose square is smaller than or equal to the last number.\n"
+"\n"
+"d) If you were given a number, say 53, which primes would you need to divide it by to see that it is prime? \n"
+"\n"
+"From the answer to the last question, we only need to check primes whose square is less than or equal to 53. Those primes are 2, 3, 5, and 7 – none of these divides 53 evenly, so 53 must be prime!"
+msgstr ""
+"Este sencillo proceso revela algunos datos interesantes sobre los números primos. Vea si su niño/niña puede plantear algunas de estas preguntas; sin embargo, si no surgen de forma natural, aquí hay algunas preguntas para hacer.\n"
+"\n"
+"a) ¿Por qué los números que bajan son primos?\n"
+"\n"
+"Suponga que tiene un número compuesto. Queremos mostrar que este número tendrá una X debajo. Al ser compuesto, es divisible por algún número, n, entre 1 y ese número. Si n es primo, entonces nuestro número compuesto tendría una X debajo ya que n sería un primo anterior. Si n no es un primo, entonces tiene una X debajo de algún primo anterior, llámelo p. Ahora, p divide uniformemente n y n divide uniformemente nuestro nuevo número, por lo que p debe dividir nuestro nuevo número. En consecuencia, al marcar los múltiplos de p, se habría colocado una X debajo de nuestro nuevo número.\n"
+"\n"
+"b) Cuando coloca X para los múltiplos de un primo, hay algunos números que ya tienen una X de un primo anterior. ¿Cuándo sucede eso y cuándo no sucede?\n"
+"\n"
+"Veamos los múltiplos de 5 en el tamiz de arriba. Los múltiplos de 5 x 2, 5 x 3 y 5 x 4 ya están tachados. Solo 5 x 5 es nuevo. Esto sucede porque 5 x 2, 5 x 3 y 5 x 4 son todos múltiplos de 2 y 3, primos anteriores. Si queremos poner X en lugares nuevos, debemos multiplicar 5 por números que solo tienen factores primos que son 5 o más. Debido a que es un poco tedioso hacer un seguimiento de todo eso, lo que algunas personas hacen es solo tachar los múltiplos impares y dejarlo así.\n"
+"\n"
+"c) Para este tamiz, ¿cuál fue el último número primo que tenía una nueva X útil en su fila?\n"
+"\n"
+"En este tamiz, los números primos con X útiles son 2, 3 y 5. Los múltiplos de 7 y 11 tenían todos Xs previas. Si observa la respuesta a la última pregunta, verá la respuesta aquí. La única forma de obtener nuevas Xs es multiplicando un número primo por números primos mayores o iguales a sí mismo. Una vez que llegamos a un primo como 7 donde 7 x 7> 25, no necesitamos verificarlo. Entonces, solo necesitamos verificar los números primos cuyo cuadrado sea menor o igual que el último número.\n"
+"\n"
+"d) Si le dieran un número, digamos 53, ¿entre qué primos necesitaría dividirlo para ver que es primo? \n"
+"\n"
+"De acuerdo a la respuesta de la última pregunta, solo necesitamos verificar los números primos cuyo cuadrado sea menor o igual a 53. Esos números primos son 2, 3, 5 y 7; ninguno de estos divide 53 de manera uniforme, por lo que 53 debe ser primo!"
+
+#. type=template
+msgctxt "template"
+msgid "Levers and Mobiles"
+msgstr "Palancas y Móviles"
+
+#. type=template
+msgctxt "template"
+msgid "Levers"
+msgstr "Palancas"
+
+#. type=template
+msgctxt "template"
+msgid "The lever principle states that the force exerted on one side of a lever by a mass is equal to the mass times its distance from the pivot point, the fulcrum."
+msgstr "El principio de la palanca establece que la fuerza ejercida en un lado de una palanca por una masa es igual a la masa multiplicada por su distancia desde el punto de pivote, el fulcro."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"In the lever above, the 3 on the left side is a distance of 5 from the fulcrum, so its force is 3 x 5 = 15. The 5 on the right side is a distance of 3 from the fulcrum, so its force is 5 x 3 = 15. This lever is in balance.\n"
+"\n"
+"If there is more than one weight on a side, the forces will add up."
+msgstr ""
+"En la palanca de arriba, el 3 del lado izquierdo está a una distancia de 5 del fulcro, por lo que su fuerza es 3 x 5 = 15. El 5 del lado derecho está a una distancia de 3 del fulcro, por lo que su fuerza es 5 x 3 = 15. Esta palanca está en equilibrio.\n"
+"\n"
+"Si hay más de un peso en un lado, las fuerzas se sumarán."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"In this lever, there is 3 x 4 + 1 x 2 + 1 x 1 = 15 on the left side, and 5 x 3 = 15 on the right side. So it is in balance.\n"
+"\n"
+"We will restrict these problems to only use whole numbers. You can decide whether you allow multiple weights to be hung off of the same point – we will assume it’s okay to do multiple weights in the discussion that follows."
+msgstr ""
+"En esta palanca, hay 3 x 4 + 1 x 2 + 1 x 1 = 15 en el lado izquierdo y 5 x 3 = 15 en el lado derecho. Entonces está en equilibrio.\n"
+"\n"
+"Limitaremos estos problemas para usar solo números enteros. Puede decidir si permite que se cuelguen varios pesos del mismo punto; asumiremos que está bien usar varios pesos en la discusión que sigue."
+
+#. type=template
+msgctxt "template"
+msgid "Lever Puzzles"
+msgstr "Juegos de Palanca"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be the distances 5 and 3, but it can also be 10 and 6, or even larger answers such as 15 and 9. Be open to discussing whatever your child comes up with. \n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? This question continues the questions on the Make It Count page at the end of Chapter 4. As before, explore different combinations of weights. What happens if 3 and 5 are replaced by 4 and 5, 4 and 9, or 6 and 9?\n"
+"\n"
+"How does this last problem change if we put the 3-unit and 5-unit weights on opposite sides of the fulcrum? Now it is easy to weigh a 1-unit weight by using 3 x 2 = 5 x 1 + 1 x 1. What other weights can you weigh this way?"
+msgstr ""
+"Tiene un peso de 3 unidades y un peso de 5 unidades para colocar en lados opuestos del fulcro. ¿Dónde deben colocarse para equilibrarse? La respuesta a esto pueden ser las distancias 5 y 3, pero también pueden ser 10 y 6, o incluso respuestas más grandes como 15 y 9. Esté dispuesto a discutir lo que se le ocurra a su niño/niña.\n"
+"\n"
+"Si tiene un peso de 3 unidades y uno de 5 unidades para poner en un lado de una palanca, ¿qué pesos puede colocar y a qué distancias del otro lado? Esta pregunta continúa con las preguntas de la página Haz que cuente al final del Capítulo 4. Como antes, explore las diferentes combinaciones de pesos. ¿Qué sucede si 3 y 5 se reemplazan por 4 y 5, 4 y 9, o 6 y 9?\n"
+"\n"
+"¿Cómo cambia este último problema si colocamos los pesos de 3 y 5 unidades en lados opuestos del fulcro? Ahora es fácil pesar un peso de 1 unidad usando 3 x 2 = 5 x 1 + 1 x 1. ¿Qué otros pesos puede pesar de esta manera?"
+
+#. type=template
+msgctxt "template"
+msgid "Mobiles"
+msgstr "Móviles"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. For the sake of these problems, we will assume the wires that create the mobile are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance - practice those puzzles before starting these.\n"
+"\n"
+"Start with the simplest mobiles, which are just levers in the air. Here is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works as a lever with the fulcrum at the hanging point. For this mobile we have 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2."
+msgstr ""
+"Se le dan algunos pesos y un diseño para un móvil que tiene algunos puntos de sujeción. El desafío es poner como máximo un peso por punto de sujeción para que el móvil se equilibre a lo largo de cada brazo. Para estos problemas, asumiremos que los cables que crean el móvil no tienen peso. Cada brazo del móvil es una palanca que debe equilibrarse, por lo que estos juegos son una extensión de la actividad Balance de palanca; practique con esos juego antes de comenzar con estos.\n"
+"\n"
+"Comience con los móviles más sencillos, que son solo palancas en el aire. Aquí hay una solución para poner los pesos de 1 a 4 en este móvil para equilibrarlo. Esto funciona como una palanca con el fulcro en el punto de suspensión. Para este móvil tenemos 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2."
+
+#. type=template
+msgctxt "template"
+msgid "If there is more than one level to the mobile, then each individual arm on each level must balance as a lever. For this next mobile, the two bottom arms balance because 1 x 3 = 3 x 1 and 4 x 1 = 2 x 2. For the next level up, you just add up the weights below it. For example, the weight on the left side is 1 + 3 = 4 – as far as the next level up is concerned, it does not matter where on that bottom arm the weights are located. So, for the next level up, (1 + 3) x 3 = (4 + 2) x 2 = 12, so the top level balances as well."
+msgstr "Si hay más de un nivel en el móvil, entonces cada brazo individual en cada nivel debe equilibrarse como una palanca. Para este próximo móvil, los dos brazos inferiores se equilibran porque 1 x 3 = 3 x 1 y 4 x 1 = 2 x 2. Para el siguiente nivel, simplemente sume los pesos debajo de él. Por ejemplo, el peso en el lado izquierdo es 1 + 3 = 4; en lo que respecta al siguiente nivel, no importa en qué parte del brazo inferior estén ubicados los pesos. Entonces, para el siguiente nivel, (1 + 3) x 3 = (4 + 2) x 2 = 12, por lo que el nivel superior también se equilibra."
+
+#. type=template
+msgctxt "template"
+msgid "Have fun making mobile puzzles for each other. Here is a last one to play with using each of the numbers from 1 to 6. Don’t worry about being fancy and using each number once. Any completed puzzle will be fun. Checking the levels we have: 2 x 2 = 4 x 1; 1 x 4 + (2 + 4) x 1 = 5 x 2; 3 x 2 = 6 x 1; and (1 + 2 + 4 + 5) x 3 = (3 + 6) x 4."
+msgstr "Diviértanse haciendo juegos móviles entre ustedes. Aquí hay un último para jugar usando cada uno de los números del 1 al 6. No se preocupe por ser elegante y usar cada número una vez. Cualquier juego completado será divertido. Comprobando los niveles tenemos: 2 x 2 = 4 x 1; 1 x 4 + (2 + 4) x 1 = 5 x 2; 3 x 2 = 6 x 1; y (1 + 2 + 4 + 5) x 3 = (3 + 6) x 4."
+
+#. type=template
+msgctxt "template"
 msgid "Divide Up the Box"
 msgstr "Divide la Caja"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"A rectangle, 4 by 4 or larger, with numbers in some of its squares,  is to be divided into smaller rectangles. Each number must end up  in a separate rectangle whose area is that number. \n"
+"\n"
+"For adults, constructing these puzzles is simple enough. Take a rectangle, divide its interior into rectangles, put numbers for the areas inside each interior rectangle, and then remove any sign of the interior rectangles. The only tricky part is putting numbers in places that make the puzzle reasonably easy to solve - you can always give hints as needed if your puzzle ends up being too hard."
+msgstr ""
+"Se divide un rectángulo de 4 por 4 o más grande, con números en algunos de sus cuadrados, en rectángulos más pequeños. Cada número debe terminar en un rectángulo separado cuya área sea ese número. \n"
+"\n"
+"Para los adultos, la creación de estos juegos es bastante simple. Tome un rectángulo, divida su interior en rectángulos, coloque números para las áreas dentro de cada rectángulo interior y luego elimine cualquier indicio de los rectángulos interiores. La única parte complicada es poner números en lugares que hagan que el juego sea razonablemente fácil de resolver; siempre puede dar pistas según sea necesario si su juego termina siendo demasiado difícil."
+
+#. type=template
+msgctxt "template"
+msgid "Letter Substitution Puzzles"
+msgstr "Juegos de Sustitución de Letras"
 
 #. type=template
 msgctxt "template"
@@ -4958,6 +5155,11 @@ msgstr "Bola de Billar que Rebote"
 
 #. type=template
 msgctxt "template"
+msgid "Playing With Shapes"
+msgstr "Jugando Con Figuras"
+
+#. type=template
+msgctxt "template"
 msgid "Investigation"
 msgstr "Investigación"
 
@@ -4976,6 +5178,11 @@ msgstr ""
 "Suponga que tiene un tablero de ajedrez de 8 por 8 y tiene una colección de fichas de 1 por 2. Encuentre una manera de cubrir exactamente el tablero de ajedrez con 32 de estas fichas de 1 por 2 es bastante simple.\n"
 "\n"
 "Empecemos quitando cuadrados del tablero de ajedrez y viendo qué pasa. Si quita una esquina del tablero de ajedrez, sabrá de inmediato que ya no puede cubrir el tablero de ajedrez con fichas porque las fichas siempre cubrirán un número par de casillas, y ahora hay 63 casillas. Bien, quite dos esquinas para hacer un número par de cuadrados restantes, ¿puede cubrirlo ahora? La respuesta depende de las dos esquinas que elimine. ¿Por qué? ¿Qué pasa si ya no te limitas a quitar esquinas, entonces qué sucederá?"
+
+#. type=template
+msgctxt "template"
+msgid "Product Game"
+msgstr "Juego de Productos"
 
 #. type=template
 msgctxt "template"
@@ -11097,8 +11304,18 @@ msgstr "Actividad"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Levers and Mobiles"
+msgstr "Palancas y Móviles"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Divide Up the Box"
 msgstr "Divide la Caja"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitution Puzzles"
+msgstr "Juegos de Sustitución de Letras"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11107,8 +11324,18 @@ msgstr "Bola de Billar que Rebote"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Playing With Shapes"
+msgstr "Jugando Con Figuras"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Investigation"
 msgstr "Investigación"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Product Game"
+msgstr "Juego de Productos"
 
 #. type=data_list
 msgctxt "data_list"
