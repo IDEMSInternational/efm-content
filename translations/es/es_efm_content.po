@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-25 00:01\n"
+"PO-Revision-Date: 2022-10-25 00:57\n"
 
 #. type=template
 msgctxt "template"
@@ -3204,8 +3204,113 @@ msgstr "Uno de estos no es como los demás"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"This activity has your child looking at four things and deciding which three share a property that the fourth one does not. The following is a quick list of examples together with explanations. Children often have a fresh way of looking at things and it is well worth listening to them to see if their reasoning is novel yet sound.\n"
+"\n"
+"There are several ways to present these four items to your child. The easiest for you is to simply say the list. If the items are easy to draw, you can draw them. If the items are hard to draw, you may be able to find photos or drawings in ads or magazines that you can cut out and select from. You may be able to use a single photo with lots of content and point out four things in the photo.\n"
+"\n"
+"For activities like this, once your child has practiced this for a while and has a solid idea of the activity, it is good to reverse your roles - your child will learn a lot by creating examples for you to solve. As before, their reasoning may be very different from yours, so listen carefully."
+msgstr ""
+"Esta actividad hace que su niño/niña observe cuatro cosas y decida cuáles tres cosas comparten una propiedad que no comparten con la cuarta. La siguiente es una lista rápida de ejemplos junto con explicaciones. Los niños a menudo tienen una nueva forma de ver las cosas y vale la pena escucharlos para ver si su razonamiento es novedoso pero sólido.\n"
+"\n"
+"Hay varias formas de presentar estos cuatro elementos a su niño/niña. Lo más fácil para ti es simplemente decir la lista. Si los elementos son fáciles de dibujar, puede dibujarlos. Si los elementos son difíciles de dibujar, es posible que pueda encontrar fotos o dibujos en anuncios o revistas que pueda recortar y seleccionar. Es posible que pueda usar una sola foto con mucho contenido y señalar cuatro cosas en la foto.\n"
+"\n"
+"Para actividades como esta, una vez que su niño/niña haya practicado esto por un tiempo y tenga una idea sólida de la actividad, es bueno invertir los roles; su niño/niña aprenderá mucho creando ejemplos para que usted los resuelva. Como antes, el razonamiento de los niños puede ser muy diferente al suyo, así que escuche con atención."
+
+#. type=template
+msgctxt "template"
+msgid "Groups of Four"
+msgstr "Grupos de Cuatro"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"A continuación, se muestran algunos ejemplos que le ayudarán a empezar.\n"
+"\n"
+"*conejo, perro, mariposa, almohada: los tres primeros están vivos y la almohada no.\n"
+"*banano, queso, martillo, zanahoria: el martillo es el único que no se puede comer.\n"
+"*queso, zapatos, abrigo, camisa: el queso es el único que no se puede vestir.\n"
+"*triángulo rojo, cuadrado rojo con un agujero, cuadrado verde, cuadrado rojo sin agujero - Cualquiera de los tres primeros puede ser el diferente. El triángulo rojo es el único que no es un cuadrado. El cuadrado rojo con un agujero es el único que no es sólido. El cuadrado verde es el único que no es rojo.\n"
+"*perro, gato, león, pez dorado: el león es el único animal de la lista que sería una mala mascota. También es bastante más grande que los otros animales. O tres de ellos tienen cuatro patas y el pez vive en el agua.\n"
+"rosal, roble, arce, pino: el rosal es el único que no es un árbol.\n"
+"*banco, mesa, sofá, taburete: la mesa es la única en la que uno no se sienta. O solo el sofá es suave.\n"
+"*ladrido, bocinazo, arco iris, clic: el arco iris es el único que no es un sonido.\n"
+"*calcetines, pantalones, cepillo de dientes, sombrero: el cepillo de dientes es el único que no se puede vestir.\n"
+"*silla, paraguas, sofá, taburete: el paraguas es el único en el que no querrás sentarte.\n"
+"*hormigas, cerdo, arañas, saltamontes - El cerdo es el único que no es un bicho pequeño.\n"
+"\n"
+"También puede hacer esto con imágenes en lugar de palabras. Adquiera el hábito de recortar imágenes de anuncios, revistas y cualquier otra cosa que se le presente para que pueda jugar con las imágenes."
+
+#. type=template
+msgctxt "template"
 msgid "Nim With One and Two"
 msgstr "Nim Con Uno y Dos"
+
+#. type=template
+msgctxt "template"
+msgid "The Game Rules"
+msgstr "Las Reglas del Juego"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"Se elige un número objetivo, digamos 10. Deje que su niño/niña elija si va primero o segundo. El total comienza en 0. Durante un turno, una persona elige sumar 1 o 2 al total. La primera persona en alcanzar el objetivo gana.\n"
+"\n"
+"Este juego también se puede jugar con resta. En esta versión, el total inicial comienza en el objetivo, que en este ejemplo es 10. En un turno dado, el jugador elige si restar 1 o 2 del total. La primera persona en llegar a 0 gana.\n"
+"\n"
+"Otra variación es que en lugar de ganar, el jugador obligado a jugar, pierde si el total va más allá del número objetivo. También puede experimentar con lo que sucede si permite que un jugador sume (o reste) 1, 2 o 3 en cada turno."
+
+#. type=template
+msgctxt "template"
+msgid "Understanding the Game"
+msgstr "Comprensión del Juego"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"Sin analizar nada, este juego es agradable de jugar y proporciona una buena práctica para sumar o restar 1 y 2. Podríamos dejarlo así. Sin embargo, también es un gran ejemplo de dos técnicas de resolución de problemas que puede mostrarle a su niño/niña cuando esté listo: 1) aprender de ejemplos más simples y 2) buscar patrones.\n"
+"\n"
+"Cualquiera de las versiones se puede estudiar de esta forma. Veamos uno: restando a partir de 10 y el que obtenga 0 gana. La parte difícil de este juego es que 10 está muy lejos de 0. Entonces, veamos una versión más simple. Cuando se les pide a los niños que hagan esto, a menudo sugieren comenzar en 5 o 6; les parece absurdo comenzar en 1, ¡pero eso es realmente lo que deberían hacer! A menudo es mejor comenzar de la manera más simple posible; eso significa comenzar desde 1. Si es su turno y la cuenta es 1, usted gana. Siga con los siguientes números. Si la cuenta es 2, usted gana. Si la cuenta es 3, usted debe perder; ya sea que reste 1 o 2, le dará a su oponente una posición ganadora. Si la cuenta es 4, usted ganará porque restará 1 y pondrá a su oponente en una posición perdedora. Continuando de esta manera, construya una tabla de resultados:\n"
+"\n"
+"1G - 2G - 3P - 4G - 5G - 6P - 7G - 8G - 9P - 10G"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"Esta tabla hace que sea obvio que hay un patrón repetido de 3. Al comenzar en 10, debe ir primero y restar 1. Lo satisfactorio de esto es que, una vez que se decide buscar versiones más simples del problema, el análisis es rápido y fácil, sin necesidad de un análisis complejo. ¡Ahora usted es un maestro en este juego y sabe qué hacer empezando por cualquier número! Cualquier versión de este juego base es igualmente fácil de analizar.\n"
+"\n"
+"Pero espere, hay una última pregunta. ¿Por qué hay un patrón repetitivo de 3? Una vez que un jugador está atascado en un número perdedor que es un múltiplo de tres, cada par de movimientos siguientes se pueden hacer para sumar 3: si el jugador perdedor resta 1, el otro jugador resta 2, y si el jugador perdedor resta 2 el otro jugador resta 1."
 
 #. type=template
 msgctxt "template"
@@ -3214,8 +3319,18 @@ msgstr "Conecta Los Puntos"
 
 #. type=template
 msgctxt "template"
+msgid "Making Everyday Scenes With Dots"
+msgstr "Crea Escenas Cotidianas con Puntos"
+
+#. type=template
+msgctxt "template"
 msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
 msgstr "Completa dibujos divertidos conectando puntos numerados. Una forma es tomar un dibujo simple, digamos de una casa, eliminar algunas líneas rectas y reemplazarlas con puntos numerados, que cuando se conectan en orden recrean el dibujo original."
+
+#. type=template
+msgctxt "template"
+msgid "Making Geometric Patterns With Angles"
+msgstr "Hacer Patrones Geométricos con Ángulos"
 
 #. type=template
 msgctxt "template"
@@ -3293,6 +3408,62 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Number Sudoku With Jigsaws"
+msgstr "Sudoku Numérico Con Rompecabezas"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This is similar to the Shape Sudoku puzzles, only now it uses numbers. If your child is not ready to recognize numerals yet, you can use quantities of dots instead. To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once.\n"
+"\n"
+"Create these puzzles for your child by starting with a completed puzzle with moveable pieces of numbered paper and then removing some of the pieces of paper."
+msgstr ""
+"Esta actividad es similar a los rompecabezas Shape Sudoku, solo que ahora usa números. Si su niño/niña aún no está listo para reconocer números, puede usar cantidades de puntos en su lugar. Para evitar borrar, use pedazos de papel con números (o con puntos) para resolver los rompecabezas.\n"
+"\n"
+"Para un rompecabezas de 4 por 4, cada fila y columna tiene los números del 1 al 4 una vez. Además, cada subregión marcada tiene los números del 1 al 4 una vez. \n"
+"\n"
+"Cree estos rompecabezas para su niño/niña comenzando con un rompecabezas completo con piezas móviles de papel numeradas y luego quite algunas de las piezas de papel."
+
+#. type=template
+msgctxt "template"
+msgid "4 by 4 Puzzles"
+msgstr "Rompecabezas de 4 por 4"
+
+#. type=template
+msgctxt "template"
+msgid "The 4 by 4 puzzles with subregions that are the 2 by 2 corners are exactly the same as the Shape Sudoku puzzles given before. You can go back to that page in these Resources to see solved versions of those puzzles. To create a numbered version of them, replace each colored shape by a number. For example, red circles could be 1, orange triangles 2, purple diamonds 3, and blue squares 4."
+msgstr "Los rompecabezas de 4 por 4 donde las subregiones son las esquinas de 2 por 2, son exactamente los mismos que los rompecabezas de Sudoku de formas presentados anteriormente. Puede volver a esa página en estos Recursos para ver las versiones resueltas de esos acertijos. Para crear una versión numerada de ellos, reemplace cada tipo de ficha de color por un número. Por ejemplo, los círculos rojos podrían ser 1, los triángulos naranjas 2, los diamantes violetas 3 y los cuadrados azules 4."
+
+#. type=template
+msgctxt "template"
+msgid "5 by 5 Puzzles"
+msgstr "Rompecabezas de 5 por 5"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"There are too many of these puzzles to come anywhere close to showing all the possible jigsaw geometries. These are here just to suggest what is possible. Your child may enjoy finding different ways of carving up a 5 by 5 square into pieces that have 5 small squares. \n"
+"\n"
+"Pieces that consist of 5 little squares are called “pentominoes.” Making shapes with pentominoes can be lots of fun. Maybe cut out some pentomino shapes out of stiff thick colored paper and see what designs you can make!"
+msgstr ""
+"Estos rompecabezas tienen demasiadas posibilidades geométricas como para mostrar todas aquí. Aquí solo se muestran algunos para sugerir lo que es posible. Su niño/niña puede disfrutar encontrando diferentes formas de dividir un cuadrado de 5 por 5 en piezas que tengan 5 cuadrados pequeños. \n"
+"\n"
+"Las piezas que constan de 5 pequeños cuadrados se llaman \"pentominós\". Hacer formas con pentominós puede ser muy divertido. ¡Puede intentar cortando algunas formas de pentóminos en papel de color grueso y rígido y experimentar con los diseños que puede hacer!"
+
+#. type=template
+msgctxt "template"
+msgid "6 by 6 Puzzles"
+msgstr "Rompecabezas de 6 por 6"
+
+#. type=template
+msgctxt "template"
+msgid "Okay, you are getting the idea. There are a lot of these! Here are just a few 6 by 6 puzzles to give you some ideas for what is possible. As always, play around with your child with these puzzle pieces and numbers. Perhaps design a few of these together."
+msgstr "De acuerdo, está entendiendo la idea. ¡Hay muchos de estos! Aquí se muestran solo algunos rompecabezas de 6 por 6 para darle algunas ideas de lo que es posible. Como siempre, juegue con su niño/niña con estas piezas y números del rompecabezas. Quizás puedan diseñar algunos de estos juntos."
+
+#. type=template
+msgctxt "template"
 msgid "Make Me a Liar"
 msgstr "Hazme un Mentiroso"
 
@@ -3313,6 +3484,37 @@ msgstr "Estos rompecabezas tienen islas numeradas (círculos) conectados por pue
 
 #. type=template
 msgctxt "template"
+msgid ""
+"The easiest versions have all the numbers filled in and the numbers go from 1 to the number of islands. You can vary this activity by starting at some number other than 1 and by leaving out some of the numbers.\n"
+"\n"
+"Puzzles with all the numbers are straightforward once your child is confident with counting. Those beginning puzzles are good counting practice and are also good for building up confidence in puzzle solving. The more challenging puzzles are the ones with numbers left out.\n"
+"\n"
+"Ease your child into these harder puzzles by leaving out just a few numbers and slowly move to leaving out more."
+msgstr ""
+"Las versiones más fáciles tienen todos los números completos y los números van del 1 al número de islas. Puede variar esta actividad comenzando en algún número distinto del 1 y omitiendo algunos de los números.\n"
+"\n"
+"Los acertijos con todos los números son sencillos una vez que su niño/niña sienta confianza contando. Los acertijos iniciales son una buena práctica para contar y también son buenos para desarrollar la confianza en la resolución de rompecabezas. Los rompecabezas más desafiantes son aquellos con números omitidos.\n"
+"\n"
+"Introduzca a su niño/niña en estos acertijos más difíciles omitiendo solo unos pocos números inicialmente e incremente la dificultad lentamente omitiendo más."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The first of these two puzzles has every other number left out. This makes it relatively easy to fill in the missing numbers. 1 must attach to 0 and 2, and there is only one place for that. 3 must attach to 2 and 4, and with 1 filled in there is only one remaining place for the 3. 5 must go in the remaining place between 4 and 6.\n"
+"\n"
+"The second puzzle is a little bit harder. 3 must attach to 2 and 4, so there is only one place for it. 5 must attach to 4, so there is only one place for it now. 6 must attach to the 5. Finally, 0 must go in the remaining spot."
+msgstr ""
+"En el primero de estos dos acertijos, el número está omitido cada otro número. Esto hace que sea relativamente fácil completar los números que faltan. 1 debe estar entre 0 y 2, y solo hay un lugar para eso. 3 debe estar entre 2 y 4, y con 1 completado, solo queda un lugar restante para el 3. 5 debe ir en el lugar restante entre 4 y 6.\n"
+"\n"
+"El segundo rompecabezas es un poco más difícil. 3 debe unirse a 2 y 4, por lo que solo hay un lugar para ello. 5 debe unirse a 4, por lo que ahora solo hay un lugar para él. 6 debe unirse al 5. Finalmente, 0 debe ir en el lugar restante."
+
+#. type=template
+msgctxt "template"
+msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
+msgstr "Para hacer el rompecabezas aún más difícil, podemos eliminar el 1 y jugar a eliminar algunos de los puentes. Diviértase con las variaciones y deje que su niño/niña también diseñe algunas de ellas."
+
+#. type=template
+msgctxt "template"
 msgid "Cutting Symmetric Shapes"
 msgstr "Corte de Formas Simétricas"
 
@@ -3320,6 +3522,80 @@ msgstr "Corte de Formas Simétricas"
 msgctxt "template"
 msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
 msgstr "Cree diseños doblando una hoja de papel y cortando el papel mientras está doblado. Esto se llama Kirigami."
+
+#. type=template
+msgctxt "template"
+msgid "One Fold"
+msgstr "Un Pliegue"
+
+#. type=template
+msgctxt "template"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "Si se dobla el papel una vez y se corta, se crea un diseño con un lado como la imagen especular del otro. Experimente recortando caras, lámparas o formas geométricas. La estrella y el árbol se produjeron con un solo pliegue, que se muestra a la izquierda, y luego el papel desplegado se muestra a la derecha."
+
+#. type=template
+msgctxt "template"
+msgid "Two Folds"
+msgstr "Dos Pliegues"
+
+#. type=template
+msgctxt "template"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "Si dobla el papel una vez y luego lo dobla una vez más en la dirección opuesta, producirá figuras con dos líneas de imágenes especulares. Esto facilita la creación de diseños como flores. La figura de la izquierda es el papel doblado dos veces y cortado para dejar el área azul, y la figura de la derecha muestra el papel desplegado."
+
+#. type=template
+msgctxt "template"
+msgid "Three Folds"
+msgstr "Tres Pliegues"
+
+#. type=template
+msgctxt "template"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "Experimente con varios pliegues y cortes. Esta figura se creó tomando una hoja de papel doblada dos veces y luego doblada una vez más en diagonal a través de la esquina de los pliegues anteriores."
+
+#. type=template
+msgctxt "template"
+msgid "Snowflakes"
+msgstr "Copos de Nieve"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This is a sequence of folds for creating 6-point snowflakes. Though it takes a few steps, don’t be put off by them - with a little practice they become quick and easy. \n"
+"\n"
+"Start by taking a standard sheet of paper and folding at one of the corners so the sides marked A and B meet. Leave the fold in place and cut along the line marked C.\n"
+"\n"
+"Take the triangle produced and fold it in half so that sides AB and C overlap.\n"
+"\n"
+"Put a temporary fold in this triangle and use the fold to mark the middle of side ABC. Undo the temporary fold.\n"
+"\n"
+"Make a fold over F. When you fold over F, you will be looking to have G placed so that G breaks the angle in half. \n"
+"\n"
+"Fold along G - do this fold underneath so that this new folded piece is underneath the other paper.\n"
+"\n"
+"Although not strictly necessary, it is a good idea to slice off the top of this figure. Otherwise, you might be tempted to use the region above the red dotted line without realizing that there isn’t paper on all levels.\n"
+"\n"
+"Lastly, fold this triangle in half. At last you are all set to do the cutting of your design!\n"
+"\n"
+"Have fun experimenting with many different combinations of cuts and colors!"
+msgstr ""
+"Esta es una secuencia de pliegues para crear copos de nieve de 6 puntos. Aunque se necesitan algunos pasos, no se deje intimidar por ellos: con un poco de práctica, se vuelven rápidos y fáciles. \n"
+"\n"
+"Comience tomando una hoja de papel estándar y dóblela en una de las esquinas para que los lados marcados con A y B se encuentren. Deje el papel doblado y corte a lo largo de la línea marcada C.\n"
+"\n"
+"Tome el triángulo producido y dóblelo por la mitad para que los lados AB y C se superpongan.\n"
+"\n"
+"Haga un pliegue temporal en este triángulo para marcar el centro del lado ABC. Deshaga el pliegue temporal.\n"
+"\n"
+"Haga un doblez sobre F. Cuando doble sobre F, tratara de que G se coloque de modo que G parta el ángulo por la mitad. \n"
+"\n"
+"Doble a lo largo de G: haga este doblez por debajo para que esta nueva pieza doblada quede debajo del papel.\n"
+"\n"
+"Aunque no es estrictamente necesario, es una buena idea cortar la parte superior de esta figura. De lo contrario, podría tener la tentación de utilizar la región por encima de la línea punteada roja sin darse cuenta de que no hay papel en todos los niveles.\n"
+"\n"
+"Por último, dobla este triángulo por la mitad. ¡Por fin estás listo para cortar tu diseño!\n"
+"\n"
+"¡Diviértete experimentando con muchas combinaciones diferentes de cortes y colores!"
 
 #. type=template
 msgctxt "template"
@@ -9527,6 +9803,11 @@ msgstr "Conecta Los Puntos"
 msgctxt "data_list"
 msgid "Shape Sudoku"
 msgstr "Sudoku de Formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sudoku With Jigsaws"
+msgstr "Sudoku Numérico Con Rompecabezas"
 
 #. type=data_list
 msgctxt "data_list"
