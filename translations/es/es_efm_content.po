@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-27 18:40\n"
+"PO-Revision-Date: 2022-10-27 19:43\n"
 
 #. type=template
 msgctxt "template"
@@ -11848,6 +11848,11 @@ msgstr "Esta historia trata sobre los números hasta el siete, los números ordi
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Counting Animals"
+msgstr "Contando Animales"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Creature with Two"
 msgstr "La Criatura con Dos"
 
@@ -11878,6 +11883,16 @@ msgstr "Esta historia enseña a contar hasta 7, a comparar y las formas. Practic
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Visiting Grandmother"
+msgstr "Visitando a la Abuela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 10 and shapes. Practice words: numbers up to 10, one more, two more, three more, counting by 2's, equal, rectangle, circle, concentric, straight, and curved."
+msgstr "Esta historia enseña a contar hasta 10 y las formas. Practica palabras como: los números hasta el 10, uno más, dos más, tres más, contando de 2 en 2, igual, rectángulo, círculo, concéntrico, recto y curvo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Where Is Lulu?"
 msgstr "¿Dónde está Lulú?"
 
@@ -11885,6 +11900,16 @@ msgstr "¿Dónde está Lulú?"
 msgctxt "data_list"
 msgid "This story has counting to 10, comparing sizes, and geometry. Practice words: numbers to 10, one more, one less, less, more, small, big, too, too big, smallest, largest, triangle, rectangle, pentagon, cylinder, same, on, under, and on top of."
 msgstr "Esta historia enseña a contar hasta 10, a comparar tamaños y geometría. Practica palabras como: los números hasta 10, uno más, uno menos, menos, más, pequeño, grande, demasiado, demasiado grande, el más pequeño, el más grande, triángulo, rectángulo, pentágono, cilindro, igual, sobre, debajo y encima de."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where Is My Bat?"
+msgstr "¿Dónde Está Mi Bate?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
+msgstr "Esta historia enseña a contar hasta 7, palabras de relación y formas. Practica palabras como: cuántos, números hasta el 7, uno más, uno menos, detrás, dentro, encima, alto, demasiado alto, debajo, rectángulo, caja y línea vertical."
 
 #. type=data_list
 msgctxt "data_list"
@@ -14933,6 +14958,26 @@ msgstr "¿Cuáles son algunas cosas que las plantas necesitan para ser felices y
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Mother Sun shined her light everywhere. \"I told you I would be back,\" she beamed."
+msgstr "Mama Sol irradió con su luz todos los lugares. \"Les dije que volvería\", sonrió."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The rays of the Sun extend very far on this page. Are there days when the rays of the Sun seem to reach all the way to you?"
+msgstr "Los rayos del Sol se extienden muy lejos en esta página. ¿Hay días en que los rayos del sol parecen llegar hasta ti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which are there the least of on this page: trees, mountains, or things in the sky?"
+msgstr "¿De qué hay una menor cantidad en esta página: árboles, montañas o cosas en el cielo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which are there the most of? Sometimes there are two things with the same amount with the most -- that's okay, just say both of them."
+msgstr "¿Cuáles son de los que más hay? A veces, hay dos cosas con la misma cantidad, está bien, solo di las dos."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "One day Tortoise was walking through the countryside. He was looking for something. He gazed into the distance and squinted at the grass. Then he walked past Snail."
 msgstr "Un día Tortuga estaba caminando por el campo. Estaba buscando algo. Miró hacia la distancia y entrecerró sus ojos a través de la hierba. Entonces caminó hacia Caracola."
 
@@ -15243,6 +15288,428 @@ msgstr "Para Tortuga es muy fácil llevar su hogar donde quiera que vaya. ¿Es f
 msgctxt "data_list"
 msgid "A nice thing about a home, if it is big enough, is that it can be shared with friends. It looks like a happy time for our group of friends in the story!"
 msgstr "Lo bueno de un hogar es que, si es lo suficientemente grande, se puede compartir con amigos. ¡Parece que nuestros amigos en la historia están disfrutando juntos un momento feliz!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Odongo and Apiyo waited for the school holidays to come."
+msgstr "Odongo y Apiyo esperaban que llegaran las vacaciones escolares."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They look excited. Do you suppose they have big plans for their holidays?"
+msgstr "Se ven emocionados. ¿Crees que tienen grandes planes para sus vacaciones?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there holidays that you get excited about?"
+msgstr "¿Hay vacaciones que te entusiasmen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a story about something you did during a recent holiday."
+msgstr "Cuenta una historia acerca de algo que hiciste durante tus últimas vacaciones."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It was time for them to visit their grandmother."
+msgstr "Era hora de que los niños visitaran a su abuela."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you ever get so excited about something that you had trouble sleeping?"
+msgstr "¿Alguna vez te has emocionado tanto por algo que te costaba dormir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles are shapes with four straight sides and corners like those on this page. Point to all the rectangles you can find on this page."
+msgstr "Los rectángulos son figuras con cuatro lados rectos y esquinas como las de esta página. Señala todos los rectángulos que ves en esta página."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to some of the rectangles around where you are."
+msgstr "Señala algunos rectángulos que estén a tu alrededor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They drove past mountains, wild animals, and farms."
+msgstr "Ellos pasaron en el carro por montañas, en medio de los animales salvajes y por las granjas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the wild animals you see on this page."
+msgstr "Cuenta todos los animales salvajes que hay en esta página."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you add two children to the five other animals, how many animals are there all together? What is two more than five?"
+msgstr "Cuando sumas dos niños a los cinco animales, ¿cuál es el total? ¿Cuánto es dos más cinco?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and describe the pairs of animals here."
+msgstr "Señala y describe las parejas de animales que hay en esta página."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After a while, Odongo and Apiyo fell asleep."
+msgstr "Después de un rato, Odongo y Apiyo se quedaron dormidos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people have trouble sleeping sitting up. Can you fall asleep while you're sitting?"
+msgstr "Algunas personas tienen problemas para dormir sentadas. ¿Puedes quedarte dormido mientras estás sentado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl is sleeping with her mouth open -- do you think she is snoring?"
+msgstr "La niña está durmiendo con la boca abierta, ¿crees que está roncando?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe the colors of some of the strips in this picture. There are yellows, blues, and greens on the bag, and yellows, oranges, and reds on their seat."
+msgstr "Describe los colores de algunas de las rayas que hay en esta imagen. Hay amarillas, azules y verdes en la bolsa, y amarillas, naranjas y rojas en el asiento."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They found their grandmother resting under a tree."
+msgstr "Los niños encontraron a su abuela descansando debajo de un árbol."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have friends or relatives you like to go on trips to visit?"
+msgstr "¿Tienes amigos o familiares a los que te gustaría visitar durante un viaje?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Remember a happy visit you had. What do you like to do when you visit someone?"
+msgstr "Recuerda una visita feliz que hayas hecho. ¿Qué te gusta hacer cuando visitas a alguien?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will these two do with their grandmother? Will they hear stories, cook meals, and go on walks together?"
+msgstr "¿Qué harán los dos niños con su abuela? ¿Crees que contarán cuentos, cocinarán y darán paseos juntos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Grandmother danced and sang. The children gave her presents."
+msgstr "La abuela bailó y cantó. Los niños le dieron regalos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you like to get as a present?"
+msgstr "¿Qué te gustaría recibir como regalo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What feels so good about getting a present from someone?"
+msgstr "¿Qué es lo que más te gusta de recibir un regalo de una persona?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The background on the last page had blues and greens. This one has yellows and oranges. What feels different to you when you see the colors on these two pages?"
+msgstr "El fondo de la página anterior tenía colores azules y verdes. Este tiene amarillos y naranjas. ¿Cómo te sientes con la diferencia de colores que hay en estas dos páginas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Grandmother blessed Odongo and Apiyo in a traditional way."
+msgstr "La abuela bendijo a Odongo y Apiyo de manera tradicional."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving a blessing is a solemn and dear thing."
+msgstr "Bendecir es algo solemne y amable de hacer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The background color has changed again. How does it make you feel?"
+msgstr "El color del fondo ha cambiado nuevamente. ¿Cómo te hace sentir este color?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this an exciting or calm part of the story? Does the blue color enhance that feeling?"
+msgstr "¿Es este un momento emocionante o mas bien tranquilo de la historia? ¿Crees que el color azul realza esa sensación?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Odongo and Apiyo played with butterflies and birds."
+msgstr "Odongo y Apiyo jugaron con las mariposas y los pájaros."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen birds and butterflies with so many colors?"
+msgstr "¿Has visto alguna vez pájaros y mariposas con tantos colores?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count the number of butterflies, or is that a bigger number than you can count?"
+msgstr "¿Puedes contar el número de mariposas que hay?, o ¿es un número que aún no sabes contar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The colors in the background form ever larger circles -- they are called concentric circles. How do all these colors together make you feel?"
+msgstr "Los colores del fondo forman círculos cada vez más grandes: se llaman círculos concéntricos. ¿Cómo te sientes al ver todos estos colores juntos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They climbed trees.\n"
+"\n"
+"They splashed in the water of the lake."
+msgstr ""
+"Ellos escalaron árboles.\n"
+"\n"
+"Ellos chapotearon en el agua del lago."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How did Odongo get up into a tree with no low branches?"
+msgstr "¿Cómo se subió Odongo al árbol si no habían ramas bajas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many branches are on this tree? Did you count all of them including the small ones, or just the large ones?"
+msgstr "¿Cuántas ramas hay en este árbol? ¿Las contaste todas, incluidas las pequeñas, o solo contaste las grandes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you go in a lake or pond with your shoes on? Why do you suppose Apiyo did that?"
+msgstr "¿Te has metido alguna vez en un lago o en un estanque con los zapatos puestos? ¿Por qué crees que Apiyo hizo eso?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They were tired.\n"
+"\n"
+"They fell asleep before finishing their dinner."
+msgstr ""
+"Los niños estaban cansados.\n"
+"\n"
+"Ellos se quedaron dormidos antes de terminar su cena."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been so tired that you fell asleep in the middle of eating?"
+msgstr "¿Alguna vez has estado tan cansado que te quedaste dormido mientras comías?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think they slept at the table all night?"
+msgstr "¿Crees que durmieron en la mesa toda la noche?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the lines in this picture are straight, like the boards on the table, and some are curved, like the edges of the bowls. Look around you. Do you mostly see straight or curved lines?"
+msgstr "Algunas de las líneas de esta imagen son rectas como las tablas de la mesa, y otras son curvas como los bordes de los tazones. Mira a tu alrededor. ¿Ves líneas rectas o curvas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They helped grandmother.\n"
+"\n"
+"They collected eggs and picked vegetables."
+msgstr ""
+"Los niños ayudaron a su abuela.\n"
+"\n"
+"Ellos recogieron huevos y verduras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and describe all the pairs of things in this picture."
+msgstr "Señala y describe los pares de objetos que hay en esta imagen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of the eggs Apiyo is holding, how many can you see?"
+msgstr "De los huevos que sostiene Apiyo, ¿cuántos puedes ver?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like helping out with chores?"
+msgstr "¿Te gusta ayudar con los quehaceres?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Grandmother taught Odongo and Apiyo how to cook different foods."
+msgstr "La abuela le enseñó a Odongo y Apiyo cómo cocinar diferentes alimentos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like helping with the cooking sometimes?"
+msgstr "¿Te gusta ayudar de vez en cuando a cocinar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any favorite foods you like to help with?"
+msgstr "¿Tienes una comida favorita que te gustaría ayudar a preparar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of the pleasures of traveling is getting to eat new foods. Do you like eating new foods?"
+msgstr "Uno de los placeres de viajar es poder comer nuevos alimentos. ¿Te gusta probar nuevos alimentos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Odongo took grandmother's cows to graze.\n"
+"\n"
+"They ate a neighbor's crops."
+msgstr ""
+"Odongo llevó a pastar las vacas de la abuela.\n"
+"\n"
+"Ellas se comieron la cosecha de un vecino."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at Odongo, the neighbor, and the cows, what is each of them feeling?"
+msgstr "Al mirar a Odongo, el vecino y las vacas, ¿cómo crees que se siente cada uno?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Odongo will be given a second chance after this mistake?"
+msgstr "¿Crees que Odongo tendrá una segunda oportunidad después de este error?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you make mistakes, are you given another chance?"
+msgstr "Cuando cometes errores, ¿te dan otra oportunidad?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They went to their grandmother's stall at the market."
+msgstr "Los niños fueron al puesto de su abuela en el mercado."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who is the new woman in this picture and what is she doing?"
+msgstr "¿Quién es la nueva mujer en esta imagen y qué está haciendo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is grandmother's umbrella for? Is it raining?"
+msgstr "¿Para qué sirve el paraguas de la abuela? ¿Está lloviendo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the different kinds of food grandmother is selling."
+msgstr "Cuenta los diferentes tipos de alimento que vende la abuela."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In the evening, they helped grandmother to count her money."
+msgstr "Por la noche los niños ayudaron a la abuela a contar su dinero."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you tell that it is evening from this picture?"
+msgstr "¿Podrías decir que es de noche en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you sometimes get to count money? If you do, is it fun to do?"
+msgstr "¿A veces cuentas dinero? Si lo haces, ¿te parece divertido hacerlo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you count things, do you come up with faster ways to do it? For example, counting things in pairs can be twice as fast."
+msgstr "Cuando cuentas cosas, ¿se te ocurren formas más rápidas de hacerlo? Por ejemplo, contar cosas en pares puede ser el doble de rápido."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Soon, the holidays were over.\n"
+"\n"
+"Grandmother packed food for their journey."
+msgstr ""
+"Pronto, las vacaciones terminaron. \n"
+"\n"
+"La abuela les empacó comida para su viaje."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The children look happy. Are they happy about leaving?"
+msgstr "Los niños se ven felices. ¿Crees que están contentos de irse?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the first time we're seeing Odongo's hat. Is it a present from his grandmother?"
+msgstr "Esta es la primera vez que vemos el sombrero de Odongo. ¿Es un regalo de su abuela?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their clothes have lots of colors. How many colors are in the clothes you are wearing?"
+msgstr "Su ropa tiene muchos colores. ¿Cuántos colores tienes en la ropa que llevas puesta?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The children did not want to leave.\n"
+"\n"
+"\"Grandmother, come with us.\""
+msgstr ""
+"Los niños no querían irse.\n"
+"\n"
+"\"Abuela, ven con nosotros\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the children feeling in this picture?"
+msgstr "¿Qué sienten los niños en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What did their grandmother say when the children asked her to come with them?"
+msgstr "¿Qué dijo su abuela cuando los niños le pidieron que los acompañara?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The children and their father make three people. When you add one more for their grandmother, how many people is that all together?"
+msgstr "Los niños y su padre suman tres personas. Cuando agregas uno más como la abuela, ¿cuántas personas son en total?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Odongo and Apiyo hugged grandmother.\n"
+"\n"
+"\"Goodbye, grandmother,\" they said."
+msgstr ""
+"Odongo y Apiyo abrazaron a la abuela.\n"
+"\n"
+"\"Adiós, abuela\", dijeron los niños."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a hard time saying goodbye to people you care a lot about? Does it make you feel sad?"
+msgstr "¿Te cuesta despedirte de las personas que son importantes para ti? ¿Te hace sentir triste?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their arms and legs come in pairs. Count them by counting by 2's."
+msgstr "Sus brazos y piernas vienen en pares. Cuéntalos contando de 2 en 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do the number of arms compare to the number of legs?"
+msgstr "¿Cuántos brazos hay en comparación con el número de piernas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is better, city life or village life?"
+msgstr "¿Qué es mejor, la vida en la ciudad o la vida en un pequeño pueblo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do the number of girls compare to the number of boys?"
+msgstr "¿Cómo se compara el número de niñas con respecto al número de niños?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you combine the three girls with the three boys, how many children are there? What is three more than three?"
+msgstr "Si sumas las tres niñas con los tres niños, ¿cuántos niños hay en total? ¿Cuánto es tres más tres?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Instead of counting them as three plus three more, count them by 2's and see if you get the same number."
+msgstr "En lugar de contarlos como tres más tres, cuéntalos de 2 en 2 y mira si obtienes el mismo número."
 
 #. type=data_list
 msgctxt "data_list"
@@ -15589,6 +16056,146 @@ msgstr "¿Crees que a Lulú le gusta mirar y leer los libros?"
 msgctxt "data_list"
 msgid "Do you?"
 msgstr "¿Y a ti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I have lost my bat, and I cannot find it."
+msgstr "He perdido mi bate y no puedo encontrarlo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Though you can only see five of them, there are six panes in the window. What else is there six of?"
+msgstr "Aunque solo puedes ver cinco, hay seis cristales en la ventana. ¿Cuáles objetos tienen seis unidades en la imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The number of rungs on the ladder is one more than the number of panes -- how many? The number of panes you can see is five, which is one less than the total number of panes."
+msgstr "El número de peldaños de la escalera es uno más que el número de cristales en la ventana, ¿cuántos peldaños hay? El número de cristales que puede ver es cinco, que es uno menos que el número total de cristales que hay en la ventana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles have four straight sides and corners like those on this page. Point to and describe the rectangles in the picture."
+msgstr "Los rectángulos tienen cuatro lados rectos y esquinas como los de esta página. Señala y describe los rectángulos que hay en la imagen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked behind the door. It was not there."
+msgstr "Miré detrás de la puerta. No estaba allí."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice the girl outside the window?"
+msgstr "¿Viste a la niña que está afuera de la ventana?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bat is not behind the door -- could it be inside the box?"
+msgstr "El bate no está detrás de la puerta, ¿podrá estar dentro de la caja?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A box is a 3-dimensional shape with rectangles on every side. Do you see anything else similar to a box? (the door)"
+msgstr "Una caja es una figura tridimensional que tiene rectángulos en cada lado. ¿Ves algo más que sea parecido a una caja? (la puerta)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it on the shelf. I could not find it there."
+msgstr "Lo busqué en el estante, pero no lo encontré ahí."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window bangs into the shelf when it opens. That seems like a bad design!"
+msgstr "La ventana se golpea contra el estante cuando se abre. ¡Parece que hay un mal diseño!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this shelf is too high for a child's room?"
+msgstr "¿Crees que este estante es demasiado alto para la habitación de un niño?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There's that girl riding around again. Notice that the buildings behind her are shaped like big boxes. A lot of buildings are."
+msgstr "Ahí está la niña dando vueltas otra vez. Observa que los edificios detrás de ella tienen forma de cajas grandes. Muchos edificios son así."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it under the bed. Not there either."
+msgstr "Lo busqué debajo de la cama. Allí tampoco estaba."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl's dress matches the bag hanging by the door. Do you think the bag is hers?"
+msgstr "El vestido de la niña hace juego con el bolso que cuelga junto a la puerta. ¿Crees que la bolsa es de ella?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of a place the boy hasn't looked?"
+msgstr "¿Puedes pensar en un lugar en el que el niño no haya mirado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vertical lines are lines that go up and down. How many vertical pieces are there to the blue frame on the side of the bed? The number of spaces between those vertical pieces is one less. How many is that?"
+msgstr "Las líneas verticales son líneas que suben y bajan. ¿Cuántas piezas verticales hay en el marco azul al lado de la cama? El número de espacios entre esas piezas verticales es uno menos. ¿Cuántos espacios hay?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched inside the box. There was no sign of it."
+msgstr "Busqué dentro de la caja. No había señales del bate."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy's shirt has a stripe on it. Do you see other stripes in this picture? Do you see stripes around where you are?"
+msgstr "La camisa del niño tiene una raya. ¿Ves otras rayas en esta imagen? ¿Ves rayas en el lugar donde estás?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pink is a light shade of red. If you include pink, how many things are red in this picture?"
+msgstr "El rosa es un tono claro de rojo. Si incluyes el color rosa, ¿cuántos objetos rojos hay en esta imagen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don't count pink, you get one less thing that is red. How many is that?"
+msgstr "Si no cuentas los objetos de color rosa, obtienes un número menor de objetos de color rojo. ¿Cuánto es eso?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched the attic. It was not there."
+msgstr "Busqué en el ático. No estaba allí."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy has looked in a lot of places. How long do you look for something before you give up?"
+msgstr "El niño ha buscado en muchos lugares. ¿Cuánto tiempo buscas algo antes de rendirte?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you have trouble finding something, what are some places you end up finding it?"
+msgstr "Cuando tienes problemas para encontrar un objeto, ¿cuáles son algunos de los lugares en los que terminas encontrándolo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the window no longer bangs into the shelf. Did the shelf move?"
+msgstr "Observa que la ventana ya no golpea contra el estante. ¿Se movió el estante?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked here, there, and everywhere. I could not find it anywhere."
+msgstr "Miré aquí, allá y por todas partes. No pude encontrarlo en ningún lado."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at his face, what do you think the boy is feeling?"
+msgstr "Mira la cara del niño, ¿Cómo crees que se siente el niño?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever lost something and never found it?"
+msgstr "¿Alguna vez has perdido algo y nunca lo has encontrado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl is smiling in the window. Do you think she knows where the bat is?"
+msgstr "La niña está sonriendo en la ventana. ¿Crees que sabe dónde está el bate?"
 
 #. type=data_list
 msgctxt "data_list"
