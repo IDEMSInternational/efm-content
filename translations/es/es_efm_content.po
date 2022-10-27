@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-25 19:33\n"
+"PO-Revision-Date: 2022-10-27 17:40\n"
 
 #. type=template
 msgctxt "template"
@@ -11855,6 +11855,16 @@ msgstr "La Criatura con Dos"
 msgctxt "data_list"
 msgid "This story has counting to seven and shapes. Practice words: small numbers, especially one and two; and comparing words such as more, equal, same, and less. Also, talk about squares, circles, solids, stripes, bigger, and smaller."
 msgstr "Esta historia trata de contar hasta el siete y las figuras. Palabras para practicar: números pequeños, especialmente uno y dos; palabras comparativas como más, igual, mismo y menos. Además, conversen acerca de los cuadrados, los círculos, los sólidos, las rayas, más grande y más pequeño."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo Our Cow"
+msgstr "Pendo, Nuestra Vaca"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has quantities up to six and comparing. Practice words: numbers to six, more, most, less, least, and rectangle."
+msgstr "Esta historia enseña las cantidades hasta seis y comparaciones. Practica palabras como: los números hasta seis, más, mayor cantidad, menos, menor cantidad y rectángulo."
 
 #. type=data_list
 msgctxt "data_list"
