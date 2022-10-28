@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-28 19:25\n"
+"PO-Revision-Date: 2022-10-28 20:25\n"
 
 #. type=template
 msgctxt "template"
@@ -12388,6 +12388,16 @@ msgstr "Esta historia trata de cantidades pequeñas hasta el ocho. Palabras para
 
 #. type=data_list
 msgctxt "data_list"
+msgid "My School Clothes"
+msgstr "Mi Ropa Para la Escuela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, shapes, and colors. Practice words: numbers to 5, color names, too, too big, too small, just right, matching colors, and rectangle."
+msgstr "Esta historia trata de contar hasta cinco, las figuras y los colores. Palabras para practicar: los números hasta el cinco, los nombres de los colores, demasiado, demasiado grande, demasiado pequeño, de la talla correcta, colores que combinan y rectángulo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Pendo Our Cow"
 msgstr "Pendo, Nuestra Vaca"
 
@@ -15077,6 +15087,51 @@ msgstr "Cuenta los pollitos y cuenta cuántas aves hay en total."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "One more than three makes how many?"
+msgstr "¿Cuánto es uno más que tres?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog says, \"Woof.\""
+msgstr "El perro dice, \"Guau\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog bowl is empty and the dog looks hungry."
+msgstr "El tazón del perro está vacío y el perro se ve hambriento."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of bags by the fence."
+msgstr "Cuenten juntos el número de sacos cerca de la valla."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of tines on the rake in the corner. Can you find other things to count?"
+msgstr "Cuenten juntos el número de dientes en el rastrillo de la esquina. ¿Puedes encontrar más objetos para contar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The farmer says, \"Shhh!\""
+msgstr "El granjero dice, \"¡Chist!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does the farmer say \"Shhh?\"  Is the farmer tired of being pestered by the animals?"
+msgstr "¿Por qué el granjero dice \"¡Chist!\"?  ¿Está cansado el granjero de que le molesten los animales?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the animals waiting for?"
+msgstr "¿Qué están esperando los animales?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals are waiting for their food?"
+msgstr "¿Cuántos animales están esperando por alimento?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "One night Grandpa was tucking me in. His hands were soft and his hair was thin."
 msgstr "Una noche el abuelo me estaba arropando. Sus manos eran suaves y su cabello delgado."
 
@@ -15752,6 +15807,16 @@ msgstr "¿Se te ocurren otros animales que tengan cero patas?"
 msgctxt "data_list"
 msgid "There is a cloud next to Maguru that is quite strange! The cloud is between Snake and Maguru's home. It must be a very tiny cloud!"
 msgstr "¡Hay una nube a lado de Maguru que es bastante extraña! La nube está entre Serpiente y la casa de Maguru. ¡Debe ser una nube muy pequeña!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My sister's dress is too big for me!"
+msgstr "¡El vestido de mi hermana es demasiado grande para mí!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you sometimes wear someone else's clothes? Is it fun to imagine you are that other person when you do it?"
+msgstr "¿Te pones a veces la ropa de alguien más? ¿Es divertido imaginar que eres esa persona cuando lo haces?"
 
 #. type=data_list
 msgctxt "data_list"
