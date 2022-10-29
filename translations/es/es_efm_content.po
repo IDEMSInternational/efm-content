@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-28 20:25\n"
+"PO-Revision-Date: 2022-10-29 17:23\n"
 
 #. type=template
 msgctxt "template"
@@ -15817,6 +15817,57 @@ msgstr "¡El vestido de mi hermana es demasiado grande para mí!"
 msgctxt "data_list"
 msgid "Do you sometimes wear someone else's clothes? Is it fun to imagine you are that other person when you do it?"
 msgstr "¿Te pones a veces la ropa de alguien más? ¿Es divertido imaginar que eres esa persona cuando lo haces?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell the dress and belt are too big?"
+msgstr "¿Cómo sabes que el vestido y el cinturón son demasiado grandes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. Point to rectangles in the picture. Do you see any rectangles where you are?"
+msgstr "Un rectángulo es una figura de cuatro lados como esta página. Señala los rectángulos en la imagen. ¿Ves algún rectángulo en el lugar donde tú estás?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My brother's jersey is also too big for me."
+msgstr "El suéter de mi hermano también es muy grande para mí."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at her face, how does she feel about having a jersey that is too big?"
+msgstr "Mira su cara, ¿cómo se siente con el suéter que es demasiado grande?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the orange dress she has on the right size for her?"
+msgstr "¿El vestido naranja que trae puesto es de la talla correcta para ella?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the new rectangles in this picture."
+msgstr "Observa los rectángulos nuevos en esta imagen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"My bag is big.\n"
+"\n"
+"But not too big!"
+msgstr ""
+"Mi mochila es grande. \n"
+"\n"
+"¡Pero no demasiado grande!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this bag too big for her?"
+msgstr "¿La mochila es demasiado grande para ella?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the clasps on the bag."
+msgstr "Cuenten juntos los broches de la mochila."
 
 #. type=data_list
 msgctxt "data_list"
