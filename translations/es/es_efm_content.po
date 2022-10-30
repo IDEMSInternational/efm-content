@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-30 15:23\n"
+"PO-Revision-Date: 2022-10-30 16:23\n"
 
 #. type=template
 msgctxt "template"
@@ -15246,6 +15246,71 @@ msgstr "¡Tres millones son muchos caballos! ¿Puedes pensar en algo a tu alrede
 msgctxt "data_list"
 msgid "Have you heard of working people going on strike near you? Did the strike work, or did the strikers give up before getting what they wanted?"
 msgstr "¿Has escuchado de obreros que se han puesto en huelga cerca de ti? ¿Funcionó la huelga o se rindieron los trabajadores antes de que pudieran obtener lo que querían?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you do when you really want something and it doesn't seem like you are going to get it? Does it work?"
+msgstr "¿Qué es lo que haces cuando hay algo que quieres mucho y parece que no lo vas a conseguir? ¿Funciona eso?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"So, the cart drivers were forced to change.\n"
+"\n"
+"They agreed to better conditions and fair treatment for all horses.\n"
+"\n"
+"They learned how to look after the horses, and keep them healthy."
+msgstr ""
+"Entonces, los conductores de carreta fueron obligados a cambiar.\n"
+"\n"
+"Accedieron a las mejores condiciones y al tratamiento justo de todos los caballos. \n"
+"\n"
+"Aprendieron a cuidar de sus caballos y a mantenerlos sanos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking better care of the horses is the right thing to do for the horses, and it's the smart thing to do to get the horses to do better work!"
+msgstr "Cuidar de los caballos de una mejor manera es hacer lo correcto para los caballos, ¡y es la decisión más inteligente para hacer que los caballos trabajen mejor!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If it's a good idea to take better care of the horses, why weren't the drivers doing this all along?"
+msgstr "Si era una buena idea tratar bien a los caballos, ¿por qué no hicieron esto los conductores desde el principio?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people do something that seems easy, but is a bad idea in the long run. Have you ever put off doing something that you wished you hadn't?"
+msgstr "A veces las personas hacen algo que parece ser fácil, pero es una mala idea a la larga. ¿Alguna vez has tratado de hacer algo para luego arrepentirte?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Slowly, the horses' lives improved.\n"
+"\n"
+"They got enough food and rest. Their harnesses fitted. They got better shoes for their hooves.\n"
+"\n"
+"Old Chalew became a hero to all horses!"
+msgstr ""
+"Poco a poco, la vida de los caballos fue mejorando. \n"
+"\n"
+"Recibieron suficiente comida y descanso. Sus arreos les quedaban bien. Recibieron mejores herraduras para sus cascos. \n"
+"\n"
+"¡El viejo Chalew se convirtió en un héroe para todos los caballos!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chalew took a risk and helped an important cause. Can you think of a person who has done that?"
+msgstr "Chalew tomó un riesgo y ayudó a una causa importante. ¿Puedes pensar en una persona que haya hecho lo mismo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever gone out of your way to help a person or group of people who needed help? Did you make a difference for them?"
+msgstr "¿Alguna vez has hecho un esfuerzo para ayudar a una persona o a un grupo de personas que necesitaban ayuda? ¿Lograste tener un impacto positivo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does it feel when you help others?"
+msgstr "¿Cómo te sientes cuando ayudas a otros?"
 
 #. type=data_list
 msgctxt "data_list"
