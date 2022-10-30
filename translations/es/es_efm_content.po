@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-30 20:36\n"
+"PO-Revision-Date: 2022-10-30 21:36\n"
 
 #. type=template
 msgctxt "template"
@@ -2049,6 +2049,17 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
+"Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones. Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s. \n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"Utilice un tablero de Tic-Tac-Toe y fichas con los números del 1 al 9 en ellos. Un jugador tiene los números impares y el otro los pares. Los jugadores se turnan para colocar una ficha, y el jugador impar es el primero. El primer jugador en completar 3 seguidos cuya suma sea 15 gana. Una variación es seguir adelante, llenar todos los cuadrados y ver qué jugador hizo la mayor cantidad del total de 15.\n"
+"\n"
+"Un juego relacionado es tener un atacante y un defensor. El atacante va primero (el primer movimiento no puede ser 5 en el centro) e intenta obtener 15, y el defensor intenta detener al atacante."
+
+#. type=template
+msgctxt "template"
+msgid ""
 "There are many versions of this game. The idea is always the same: deal a grid of cards face down, say 4 by 4, and the players take turns turning over two cards. If the cards match, the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends. The player with the most cards wins.\n"
 "\n"
 "Here are other ideas for how cards can match:\n"
@@ -2439,6 +2450,31 @@ msgstr ""
 msgctxt "template"
 msgid "Chapter Topics"
 msgstr "Temas del Capítulo"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"* Counting to 200 – It’s time to introduce the 100’s place by looking at the numbers from 100 to 200.\n"
+"* Skip Counting to 100 – This is not new, but it is an important skill to reinforce.\n"
+"* Expanded Form and Place Value – This is a foundational skill, so it will be reinforced further.\n"
+"* Double-Digit Addition and Subtraction – Skip counting will help make this seem effortless.\n"
+"* All Single-Digit Multiplication – It is time to fill in the missing gaps for 6, 7, 8, and 9.\n"
+"* Rectangle Area is Length x Width – This is an important idea in its own right. This fact will also provide many opportunities for fun new games and puzzles involving multiplication and factoring.\n"
+"* Factoring – Your child will learn the beauty of how numbers break apart into factors. There are several new words here. 1 is a unit. A number bigger than 1 that is only divisible by 1 and itself is prime. A number bigger than 1 that is not prime is composite. 3 squared is 3 x 3. 3 cubed is 3 x 3 x 3. And 3 raised to a power, means to multiply 3 by itself that many times - for example, 3 to the fourth is 3 x 3 x 3 x 3.\n"
+"* Factors, Divisors, and Multiples – 3 divides evenly into 12. That makes 3 a factor or divisor of 12, and 12 a multiple of 3. 3 is a common factor of 12 and 15, and 12 is a common multiple of 4 and 6.\n"
+"* Single-Digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
+"* Fact Families for Multiplication and Division – The connection between these two operations will be reinforced. For example, 2 x 5 = 10, 5 x 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
+msgstr ""
+"* Contar hasta 200 — es hora de introducir el lugar de los 100 observando los números del 100 al 200.\n"
+"* Salteando el conteo hasta el 100 — esto no es nuevo, pero es una habilidad importante para reforzar.\n"
+"* Forma ampliada y valor posicional — esta es una habilidad fundamental, por lo que se reforzará aún más.\n"
+"* Suma y resta de dos dígitos — contar con saltos ayudará a que esto parezca sencillo.\n"
+"* Multiplicación de un solo dígito — es hora de completar los espacios que faltan para 6, 7, 8 y 9. \n"
+"* El área del rectángulo es lo largo x ancho — esta es una idea importante por derecho propio. Este hecho también brindará muchas oportunidades para nuevos juegos divertidos y rompecabezas que involucran multiplicación y factorización.\n"
+"* Factorización — su niño/niña aprenderá la belleza de cómo los números se dividen en factores. Aquí hay varias palabras nuevas. 1 es una unidad. Un número mayor que 1 que solo es divisible por 1 y que en sí mismo es primo. Un número mayor que 1 que no es primo es compuesto. 3 al cuadrado es 3 x 3. 3 al cubo es 3 x 3 x 3. Y 3 elevado a una potencia elevada, significa multiplicar 3 por sí mismo tantas veces; por ejemplo, 3 elevado a cuarta es 3 x 3 x 3 x 3.\n"
+"* Factores, Divisores y Múltiplos — 3 se divide uniformemente en 12. Eso hace que 3 sea un factor o divisor de 12 y 12 un múltiplo de 3. 3 es un factor común de 12 y 15, y 12 es un múltiplo común de 4 y 6.\n"
+"* División de un solo dígito — su niño/niña aprenderá la división indirectamente en la forma de encontrar un factor faltante en un problema de multiplicación.\n"
+"* Familias de operaciones para multiplicación y división — se reforzará la conexión entre estas dos operaciones. Por ejemplo, 2 x 5 = 10, 5 x 2 = 10, 10/2 = 5 y 10/5 = 2 forman una familia de operaciones."
 
 #. type=template
 msgctxt "template"
@@ -4405,6 +4441,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Difference Pyramic"
+msgstr "Pirámide de Diferencias"
+
+#. type=template
+msgctxt "template"
 msgid ""
 "The challenge is to place the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers below it. \n"
 "\n"
@@ -4478,6 +4519,17 @@ msgstr ""
 msgctxt "template"
 msgid "Enclosed Sums"
 msgstr "Suma Cerrada"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes  that border it. Similar to Shape Sums puzzles, circles may have any value, and the value for a non-circular shape must be the same as any other shape of the same type. For example, all squares must have the same value and all hexagons would have the same value. You can optionally add the rule that different non-circular shapes must have different values - for example, that squares and hexagons must have different values.\n"
+"\n"
+"The puzzle for your child is to figure out the numbers in the shapes and regions that are not supplied."
+msgstr ""
+"Estos juegos matemáticos tienen figuras conectadas por líneas. Cada región encerrada tiene un número que es la suma de las figuras que la rodean (ej. 7 y 9 en la figura de abajo). Al igual que en los juegos de Sumas de figuras, los círculos pueden tener cualquier valor y el valor de una figura no circular debe ser el mismo que el de cualquier otra figura del mismo tipo. Por ejemplo, todos los cuadrados deben tener el mismo valor y todos los hexágonos deben tener el mismo valor. También puede agregar la regla de que las diferentes figuras no circulares necesitan tener valores diferentes; por ejemplo, que los cuadrados y los hexágonos deben tener valores diferentes.\n"
+"\n"
+"El reto para su niño/niña es encontrar los números en las figuras y regiones que no se proporcionan."
 
 #. type=template
 msgctxt "template"
@@ -5453,6 +5505,11 @@ msgstr "El primer jugador mueve una ficha a cualquier número del 1 al 9 en los 
 
 #. type=template
 msgctxt "template"
+msgid "Bigger Boards"
+msgstr "Tableros más Grandes"
+
+#. type=template
+msgctxt "template"
 msgid "These playing boards can be made as large as you like, though they do get to be quite large pretty quickly. Here are a few larger boards with the corresponding larger number ranges beneath them."
 msgstr "Estos tableros de juego se pueden hacer tan grandes como quiera, aunque llegan a ser bastante grandes con bastante rapidez. Aquí hay algunas tablas más grandes con los rangos de números mayores correspondientes debajo de ellas."
 
@@ -5670,6 +5727,11 @@ msgstr "Investigaciones"
 
 #. type=template
 msgctxt "template"
+msgid "Individually"
+msgstr "Individualmente"
+
+#. type=template
+msgctxt "template"
 msgid "By topic"
 msgstr "Por tema"
 
@@ -5764,6 +5826,26 @@ msgstr "Lee, Habla y ¡Diviértete!"
 
 #. type=template
 msgctxt "template"
+msgid "Beginning"
+msgstr "Empenzando"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "Intermedio"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**Empezando Historias**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "Texto de la historia"
+
+#. type=template
+msgctxt "template"
 msgid "First reading"
 msgstr "Primera lectura"
 
@@ -5826,6 +5908,11 @@ msgstr "Actividades"
 msgctxt "tour"
 msgid "Help"
 msgstr "Ayuda"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "Si alguna vez quieres ver esta introducción de nuevo, simplemente haz clic en el signo de interrogación."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6269,6 +6356,21 @@ msgstr "Si no vieras el sol una mañana oscura, ¿qué pensarías?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Everyone wanted to know where the sun went. \"Maybe the sun is dead,\" some people said. \"The sun has travelled,\" said others.\n"
+"\n"
+"Aku disagreed, \"No, the sun is not dead. And the sun has not travelled. Or it would have first told me.\"\n"
+"\n"
+"Some people chuckled at what Aku said. She continued anyway, \"I tell the truth. The sun is my friend. The sun is not dead. It is only —\". But no one would hear anymore. Everyone forgot about the sun. They laughed hard at Aku. The children laughed too. The children's laughter pained Aku the most."
+msgstr ""
+"Todos querían saber a dónde se había ido el sol. Algunas personas decían: “Seguramente el sol ha muerto”. Otros decían: “El sol se ha ido de viaje”. \n"
+"\n"
+"Aku no estaba de acuerdo. “No, el sol no está muerto. Y el sol no se ha ido de viaje. De ser así, me lo hubiera dicho primero.” \n"
+"\n"
+"Algunas personas se rieron de lo que dijo Aku. Sin importarle, ella continuó: “Digo la verdad. El sol es mi amigo. El sol no está muerto. Solamente —-”. Pero nadie quería escuchar más. Todos se olvidaron del sol. Se rieron mucho de Aku. Los niños también se rieron. La burla de los niños era la que más le dolía a Aku."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "There are 6 children in this picture. How many of their limbs (arms and legs) can you see?"
 msgstr "En la imagen hay 6 niños. ¿Cuántas de sus extremidades (brazos y piernas) puedes ver?"
 
@@ -6311,6 +6413,136 @@ msgstr "El jícaro es el cuenco que contenía el aceite. ¿Cómo cupo todo ese a
 msgctxt "data_list"
 msgid "Did you ever spill a small glass of water or milk and watch it spread out on the floor? A little bit can cover a lot of floor!"
 msgstr "¿Has derramado alguna vez un vaso pequeño de agua o leche y has visto cómo se desparrama? ¡A veces, una cantidad pequeña de líquido puede cubrir un espacio grande en el piso!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n"
+"\n"
+"Before he could run out to tell A'nua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n"
+"\n"
+"Oti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball."
+msgstr ""
+"Oti llegó a la casa con uno de sus amigos para buscar su pelota. Vió el jícaro volcado, el aceite de palma derramado. También vió su pelota sucia. \n"
+"\n"
+"Antes de que pudiera ir corriendo donde A’nua para decirle lo que Aku había hecho, Aku recogió la pelota y se escapó. Los niños persiguieron a Aku. Todos se encontraron con A’anua afuera de la casa. A’anua vió que Aku tenía la pelota. Antes de que pudiera llamar a Aku para regañarla, Aku huyó corriendo. \n"
+"\n"
+"Oti, A’anua y toda la gente de Sunland vieron a Aku escaparse. Se preguntaron qué haría Aku con la pelota sucia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many ten-year olds can run a mile in ten minutes. Aku is extra fast. How many minutes do you think it takes her to run a mile? 2 minutes? 5 minutes? 8 minutes?"
+msgstr "Muchos niños de 10 años pueden correr una milla en diez minutos. Aku es extrarápida. ¿En cuántos minutos crees que ella puede correr una milla? ¿2 minutos? ¿5 minutos? ¿8 minutos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What about Aku allows her to run so fast?"
+msgstr "¿Qué es lo que le permite a Aku correr tan rápido?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sun is gone, people are laughing at Aku, and Aku has a dirty ball. How do you think the story will resolve all these problems?"
+msgstr "El sol se ha ido, la gente se ríe de Aku y Aku tiene una pelota sucia. ¿Cómo piensas que se van a resolver todos los problemas en esta historia?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Aku stopped when she got to the middle of the town square. She put the ball on the ground.\n"
+"\n"
+"With a mighty swing of her hands and a swift pull of one long leg behind the other, Aku kicked the ball. The ball turned round on the ground, spinning towards the edge of the town square. It hit the roots of the palm tree at one end of the town square."
+msgstr ""
+"Aku paró cuando llegó al centro de la plaza. Puso la pelota en el piso.\n"
+"\n"
+"Con un movimiento poderoso de sus manos y un tirón rápido de una pierna larga detrás de la otra, Aku pateó la pelota. La pelota rodó por el piso, girando hacia el límite de la plaza. Pegó en las raíces de la palmera que estaba en uno de los extremos de la plaza."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What in the picture tells you that the ball is flying fast?"
+msgstr "¿Qué te indica en la imagen que la pelota está yendo rápido?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is the path of the ball curved instead of straight?"
+msgstr "¿Por qué el recorrido de la pelota es curvo y no recto?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Aku need to swing her hands to kick the ball hard? Notice how many other parts of your body are involved with action of just one part."
+msgstr "¿Por qué Aku tuvo que usar el movimiento de sus manos para patear la pelota fuerte? Observa cuántas otras partes de tu cuerpo usas para realizar una acción."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball shot into the sad sky. With mouths opened wide, the people of Sunland gazed after the flying ball. The ball flew beyond the clouds, beyond the gaze of the eyes.\n"
+"\n"
+"Everything was still. All was quiet.\n"
+"\n"
+"Suddenly, the sky cleared. The clouds became white, round and fluffy. Then a big ball came from behind the clouds. The ball was bright. And it was red and yellow like palm oil. The ball was the sun. Aku's sun.\n"
+"\n"
+"Everything stirred. The quietness left."
+msgstr ""
+"La pelota salió disparada hacia el cielo triste. La gente de Sunland miró con la boca abierta la pelota voladora. La pelota voló más allá de las nubes, más allá de lo que se podía ver con los ojos.\n"
+"\n"
+"Todo estaba quieto. Todo estaba en silencio. \n"
+"\n"
+"De repente, el cielo se aclaró. Las nubes se volvieron blancas, redondas y esponjosas. Luego, una gran pelota apareció por detrás de las nubes. La pelota era brillante. Y era roja y amarilla al igual que el aceite de palma. La pelota era el sol. El sol de Aku. \n"
+"\n"
+"Todo se revolvió. El silencio se fue."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different colors of clothes do you see here? Which colors of the rainbow are missing?"
+msgstr "¿Cuántos colores de ropa diferentes ves en esta imagen? ¿Cuáles colores del arco iris faltan?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do the colors of the clothes you are wearing match any of these clothes?"
+msgstr "¿Coinciden con estos colores los colores de la ropa que estás usando ahora?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding what is the same and what is different is an important way we understand the things in our world."
+msgstr "Encontrar las cosas que son iguales y las que son diferentes es una manera importante de entender las cosas en el mundo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Soon, everyone was rushing home to prepare for their daily activities. \\PARA Ataa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market."
+msgstr "Pronto, todos se apresuraron a sus casas para realizar sus actividades diarias. \\PARA Ataa Ankra buscó su balde para la pesca. Los granjeros tomaron sus azadas. Los niños se bañaron y vistieron alistándose para ir a la escuela. Las mujeres ataron sus dineros al borde de sus mandiles. Cargaron sus cuencos y canastos y se apuraron para llegar al mercado."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is dangerous to look at the sun, but we can still notice its changes. Depending on the weather and the time of day, the sun can look glowing yellow, hot white, orange, and even brown."
+msgstr "Es peligroso mirar al sol directamente, pero a pesar de eso podemos observar sus cambios. Dependiendo del tiempo y la hora del día, el sol puede tener un color amarillo brillante, blanco incandescente, anaranjado e, incluso, marrón."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you do during the day that you can't do at night?"
+msgstr "¿Qué puedes hacer durante el día pero no durante la noche?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentioned farmers working, people going to market, and children going to school. What other adult things only happen when the sun is out?"
+msgstr "El cuento menciona a los granjeros trabajando, la gente yendo al mercado y los niños yendo a la escuela. ¿Qué otras actividades realizan los adultos solamente cuando hay sol?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sun returned to Sunland. Aku made it. A new day began ..."
+msgstr "El sol regresó a Sunland. Aku lo logró. Empieza un nuevo día ..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Aku kick the ball into the sky? Did she do it to make the sun come out, or did she do it for some other reason?"
+msgstr "¿Por qué Aku pateó la pelota hacia el cielo? ¿Lo hizo para que el sol saliera o por algún otro motivo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sun was Aku's only friend. She paid the sun a lot of attention, and the sun stayed with her without making fun of her long legs. Which things do you think make friendships work?"
+msgstr "El sol era el único amigo de Aku. Ella le prestaba mucha atención y el sol se quedaba con ella sin burlarse de sus piernas largas. ¿Qué crees que hace falta para que las amistades funcionen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes, when some experience bothers two friends, it can get between them so they can't see each other. Has that happened to you with one of your friends? Did you find a way to fix things?"
+msgstr "A veces, algo que pasa molesta a dos amigos y esta situación se interpone entre ellos tanto así que no se pueden ver. ¿Te ha pasado esto con alguno de tus amigos? ¿Pudiste encontrar la manera de resolver el problema?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7926,6 +8158,11 @@ msgstr "El fufú es yuca molida que la gente agrega a sus sopas. ¿Qué tipos de
 msgctxt "data_list"
 msgid "These food containers are all round in some way. How are the shapes of these containers alike and how are they different?"
 msgstr "Todos estos recipientes de alimentos son redondos. ¿En qué se parecen y en qué se diferencian las formas de estos recipientes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The world has about 8 billion people. Almost 1 billion people eat food from cassava. The country where people eat the most cassava is Nigeria, in Africa."
+msgstr "Hay alrededor de 8 mil millones de personas en el mundo. Casi mil millones de personas se alimentan de yuca. El país donde las personas consumen la mayor cantidad de yuca es Nigeria, en África."
 
 #. type=data_list
 msgctxt "data_list"
@@ -12623,6 +12860,11 @@ msgstr "SALTAR EL CONTEO ES MULTIPLICACIÓN"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MULTIPLICATION TECHNIQUES"
+msgstr "TÉCNICAS DE MULTIPLICACIÓN"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Mental Multiplication"
 msgstr "Multiplicación Mental"
 
@@ -13148,6 +13390,21 @@ msgstr "Capítulo 2 — ¡Puedo contar hasta 5!"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Chapter 3 — I Can Count to 10!"
+msgstr "Capítulo 3 — ¡Puedo contar hasta 10!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chapter 4 — I Can Count to 20!"
+msgstr "Capítulo 4 — ¡Puedo contar hasta 20!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chapter 5 — I Can Count to 100!"
+msgstr "Capítulo 5 — ¡Puedo contar hasta 100!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "A Very Tall Man"
 msgstr "Un Hombre Muy Alto"
 
@@ -13318,6 +13575,11 @@ msgstr "Esta historia trata de contar hasta el 16, las figuras y los colores. Pa
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Look at the Animals"
+msgstr "Mira los Animales"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "This story has  small quantities up to 8. Practice words: numbers to 8, how many, one more, small, and large."
 msgstr "Esta historia trata de cantidades pequeñas hasta el ocho. Palabras para practicar: los números hasta el ocho, cuántos, uno más, pequeño y grande."
 
@@ -13440,6 +13702,11 @@ msgstr "La Increíble Daisy"
 msgctxt "data_list"
 msgid "This story has geometry and shape ideas. Practice words: circle, rectangle, sides, corner, vertical line, horizontal line, big, small, low, and high"
 msgstr "Esta historia enseña geometría e ideas sobre figuras. Practica las palabras: círculo, rectángulo, lados, esquina, línea vertical, línea horizontal, grande, pequeño, bajo y alto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cassava and Palm"
+msgstr "Yuca y Palmera"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13585,6 +13852,11 @@ msgstr "Cantando la Verdad: La Historia de Miriam Makeba"
 msgctxt "data_list"
 msgid "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
 msgstr "Esta historia tiene muchas figuras. Palabras para practicar: figura, rectángulo, recto, círculo, arco, óvalo, cono, elipse, diferente, igual, plano, contorno y raya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun Moon and Water"
+msgstr "Sol, Luna y Agua"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16374,6 +16646,11 @@ msgstr "¿Puedes hacer sonidos de animales? ¿De cuáles animales?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Can you neigh like a horse, oink like a pig, meow like a cat, or bray like a donkey?"
+msgstr "¿Puedes relinchar como un caballo, gruñir como un cerdo, maullar como un gato o rebuznar como un burro?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "This animal has exceptionally big teeth. Think of other animals with teeth like these."
 msgstr "Este animal tiene unos dientes excepcionalmente grandes. Piensa en otros animales con dientes como estos."
 
@@ -19050,6 +19327,11 @@ msgstr "Desafortunadamente, algunas personas prestan atención a las diferencias
 msgctxt "data_list"
 msgid "Music is something that can be shared and it can help bring people together. What brings you together with your friends?"
 msgstr "La música es algo que se puede compartir y puede unir a la gente. ¿Qué te une con tus amigos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think doing math is something that can be shared and bring people together?"
+msgstr "¿Crees que practicar las matemáticas es algo que se puede compartir y puede unir a la gente?"
 
 #. type=data_list
 msgctxt "data_list"
