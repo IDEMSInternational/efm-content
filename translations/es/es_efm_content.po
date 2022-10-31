@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-30 22:37\n"
+"PO-Revision-Date: 2022-10-31 17:23\n"
 
 #. type=template
 msgctxt "template"
@@ -13141,6 +13141,11 @@ msgstr "CALCULADORAS LIMITADAS"
 msgctxt "data_list"
 msgid "Add, Subtract, and Multiply"
 msgstr "Sumar, Restar y Multiplicar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "AGARRANDO FACTORES"
 
 #. type=data_list
 msgctxt "data_list"
