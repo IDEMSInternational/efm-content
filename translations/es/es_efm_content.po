@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-02 15:00\n"
+"PO-Revision-Date: 2022-11-02 16:10\n"
 
 #. type=template
 msgctxt "template"
@@ -5768,6 +5768,11 @@ msgstr "**Material Adicional**"
 msgctxt "template"
 msgid "Bonus Material — Activities"
 msgstr "Material Adicional — Actividades"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "Sin Coincidencia"
 
 #. type=template
 msgctxt "template"
