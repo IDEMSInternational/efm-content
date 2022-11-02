@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-01 13:19\n"
+"PO-Revision-Date: 2022-11-02 15:00\n"
 
 #. type=template
 msgctxt "template"
@@ -11946,6 +11946,11 @@ msgstr "UNO MAS UNO MENOS"
 msgctxt "data_list"
 msgid "Counting up to 5"
 msgstr "Contando hasta 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "MATERIALES Y TARJETAS NUMÉRICAS"
 
 #. type=data_list
 msgctxt "data_list"
