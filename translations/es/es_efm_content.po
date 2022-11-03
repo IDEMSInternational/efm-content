@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-03 11:04\n"
+"PO-Revision-Date: 2022-11-03 12:37\n"
 
 #. type=template
 msgctxt "template"
@@ -203,6 +203,11 @@ msgstr ""
 "Haga un rompecabezas para que su niño/niña juegue. Haga que su niño/niña pinte o dibuje en un trozo de cartón o papel rígido.\n"
 "\n"
 "Corta el papel en trozos grandes. ¡Rompecabezas!"
+
+#. type=template
+msgctxt "template"
+msgid "Create a set of “tiles” from cardboard or stiff paper. Use one color for each shape (red squares, blue triangles, etc.). Watch your child make patterns fitting the tiles together. Name the shapes and colors as they go."
+msgstr "Cree un conjunto de \"baldosas\" de cartón o papel rígido. Use un color para cada forma (cuadrados rojos, triángulos azules, etc.). Observe a su hijo/a hacer patrones encajando las fichas. Nombra las formas y los colores a medida que avanzan."
 
 #. type=template
 msgctxt "template"
@@ -1347,6 +1352,11 @@ msgstr "Con algo relativamente pequeño, como trozos de comida, desafíe a su ni
 
 #. type=template
 msgctxt "template"
+msgid "Investigate which numbers are even and odd by using number shapes. For any number, ask your child to put the pieces into two rows that have the same number in them. This is something you would do if you were splitting the food evenly between the two of you. For which numbers does it work out evenly?"
+msgstr "Investiga qué números son pares e impares usando formas numéricas. Para cualquier número, pídale a su hijo que coloque las piezas en dos filas que tengan el mismo número. Esto es algo que harías si estuvieras dividiendo la comida en partes iguales entre los dos. ¿Para qué números resulta uniforme?"
+
+#. type=template
+msgctxt "template"
 msgid ""
 "Once your child knows what an odd number is, investigate adding up the first few odd numbers as shown in this diagram. Amazingly, the sum of the first odd numbers is always a square number.\n"
 "\n"
@@ -2428,6 +2438,11 @@ msgstr ""
 msgctxt "template"
 msgid "A pyramid of 10 numbers placed in 4 rows is given with a target number. The challenge is to find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other."
 msgstr "Se da una pirámide de 10 números colocados en 4 filas con un número objetivo. El desafío es encontrar un camino a través de la pirámide usando un número de cada fila para que la suma de los números sea el número objetivo. Los números en la ruta deben conectarse entre sí."
+
+#. type=template
+msgctxt "template"
+msgid "Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr "Haz uno de estos rompecabezas completando los números que deseas que formen el camino y registra la suma de esos números. Luego complete los números señuelo restantes en la pirámide."
 
 #. type=template
 msgctxt "template"
@@ -5894,6 +5909,16 @@ msgstr "Intermedio"
 
 #. type=template
 msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**Libros de Historias Principiante**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**Libros de Historias Intermedio**"
+
+#. type=template
+msgctxt "template"
 msgid "Story text"
 msgstr "Texto de la historia"
 
@@ -5934,8 +5959,48 @@ msgstr "Material Adicional"
 
 #. type=tour
 msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "Algunas de las actividades tienen material adicional con ejemplos y explicaciones adicionales. Puedes consultarlos aquí o al final de la página de actividades correspondiente."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the chapters has about a dozen sections of fun games, puzzles, activities, and investigations."
+msgstr "Cada uno de los capítulos tiene alrededor de una docena de secciones de divertidos juegos, rompecabezas, actividades e investigaciones."
+
+#. type=tour
+msgctxt "tour"
 msgid "Chapters"
 msgstr "Capítulos"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each chapter name describes the main requirement for your child to start that chapter. For example, if your child can count to ten, and knows what those numbers mean, then start with chapter 3. The materials in the chapters are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "El nombre de cada capítulo describe el requisito principal para que su hijo comience ese capítulo. Por ejemplo, si su hijo puede contar hasta diez y sabe lo que significan esos números, comience con el capítulo 3. Los materiales de los capítulos están diseñados en una progresión de aprendizaje para que las secciones posteriores se basen en las anteriores."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "Por favor, seleccione el tipo de actividades que le gustaría realizar."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the chapter activities individually or by topic."
+msgstr "Seleccione si prefiere ver las actividades de los capítulos individualmente o por tema."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "¡Leer con su hijo es una experiencia maravillosa! Agregar comentarios y preguntas de matemáticas a su lectura ayuda a su hijo a crecer matemáticamente y crea fuertes asociaciones de matemáticas con esta experiencia feliz y acogedora."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "Seleccione los tipos de historias entre las que le gustaría elegir."
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "Libros de Historias Principiante"
 
 #. type=tour
 msgctxt "tour"
@@ -5944,8 +6009,23 @@ msgstr "Habla con tu hijo así él todavía no hable o no entienda todas las pal
 
 #. type=tour
 msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "Libros de Historias Intermedio"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "Estos libros de cuentos son un poco más largos, tienen tramas un poco más complejas e involucran ideas más sofisticadas. Su hijo/a ahora puede hablar y razonar sobre más cosas en el mundo."
+
+#. type=tour
+msgctxt "tour"
 msgid "Welcome!"
 msgstr "¡Bienvenido!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. We have two kinds of materials for your family to enjoy together."
+msgstr "¡Disfruten leyendo y jugando con las matemáticas juntos! La mejor manera de aprender y experimentar las matemáticas es social y lúdicamente. Tenemos dos tipos de materiales para que tu familia disfrute juntos."
 
 #. type=tour
 msgctxt "tour"
@@ -5954,8 +6034,18 @@ msgstr "Historias"
 
 #. type=tour
 msgctxt "tour"
+msgid "Read our storybooks with your child. These storybooks have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "Lea nuestros libros de cuentos con su hijo/a. Estos libros de cuentos tienen comentarios de matemáticas y preguntas guías en cada página. ¡Ayude a su hijo a crecer matemáticamente y crear fuertes asociaciones de matemáticas con la feliz y acogedora experiencia de leer juntos!"
+
+#. type=tour
+msgctxt "tour"
 msgid "Activities"
 msgstr "Actividades"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "Estos juegos, rompecabezas, actividades e investigaciones de matemáticas en secuencia educativa, diseñados para que su familia juegue junta, brindan mucho tiempo familiar agradable mientras su hijo aprende todas las matemáticas que necesita para la escuela."
 
 #. type=tour
 msgctxt "tour"
