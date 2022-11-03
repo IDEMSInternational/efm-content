@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-03 12:37\n"
+"PO-Revision-Date: 2022-11-03 16:05\n"
 
 #. type=template
 msgctxt "template"
@@ -66,6 +66,17 @@ msgstr ""
 "Si su hijo se atasca en un rompecabezas, tiene varias opciones. Por supuesto, puede dar pistas muy pequeñas, si puede pensar en cosas que no delaten el rompecabezas. Puede sugerir mirar versiones más pequeñas o más simples del rompecabezas. Anime a su hijo a ser audaz en sus ideas, incluso si a veces conducen a callejones sin salida. ¡Todos aprendemos mucho de nuestros errores y callejones sin salida! Hágale saber a su hijo que está perfectamente bien no resolver un acertijo en el primer (o segundo o tercer) intento, y que se le pueden ocurrir ideas útiles si deja el acertijo solo por un día o dos.\n"
 "\n"
 "Estos rompecabezas están pensados para ser divertidos y para enseñar a resolver problemas. Uno de los mayores placeres matemáticos es ese momento AHA, después de muchos comienzos en falso y mucha lucha con un problema, cuando finalmente se descubre la respuesta. ¡Asegúrese de dejar que su hijo experimente esa sensación de descubrimiento tantas veces como pueda!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"Las investigaciones son para que su hijo/a juegue y piense. Deje que su hijo/a explore estos en busca de patrones interesantes y relaciones hermosas. Resista la tentación de revelar lo que está pasando y dar la respuesta. Si su hijo/a parece haber llegado a un callejón sin salida, sugiérale que vuelva a la investigación en el futuro para jugar con ella de nuevo.\n"
+"\n"
+"Muchas investigaciones se benefician de la organización de los resultados, y esto es algo grandioso para que usted pueda ayudar a su hijo/a. Ayúdelos a hacer tablas, dibujos o cualquier cosa que les ayude a ver más fácilmente lo que está pasando. Y, por supuesto, está perfectamente bien darles empujones suaves de vez en cuando en la dirección correcta. Recuerde que su hijo aprenderá mucho desarrollando persistencia y aprendiendo a mirar más profundamente las cosas."
 
 #. type=template
 msgctxt "template"
@@ -337,6 +348,31 @@ msgstr ""
 "Poco a poco, comience a enfatizar la cantidad actual y cómo cambia. Cuente la cantidad de artículos juntos, tal vez dos rodajas de manzana en el plato de su niño/niña. Resuma diciendo que hay dos rebanadas de manzana y pregúntele a su niño/niña si le gustaría una rebanada de manzana más o quizás una menos. Si la cantidad cambia, termine preguntando cuántas rodajas de manzana hay ahora.\n"
 "\n"
 "De manera similar, cuando esté caminando, elija cosas para contar. Suponga que hay tres personas en fila frente a usted. Cuéntenlos juntos y pregunte cuántos habrá cuando uno se vaya y quede uno menos."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"You only need a few materials for these Early Family Math activities, and they are all very inexpensive and easy to get. \n"
+"\n"
+"Here’s a short list:\n"
+"* Five dice\n"
+"* A deck of playing cards\n"
+"* String\n"
+"* Sidewalk chalk\n"
+"* Some stiff paper in various colors \n"
+"\n"
+"Many of our activities can be played using decks of playing cards. However, using a Number Card deck will help your child practice ideas that will not be emphasized with regular playing cards."
+msgstr ""
+"Solo necesitará algunos materiales para estas actividades de Matemática para Familias Jóvenes, y todos son muy económicos y fáciles de conseguir.\n"
+"\n"
+"Aquí hay una breve lista:\n"
+"* Cinco dados\n"
+"* Una baraja de cartas\n"
+"* Cuerda\n"
+"* Tiza\n"
+"*Algunos papeles rígidos en varios colores\n"
+"\n"
+"Muchas de nuestras actividades se pueden jugar usando barajas de cartas. Sin embargo, usar una baraja de Cartas Numéricas ayudará a su hijo a practicar ideas que no se enfatizarán con las cartas regulares."
 
 #. type=template
 msgctxt "template"
@@ -1586,6 +1622,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"These two puzzles have the usual additional Sudoku restriction that the numbers must occur exactly once in each marked subregion.\n"
+"\n"
+"For Even-Odd Sudoku puzzles, the squares for even numbers are greyed in. This makes them generally easier than regular Sudoku and it reinforces even and odd numbers."
+msgstr ""
+"Estos dos rompecabezas tienen la restricción adicional del Sudoku de que los números deben aparecer exactamente una vez en cada subregión marcada.\n"
+"\n"
+"Para los rompecabezas de Sudoku Pares e Impares, los cuadrados para los números pares están atenuados. Esto los hace generalmente más fáciles que los Sudoku normales y refuerza los números pares e impares."
+
+#. type=template
+msgctxt "template"
 msgid "Kropki Sudoku is the same as regular Sudoku except two types of dots placed between cells are added. If the dot is hollow, then the two numbers are one apart. If the dot is filled in, then one number is half the other number."
 msgstr "Sudoku Kropki es el mismo que el Sudoku normal, excepto que se agregan dos tipos de puntos colocados entre las celdas. Si el punto es hueco, entonces los dos números están separados por uno. Si el punto es sólido, entonces un número es la mitad del otro número."
 
@@ -2081,6 +2128,21 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
+"Your child has already practiced skip counting, probably by 2’s, 5’s, and 10’s between 0 and 20. Now is the time to start practicing general skip counting by any number from any number.\n"
+"\n"
+"Skip counting up and down by single-digit numbers helps with adding and subtracting, as well as multiplication and division. This is a lot to learn, so please expect it to take time. The tricky part in skip counting is when the tens digit changes, so be sure to focus on that. This is a handy activity to do when you are traveling or waiting around with some extra time.\n"
+"\n"
+"Skip counting by 10’s is tied to understanding that two-digit numbers are made up of a tens place and a ones place. Skip counting by 10’s will be easier if your child can look at a 100-chart."
+msgstr ""
+"Su hijo/a ya ha practicado el conteo salteado, probablemente de a 2, 5 y 10 entre 0 y 20. Ahora es el momento de comenzar a practicar el conteo salteado general por cualquier número de cualquier número.\n"
+"\n"
+"Seguir contando salteado hacia arriba y hacia abajo por números de un solo dígito ayuda a sumar y restar, así como a multiplicar y dividir. Esto es mucho para aprender, así que espere que tome tiempo. La parte complicada del conteo salteado es cuando cambia el dígito de las decenas, así que asegúrese de concentrarse en eso. Esta es una actividad útil para hacer cuando está de viaje o esperando con algo de tiempo extra.\n"
+"\n"
+"El conteo salteado de 10 en 10 está relacionado con la comprensión de que los números de dos dígitos se componen de un lugar de decenas y un lugar de unidades. Contar salteado de 10 en 10 será más fácil si su hijo puede mirar una tabla de 100."
+
+#. type=template
+msgctxt "template"
+msgid ""
 "Create a random 2-digit starting number using two playing cards from 1 to 9 - the first card will give you the tens place and the other the ones place. Starting at that number, you are allowed to use a total of 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
 "\n"
 "Young players benefit from referring to a 100-chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
@@ -2286,6 +2348,17 @@ msgstr ""
 "*  múltiplos de un número, como 3\n"
 "\n"
 "Cada jugador comienza con tres cartas. El primer jugador descarta un número que no es un número venenoso y lo reemplaza con un número de la pila de robo. El siguiente jugador descarta un número para que la suma de los dos primeros números no sea un número venenoso y reemplaza el descarte con un número de la pila de robo. El siguiente jugador juega para que la suma de las tres cartas no sea un número venenoso, y así sucesivamente. El primer jugador que no pueda descartar una carta legal pierde. Este juego funciona igualmente bien con más de dos jugadores."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"These \"magic\" puzzles are one-time challenges. Let your child spend time with them, wrestle with them, and have the satisfaction of figuring them out.\n"
+"\n"
+"Make a triangle of six circles with three circles on a side. Use each of the numbers from 1 to 6 once so that each side of the triangle has the same sum. This involves two challenges - finding out which sums will work and then figuring out how to get those sums. It is better to let your child play with this to figure out which sums are possible, but if frustration wins out, the possible sums are 9, 10, 11, and 12."
+msgstr ""
+"Estos rompecabezas \"mágicos\" son desafíos de una sola vez. Deje que su hijo pase tiempo con ellos, luche con ellos y tenga la satisfacción de descubrirlos.\n"
+"\n"
+"Haz un triángulo de seis círculos con tres círculos de lado. Usa cada uno de los números del 1 al 6 una vez para que cada lado del triángulo tenga la misma suma. Esto implica dos desafíos: descubrir qué sumas funcionarán y luego descubrir cómo obtener esas sumas. Es mejor dejar que su hijo juegue con esto para averiguar qué sumas son posibles, pero si gana la frustración, las sumas posibles son 9, 10, 11 y 12."
 
 #. type=template
 msgctxt "template"
@@ -5609,6 +5682,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "One Working Number"
+msgstr "Un Número en Funcionamiento"
+
+#. type=template
+msgctxt "template"
 msgid ""
 "a) Suppose you had a calculator with +, -, x, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? \n"
 "\n"
@@ -5651,6 +5729,11 @@ msgstr ""
 "32 = 4 x 4 + 4 x 4\n"
 "\n"
 "c) Juegue con otros números únicos y cree otros resultados."
+
+#. type=template
+msgctxt "template"
+msgid "Two Working Numbers"
+msgstr "Dos Números en Funcionamiento"
 
 #. type=template
 msgctxt "template"
