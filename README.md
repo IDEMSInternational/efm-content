@@ -1,2 +1,2 @@
-# EFM-Content
+# efm-content
 Early Family Math content
