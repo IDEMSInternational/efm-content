@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-06 18:40\n"
+"PO-Revision-Date: 2024-06-06 19:39\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7048,6 +7048,57 @@ msgstr "El triángulo rojo es el único que no es un cuadrado, el cuadrado rojo 
 msgctxt "data_list"
 msgid "Object Properties"
 msgstr "Propiedades de objetos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DESCRIBING SCENES"
+msgstr "DESCRIPCIÓN DE ESCENAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a simple barrier between the two players so they can’t see each other’s work. Another option is to work back to back. Each person has a piece of paper and the same set of colored pencils, crayons, or pens.\n"
+"\n"
+"One person draws shapes (such as circles, triangles, squares, and rectangles) in colors and groups in distinctive positions on their paper. That person then gives directions for the other person to follow to make the identical drawing.\n"
+"\n"
+"At the end, the barrier is removed and the two drawings are compared (usually with lots of laughter). The players compare ideas on which spoken directions worked and which did not."
+msgstr ""
+"**Preparación:** establezca una barrera sencilla entre los dos jugadores para que no puedan ver lo que el otro está haciendo. Otra opción sería trabajar de espalda a espalda. Cada persona cuenta con una hoja de papel y un juego idéntico de lápices de colores, crayones o bolígrafos.\n"
+"\n"
+"Una persona dibuja varias figuras geométricas (como círculos, triángulos, cuadrados y rectángulos) en diferentes colores y las agrupa en posiciones específicas en su papel. Luego, esa persona da indicaciones detalladas para que la otra persona reproduzca el dibujo exactamente igual.\n"
+"\n"
+"Al finalizar, se quita la barrera y se comparan los dos dibujos (por lo general, con mucha risa). Los jugadores comparten opiniones sobre qué instrucciones verbales funcionaron y cuáles no."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can be a 3D activity if each player has the same set of stackable items (such as Lego bricks). In this case, one player makes a stack in some interesting way and then gives a sequence of directions to the other player."
+msgstr "En esta dinámica, cada jugador puede usar un set de objetos apilables, como bloques de Lego, para crear una estructura única. Luego, uno de los jugadores describe la secuencia de pasos necesarios para que el otro jugador pueda replicar la misma estructura. Así, la actividad se convierte en una experiencia tridimensional, desafiante y divertida."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHICH SHAPE AM I?"
+msgstr "¿QUÉ FORMA SOY?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Have a collection of small shapes, drawings of shapes on cards, or names of shapes on cards.\n"
+"\n"
+"Stick a shape or card on each person’s forehead. Ask yes-or-no questions about your own shape until you guess what you are."
+msgstr ""
+"Organice una selección de figuras geométricas pequeñas, dibujos de figuras geométricas en tarjetas o nombres de figuras geométricas en tarjetas.\n"
+"\n"
+"Cada persona pone una forma o tarjeta en su frente. Por turnos, hagan preguntas de sí o no sobre su propia forma hasta que puedan identificar cuál es."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHO IS IT?"
+msgstr "¿QUIÉN ES?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
+msgstr "Esta actividad es para varias personas. El líder elige en secreto a alguien del grupo. Para descubrir a la persona secreta, los jugadores deben hacer preguntas como: “¿Tiene puesta una camiseta con un triángulo?” o “¿Su cabello mide más de 30 cm?”"
 
 #. type=data_list
 msgctxt "data_list"
