@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-06 02:05\n"
+"PO-Revision-Date: 2024-06-06 03:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10076,6 +10076,11 @@ msgstr "Amigos"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This story has counting to 6, colors, and shapes. Practice words: how many, numbers to six, one more, two more, one less, two less, color names, stripes, solids, pentagon, hexagon, round, same, and different."
+msgstr "Esta historia trata de contar hasta el seis, los colores y las figuras. Palabras para practicar: cuántos(as), los números hasta el seis, uno más, dos más, uno menos, dos menos, los nombres de los colores, rayas, sólidos, pentágono, hexágono, redondo, igual y diferente."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How the Toad Got its Skin"
 msgstr "Cómo Obtuvo la Sapa su Piel"
 
@@ -10473,6 +10478,16 @@ msgstr "Compartir de manera justa"
 msgctxt "data_list"
 msgid "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
 msgstr "Esta historia tiene formas y reparto equitativo. Palabras para practicar: rectángulo, cuadrado, redondo, círculo, arco, óvalo, elipse, raya, igual, dividir por igual, punto de vista, perspectiva, mitad, tercio, cuarto, resolución de problemas, versiones más simples de un problema, persistencia, restar 1, 2, 3, estimar y múltiplos de 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sizwe's Smile"
+msgstr "La sonrisa de Sizwe"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and progressions. Practice words: muted, bright, rectangle, circle, arc, oval, ellipse, big, biggest, curve, vertical lines, parallel lines, stripe, twice, doubling, exponential growth, estimate, and counting by 2's and 4's."
+msgstr "Matemáticas: temas y palabras} Esta historia tiene figuras y progresiones. Palabras para practicar: apagado, brillante, rectángulo, círculo, arco, óvalo, elipse, grande, más grande, curva, líneas verticales, líneas paralelas, raya, dos veces, duplicación, crecimiento exponencial, estimación y conteo por 2 y 4."
 
 #. type=data_list
 msgctxt "data_list"
@@ -17743,6 +17758,343 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Have you ever worked in a garden or farm? Freshly grown food has wonderfully strong flavors!"
+msgstr "¿Has trabajado alguna vez en un jardín o una granja? ¡Los alimentos recién cultivados tienen sabores intensos y maravillosos!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles are four-sided shapes like the shape of this page. Can you find all the rectangles on this page? There are a lot of them!"
+msgstr "Los rectángulos son figuras de cuatro lados como la forma de esta página. ¿Puedes encontrar todos los rectángulos de esta página? ¡Hay muchos de ellos!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you look closely, you'll notice that some of the rectangles are squares, with all their sides the same length. Can you find them?"
+msgstr "Si te fijas bien, te darás cuenta que algunos de los rectángulos son cuadrados, con todos sus lados de la misma longitud. ¿Puedes encontrarlos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Mama K always gives the children a treat for helping her. Sometimes the treat is cake, chocolate, or long sweets that look like snakes. Sometimes it's apples, pears, or oranges.\n"
+"\n"
+"Mama K has only one rule. \"Share it fair!\" The children know they must share the treats equally, so they all get the same amount."
+msgstr ""
+"Mamá K siempre da a los niños una recompensa por ayudarla. A veces, el premio es un pastel, chocolate o caramelos largos que parecen serpientes. Otras veces son manzanas, peras o naranjas.\n"
+"\n"
+"Mamá K tiene únicamente una regla. \"¡Compartan de manera justa!\". Los niños saben que deben compartir los premios por igual, así que todos reciben la misma cantidad."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think about what it means to share something equally. Suppose you had 12 cookies to share evenly among 3 people. How many cookies would each person get?"
+msgstr "Piensa en lo que significa compartir algo en partes iguales. Imagina que tienes 12 galletas para repartirlas por igual entre 3 personas. ¿Cuántas galletas recibiría cada persona?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would you do if you had 4 or 5 pieces of hard candy to share among 3 people?"
+msgstr "¿Qué harías si tuvieras 4 o 5 caramelos duros para repartir entre 3 personas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What if the things are different? How would you share an apple, an orange, and a banana among three people? Sharing can be tricky, even when everyone is trying to be fair."
+msgstr "¿Qué pasa si las cosas son diferentes? ¿Cómo dividirías una manzana, una naranja y un plátano entre tres personas? Compartir puede ser complicado, incluso cuando todos intentan ser justos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Today Mama K has baked a round strawberry cake with pink icing and berries from her garden. The children wait on the grass for their treat. \"Here you go!\" smiles Mama K. \"But remember the rule that everyone must get the same. Share it fair! Don't fight!\""
+msgstr "Hoy mamá K ha horneado un pastel redondo de fresas con glaseado rosa y fresas de su jardín. Los niños esperan en el césped para recibir su golosina. \"¡Aquí tienen!\", sonríe mamá K. \"Pero recuerden la regla, todos deben recibir la misma cantidad. ¡Repártanlo de manera justa! ¡No peleen!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fortunately, cake is easy to share. How would you share this cake among the three children?"
+msgstr "Afortunadamente, el pastel es fácil de compartir. ¿Tú cómo repartirías este pastel entre los tres niños?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When someone dies, it is sometimes very hard to find an equal way to share all the different things that person owned."
+msgstr "Cuando alguien muere, a veces es muy difícil encontrar una forma equitativa de compartir todas las cosas que esa persona poseía."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of a time when you and your friends or your family had something to share and it was tricky to find a way to do it? How was the problem solved?"
+msgstr "¿Podrías pensar en alguna ocasión en la que tú y tus amigos o tu familia tuvieron qué compartir algo y fue difícil encontrar la manera de hacerlo? ¿Cómo se resolvió el problema?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maya has the first turn to share the cake. She uses the knife to trace lines in the icing. The others watch her. She does not cut the cake yet. The others must first agree if her way is fair.\n"
+"\n"
+"\"I think I will cut two slices, like this. Now we have three slices, all the same!\" Maya shows them."
+msgstr ""
+"A Maya le toca el primer turno para repartir el pastel. Utiliza el cuchillo para trazar líneas en el glaseado. Los demás la observan. Todavía no corta el pastel. Los demás deben estar de acuerdo primero en sí su manera es justa.\n"
+"\n"
+"\"Creo que cortaré dos porciones, así. Ahora tenemos tres rebanadas, ¡todas iguales!\", Maya les muestra."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keep watching the strawberries on top of the cake. There are six of them now, but it will keep changing. Where do they go?"
+msgstr "Sigue observando las fresas en la parte superior del pastel. Ahora hay seis, pero seguirá cambiando. ¿A dónde se irán?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are some more rectangles in this picture. Can you find parts of them?"
+msgstr "Hay varios rectángulos más en esta imagen. ¿Puedes encontrar partes de ellos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice which children wear hats. That will keep changing too! Is the author having fun with us, or is something else going on?"
+msgstr "Fíjate qué niños llevan sombrero. Eso también seguirá cambiando. ¿Está el autor divirtiéndose con nosotros, o estará sucediendo algo más?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"No way!\" says Duksie, \"the one in the middle is much too big!\" Doobie also shakes his head. Maya laughs and shrugs and tells Duksie to try."
+msgstr "\"¡Ni hablar!\", dice Duksie, \"¡el del medio es mucho más grande!\". Doobie también sacude la cabeza. Maya se ríe, se encoge de hombros y le pide a Duksie que lo intente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three pieces for three people. Is this a fair way to cut the cake?"
+msgstr "Hay tres porciones para tres personas. ¿Es esta una forma justa de cortar el pastel?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When some pieces have more topping or icing, it can be hard to divide something fairly. It is good to be among friends when it is difficult like that."
+msgstr "Cuando algunas piezas tienen más cobertura o glaseado, puede ser difícil dividir algo de forma justa. Es bueno estar entre amigos cuando se presentan dificultades de ese tipo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you have trouble sharing something equally, how do you work it out?"
+msgstr "Cuando tienes problemas para compartir algo de forma equitativa, ¿cómo lo solucionas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Here! Pass me the knife, I'll do it. Easy peasy!\" chants Duksie. First she rubs out Maya's pattern in the icing and licks her fingers."
+msgstr "\"¡Aquí! Pásame el cuchillo, yo lo haré. Es muy fácil\", dice Duksie. Primero borra el dibujo de Maya en el glaseado y se lame los dedos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their faces. How can you tell they might not all agree with this new sharing idea?"
+msgstr "Mira sus caras. ¿Cómo puedes saber que no todos están de acuerdo con esta nueva idea de compartir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are lots of round shapes in this picture. When a circle gets stretched or shrunk in one direction, it is called an oval or an ellipse. Find some circles and ovals in this picture."
+msgstr "En esta imagen hay muchas figuras redondas. Cuando un círculo se estira o encoge en una dirección, se le llama óvalo o elipse. Encuentra algunos círculos y óvalos en esta imagen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes our point of view distorts a shape and makes it look different, even though it hasn't changed at all. For example, circles can look like ovals when viewed from the side. Do you see some examples of that around you?"
+msgstr "A veces nuestro punto de vista distorsiona una figura y la hace parecer diferente, aunque no haya cambiado en absoluto. Por ejemplo, los círculos pueden parecer óvalos cuando se ven desde un lado. ¿Ves algunos ejemplos de esto a tu alrededor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then she makes one cut across and one down, \"Look, these are my three slices!\"\n"
+"\n"
+"\"That's not fair!\" shout Maya and Doobie together."
+msgstr ""
+"Luego ella hace un corte a lo ancho y otro a lo largo: \" ¡Miren, estas son mis tres porciones!\"\n"
+"\n"
+"\"¡Eso no es justo!”, gritan Maya y Doobie juntos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you had a choice, which piece would you choose? When one piece is obviously the best or the worst, the sharing is probably not fair!"
+msgstr "Si pudieras elegir, ¿qué pedazo elegirías? Cuando un pedazo es obviamente mejor o peor, ¡el reparto probablemente no es justo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Duksie did it this way because it was easy to do. She split it once in half and then split one of those two pieces in half. Unfortunately, that created one piece that was twice as big as the other two pieces."
+msgstr "Duksie lo hizo así porque era fácil de hacer. Lo dividió una vez por la mitad y luego dividió uno de esos dos trozos por la mitad. Desafortunadamente, eso creó una pieza que era dos veces más grande que las otras dos piezas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you split something into two equal pieces, each piece is one half. When you split one half into two equal pieces, then each piece is one fourth, also called one quarter."
+msgstr "Cuando divides algo en dos partes iguales, cada parte es una mitad. Cuando divides una mitad en dos partes iguales, cada parte es una cuarta parte, también llamada un cuarto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"\"Share it fair! The pieces must be the same size and shape,\" adds Doobie.\n"
+"\n"
+"\"Why don't you try Doobie?\" smirks Duksie. \"I bet you can't do it!\""
+msgstr ""
+"\"¡Compártela de forma justa! Las piezas deben ser del mismo tamaño y forma\", añade Doobie.\n"
+"\n"
+"\"¿Por qué no lo intentas Doobie?\", sonríe Duksie. \"¡Apuesto a que no puedes hacerlo!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you split something into three equal pieces, each piece is one third of the whole thing. Have you figured out how to give each child one third, or do you think it is impossible?"
+msgstr "Si divides algo en tres partes iguales, cada parte es un tercio de la totalidad. ¿Has descubierto cómo dar a cada niño un tercio, o crees que es imposible?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There were five strawberries on the top of the cake in the last page. How can you share five things evenly among three people?"
+msgstr "En la última página había cinco fresas en la parte superior del pastel. ¿Cómo podrías repartir cinco cosas de forma equitativa entre tres personas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at Duksie's expression and listen to what Duksie said to Doobie. What do you think Duksie is feeling?"
+msgstr "Observa la expresión de Duksie y escucha lo que le dice a Doobie. ¿Qué crees que está sintiendo Duksie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"I wish the cake was a square or a rectangle, and then it would be easy!\" says Doobie thoughtfully. \"Or, if there were four of us to share the round cake that would also be easy,\" says Maya."
+msgstr "\"Me gustaría que el pastel fuera cuadrado o rectangular, así sería fácil\", dice Doobie pensativo. \"O, si fuéramos cuatro para compartir el pastel redondo también sería fácil\", dice Maya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Doobie is doing some thoughtful problem solving! He is thinking of simpler versions of this problem that he knows how to solve. If any of those versions were enough like this situation, he could use that prior knowledge to solve this problem."
+msgstr "Doobie está resolviendo el problema de forma reflexiva. Está pensando en versiones más simples de este problema que él sepa cómo resolver. Si alguna de esas versiones fuera lo suficientemente parecida a esta situación, podría utilizar ese conocimiento previo para resolver este problema."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Because he hasn't seen a problem just like this one before, he must use another important problem solving skill -- he persists! The other children rushed to a solution, but he is thinking about it more carefully."
+msgstr "Como él no ha visto antes un problema como este, debe utilizar otra importante habilidad para resolver problemas: ¡persistir! Los otros niños se apresuraron a encontrar una solución, pero él lo piensa más cuidadosamente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Doobie is playing with the problem and thinking about shapes that are similar to this round cake that needs to be split three ways. He is enjoying the puzzle!"
+msgstr "Doobie está jugando con el problema y pensando en figuras similares a este pastel redondo que hay que dividir en tres partes. ¡Él está disfrutando del rompecabezas!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"And then, a picture comes into Doobie's head. He sees the sparkling silver badge at the front of his father's big red truck.\n"
+"\n"
+"On Sundays he helps his dad to wash the truck, and to polish the shiny badge. \"I've got it! I've got it! I know how to do it,\" yells Doobie."
+msgstr ""
+"Y entonces, una imagen viene a la cabeza de Doobie. Ve la reluciente placa plateada en la parte delantera del gran camión rojo de su padre.\n"
+"\n"
+"Los domingos el ayuda a su padre a lavar el camión, y a pulir la brillante insignia. \"¡Ya lo tengo! ¡Ya lo tengo! Sé cómo hacerlo\", grita Doobie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He persisted and he played with the problem, and his thoughts came to a shape that he knew would be perfect to solve this problem. Look at how happy he is. Describe how you feel when you solve something that was tricky."
+msgstr "Persistió y jugó con el problema, y sus pensamientos llegaron a una figura que él sabe que sería perfecta para resolver este problema. Mira qué contento está. Describe cómo te sientes cuando logras resolver algo que era difícil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are rectangles, triangles, circles, stripes, and arcs (partial circles) in this picture."
+msgstr "En esta imagen hay rectángulos, triángulos, círculos, rayas y arcos (círculos parciales)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you suppose creates the stripes on the far hillside?"
+msgstr "¿Qué supones que crea las líneas en la lejana colina?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "First he uses a knife to smooth Duksie's lines in the icing. Then he traces three lines on the cake. It looks just like the badge on his dad's truck, with three equal parts."
+msgstr "Primero utiliza un cuchillo para suavizar las líneas de Duksie en el glaseado. Luego traza tres líneas en el pastel. Se parece a la placa del camión de su padre, con tres partes iguales."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There were originally six strawberries on this cake. How many strawberries were removed? Where did they go?"
+msgstr "Originalmente había seis fresas en este pastel. ¿Cuántas fresas se quitaron? ¿Adónde se fueron?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some numbers that can be divided evenly among three people? Notice that those numbers are exactly the ones you get as you skip count by 3. They are called multiples of 3 because they are the numbers you get when you multiply by 3."
+msgstr "¿Cuáles son los números que se pueden dividir por igual entre tres personas? Observa que esos números son exactamente los que obtienes al saltar la cuenta por 3. Se llaman múltiplos de 3 porque son los números que obtenemos al multiplicar por 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the numbers you can divide evenly among 2 people? Among 4 people? Among 5 people?"
+msgstr "¿Cuáles son los números que se pueden dividir equitativamente entre 2 personas? ¿Entre 4 personas? ¿Entre 5 personas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad."
+msgstr "\"Estás lleno de sorpresas, Doobie\", dice Duksie dulcemente. \"¿Cómo lo has resuelto?”, pregunta Maya. Doobie sonríe para sí mismo. Por ahora es su secreto. Más tarde, se lo contará a su padre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It can be fun to have a secret. What's a secret you once had that is no longer a secret?"
+msgstr "Puede ser divertido tener un secreto. ¿Cuál es un secreto que alguna vez tuviste y que ya no es un secreto?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There is a lot of pink icing in many places in this picture. The oddest place is on someone's nose. How do you suppose it got there?"
+msgstr "Hay una gran cantidad de glaseado rosa en muchos lugares de esta foto. El lugar más extraño es la nariz de alguien. ¿Cómo crees que ha llegado ahí?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at how big their eyes are. What does it tell you when someone has big eyes like that?"
+msgstr "Mira qué grandes son sus ojos. ¿Qué te indica cuando alguien tiene los ojos tan grandes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Just then Mama K comes out of her house. She is carrying a tray with glasses of strawberry juice. \"Look Mama K! Doobie found the way to cut the cake into three equal pieces,\" Maya tells her.\n"
+"\n"
+"\"Well done Doobie, three equal slices! You shared fairly, I'm proud of you all. Now cut the cake and drink your juice. It's time to go home.\""
+msgstr ""
+"En ese momento, Mamá K sale de su casa. Lleva una bandeja con vasos de jugo de fresa. \"¡Mira mamá K! Doobie ha encontrado la manera de cortar el pastel en tres trozos iguales\", le dice Maya.\n"
+"\n"
+"\"¡Bien hecho Doobie, tres rebanadas iguales! Lo han compartido de manera justa, estoy orgullosa de todos ustedes. Ahora corta el pastel y toma tu jugo. Es hora de ir a casa.”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are all wearing their hats on this page. Do you like wearing a hat on a warm, sunny day? Do you have a favorite hat?"
+msgstr "Todos ellos llevan sus sombreros en esta página. ¿Te gusta llevar sombrero en los días cálidos y soleados? ¿Tienes algún sombrero favorito?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is Mama K proud of all of them? What difficult thing did they do?"
+msgstr "¿Por qué mamá K está orgullosa de todos ellos? ¿Cuál es la dificultad que han logrado resolver?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An estimate is a best guess at the size of something that is not easy to measure. What is your estimate of the number of dots on Mama K's dress?"
+msgstr "Una estimación es la mejor aproximación sobre el tamaño de algo que no es fácil de medir. ¿Cuál es tu estimación del número de puntos del vestido de Mamá K?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Maya cuts along Doobie's lines to make three equal slices. Just for fun, the children stack the slices on top of each other to check that they are the same size. Yes they are! They pack their cake to take home."
+msgstr "Maya corta a lo largo de las líneas de Doobie para hacer tres rebanadas iguales. Para divertirse, los niños apilan las rebanadas una encima de otra para comprobar que tienen el mismo tamaño. Sí, lo tienen. Empacan su pastel para llevarlo a casa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are staring very intently at the cake. Are they admiring their work of creating three equal shares, or are they wishing they could eat it?"
+msgstr "Están mirando fijamente el pastel. ¿Estarán admirando su trabajo al haber dividido tres partes iguales, o estarán deseando poder comerlas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at how much pleasure they have at seeing that their solution really works. Problem solving is like that – you have a puzzle to think about and wrestle with, and when you solve the puzzle it feels really good!"
+msgstr "Fíjate en el placer que sienten al ver que su solución realmente funciona. La resolución de problemas es así: tienes un rompecabezas en el que pensar y con el cual luchar, y cuando lo resuelves te sientes realmente bien."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of a time when you had a tricky puzzle to figure out and you finally solved it. How did it feel when you got the answer?"
+msgstr "Piensa en alguna ocasión en la que hayas tenido que resolver un rompecabezas complicado y que por fin lo has resuelto. ¿Qué sentiste cuando obtuviste la respuesta?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Doobie's dad arrives to pick up the children, and Doobie runs off to meet him.\n"
+"\n"
+"He can't wait to tell his dad how the badge on the truck helped him to solve a very tricky problem!"
+msgstr ""
+"El padre de Doobie llega a recoger a los niños y Doobie sale corriendo a su encuentro.\n"
+"\n"
+"¡No puede esperar a contarle a su padre cómo la placa del camión le ayudó a resolver un problema muy complicado!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's fun to share successes with someone you care about and who cares about you. Can you think of some things you were proud of that you shared with someone you cared about?"
+msgstr "Es divertido compartir los éxitos con alguien que apreciamos y que nos aprecia también. ¿Se te ocurren algunas cosas de las que te sientas orgulloso y que hayas compartido con alguien que aprecies?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Those same people are important for times when you need someone to share something hard for you. Can you think of such a time?"
+msgstr "Esas mismas personas son importantes para los momentos en que necesitas con quien compartir algo difícil para ti. ¿Podrías pensar en algún momento así?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The top two cakes on the next page are easy to share with three or six people. If you were sharing the bottom cake with three or five people, what would you do?"
+msgstr "Los dos pasteles superiores de la página siguiente son fáciles de compartir con tres o seis personas. Si compartieras el pastel de abajo con tres o cinco personas, ¿cómo lo harías?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "A long time ago, in the vast city of Johannesburg, a baby girl was born. That baby was me. My mom called me Miriam. Miriam Makeba."
 msgstr "Hace mucho tiempo, en la inmensa ciudad de Johannesburgo, nació una niña. Esa bebé era yo. Mi mamá me llamó Miriam. Miriam Makeba."
 
@@ -17980,6 +18332,26 @@ msgstr "Cuenten juntos el número de personas en esta página. Si se quita a la 
 msgctxt "data_list"
 msgid "How wonderful to see all these people enjoying Miriam's music and dancing together!"
 msgstr "¡Qué maravilloso es ver a toda esta gente disfrutando de la música de Miriam y bailando juntos!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It had been raining for days, and everyone was grumpy. Everyone except Sizwe, who woke up with a smile every morning. \"Yoh! Sizwe! That smile is magic!\" said Gogo. \"Is it for me?\" Sizwe clapped his hand over his mouth. \"But it's MY smile, Gogo,\" he whispered."
+msgstr "Estaba lloviendo desde hacía días y todo el mundo estaba malhumorado. Todos menos Sizwe, quien se levantaba con una sonrisa cada mañana. \"¡Yoh! ¡Sizwe! Esa sonrisa es mágica\", dijo Gogo. \"¿Es para mí?\". Sizwe se tapó la boca con la mano. \"Pero es MI sonrisa, Gogo\", susurró."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The colors on this page are muted, they are not very bright. How do muted colors make you feel? The muted colors are in strong contrast to Sizwe's bright smile, and they help us notice the smile."
+msgstr "Los colores de esta página son apagados, no son muy brillantes. ¿Cómo te hacen sentir los colores apagados? Los colores apagados hacen un fuerte contraste con la brillante sonrisa de Sizwe, y nos ayudan a notar su sonrisa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are lots of shapes here. A rectangle is a 4-side figure shaped like this page. Though it is a bit rounded, the side of his bed is a rectangle. His eyes are circles. The neckline of his shirt is a partial circle, which is called an arc."
+msgstr "Aquí hay muchas figuras. Un rectángulo es una figura de 4 lados, al igual que esta página. Aunque es un poco redondeado, el lado de su cama es un rectángulo. Sus ojos son círculos. El cuello de su camiseta es un círculo parcial, lo que se conoce como un arco."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out all the arcs in this picture, don't forget the small ones, and then look around where you are to find some more arcs."
+msgstr "Señala todos los arcos de esta imagen, sin olvidar los pequeños, y luego mira alrededor de donde te encuentres para encontrar más arcos."
 
 #. type=data_list
 msgctxt "data_list"
