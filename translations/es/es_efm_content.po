@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-06 23:57\n"
+"PO-Revision-Date: 2024-06-07 00:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7127,8 +7127,50 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Your child will be learning many things in the coming months beyond counting to 10 and above.\n"
+"Here is a quick list of topics that will be covered in this Stage.\n"
+"\n"
+"• Counting forward and backward to 10. Don’t ignore backward counting – it is important for understanding number relationships as well as being an aid for subtraction.\n"
+"• Include 0 in your counting sometimes. Including 0 now makes it a familiar number and keeps it from feeling exotic.\n"
+"• Reasoning with properties and numbers. Understanding properties and reasoning with them is a key part of developing mathematical ability.\n"
+"• Deepening understanding of shapes, especially circles, triangles, and squares. Keep using descriptive shape names as your child interacts with them.\n"
+"• Comparing and ordering numbers. How quantities compare and interact with each other is central to understanding them.\n"
+"• One more, one less, two more, two less. These concepts are relatively easy to pick up, and they will form the basis for addition and subtraction.\n"
+"• Learning to use manipulatives, especially fingers, to understand adding and subtracting. Adding and subtracting 0.\n"
+"• Subtracting a number from itself."
+msgstr ""
+"Su niño/niña aprenderá muchas cosas en los siguientes meses, además de contar hasta 10 y más. Esta es una lista rápida de los temas que se tratarán en esta etapa.\n"
+"\t\t\n"
+"* Contar hacia delante y hacia atrás hasta 10. No ignore el conteo hacia atrás; es importante para su niño/niña que comprenda las relaciones numéricas, y también le ayudará para la resta.\n"
+"* Incluir a veces el 0 en sus cuentas. Incluir el 0 ahora lo convierte en un número familiar y evita que parezca raro.\n"
+"* Razonar con propiedades y números. Comprender las propiedades y razonar con ellas es una parte fundamental del desarrollo de la capacidad matemática.\n"
+"* Profundizar en la comprensión de las figuras, especialmente círculos, triángulos y cuadrados. Siga utilizando nombres descriptivos de las figuras a medida que su niño/niña interactúa con ellas.\n"
+"* Comparar y ordenar números. La manera en que las cantidades se comparan e interactúan entre sí es fundamental para comprenderlas.\n"
+"* Uno más, uno menos, dos más, dos menos. Estos conceptos son muy fáciles de aprender y forman la base de la suma y la resta.\n"
+"* Aprender a utilizar manipulativos, especialmente los dedos, ayudan a comprender la suma y la resta. Sumar y restar 0.\n"
+"* Restar un número de sí mismo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "CONNECT THE DOTS"
 msgstr "CONECTA LOS PUNTOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Complete fun drawings by connecting numbered dots. Make these by taking a simple drawing, removing some straight lines, and replacing them with numbered dots. Connecting the dots in order recreates the original drawing."
+msgstr "**Cómo crear:** Complete divertidos dibujos uniendo puntos numerados. Hagalos tomando un dibujo sencillo, eliminando algunas líneas rectas y sustituyéndolas por puntos numerados. El dibujo original se crea al unir los puntos en el mismo orden."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Backwards:** Challenge your child to connect the dots in backwards order.\n"
+"\n"
+"You can also find these kinds of drawings to download from the internet."
+msgstr ""
+"**Hacia atrás:** Desafíe a su niño/niña a unir los puntos en orden inverso.\n"
+"\n"
+"También puede encontrar estos dibujos para descargar del internet."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7137,8 +7179,63 @@ msgstr "SALTANDO ISLAS – CONTANDO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"These puzzles use numbered islands (circles) connected by bridges (lines).\n"
+"\n"
+"**The challenge:** Find a path that connects the islands in order. The easiest versions have numbers that go from 1 to the number of islands."
+msgstr ""
+"Estos rompecabezas utilizan islas numeradas (círculos) unidas por puentes (líneas).\n"
+"\n"
+"**El desafío:** Encuentre un camino que conecte las islas en orden. Las versiones más fáciles tienen números que van del 1 al número de islas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Adjust the challenge 1:** Leave out some numbers so your child figures out what is missing and where it belongs.\n"
+"\n"
+"**Adjust the challenge 2:** Instead of starting at 1, design the puzzles to start at 0 or other numbers. (Note the range at the top of the puzzle)."
+msgstr ""
+"**Ajuste el desafío 1:** Omita algunos números para que su niño/niña averigüe cuáles faltan y adónde pertenecen.\n"
+"\n"
+"**Ajuste el desafío 2:** En lugar de empezar en 1, diseñe los rompecabezas para que empiecen en 0 o en otros números. (Observe el intervalo en la parte superior del rompecabezas)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a physical puzzle by placing pieces of paper with consecutive numbers on the floor in some twisty path. Your child can solve this puzzle by walking along the path from the smallest to the largest number.\n"
+"\n"
+"Add challenge: Replace some of the numbered pieces with blank ones. Also, have your child to start at the largest number and go downward."
+msgstr ""
+"Conviértalo en un rompecabezas físico colocando en el suelo trozos de papel con números consecutivos en algún camino zigzagueante. Su niño/niña puede resolver este rompecabezas recorriendo el camino desde el número más pequeño hasta el más grande.\n"
+"\n"
+"Agregue un desafío: Sustituya algunas de las piezas numeradas por otras en blanco. También, pídale a su niño/niña que empiece por el número más grande y vaya disminuyendo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "STRING NUMBER LINE"
 msgstr "LÍNEA DE NÚMERO DE CADENA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to having a paper number line on a wall, create a number line using a piece of string. Tie or clip a section of string between two objects. Use paper clips to attach sliding Number Cards from 0 to 10 along the string in order."
+msgstr "Además de tener una recta numérica de papel en la pared, cree una recta numérica utilizando un trozo de cuerda. Ate o sujete un trozo de cuerda entre dos objetos. Utilice clips para sujetar cartas numéricas corredizas del 0 al 10 a lo largo de la cuerda en el mismo orden."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to exploring these ideas, you and your child will probably discover many more.\n"
+"\n"
+"• Switch two numbers and have your child find the mistake.\n"
+"• Leave out a number and have your child find which one is missing.\n"
+"• Practice adding. To do 4 + 2, slide over the first 4 numbers and then slide the next 2.\n"
+"• Practice subtracting. To do 6 - 2, slide 6 cards to the left, then slide 2 of those to the right."
+msgstr ""
+"Además de explorar estas ideas, usted y su niño/niña pueden descubrir muchas más.\n"
+"\n"
+"* Cambie dos números y haga que su niño/niña encuentre el error.\n"
+"* Omita un número y pídale a su niño/niña que averigüe cuál falta.\n"
+"* Practique la suma. Para 4 + 2, deslice los 4 primeros números y después deslice los 2 siguientes.\n"
+"* Practique la resta. Para 6 - 2, deslice 6 cartas hacia la izquierda, y después deslice 2 de ellas hacia la derecha."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7149,6 +7246,33 @@ msgstr "¡VE A PESCAR!"
 msgctxt "data_list"
 msgid "Counting up to 10"
 msgstr "Contar hasta 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove cards above the highest number your child is comfortable with. For more than two players, if you have restricted the number range you may need several decks."
+msgstr "**Cómo se organiza:** Retire las cartas por encima del número más alto con el que su niño/niña se sienta cómodo. Para más de dos jugadores, puede que necesite varias barajas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Deal 5 cards to each player and put the other cards face down in a shared draw pile.\n"
+"\n"
+"During a turn, a player “fishes” by asking any player if they have a card matching one of their cards. For example: ‘Jonah, please give me a 4’. If they have it, they hand over the card. If they don’t, they say “Go Fish!” and the player must pick a card from the draw pile."
+msgstr ""
+"**Cómo se juega:** Reparta 5 cartas a cada jugador y ponga las demás boca abajo en una pila de cartas compartidas. \n"
+"\t\t\n"
+"Durante un turno, un jugador \"pesca\" preguntando a cualquier jugador si tiene una carta que coincida con una de las suyas. Por ejemplo: \"Jonás, por favor, dame un 4.\" Si lo tienen, entregan la carta. Si no la tienen, dicen «¡Go Fish!» y el jugador debe tomar una carta de la pila."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Making a book:** When a player has a pair of matching cards, those cards are placed in a “book” in front of them.\n"
+"\n"
+"**How to win:** The game is over after all the cards have been put into books. The player with the most books wins."
+msgstr ""
+"**Cree una secuencia:** Cuando un jugador tiene un par de cartas iguales, se colocan en «secuencia» frente a él/ella.\n"
+"\n"
+"**Cómo se gana:** El juego termina cuando se han colocado todas las cartas en secuencia. Gana el jugador que tenga más cartas en secuencia."
 
 #. type=data_list
 msgctxt "data_list"
