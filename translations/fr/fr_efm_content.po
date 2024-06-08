@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-08 13:34\n"
+"PO-Revision-Date: 2024-06-08 16:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1345,6 +1345,111 @@ msgstr "Le père, le grand-père et l'arrière-grand-père de Yusuf étaient tou
 msgctxt "data_list"
 msgid "People are many different ages. Suppose Papa is 25, Papa's father is 50, and Papa's grandfather is 75. How old are you? How many years until you are 25?"
 msgstr "Les gens ont des âges très différents. Supposons que Papa a 25 ans, que le père de Papa a 50 ans et que le grand-père de Papa a 75 ans. Quel âge as-tu ? Dans combien d'années auras-tu 25 ans ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boat rides into the waves. Papa's arms stretch to the oar. His leg braces against the side. His neck strains, his back muscles ripple. Papa sings as he works: \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\""
+msgstr "Le bateau avance dans les vagues. Les bras de Papa s'étirent vers la rame. Sa jambe s'appuie sur le côté. Son cou se tend, les muscles de son dos ondulent. Papa chante en travaillant : « Lâcher et balancer. Trouver un poisson. Tirer et plonger. Ne t'arrête pas. »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People sit backwards in rowboats when they row. The pointed end of this boat is much higher than the flat end -- it looks like a pretty rough ride!"
+msgstr "Les gens s'assoient à l'envers dans les barques lorsqu'ils rament. L'extrémité pointue de ce bateau est beaucoup plus haute que l'extrémité plate - on dirait que le voyage est assez difficile !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Papa's muscles are working very hard. Have you ever felt your muscles strain trying to lift or pull something?"
+msgstr "Les muscles de Papa travaillent très dur. As-tu déjà senti tes muscles se tendre en essayant de soulever ou de tirer quelque chose ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The words \"fish\" and \"swish\" rhyme. Think of some other words that rhyme with those words (dish, wish, squish)."
+msgstr "Les mots « poisson » et « passion » riment. Pense à d'autres mots qui riment avec ces mots (boisson, flacon, glaçon)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "All day long Yusuf looks at the sky. It is bright and clear and windless. A fish and a gift! What will Papa bring home from the sea? Sometimes he brings a beautiful shell. Sometimes he brings a jewel green bottle rinsed by the waves."
+msgstr "Toute la journée, Yusuf regarde le ciel. Il est clair, limpide et sans vent. Un poisson et un cadeau ! Qu'est-ce que Papa va ramener de la mer ? Parfois, il ramène un beau coquillage. Parfois, il ramène une bouteille vert bijou rincée par les vagues."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yusuf has many gifts. There is a connection between one of his gifts and something outside the window -- can you figure out what it is?"
+msgstr "Yusuf a beaucoup de dons. Il y a un lien entre un de ses dons et quelque chose à l'extérieur de la fenêtre -- peux-tu trouver ce que c'est ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the horizontal lines in this picture."
+msgstr "Comptons ensemble toutes les lignes horizontales de cette image."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which horizontal line is the longest?"
+msgstr "Quelle ligne horizontale est la plus longue ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some days Yusuf's father brings a story. Like the time they found sea turtles on the sand, hundreds washed up in a storm. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"What will you do to help the turtles?\" Papa said, \"We saved those turtles, I tell you straight. We sent them back to the ocean, every last one.\""
+msgstr "Certains jours, le père de Yusuf apporte une histoire. Comme la fois où ils ont trouvé des tortues de mer sur le sable, des centaines rejetées par une tempête. « Quoi ? » « Quoi ? » « Quoi ? » criaient les mouettes. « Que ferez-vous pour aider les tortues ? » Papa a dit : « Nous avons sauvé ces tortues, je vous le dis franchement. Nous les avons renvoyées dans l'océan, jusqu'à la dernière. »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sea turtles come out of the sea to lay eggs on the shore. Every turtle has four flippers. How many flippers do you see?"
+msgstr "Les tortues de mer sortent de la mer pour pondre leurs œufs sur le rivage. Chaque tortue a quatre nageoires. Combien de nageoires vois-tu ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you skip count by 4's to figure out how many flippers these turtles have?"
+msgstr "Peux-tu compter par 4 pour savoir combien de nageoires ont ces tortues ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A grown turtle can weigh up to 100 pounds. These turtles probably weigh 10 pounds each. Skip count by 10's to see how much these turtles weigh all together."
+msgstr "Une tortue adulte peut peser jusqu'à 45 kg. Ces tortues pèsent probablement 10 livres chacune. Compte par 10 pour voir combien elles pèsent toutes ensemble."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Always Papa brings a song. He sings the song while he pulls the oars. He sings the song while he pulls the nets. He sings the song as he winds the ropes. He sings the song as he cycles home. \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\""
+msgstr "Papa chante toujours une chanson. Il chante la chanson en tirant les rames. Il chante la chanson en tirant les filets. Il chante la chanson quand il enroule les cordes. Il chante la chanson quand il rentre à la maison à vélo. « Lâcher et balancer. Trouver un poisson. Tirer et plonger. Ne t'arrête pas. »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often sing or hum as they do something. Do you do this?"
+msgstr "Les gens chantent ou fredonnent souvent en faisant quelque chose. Est-ce que tu fais ça ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is hard work pulling a wet fishing net out of the water. How many fishermen are pulling? Do they all pull together or take turns?"
+msgstr "C'est un travail difficile que de tirer un filet de pêche humide hors de l'eau. Combien de pêcheurs tirent-ils ? Est-ce qu'ils tirent tous ensemble ou à tour de rôle ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more gulls or fishermen in this picture? How many more?"
+msgstr "Y a-t-il plus de goélands ou de pêcheurs sur cette photo ? Combien d'autres ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ouma Safiya wants a nice fat yellowtail for her supper. \"But we'll be lucky if they catch even a tiny crab. More likely it will be fish tail Friday. There's not so many fish left in the sea,\" says Ouma shaking her head. Yusuf holds Ouma's hand. They cross the road at the bathing cabins. \"Whaaat? Whaaat? Whaaat?\" cry the gulls perched on the bright rooftops. \"What is for supper?\""
+msgstr "Ouma Safiya veut un bon gros thon jaune pour son souper. « Mais nous aurons de la chance s'ils attrapent ne serait-ce qu'un petit crabe. Il est plus probable que ce soit la queue de poisson du vendredi. Il n'y a plus beaucoup de poissons dans la mer, » dit Ouma en secouant la tête. Yusuf tient la main d'Ouma. Ils traversent la route au niveau des cabines de bain. « Quoi ? » « Quoi ? » « Quoi ? » crient les mouettes perchées sur les toits lumineux. « Qu'y a-t-il pour le souper ? »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ouma means grandmother. Do you have favorite names for people you are close to?"
+msgstr "« Ouma » signifie grand-mère. As-tu des noms préférés pour les personnes dont tu es proche ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The people and the seagulls want the same things for dinner -- maybe a yellowtail or a crab. How many different kinds of fish do you know?"
+msgstr "Les gens et les mouettes veulent les mêmes choses pour le dîner - peut-être une queue jaune ou un crabe. Combien d'espèces différentes de poissons connais-tu ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides like this page. The doors and roofs of the buildings are rectangles. How many rectangles do you see in this picture? How many rectangles do you see where you are?"
+msgstr "Un rectangle est une forme avec quatre côtés droits comme cette page. Les portes et les toits des bâtiments sont des rectangles. Combien de rectangles vois-tu sur cette image ? Combien de rectangles vois-tu là où tu te trouves ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Last year the fishermen fought with the surfers. Angry fists and shouting words. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"There's enough sea for everybody,\" said Yusuf's father. He showed them the fishing license that had been Oupa Salie's. \"Waves for all. Water for free.\""
+msgstr "L'année dernière, les pêcheurs se sont battus avec les surfeurs. Des poings en colère et des mots qui crient. « Quoi ? » « Quoi ? » « Quoi ? » criaient les mouettes. « Il y a assez de mer pour tout le monde, » a dit le père de Yusuf. Il leur montra le permis de pêche qui avait été celui d'Oupa Salie. « Des vagues pour tous. De l'eau pour tous. »"
 
 #. type=data_list
 msgctxt "data_list"
