@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-09 10:05\n"
+"PO-Revision-Date: 2024-06-09 15:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3509,4 +3509,35 @@ msgstr "Une pleine lune forme un cercle complet. Une lune qui est un cercle part
 msgctxt "data_list"
 msgid "For Dog it is too cold."
 msgstr "Pour Chien, il fait trop froid."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What shows you that Dog is cold?"
+msgstr "Qu’est-ce qui te montre que Chien a froid ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A light blue color is often used to show something cold. Does seeing blue make you feel cold?"
+msgstr "Une couleur bleu clair est souvent utilisée pour montrer quelque chose de froid. Est-ce que le fait de voir du bleu te donne froid ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On cold nights, even outdoor animals can use help with the cold."
+msgstr "Les nuits froides, même les animaux d'extérieur peuvent avoir besoin d'aide à cause du froid."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog underwear.\n"
+"\n"
+"One pair of underwear is dirty. One pair of underwear is clean."
+msgstr ""
+"Chat donne des sous-vêtements à Chien.\n"
+"\n"
+"Une paire de sous-vêtements est sale. Une paire de sous-vêtements est propre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this choice of underwear very helpful?"
+msgstr "Ce choix de sous-vêtements est-il très utile ?"
 
