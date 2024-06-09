@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-09 03:24\n"
+"PO-Revision-Date: 2024-06-09 10:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3489,4 +3489,24 @@ msgstr ""
 "C'est la nuit. Il fait sombre.\n"
 "\n"
 "Il fait froid. Il fait très froid."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their house is round. Do you live in a round building?"
+msgstr "Leur maison est ronde. Habites-tu dans un bâtiment rond ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the trees together."
+msgstr "Comptons ensemble les arbres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A full moon forms a complete circle. A moon that is a partial circle like this is called a crescent moon."
+msgstr "Une pleine lune forme un cercle complet. Une lune qui est un cercle partiel comme celui-ci s’appelle un croissant de lune."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For Dog it is too cold."
+msgstr "Pour Chien, il fait trop froid."
 
