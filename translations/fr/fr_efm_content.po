@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-08 21:24\n"
+"PO-Revision-Date: 2024-06-09 02:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2784,4 +2784,71 @@ msgstr "Y-a-t-il plus d’animaux ou de ballons ? De combien ?"
 msgctxt "data_list"
 msgid "With fewer balls than animals, the animals must be good at sharing."
 msgstr "Avec plus de ballons que d’animaux, les animaux doivent savoir bien partager."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has stripes and which one has spots? How many stripes and how many spots?"
+msgstr "Lequel a des rayures et lequel a des taches ? Combien y a-t-il de rayures et de taches ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has whiskers we can see? How many whiskers?"
+msgstr "Lequel a des moustaches que tu peux voir ? Combien de moustaches vois-tu ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one is red and which one is yellow?"
+msgstr "Lequel est rouge et lequel est jaune ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog look through the window.\n"
+"\n"
+"They look through the window."
+msgstr ""
+"Chat et Chien regardent par la fenêtre.\n"
+"\n"
+"Ils regardent par la fenêtre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times does it say that they are looking through the window? The writer repeats it to tell us that Cat and Dog have nothing to do."
+msgstr "Combien de fois on nous dit qu’ils regardent par la fenêtre ? L’auteur le répète pour nous faire comprendre que Chat et Chien n’ont rien à faire."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Cat and Dog look bored?"
+msgstr "Est-ce que Chat et Chien ont l’air de s’ennuyés ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of trees."
+msgstr "Compte le nombre d’arbres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat and Dog see a butterfly!\n"
+"\n"
+"The butterfly is pink."
+msgstr ""
+"Ensuite, Chat et Chien voient un papillon !\n"
+"\n"
+"Le papillon est rose."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why were Cat and Dog so excited to see a butterfly? Were they looking for one?"
+msgstr "Pourquoi Chat et Chien étaient-ils si excités de voir un papillon ? Cherchaient-ils un papillon ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the wings on the butterfly."
+msgstr "Désigne et compte les ailes du papillon."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the short lines going away from the butterfly. They show the butterfly is alarmed."
+msgstr "Désigne et compte les lignes courtes qui s'éloignent du papillon. Elles montrent que le papillon est inquiet."
 
