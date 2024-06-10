@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-10 22:25\n"
+"PO-Revision-Date: 2024-06-10 23:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7239,6 +7239,51 @@ msgstr "Tu peux compter toutes leurs chaussures en comptant par 2 -- 2, 4, 6. Ou
 msgctxt "data_list"
 msgid "My heart feels a lot of things."
 msgstr "Mon cœur ressent plein de choses."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of different feelings you have. How many can you think of?"
+msgstr "Pense aux différents sentiments que tu ressens. À combien d’eux peux-tu penser ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a story about a time when you felt one of those feelings."
+msgstr "Raconte-moi un moment pendant lequel tu as ressenti l’un de ces sentiments."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do your feelings fit into a few groups? For example, are they all happy or sad feelings?"
+msgstr "Est-ce que tes sentiments peuvent être regroupés ? Par exemple, est-ce que ce sont tous des sentiments joyeux ou tristes ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I feel happy when my granny tells us stories in the evening."
+msgstr "Je ressens de la joie quand ma mamie nous raconte des histoires le soir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know a special person who loves to tell you stories? Does it make you feel good to hear that person tell stories?"
+msgstr "Connais-tu quelqu’un de spécial qui aime te raconter des histoires ? Est-ce qu’entendre cette personne raconter des histoires te fait te sentir bien ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together how many children are listening to granny's story. If you add granny to that count, it will be one more -- how many would that make?"
+msgstr "Comptons ensemble combien d’enfants écoutent l’histoire de mamie. Si tu ajoutes mamie au résultat, cela fera un de plus : combien cela fera en tout ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do these children look happy? How can you tell?"
+msgstr "Ces enfants ont-ils l’air heureux ? Comment peux-tu le deviner ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I feel silly when I play with my friend."
+msgstr "Je me sens drôle quand je fais le clown avec mon amie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What things do you do when you are being silly?"
+msgstr "Que fais-tu pour être drôle ?"
 
 #. type=data_list
 msgctxt "data_list"
