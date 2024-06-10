@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-10 01:55\n"
+"PO-Revision-Date: 2024-06-10 12:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5748,4 +5748,9 @@ msgstr ""
 "Le tambour a toujours été un instrument de musique important au sein de notre communauté. Nous aimons le tambour !\n"
 "\n"
 "Il y a des tambours de différentes tailles : grands, moyens et petits."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of things that have the same shape with different sizes. Perhaps one big and one small, or three with big, medium, and small."
+msgstr "Pense à des choses qui ont la même forme mais sont de différentes tailles. Peut-être une grande et une petite, ou trois grandes, moyennes et petites."
 
