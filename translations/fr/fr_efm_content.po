@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-10 13:08\n"
+"PO-Revision-Date: 2024-06-10 19:28\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5937,4 +5937,14 @@ msgstr "Fais un duo en tapant dans tes mains. Une personne commence en tapant da
 msgctxt "data_list"
 msgid "When you hear music, listen for the instruments that create the beat."
 msgstr "Quand tu entends de la musique, écoute les instruments qui créent le rythme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akadeli's Lucky Day"
+msgstr "Le jour de chance d’Akadeli"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has  counting to 12, colors, and shapes. Practice words: one, two, to twelve, estimate, take away, color names, shortest, tallest, similar, and different."
+msgstr "Cette histoire apprend à compter jusqu’à 12, les couleurs et les formes. Les mots à mettre en pratique : un, deux, jusqu’à douze, estimer, soustraire, les noms des couleurs, le plus court, le plus grand, similaire et différent."
 
