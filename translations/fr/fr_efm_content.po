@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-11 17:56\n"
+"PO-Revision-Date: 2024-06-11 18:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9619,4 +9619,14 @@ msgstr "Raconte une histoire amusante, réelle ou imaginaire, d’une époque o�
 msgctxt "data_list"
 msgid "Look at the animals."
 msgstr "Regarde les animaux."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count and name together all the animals you see."
+msgstr "Compte et nomme tous les animaux que tu vois."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are all the animals looking at?"
+msgstr "Que regardent les animaux ?"
 
