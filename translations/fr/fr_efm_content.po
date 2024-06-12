@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-11 18:56\n"
+"PO-Revision-Date: 2024-06-12 11:21\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9629,4 +9629,74 @@ msgstr "Compte et nomme tous les animaux que tu vois."
 msgctxt "data_list"
 msgid "What are all the animals looking at?"
 msgstr "Que regardent les animaux ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do the animals want something from the farmer?"
+msgstr "Les animaux veulent-ils quelque chose de la part du fermier ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow says, \"Moo.\""
+msgstr "La vache dit : « Meuh. »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow is looking at an empty trough. What do you think \"Moo\" means?"
+msgstr "La vache regarde une mangeoire vide. Selon toi, qu’est-ce que « Meuh » veut dire ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?"
+msgstr "Si tu ne peux dire qu’un seul mot (« Meuh »), tu dois le dire avec différentes intonations pour dire différentes choses. Selon toi, que veut la vache ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the cow's black spots are small and some are large. Count how many spots the cow has."
+msgstr "Les taches noires de la vache sont petites et d’autres sont grandes. Compte toutes les taches de la vache."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The goat says, \"Meh, meh.\""
+msgstr "La chèvre dit : « Bê, bê. »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is the goat looking at the drip of water from the faucet?"
+msgstr "Pourquoi la chèvre regarde-t-elle la goutte d’eau du robinet ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the goat thirsty, hungry, or both?"
+msgstr "La chèvre a-t-elle soif, faim ou les deux ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns does a goat have? Name some other animals that have two hard things growing on their head."
+msgstr "Combien de cornes a la chèvre ? Nomme d’autres animaux qui ont deux cornes sur leur tête."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse says, \"Neigh.\""
+msgstr "Le cheval dit : « Hiiii. »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse is also looking at an empty trough. What is the horse pointing at with its front left leg?"
+msgstr "Le cheval regarde aussi une mangeoire vide. Que pointe le cheval avec sa patte gauche ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the horse's legs. Can you think of a farm animal that has only two legs?"
+msgstr "Compte les pattes du cheval. Y a-t-il un animal de la ferme qui n’a que deux pattes ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there animals that have any other number of legs than two or four? What about insects or spiders? -- do you know how many legs they have?"
+msgstr "Y a-t-il des animaux qui ont un nombre de pattes autre que deux ou quatre ? Qu’en est-il des insectes ou des araignées ? Sais-tu combien de pattes ils ont ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The pig says, \"Grunt.\""
+msgstr "Le cochon dit : « Grouin-grouin. »"
 
