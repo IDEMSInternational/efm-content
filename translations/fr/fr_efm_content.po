@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-13 01:07\n"
+"PO-Revision-Date: 2024-06-13 02:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10599,4 +10599,29 @@ msgstr "Après tous les autres vêtements, penses-tu que ces chaussures sont de 
 msgctxt "data_list"
 msgid "Where did she go?"
 msgstr "Où est-elle allée ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These shoes must be in a different room -- the door and windows are a different color. What colors were they before?"
+msgstr "Ces chaussures doivent-être dans une autre pièce -- la porte et les fenêtres sont de couleurs différentes. De quelles couleurs étaient-elles, avant ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They fit me very well."
+msgstr "Elles me vont très bien."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is her hat the same as her doll's hat? Does it seem too small to you?"
+msgstr "Son chapeau est-il le même que celui de sa poupée ? Cela te semble-t-il trop petit ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she needs a belt with her dress?"
+msgstr "Penses-tu qu’elle devrait porter une ceinture avec sa robe ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is she ready for school now?"
+msgstr "Est-elle prête pour aller à l’école, maintenant ?"
 
