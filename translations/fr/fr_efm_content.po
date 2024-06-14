@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-14 12:02\n"
+"PO-Revision-Date: 2024-06-14 13:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12373,4 +12373,70 @@ msgstr "Comptons ensemble le nombre de pieds sur la table avec la lampe. As-tu a
 msgctxt "data_list"
 msgid "The number of legs on the lamp table is one less than the number on the couch.  Three is one less than what number?"
 msgstr "Le nombre de pieds de la table avec la lampe est un de moins que celui du canapé.  Trois est un de moins, cela fait quel nombre ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Where is Lulu?\n"
+"\n"
+"Is she next to the stove?"
+msgstr ""
+"Où est Lulu ?\n"
+"\n"
+"Est-elle à côté de la cuisinière ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess where Lulu is hiding in the kitchen."
+msgstr "Devine où est cachée Lulu dans la cuisine."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the cabinet knobs together."
+msgstr "Comptons ensemble les poignées de tiroirs."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at all the round things you can find in this kitchen -- there are quite a few."
+msgstr "Montre toutes les choses rondes que tu peux trouver dans cette cuisine : il y en a pas mal."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is she in the cupboard?"
+msgstr "Est-elle dans le placard ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Once again, Lulu picked a clever hiding place, but her colors don't fit in with the colors in the kitchen."
+msgstr "Encore une fois, Lulu a choisi une bonne cachette mais les couleurs qu’elle porte ne vont pas avec celles de la cuisine."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. Count the rectangles you see on this page."
+msgstr "Un rectangle est une forme à quatre côtés, comme cette page. Compte le nombre de rectangles que tu vois sur cette page."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A cylinder is a shape like a jar with straight sides. There are five cylinders on the top shelf (the bowl is not a cylinder). How many are there on Lulu's shelf? Is it the same number?"
+msgstr "Un cylindre est de forme similaire à un bocal avec des côtés droits. Il y a cinq cylindres sur l’étagère du haut (le bol n’est pas un cylindre). Combien il y en a sur l’étagère de Lulu ? Est-ce le même nombre ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu, it is time to go! Where are you? calls Ma."
+msgstr "« Lulu, il est temps de partir ! Où es-tu ? » appelle Maman."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lulu blends in better this time. Do you see her?"
+msgstr "Lulu se fond mieux dans la masse cette fois-ci. Est-ce que tu la vois ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So many things to count! Point at and count together the blocks on the floor, the dolls, and the drawings on the wall."
+msgstr "Tellement de choses à compter ! Montre et compte le nombre de cubes sur le sol, les poupées et les dessins sur le mur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which group of things is the largest and which is the smallest?"
+msgstr "Quel groupe d’objets est le plus grand et lequel est le plus petit ?"
 
