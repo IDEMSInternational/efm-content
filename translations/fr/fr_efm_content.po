@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-14 18:54\n"
+"PO-Revision-Date: 2024-06-14 19:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12633,4 +12633,304 @@ msgstr "Penses-tu que Lulu aime regarder ou lire des livres ?"
 msgctxt "data_list"
 msgid "Do you?"
 msgstr "Et toi ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I have lost my bat, and I cannot find it."
+msgstr "J’ai perdu ma chauve-souris et je ne peux pas la trouver."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Though you can only see five of them, there are six panes in the window. What else is there six of?"
+msgstr "Bien que vous puissiez en voir seulement cinq, il y a (en fait) 6 carreaux dans la fenêtre. Où y en a-t-il aussi six ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The number of rungs on the ladder is one more than the number of panes -- how many? The number of panes you can see is five, which is one less than the total number of panes."
+msgstr "Le nombre d’échelons sur les escaliers est un de plus que le nombre de carreaux dans la fenêtre. Savez-vous combien d’échelons y a-t-il sur les escaliers ? Le nombre d’échelons que vous voyez est cinq, ce qui est un de moins du total du nombre de carreaux."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles have four straight sides and corners like those on this page. Point to and describe the rectangles in the picture."
+msgstr "Les rectangles ont quatre côtés droits et des coins, juste comme cette page. Veuillez indiquer les rectangles et les décrire dans l’image."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked behind the door. It was not there."
+msgstr "J’ai regardé derrière la porte. Ce n’était pas là."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice the girl outside the window?"
+msgstr "Avez-vous vu la fille à l’extérieur de la fenêtre ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bat is not behind the door -- could it be inside the box?"
+msgstr "La chauve-souris n’est pas derrière la porte – pourrait-elle être dans la boîte ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A box is a 3-dimensional shape with rectangles on every side. Do you see anything else similar to a box? (the door)"
+msgstr "Une boîte est une forme tridimensionnelle avec des rectangles à chaque côté. Voyez-vous une autre chose qui ressemble à la boîte ? (La porte)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it on the shelf. I could not find it there."
+msgstr "Je l’ai cherchée sur l’étagère. Je ne pouvais pas la trouver là-bas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window bangs into the shelf when it opens. That seems like a bad design!"
+msgstr "La fenêtre se claque avec l’étagère quand-elle s’ouvre. Cela me semble être une mauvaise conception."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this shelf is too high for a child's room?"
+msgstr "Pensez-vous que l’étagère est trop haute pour une chambre d’enfant ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There's that girl riding around again. Notice that the buildings behind her are shaped like big boxes. A lot of buildings are."
+msgstr "Là, il y a la fille qui est encore en train de faire du vélo. Remarquer que les bâtiments derrière elle sont formés comme des grandes boîtes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it under the bed. Not there either."
+msgstr "Je l’ai cherchée en dessous du lit. Pas là-bas non plus."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl's dress matches the bag hanging by the door. Do you think the bag is hers?"
+msgstr "La robe de la fille ressemble au sac à côté de la porte. Pensez-vous que le sac est à elle ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of a place the boy hasn't looked?"
+msgstr "Pouvez-vous penser à une place où le garçon n’a pas encore chercher ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vertical lines are lines that go up and down. How many vertical pieces are there to the blue frame on the side of the bed? The number of spaces between those vertical pieces is one less. How many is that?"
+msgstr "Les lignes verticales sont des lignes qui bougent vers le nord et le sud, c’est-à-dire que ce sont des lignes qui montent et descendent. Combien de pièces verticales y-a-t-il dans le cadre bleu à côté du lit ? Le nombre d’espaces entre ces pièces verticales est un moins de ça. Il y a combien d’espaces alors ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched inside the box. There was no sign of it."
+msgstr "Je l’ai cherchée dans la boîte. Il n’y avait aucun signe de cela."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy's shirt has a stripe on it. Do you see other stripes in this picture? Do you see stripes around where you are?"
+msgstr "La chemise du garçon a une rayure dessus. Voyez-vous des rayures sur des autres choses dans cette image ? Voyez-vous des rayures sur quelque chose, quelque part autour de vous ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pink is a light shade of red. If you include pink, how many things are red in this picture?"
+msgstr "La couleur rose est une teinte claire du rouge. Si on inclut la couleur rose comme étant rouge, combien de choses sont rouges dans cette image ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don't count pink, you get one less thing that is red. How many is that?"
+msgstr "Si on n'inclut pas le rose, on obtient une chose de moins qui est rouge. Quel est le nombre de choses rouges qu’on obtient dans ce cas ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched the attic. It was not there."
+msgstr "J’ai cherché dans le grenier. Ce n’était pas là."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy has looked in a lot of places. How long do you look for something before you give up?"
+msgstr "Le garçon a cherché dans plusieurs endroits. Combien de temps cherchez-vous quelque chose avant d’abandonner ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you have trouble finding something, what are some places you end up finding it?"
+msgstr "Quand vous avez des difficultés à trouver quelque chose, quels sont finalement les endroits où vous les trouvez ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the window no longer bangs into the shelf. Did the shelf move?"
+msgstr "La fenêtre ne claque plus avec l’étagère. L’étagère a-t-elle bougé ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked here, there, and everywhere. I could not find it anywhere."
+msgstr "J’ai cherché ici, là-bas, et partout. Je ne pouvais pas la trouver là-bas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at his face, what do you think the boy is feeling?"
+msgstr "En regardant le visage du garçon, comment pensez-vous qu’il se sent ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever lost something and never found it?"
+msgstr "Avez-vous quelquefois perdu quelque chose et ne l’avez jamais retrouvé ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl is smiling in the window. Do you think she knows where the bat is?"
+msgstr "La fille est en train de rire à la fenêtre. Pensez-vous qu’elle connaît où est la chauve-souris ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is my cat?"
+msgstr "Où est mon chat ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cat is very good at hiding. The dark black of this cat helps it hide."
+msgstr "Ce chat est très fort pour se cacher. Sa couleur sombre l’aide à se cacher."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of places would make it easy to see this cat?"
+msgstr "Dans quel genre d’endroit serait-il facile de voir le chat ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you like to hide?"
+msgstr "Où aimes-tu te cacher ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it under the bed?"
+msgstr "Est-il sous le lit ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat under the bed before the boy looked there?"
+msgstr "Le chat était-il sous le lit avant que le garçon ait regardé ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This bed cover has lots of colorful stripes. Count how many different colors it has."
+msgstr "Cette couette a plein de rayures colorées. Compte combien de couleurs elle a."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The walls in this room have a free form design that doesn't repeat. Have you  seen walls like this before?"
+msgstr "Les murs de cette chambre ont un motif original qui ne se répète pas. Tu as déjà vu des murs comme cela ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it on top of the cupboard?"
+msgstr "Est-il sur l’armoire ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Instead of being on top of the cupboard, the cat is inside it."
+msgstr "À la place d’être sur l’armoire, le chat est dedans."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cupboard has a beautiful design. How many colors does it have?"
+msgstr "Cette armoire possède de beaux motifs. Combien de couleurs y a-t-il ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about the shapes and patterns on the cupboard doors."
+msgstr "Parle des formes et des dessins sur les portes de l’armoire."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it behind the couch?"
+msgstr "Est-il derrière le canapé ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is very easy to see right now. Too bad the boy is looking in the wrong place."
+msgstr "Le chat est facile à trouver ici. C’est dommage que le garçon regarde au mauvais endroit."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the strong colors on this page: red, orange, yellow, green, blue, and brown."
+msgstr "Montre les couleurs principales de cette page : rouge, orange, jaune, vert, bleu et marron."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors of the rainbow are missing from the room?"
+msgstr "Quelles couleurs de l’arc-en-ciel ne trouve-t-on pas dans cette pièce ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it next to the trash can?"
+msgstr "Est-il à côté de la poubelle ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat must be very fast and quiet -- he was next to where the boy is now."
+msgstr "Le chat doit être très rapide et silencieux -- il était juste à côté où le garçon se trouve à présent."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the red bricks just below the window."
+msgstr "Compte les briques rouges qui sont en dessous de la fenêtre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many straight lines in this picture. Point to some curved lines."
+msgstr "Il y a beaucoup de lignes droites dans cette image. Montre des courbes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it inside the basket?"
+msgstr "Est-il dans le panier ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which part of the cat is not inside the SOAP box?"
+msgstr "Quelle partie du chat n’est pas dans la boîte de savons ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is inside the basket? Is that where the cat sleeps?"
+msgstr "Qu’est-ce qui se trouve dans le panier ? C’est ici que le chat dort ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the wall does not line up with the squares of the floor."
+msgstr "Remarque que le mur ne s’aligne pas avec les carrés du sol."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it outside the house?"
+msgstr "Est-il dehors ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That poor boy is always looking in the wrong place."
+msgstr "Le pauvre garçon regarde toujours au mauvais endroit."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the boy ever finds the cat, or will the boy give up?"
+msgstr "Penses-tu que le garçon va trouver le chat, ou bien que le garçon va abandonner ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the same wall pattern as on the last page, but the floor is a different color!"
+msgstr "Ce sont les mêmes motifs que sur le mur de la page précédente, mais le sol n’est pas de la même couleur !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here it is!"
+msgstr "Trouvé !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like the cat is in a cupboard or under a sink."
+msgstr "On dirait bien que le chat est dans un placard ou bien sous un évier."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat playing a game with the boy?"
+msgstr "Est-ce que le chat s’amusait avec le garçon ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
+msgstr "Qu’est-ce que le garçon va faire avec le chat maintenant ? Peut-être va-t-il lui donner à manger ou jouer avec ? Qu’en penses-tu ?"
 
