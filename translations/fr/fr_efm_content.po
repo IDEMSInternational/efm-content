@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-16 01:54\n"
+"PO-Revision-Date: 2024-06-16 02:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6237,6 +6237,65 @@ msgstr "Fais un duo en tapant dans tes mains. Une personne commence en tapant da
 msgctxt "data_list"
 msgid "When you hear music, listen for the instruments that create the beat."
 msgstr "Quand tu entends de la musique, écoute les instruments qui créent le rythme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of These is Not Like the Others"
+msgstr "L'un d'eux n'est pas comme les autres"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This activity has your child looking at four things and deciding which three share a property that the fourth one does not. The following is a quick list of examples together with explanations. Children often have a fresh way of looking at things and it is well worth listening to them to see if their reasoning is novel yet sound.\n"
+"\n"
+"There are several ways to present these four items to your child. The easiest for you is to simply say the list. If the items are easy to draw, you can draw them. If the items are hard to draw, you may be able to find photos or drawings in ads or magazines that you can cut out and select from. You may be able to use a single photo with lots of content and point out four things in the photo.\n"
+"\n"
+"For activities like this, once your child has practiced this for a while and has a solid idea of the activity, it is good to reverse your roles - your child will learn a lot by creating examples for you to solve. As before, their reasoning may be very different from yours, so listen carefully."
+msgstr ""
+"Cette activité demande à votre enfant d'examiner quatre choses et de décider lesquelles partagent une propriété que le quatrième n'a pas. Ce qui suit est une liste rapide d'exemples avec des explications. Les enfants ont souvent une nouvelle façon de voir les choses et cela vaut la peine de les écouter pour voir si leur raisonnement est nouveau mais solide.\n"
+"\n"
+"Il existe plusieurs façons de présenter ces quatre éléments à votre enfant. Le plus simple pour vous est de simplement dire la liste. Si les éléments sont faciles à dessiner, vous pouvez les dessiner. Si les éléments sont difficiles à dessiner, vous pourrez peut-être trouver des photos ou des dessins dans des publicités ou des magazines que vous pourrez découper et sélectionner. Vous pourrez peut-être utiliser une seule photo avec beaucoup de contenu et souligner quatre éléments sur la photo.\n"
+"\n"
+"Pour des activités comme celle-ci, une fois que votre enfant a pratiqué cela pendant un certain temps et a une idée solide de l'activité, il est bon d'inverser vos rôles - votre enfant apprendra beaucoup en créant des exemples à résoudre. Comme indiqué auparavant, leur raisonnement peut être très différent du vôtre, alors écoutez attentivement."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Groups of Four"
+msgstr "Groupes de quatre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"Voici quelques exemples pour vous aider à démarrer.\n"
+"\n"
+"* lapin, chien, papillon, oreiller - Les trois premiers sont vivants et l'oreiller ne l'est pas.\n"
+"* banane, fromage, marteau, carotte - Le marteau est le seul que vous ne pouvez pas manger.\n"
+"* fromage, chaussures, manteau, chemise - Le fromage est le seul que vous ne pouvez pas porter.\n"
+"* triangle rouge, carré rouge avec un trou, carré vert, carré rouge sans trou - N'importe lequel des trois premiers peut être l'impair. Le triangle rouge est le seul qui ne soit pas un carré. Le carré rouge avec un trou est le seul qui n'est pas solide. Le carré vert est le seul qui n'est pas rouge.\n"
+"* chien, chat, lion, poisson rouge - Le lion est le seul animal de la liste qui ferait un mauvais animal de compagnie. Il est aussi un peu plus gros que les autres animaux. Ou, trois d'entre eux ont quatre pattes et le poisson vit dans l'eau.\n"
+"* rosier, chêne, érable, pin - Le rosier est le seul qui ne soit pas un arbre.\n"
+"* banc, table, canapé, tabouret - La table est la seule sur laquelle vous ne vous asseyez pas. Ou seul le canapé est mou.\n"
+"* aboiement, klaxon, arc-en-ciel, clic - L'arc-en-ciel est le seul qui n'émette pas de son.\n"
+"* chaussettes, pantalons, brosse à dents, chapeau - La brosse à dents est la seule que vous ne voudriez pas porter.\n"
+"* chaise, parapluie, canapé, tabouret - Le parapluie est le seul sur lequel vous ne voudriez pas vous asseoir.\n"
+"* fourmis, cochon, araignées, sauterelles - Le cochon est le seul qui ne soit pas un petit insecte.\n"
+"\n"
+"Vous pouvez également le faire avec des images au lieu de mots. Prenez l'habitude de découper des images dans des publicités, des magazines et tout ce qui vous arrive sous la main afin de pouvoir jouer à des jeux avec les images."
 
 #. type=data_list
 msgctxt "data_list"
@@ -17531,4 +17590,19 @@ msgstr ""
 "Les animaux étaient silencieux. Ils ne comprenaient pas. Le Roi Léopard leur expliqua : « Oui, Antilope ! Cinq plus cinq est une autre façon d’obtenir dix. Il y a plusieurs façons de compter jusqu’à dix. »\n"
 "\n"
 "En faisant cette compétition, le roi ne cherchait pas l’animal le plus grand ou le plus fort. C’était une compétition pour trouver l’animal le plus intelligent. Et c’est ainsi que l’Antilope devint reine quand le Léopard mourut."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Antelope listened carefully to the rules and found a new solution. Did Antelope cheat or was she clever?"
+msgstr "Antilope avait attentivement écouté toutes les règles de la compétition et avait trouvé une nouvelle solution pour gagner. Est-ce qu’Antilope avait triché ou est-ce qu’elle était tout simplement intelligente ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If someone asked you to count to ten, would you count by 1's, 2's, 5's, or 10's? What would happen if you counted by 3's or 4's? Why don't those numbers come out evenly?"
+msgstr "Si quelqu’un te demandait de compter jusqu’à dix, est-ce que tu compterais de 1 en 1, de 2 en 2, de 5 en 5 ou même 10 ? Et si tu essayais avec des 3 ou des 4 ? Pourquoi est-ce qu’on ne pourrait pas faire la même chose avec ces chiffres ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
+msgstr "Bien souvent, un groupe de personnes pense à quelque chose de la même manière et ils passent à côté d’un bon moyen de résoudre un problème. Ceux qui résolvent bien les problèmes découvrent de nouvelles façons de les résoudre !"
 
