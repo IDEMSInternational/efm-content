@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-18 00:04\n"
+"PO-Revision-Date: 2024-06-18 01:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6518,6 +6518,110 @@ msgstr ""
 "C'est un cas particulier de la dernière idée. Mettez des points, disons 8 ou 9, régulièrement espacés sur un cercle. Votre enfant peut jouer avec la création de différents motifs en reliant les points dans l'ordre, ou en connectant un point sur deux ou un point sur trois. Pour faciliter les différentes expériences, utilisez des punaises dans un morceau de carton ou de bois, puis utilisez de la ficelle entre les punaises.\n"
 "\n"
 "Si votre enfant est intrigué par les motifs qui sont produits, vous pouvez poser des questions telles que : Pour un cercle avec 8 points, pourquoi est-ce qu'une seule chaîne est nécessaire pour sauter de 1, 3, 5 ou 7, mais 2 ou 4 chaînes sont nécessaires pour sauter 2, 4 ou 6. De même, pour un cercle avec 9 points, pourquoi une seule chaîne est-elle nécessaire pour sauter par 1, 2, 4, 5, 7 ou 8, mais 3 chaînes sont nécessaires pour 3 et 6 ? Il est trop jeune pour comprendre l'idée que 2, 4 et 6 ont un facteur en commun avec 8, et 3 et 6 ont un facteur en commun en 9 - cependant, voir les modèles peut planter les graines d'idées ultérieures."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Sudoku"
+msgstr "Forme Sudoku"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is your child’s first math puzzle, and that’s pretty cool! It also means you should take it very slowly so your child has lots of success and fun, and very little frustration.\n"
+"\n"
+"The rules for these 4 by 4 Sudokus are very simple. There are four different types of tokens. There should be one of each kind of token in each row, column, and 2 by 2 corner of the puzzle. Use moveable pieces so that it is easy for your child to experiment in finding solutions.\n"
+"\n"
+"The first puzzles you make should just have one token missing from each row. Once your child understands and figures out those puzzles, you can move to trickier ones, but do not be in a hurry.\n"
+"\n"
+"The easiest way to create these puzzles is to start with a finished Sudoku and remove some of the tokens. To help you to do that, there are a number of finished Sudokus supplied below. After those finished examples, there is a list of methods you can use to create puzzles from a finished puzzle."
+msgstr ""
+"C'est le premier casse-tête mathématique de votre enfant, et c'est plutôt cool ! Cela signifie également que vous devez y aller très lentement pour que votre enfant ait beaucoup de succès et de plaisir, et très peu de frustration.\n"
+"\n"
+"Les règles de ces Sudokus 4 par 4 sont très simples. Il existe quatre types de jetons différents. Il devrait y avoir un jeton de chaque type dans chaque ligne, colonne et coin 2 par 2 du puzzle. Utilisez des pièces mobiles pour que votre enfant puisse facilement expérimenter pour trouver des solutions.\n"
+"\n"
+"Les premiers puzzles que vous créez ne devraient avoir qu'un seul jeton manquant dans chaque rangée. Une fois que votre enfant a compris et résolu ces énigmes, vous pouvez passer à des énigmes plus délicates, mais ne soyez pas pressé.\n"
+"\n"
+"Le moyen le plus simple de créer ces puzzles est de commencer avec un Sudoku terminé et de supprimer certains des jetons. Pour vous aider à le faire, un certain nombre de Sudokus finis sont fournis ci-dessous. Après ces exemples finis, il y a une liste de méthodes que vous pouvez utiliser pour créer des puzzles à partir d'un puzzle fini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finished Sudokus"
+msgstr "Sudokus terminés"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before giving you a collection of finished Sudokus, there is one thing to note. You can take any one of these and create 23 more of them simply by interchanging token types - for example, you can take a finished puzzle and create a “new” one by swapping the circles and triangles and swapping the diamonds and squares. \n"
+"\n"
+"The examples below are distinctly different from each other and cannot be made from each other by doing interchanges. You can create more examples from these by doing such interchanges if you like."
+msgstr ""
+"Avant de vous donner une collection de Sudokus finis, il y a une chose à noter. Vous pouvez prendre n'importe lequel d'entre eux et en créer 23 autres simplement en échangeant les types de jetons - par exemple, vous pouvez prendre un puzzle terminé et en créer un \"nouveau\" en échangeant les cercles et les triangles et en échangeant les losanges et les carrés.\n"
+"\n"
+"Les exemples ci-dessous sont nettement différents les uns des autres et ne peuvent pas être créés les uns à partir des autres en effectuant des échanges. Vous pouvez créer plus d'exemples à partir de ceux-ci en faisant de tels échanges si vous le souhaitez."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Methods for Creating Sudokus From Solved Ones"
+msgstr "Méthodes pour créer des sudokus à partir de ceux résolus"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Once you have a finished Sudoku, you can use any of the following strategies to create a puzzle that has a unique solution. Generally speaking, the more tokens you remove, the harder the puzzle will be.\n"
+"\n"
+"* Remove a single token from each row or from each column.\n"
+"* Remove a single token from each 2 by 2 corner.\n"
+"* Remove all of one kind of token from the entire puzzle.\n"
+"* Remove all tokens from one 2 by 2 corner.\n"
+"* Remove one entire row and one entire column.\n"
+"* Remove all of one kind of token and one each of the other kinds of tokens.\n"
+"* Remove all tokens from two 2 by 2 opposite corners.\n"
+"* Remove all tokens from two 2 by 2 opposite corners and 1 token each from the other two corners.\n"
+"\n"
+"Of course, these are not the only methods you can use. They are just supplied here as sure-fire general methods that will quickly create puzzles."
+msgstr ""
+"Une fois que vous avez terminé un Sudoku, vous pouvez utiliser l'une des stratégies suivantes pour créer un puzzle qui a une solution unique. De manière générale, plus vous supprimez de jetons, plus le puzzle sera difficile.\n"
+"\n"
+"* Supprimez un seul jeton de chaque ligne ou de chaque colonne.\n"
+"* Retirez un seul jeton de chaque coin 2 par 2.\n"
+"* Retirez tout un type de jeton de l'ensemble du puzzle.\n"
+"* Retirez tous les jetons d'un coin 2 par 2.\n"
+"* Supprimez une ligne entière et une colonne entière.\n"
+"* Supprimez tout un type de jeton et un jeton de chaque autre type de jetons.\n"
+"* Retirez tous les jetons de deux coins opposés 2 par 2.\n"
+"* Retirez tous les jetons de deux coins opposés 2 par 2 et 1 jeton chacun des deux autres coins.\n"
+"\n"
+"Bien sûr, ce ne sont pas les seules méthodes que vous pouvez utiliser. Elles sont simplement fournies ici en tant que méthodes générales infaillibles qui créeront rapidement des énigmes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sudoku With Jigsaws"
+msgstr "Numéro Sudoku avec jigsaws"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is similar to the Shape Sudoku puzzles, only now it uses numbers. If your child is not ready to recognize numerals yet, you can use quantities of dots instead. To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once.\n"
+"\n"
+"Create these puzzles for your child by starting with a completed puzzle with moveable pieces of numbered paper and then removing some of the pieces of paper."
+msgstr ""
+"Ceci est similaire aux puzzles Forme Sudoku, seulement maintenant il utilise des nombres. Si votre enfant n'est pas encore prêt à reconnaître les chiffres, vous pouvez utiliser des quantités de points à la place. Pour éviter d'effacer, utilisez des bouts de papier numérotés (ou pointillés) pour résoudre les énigmes.\n"
+"\n"
+"Pour un puzzle 4 par 4, chaque ligne et colonne a les numéros de 1 à 4 une fois. De plus, chaque sous-région marquée a les numéros de 1 à 4 une fois.\n"
+"\n"
+"Créez ces puzzles pour votre enfant en commençant par un puzzle terminé avec des morceaux de papier numérotés et amovibles, puis en retirant certains morceaux de papier."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4 by 4 Puzzles"
+msgstr "Puzzles 4 par 4"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The 4 by 4 puzzles with subregions that are the 2 by 2 corners are exactly the same as the Shape Sudoku puzzles given before. You can go back to that page in these Resources to see solved versions of those puzzles. To create a numbered version of them, replace each colored shape by a number. For example, red circles could be 1, orange triangles 2, purple diamonds 3, and blue squares 4."
+msgstr "Les puzzles 4 par 4 avec des sous-régions qui sont les coins 2 par 2 sont exactement les mêmes que les puzzles Forme Sudoku donnés précédemment. Vous pouvez revenir à cette page dans ces ressources pour voir les versions résolues de ces énigmes. Pour en créer une version numérotée, remplacez chaque forme colorée par un numéro. Par exemple, les cercles rouges pourraient être 1, les triangles oranges 2, les losanges violets 3 et les carrés bleus 4."
 
 #. type=data_list
 msgctxt "data_list"
