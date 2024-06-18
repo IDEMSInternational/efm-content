@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-16 03:53\n"
+"PO-Revision-Date: 2024-06-18 00:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6299,6 +6299,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "Îlot D'île - Comptage"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
 msgstr "Ces puzzles ont des îles numérotées (cercles) reliées par des ponts (lignes) dessinés sur du papier. Le défi est de trouver un chemin qui relie les îles dans l'ordre."
 
@@ -6416,6 +6421,103 @@ msgstr ""
 "Enfin, pliez ce triangle en deux. Vous êtes enfin prêt à faire la découpe de votre design !\n"
 "\n"
 "Amusez-vous à expérimenter avec de nombreuses combinaisons différentes de coupes et de couleurs !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "Nim avec 1 et 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Game Rules"
+msgstr "Les règles du jeu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"Un nombre cible, disons 10, est choisi. Laissez votre enfant choisir d'y aller en premier ou en deuxième. Le total commence à 0. Pendant un tour, une personne choisit d'ajouter 1 ou 2 au total actuel. La première personne à atteindre la cible gagne.\n"
+"\n"
+"Ce jeu peut également être joué avec la soustraction. Dans cette version, le total de départ commence à la cible, qui dans cet exemple est de 10. À un tour donné, le joueur choisit de soustraire 1 ou 2. La première personne à atteindre 0 gagne.\n"
+"\n"
+"Une autre variante est qu'au lieu de gagner, le joueur forcé de frapper ou d'aller au-delà du nombre cible perd. Vous pouvez également expérimenter ce qui se passe si vous permettez à un joueur d'ajouter (ou de soustraire) 1, 2 ou 3 pour chaque tour."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding the Game"
+msgstr "Comprendre le jeu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"Sans rien analyser, ce jeu est agréable à jouer et il permet de s'entraîner à additionner ou soustraire 1 et 2. On pourrait en rester là. Cependant, c'est aussi un excellent exemple de deux techniques de résolution de problèmes que vous pouvez montrer à votre enfant lorsqu'il est prêt : 1) apprendre à partir d'exemples plus simples et 2) rechercher des modèles.\n"
+"\n"
+"Toutes les versions peuvent être étudiées de cette façon. Regardons-en une : la soustraction à partir de 10 et celui qui obtient 0 gagne. La partie difficile de ce jeu est que 10 est si loin de 0. Voyons donc une version plus simple. Lorsqu'on leur demande de le faire, ils proposent souvent de commencer à 5 ou 6 - cela leur paraît absurde de commencer à 1, mais c'est en fait ce qu'ils devraient faire ! Souvent, il est préférable de commencer aussi simplement que possible - cela signifie commencer à 1. Si c'est votre coup et que le compte est 1, vous gagnez. Faites les prochains. Si le compte est de 2, vous gagnez. Si le compte est 3, vous devez perdre - que vous soustrayiez 1 ou 2, vous donnerez à votre adversaire une position gagnante. Si le compte est de 4, vous gagnerez car vous soustrairez 1 et placerez votre adversaire dans une position perdante. En continuant de cette manière, construisez un tableau de résultats:\n"
+"\n"
+"1G - 2G - 3P - 4G - 5G - 6P - 7G - 8G - 9P - 10G"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"Ce tableau montre clairement qu'il existe un motif répétitif de 3. En commençant à 10 , vous devriez commencer par soustraire 1. Ce qui est satisfaisant, c'est que, une fois que vous avez décidé d'examiner des versions plus simples du problème, l'analyse est rapide et facile - aucune analyse délicate n'est nécessaire. Maintenant, vous êtes un maître à ce jeu et vous savez quoi faire à partir de n'importe quel numéro ! N'importe quelle version de ce jeu de base est tout aussi facile à analyser.\n"
+"\n"
+"Mais attendez, il y a une dernière question. Pourquoi y a-t-il un motif répétitif de 3 ? Une fois qu'un joueur est bloqué sur un nombre perdant qui est un multiple de trois, chaque paire de coups après cela peut être ajoutée à 3 - si le joueur perdant soustrait 1, l'autre joueur soustrait 2, et si le joueur perdant soustrait 2 l'autre joueur soustrait 1."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connect The Dots"
+msgstr "Reliez les points"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Everyday Scenes With Dots"
+msgstr "Créer des scènes de tous les jours avec des points"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
+msgstr "Complétez des dessins amusants en reliant des points numérotés. Une façon consiste à prendre un dessin simple, disons une maison, à supprimer quelques lignes droites et à les remplacer par des points numérotés, qui, une fois connectés, recréent le dessin original."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Geometric Patterns With Angles"
+msgstr "Faire des motifs géométriques avec des angles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make abstract drawings by connecting points with the same number along opposite sides of an angle. The numbers may not be needed - if so, feel free to omit them - this will make the finished designs a little less cluttered. You can add variety to these by having your child draw with colors. There are lots of amazing examples of this to be found under the category of String Art on the Internet. This circle drawing was made by moving ahead by one dot on one side of the line segment and ahead by two dots on the other side."
+msgstr "Faites des dessins abstraits en reliant des points avec le même nombre le long des côtés opposés d'un angle. Les chiffres peuvent ne pas être nécessaires - si c'est le cas, n'hésitez pas à les omettre - cela rendra les dessins finis un peu moins encombrés. Vous pouvez ajouter de la variété à ceux-ci en demandant à votre enfant de dessiner avec des couleurs. Il existe de nombreux exemples étonnants comme cela dans la catégorie String Art sur Internet. Ce dessin de cercle a été réalisé en avançant d'un point d'un côté du segment de ligne et en avant de deux points de l'autre côté."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Patterns With Circles"
+msgstr "Faire des motifs avec des cercles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a special case of the last idea. Put some dots, say 8 or 9, evenly spaced on a circle. Your child can play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot. To make it easier to do different experiments, use push pins in a piece of cardboard or wood and then use string between the push pins.\n"
+"\n"
+"If your child is intrigued by the patterns that are produced, you can look at questions such as: For a circle with 8 dots, why is only one string needed to skip by 1, 3, 5, or 7, but 2 or 4 strings are needed for skipping 2, 4, or 6. Similarly, for a circle with 9 dots, why is only one string needed to skip by 1, 2, 4, 5, 7, or 8, but 3 strings are needed for 3 and 6? It’s too young to understand the idea that 2, 4, and 6 have a factor in common with 8, and 3 and 6 have a factor in common in 9 - however, seeing the patterns may plant the seeds for later ideas."
+msgstr ""
+"C'est un cas particulier de la dernière idée. Mettez des points, disons 8 ou 9, régulièrement espacés sur un cercle. Votre enfant peut jouer avec la création de différents motifs en reliant les points dans l'ordre, ou en connectant un point sur deux ou un point sur trois. Pour faciliter les différentes expériences, utilisez des punaises dans un morceau de carton ou de bois, puis utilisez de la ficelle entre les punaises.\n"
+"\n"
+"Si votre enfant est intrigué par les motifs qui sont produits, vous pouvez poser des questions telles que : Pour un cercle avec 8 points, pourquoi est-ce qu'une seule chaîne est nécessaire pour sauter de 1, 3, 5 ou 7, mais 2 ou 4 chaînes sont nécessaires pour sauter 2, 4 ou 6. De même, pour un cercle avec 9 points, pourquoi une seule chaîne est-elle nécessaire pour sauter par 1, 2, 4, 5, 7 ou 8, mais 3 chaînes sont nécessaires pour 3 et 6 ? Il est trop jeune pour comprendre l'idée que 2, 4 et 6 ont un facteur en commun avec 8, et 3 et 6 ont un facteur en commun en 9 - cependant, voir les modèles peut planter les graines d'idées ultérieures."
 
 #. type=data_list
 msgctxt "data_list"
