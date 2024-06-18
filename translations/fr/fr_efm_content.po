@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-18 03:15\n"
+"PO-Revision-Date: 2024-06-18 21:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7482,6 +7482,33 @@ msgstr ""
 "8 3 10 9, 6 1 10 8, 8 1 10 6\n"
 "\n"
 "Les pyramides de taille 15, 21 ou supérieure sont laissées aux vrais dédiés. Bonne chance et profitez-en !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Enclosed Sums"
+msgstr "Sommes jointes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes  that border it. Similar to Shape Sums puzzles, circles may have any value, and the value for a non-circular shape must be the same as any other shape of the same type. For example, all squares must have the same value and all hexagons would have the same value. You can optionally add the rule that different non-circular shapes must have different values - for example, that squares and hexagons must have different values.\n"
+"\n"
+"The puzzle for your child is to figure out the numbers in the shapes and regions that are not supplied."
+msgstr ""
+"Ces puzzles ont des formes reliées par des lignes. Chaque région fermée a un nombre qui est la somme des formes qui la bordent. Semblable aux puzzles Shape Sums, les cercles peuvent avoir n'importe quelle valeur, et la valeur d'une forme non circulaire doit être la même que toute autre forme du même type. Par exemple, tous les carrés doivent avoir la même valeur et tous les hexagones auraient la même valeur. Vous pouvez éventuellement ajouter la règle selon laquelle différentes formes non circulaires doivent avoir des valeurs différentes - par exemple, les carrés et les hexagones doivent avoir des valeurs différentes.\n"
+"\n"
+"Le casse-tête pour votre enfant consiste à trouver les nombres dans les formes et les régions qui ne sont pas fournies."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Create these puzzles by making a diagram of circles and maybe some other shapes. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers.\n"
+"\n"
+"As with Shape Sums puzzles in Chapter 3, start with simple puzzles with just one or two numbers missing and slowly progress to puzzles with more numbers missing, more enclosed regions next to each other, and more use of values in non-circular regions."
+msgstr ""
+"Créez ces puzzles en faisant un diagramme de cercles et peut-être d'autres formes. Ensuite, remplissez tous les chiffres avec des nombres et remplissez les régions délimitées avec la somme des chiffres qui les entourent. Enfin, supprimez certains des numéros.\n"
+"\n"
+"Comme pour les énigmes Forme Sums du chapitre 3, commencez par des énigmes simples avec un ou deux nombres manquants et progressez lentement vers des énigmes avec plus de nombres manquants, des régions plus fermées les unes à côté des autres et une plus grande utilisation des valeurs dans les régions non circulaires."
 
 #. type=data_list
 msgctxt "data_list"
