@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-18 21:26\n"
+"PO-Revision-Date: 2024-06-18 22:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7486,7 +7486,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Enclosed Sums"
-msgstr "Sommes jointes"
+msgstr "Sommes incluses"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7509,6 +7509,296 @@ msgstr ""
 "Créez ces puzzles en faisant un diagramme de cercles et peut-être d'autres formes. Ensuite, remplissez tous les chiffres avec des nombres et remplissez les régions délimitées avec la somme des chiffres qui les entourent. Enfin, supprimez certains des numéros.\n"
 "\n"
 "Comme pour les énigmes Forme Sums du chapitre 3, commencez par des énigmes simples avec un ou deux nombres manquants et progressez lentement vers des énigmes avec plus de nombres manquants, des régions plus fermées les unes à côté des autres et une plus grande utilisation des valeurs dans les régions non circulaires."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Compensation"
+msgstr "Île d'île - indemnisation"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"L’utilisation de la compensation pour l'addition est un moyen de rendre les problèmes d'addition beaucoup plus faciles. L'idée est de retirer un montant de l'un des nombres ajoutés et de le donner à l'autre nombre - le résultat reste le même, mais l'un des nombres devient plus facile à travailler.\n"
+"\n"
+"Par exemple, lorsque vous ajoutez 7 + 8, si vous retirez 2 du 7 et le donnez au 8, le problème devient 5 + 10. Alternativement, si vous retirez 3 du 8 et le donnez au 7, le problème devient 10 + 5. Chaque fois que vous pouvez faire d’un des nombres un multiple de 10, vous aurez un problème beaucoup plus simple.\n"
+"\n"
+"Ces énigmes permettent de s'entraîner à créer de nouveaux problèmes en utilisant la compensation. Le défi est de trouver un chemin qui relie toutes les îles avec la même réponse. Il n'est légal de connecter deux îles que si les numéros de leurs problèmes diffèrent de 1. Seules certaines îles seront sur le chemin.\n"
+"\n"
+"Réalisez ces énigmes en commençant par une dizaine d'îles avec quelques connexions. Identifiez un chemin d'un bord à l'autre des îles. Le long de ce chemin, placez les problèmes qui diffèrent les uns des autres par un - commencez peut-être par un problème qui implique d'ajouter 10, puis faites des variations. Dans les îles proches du chemin, posez des problèmes avec de petits changements qui ont des réponses différentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "Il y a vraiment peu à faire pour varier la difficulté de ces puzzles. L'introduction de fausses voies conduira probablement à la confusion plutôt qu'à un défi, et c'est donc généralement une mauvaise idée."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "DiffTriangles et SumTriangles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles"
+msgstr "DiffTriangles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "Les puzzles DiffTriangles ont des triangles et des carrés qui partagent des côtés. Un triangle a toujours exactement deux carrés sur ses côtés, et le côté restant a un triangle ou est vide. Le nombre d'un triangle est la différence des deux carrés adjacents. Le défi est de fournir les numéros manquants."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Constructing Puzzles** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, put in numbers starting at one end, and then work your way to the far end. When you are done, remove some of the numbers. Making puzzles with loops or more complicated interactions is trickier; however, the effort pays off with some challenging puzzles!\n"
+"\n"
+"When your child gets very comfortable with these, they may want to take a turn creating some new puzzles of their own. They should have fun and learn a lot by figuring out how the numbers fit together.\n"
+"\n"
+"**Strategies for Solving** The places to do first are any triangles between two filled in squares. Another easy case is a square next to a filled triangle that has a smaller filled square next to it - in this case, because we are not working with negative numbers, there is only one choice for filling in the empty square. The most common case is a square that has two possible values looking in one direction, and two other possibilities looking in the other direction - there is usually only one number that overlaps in those possibilities."
+msgstr ""
+"**Construire des puzzles** Faire des puzzles sans boucles est facile. Dessinez une séquence alternée de carrés et de triangles, mettez des nombres en commençant à une extrémité, puis avancez jusqu'à l'extrémité. Lorsque vous avez terminé, supprimez certains des numéros. Faire des puzzles avec des boucles ou des interactions plus compliquées est plus délicat ; Cependant, l'effort porte ses fruits avec quelques énigmes difficiles !\n"
+"\n"
+"Lorsque votre enfant sera très à l'aise avec ceux-ci, il voudra peut-être créer à tour de rôle de nouveaux puzzles. Ils devraient s'amuser et apprendre beaucoup en découvrant comment les nombres s'emboîtent.\n"
+"\n"
+"Stratégies de résolution: Les endroits à faire en premier sont des triangles entre deux carrés remplis. Un autre cas facile est un carré à côté d'un triangle plein qui a un petit carré plein à côté - dans ce cas, parce que nous ne travaillons pas avec des nombres négatifs, il n'y a qu'un seul choix pour remplir le carré vide. Le cas le plus courant est un carré qui a deux valeurs possibles regardant dans une direction, et deux autres possibilités regardant dans l'autre direction - il n'y a généralement qu'un seul nombre qui se chevauche dans ces possibilités."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some examples with lots of interconnections."
+msgstr "Voici quelques exemples avec de nombreuses interconnexions."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles"
+msgstr "SumTriangles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles puzzles are just like DiffTriangles only they use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors. Make these puzzles using methods similar to DiffTriangles. SumTriangles puzzles are typically simpler to solve than DiffTriangles."
+msgstr "Les puzzles SumTriangles sont comme les DiffTriangles, sauf qu'ils utilisent l'addition à la place de la soustraction. La valeur d'un triangle est la somme de ses deux ou trois carrés voisins. Réalisez ces puzzles en utilisant des méthodes similaires aux DiffTriangles. Les puzzles SumTriangles sont généralement plus simples à résoudre que les DiffTriangles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Skip Counting"
+msgstr "Îlot d'île – skip comptage"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have islands (circles) connected by bridges (lines). In this version of Island Hopping, the connections are made by skip counting. Some of the islands have numbers written on them and some will start off blank. Above the puzzle is the starting number, ending number, and the skip amount. The challenge is to fill in the missing numbers and find the path. You can also place the numbers and blanks on pieces of paper on the floor to make a stepping puzzle."
+msgstr "Ces puzzles ont des îles (cercles) reliées par des ponts (lignes). Dans cette version d'Island Hopping, les connexions se font par comptage de sauts. Certaines des îles ont des chiffres écrits dessus et certaines commenceront en blanc. Au-dessus du puzzle se trouvent le numéro de départ, le numéro de fin et le montant du saut. Le défi est de remplir les nombres manquants et de trouver le chemin. Vous pouvez également placer les chiffres et les blancs sur des morceaux de papier au sol pour créer un puzzle à pas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount. \n"
+"\n"
+"Creating these puzzles is the same as creating the Island Hopping - Counting puzzles from early in Chapter 2. Make the islands first, fill in the skip counting numbers, connect those islands in the correct order, and then add some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out.\n"
+"\n"
+"You can revisit the puzzle construction strategies described in the Bonus Material for Chapter 2 for Island Hopping - Counting. Also, if you still have any of those puzzles, it is very easy to convert one of those puzzles to one of these. Take the following puzzle from Chapter 2. It involves counting from 0 to 6. The red numbers are the ones that would normally be left out when the puzzle is given to your child. To convert it to a puzzle that starts at 3 and skip counts by 2, simply multiply all the numbers by 2 and then add 3 to them (leaving out the red ones, of course)."
+msgstr ""
+"Comme pour l'activité Comptage par sauts, créez des énigmes pour vous entraîner à avancer ou à reculer en commençant par une variété de nombres, pas seulement des nombres qui sont un multiple du montant à sauter.\n"
+"\n"
+"Créer ces énigmes revient à créer les énigmes Island Hopping - Counting du début du chapitre 2. Créez d'abord les îles, remplissez les numéros de comptage par sauts, reliez ces îles dans le bon ordre, puis ajoutez des connexions supplémentaires pour aider à créer un en sortir un puzzle. Dans la version que vous donnez à votre enfant, supprimez certains chiffres en laissant suffisamment de chiffres pour qu'il puisse toujours être compris.\n"
+"\n"
+"Vous pouvez revoir les stratégies de construction de puzzle décrites dans le matériel bonus du chapitre 2 pour Island Hopping - Counting. De plus, si vous avez encore l'un de ces puzzles, il est très facile de convertir l'un de ces puzzles en l'un d'entre eux. Prenez le casse-tête suivant du chapitre 2. Il consiste à compter de 0 à 6. Les nombres rouges sont ceux qui seraient normalement laissés de côté lorsque le casse-tête est donné à votre enfant. Pour le convertir en un casse-tête qui commence à 3 et saute le compte par 2, multipliez simplement tous les nombres par 2, puis ajoutez-leur 3, comme dans le tableau ci-dessous. Après cela, remplacez les numéros d'origine par les nouveaux (en laissant de côté les rouges, bien sûr)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fix It"
+msgstr "Réparer"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 4 by 4 grid of numbers with a target sum. The challenge is to find entries to remove so that the sum of the remaining numbers in every row and column is the target. An alternative version uses individual target sums for each row and column.\n"
+"\n"
+"Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers. You can make these trickier by having alternative pairs or triples of numbers that partially work. If your child is enjoying these, but finding them too easy, you can always make larger ones that are 4 by 5, 5 by 5, or even larger.\n"
+"\n"
+"Red stars have been added here to show which entries would be removed to make the puzzles work."
+msgstr ""
+"Commencez avec une grille de nombres de 4 par 4 avec une somme cible. Le défi consiste à trouver les entrées à supprimer afin que la somme des nombres restants dans chaque ligne et colonne soit la cible. Une version alternative utilise des sommes cibles individuelles pour chaque ligne et colonne.\n"
+"\n"
+"Réalisez ces énigmes en mettant des paires ou des triples de nombres dont la somme correspond à la somme cible. Remplissez ensuite les espaces restants avec des numéros leurres. Vous pouvez rendre ces choses plus compliquées en ayant des paires ou des triples de nombres alternatifs qui fonctionnent partiellement. Si votre enfant les apprécie, mais les trouve trop faciles, vous pouvez toujours en créer de plus grands, 4 x 5, 5 x 5 ou même plus grands.\n"
+"\n"
+"Des étoiles rouges ont été ajoutées ici pour montrer quelles entrées seraient supprimées pour que les énigmes fonctionnent."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are two puzzles using individual target sums for the rows and columns."
+msgstr "Voici deux énigmes utilisant des sommes cibles individuelles pour les lignes et les colonnes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping by Ones and Tens"
+msgstr "D'île en île par uns et des dizaines"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A rectangular grid of numbers is given with some of the numbers filled in. The challenge is to fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once in the entire grid. Referencing a 100-Chart may be helpful for beginning solvers.\n"
+"\n"
+"Make this puzzle by taking an empty grid and filling it with numbers, with no number repeated. Next, remove some of the numbers, making sure that it is not too hard for your child. In these examples, the red numbers are the missing ones."
+msgstr ""
+"Une grille rectangulaire de nombres est fournie avec certains des nombres remplis. Le défi consiste à remplir les nombres restants de sorte que deux nombres partageant un côté ne diffèrent qu'à un seul endroit, et la différence des chiffres à cet endroit est 1 (y compris entre 0 et 9). Aucun numéro ne peut être utilisé plus d'une fois dans toute la grille. Le référencement d'un 100-Chart peut être utile pour les solveurs débutants.\n"
+"\n"
+"Réalisez ce puzzle en prenant une grille vide et en la remplissant de nombres, sans répéter de nombre. Ensuite, supprimez certains des chiffres, en vous assurant que ce n'est pas trop difficile pour votre enfant. Dans ces exemples, les nombres rouges sont manquants."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using only one-digit and two-digit numbers, there is not a lot of trickiness that can be introduced. However, they are great practice for thinking about place value. One wrinkle that may surprise your child are transitions such as 95 to 5 to 15 or 11 to 10 to 0 to 9 - they may not realize there is a 0 in the tens place for single-digit numbers and they may be surprised by 0 and 9 being connected.\n"
+"\n"
+"Grids are a natural way to present these problems. However, the puzzles can also be represented in the same way as other Island Hopping puzzles using circles, and this representation allows for some additional freedom in creating puzzles."
+msgstr ""
+"En utilisant uniquement des nombres à un chiffre et à deux chiffres, il n'y a pas beaucoup de complexité à introduire. Cependant, ils constituent une excellente pratique pour réfléchir à la valeur de position. Une ride qui peut surprendre votre enfant sont les transitions telles que 95 à 5 à 15 ou 11 à 10 à 0 à 9 - ils peuvent ne pas se rendre compte qu'il y a un 0 à la place des dizaines pour les nombres à un chiffre et ils peuvent être surpris par 0 et 9 étant connecté.\n"
+"\n"
+"Les grilles sont un moyen naturel de présenter ces problèmes. Cependant, les puzzles peuvent également être représentés de la même manière que d'autres puzzles Island Hopping en utilisant des cercles, et cette représentation permet une certaine liberté supplémentaire dans la création de puzzles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Shape Puzzles"
+msgstr "Puzzles en forme de solitaire"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Triangles"
+msgstr "Triangles magiques"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a triangle of six circles with three circles on a side. In the circles, use each of the numbers from 1 to 6 once so that each side of the triangle has the same sum. This involves two challenges - finding out which sums will work and then figuring out how to get those sums. It is better to let your child play with this to figure out which sums are possible, but if frustration wins out, the possible sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys figuring this out, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23.\n"
+"\n"
+"As with so many of the puzzles for this age group, the main reason to have your child play with this is to encourage having fun exploring how numbers interact with each other and to practice number facts. They do not yet have the math or reasoning skills to be systematic with their exploration. However, these puzzles can be explored more deeply, and here are some ideas to dig into if you or an older child are interested.\n"
+"\n"
+"Let SUM represent the sum of one side of the triangle. If you add up the three sides of the triangle, the total will be 3 x SUM. However, the total of the three sides will also be the sum of all the numbers plus one extra copy for each corner of the triangle. Let C-SUM be the sum of the values in the three corners. We end up with the relationship that 3 x SUM = (Total of all the numbers) + C-SUM."
+msgstr ""
+"Faites un triangle de six cercles avec trois cercles sur un côté. Dans les cercles, on utilise chacun des nombres de 1 à 6 une fois pour que chaque côté du triangle ait la même somme. Cela implique deux défis - découvrir quelles sommes fonctionneront et ensuite déterminer comment obtenir ces sommes. Il est préférable de laisser votre enfant jouer avec cela pour déterminer quelles sommes sont possibles, mais si la frustration l'emporte, les sommes possibles sont 9, 10, 11 et 12.\n"
+"\n"
+"Si votre enfant aime comprendre cela, cela peut être fait pour triangles plus grands aussi. Pour un triangle avec neuf cercles avec quatre cercles sur un côté, les sommes possibles sont 17, 19, 20, 21 et 23.\n"
+"\n"
+"Comme pour tant d'énigmes pour ce groupe d'âge, la principale raison pour laquelle votre enfant joue avec ce est d'encourager à s'amuser à explorer la façon dont les nombres interagissent les uns avec les autres et à s'exercer aux faits numériques. Ils n'ont pas encore les compétences en mathématiques ou en raisonnement pour être systématiques dans leur exploration. Cependant, ces énigmes peuvent être explorées plus en profondeur, et voici quelques idées à creuser si vous ou un enfant plus âgé êtes intéressé.\n"
+"\n"
+"Soit SUM représente la somme d'un côté du triangle. Si vous additionnez les trois côtés du triangle, le total sera de 3 x SOMME. Cependant, le total des trois côtés sera également la somme de tous les nombres plus une copie supplémentaire pour chaque coin du triangle. Soit C-SUM la somme des valeurs aux trois coins. Nous nous retrouvons avec la relation que 3 x SUM = (Total de tous les nombres) + C-SUM."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6-Circle Puzzle"
+msgstr "Casse-tête à 6 cercles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Apply this to the triangle with six circles. The sum of all the numbers is the sum of the numbers from one to six, which is 21. So the equation becomes 3 x SUM = 21 + C-SUM The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 4 + 5 + 6 = 15. So, 3 x SUM is between 21 + 6 = 27 and 21 + 15 = 36. This forces SUM to be 9, 10, 11, 12. Note also that C-SUM = 3 x SUM - 21, which is handy for finding the corners.\n"
+"\n"
+"Another thing to notice is the symmetry of the possible values. What is causing this symmetry is that for every solution, there is another solution created by subtracting all the numbers from 7 (or from 10 for the nine circle puzzle). A little calculating will show that this symmetry takes a puzzle with sum SUM and creates a new one with sum (21 - SUM) (or 40 - SUM for the nine circle puzzle).\n"
+"\n"
+"The last thing to notice before we dig in with actual numbers is that for any solution for the three corners, we can assume that they are in increasing order going around clockwise, with the smallest number at the top. If they are not in that configuration to begin with, you can rotate or flip the diagram until they are.\n"
+"\n"
+"All these observations save a tremendous amount of work. We only need to look at SUM equal to 9 and 10, and we only need to have the corners in increasing order. If SUM is 9, then C-SUM = 3 x 9 - 21 = 6, so the trio is 1, 2, and 3. If SUM is 10, then a + b + c = 3 x 10 - 21 = 9. This leaves two possibilities - either corner values of 1, 2, and 6, or 1, 3, and 5. A quick trial rules out 1, 2, and 6 as a possibility.\n"
+"\n"
+"After much work, we have the solutions for SUM being 9 and 10 for the six circle puzzle. Remember that you can get the solutions for SUM being 11 and 12 by subtracting all the entries from 7."
+msgstr ""
+"Appliquez ceci au triangle avec six cercles. La somme de tous les nombres est la somme des nombres de un à six, soit 21. L'équation devient donc 3 x SUM = 21 + C-SUM La plus petite C-SUM peut être 1 + 2 + 3 = 6, et le plus grand qu'il puisse être est 4 + 5 + 6 = 15. Donc, 3 x SUM est entre 21 + 6 = 27 et 21 + 15 = 36. Cela force SUM à être 9, 10, 11, 12. Notez également que C-SUM = 3 x SUM - 21, ce qui est pratique pour trouver les coins.\n"
+"\n"
+"Une autre chose à noter est la symétrie des valeurs possibles. La cause de cette symétrie est que pour chaque solution, il existe une autre solution créée en soustrayant tous les nombres de 7 (ou de 10 pour le puzzle à neuf cercles). Un petit calcul montrera que cette symétrie prend un puzzle avec sum SUM et en crée un nouveau avec sum (21 - SUM) (ou 40 - SUM pour le puzzle à neuf cercles).\n"
+"\n"
+"La dernière chose à remarquer avant de creuser avec des nombres réels est que pour toute solution pour les trois coins, nous pouvons supposer qu'ils sont dans l'ordre croissant dans le sens des aiguilles d'une montre, avec le plus petit nombre en haut. S'ils ne sont pas dans cette configuration pour commencer, vous pouvez faire pivoter ou retourner le diagramme jusqu'à ce qu'ils le soient.\n"
+"\n"
+"Toutes ces observations permettent d'économiser un travail considérable. Nous avons seulement besoin de regarder SUM égal à 9 et 10, et nous avons seulement besoin d'avoir les coins dans l'ordre croissant. Si SUM est 9, alors C-SUM = 3 x 9 - 21 = 6, donc le trio est 1, 2 et 3. Si SUM est 10, alors a + b + c = 3 x 10 - 21 = 9. Ce laisse deux possibilités - soit des valeurs de coin de 1, 2 et 6, ou 1, 3 et 5. Un essai rapide exclut 1, 2 et 6 comme possibilité.\n"
+"\n"
+"Après beaucoup de travail, nous avons les solutions pour SUM étant 9 et 10 pour le puzzle des six cercles. N'oubliez pas que vous pouvez obtenir les solutions pour SOMME étant 11 et 12 en soustrayant toutes les entrées de 7."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9-Circle Puzzle"
+msgstr "9 cercle puzzle"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use the same approach for the 9 circle puzzle. The sum of the numbers from 1 to 9 is 45. Hence, 3 x SUM = 45 + C-SUM. The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 7 + 8 + 9 = 24. So 3 x SUM is between 45 + 6 = 51 and 45 + 24 = 69, which forces SUM to be between 17 and 23. Taking a solution and subtracting all the entries from 10 gives the following SUM pairings: 17 - 23, 18 - 22, 19 - 21, and 20 - 20. So, solutions are only needed for 17, 18, 19, and 20. The corresponding values for C-SUM are 6, 9, 12, and 15. \n"
+"\n"
+"* SUM = 17 and C-SUM = 6. For this, the corners must be 1, 2, 3, and it works.\n"
+"* SUM = 18 and C-SUM = 9. For this, the corners must be either 1, 2, 6 or 1, 3, 5. Neither works.\n"
+"* SUM = 19 and C-SUM = 12. There are quite a few possibilities for the corners, but the only combinations that work are 1, 4, 7 and 2, 3, 7.\n"
+"* SUM = 20 and C-SUM = 15. There are too many combinations for the corners, and many of them work. Two that work are 1, 5, 9 and 2, 5, 8."
+msgstr ""
+"Utilisez la même approche pour le puzzle à 9 cercles. La somme des nombres de 1 à 9 est 45. Par conséquent, 3 x SUM = 45 + C-SUM. Le plus petit C-SUM peut être 1 + 2 + 3 = 6, et le plus grand qu'il peut être est 7 + 8 + 9 = 24. Donc 3 x SUM est compris entre 45 + 6 = 51 et 45 + 24 = 69, ce qui force SUM à être compris entre 17 et 23. Prendre une solution et soustraire toutes les entrées de 10 donne les paires SUM suivantes : 17 - 23, 18 - 22, 19 - 21 et 20 - 20. Ainsi, les solutions ne sont nécessaires que pour 17 , 18, 19 et 20. Les valeurs correspondantes pour C-SUM sont 6, 9, 12 et 15.\n"
+"\n"
+"* SUM = 17 et C-SUM = 6. Pour cela, les coins doivent être 1, 2, 3, et il travaux.\n"
+"* SUM = 18 et C-SUM = 9. Pour cela, les coins doivent être soit 1, 2, 6 ou 1, 3, 5. Aucun ne fonctionne.\n"
+"* SUM = 19 et C-SUM = 12. Il y a pas mal de possibilités pour les coins, mais les seules combinaisons qui fonctionnent sont 1, 4, 7 et 2, 3, 7.\n"
+"* SUM = 20 et C-SUM = 15. Là il y a trop de combinaisons pour les coins, et beaucoup d'entre elles fonctionnent. Deux qui fonctionnent sont 1, 5, 9 et 2, 5, 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Designs"
+msgstr "Magic designs"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Similar to Magic Triangles, these have circles connected in a geometric pattern and an associated group of numbers. Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"The analysis of these puzzles is similar to what was done for Magic Triangles. Let SUM be the common sum that all the rows share. Let c be the value of the middle circle, for puzzles that have one. The general strategy will be to add up all the rows and investigate the relationship that is revealed. Note also that, just as for Magic Triangles, a new solution can be created by subtracting all the entries from one more than the largest number.\n"
+"\n"
+"1. The numbers from 1 to 4 are in a plus sign shape with no circles in common. The numbers 1 to 4 add up to 10, and this is split evenly between the two directions. So SUM = 5 and the answer is easy."
+msgstr ""
+"Similaire aux triangles magiques, ceux-ci ont des cercles reliés selon un motif géométrique et un groupe de nombres associé. Mettez les nombres dans les cercles pour que chaque ligne droite de cercles connectés ait la même somme.\n"
+"\n"
+"L'analyse de ces énigmes est similaire à ce qui a été fait pour les Triangles Magiques. Soit SUM la somme commune que partagent toutes les lignes. Soit c la valeur du cercle du milieu, pour les puzzles qui en ont un. La stratégie générale consistera à additionner toutes les lignes et à enquêter sur la relation révélée. Notez également que, tout comme pour les Triangles Magiques, une nouvelle solution peut être créée en soustrayant toutes les entrées d'une de plus que le plus grand nombre.\n"
+"\n"
+"1. Les nombres de 1 à 4 sont en forme de signe plus sans cercles en commun. Les nombres 1 à 4 totalisent 10, et cela est réparti également entre les deux directions. Donc SUM = 5 et la réponse est simple."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2. The numbers from 1 to 5 are in a plus sign with one circle in common in the middle. The numbers 1 to 5 add up to 15. Adding up the two directions gives 2 x SUM = 15 + c. Because 15 + c must be even, c can be 1, 3, and 5. Get the solution for c = 5 (SUM = 10) from the c = 1 solution by subtracting all the numbers from 6."
+msgstr "2. Les nombres de 1 à 5 sont dans un signe plus avec un cercle en commun au milieu. Les nombres de 1 à 5 totalisent 15. La somme des deux directions donne 2 x SOMME = 15 + c. Parce que 15 + c doit être pair, c peut être 1, 3 et 5. Obtenez la solution pour c = 5 (SOMME = 10) à partir de la solution c = 1 en soustrayant tous les nombres de 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3. The numbers from 1 to 7 are in lines of 3 circles with one common circle in the middle. Adding up the three directions gives 3 x SUM = 28 + 2 x c. Because 3 evenly divides 28 + 2 x c, this forces c to be 1, 4, or 7. The solutions for c = 1 and 4 are given."
+msgstr "3. Les nombres de 1 à 7 sont en lignes de 3 cercles avec un cercle commun au milieu. L'addition des trois directions donne 3 x SUM = 28 + 2 x c. Parce que 3 divise également 28 + 2 xc, cela force c à être 1, 4 ou 7. Les solutions pour c = 1 et 4 sont données."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4. The numbers from 1 to 9 are in lines of 3 circles with one common circle in the middle. Adding up the four directions gives 4 x SUM = 45 + 3 x c. Because 4 evenly divides 45 + 3 x c, this forces c = 1, 5, or 9."
+msgstr "4. Les nombres de 1 à 9 sont alignés sur 3 cercles avec un cercle commun au milieu. L'addition des quatre directions donne 4 x SUM = 45 + 3 x c. Parce que 4 divise également 45 + 3 xc, cela force c = 1, 5 ou 9."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. The numbers from 1 to 5 are placed in an L shape with one circle in common in the corner. This is really the same as problem #2, so the solutions are essentially the same.\n"
+"\n"
+"6. The numbers from 1 to 8 are in a plus sign with no circles in common. The two directions evenly split 36, the sum of all the numbers, so SUM = 18. There are many ways to solve this by splitting the set of numbers into two groups that add up to 18. One solution is 1, 2, 7, 8 and 3, 4, 5, 6, and another is 1, 3, 6, 8 and 2, 4, 5, 7.\n"
+"\n"
+"7. The numbers from 1 to 9 are in a plus sign with one circle in common in the middle. Adding up the two directions gives 2 X SUM = 45 + c, so c = 1, 3, 5, 7, and 9. Solutions for c = 1, 3, and 5 are given."
+msgstr ""
+"5. Les nombres de 1 à 5 sont placés en forme de L avec un cercle en commun dans le coin. C'est vraiment le même que le problème #2, donc les solutions sont essentiellement les mêmes.\n"
+"\n"
+"6. Les nombres de 1 à 8 sont dans un signe plus sans cercles en commun. Les deux directions divisent également 36, la somme de tous les nombres, donc SUM = 18. Il existe de nombreuses façons de résoudre ce problème en divisant l'ensemble de nombres en deux groupes qui totalisent 18. Une solution est 1, 2, 7, 8 et 3, 4, 5, 6, et un autre est 1, 3, 6, 8 et 2, 4, 5, 7.\n"
+"\n"
+"7. Les nombres de 1 à 9 sont dans un signe plus avec un cercle en commun au milieu . L'addition des deux directions donne 2 X SOMME = 45 + c, donc c = 1, 3, 5, 7 et 9. Les solutions pour c = 1, 3 et 5 sont données."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "8. The numbers from 1 to 12 are in a star shape. This has 6 directions of lines of 4 circles. This one is much harder than the others. If you add up all the directions, every number will be involved twice. The numbers from 1 to 12 add up to 78. Thus we have 6 x SUM = 2 x 78, which means SUM = 26 (as given in the hint). A solution is given below. As always, another solution can be obtained by subtracting all the entries from 13."
+msgstr "8. Les nombres de 1 à 12 sont en forme d'étoile. Cela a 6 directions de lignes de 4 cercles. Celui-ci est beaucoup plus dur que les autres. Si vous additionnez toutes les directions, chaque numéro sera impliqué deux fois. Les nombres de 1 à 12 totalisent 78. Ainsi, nous avons 6 x SUM = 2 x 78, ce qui signifie SUM = 26 (comme indiqué dans l'astuce). Une solution est donnée ci-dessous. Comme toujours, une autre solution peut être obtenue en soustrayant toutes les entrées de 13."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9. The numbers from 1 to 7 are in an H shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. There are 5 possible lines of 3 connected circles. If the 5 directions are added up, all the circles will be used twice, with the exception of the center which is used three times. Adding up the five directions gives 5 x SUM = 2 x 28 + c. Because 5 evenly divides 56 + c, this forces c = 4, and in that case SUM = 12 (as given in the hint). Note that neither 2 nor 3 can be on the same side as the 1, and this leads to the following solution."
+msgstr "9. Les nombres de 1 à 7 sont en forme de H - 3 verticalement à gauche, 1 au centre, 3 verticalement à droite. Il y a 5 lignes possibles de 3 cercles connectés. Si les 5 directions sont additionnées, tous les cercles seront utilisés deux fois, à l'exception du centre qui est utilisé trois fois. L'addition des cinq directions donne 5 x SUM = 2 x 28 + c. Parce que 5 divise également 56 + c, cela force c = 4, et dans ce cas SUM = 12 (comme indiqué dans l'astuce). Notez que ni 2 ni 3 ne peuvent être du même côté que le 1, ce qui conduit à la solution suivante."
 
 #. type=data_list
 msgctxt "data_list"
