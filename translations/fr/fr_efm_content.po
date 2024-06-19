@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-19 18:00\n"
+"PO-Revision-Date: 2024-06-19 18:59\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20008,6 +20008,75 @@ msgstr "Si quelqu’un te demandait de compter jusqu’à dix, est-ce que tu com
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "Bien souvent, un groupe de personnes pense à quelque chose de la même manière et ils passent à côté d’un bon moyen de résoudre un problème. Ceux qui résolvent bien les problèmes découvrent de nouvelles façons de les résoudre !"
+
+#. type=template
+msgctxt "template"
+msgid "Before Talking"
+msgstr "Avant le langage"
+
+#. type=template
+msgctxt "template"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
+msgstr "Parlez avec votre enfant avant même qu’il ne parle ou comprenne les mots. Pointez du doigt, nommez et décrivez les choses que vous voyez telles que les formes, les couleurs, les comparaisons et les quantités. Lorsque votre enfant commence à comprendre des mots, posez-lui une question sur un objet et demandez-lui de le montrer du doigt. Par exemple : « Où est la balle ? » Si votre enfant ne peut pas trouver l’objet, montrez-le lui."
+
+#. type=template
+msgctxt "template"
+msgid "Early Talking"
+msgstr "Début du langage"
+
+#. type=template
+msgctxt "template"
+msgid "As your child begins to understand and say words, mix in simple questions. Freely help with answers as needed. If you point and say \"Is this red?\" and they don't know, supply the answer. If you say \"Count the blocks.\" and your child does not know how, point and count the blocks with them \"one, two, three.\""
+msgstr "Lorsque votre enfant commence à comprendre et à dire des mots, posez-lui des questions simples. Aidez-le librement si besoin. Si vous pointez du doigt et lui dites : « Est-ce que c’est rouge ? » et qu’il ne sait pas, donnez-lui la réponse. Si vous lui dites : « Compte les blocs ! » et que votre enfant ne sait pas comment faire, montrez-lui du doigt et comptez-les avec lui « un, deux, trois. »"
+
+#. type=template
+msgctxt "template"
+msgid "3 Levels of Discussion"
+msgstr "3 Étapes de Discussion"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Pick an appropriate level for your child. Allow time for thought when asking questions or making comments. Help with the answer when your child stumbles, and follow up correct answers with questions or comments that are small expansions on the child's answer. \n"
+"\n"
+"**Level 1** Ask simple direct questions. Ask and point at what you see on the page. Where is the toy? What are they doing? What is its name? What color is it? How many balls are there? \n"
+"**Level 2** Ask general or open questions about this point in the story. What do you see happening here? What is this group of things? \n"
+"**Level 3** Ask about the story line. What has happened? What will happen next? Have you had experiences or seen things similar to this? How does she feel when this happens?"
+msgstr ""
+"Choisissez un niveau adéquat pour votre enfant. Laissez-lui du temps pour réfléchir quand vous lui posez des questions ou commentez. Aidez votre enfant à trouver la réponse lorsqu’il hésite et après une bonne réponse, répondez avec des questions ou des petits commentaires à partir de la réponse de votre enfant.\n"
+"\n"
+"**Niveau 1** Posez des questions simples et directes. Posez une question et pointez du doigt ce que vous voyez sur la page. Où est le jouet ? Que font-ils ? Quel est son nom ? De quelle couleur est-il ? Combien de balles il y a-t-il ?\n"
+"**Niveau 2** Posez des questions générales ou ouvertes par rapport à cette étape de l’histoire. Que se passe-t-il ici ? Quel est ce groupe d’objets ?\n"
+"**Niveau 1** Posez des questions à propos de l’histoire. Que s’est-il passé ? Que va-t-il se passer ensuite ? As-tu déjà vécu ou vu quelque chose qui ressemblait à ça ? Comment se sent-elle quand cela arrive ?"
+
+#. type=template
+msgctxt "template"
+msgid "Read, Talk, and Have Fun!"
+msgstr "Lisez, Parlez, et Amusez-Vous !"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The supplied questions and comments are just the beginning. \n"
+"\n"
+"1. For the first reading, read the red questions and comments. \n"
+"2. For the second reading, read the blue questions and comments. \n"
+"3. For the third reading, read the green questions and comments. \n"
+"\n"
+"After that, follow your child's interests and let your discussions go in fun directions."
+msgstr ""
+"Les questions posées et les commentaires ne sont que le début.\n"
+"\n"
+"1. Pour la première lecture, lisez les questions en rouge et les commentaires.\n"
+"2. Pour la deuxième lecture, lisez les questions en bleu et les commentaires.\n"
+"3. Pour la troisième lecture, lisez les questions en vert et les commentaires.\n"
+"\n"
+"Après ça, utilisez les centres d’intérêt de votre enfant et laissez votre discussion prendre des tournants amusants."
+
+#. type=template
+msgctxt "template"
+msgid "Math Themes and Words"
+msgstr "Des maths et des mots"
 
 #. type=template
 msgctxt "template"
