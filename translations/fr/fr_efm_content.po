@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-19 00:26\n"
+"PO-Revision-Date: 2024-06-19 18:00\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20008,4 +20008,9 @@ msgstr "Si quelqu’un te demandait de compter jusqu’à dix, est-ce que tu com
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "Bien souvent, un groupe de personnes pense à quelque chose de la même manière et ils passent à côté d’un bon moyen de résoudre un problème. Ceux qui résolvent bien les problèmes découvrent de nouvelles façons de les résoudre !"
+
+#. type=template
+msgctxt "template"
+msgid "**Adult Readers**"
+msgstr "**Lecteurs adultes**"
 
