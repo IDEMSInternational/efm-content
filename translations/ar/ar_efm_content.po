@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-23 20:53\n"
+"PO-Revision-Date: 2024-06-23 22:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2433,6 +2433,81 @@ msgstr "في الصورة من برأيك السعيد ومن الحزين؟"
 msgctxt "data_list"
 msgid "How long do you think a butterfly can live in a jar?"
 msgstr "كم من الوقت تظن أن الفراشة تستطيع أن تعيش داخل جرة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have two ears. Whose ears are bigger?"
+msgstr "لكل منهما أذنان. من أذناه أكبر؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have one tail. Whose tail is longer?"
+msgstr "لكل واحد منهما ذيل واحد. من ذيله أطول؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have markings on their belly. Whose markings are bigger?"
+msgstr "لكل واحد منهم علامة على بطنه. علامات من هي الأكبر؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk.\n"
+"\n"
+"They walk in their village."
+msgstr ""
+"القط والكلب يسيران.\n"
+"\n"
+"إنهما يسيران في قريتهما."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the homes in the village."
+msgstr "عدّوا بيوت القرية معًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many things to count together -- one bird, one cat, one dog, three animals, three buildings, and one tree."
+msgstr "هناك أشياء كثيرة يمكن عدها معًا - طائر واحد، قطة واحدة، كلب واحد، ثلاثة حيوانات، ثلاثة مباني، وشجرة واحدة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two of the buildings are round around the base. The third one has a base shaped like this page."
+msgstr "اثنان من المباني مستديران حول القاعدة. والثالث له قاعدة على شكل هذه الصفحة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then they see an egg.\n"
+"\n"
+"The egg is in the grass.\n"
+"\n"
+"The egg is alone in the grass.\n"
+"\n"
+"The egg is all alone."
+msgstr ""
+"ثم يرون بيضة.\n"
+"\n"
+"البيضة في العشب.\n"
+"\n"
+"البيضة وحدها في العشب.\n"
+"\n"
+"البيضة لوحدها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the animals, trees, houses, and eggs."
+msgstr "عدّوا معًا الحيوانات والأشجار والبيوت والبيض."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name an animal that lays eggs."
+msgstr "قم بتسمية حيوان يبيض."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog pick up the egg. It is usually better to leave eggs where you find them."
+msgstr "التقط القط والكلب البيضة. من الأفضل عادةً ترك البيض حيث تجده."
 
 #. type=data_list
 msgctxt "data_list"
