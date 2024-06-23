@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-22 04:34\n"
+"PO-Revision-Date: 2024-06-23 02:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1748,6 +1748,85 @@ msgstr "هل تعرف أي شخص لديه قطط؟ كم عدد القطط لد�
 msgctxt "data_list"
 msgid "Do you think nine cats is too many?"
 msgstr "هل تعتقد أن تسع قطط كثيرة جدًا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "قوموا بعد الشوارب والأذنين والساقين والعينين والذيول معًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "ما هي الأعداد المتشابهة، وأيها مختلفة، أيها الأكبر، وأيها الأصغر؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "أي الحيوانين أحمر وأيهما أصفر؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"القط والكلب يعيشان في منزل.\n"
+"\n"
+"منزل مع باب.\n"
+"\n"
+"منزل مع سقف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "يعيش القط والكلب في منزل دائري. هل منزلك مستدير؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "أشر إلى أي أشياء مستديرة أخرى في الصورة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "كم عدد الغرف التي يتكون منها منزلهم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and green."
+msgstr ""
+"القط والكلب يملكان كرة.\n"
+"\n"
+"الكرة حمراء وزرقاء وخضراء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "قوموا بعدّ عدد الألوان على الكرة معاً."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "أي لون على الكرة ليس لونًا للقط أو للكلب؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "هل يوجد أي شيء حيث أنت مخطط مثل هذه الكرة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is Cat.\n"
+"\n"
+"This is Dog."
+msgstr "هذا القط. هذا الكلب."
 
 #. type=data_list
 msgctxt "data_list"
