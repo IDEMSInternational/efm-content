@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-23 23:13\n"
+"PO-Revision-Date: 2024-06-24 00:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2780,6 +2780,93 @@ msgstr "هناك ثلاثة حيوانات هنا. إذا أخذت صغير ال
 msgctxt "data_list"
 msgid "What are some round shapes you see in this picture?"
 msgstr "ما هي الأشكال المستديرة التي تراها في هذه الصورة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the animals together and describe their colors."
+msgstr "قوموا بعدّ الحيوانات معًا ووصف ألوانها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has shorter ears? Which one has longer ears?"
+msgstr "أيهما يملك اذنين أقصر؟ أيهما يملك أذنين أطول؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has short whiskers? Which one has long whiskers?"
+msgstr "أيهما يملك شوارب قصيرة؟ أي واحد يملك شوارب طويلة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is night. It is dark.\n"
+"\n"
+"It is cold. It is very cold."
+msgstr ""
+"إنه الليل. إنه ظلام.\n"
+"\n"
+"الجو بارد. إنه بارد جداً."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their house is round. Do you live in a round building?"
+msgstr "منزلهم مستدير. هل تعيش في مبنى دائري؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the trees together."
+msgstr "عدوا الأشجار معًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A full moon forms a complete circle. A moon that is a partial circle like this is called a crescent moon."
+msgstr "يشكل البدر دائرة كاملة. والقمر الذي يكون على شكل دائرة جزئية مثل هذه يسمى هلالًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For Dog it is too cold."
+msgstr "الجو بارد جدًا بالنسبة للكلب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What shows you that Dog is cold?"
+msgstr "ما الذي يدلكم على أن الكلب يشعر بالبرد؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A light blue color is often used to show something cold. Does seeing blue make you feel cold?"
+msgstr "غالبًا ما يُستخدم اللون الأزرق الفاتح للإشارة إلى شيء بارد. هل تجعلك رؤية اللون الأزرق تشعر بالبرد؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On cold nights, even outdoor animals can use help with the cold."
+msgstr "في الليالي الباردة، حتى الحيوانات الموجودة في الهواء الطلق يمكنها الاستعانة بالمساعدة للتغلب على البرد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog underwear.\n"
+"\n"
+"One pair of underwear is dirty. One pair of underwear is clean."
+msgstr ""
+"يعطي القط الكلب زوجين من الملابس الداخلية.\n"
+"\n"
+"زوج واحد من الملابس الداخلية متسخ. زوج واحد من الملابس الداخلية نظيف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this choice of underwear very helpful?"
+msgstr "هل هذا الاختيار للملابس الداخلية مفيد برأيك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it silly that Cat offers underwear that is dirty?"
+msgstr "هل من السخافة أن يقدم القط ملابس داخلية قذرة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why isn't Cat cold?"
+msgstr "لماذا لا يشعر القط بالبرد؟"
 
 #. type=data_list
 msgctxt "data_list"
