@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-24 19:17\n"
+"PO-Revision-Date: 2024-06-24 23:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5944,6 +5944,26 @@ msgstr "يبدو أنهم جميعًا سعداء جدًا معًا، بغض ا�
 msgctxt "data_list"
 msgid "One of the children only has four fingers on a hand -- which one?"
 msgstr "أحد الأطفال لديه أربعة أصابع فقط في يده، أيهم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod the toad was tired of living in water."
+msgstr "لقد سئمت الضفدعة مود من العيش في الماء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think Mod was tired of water?"
+msgstr "لماذا تعتقد أن مود سئمت من الماء؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod has four \"fingers\" on each leg. Who has more fingers -- you or Mod? How many more?"
+msgstr "تملك مود أربعة \"أصابع\" في كل ساق. من لديه عدد أكبر من الأصابع أنت أم مود؟ كم أكثر؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With four fingers on each leg, how many fingers does Mod have all together? You can count them by 1's, 2's, or 4's. Is it too high for you to count?"
+msgstr "مع وجود أربعة أصابع في كل ساق، كم عدد أصابع مود معًا؟ يمكنك عدها بالرقم 1 أو 2 أو 4. هل الرقم مرتفع جدًا بحيث لا يمكنك حسابه؟"
 
 #. type=template
 msgctxt "template"
