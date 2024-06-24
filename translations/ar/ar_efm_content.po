@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-24 01:13\n"
+"PO-Revision-Date: 2024-06-24 02:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3239,6 +3239,211 @@ msgstr "صافي تجلس في المدخل لتراقب المنزل."
 msgctxt "data_list"
 msgid "A square is a shape like this page that has four equal sides. This floor is tiled with square tiles."
 msgstr "المربع هو شكل مثل هذه الصفحة وله أربعة أضلاع متساوية. هذه الأرضية مبلطة ببلاط مربع."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have tiles where you live? If so, what shape are they?"
+msgstr "هل لديك بلاط حيث تعيش؟ إذا كان الأمر كذلك، ما هو شكله؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi like being a house watcher?"
+msgstr "هل تحب صافي أن تكون حارسةً للمنزل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the neighbor's dog comes close, Safi scares him away."
+msgstr "عندما يقترب كلب الجيران، تخيفه صافي ليهرب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is trying to scare the dog?"
+msgstr "كيف يمكنك معرفة أن صافي تحاول إخافة الكلب؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the circles of colors and name the colors. Those circles aren't really in the house."
+msgstr "أشر إلى دوائر الألوان وقم بتسمية كل لون. هذه الدوائر ليست موجودة حقًا في المنزل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Circles that share the same central point are called \"concentric.\""
+msgstr "تسمى الدوائر التي تشترك في نفس النقطة المركزية \"متحدة المركز\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog runs away."
+msgstr "الكلب يهرب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the dog feeling?"
+msgstr "بماذا يشعر الكلب؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is bigger, the cat or the dog?"
+msgstr "أي حيوان أكبر، القطة أم الكلب؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These bands of color going from yellow to orange give a sense of motion. Compare this to the concentric circles on the previous page."
+msgstr "تعطي هذه الأشرطة الملونة التي تتراوح من الأصفر إلى البرتقالي إحساسًا بالحركة. قارنها بالدوائر متحدة المركز في الصفحة السابقة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When a neighbor knocks at the door, Safi is ready to scratch."
+msgstr "عندما يطرق أحد الجيران الباب، صافي مستعدة للخدش."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is being scary? Is the neighbor scared?"
+msgstr "كيف يمكنك معرفة أن صافي تحاول أن تبدو مخيفة؟ هل تبدو الجارة خائفة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the neighbor need to be scared away, or is Safi doing too much?"
+msgstr "هل من الضروري أن تخيف الجارة لتهرب أم أن صافي تبالغ؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name different things in this picture that are in a group of 2, 3, or 4."
+msgstr "أشر إلى الأشياء المختلفة في هذه الصورة الموجودة في مجموعة مكونة من 2 أو 3 أو 4 وقم بتسميتها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor turns and runs away."
+msgstr "الجارة تعود أدراجها وتهرب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at the neighbor's clothes, what is her favorite color?"
+msgstr "بالنظر إلى ملابس الجارة، ما هو لونها المفضل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite color?"
+msgstr "ما هو لونك المفضل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor is frightened by Safi. Have you ever been frightened by a cat or other small animal?"
+msgstr "الجارة تخاف من صافي. هل سبق لك أن شعرت بالخوف من قطة أو حيوان صغير آخر؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Safi is hungry, she closes the door."
+msgstr "تغلق صافي الباب عندما تشعر بالجوع."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi should just close the door as soon as Mr. Kio leaves."
+msgstr "يجب على صافي أن تغلق الباب بمجرد أن يغادر السيد كيو."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is little Safi big enough to close that big door?"
+msgstr "هل صافي الصغيرة كبيرة بما يكفي لتغلق هذا الباب الكبير؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After the door closes, will Safi be able to reach the handle and open it?"
+msgstr "بعد أن يُغلق الباب، هل ستتمكن صافي من الوصول إلى المقبض وفتحه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi eats her food."
+msgstr "صافي تأكل طعامها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the straight and curved lines in this picture."
+msgstr "أشر إلى الخطوط المستقيمة والمنحنية في هذه الصورة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi look happy to be eating? Do you like to eat your food?"
+msgstr "هل تبدو صافي سعيدة بتناول الطعام؟ هل تحب أن تتناول طعامك أيضاً؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you wait to eat if you were left with a plate of food you liked?"
+msgstr "هل ستنتظر لتتناول الطعام إذا تُركت مع طبق من الطعام الذي تفضله؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Afterwards, Safi jumps onto the sofa and sleeps, \"Purr! Purr! Purr!\""
+msgstr "بعد ذلك، قفزت صافي على الأريكة ونامت، \"خرخرة! خرخرة! خرخرة!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people feel sleepy after eating and sometimes it gives them fresh energy. What does it do to you?"
+msgstr "في بعض الأحيان يشعر الناس بالنعاس بعد تناول الطعام، وفي أحيان أخرى يمنحهم ذلك طاقة جديدة. ماذا يفعل ذلك بك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Safi dreaming? If so, what do you think Safi is dreaming about?"
+msgstr "هل صافي تحلم؟ إذا كان الأمر كذلك، ما الذي تعتقد أن صافي تحلم به؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the things you dream about?"
+msgstr "ما هي بعض الأشياء التي تحلم بها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio returns, Safi stretches happily and welcomes him home."
+msgstr "عندما يعود السيد كيو، تتمدد صافي بسعادة وترحب به في منزله."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the beautiful circle inside the orange square."
+msgstr "أشر إلى الدائرة الجميلة داخل المربع البرتقالي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have some circles and squares where you are?"
+msgstr "هل هناك بعض الدوائر والمربعات حيث أنت؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point together at the white circles Safi has on her back and belly."
+msgstr "{أشيروا معًا إلى الدوائر البيضاء التي تملكها صافي على ظهرها وبطنها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mister Kio and Safi sit down, and each of them reads the newspaper."
+msgstr "يجلس السيد كيو وصافي، وكل منهما يقرأ الجريدة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is warm and cozy. Do cats read the newspaper?"
+msgstr "هذا دافئ ومريح. هل تقرأ القطط الجريدة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides with corners like this page. Point at the rectangles you see in this picture and around you."
+msgstr "المستطيل هو شكل ذو أربعة أضلاع مستقيمة وزوايا مثل هذه الصفحة. أشر إلى المستطيلات التي تراها في هذه الصورة ومن حولك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
+msgstr "معظم الأوراق تكون على شكل مستطيلات. ورقة السيد كيو ذات شكل غريب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rainbow has seven colors."
+msgstr "قوس قزح يملك سبعة ألوان."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the colors of the rainbow."
+msgstr "عدّوا معًا ألوان قوس قزح."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a rainbow after it rains? Sometimes, you can even see a double rainbow if you're lucky!"
+msgstr "هل سبق لك أن رأيت قوس قزح بعد هطول المطر؟ في بعض الأحيان، يمكنك رؤية قوس قزح مزدوج إذا كنت محظوظًا!"
 
 #. type=data_list
 msgctxt "data_list"
