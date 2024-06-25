@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-25 15:38\n"
+"PO-Revision-Date: 2024-06-25 18:48\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7962,6 +7962,86 @@ msgstr "هل تعتقد أن لولو تحب أن تشاهد وتقرأ الكت
 msgctxt "data_list"
 msgid "Do you?"
 msgstr "ماذا عنكَ أنت؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I have lost my bat, and I cannot find it."
+msgstr "لقد أضعت مضربي، ولا أستطيع إيجاده."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Though you can only see five of them, there are six panes in the window. What else is there six of?"
+msgstr "على الرغم من أنك لا تستطيع رؤية سوى خمسة منها، إلا أنه هناك ستة ألواح في النافذة. ما هو الشيء الآخر الذي يوجد ستة منه أيضاً؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The number of rungs on the ladder is one more than the number of panes -- how many? The number of panes you can see is five, which is one less than the total number of panes."
+msgstr "عدد درجات السلم يزيد بمقدار درجة واحدة عن عدد الألواح - كم عددها؟ عدد الألواح التي يمكنك رؤيتها هو خمسة، وهو أقل بواحد من إجمالي عدد الألواح."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles have four straight sides and corners like those on this page. Point to and describe the rectangles in the picture."
+msgstr "تحتوي المستطيلات على أربعة جوانب وزوايا مستقيمة مثل تلك الموجودة في هذه الصفحة. أشر إلى المستطيلات الموجودة في الصورة وقم بوصفها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked behind the door. It was not there."
+msgstr "بحثت وراء الباب. لم يكن هناك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice the girl outside the window?"
+msgstr "هل لاحظت الفتاة خارج النافذة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bat is not behind the door -- could it be inside the box?"
+msgstr "المضرب ليس خلف الباب -- هل يمكن أن يكون داخل الصندوق؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A box is a 3-dimensional shape with rectangles on every side. Do you see anything else similar to a box? (the door)"
+msgstr "الصندوق هو شكل ثلاثي الأبعاد يحتوي على مستطيلات في كل جانب. هل ترى أي شيء آخر مشابه للصندوق؟ (الباب)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it on the shelf. I could not find it there."
+msgstr "بحثت عنه على الرف. لم يكن هناك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window bangs into the shelf when it opens. That seems like a bad design!"
+msgstr "تصطدم النافذة بالرف عند فتحها. يبدو أن هذا تصميم سيء!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this shelf is too high for a child's room?"
+msgstr "هل تظن أن هذا الرف عالٍ جداً بالنسبة إلى غرفة أطفال؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There's that girl riding around again. Notice that the buildings behind her are shaped like big boxes. A lot of buildings are."
+msgstr "ها هي تلك الفتاة تتجول مرة أخرى. لاحظ أن المباني الموجودة خلفها على شكل صناديق كبيرة. هناك الكثير من المباني."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it under the bed. Not there either."
+msgstr "بحثت عنه تحت السرير. ليس هناك أيضًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl's dress matches the bag hanging by the door. Do you think the bag is hers?"
+msgstr "فستان الفتاة يتناسب مع الحقيبة المعلقة عند الباب. هل تعتقد أن الحقيبة لها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of a place the boy hasn't looked?"
+msgstr "هل يمكنك التفكير في مكان لم يبحث فيه الصبي؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vertical lines are lines that go up and down. How many vertical pieces are there to the blue frame on the side of the bed? The number of spaces between those vertical pieces is one less. How many is that?"
+msgstr "الخطوط العمودية هي الخطوط التي تذهب إلى فوق وإلى الأسفل. ما عدد القطع العمودية الموجودة في الإطار الأزرق بجانب السرير؟ عدد المسافات بين تلك القطع العمودية أقل بمقدار واحد. كم هو ذلك؟"
 
 #. type=template
 msgctxt "template"
