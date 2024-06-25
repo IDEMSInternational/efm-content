@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-25 03:35\n"
+"PO-Revision-Date: 2024-06-25 04:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6820,32 +6820,102 @@ msgstr "تزود بيندو الأسرة بالكثير من الحليب. ما�
 #. type=data_list
 msgctxt "data_list"
 msgid "He milks Pendo every day."
-msgstr "تعطي بيندو الكثير من الحليب."
+msgstr "إنه يحلب بيندو كل يوم."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "The cat is still waiting. Perhaps the cat is hoping for some splashed milk?"
-msgstr "قوموا بعدّ أوعية الحليب معاً."
+msgstr "القطة لا تزال تنتظر. ربما تأمل القطة في الحصول على بعض الحليب المرشوش؟"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Why are Pendo's back two legs tied to a post? Do you think she likes being milked?"
-msgstr "النافذة خلفهم مقسمة إلى أجزاء تسمى ألواحاً. كم عدد الألواح الموجودة؟"
+msgstr "لماذا تم ربط ساقي بيندو الخلفيتين بعمود؟ هل تعتقد أنها تحب أن تُحلب؟"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "A rectangle is a four-sided shape like this page. Point at a few of the many rectangles in this picture."
-msgstr "غالبًا ما تكون أوعية السوائل مستديرة، لكن في بعض الأحيان يأتي الحليب في علب حليب على شكل صناديق."
+msgstr "المستطيل هو شكل رباعي الجوانب مثل هذه الصفحة. أشر إلى عدد قليل من المستطيلات العديدة في هذه الصورة."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Pendo gives a lot of milk."
-msgstr "يبيع الأب حليب بيندو."
+msgstr "تعطي بيندو الكثير من الحليب."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Count together the number of milk containers."
+msgstr "قوموا بعدّ أوعية الحليب معاً."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window behind them is split into parts called panes. How many panes are there?"
+msgstr "النافذة خلفهم مقسمة إلى أجزاء تسمى ألواحاً. كم عدد الألواح الموجودة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Liquid containers are often round, but sometimes milk comes in milk cartons in the shape of boxes."
+msgstr "غالبًا ما تكون أوعية السوائل مستديرة، لكن في بعض الأحيان يأتي الحليب في علب حليب على شكل صناديق."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father sells Pendo's milk."
+msgstr "يبيع الأب حليب بيندو."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "His father's shirt has some interesting patterns. Point at and describe the stripes and black diamonds."
 msgstr "يحتوي قميص والده على بعض الأنماط المثيرة للاهتمام. أشر إلى الخطوط والماس الأسود وقم بوصفها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe this woman's colorful dress."
+msgstr "صف فستان هذه المرأة الملون."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the picture on the paper on the wall? The sign says \"Milk here.\""
+msgstr "ما هي الصورة الموجودة على الورقة الموجودة على الحائط؟ اللافتة تقول \"يوجد حليب هنا.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo drinks fresh milk every day."
+msgstr "يشرب ندالو الحليب الطازج كل يوم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell Ndalo has been drinking milk?"
+msgstr "كيف يمكنك معرفة أن ندالو كان يشرب الحليب؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you drink something, do you end up with the liquid around your mouth?"
+msgstr "عندما تشرب شيئا هل ينتهي بك الأمر إلى وجود السائل حول فمك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many rectangles here. Count the doors and windows that you can see. Are there more or less doors than windows?"
+msgstr "هناك العديد من المستطيلات هنا. قم بعد الأبواب والنوافذ التي يمكنك رؤيتها. هل هناك أبواب أكثر أم أقل من النوافذ؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He says, \"Thank you Pendo!\""
+msgstr "يقول، \"شكرًا لك بيندو!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo's family feeds and takes care of Pendo, and Pendo gives them milk. Does that seem like a fair trade?"
+msgstr "عائلة ندالو تطعم بيندو وتعتني بها، وتقدم لهم بيندو الحليب بالمقابل. هل يبدو ذلك بمثابة تجارة عادلة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about some of the places your food comes from."
+msgstr "تحدث عن بعض الأماكن التي يأتي منها طعامك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are you thankful for where your food comes from?"
+msgstr "هل أنت شاكر للمكان الذي يأتي منه طعامك؟"
 
 #. type=template
 msgctxt "template"
