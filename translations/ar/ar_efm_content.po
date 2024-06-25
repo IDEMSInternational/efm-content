@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-24 23:14\n"
+"PO-Revision-Date: 2024-06-25 00:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5964,6 +5964,386 @@ msgstr "تملك مود أربعة \"أصابع\" في كل ساق. من لدي�
 msgctxt "data_list"
 msgid "With four fingers on each leg, how many fingers does Mod have all together? You can count them by 1's, 2's, or 4's. Is it too high for you to count?"
 msgstr "مع وجود أربعة أصابع في كل ساق، كم عدد أصابع مود معًا؟ يمكنك عدها بالرقم 1 أو 2 أو 4. هل الرقم مرتفع جدًا بحيث لا يمكنك حسابه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Be careful, said the turtle. \"Your skin will dry out.\""
+msgstr "\"كوني حذرة،\" قالت السلحفاة. \"سوف تجف بشرتك.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why don't turtles worry about their skin drying out?"
+msgstr "لماذا لا تقلق السلاحف من جفاف جلدها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think a big turtle would be able to climb onto a narrow log like that?"
+msgstr "هل تعتقد أن سلحفاة كبيرة كهذه ستكون قادرة على الصعود على جذع شجرة ضيق كهذا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think toads and turtles talk to each other?"
+msgstr "هل تعتقد أن الضفادع والسلاحف تتحدث مع بعضها البعض؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But Mod was curious. She hopped away."
+msgstr "لكن مود كانت فضولية. فقفزت بعيدًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod looks very excited to be going on an adventure!"
+msgstr "تبدو مود متحمسة للغاية للذهاب في مغامرة!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever done something even though you were told it was a bad idea? Were you glad you did it?"
+msgstr "هل سبق لك أن فعلت شيئًا رغم أنه قيل لك أنه فكرة سيئة؟ هل شعرت بالسعادة لفعلك ذلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mod had ever been out of the river before? Are there places you would like to explore?"
+msgstr "هل تعتقد أن مود قد خرجت من النهر من قبل؟ هل هناك أماكن ترغب في استكشافها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looked all around."
+msgstr "نظرت من حولها في كل مكان."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the trees in the background behind Mod."
+msgstr "عد الأشجار الموجودة في الخلفية خلف مود."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it easier for you to count the trees one at a time or to count them by 2's?"
+msgstr "هل هو من الأسهل عليك أن تعد الأشجار شجرة شجرة أم أن تعدها اثنتين؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the shades of colors. Mod's colors go from light yellow to dark brown. The grass goes from very light yellow to the yellow greens of the tree tops to the darker shades directly beneath the tree canopy."
+msgstr "لاحظ ظلال الألوان. تتراوح ألوان مود من الأصفر الفاتح إلى البني الداكن. يتحول العشب من اللون الأصفر الفاتح جدًا إلى اللون الأخضر المائل إلى الأصفر لقمم الأشجار إلى الظلال الداكنة أسفل مظلة الشجرة مباشرة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She met a purple chameleon next to a puddle of water."
+msgstr "التقت بحرباء أرجوانية بجوار بركة ماء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod looks surprised to see the chameleon!"
+msgstr "تبدو مود مندهشة لرؤية الحرباء!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is the chameleon holding that bug? Do you eat insects sometimes?"
+msgstr "لماذا تحمل الحرباء تلك الحشرة؟ هل هي تأكل الحشرات أحياناً؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the bugs flying around. If you add one more for the one the chameleon is holding, how many does that make in total?"
+msgstr "عد الحشرات التي تطير حولها. إذا أضفت واحدًا آخر للذي تحمله الحرباء، فكم سيكون إجمالي ذلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The chameleon started turning pink! Mod jumped away."
+msgstr "بدأت الحرباء تتحول إلى اللون الوردي! قفزت مود بعيدًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chameleons and some other animals can change colors to blend in."
+msgstr "تستطيع الحرباء وبعض الحيوانات الأخرى تغيير ألوانها لتندمج."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this chameleon is blending in?"
+msgstr "هل تعتقد أن هذه الحرباء مندمجة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mod knew the chameleon could change colors? Mod looks surprised and afraid!"
+msgstr "هل تعتقد أن مود كانت تعلم أن الحرباء يمكنها تغيير ألوانها؟ تبدو مود مندهشة وخائفة!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then she saw a hyena starting a fire."
+msgstr "ثم رأت ضبعًا يشعل نارًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's silly to think that hyenas go around starting fires with torches."
+msgstr "من السخافة الاعتقاد بأن الضباع تتجول وتشعل النيران بالمشاعل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If they could do it, why would they want to?"
+msgstr "إذا كان بإمكانهم فعل ذلك، فلماذا قد يريدونه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyenas are sometimes described as bad characters in stories. Do you think hyenas would go to all the trouble to start a fire just to be mean?"
+msgstr "يتم وصف الضباع أحيانًا على أنها شخصيات سيئة في القصص. هل تعتقد أن الضباع ستتحمل كل متاعب إشعال النار فقط لتكون سيئة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fire spread around Mod. She was afraid."
+msgstr "انتشر الحريق حول مود. لقد كانت خائفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen or been near a big wildfire? If so, how did you feel about it?"
+msgstr "هل سبق لك أن رأيت أو كنت بالقرب من حريق هائل؟ إذا كان الأمر كذلك، كيف كان شعورك حيال ذلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Mod pick a good place to hide?"
+msgstr "هل اختارت مود مكانًا جيدًا للاختباء؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen to Mod -- is Mod in a safe place?"
+msgstr "برأيك، ماذا سيحصل لمود - هل مود في مكان آمن؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fire burned her skin. She jumped back, into the puddle."
+msgstr "النار أحرقت جلدها. قفزت مرة أخرى في البركة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Getting burned hurts a lot! Have you ever been burned or known someone who was?"
+msgstr "الحرق يؤذي كثيراً! هل سبق لك أن تعرضت للحرق أو عرفت شخصًا تعرض لذلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Mod cover her eyes?"
+msgstr "لماذا غطت مود عينيها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding something cool to put on your wound is often a very good idea to stop further burning inside the wound."
+msgstr "إن العثور على شيء رائع لوضعه على جرحك غالبًا ما يكون فكرة جيدة جدًا لوقف المزيد من الحرق داخل الجرح."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But her skin was already full of blisters."
+msgstr "لكن بشرتها كانت مليئة بالجروح بالفعل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mod splashed, what shape were the ripples in the water around where Mod went in?"
+msgstr "عندما سقطت مود، ما كان شكل التموجات الموجودة في الماء حول مكان سقوطها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever watched the ripples a stone makes when it falls into quiet water?"
+msgstr "هل سبق لك أن شاهدت التموجات التي يصنعها الحجر عند سقوطه في الماء الهادئ؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Those ripples are circles that have a common center point. Such circles are called concentric."
+msgstr "تلك التموجات عبارة عن دوائر لها نقطة مركزية مشتركة. تسمى هذه الدوائر متحدة المركز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod found a home under a rock. Her new skin was dry and rough."
+msgstr "وجدت مود منزلاً تحت صخرة. كانت بشرتها الجديدة جافة وخشنة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even if things did not go so well, she had some interesting experiences. Do you think Mod regrets her adventure?"
+msgstr "حتى لو لم تسر الأمور على ما يرام، فقد خاضت بعض التجارب المثيرة للاهتمام. هل تعتقد أن مود نادمة على مغامرتها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think toads have homes with doors, windows, and tables?"
+msgstr "هل تظن أن للضفادع بيوتا لها أبواب ونوافذ وطاولات؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like Mod has three fingers now. Is that more or less than she had before?"
+msgstr "يبدو أن لدى مود ثلاثة أصابع الآن. هل هذا أكثر أم أقل مما كانت عليه من قبل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now only frogs have smooth skin and live near water."
+msgstr "الآن فقط الضفادع لديها بشرة ناعمة وتعيش بالقرب من الماء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you know that there are differences between frogs and toads?"
+msgstr "هل تعلم أن هناك اختلافات بين الضفادع والعلاجيم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a frog or toad? Could you tell which one it was?"
+msgstr "هل رأيت ضفدعاً أو علجوماً من قبل؟ هل يمكنك معرفة أي منها كانت؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever gone to a pond, river, or lake to explore water life?"
+msgstr "هل سبق لك أن ذهبت إلى بركة أو نهر أو بحيرة لاستكشاف الحياة المائية؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the animals."
+msgstr "انظر إلى الحيوانات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count and name together all the animals you see."
+msgstr "قوموا بعدّ وتسمية جميع الحيوانات التي ترونها معًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are all the animals looking at?"
+msgstr "ما الذي تنظر إليه جميع الحيوانات؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do the animals want something from the farmer?"
+msgstr "هل تريد الحيوانات شيئاً من الفلاح؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow says, \"Moo.\""
+msgstr "تقول البقرة: \"مو\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow is looking at an empty trough. What do you think \"Moo\" means?"
+msgstr "البقرة تنظر إلى حوض فارغ. ماذا تعتقد أن كلمة \"مو\" تعني؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?"
+msgstr "إذا كانت لديك كلمة واحدة فقط (\"مو\")، فعليك أن تقولها بطرق مختلفة لجعلها تعني أشياء مختلفة. ماذا تعتقد أن البقرة تريد؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the cow's black spots are small and some are large. Count how many spots the cow has."
+msgstr "إن بعض البقع السوداء على البقرة صغيرة وبعضها الآخر كبير. احسب عدد البقع الموجودة على البقرة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The goat says, \"Meh, meh.\""
+msgstr "تقول العنزة: \"ماع، ماع.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is the goat looking at the drip of water from the faucet?"
+msgstr "لماذا تنظر العنزة إلى قطرة الماء من الصنبور؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the goat thirsty, hungry, or both?"
+msgstr "هل العنزة عطشانة أم جائعة أم كلاهما؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns does a goat have? Name some other animals that have two hard things growing on their head."
+msgstr "كم عدد قرون العنزة؟ اذكر بعض الحيوانات الأخرى التي ينمو في رأسها شيئان صلبان."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse says, \"Neigh.\""
+msgstr "يقول الحصان: \"نييه.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse is also looking at an empty trough. What is the horse pointing at with its front left leg?"
+msgstr "الحصان ينظر أيضًا إلى حوض فارغ. إلى ماذا يشير الحصان برجله اليسرى الأمامية؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the horse's legs. Can you think of a farm animal that has only two legs?"
+msgstr "عدّوا أرجل الحصان معًا. هل يمكنك التفكير في حيوان مزرعة يملك ساقين فقط؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there animals that have any other number of legs than two or four? What about insects or spiders? -- do you know how many legs they have?"
+msgstr "هل هناك حيوانات تملك عدد أرجل غير اثنتين أو أربع؟ ماذا عن الحشرات أو العناكب؟ -- هل تعرف كم عدد أرجلها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The pig says, \"Grunt.\""
+msgstr "يقول الخنزير: \"غرانت.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people think that pigs say \"Oink.\" What do you think they say?"
+msgstr "يظن بعض الناس أن الخنازير تقول \"أوينك\". ماذا تظن أنها تقول؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The pig has two ears, two eyes, and two nostrils. Imagine what it would be like if it had two mouths!"
+msgstr "للخنزير أذنان وعينان ومنخران. تخيل كيف سيكون الأمر لو كان له فمان!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the posts that make up the fence in front of the pig."
+msgstr "عدّوا معًا الأعمدة التي تشكل السياج أمام الخنزير."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The chicken says, \"Cluck.\""
+msgstr "تقول الدجاجة: \"كلاك.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A chicken is a farm animal with just two legs. Are there any others?"
+msgstr "الدجاجة حيوان مزرعة ذو ساقين فقط. هل هناك غيرها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the baby chicks and count how many chickens there are all together."
+msgstr "عدّوا الكتاكيت الصغيرة والدجاجات الموجودة معًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One more than three makes how many?"
+msgstr "واحد أكثر من ثلاثة كم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog says, \"Woof.\""
+msgstr "يقول الكلب: \"ووف.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog bowl is empty and the dog looks hungry."
+msgstr "وعاء الكلب فارغ والكلب يبدو جائعاً."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of bags by the fence."
+msgstr "عدّوا معًا عدد الأكياس عند السياج."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of tines on the rake in the corner. Can you find other things to count?"
+msgstr "عدّوا معًا عدد الأسنان الموجودة على المجرفة في الزاوية. هل يمكنك العثور على أشياء أخرى لحسابها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The farmer says, \"Shhh!\""
+msgstr "يقول المزارع: \"ششش!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does the farmer say \"Shhh?\"  Is the farmer tired of being pestered by the animals?"
+msgstr "لماذا يقول المزارع \"ششش؟\" هل سئم المزارع من مضايقة الحيوانات؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the animals waiting for?"
+msgstr "ماذا تنتظر الحيوانات؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals are waiting for their food?"
+msgstr "كم من الحيوانات تنتظر طعامها؟"
 
 #. type=template
 msgctxt "template"
