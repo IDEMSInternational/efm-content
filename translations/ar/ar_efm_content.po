@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-25 18:48\n"
+"PO-Revision-Date: 2024-06-25 19:58\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8042,6 +8042,226 @@ msgstr "هل يمكنك التفكير في مكان لم يبحث فيه الص
 msgctxt "data_list"
 msgid "Vertical lines are lines that go up and down. How many vertical pieces are there to the blue frame on the side of the bed? The number of spaces between those vertical pieces is one less. How many is that?"
 msgstr "الخطوط العمودية هي الخطوط التي تذهب إلى فوق وإلى الأسفل. ما عدد القطع العمودية الموجودة في الإطار الأزرق بجانب السرير؟ عدد المسافات بين تلك القطع العمودية أقل بمقدار واحد. كم هو ذلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched inside the box. There was no sign of it."
+msgstr "بحثت داخل الصندوق. ولم يكن هناك أي علامة لوجوده."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy's shirt has a stripe on it. Do you see other stripes in this picture? Do you see stripes around where you are?"
+msgstr "قميص الصبي عليه خط. هل ترى خطوطًا أخرى في هذه الصورة؟ هل ترى خطوطًا حول مكان تواجدك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pink is a light shade of red. If you include pink, how many things are red in this picture?"
+msgstr "اللون الوردي هو لون خفيف من اللون الأحمر. إذا حسبت اللون الوردي، كم عدد الأشياء الحمراء في هذه الصورة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don't count pink, you get one less thing that is red. How many is that?"
+msgstr "إذا لم تحسب اللون الوردي، فستحصل على شيء أحمر أقل بواحد. كم هو ذلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched the attic. It was not there."
+msgstr "بحثت في العلية. لم يكن هناك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy has looked in a lot of places. How long do you look for something before you give up?"
+msgstr "لقد بحث الصبي في الكثير من الأماكن. كم من الوقت تبحث عن شيء ما قبل أن تستسلم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you have trouble finding something, what are some places you end up finding it?"
+msgstr "عندما تواجه صعوبة في العثور على شيء ما، ما هي بعض الأماكن التي ينتهي بك الأمر بالعثور عليه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the window no longer bangs into the shelf. Did the shelf move?"
+msgstr "لاحظ أن النافذة لم تعد تصطدم بالرف. هل تحرك الرف؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked here, there, and everywhere. I could not find it anywhere."
+msgstr "نظرت هنا وهناك وفي كل مكان. لم أتمكن من العثور عليه في أي مكان."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at his face, what do you think the boy is feeling?"
+msgstr "بالنظر إلى وجهه، ما رأيك في شعور الصبي؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever lost something and never found it?"
+msgstr "هل سبق لك أن فقدت شيئًا ولم تجده أبدًا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl is smiling in the window. Do you think she knows where the bat is?"
+msgstr "الفتاة تبتسم في النافذة. هل تعتقد أنها تعرف مكان المضرب؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is my cat?"
+msgstr "أين هي قطتي؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cat is very good at hiding. The dark black of this cat helps it hide."
+msgstr "هذه القطة جيدة جدًا في الاختباء. لونها الأسود الداكن يساعدها على الاختباء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of places would make it easy to see this cat?"
+msgstr "ما هي أنواع الأماكن التي تجعل من السهل رؤية هذه القطة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you like to hide?"
+msgstr "أين تحب الاختباء؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it under the bed?"
+msgstr "هل هي تحت السرير؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat under the bed before the boy looked there?"
+msgstr "هل كانت القطة تحت السرير قبل أن ينظر الصبي هناك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This bed cover has lots of colorful stripes. Count how many different colors it has."
+msgstr "يحتوي غطاء السرير هذا على الكثير من الخطوط الملونة. احسب عدد الألوان المختلفة التي يحتوي عليها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The walls in this room have a free form design that doesn't repeat. Have you  seen walls like this before?"
+msgstr "تتميز الجدران في هذه الغرفة بتصميم حر لا يتكرر. هل رأيت جدرانًا كهذه من قبل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it on top of the cupboard?"
+msgstr "هل هي فوق الخزانة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Instead of being on top of the cupboard, the cat is inside it."
+msgstr "بدلاً من أن تكون فوق الخزانة، القطة بداخلها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cupboard has a beautiful design. How many colors does it have?"
+msgstr "تتميز هذه الخزانة بتصميم جميل. كم عدد الألوان التي تملكها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about the shapes and patterns on the cupboard doors."
+msgstr "تحدث عن الأشكال والزخرفات الموجودة على أبواب الخزانة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it behind the couch?"
+msgstr "هل هي وراء الكنبة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is very easy to see right now. Too bad the boy is looking in the wrong place."
+msgstr "من السهل جدًا رؤية القطة الآن. من المؤسف أن الصبي يبحث في المكان الخاطئ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the strong colors on this page: red, orange, yellow, green, blue, and brown."
+msgstr "أشر إلى الألوان القوية في هذه الصفحة: الأحمر، البرتقالي، الأصفر، الأخضر، الأزرق والبني."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors of the rainbow are missing from the room?"
+msgstr "ما هي ألوان قوس قزح المفقودة من الغرفة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it next to the trash can?"
+msgstr "هل هي بجانب سلة القمامة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat must be very fast and quiet -- he was next to where the boy is now."
+msgstr "لا بد أن القط سريع وهادئ جدًا -- لقد كان بجوار مكان وجود الصبي منذ قليل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the red bricks just below the window."
+msgstr "عدّوا الطوب الأحمر الموجود أسفل النافذة مباشرة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many straight lines in this picture. Point to some curved lines."
+msgstr "هناك العديد من الخطوط المستقيمة في هذه الصورة. أشر إلى بعض الخطوط المنحنية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it inside the basket?"
+msgstr "هل هي داخل السلة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which part of the cat is not inside the SOAP box?"
+msgstr "أي جزء من القطة ليس موجودًا داخل صندوق الصابون؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is inside the basket? Is that where the cat sleeps?"
+msgstr "ماذا يوجد داخل السلة؟ هل هذا هو المكان الذي تنام فيه القطة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the wall does not line up with the squares of the floor."
+msgstr "لاحظ أن الجدار لا يتماشى مع مربعات الأرضية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it outside the house?"
+msgstr "هل هي خارج المنزل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That poor boy is always looking in the wrong place."
+msgstr "هذا الولد المسكين يبحث دائمًا في المكان الخاطئ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the boy ever finds the cat, or will the boy give up?"
+msgstr "هل تعتقد أن الصبي سيجد القطة أم أنه سيستسلم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the same wall pattern as on the last page, but the floor is a different color!"
+msgstr "هذا هو نفس نمط الجدار الموجود في الصفحة الأخيرة، لكن الأرضية بلون مختلف!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here it is!"
+msgstr "ها هي!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like the cat is in a cupboard or under a sink."
+msgstr "يبدو أن القطة في خزانة أو تحت مغسلة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat playing a game with the boy?"
+msgstr "هل كانت القطة تلعب لعبة مع الصبي؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
+msgstr "ماذا سيفعل الصبي مع القطة الآن؟ ربما سيطعمها أو يلعب معها؟ ماذا تعتقد؟"
 
 #. type=template
 msgctxt "template"
