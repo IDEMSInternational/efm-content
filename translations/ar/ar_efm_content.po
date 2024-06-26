@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-26 00:17\n"
+"PO-Revision-Date: 2024-06-26 01:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6599,6 +6599,37 @@ msgstr "هل سبق لك أن شعرت بالجوع لدرجة أنك لم تت�
 msgctxt "data_list"
 msgid "Do you think her stomach is really shoving her to get some food?"
 msgstr "هل تعتقد أن معدتها تدفعها حقًا للحصول على بعض الطعام؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each time she bounds forward, she takes two steps. You can count those steps by counting by 2's -- 2, 4, 6, 8, ..."
+msgstr "كلما تقدمت خطت خطوتين. يمكنك حساب تلك الخطوات عن طريق العد بمقدار 2 -- 2، 4، 6، 8، ..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"My nose can smell cakes baking in mother's kitchen.\n"
+"\n"
+"And now I want to hear my jaws chewing those cakes!"
+msgstr ""
+"يستطيع أنفي أن يشم رائحة الكعك المخبوز في مطبخ أمي.\n"
+"\n"
+"والآن أريد أن أسمع فكي يمضغان ذلك الكعك!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many really small cakes do you think she will eat?"
+msgstr "كم عدد الكعكات الصغيرة التي تعتقد أنها ستأكلها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the most cookies or other snack you've eaten at one time?"
+msgstr "ما هو أكثر عدد من البسكويت أو الوجبات الخفيفة الأخرى التي تناولتها في ذات الوقت؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
+msgstr "تحدثت هذه القصة عن الكثير من الأصوات المختلفة التي يمكنك سماعها من جسدك. كم منها يمكنك أن تتذكر؟"
 
 #. type=data_list
 msgctxt "data_list"
