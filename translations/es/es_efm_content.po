@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-28 20:57\n"
+"PO-Revision-Date: 2024-06-28 21:58\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10787,6 +10787,26 @@ msgstr ""
 "20 - 3/20 (desde 5, 10 y 20)\n"
 "\n"
 "Claramente, los mejores números para usar son múltiplos de 16, 12 y 20. Una estrategia simple es usar los cinco números: 32, 64, 24, 48 y 40. Estos números no siempre ganarán, pero le servirán muy bien con el tiempo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "Etapa 2 – ¡Ya puedo contar hasta 5!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "Etapa 3 – ¡Ya puedo contar hasta 10!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "Etapa 4 – ¡Ya puedo contar hasta 20!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "Etapa 5 – ¡Ya puedo contar hasta 100!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -22212,6 +22232,11 @@ msgstr "Individualmente"
 msgctxt "template"
 msgid "By topic"
 msgstr "Por tema"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**Etapas**"
 
 #. type=template
 msgctxt "template"
