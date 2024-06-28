@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-28 10:25\n"
+"PO-Revision-Date: 2024-06-28 20:57\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -22230,6 +22230,16 @@ msgstr "Sin Coincidencia"
 
 #. type=template
 msgctxt "template"
+msgid "**Storybook**"
+msgstr "**Historia**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "Etapa"
+
+#. type=template
+msgctxt "template"
 msgid "Before Talking"
 msgstr "Antes de Hablar"
 
@@ -22366,6 +22376,11 @@ msgstr "Material Adicional"
 msgctxt "tour"
 msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
 msgstr "Algunas de las actividades tienen material adicional con ejemplos y explicaciones adicionales. Puedes consultarlos aquí o al final de la página de actividades correspondiente."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "Etapas"
 
 #. type=tour
 msgctxt "tour"
