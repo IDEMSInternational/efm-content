@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-28 21:58\n"
+"PO-Revision-Date: 2024-06-28 23:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10787,6 +10787,11 @@ msgstr ""
 "20 - 3/20 (desde 5, 10 y 20)\n"
 "\n"
 "Claramente, los mejores números para usar son múltiplos de 16, 12 y 20. Una estrategia simple es usar los cinco números: 32, 64, 24, 48 y 40. Estos números no siempre ganarán, pero le servirán muy bien con el tiempo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "Etapa 1: ¡Te escucho!"
 
 #. type=data_list
 msgctxt "data_list"
