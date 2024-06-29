@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-29 19:04\n"
+"PO-Revision-Date: 2024-06-29 20:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3208,7 +3208,10 @@ msgid ""
 "This is Cat.\n"
 "\n"
 "This is Dog."
-msgstr "هذا القط. هذا الكلب."
+msgstr ""
+"هذا القط.\n"
+"\n"
+" هذا الكلب."
 
 #. type=data_list
 msgctxt "data_list"
