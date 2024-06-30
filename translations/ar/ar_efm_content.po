@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-30 03:23\n"
+"PO-Revision-Date: 2024-06-30 13:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5269,6 +5269,11 @@ msgstr "انظر إلى كل أنماط الألوان في هذه الملاب�
 msgctxt "data_list"
 msgid "Fana has worn many different colors during this story. Can you remember them all?"
 msgstr "لقد ارتدت فانا العديد من الألوان المختلفة خلال هذه القصة. هل يمكنك تذكرها جميعًا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the people in this picture."
+msgstr "قوموا بعدّ الأشخاص الموجودين في هذه الصورة معًا."
 
 #. type=data_list
 msgctxt "data_list"
