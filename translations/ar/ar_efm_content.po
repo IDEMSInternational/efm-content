@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-07-01 17:21\n"
+"PO-Revision-Date: 2024-07-01 18:38\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7081,6 +7081,11 @@ msgstr "الأرضية مظللة بطيات غطاء السرير. هل ترى 
 msgctxt "data_list"
 msgid "Some kinds of poems use rhyming words. Have you ever written a poem?"
 msgstr "إنه أمر خاص عندما يقوم شخص ما باختلاق قصة ويرويها. هل تعرف أحداً يروي قصصاً كهذه؟ هل تختلق القصص وترويها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next?"
+msgstr "ماذا تعتقد سوف يحدث بعد ذلك؟"
 
 #. type=data_list
 msgctxt "data_list"
