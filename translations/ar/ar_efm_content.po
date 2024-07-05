@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-06-28 10:25\n"
+"PO-Revision-Date: 2024-07-01 22:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -416,7 +416,7 @@ msgstr "هل تعتقد أن شكل السحابة الكبيرة يشبه أف�
 #. type=data_list
 msgctxt "data_list"
 msgid "\"You are so weird,\" they said. \"We won't play with you anymore.\""
-msgstr "قال الدجاج لديزي: \"أنتِ غريبة الأطوار، نحن لا نريد اللعب معكِ بعد الآن\".\""
+msgstr "قال الدجاج لديزي: \"أنتِ غريبة الأطوار، نحن لا نريد اللعب معكِ بعد الآن.\""
 
 #. type=data_list
 msgctxt "data_list"
@@ -3208,7 +3208,10 @@ msgid ""
 "This is Cat.\n"
 "\n"
 "This is Dog."
-msgstr "هذا القط. هذا الكلب."
+msgstr ""
+"هذا القط.\n"
+"\n"
+" هذا الكلب."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3428,7 +3431,7 @@ msgstr "هل هناك بعض الدوائر والمربعات حيث أنت؟"
 #. type=data_list
 msgctxt "data_list"
 msgid "Point together at the white circles Safi has on her back and belly."
-msgstr "{أشيروا معًا إلى الدوائر البيضاء التي تملكها صافي على ظهرها وبطنها."
+msgstr "أشيروا معًا إلى الدوائر البيضاء التي تملكها صافي على ظهرها وبطنها."
 
 #. type=data_list
 msgctxt "data_list"
@@ -4794,7 +4797,7 @@ msgstr "هل يمكننا عدّ قططنا؟"
 #. type=data_list
 msgctxt "data_list"
 msgid "This story looks at counting from 0 to 9, colors, and color patterns. Practice counting words, color words, words like: too many, biggest number, smallest number, one more, and one less."
-msgstr "كلمات الألوان، وكلمات مثل: كثير جدًا، أكبر رقم، أصغر رقم، واحد أكثر، وواحد أقل."
+msgstr "تتناول هذه القصة العد من 0 إلى 9 والألوان وأنماط الألوان. تدرب على كلمات العد، كلمات الألوان، وكلمات مثل: كثير ج ًدا، أكبر رقم، أصغر رقم، واحد أكثر، وواحد أقل."
 
 #. type=data_list
 msgctxt "data_list"
@@ -5094,7 +5097,7 @@ msgstr "لوري دوري"
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's."
-msgstr "السلبية، مختلف، مثلث، جانب، مستقيم، كرة، دائرة، قوس، أحمر، أزرق، يمين، يسار، والعد القفزي بمقدار 5."
+msgstr "تحتوي هذه القصة على الأشكال والصفات. كلمات التدريب: رفيع، أزواج، خط، المتوازي، أفقي، عمودي، متعامد، المساحة السلبية، مختلف، مثلث، جانب، مستقيم، كرة، دائرة، قوس، أحمر، أزرق، يمين، يسار، والعد القفزي بمقدار 5."
 
 #. type=data_list
 msgctxt "data_list"
@@ -5104,7 +5107,7 @@ msgstr "السلحفاة تجد منزلها"
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
-msgstr "مشاركة، أيضًا، سريع جدًا، طويل، مسافة، خفيف، ثقيل، أقل، أعلى، مختلف، تقدير، أكثر، أقوى، عمودياً، قطرياً، خطوط متوازية، وكبير."
+msgstr "تحتوي هذه القصة على الصفات والمقارنات. كلمات التدريب: عالي، على، متوسط، سرعة، 5 مرات، أزواج، فردي، زوجي، مشاركة، أي ًضا، سريع ج ًدا، طويل، مسافة، خفيف، ثقيل، أقل، أعلى، مختلف، تقدير، أكثر، أقوى، عمودياً، قطرياً، خطوط متوازية، وكبير."
 
 #. type=data_list
 msgctxt "data_list"
@@ -5266,6 +5269,11 @@ msgstr "انظر إلى كل أنماط الألوان في هذه الملاب�
 msgctxt "data_list"
 msgid "Fana has worn many different colors during this story. Can you remember them all?"
 msgstr "لقد ارتدت فانا العديد من الألوان المختلفة خلال هذه القصة. هل يمكنك تذكرها جميعًا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the people in this picture."
+msgstr "قوموا بعدّ الأشخاص الموجودين في هذه الصورة معًا."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7073,6 +7081,11 @@ msgstr "الأرضية مظللة بطيات غطاء السرير. هل ترى 
 msgctxt "data_list"
 msgid "Some kinds of poems use rhyming words. Have you ever written a poem?"
 msgstr "إنه أمر خاص عندما يقوم شخص ما باختلاق قصة ويرويها. هل تعرف أحداً يروي قصصاً كهذه؟ هل تختلق القصص وترويها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next?"
+msgstr "ماذا تعتقد سوف يحدث بعد ذلك؟"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9283,7 +9296,7 @@ msgstr "قبل الحديث"
 #. type=template
 msgctxt "template"
 msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
-msgstr "وقم بتسميتها ووصفها، مثل الأشكال والألوان والمقارنات والكميات. عندما يبدأ طفلك في فهم الكلمات، اسأل عن شيء ما واطلب من طفلك أن يشير إليه. على سبيل المثال، \"أين الكرة؟\" إذا لم يتمكن طفلك من العثور على الشيء، فأشر إليه."
+msgstr "تحدث مع طفلك قبل أن يتمكن من التحدث أو حتى فهم الكلمات. أشر إلى الأشياء التي تراها وقم بتسميتها ووصفها، مثل الأشكال والألوان والمقارنات والكميات. عندما يبدأ طفلك في فهم الكلمات، اسأل عن شيء ما واطلب من طفلك أن يشير إليه. على سبيل المثال، \"أين الكرة؟\" إذا لم يتمكن طفلك من العثور على الشيء، فأشر إليه."
 
 #. type=template
 msgctxt "template"

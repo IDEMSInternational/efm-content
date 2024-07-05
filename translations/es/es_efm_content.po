@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-28 10:25\n"
+"PO-Revision-Date: 2024-06-28 23:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10787,6 +10787,31 @@ msgstr ""
 "20 - 3/20 (desde 5, 10 y 20)\n"
 "\n"
 "Claramente, los mejores números para usar son múltiplos de 16, 12 y 20. Una estrategia simple es usar los cinco números: 32, 64, 24, 48 y 40. Estos números no siempre ganarán, pero le servirán muy bien con el tiempo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "Etapa 1: ¡Te escucho!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "Etapa 2 – ¡Ya puedo contar hasta 5!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "Etapa 3 – ¡Ya puedo contar hasta 10!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "Etapa 4 – ¡Ya puedo contar hasta 20!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "Etapa 5 – ¡Ya puedo contar hasta 100!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -22215,6 +22240,11 @@ msgstr "Por tema"
 
 #. type=template
 msgctxt "template"
+msgid "**Stages**"
+msgstr "**Etapas**"
+
+#. type=template
+msgctxt "template"
 msgid "**Bonus Material**"
 msgstr "**Material Adicional**"
 
@@ -22227,6 +22257,16 @@ msgstr "Material Adicional — Actividades"
 msgctxt "template"
 msgid "No Match"
 msgstr "Sin Coincidencia"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**Historia**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "Etapa"
 
 #. type=template
 msgctxt "template"
@@ -22366,6 +22406,11 @@ msgstr "Material Adicional"
 msgctxt "tour"
 msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
 msgstr "Algunas de las actividades tienen material adicional con ejemplos y explicaciones adicionales. Puedes consultarlos aquí o al final de la página de actividades correspondiente."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "Etapas"
 
 #. type=tour
 msgctxt "tour"
