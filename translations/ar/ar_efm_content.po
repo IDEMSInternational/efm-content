@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-07-05 22:35\n"
+"PO-Revision-Date: 2024-07-06 05:11\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2405,6 +2405,16 @@ msgstr "كم عدد الفراشات التي يمكنك عدها؟ هل هي أ
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many different colors of butterflies are there?"
+msgstr "كم عدد ألوان الفراشات المختلفة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For which color of butterfly is there the most?"
+msgstr "ما هو لون الفراشة الأكثر تواجدًا؟"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Bye bye Cat.\n"
 "\n"
@@ -4120,6 +4130,11 @@ msgstr "\"أنا مثلكم تمامًا،\" تابع المخلوق. \"الفر
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Which body parts do you have two of and which do you have one of?"
+msgstr "ما هي الأعضاء التي في جسدك اثنان منها وأي أعضاء لديك منها واحدة؟"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "For the body parts you have one of, are they on the sides or the middle line of your body?"
 msgstr "بالنسبة لأعضاء جسدك التي تمتلك واحدة منها، هل هي على الجوانب أم في الخط الأوسط من جسدك؟"
 
@@ -4290,6 +4305,11 @@ msgstr "أيهما أكثر وأيهما أقل: أسنان التمساح أم 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"Never ask a question like that!\" said her mother. Then she walked off, frowning."
+msgstr "\"لا تسألي سؤالاً كهذا أبدًا!\" قالت والدتها. ثم انصرفت وهي عابسة."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "There are many groups of things in this picture, such as groups of ears, eyes, and eyelashes. How many different groups can you find?"
 msgstr "هناك مجموعات كثيرة من الأشياء في هذه الصورة، مثل مجموعات الأذنين والعيون والرموش. كم عدد المجموعات المختلفة التي يمكنك العثور عليها؟"
 
@@ -4365,6 +4385,11 @@ msgstr "مع تناظر المرآة، تظهر أجزاء الجسم التي �
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
+msgstr "\"مرحباً،\" قال حجر بالقرب من ضفة النهر. \"مرحباً،\" قالت الفيلة الصغيرة. \"هل يمكنك أن تخبرني ماذا يأكل التمساح على العشاء؟\" سألته."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Is Baby Elephant talking to a stone or to Crocodile?"
 msgstr "هل تتحدث الفيلة الصغيرة إلى حجر أم إلى تمساح؟"
 
@@ -4377,6 +4402,11 @@ msgstr "لماذا من المفيد للتمساح أن تكون عيناه م�
 msgctxt "data_list"
 msgid "Count all the circles in this picture. Some parts of some of the circles are blocked from view."
 msgstr "عد جميع الدوائر في هذه الصورة. بعض أجزاء بعض الدوائر محجوبة عن العرض."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
+msgstr "\"انحني وسأخبرك،\" قال الحجر.\"أسفل، أقل\"، قال الحجر. لذلك انحنت الفيلة الصغيرة إلى الأسفل، وإلى الأسفل."
 
 #. type=data_list
 msgctxt "data_list"
@@ -4930,6 +4960,11 @@ msgstr "تحتوي هذه القصة على العد حتى 12 والمقارن�
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Pendo, Our Cow"
+msgstr "بيندو، بقرتنا"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "This story has quantities up to six and comparing. Practice words: numbers to six, more, most, less, least, and rectangle."
 msgstr "تحتوي هذه القصة على كميات تصل إلى ستة والمقارنة. كلمات التدريب: الأرقام إلى ستة، أكثر، أقل، ومستطيل."
 
@@ -4970,6 +5005,11 @@ msgstr "أين هو مضربي؟"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
+msgstr "تحتوي هذه القصة على العد حتى 7، وكلمات العلاقات، والأشكال. كلمات التدريب: كم، الأرقام حتى 7، واحد إضافي واحد أقل، خلف، داخل، على، مرتفع، مرتفع جدًا، تحت، مستطيل، مربع، وخط عمودي."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Where Is My Cat?"
 msgstr "أين هي قطتي؟"
 
@@ -4977,6 +5017,11 @@ msgstr "أين هي قطتي؟"
 msgctxt "data_list"
 msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
 msgstr "تحتوي هذه القصة على العد حتى 5، كلمات العلاقات، والألوان. كلمات التدريب: الأرقام إلى 5، تحت، فوق، خلف، بجوار، داخل، خارج، أسماء الألوان، مستقيم، ومنحني."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A Dancer's Tale"
+msgstr "قصة الراقصة: فيليس سبيرا"
 
 #. type=data_list
 msgctxt "data_list"
