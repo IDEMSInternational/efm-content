@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-07-06 05:11\n"
+"PO-Revision-Date: 2024-07-06 09:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5140,6 +5140,11 @@ msgstr "في أحد الأيام، رأت فانا أطفالًا يرشقون �
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Throwing stones at animals is a mean thing to do!"
+msgstr "إن رمي الحيوانات بالحجارة أمر سيئ!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What would you do if you saw someone doing something that was mean?"
 msgstr "ماذا تفعل إذا رأيت أحداً يفعل شيئاً سيئاً؟"
 
@@ -7028,6 +7033,11 @@ msgstr "ما هي الأشياء التي سيكون من الصعب مشارك�
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\""
+msgstr "\"هل تختلق هذا يا جدي؟ هل هذه القصة حقيقية؟\" \"لوري حقيقية - حقيقية مثلي، حقيقية مثلك.\""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "The story may not be real, but it has a real message. What is the message?"
 msgstr "قد لا تكون القصة حقيقية، لكنها تحمل رسالة حقيقية. ما هي الرسالة؟"
 
@@ -7050,6 +7060,11 @@ msgstr "عندما تركني جدي، لست متأكدة تمامًا، ولك
 msgctxt "data_list"
 msgid "What do you think? Do \"sure\" and \"door\" rhyme?"
 msgstr "قصص ما قبل النوم يمكن أن تساعدك على النوم. أعتقد أن القصة هنا جعلت الطفلة أكثر يقظة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?"
+msgstr "الأرضية مظللة بطيات غطاء السرير. هل ترى التجاعيد؟"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7970,6 +7985,11 @@ msgstr "عندما يكون لديك عدد فردي من شيء ما، لا ي�
 msgctxt "data_list"
 msgid "It's even trickier to think of numbers that can be shared equally by three people? Can you think of any examples of this?"
 msgstr "من الأصعب التفكير في الأرقام التي يمكن تقاسمها بالتساوي بين ثلاثة أشخاص؟ هل يمكنك التفكير في أي أمثلة على ذلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\""
+msgstr "رفرف بجناحيه وانطلق بعيدًا. اشتكت السلحفاة قائلة: \"لكنك تسير بسرعة كبيرة جدًا بالنسبة لي\". عاد الدوري. \"حسنًا، إذاً سأقفز أيضًا.\""
 
 #. type=data_list
 msgctxt "data_list"
