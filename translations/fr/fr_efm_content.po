@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-07-05 23:34\n"
+"PO-Revision-Date: 2024-07-06 00:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2571,6 +2571,11 @@ msgstr "Le monde compte environ 8 milliards de personnes. Près d'un milliard de
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do?\" asked Cassava."
+msgstr "« Mes tiges sont utilisées pour les plantations. Mes feuilles et mes écorces nourrissent vos animaux. Que fait Palme ? » demande Manioc."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Not all shapes are simple and regular. There are several large, irregularly-shaped dark patches on the goat. How many?"
 msgstr "Toutes les formes ne sont pas simples et régulières. Il y a plusieurs grandes taches sombres de forme irrégulière sur la chèvre. Combien y en a-t-il ?"
 
@@ -2626,6 +2631,11 @@ msgstr "Supposons que chaque personne mange deux poissons, combien de personnes 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.\""
+msgstr "« De plus, mes amis fournissent de l'ombre à vos huttes. Tu te rafraîchis le cœur avec mon vin de palme doux, riche et mousseux après ta dure journée de travail. »"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "The poles that hold up the palm frond roof are vertical -- they are straight up and down. The edge of the wall behind the people is horizontal -- it goes from side to side. Point out vertical and horizontal lines around you."
 msgstr "Les poteaux qui soutiennent le toit en palmes sont verticaux -- ils sont droits de haut en bas. Le bord du mur derrière les gens est horizontal – il va d'un côté à l'autre. Pointe les lignes verticales et horizontales autour de toi."
 
@@ -2638,6 +2648,11 @@ msgstr "Les endroits où les poteaux rencontrent le mur forment des angles droit
 msgctxt "data_list"
 msgid "Most drink containers are round. Why do you suppose that is?"
 msgstr "La plupart des récipients pour boissons sont ronds. Pourquoi penses-tu que c'est le cas ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Above all, the brooms that are used to sweep the rooms and compounds come from me,\" concluded Palm."
+msgstr "« Surtout, les balais qui servent à balayer les salles et les enceintes viennent de moi, » conclut Palme."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2673,6 +2688,11 @@ msgstr "Elle tient ses mains avec les paumes vers le haut. Parfois ce geste sign
 msgctxt "data_list"
 msgid "How many bumps do you see on Palm's body? Can you count that high?"
 msgstr "Combien de bosses vois-tu sur le corps de Palme ? Peux-tu compter aussi haut ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup!\" said the woman."
+msgstr "« Tous les deux, vous êtes très importants pour moi. Vous faites tous les deux un repas délicieux, une soupe au fufu et aux noix de palme ! », dit la femme."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2759,6 +2779,17 @@ msgstr "Indique du doigt une autre chose ronde dans l’image."
 msgctxt "data_list"
 msgid "How many rooms does their house seem to have?"
 msgstr "Combien de chambres cette maison semble-t-elle avoir ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"Chat et Chien ont un ballon.\n"
+"\n"
+"Le ballon est rouge, bleu et jaune."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3353,6 +3384,16 @@ msgstr "Ils voient cent papillons !"
 msgctxt "data_list"
 msgid "How many butterflies can you count? Are there too many for you to count?"
 msgstr "Combien de papillons peux-tu compter ? Y en a-t-il trop pour que tu puisses tous les compter ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different colors of butterflies are there?"
+msgstr "Combien y a-t-il de couleurs différentes de papillons ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For which color of butterfly is there the most?"
+msgstr "Quelle couleur de papillon y en a-t-il le plus ?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4605,6 +4646,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many steps did this drawing take? Was it less than, the same as, or more than the number of steps for the first drawing?"
+msgstr "Combien d'étapes ce dessin a-t-il nécessité ? Était-il inférieur, égal ou supérieur au nombre d'étapes du premier dessin ?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "In this drawing, you don't see Dog's mouth. Even still, you can tell Dog is happy in the drawing. How can you tell?"
 msgstr "Dans ce dessin, on ne voit pas la bouche de Chien. Malgré tout, on peut dire que Chien est heureux dans ce dessin. Comment le sais-tu ?"
 
@@ -5575,6 +5621,11 @@ msgstr "« Je suis comme vous, » poursuivit la créature. « La seule diffé
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Which body parts do you have two of and which do you have one of?"
+msgstr "Quelles parties de ton corps as-tu deux fois et lesquelles as-tu une fois ?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "For the body parts you have one of, are they on the sides or the middle line of your body?"
 msgstr "Pour les parties que tu as une fois, sont-elles sur les côtés ou sur le milieu de ton corps ?"
 
@@ -5745,6 +5796,11 @@ msgstr "Lequel est le plus et lequel est le moins : les dents du crocodile ou le
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"Never ask a question like that!\" said her mother. Then she walked off, frowning."
+msgstr "« Ne pose jamais une telle question ! » dit sa mère. Puis elle est partie en fronçant les sourcils."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "There are many groups of things in this picture, such as groups of ears, eyes, and eyelashes. How many different groups can you find?"
 msgstr "Il y a plusieurs groupes de choses dans cette image, comme des groupes d'oreilles, d’œil et de cils. Combien de groupes différents peux-tu trouver ?"
 
@@ -5820,6 +5876,11 @@ msgstr "Avec la symétrie en miroir, les parties du corps qui ne sont pas sur la
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
+msgstr "« Bonjour » dit une pierre près de la berge de la rivière. « Bonjour » dit le bébé éléphant. « Peux-tu me dire ce que le crocodile mange pour le dîner ? » demande-t-elle."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Is Baby Elephant talking to a stone or to Crocodile?"
 msgstr "Bébé éléphant parle-t-il à une pierre ou à un crocodile ?"
 
@@ -5832,6 +5893,11 @@ msgstr "Pourquoi est-il utile pour un crocodile d'avoir ses yeux qui dépassent 
 msgctxt "data_list"
 msgid "Count all the circles in this picture. Some parts of some of the circles are blocked from view."
 msgstr "Compte tous les cercles de cette image. Certaines parties de certains cercles sont cachées à la vue."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
+msgstr "« Baisse-toi et je te le dirai, » dit la pierre. « Plus bas, plus bas, » dit la pierre. Alors bébé éléphant se penche de plus en plus bas."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8847,6 +8913,11 @@ msgstr "Cette histoire apprend à compter jusqu’à 12, les couleurs et les for
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Pendo, Our Cow"
+msgstr "Notre vache Pendo"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "This story has quantities up to six and comparing. Practice words: numbers to six, more, most, less, least, and rectangle."
 msgstr "Cette histoire fait référence aux quantités jusqu’à 10 et à la comparaison. Mots à pratiquer : nombres jusqu’à six, plus, le plus, moins, le moins, et rectangle."
 
@@ -8887,6 +8958,11 @@ msgstr "Où est ma chauve-souris ?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
+msgstr "Cette histoire suivante compte jusqu'à 7, et contient des mots de relation et des formes. Mots à pratiquer : combien, nombres jusqu'à 7, un de plus, un de moins, derrière, dedans, sur, haute, très haut, dessous, rectangle, boîte, et ligne verticale."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Where Is My Cat?"
 msgstr "Où est mon chat ?"
 
@@ -8894,6 +8970,11 @@ msgstr "Où est mon chat ?"
 msgctxt "data_list"
 msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
 msgstr "Cette histoire permet de s’entraîner à compter jusqu’à 5, d’apprendre des mots d’orientation dans l’espace et des couleurs. Pratiquez les mots suivants : nombres jusqu’à 5, sous, dessus, sur, derrière, à côté de, dedans, dehors, couleurs, droit, et courbe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A Dancer's Tale"
+msgstr "Le conte d'un danseur"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9565,6 +9646,11 @@ msgstr "La plupart des gens qui vivent dans une ville n’ont pas autant d’ani
 msgctxt "data_list"
 msgid "One day, Fana saw other children throwing stones at doves."
 msgstr "Un jour, Fana a aperçu des enfants qui jetaient des pierres sur des colombes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Throwing stones at animals is a mean thing to do!"
+msgstr "Jeter des pierres sur des animaux est cruel !"
 
 #. type=data_list
 msgctxt "data_list"
