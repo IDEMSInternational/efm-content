@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-07-06 00:34\n"
+"PO-Revision-Date: 2024-07-06 03:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9990,6 +9990,11 @@ msgstr "Quels sont les signes qui indiquent que le père se sent très fatigué 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.\""
+msgstr "Le père dit : « C'est ce que je voulais dire quand je disais que tu devais te faire un foyer. Un foyer, c'est plus que de nombreuses huttes ou une grande maison coûteuse. C'est l'amour, la chaleur et l'amitié avec d'autres personnes. »"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "A home is not just a roof or walls or doors. In the place where you live, what kinds of things make it a home to you?"
 msgstr "Une maison n'est pas seulement un toit, des murs ou des portes. Dans l'endroit où tu vis, quels sont les éléments qui font de cet endroit un foyer pour toi ?"
 
@@ -11466,6 +11471,17 @@ msgstr "Compte deux par deux pour compter le nombre de jambes qu’ont les perso
 msgctxt "data_list"
 msgid "What would you skip count by to count the number of legs the horses have? That's a pretty big number. Can you skip count that high?"
 msgstr "Comment compterais-tu le nombre de pattes des chevaux ? C’est un nombre assez grand. Peux-tu compter jusque-là ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"\"My harness doesn't fit me. It is too tight and cuts my skin,\" said one horse.\n"
+"\n"
+"\"Me too, me too,\" another agreed."
+msgstr ""
+"« Mon harnais ne me va pas. Il est trop serré et il me coupe la peau, » dit un cheval.\n"
+"\n"
+"« Moi aussi, moi aussi, » dit un autre."
 
 #. type=data_list
 msgctxt "data_list"
