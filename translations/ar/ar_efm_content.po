@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-07-06 09:53\n"
+"PO-Revision-Date: 2024-07-06 10:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1808,6 +1808,17 @@ msgstr "أشر إلى أي أشياء مستديرة أخرى في الصورة.
 msgctxt "data_list"
 msgid "How many rooms does their house seem to have?"
 msgstr "كم عدد الغرف التي يتكون منها منزلهم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"القط والكلب يملكان كرة.\n"
+"\n"
+"الكرة حمراء وزرقاء وصفراء."
 
 #. type=data_list
 msgctxt "data_list"
