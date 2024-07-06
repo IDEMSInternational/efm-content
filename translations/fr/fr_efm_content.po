@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-07-06 03:04\n"
+"PO-Revision-Date: 2024-07-06 04:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11526,6 +11526,17 @@ msgstr "Il y a cinq chevaux. Combien y a-t-il de queues, d’oreilles et de patt
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"\"We work very hard, but most of our owners treat us badly. Many do not know how to look after us,\" said Chalew.\n"
+"\n"
+"All of the horses agreed."
+msgstr ""
+"« Nous travaillons très dur mais la plupart de nos propriétaires nous traitent mal. Beaucoup ne savent pas comment s’occuper de nous, » dit Chalew.\n"
+"\n"
+"Tous les chevaux étaient d’accord."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What do you think Chalew is going to suggest that they do about their bad situation?"
 msgstr "Selon toi qu’est-ce que Chalew va-t-il leur suggérer de faire pour remédier à leur mauvaise situation ?"
 
@@ -11538,6 +11549,17 @@ msgstr "Sur cette image, les cinq chevaux sont regroupés en deux paires, plus u
 msgctxt "data_list"
 msgid "Think of some other odd numbers. When you have two people and an odd number of things, it is impossible to give them the same number, so you can't share the things equally."
 msgstr "Pense à d’autres nombres impairs. Lorsque tu as deux personnes et un nombre impair d’objets, il est impossible de leur en donner le même nombre, donc tu ne peux pas partager les objets de manière égale."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"\"We need better conditions. Let's go on strike!\" declared Chalew. The horses cheered!\n"
+"\n"
+"They decided to stay in the field until the cart drivers agreed to change."
+msgstr ""
+"« Nos conditions de travail doivent changer. Faisons grève ! » dit Chalew. Les chevaux applaudirent !\n"
+"\n"
+"Ils décidèrent de rester dans le champ jusqu’à ce que les conducteurs acceptent de changer."
 
 #. type=data_list
 msgctxt "data_list"
@@ -12184,6 +12206,11 @@ msgstr "La Tortue regarde en arrière. Que cherche-t-elle ?"
 msgctxt "data_list"
 msgid "They crossed a river. They got wet."
 msgstr "La Hyène et la Tortue traversèrent une rivière. Elles se mouillèrent."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy."
+msgstr "« Elles se mouillèrent » semble être un euphémisme au vu de leur apparence sur l’image. Les hyènes sont d’excellentes nageuses, donc il est étonnant de voir la Hyène si mécontente."
 
 #. type=data_list
 msgctxt "data_list"
@@ -12978,6 +13005,11 @@ msgstr "Un autre jour du mois d’août, un hélicoptère a atterri à la crèch
 msgctxt "data_list"
 msgid "This view high up in the sky is something you don't get to see very often. Notice how the roofs all look like rectangles from up here. What does that tell you about the shape of the rooms underneath the roofs?"
 msgstr "Cette vue en hauteur dans le ciel est quelque chose que l’on ne voit pas très souvent. Remarque à quel point les toits ressemblent tous à des rectangles vus d’ici. Qu’est-ce que cela t’apprend sur la forme des pièces sous les toits ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?"
+msgstr "Il y a un cercle autour du sommet de l’hélicoptère. Il n’y a en fait rien de circulaire là-dedans. Qu’est-ce qui donne l’impression qu’il y a un cercle là-bas ?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14465,6 +14497,11 @@ msgstr "Quelles sont les choses qui seront difficiles à partager de cette mani�
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\""
+msgstr "Est-ce que tu inventes tout ça Grand-père ? Cette histoire est-elle vraie ? Lory est réelle, comme nous."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "The story may not be real, but it has a real message. What is the message?"
 msgstr "Cette histoire n’est peut-être pas vraie mais le message qu’elle transmet est vrai. Quel est le message ?"
 
@@ -14487,6 +14524,11 @@ msgstr "Quand Grand-père est parti, je ne suis pas sûre, mais je crois qu’à
 msgctxt "data_list"
 msgid "What do you think? Do \"sure\" and \"door\" rhyme?"
 msgstr "Que penses-tu ? Est-ce que les mots ‘sûre’ et ‘obscure’ riment-ils ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?"
+msgstr "Retourne à l’histoire de Lory, et trouve toutes les paires de mots qui riment. Peux-tu trouver quelques autres mots qui riment avec les paires que tu as déjà trouvées ?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16757,6 +16799,11 @@ msgstr "Quels sont les nombres que tu peux diviser en parts égales entre 2 pers
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out?\" Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad."
+msgstr "« Tu es plein de surprises, Doobie, » dit gentiment Duksie. « Comment as-tu fait ? », demanda Maya. Doobie sourit et ne dit rien. Pour le moment, il garde le secret. Il le dira plus tard à son père."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "It can be fun to have a secret. What's a secret you once had that is no longer a secret?"
 msgstr "Cela peut être drôle d’avoir un secret. Quel est le secret as-tu eu un jour et qui n’est plus un secret ?"
 
@@ -18264,6 +18311,11 @@ msgstr "Il est encore plus difficile de penser à des nombres qui peuvent être 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\""
+msgstr "Il battit des ailes et s'envola. « Mais tu vas trop vite pour moi », se plaint Tortue. Moineau revient. « D'accord, alors je monte aussi. »"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "The average speed of a sparrow is at least 10 times faster than a person, so it is about 50 times faster than a tortoise!"
 msgstr "La vitesse moyenne d'un moineau est au moins 10 fois supérieure à celle d'une personne, soit environ 50 fois supérieure à celle d'une tortue !"
 
@@ -19639,6 +19691,11 @@ msgstr "As-tu déjà vu une danse animale non-humaine ?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\""
+msgstr "Le roi se racla la gorge et dit : « Je pense que le moment est venu pour moi de me trouver un successeur. Mais comme je vous aime tous tout autant, il m’est impossible de décider qui en est le plus digne parmi vous. J’ai donc décidé d’organiser une compétition. »"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Some of these animals would usually hunt some of these other animals. Can you think of some examples in this picture of animals who would hunt and others who would be hunted?"
 msgstr "Parmi ces animaux, certains chassent habituellement certains autres. Peux-tu trouver sur cette image quelques exemples d’animaux qui chasseraient et d’animaux qui seraient chassés ?"
 
@@ -19799,6 +19856,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "What is unusual about the body positions these animals are in?"
 msgstr "Qu’y a-t-il d’inhabituel dans la façon de se tenir de ces animaux ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of animals as best you can. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
+msgstr "C’est un peu difficile, mais essaie de compter combien il y a d’animaux du mieux que tu le peux. Chaque animal à deux yeux, donc tu peux doubler ce nombre pour trouver le nombre total d’yeux. Tu peux aussi compter les yeux en comptant de 2 par 2."
 
 #. type=data_list
 msgctxt "data_list"
