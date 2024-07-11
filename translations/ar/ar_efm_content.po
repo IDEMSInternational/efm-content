@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-07-06 10:53\n"
+"PO-Revision-Date: 2024-07-11 23:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5081,6 +5081,26 @@ msgstr "تحتوي هذه القصة على العد القفزي وخصائص �
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How Many?"
+msgstr "كم العدد؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
+msgstr "تحتوي هذه القصة على العد حتى 14 والعد القفزي. كلمات التدريب: الأرقام حتى 14، العد القفزي، أكثر، أقل، واحد إضافي، ثلاثة إضافي، ومضاعف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I Love Forests"
+msgstr "أحب الغابات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to ten and comparing quantities. Practice words: numbers to ten, counting by 2's, one more, one less, most, and least."
+msgstr "تحتوي هذه القصة على العد إلى عشرة ومقارنة الكميات. كلمات التدريب: الأرقام إلى عشرة، العد بمقدار 2، واحد أكثر، واحد أقل، أكثر، وأقل."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Listen to My Body"
 msgstr "استمع إلى جسدي"
 
@@ -5098,6 +5118,16 @@ msgstr "لوري دوري"
 msgctxt "data_list"
 msgid "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's."
 msgstr "تحتوي هذه القصة على الأشكال والصفات. كلمات التدريب: رفيع، أزواج، خط، المتوازي، أفقي، عمودي، متعامد، المساحة السلبية، مختلف، مثلث، جانب، مستقيم، كرة، دائرة، قوس، أحمر، أزرق، يمين، يسار، والعد القفزي بمقدار 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Maguru Gives Legs"
+msgstr "ماجورو يعطي أرجلاً"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero."
+msgstr "تحتوي هذه القصة على الأشكال والمجموعات. كلمات التدريب: طويلة، مستديرة، مخروطية، مسطحة، مستطيلة، مربعة، قريبة، أقرب، تقدير، العد القفزي بمقدار 2 و4، الألوان، أكثر، أقل، خصائص الكائن، التجميع حسب الخاصية، أقل، أول، أخيرًا، بعد، قبل، أسرع، أبطأ، لا شيء وصفر."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6245,6 +6275,166 @@ msgstr "هل رأيت ضفدعاً أو علجوماً من قبل؟ هل يمك
 msgctxt "data_list"
 msgid "Have you ever gone to a pond, river, or lake to explore water life?"
 msgstr "هل سبق لك أن ذهبت إلى بركة أو نهر أو بحيرة لاستكشاف الحياة المائية؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I love forests!"
+msgstr "أنا أحب الغابات!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some great things about forests?"
+msgstr "ما هي بعض الأشياء الرائعة عن الغابات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many types of places. For example, there are deserts, hills, beaches, canyons, mesas, and mountain slopes. What are some of your favorite places?"
+msgstr "هناك أنواع عديدة من الأماكن. على سبيل المثال، هناك الصحاري والتلال والشواطئ والأودية والهضاب والمنحدرات الجبلية. ما هي بعض الأماكن المفضلة لديك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of the trees in this picture can you count? Can you count that high?"
+msgstr "كم عدد الأشجار التي يمكنك عدها في هذه الصورة؟ هل يمكنك العد بهذا الارتفاع؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Last week I went to Kibale forest."
+msgstr "ذهبت الأسبوع الماضي إلى غابة كيبالي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kibale National Park is a rain forest in Western Uganda near the center of Africa. It is a sanctuary for a large variety of primates, wildlife, and vegetation."
+msgstr "منتزه كيبالي الوطني عبارة عن غابة مطيرة في غرب أوغندا بالقرب من وسط أفريقيا. إنه ملاذ لمجموعة كبيرة ومتنوعة من الرئيسيات والحياة البرية والنباتات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there parks or natural areas that you like to visit?"
+msgstr "هل هناك حدائق أو مناطق طبيعية تحب زيارتها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which do you find more interesting to see: plants and trees or lots of animals?"
+msgstr "ما الذي تجده أكثر إثارة للاهتمام: النباتات والأشجار أم الكثير من الحيوانات؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw many trees. I saw Fig, Muvule, Palm, and Ebony trees."
+msgstr "رأيت العديد من الأشجار. رأيت أشجار التين والموفول والنخل والأبنوس."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This picture shows plains with mountains in the distance. Do you think a mixture of living areas will be good for creating a mixture of plants and animals for the park?"
+msgstr "تظهر هذه الصورة سهولًا مع وجود جبال في الأفق. هل تعتقد أن مزيج مناطق المعيشة سيكون جيدًا لإنشاء مزيج من النباتات والحيوانات للحديقة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentions four types of trees in the park. Do you see four types in this picture?"
+msgstr "تذكر القصة أربعة أنواع من الأشجار الموجودة في الحديقة. هل ترى أربعة أنواع في هذه الصورة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many types of trees can you think of near where you live?"
+msgstr "كم عدد أنواع الأشجار التي يمكنك التفكير فيها بالقرب من المكان الذي تعيش فيه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw chimpanzees, baboons, and monkeys."
+msgstr "رأيت الشمبانزي والبابون والقردة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These adult animals are sitting in pairs, which makes them easy to count by 2's - 2, 4, 6. Adding in one more baby makes 7!"
+msgstr "تجلس هذه الحيوانات البالغة في أزواج، مما يجعل من السهل العد بمقدار 2 - 2، 4، 6. وبإضافة طفل آخر نحصل على 7!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One more than the 6 adults is 7. If you take away the one baby, how many is one less than 7?"
+msgstr "واحد أكثر من 6 أشخاص بالغين هو 7. إذا أخذت طفلًا واحدًا، فكم هو العدد الأقل من 7 بواحد؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this mixture of animals would naturally be together like this, or did the artist take some liberties with the picture?"
+msgstr "هل تعتقد أنه من الطبيعي أن يكون هذا الخليط من الحيوانات معاً، أم أن الفنان أخذ بعض الحرية في الصورة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw different birds. I saw crested cranes, eagles, and owls."
+msgstr "رأيت طيورًا مختلفة. رأيت الكركي المتوج والنسور والبوم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What about this picture -- do you think these birds would all be together like this?"
+msgstr "ماذا عن هذه الصورة - هل تعتقد أن هذه الطيور ستكون مع بعضها بهذا الشكل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four birds and one fish. How many animals is that all together? How many is one more than four?"
+msgstr "هناك أربعة طيور وسمكة واحدة. كم عدد الحيوانات مجتمعة؟ كم هو واحد أكثر من أربعة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentions three types of birds and shows us four birds. Do you think two of these birds are of the same type? If so, which two?"
+msgstr "تذكر القصة ثلاثة أنواع من الطيور وتبين لنا أربعة طيور. هل تعتقد أن اثنتين من هذه الطيور من نفس النوع؟ إذا كان الأمر كذلك، أي اثنتين؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I laughed when I saw a big elephant with a little tail."
+msgstr "ضحكت عندما رأيت فيلًا كبيرًا لديه ذيل صغير."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think such a large animal has such a little tail?"
+msgstr "لماذا تعتقد أن هذا الحيوان الكبير لديه مثل هذا الذيل الصغير؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The parts the elephant has two of (ears, tusks, pairs of legs, and eyes) are on opposite sides of its body, and the parts it has one of (mouth, tail, and trunk) are in the middle of its body. Are all animals like this?"
+msgstr "الأجزاء التي للفيل منها اثنان (الأذنان، والأنابان، وأزواج الأرجل، والعيون) موجودة في طرفين متقابلين من جسمه، والأجزاء التي يمتلك واحداً منها (الفم والذيل والجذع) موجودة في وسط جسمه. هل كل الحيوانات هكذا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of an animal that doesn't have its parts  arranged about a middle line?"
+msgstr "هل يمكنك أن تتخيل حيوانًا لا تترتب أجزاؤه حول خط وسط؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw so many different animals, birds, and plants."
+msgstr "رأيت الكثير من الحيوانات والطيور والنباتات المختلفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe the animals by where they are in the picture -- some are in the air, the trees, the water, and in the grass."
+msgstr "صف الحيوانات من خلال مكان تواجدها في الصورة، بعضها في الهواء، وفي الأشجار، وفي الماء، وفي العشب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count each group and then count them all together -- do you get the same result?"
+msgstr "عد كل مجموعة ثم قم بعدها معًا -- هل تحصل على نفس النتيجة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which group has the most animals in it? Which has the least?"
+msgstr "أي المجموعة تضم حيوانات أكثر؟ أيها تصم الأقل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kibale forest is a good place to visit. I love forests! Do you?"
+msgstr "تعد غابة كيبالي مكانًا جيدًا للزيارة. أنا أحب الغابات! هل تحبها أيضاً؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like to visit forests?"
+msgstr "هل تحب زيارة الغابات؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite place to visit away from where you live?"
+msgstr "ما هو المكان المفضل لديك للزيارة بعيداً عن المكان الذي تعيش فيه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite spot to go to around where you live?"
+msgstr "ما هو المكان الذي تفضل الذهاب إليه في المكان الذي تعيش فيه؟"
 
 #. type=data_list
 msgctxt "data_list"
