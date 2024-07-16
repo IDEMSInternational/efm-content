@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-28 10:25\n"
+"PO-Revision-Date: 2024-07-06 04:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -129,7 +129,7 @@ msgstr "Si tu as quatre filles et que tu en enlèves trois, combien en reste-t-i
 
 #. type=data_list
 msgctxt "data_list"
-msgid "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean"
+msgid "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean?"
 msgstr "Quand les gens se moquent de toi, ressens-tu de la colère ou de la honte ? Est-ce que tu as réussi à les ignorer en sachant qu’ils étaient juste méchants ?"
 
 #. type=data_list
@@ -620,8 +620,8 @@ msgstr "Il y a longtemps, dans une ville appelée Sunland, vivait une fille aux 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatch room can help keep a house cool or warm. From the distance, those roofs look like triangles."
-msgstr "Il y a trois maisons rondes avec des toits de chaume. Le chaume est un mélange de matériaux végétaux morts et vivants, généralement de l'herbe. Une pièce en chaume peut aider à garder une maison fraîche ou chaude. De loin, ces toits ressemblent à des triangles."
+msgid "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatched roof can help keep a house cool or warm. From the distance, those roofs look like triangles."
+msgstr "Il y a trois maisons rondes avec des toits de chaume. Le chaume est un mélange de matériaux végétaux morts et vivants, généralement de l'herbe. Un toit de chaume peut aider à garder une maison fraîche ou chaude. De loin, ces toits ressemblent à des triangles."
 
 #. type=data_list
 msgctxt "data_list"
@@ -818,7 +818,7 @@ msgctxt "data_list"
 msgid ""
 "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n"
 "\n"
-"Before he could run out to tell A'nua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n"
+"Before he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n"
 "\n"
 "Oti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball."
 msgstr ""
@@ -2460,7 +2460,7 @@ msgstr "Remarque les bras de chacun dans cette image. Copie chacun d'eux avec te
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"What work can you do? the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n"
+"\"What work can you do?\" the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n"
 "\n"
 "The woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied."
 msgstr ""
@@ -2571,7 +2571,7 @@ msgstr "Le monde compte environ 8 milliards de personnes. Près d'un milliard de
 
 #. type=data_list
 msgctxt "data_list"
-msgid "My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do? asked Cassava."
+msgid "\"My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do?\" asked Cassava."
 msgstr "« Mes tiges sont utilisées pour les plantations. Mes feuilles et mes écorces nourrissent vos animaux. Que fait Palme ? » demande Manioc."
 
 #. type=data_list
@@ -2631,7 +2631,7 @@ msgstr "Supposons que chaque personne mange deux poissons, combien de personnes 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work."
+msgid "\"In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.\""
 msgstr "« De plus, mes amis fournissent de l'ombre à vos huttes. Tu te rafraîchis le cœur avec mon vin de palme doux, riche et mousseux après ta dure journée de travail. »"
 
 #. type=data_list
@@ -2651,7 +2651,7 @@ msgstr "La plupart des récipients pour boissons sont ronds. Pourquoi penses-tu 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Above all, the brooms that are used to sweep the rooms and compounds come from me, concluded Palm."
+msgid "\"Above all, the brooms that are used to sweep the rooms and compounds come from me,\" concluded Palm."
 msgstr "« Surtout, les balais qui servent à balayer les salles et les enceintes viennent de moi, » conclut Palme."
 
 #. type=data_list
@@ -2691,7 +2691,7 @@ msgstr "Combien de bosses vois-tu sur le corps de Palme ? Peux-tu compter aussi 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup! said the woman."
+msgid "\"Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup!\" said the woman."
 msgstr "« Tous les deux, vous êtes très importants pour moi. Vous faites tous les deux un repas délicieux, une soupe au fufu et aux noix de palme ! », dit la femme."
 
 #. type=data_list
@@ -2785,11 +2785,11 @@ msgctxt "data_list"
 msgid ""
 "Cat and Dog have a ball.\n"
 "\n"
-"The ball is red and blue and green."
+"The ball is red and blue and yellow."
 msgstr ""
 "Chat et Chien ont un ballon.\n"
 "\n"
-"Le ballon est rouge, bleu et vert."
+"Le ballon est rouge, bleu et jaune."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3387,8 +3387,13 @@ msgstr "Combien de papillons peux-tu compter ? Y en a-t-il trop pour que tu puis
 
 #. type=data_list
 msgctxt "data_list"
-msgid "How many different colors of butterflies are there?{For which color of butterfly is there the most?}"
+msgid "How many different colors of butterflies are there?"
 msgstr "Combien y a-t-il de couleurs différentes de papillons ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For which color of butterfly is there the most?"
+msgstr "Quelle couleur de papillon y en a-t-il le plus ?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4641,7 +4646,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "How many steps did this drawing take? Was it the less than, the same as, or more than the number of steps for the first drawing?"
+msgid "How many steps did this drawing take? Was it less than, the same as, or more than the number of steps for the first drawing?"
 msgstr "Combien d'étapes ce dessin a-t-il nécessité ? Était-il inférieur, égal ou supérieur au nombre d'étapes du premier dessin ?"
 
 #. type=data_list
@@ -5616,7 +5621,7 @@ msgstr "« Je suis comme vous, » poursuivit la créature. « La seule diffé
 
 #. type=data_list
 msgctxt "data_list"
-msgid "What body parts do you have two of and which do you have one of?"
+msgid "Which body parts do you have two of and which do you have one of?"
 msgstr "Quelles parties de ton corps as-tu deux fois et lesquelles as-tu une fois ?"
 
 #. type=data_list
@@ -5791,7 +5796,7 @@ msgstr "Lequel est le plus et lequel est le moins : les dents du crocodile ou le
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Never ask a question like that! said her mother. Then she walked off, frowning."
+msgid "\"Never ask a question like that!\" said her mother. Then she walked off, frowning."
 msgstr "« Ne pose jamais une telle question ! » dit sa mère. Puis elle est partie en fronçant les sourcils."
 
 #. type=data_list
@@ -5871,7 +5876,7 @@ msgstr "Avec la symétrie en miroir, les parties du corps qui ne sont pas sur la
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Hello, said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
+msgid "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
 msgstr "« Bonjour » dit une pierre près de la berge de la rivière. « Bonjour » dit le bébé éléphant. « Peux-tu me dire ce que le crocodile mange pour le dîner ? » demande-t-elle."
 
 #. type=data_list
@@ -5891,7 +5896,7 @@ msgstr "Compte tous les cercles de cette image. Certaines parties de certains ce
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
+msgid "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
 msgstr "« Baisse-toi et je te le dirai, » dit la pierre. « Plus bas, plus bas, » dit la pierre. Alors bébé éléphant se penche de plus en plus bas."
 
 #. type=data_list
@@ -8908,7 +8913,7 @@ msgstr "Cette histoire apprend à compter jusqu’à 12, les couleurs et les for
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Pendo Our Cow"
+msgid "Pendo, Our Cow"
 msgstr "Notre vache Pendo"
 
 #. type=data_list
@@ -8953,7 +8958,7 @@ msgstr "Où est ma chauve-souris ?"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
+msgid "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
 msgstr "Cette histoire suivante compte jusqu'à 7, et contient des mots de relation et des formes. Mots à pratiquer : combien, nombres jusqu'à 7, un de plus, un de moins, derrière, dedans, sur, haute, très haut, dessous, rectangle, boîte, et ligne verticale."
 
 #. type=data_list
@@ -8968,7 +8973,7 @@ msgstr "Cette histoire permet de s’entraîner à compter jusqu’à 5, d’app
 
 #. type=data_list
 msgctxt "data_list"
-msgid "A Dancers Tale"
+msgid "A Dancer's Tale"
 msgstr "Le conte d'un danseur"
 
 #. type=data_list
@@ -9644,7 +9649,7 @@ msgstr "Un jour, Fana a aperçu des enfants qui jetaient des pierres sur des col
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Throwing stones at animals is a mean things to do!"
+msgid "Throwing stones at animals is a mean thing to do!"
 msgstr "Jeter des pierres sur des animaux est cruel !"
 
 #. type=data_list
@@ -9985,7 +9990,7 @@ msgstr "Quels sont les signes qui indiquent que le père se sent très fatigué 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people."
+msgid "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.\""
 msgstr "Le père dit : « C'est ce que je voulais dire quand je disais que tu devais te faire un foyer. Un foyer, c'est plus que de nombreuses huttes ou une grande maison coûteuse. C'est l'amour, la chaleur et l'amitié avec d'autres personnes. »"
 
 #. type=data_list
@@ -11470,7 +11475,7 @@ msgstr "Comment compterais-tu le nombre de pattes des chevaux ? C’est un nomb
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"My harness doesn't fit me. It is too tight and cuts my skin, said one horse.\n"
+"\"My harness doesn't fit me. It is too tight and cuts my skin,\" said one horse.\n"
 "\n"
 "\"Me too, me too,\" another agreed."
 msgstr ""
@@ -11522,7 +11527,7 @@ msgstr "Il y a cinq chevaux. Combien y a-t-il de queues, d’oreilles et de patt
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"We work very hard, but most of our owners treat us badly. Many do not know how to look after us, said Chalew.\n"
+"\"We work very hard, but most of our owners treat us badly. Many do not know how to look after us,\" said Chalew.\n"
 "\n"
 "All of the horses agreed."
 msgstr ""
@@ -11548,7 +11553,7 @@ msgstr "Pense à d’autres nombres impairs. Lorsque tu as deux personnes et un 
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"We need better conditions. Let's go on strike! declared Chalew. The horses cheered!\n"
+"\"We need better conditions. Let's go on strike!\" declared Chalew. The horses cheered!\n"
 "\n"
 "They decided to stay in the field until the cart drivers agreed to change."
 msgstr ""
@@ -12204,7 +12209,7 @@ msgstr "La Hyène et la Tortue traversèrent une rivière. Elles se mouillèrent
 
 #. type=data_list
 msgctxt "data_list"
-msgid "They got wet seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy."
+msgid "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy."
 msgstr "« Elles se mouillèrent » semble être un euphémisme au vu de leur apparence sur l’image. Les hyènes sont d’excellentes nageuses, donc il est étonnant de voir la Hyène si mécontente."
 
 #. type=data_list
@@ -13003,7 +13008,7 @@ msgstr "Cette vue en hauteur dans le ciel est quelque chose que l’on ne voit p
 
 #. type=data_list
 msgctxt "data_list"
-msgid "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?}"
+msgid "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?"
 msgstr "Il y a un cercle autour du sommet de l’hélicoptère. Il n’y a en fait rien de circulaire là-dedans. Qu’est-ce qui donne l’impression qu’il y a un cercle là-bas ?"
 
 #. type=data_list
@@ -14492,7 +14497,7 @@ msgstr "Quelles sont les choses qui seront difficiles à partager de cette mani�
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Are you making this up, Gramps? Is this story true? \"Lory is real -- real as me, real as you.\""
+msgid "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\""
 msgstr "Est-ce que tu inventes tout ça Grand-père ? Cette histoire est-elle vraie ? Lory est réelle, comme nous."
 
 #. type=data_list
@@ -14522,7 +14527,7 @@ msgstr "Que penses-tu ? Est-ce que les mots ‘sûre’ et ‘obscure’ riment-
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Go back and look at all the pairs of rhyming words. Can you find a few more words that with each pair?"
+msgid "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?"
 msgstr "Retourne à l’histoire de Lory, et trouve toutes les paires de mots qui riment. Peux-tu trouver quelques autres mots qui riment avec les paires que tu as déjà trouvées ?"
 
 #. type=data_list
@@ -16794,7 +16799,7 @@ msgstr "Quels sont les nombres que tu peux diviser en parts égales entre 2 pers
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad."
+msgid "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out?\" Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad."
 msgstr "« Tu es plein de surprises, Doobie, » dit gentiment Duksie. « Comment as-tu fait ? », demanda Maya. Doobie sourit et ne dit rien. Pour le moment, il garde le secret. Il le dira plus tard à son père."
 
 #. type=data_list
@@ -18270,6 +18275,11 @@ msgstr "Pourquoi Escargot et Tortue ne marchent-ils pas ensemble côte à côte 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise."
+msgstr "La vitesse moyenne d'une tortue est environ 20 fois supérieure à celle d'un escargot. La vitesse moyenne d'une personne est environ cinq fois plus rapide que celle d'une tortue."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Why did the story mention where the sun is? Do you think something interesting is going to happen with the sun?"
 msgstr "Pourquoi l'histoire mentionne-t-elle où est le soleil ? Pensez-vous qu'il va se passer quelque chose d'intéressant avec le soleil ?"
 
@@ -18301,8 +18311,8 @@ msgstr "Il est encore plus difficile de penser à des nombres qui peuvent être 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise."
-msgstr "La vitesse moyenne d'une tortue est environ 20 fois supérieure à celle d'un escargot. La vitesse moyenne d'une personne est environ cinq fois plus rapide que celle d'une tortue."
+msgid "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\""
+msgstr "Il battit des ailes et s'envola. « Mais tu vas trop vite pour moi », se plaint Tortue. Moineau revient. « D'accord, alors je monte aussi. »"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19681,7 +19691,7 @@ msgstr "As-tu déjà vu une danse animale non-humaine ?"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me."
+msgid "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\""
 msgstr "Le roi se racla la gorge et dit : « Je pense que le moment est venu pour moi de me trouver un successeur. Mais comme je vous aime tous tout autant, il m’est impossible de décider qui en est le plus digne parmi vous. J’ai donc décidé d’organiser une compétition. »"
 
 #. type=data_list
@@ -19849,7 +19859,7 @@ msgstr "Qu’y a-t-il d’inhabituel dans la façon de se tenir de ces animaux ?
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Count the number of animals -- it is a bit tricky, but do your best. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
+msgid "Count the number of animals as best you can. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
 msgstr "C’est un peu difficile, mais essaie de compter combien il y a d’animaux du mieux que tu le peux. Chaque animal à deux yeux, donc tu peux doubler ce nombre pour trouver le nombre total d’yeux. Tu peux aussi compter les yeux en comptant de 2 par 2."
 
 #. type=data_list
