@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-16 23:06\n"
+"PO-Revision-Date: 2024-07-17 00:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -58,4 +58,9 @@ msgstr ""
 msgctxt "data_list"
 msgid "MATH OUT LOUD – GENERAL"
 msgstr "大声学数学"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Point, describe and ask:** Point at things your child interacts with and describe them with words involving numbers, shapes, and colors. If you are dealing with a small set of things, count them out loud to your child. When your child is old enough, point to and ask questions about the things around them."
+msgstr "**指出，描述并询问:** 用手指一指孩子玩耍的物品，并用语言描述它们，包括数量，形状和颜色。如果您看到一小堆物品，大声地对着您的孩子将它们一一数出来。如果您的孩子年龄足够，指向物品并向孩子提出有关这些东西的各种问题。"
 
