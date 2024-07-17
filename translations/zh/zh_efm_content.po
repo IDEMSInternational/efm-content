@@ -11,12 +11,17 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-17 00:05\n"
+"PO-Revision-Date: 2024-07-17 19:57\n"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 1 – I CAN HEAR YOU!"
 msgstr "第一阶段 – 我听到你!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 Introduction"
+msgstr "第一阶段 – 序言"
 
 #. type=data_list
 msgctxt "data_list"
@@ -58,6 +63,17 @@ msgstr ""
 msgctxt "data_list"
 msgid "MATH OUT LOUD – GENERAL"
 msgstr "大声学数学"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Exposure:** During these early ages, it is all about exposure! Your child is being exposed to a wide array of experiences and is discovering patterns in everything they sense. While exposing your child to the world, expose them to math words and ideas and let them see how enjoyable it can be to play with math together.\n"
+"\n"
+"**Start early:** Start this even before your child seems to understand what you're saying. Your child is a sponge who is getting more from your words than you realize."
+msgstr ""
+"**接触:** 在孩子的幼年时期，一切都和接触有关！您的孩子接触到各式各样的经历并探索有关周围感官世界的一切模式。在您的孩子接触了解世界的同时，帮助他们探索数学世界和数学概念并引领他们体会数学游戏的乐趣！\n"
+"\n"
+"**提早开始:** 在您的孩子还未能完全理解您的话语之前就开始做这项工作吧。孩子就像海绵，她们对这个世界的了解比我们想象的更多。"
 
 #. type=data_list
 msgctxt "data_list"
