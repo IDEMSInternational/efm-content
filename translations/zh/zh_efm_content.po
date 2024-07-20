@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-20 13:05\n"
+"PO-Revision-Date: 2024-07-20 21:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -605,4 +605,9 @@ msgstr "**游戏规则:** 让您的孩子从碗里数出一些东西，比如5�
 msgctxt "data_list"
 msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
 msgstr "**如何获胜:** 被偷走的物品将成为您孩子的一部分，而您将保留剩下的物品。继续玩下去，直到碗里的食物都被拿完。最后，你们两个将自己的物品摆在一起进行比较，看看谁的东西更多。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "材料"
 
