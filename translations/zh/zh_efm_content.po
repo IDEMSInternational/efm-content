@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-20 05:17\n"
+"PO-Revision-Date: 2024-07-20 12:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -283,4 +283,29 @@ msgstr ""
 "**形状:** 指出水果或食品盒子上图片的形状。谈一谈一些东西是如何装在盒子里，而另一些东西是如何装在圆瓶里的。\n"
 "\n"
 "您可能需要拿高架子上或低架子的东西。有非常多东西都可以被描述和比较!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES INSIDE SHAPES"
+msgstr "内部形状"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help your child explore the physical relationships between shapes by providing an environment rich in opportunities to experiment."
+msgstr "通过提供一个充满动手实践机会的环境，帮助您的孩子探索不同几何形状之间的物理关系。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Start with any box – perhaps a cereal box or cardboard shipping box. Cut holes with different shapes (square, circle, triangle, long rectangle) in the box. Watch your child experiment with fitting toys and other objects through the holes."
+msgstr "**如何制作:** 用任意盒子开始 – 也许一个麦片盒或纸板箱。在盒子上切出不同形状的孔 (正方形、圆形、三角形、长方形)。观察您的孩子试验将玩具和其他物品塞入孔中的情况。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add different colors to outline the holes (e.g. red triangle, blue circle, yellow square). Reinforce the names by saying the name of the shape of the hole when your child puts the toy through it."
+msgstr "在孔的周围添加不同的颜色作为轮廓（如红色三角形、蓝色圆形、黄色正方形）。当你的孩子将玩具塞入孔中时，通过说出孔的形状名称来加深记忆。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE HUNT"
+msgstr "形状搜寻"
 
