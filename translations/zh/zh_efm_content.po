@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-21 22:14\n"
+"PO-Revision-Date: 2024-07-21 23:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1456,6 +1456,70 @@ msgstr ""
 "从抽牌堆中抽取一张牌并宣布其数字。每个玩家可以翻开他们的网格中与所抽取数字相匹配的一张牌。如果玩家有多张匹配的卡片，玩家必须选择翻开哪一张。\n"
 "\n"
 "**赢家:** 第一个将四张卡片水平、垂直或对角线翻转的玩家赢得游戏，并喊出“宾果！”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEALING BONES"
+msgstr "偷牌游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Place all dominoes (bones) face up between the players. For a turn, a player rolls two dice. If the domino that matches these dice is available, the player claims it and moves it to their pile."
+msgstr "**玩法:** 将所有多米诺骨牌正面朝上放在玩家之间。每轮，玩家掷两个骰子。如果有与骰子点数匹配的多米诺骨牌，玩家就可以将其收入自己的堆中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** For two players, the first player with ten dominoes wins. For more than two players, the first player with six dominoes wins.\n"
+"\n"
+"**Variation:** Claimed dominoes can still be stolen by other players."
+msgstr ""
+"**赢家:** 两名玩家时，第一个拥有十张多米诺骨牌的玩家获胜。超过两名玩家时，第一个拥有六张多米诺骨牌的玩家获胜。\n"
+"\n"
+"**其他玩法:** 已被领走的多米诺骨牌仍然可以被其他玩家偷走。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOMINOES"
+msgstr "多米诺骨牌"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Domino Games"
+msgstr "多米诺游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many variations to this ancient game – discuss the rules before you start!\n"
+"\n"
+"**The setup.** Mix up all tiles (bones) face down – this is called the boneyard. Take seven tiles each for two players, and five tiles each for three or four players. The player with the highest double starts by putting it on the table. If no one has a double, start the game over."
+msgstr ""
+"这个古老游戏有许多变种，开始前讨论规则！\n"
+"\n"
+"**规则:** 将所有多米诺骨牌背面朝下混洗，并堆成一摞，称为“骨牌堆”。两名玩家每人抽取七张骨牌，三或四名玩家每人抽取五张骨牌。拥有最高双数的玩家先开始，将其放在桌上。如果没有人拥有双数，重新开始游戏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play.** A turn consists of placing a tile that matches one of the available ends of the string of dominoes (place double dominoes crosswise to the previous domino). If the player has no matching tile, the player is “blocked,” and there are two possible rules to use: 1) the player’s turn is over, or 2) the player keeps drawing tiles until there is a match (one version restricts this to a single draw whether or not there is a match). If the boneyard is emptied before there is a move, play passes to the next player on the right.\n"
+"\n"
+"**How to win:** The game ends when a player runs out of bones, or when all players are blocked. The winner is the player with the lowest total of dots on their tiles (which is 0 if they have used up all their tiles)."
+msgstr ""
+"**玩法:** 一轮的游戏包括将一张与多米诺骨牌串链的可用端之一匹配的骨牌放置上去（将双数多米诺骨牌交叉放置在前一个骨牌上）。 如果玩家没有与当前可用端匹配的骨牌，则玩家被“封锁”，有两种可能的规则可供选择：1）玩家的回合结束，或2）玩家继续抽取骨牌直到找到匹配的骨牌（某个版本可能限制只能抽一张，无论是否有匹配）。如果在没有可行动的情况下骨牌堆已经被抽空，游戏流转到右侧的下一个玩家。\n"
+"\n"
+"**赢家:** 游戏结束的条件是当一名玩家用尽所有骨牌，或者所有玩家都被封锁时。赢家是拥有最少总点数的玩家（如果他们已经用完所有骨牌，则总点数为0）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Scoring options:** The winner’s score can be calculated in two ways. The traditional way is to use the sum of the dots on all the other players’ tiles. Rounds are played until a player reaches 50 or 100. For little ones, a better scoring system is to let the winner have the score which is the count of all the other players’ tiles.\n"
+"\n"
+"**Matching options:** When your child starts adding, change the rule for matching – two tiles match if their numbers add up to six (or nine if using a larger range of dominoes)."
+msgstr ""
+"**计分规则:** 胜利者的得分可以通过两种方式计算。传统的方法是使用所有其他玩家骨牌上的点数总和。直到某位玩家达到50或100分为止进行回合。对于年幼的玩家，更好的计分系统是让胜利者的得分等于所有其他玩家骨牌的数量。\n"
+"\n"
+"**其他玩法:** 当您的孩子开始学习加法时，可以改变匹配规则：两张骨牌的数字之和为六（或者如果使用更大范围的多米诺骨牌，则为九）时，它们匹配。"
 
 #. type=data_list
 msgctxt "data_list"
