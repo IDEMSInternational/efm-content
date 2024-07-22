@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 08:16\n"
+"PO-Revision-Date: 2024-07-22 09:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2147,6 +2147,58 @@ msgstr ""
 msgctxt "data_list"
 msgid "NUMBER SUDOKU"
 msgstr "数字数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These are similar to the Shape Sudokus, only now they use numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper."
+msgstr ""
+"**游戏设置:** 这些与形状数独相似，只是现在使用数字（或点的数量）。为了避免擦拭，使用编号（或带点的）纸片来解决这些难题。\n"
+"\n"
+"对于一个4x4的谜题，每行和每列都包含数字1到4各一次。此外，每个标记的子区域都包含数字1到4各一次。就是这样！通过从完成的谜题开始，然后移除一些纸片来为您的孩子创建这些谜题。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Variations:** For variety, use irregularly-sized subregions – these are called Jigsaw Sudoku puzzles. You can also create puzzles of larger size (two 5 by 5 puzzles are shown)."
+msgstr "**其他玩法:** 为了增加变化，使用不规则大小的子区域 - 这些被称为拼图数独谜题。您还可以创建更大尺寸的谜题（显示了两个5x5的谜题）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU – COMPARING"
+msgstr "数独 – 比较"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship.\n"
+"\n"
+"**Hungry alligator:** Tell a child who has never seen a comparison symbol, >, that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number.\n"
+"\n"
+"**Solving strategy:** First look for where the smallest and largest numbers are."
+msgstr ""
+"这些谜题以与常规数独相同的规则开始 - 每个数字在每行、每列和每个子区域中都只出现一次。此外，如果在两个单元格之间有一个小于或大于符号，则单元格中的数字必须遵守该关系。\n"
+"\n"
+"**饥饿的鳄鱼:** 对于一个从未见过比较符号 \">\" 的孩子，可以告诉他，较大的数字位于符号的较宽部分的那一侧。有些人说这个符号像一只饥饿的鳄鱼，它总是希望它的嘴指向较大的数字那一侧。\n"
+"\n"
+"**解题技巧:** 首先寻找最小和最大的数字所在的位置。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n"
+"\n"
+"**Puzzle creation:** Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to get them started."
+msgstr ""
+"随着孩子的进步，通过省略更多的不等式符号来增加谜题的难度。\n"
+"\n"
+"**拼图创建:** 使用已完成的数独谜题创建这些谜题。在相同几何结构的空白网格上放置大于和小于符号。如果您的孩子遇到困难，可以放入一些数字来帮助他们开始。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being Logical"
+msgstr "锻炼逻辑思维"
 
 #. type=data_list
 msgctxt "data_list"
