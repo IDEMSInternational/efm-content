@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 01:43\n"
+"PO-Revision-Date: 2024-07-22 02:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1642,6 +1642,34 @@ msgstr ""
 "**玩法:** 有两个人：谜题制作者想一个数字，而提问者则要猜出这个数字。谜题制作者宣布：“我在想一个从0到8的数字”（例如）。然后提问者以“你的数字和3相比如何？”这样的形式提问。谜题制作者回答数字比那个数字小、等于或大。\n"
 "\n"
 "**如何用卡片:** 对于年幼的孩子，可以使用从0到8的计数卡片，将它们正面朝上排列。在其中一张卡片下面隐藏一个星星。在每次猜测后，提问者翻开所有被排除的卡片，直到找到星星为止。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** The game pictured above uses cards with a target of 5.\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. \n"
+"Question: How does your number compare to 3? \n"
+"Puzzler: My number is larger than 3.\n"
+"Question: How does your number compare to 6? \n"
+"Puzzler: My number is smaller than 6.\n"
+"Question: How does your number compare to 5? \n"
+"Puzzler: Well done! My number is equal to 5."
+msgstr ""
+"**举例:** 这是一个目标为5的游戏：\n"
+"\n"
+"谜题制作者：我在想一个从0到8的数字。\n"
+"提问者：你的数字和3相比如何？\n"
+"谜题制作者：我的数字比3大。\n"
+"提问者：你的数字和6相比如何？\n"
+"谜题制作者：我的数字比6小。\n"
+"提问者：你的数字和5相比如何？\n"
+"谜题制作者：很好！我的数字等于5。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "熟悉区间"
 
 #. type=data_list
 msgctxt "data_list"
