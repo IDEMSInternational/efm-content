@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 02:44\n"
+"PO-Revision-Date: 2024-07-22 03:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1670,6 +1670,225 @@ msgstr ""
 msgctxt "data_list"
 msgid "FITTING IN"
 msgstr "熟悉区间"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "给你的孩子一些小物品，比如七个，并一起数一数。然后选定一个目标数字，比如说五。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "请你的孩子从最初的七个物品中拿出五个，如果可能的话。这有助于孩子学习数字的相对大小以及它们之间的差异。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "起初，目标数字应该小于或等于总数。后来，给出太大的数字提供了关于数量相对大小的练习，同时也提供了检查请求是否合理的练习。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "隐形加法和减法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**第一步:** 让你的孩子数一数一些小物品，并把它们放进一个盒子里。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**第二步:** 请他们伸出与盒子中物品数量相同的手指。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**第三步:** 向你的孩子展示，你正在向盒子里添加（或移除）一两个物品，然后问：“现在盒子里有多少个物品了？”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "当这变得太容易时，您可以添加或移除两个以上的物体。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "数字线战舰"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**游戏设置:** 每位玩家都有两条数线——一条用于他们的战舰，一条用于他们的猜测。这些数线从0到12（如果孩子们可以数更高，也可以更高）。在他们的战舰数线上看不见的地方，每位玩家在两个数字上放置标记，这些数字将成为他们的战舰。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**玩法:** 设置完成后，玩家轮流猜数字。当玩家猜测时，另一位玩家会说出猜测离最近目标的距离有多近——然后猜测者在他们的第二条数线上记录下这些信息。\n"
+"\n"
+"**赢家:** 首位成功找到所有目标的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* 使用更广泛的数字范围。\n"
+"* 对于一个猜测的反馈可以是一系列距离而不是精确的数量，例如：“最近的船只相距1或2。” \n"
+"* 包含长度为两个或三个空间的船只。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "缺少什么？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "更大和更小的数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "数一小堆小物体。在孩子闭上眼睛的时候隐藏一些。当孩子再次睁开眼睛时，问他们隐藏了多少。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**举例:** 假设你在桌子上有6颗葡萄干。让你的孩子把目光移开，用一个碗盖住其中的2颗。当孩子再次看回来时，数出可见的4颗葡 萄干，并让孩子说出碗下还剩多少颗葡萄干。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "思路"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "一种让孩子理解这个概念的方法是从4开始“往上数”到6——孩子数到4、5、6时，从0个手指开始，每数一个数字就举起一个手指，最后举起2个手指。同样，孩子也可以通过从6开始“往下数”到4来进行练习。看到4加2等于6，并且从6减去2得到4，这是理解加减法关系的好方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "特征匹配游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr ""
+"形状卡片具有三个属性：\n"
+"形状（圆形、三角形、正方形）；\n"
+"数量（一个、两个、三个）；\n"
+"颜色（红色、蓝色、黑色）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**其他玩法:** 给每个玩家发五张卡片。将剩余的卡片面朝下放在一堆抽牌中。将抽牌堆顶部的牌翻面朝上，开始一个新的堆叠。轮流将一张卡片放在堆叠上 - 新卡片必须与顶部卡片的两个特征相匹配。如果你不能在你的回合出牌，就从抽牌堆中抽一张牌，并结束你的回合。\n"
+"\n"
+"**赢家:** 第一个打完手中的牌的人获胜。如果抽牌堆用完了，则手中牌最少的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* 简化游戏规则，只需要与顶部卡片匹配一个属性。 \n"
+"* 允许玩家在一个回合中放置多张卡片，只要每张卡片都符合前一张卡片的规则。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "特征匹配拼图"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "以一张形状卡片作为起始卡片。在我们的例子中，这是一张有两个蓝色圆圈的卡片。创建一个由4到8张卡片组成的序列，每张卡片必须与前一张共享两个特征。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"将未使用的卡片放在一旁，将起始卡片单独放置，并洗混拼图卡片。\n"
+"\n"
+"**挑战:** 拿起洗过的卡片，并在起始卡片上按顺序进行一系列合理的移动。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "三连格"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"**游戏设置:** 制作一个足够大的井字棋网格，每个格子都能容纳一张形状卡片。在棋盘周围放置8张具有每个属性两个的形状卡片。例如，选择8张卡片，它们要么是三角形或正方形，有一个或两个图形，并且是红色或蓝色。\n"
+"\n"
+"**玩法:** 玩家轮流选择一张未使用的卡片给对手，对手将其放置在棋盘上。棋盘上的卡片可以被任一玩家使用，以获得三连格。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**赢家:** 玩家获胜的条件是：当一名玩家放置一张卡片，使得其中三张卡片在一行上至少有一个属性相同！如果所有的卡片都被玩完而没有产生赢家，则为平局。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "简化游戏，并添加一些运气因素，方法是将卡片面朝下放在一堆抽牌中，然后每个玩家轮流翻开顶部的卡片并进行操作。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "形状数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "形状游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**游戏设置:** 使用四种不同类型的符号，每种符号各四个。例如，可以使用不同颜色的软糖熊。我们使用了橙色三角形、蓝色正方形、红色圆圈和紫色菱形。\n"
+"\n"
+"**游戏规则:** 从答案开始创建这样的谜题——这将是一种符号的排列模式，每行和每列中都有一种符号，每个2x2的方框中也有一种符号。一旦你有了“答案”，就把一些符号拿掉，放在一边。\n"
+"\n"
+"**挑战:** 把这个谜题交给你的孩子，让他们想办法把被拿走的符号放回去。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "创建形状数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "以下是一些创建谜题的简单策略：从每行中移除一个符号；移除一种类型的所有符号以及其他类型的各一个；或者移除一整行和一整列。"
 
 #. type=data_list
 msgctxt "data_list"
