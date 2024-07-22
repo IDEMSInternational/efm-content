@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 04:43\n"
+"PO-Revision-Date: 2024-07-22 08:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2084,6 +2084,69 @@ msgstr "给数字取个有趣的名字"
 msgctxt "data_list"
 msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
 msgstr "通过在活动中使用荒谬的名称来介绍变量名称的概念，例如，在填空中用荒谬的名称替代缺失的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – 1 MORE/LESS"
+msgstr "离开我的房子"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this."
+msgstr "**游戏设置:** 使用一副数字从1到10的扑克牌。在一张共享的纸上，画出从0到11编号的方框或简单的房屋图案。为了练习排序，不要按顺序放置这些方框或房屋。每位玩家有7个与其他玩家的标记不同的标记 - 使用不同的颜色是一种方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to place all their tokens wins."
+msgstr ""
+"**玩法:** 在轮到玩家行动时，玩家抽取一张卡片，并将自己的标记放在任何一个房屋里，只要该房屋的编号比抽取的卡片数字大一或小一，前提是该房屋中没有3个或更多对手的标记。如果房屋里有一个或两个对手的标记，那么这些标记将被归还给对手，并且玩家会说“离开我的房子”。\n"
+"\n"
+"**赢家:** 第一个成功放置所有自己的标记的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n"
+"• Use a smaller or larger range of Number Cards and boxes.\n"
+"• Allow moves to houses that are 2 numbers more or less."
+msgstr ""
+"* 对于还没有准备好处理数字的孩子，可以使用数字卡片和带有点数量的方框。\n"
+"* 可以使用更小或更大范围的数字卡片和方框。\n"
+"* 允许移动到数字大或小2的房子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE IN-BETWEEN GAME"
+msgstr "中间游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "顺序"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens."
+msgstr "**游戏设置:** 使用从0到10的一副卡牌。可以使用数字卡片或以皇后为0，A为1的扑克牌。每位玩家还可以获得20个标记。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n"
+"\n"
+"**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins."
+msgstr ""
+"**玩法:** 轮到玩家行动时，发两张牌面朝上的卡牌，并在它们之间放一张牌面朝下的第三张牌。玩家可以下注0到3个标记，猜测第三张牌的数值是否在前两张牌之间。如果猜对了，玩家从另一个玩家那里获得相应数量的标记。如果猜错了，相应数量的标记转移给另一个玩家。\n"
+"\n"
+"**赢家:** 游戏可以进行五轮，或者直到一位玩家的标记用完为止。最后拥有最多标记的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SUDOKU"
+msgstr "数字数独"
 
 #. type=data_list
 msgctxt "data_list"
