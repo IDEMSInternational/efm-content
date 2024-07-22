@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 16:57\n"
+"PO-Revision-Date: 2024-07-22 17:57\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2483,6 +2483,80 @@ msgstr ""
 "* 加倍，乘以2和除以2（对半分） – 孩子们通常喜欢加同数的游戏。这就引入了加倍和乘以2的概念。同样，还有对半分，即把某样东西平均分成两部分，也就是除以2。\n"
 "* 偶数和奇数 – 偶数可以平分为两等份。奇数在平分为两等份时会多出一个。偶数是同数相加的结果。\n"
 "* 以2为单位跳数 – 以2为单位往前或往后跳数，如0, 2, 4, 6或13, 11, 9, 7。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUMS"
+msgstr "图形加法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**挑战:** 正确填写每个圆圈里的数字，让每个圆圈的数字等于它下面所有圆圈里数字的总和。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"简单的智力游戏里，大多数圆圈已经预先填好了数字。对于年龄较大的孩子们，我们设计了包含更大数值和更巧妙解法的挑战。\n"
+"\n"
+"**重复出现的数字:** 我们可以选择用非圆形的图案来表示重复的数字。圆圈内的数值可能会在其他的圆圈或不同形状中重复出现，但非圆形图案内的数值必须和所有相同形状的其他位置的数值相匹配。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"例如，一个智力游戏里所有的正方形都代表同一个数值。我们可以通过这种方式来练习加法（加同数、加邻近数）和除以二（对半分）。在给出的第一个例子中，解题者需要找出一个是8的一半的数。\n"
+"\n"
+"**如何制作:** 你可以从一个完全填满数字的图表开始，然后去掉一些数字来制作这样的智力游戏。如果智力游戏中某个数字出现了多次，就用一个方块、三角形或其他形状来代替圆圈表示这个数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MYSTERY CHANGE"
+msgstr "神秘变化"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fact Families"
+msgstr "数字家庭"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**玩法:** 让您的孩子数一些数量不多的物品。当他们不注意的时候，您改变这些物品的数量。当他们再看回来时，问问他们有什么变化。孩子可以通过情景再现来验证他们的猜想。\n"
+"\n"
+"**其他玩法** 当基础的游戏对孩子来说变得轻松时，您可以鼓励他们在回答上更具创意。例如，如果4个东西变成了6个，他们的答案可以是“你先把这4个东西翻倍，然后又拿走了2个。”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTRODUCING 10’S"
+msgstr "探索10的世界"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. Before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The games on the next pages are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next Stage."
+msgstr ""
+"欢迎孩子们步入一个新的数学领域——数到比10个手指还多的数字！在这个领域里，有许多新奇有趣的知识等待孩子们去探索。从10到20的数，每一个都比孩子们已经熟悉的数字多了10。\n"
+"\n"
+"下一页的游戏将突出10在数学上的连接作用，比如将6和16联系起来。这些游戏也试图让孩子们理解，16不仅仅是一个数字，它还可以看作是10加上6。在孩子们进一步挑战数到100之前，理解通过位值来分解来数字的方法是非常重要的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting 10"
+msgstr "加10和减10"
 
 #. type=data_list
 msgctxt "data_list"
