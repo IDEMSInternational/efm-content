@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 12:59\n"
+"PO-Revision-Date: 2024-07-22 14:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2202,8 +2202,237 @@ msgstr "我在撒谎吗"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Someone makes a statement and the other players attempt to show that the statement maker is lying. The goal is to come up with a counterexample that shows that the statement is not always true.\n"
+"\n"
+"**Always true:** One type of statement is saying something is always true. Examples are:\n"
+"\n"
+"• All trucks have four wheels\n"
+"• All rectangles are squares\n"
+"• All birds can fly\n"
+"\n"
+"**If -> then:** Another type of statement is of the form “if then”. Examples are:\n"
+"\n"
+"• If today is Monday, then it is a school day\n"
+"• If I don’t eat for three hours, then I am hungry\n"
+"• If a person is taller than someone, then they are older"
+msgstr ""
+"有人提出一个陈述，其他玩家试图证明陈述者在撒谎。目标是提出一个反例，证明该陈述并不总是正确的。\n"
+"\n"
+"**总是真的:** 一种类型的陈述是说某件事情总是真实的。例子包括：\n"
+"\n"
+"* 所有卡车都有四个车轮。\n"
+"* 所有长方形都是正方形。\n"
+"* 所有鸟都能飞。\n"
+"\n"
+"**如果 -> 那么:** 另一种类型的陈述是“如果...那么...”。例如：\n"
+"\n"
+"* 如果今天是星期一，那么就是上学日\n"
+"* 如果我三个小时不吃东西，那么我会饿\n"
+"* 如果一个人比另一个人高，那么他们就更年长"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CODEBREAKER"
+msgstr "密码破译者"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Being Logical"
 msgstr "锻炼逻辑思维"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
+msgstr "**游戏设置:** 代码大师创建一个密码，另一个玩家是密码破译者。假设密码有三个位置，每个位置可以是1到5之间的数字。这样一个密码的例子就是321。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code."
+msgstr "**破译代码:** 密码破译者猜测一个密码，代码大师告诉猜测有多接近。例如，如果密码破译者猜测为131，那么代码大师会说有一个位置完全正确，另一个位置上的数字正确但位置不对。游戏继续进行，直到密码破译者破译出密码为止。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "**赢家:** 猜测的次数是密码破译者的得分。得分最低者获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Add challenge by having a maximum number of questions that are allowed.\n"
+"• Allow or disallow repeated numbers in the code.\n"
+"• Use shorter or longer lengths for the code.\n"
+"• Use a narrower or wider range of numbers for each place of the code."
+msgstr ""
+"* 通过设定最大允许的问题数量增加挑战。\n"
+"* 允许或禁止密码中使用重复数字。\n"
+"* 使用较短或较长的代码长度。\n"
+"* 在密码的每个位置使用较窄或较宽的数字范围。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "10以内的手指加法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "我们将使用 4 + 2 来演示两种方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**模式 1:** 这种方法适用于两个数字都在5或以下的情况。在一只手上伸出4根手指，在另一只手上伸出2根手指。将两只手靠在一起 - 啦！您的孩子看到4和2合在一起变成了6。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**模式 2:** 使用“从其中一个数字开始计数”来达到任何小于等于10的和。\n"
+"\n"
+"**举例:** 要将4和2相加，可以在一只手上伸出4根手指，然后大声数0到2。对于每个从0开始后面的数字，再多伸出一个手指。当数到2时，应该有6根手指竖起来。\n"
+"\n"
+"这种方法允许加法的数字大于5。您的孩子会意识到，从较大的手指数开始，并用较小的数字进行计数会更容易。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "10以内的手指减法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "手指数学"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "减法有两种心理模型——“取走”或“差值”。您的孩子应该对这两种模型都很熟悉。下面是计算8 - 5的两种方法："
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "**取走(左边):** 将8减去5可以理解为从8开始，然后取走5个，剩下多少。首先，伸出8根手指。接下来，大声数0到5，对于每个从0开始的数字，将一根手指放下。当数到5时，还会有三根手指竖起来。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"**差值 (右边):** 这种模型将8 - 5视为找到两个数字之间的差异或距离。首先，伸出5根手指。然后数新伸出的手指，当有8根手指竖起来时，差值3就已经被计算出来了。\n"
+"\n"
+"这种方法使用了“从某个数字开始计数”的加法方法来找出加到5得到8的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "在练习过程中，混合一些从自身减去的数字以及减去0的情况，以帮助孩子全面理解减法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n"
+"\n"
+"**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n"
+"\n"
+"**Example:** The Puzzler thinks of 11. The discussion could go like this:\n"
+"\n"
+"• Puzzler: Stripes is a number between 0 and 15.\n"
+"• Questioner: How does Stripes compare to 8?\n"
+"• Puzzler: Stripes is bigger than 8.\n"
+"• Questioner: How does Stripes compare to 12? \n"
+"• Puzzler: Stripes is less than 12.\n"
+"• Questioner: How does Stripes compare to 10? \n"
+"• Puzzler: Stripes is bigger than 10.\n"
+"• Questioner: Is your number 11?\n"
+"• Puzzler: Yes, congratulations!"
+msgstr ""
+"**游戏设置:** 游戏有两人参与——出谜人，他想一个数字；问询者，他要猜出这个数字。\n"
+"\n"
+"**玩法:** 首先，出谜人说：“小宝是一个0到12之间的数字。”然后，问询者问类似“小宝与4相比如何？”的问题。出谜人会回答小宝比4小、等于4或比4大。\n"
+"\n"
+"**示例:** 出迷人想到11。对话可能如下：\n"
+"\n"
+"* 出谜人：小花是一个0到15之间的数字。\n"
+"* 问询者：小花与8相比如何？\n"
+"* 出谜人：小花比8大。\n"
+"* 问询者：小花与12相比如何？\n"
+"* 出谜人：小花比12小。\n"
+"* 问询者：小花与10相比如何？\n"
+"* 出谜人：小花比10大。\n"
+"* 问询者：你的数字是11吗？\n"
+"* 出谜人：是的，恭喜你！\n"
+"\t\t\t"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n"
+"\n"
+"As your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”"
+msgstr ""
+"通过计算提问次数，使其成为一个游戏。在轮流提问后，提问次数较少的玩家获胜。\n"
+"\n"
+"随着孩子数学能力的发展，可以使用其他类型的问题，如“小宝是偶数吗？”或“小宝是质数吗？”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ESTIMATION GAME"
+msgstr "估算游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n"
+"\n"
+"Force yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest."
+msgstr ""
+"通过看谁能对一组人的规模做出最好的估计来培养对数量的感觉，比如排队的人数。\n"
+"\n"
+"强迫自己在不进行任何计数的情况下迅速估算。在每个人给出估算后，进行计数，奖励最接近的人。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15 SLIDING PUZZLE"
+msgstr "数字华容道"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "数字排序"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid."
+msgstr "**游戏设置:** 从一个由5条水平线和5条垂直线组成的4x4空网格开始。准备15张和网格方块大小相同的纸片，并将它们编号从1到15。游戏开始时，随机将这些纸片放置在网格上。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"**挑战:** 谜题的目标是通过移动纸片使它们按顺序排列，只有右下角的方块保持空白。要实现这一目标，如果某张纸片与空方块相邻，可以将其滑动到空方块的位置。根据摆放纸片的方式，谜题可能是可解的，也可能不可解。\n"
+"\n"
+"**如何创建游戏:** 创建这些谜题有两种方法。第一种是随机摆放纸片，这样有50\\%的几率谜题是可解的。另一种方法是从最终位置开始摆放纸片，然后进行一系列合法的移动来打乱它们。这样一来，你就可以确保谜题是可解的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Different sizes"
+msgstr "不同的大小"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr "如果4x4的网格对初学者来说太难，可以从更小的网格开始。网格可以小到2x2，或根据孩子的需要变大。编号的纸片总数将始终比网格大小少一。例如，在2x3的网格上，使用1到5的卡片。"
 
 #. type=data_list
 msgctxt "data_list"
