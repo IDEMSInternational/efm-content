@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 18:58\n"
+"PO-Revision-Date: 2024-07-22 20:08\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2772,8 +2772,39 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SKIP COUNTING BY 2’s"
+msgstr "以2为单位跳数"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Evens and Odds"
 msgstr "偶数和奇数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to being good addtion practice, skip counting is a faster way to count a collection of things, such as toes, than counting them one at a time. Skip counting is also very helpful when learning multiplication later on.\n"
+"\n"
+"**Alternate counting turns:** Count by 2’s while pushing your child on the swings (or anything else that involves counting). Start by alternating with your child – you say 1, your child says 2, you say 3, your child says 4, and so on. After establishing the pattern, one of you can say their part without the other person saying anything.\n"
+"\n"
+"While traveling, find something fun to skip count like yellow cars."
+msgstr ""
+"跳数除了是一个很好的加法练习，也是比一个一个数更快的计算物品（比如脚趾）的方式。跳数对于以后学习乘法也非常有帮助。\n"
+"\n"
+"**轮流数数:** 在和孩子一起的轮流数数游戏中，尝试以2为单位进行计数。开始时，你和孩子交替说数字——您说1，孩子说2，您说3，孩子说4，以此类推。一旦掌握了这种模式，你们中的一人就可以在没有对方提示的情况下继续说下去。\n"
+"\n"
+"在旅途中，你们可以找些有趣的东西来跳数，比如黄色的车。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Skip count up or down by 2’s ending by 20.\n"
+"\n"
+"Initially, do this starting at 0 or 20, but eventually, start at any number."
+msgstr ""
+"以2为单位向前或 \\textbf{向后} 跳数，数到20为止。\n"
+"\n"
+"最初，可以从0或20开始跳数，但最终目标是从任意数字开始。"
 
 #. type=data_list
 msgctxt "data_list"
