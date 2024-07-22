@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 17:57\n"
+"PO-Revision-Date: 2024-07-22 18:58\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2555,8 +2555,225 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MAKING NUMBER CARDS 1 TO 20"
+msgstr "动手制作0到20数字卡片"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
+msgstr "如果您还没有这些卡片，请制作几套不同类型的0-20的数字卡片。一套是普通的数字卡片，一套是0-20的扩展形式卡片（如0 + (0到9)，10 + (0到9)，和20 + 0），还有一套使用十格图来表示数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO WITH 10"
+msgstr "10的宾果游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Place a random collection of 16 Number Cards from 0 to 20 with expanded form on a 4 by 4 bingo board for each child.\n"
+"\n"
+"**How to play:** Generate random numbers to be called out one at a time. Mix up a collection of counting cards from 0 to 20. Select one card at a time from this pile until the first child gets four in a row and yells Bingo!"
+msgstr ""
+"**游戏设置:** 为每个孩子准备一个4x4的宾果游戏板，上面随机放置16张从0到20的扩展形式数字卡片。\n"
+"\n"
+"**游戏玩法:** 出题人想一些随机数字，每一轮游戏喊出一个数字。将一套0-20的标准数字卡片混合打乱，面朝下放置成一堆。孩子轮流从这堆卡片中抽取一张，随后叫出与之相对应的数字。其他孩子们在自己的宾果游戏板上查找是否有被叫出的数字。直到有孩子连成一行四张并大声喊出“宾果”为止。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One important variation of this game is to do a “Tens-Reversed” version using cards with numerals. When a card is chosen, if it is 1 to 10, then 10 is added to find the matching value, and if it is 11 to 20, then 10 is subtracted for the matching value."
+msgstr "这个游戏的一个有趣的扩展玩法是采用“十反转”规则。当选中一张卡片时，如果数字在1至10之间，则在此数字基础上加10以找到对应值；如果数字在11至20之间，则减去10找到对应值。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE – 10’S"
+msgstr "关于10的记忆力挑战"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Adding and Subtracting 10"
 msgstr "加10和减10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This version of the Memory Challenge game uses a Number Card deck from 0 to 20 with the rule that two numbers match if they are 10 apart. If you also have cards from 0 to 20 that use expanded form or ten frames, you should use those too. Deal a 3 by 4 grid of cards out on the table, all face-down.\n"
+"\n"
+"**How to play:** Players take turns flipping two cards face-up. If the two cards are ten apart, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards do not match, the player flips the cards back over and ends their turn.\n"
+"\n"
+"**How to win:** The game ends when the last pair of cards is taken. The player with the most cards wins."
+msgstr ""
+"**游戏设置:** 这个记忆挑战游戏使用从0-20的标准数字卡片，规则是2个数字如果相差10则匹配。如果你有展开形式或十格图形式的0-20的数字卡片，也可以将它们加入游戏。在桌面上朝下摆放一组3行4列的卡片。\n"
+"\n"
+"**游戏玩法:** 玩家轮流翻两张卡片。如果这两张卡片上的数字相差10，玩家可以保留这些卡片，从抽牌堆中补充相应的卡片，并继续他们的回合。如果卡片不匹配，玩家将卡片翻回去并结束他们的回合。\n"
+"\n"
+"**如何获胜:** 游戏在最后一对卡片被拿走时结束。拥有最多卡片的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GEOMETRIC ART"
+msgstr "几何艺术"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Similarity and symmetry are two geometric concepts your child can play with."
+msgstr "您可以鼓励您的孩子积极探索相似性和对称性这两个几何概念。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Similar shapes:** Two shapes are similar if they have the same shape, where one may be smaller or larger than the other. Circles have the same shape, so all circles are similar. This sequence of three stars are similar.\n"
+"\n"
+"Challenge your child to pick a picture and draw it two or three times as big, or twice as small."
+msgstr ""
+"**相似图形:** 如果两个图形的形状相同，但是大小不同，则它们是相似的。右侧这三个星形构成了一个相似的图形组。\n"
+"\n"
+"**挑战:** 请您的孩子挑选一张图片，并画出它的两倍大或两倍小的样子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Mirror symmetry:** Another geometric concept to play with is mirror symmetry. Show this using a mirror with a flat side – put it down along its edge on a drawing or photo and see what the mirror image looks like. Once your child has the idea, give your child half a picture and challenge them to draw the mirror image."
+msgstr "**镜像对称:** 另一个几何概念是镜像对称。您可以用一面镜子来演示这个概念，将其沿边放在图片或照片上，观察镜子中的反射图像。当孩子们明白了这个概念之后，可以给他们一张图画的一半，并鼓励他们完成其镜像图的绘制。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIM TRIANGLE"
+msgstr "规避三角战"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes"
+msgstr "图形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The two players have different colored markers. Place six (use more for a harder game) dots evenly around a circle. Players take turns drawing lines between the dots using their color. The loser is the first player forced to create a triangle all of whose sides have the player’s color and whose corners are on the circle."
+msgstr "**游戏玩法:** 两个玩家使用不同颜色的记号笔。在一个圆周上均匀地放置六个点（更多点数可以增加难度）。玩家轮流用自己的颜色在点之间画线。谁先被迫画出一个完整的三角形，并且这个三角形的所有边都是该玩家的颜色，三角形的角都在圆圈上，谁就输了。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example game:** Here is a game with 'red' moving first. This is a sequence of board positions after each of red's moves. In the last position, no matter where 'green' moves next they will form a triangle and lose."
+msgstr "**游戏示例:** 这里有一个“红色”先移动的游戏。这是每次红色移动后的棋盘位置。在最后的位置，无论“绿色”下一步走到哪里，“红色”都会形成一个三角形并输掉游戏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES"
+msgstr "数字图形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Shapes"
+msgstr "数字图形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using something small, such as pieces of food, challenge your child to make shapes with a given number of pieces. These shapes can be rectangles, triangles, squares, or anything fun.\n"
+"\n"
+"**Making rectangles:** Your child may notice that for some numbers, such as 12, there are different shapes of rectangles that can be made, and that for other numbers, such as 7, only flat rectangles can be made. Numbers such as 5 and 7 are called prime numbers because there is no way to break them into normal rectangles.\n"
+"\n"
+"**Even and Odd:** Investigate even and odd numbers using number shapes. For a given number, ask your child to put the pieces into two equal rows. You would do this if you were splitting food fairly between two people. For which numbers does it work out evenly?"
+msgstr ""
+"使用一些小东西，比如食物，让孩子挑战用一定数量的小东西创造出各种图形。这些图形可以是长方形、三角形、正方形，或者任何有趣的形状。\n"
+"\n"
+"**制作长方形:** 孩子可能会发现，对于某些数字，如12，可以创造多种形状的长方形，而对于其他数字，如7，只有一种形状可以做到。像5和7这样不能被分解成常规的长方形排列，因此被称为质数。\n"
+"\n"
+"**偶数和奇数:** 通过使用数字形状来探究偶数和奇数。对于一个特定的数字，让孩子将小东西排列成两行，以此模拟平均分配食物给两个人的情形。对于哪些数字，可以做到平均分配？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding Evens and Odds:** Representing even and odd numbers this way makes it easy to see why: Even + Even = Even, Odd + Odd = Even, and Even + Odd = Odd."
+msgstr "**加法中的奇数和偶数:** 通过这种视觉展示，孩子们可以直观地理解为什么偶数+偶数=偶数，奇数+奇数=偶数，偶数+奇数=奇数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding up odd numbers:** Once your child knows what an odd number is, investigate adding up the first few odd numbers as shown in this diagram. Amazingly, the sum of the first odd numbers is always a square number."
+msgstr "**奇数相加:** 当孩子理解了奇数是什么后，可以探究一下如图所示的前五个奇数相加。惊人的是，前五个奇数相加的结果总是一个平方数（能够组合成一个完整的正方形）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 2"
+msgstr "乘以2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Very gradually, introduce multiplication to your child by a small change in language – start referring to doubling a number as taking “two of it” or as “multiplying it by 2.”"
+msgstr "循序渐进地向孩子介绍乘法。可以通过语言的小变化来实现——开始用“两个它”或“乘以2”来引导孩子理解翻倍这个概念。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM – DOUBLING THE LIMIT"
+msgstr "尼姆游戏——极限翻倍"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Set a starting total, say 20. Let your child choose whether to go first or second.\n"
+"\n"
+"**How to play:** During the first turn, a player chooses to subtract 1 or 2 from the current total. After the first turn, a player may subtract any number from 1 up to twice the number used on the last turn.\n"
+"\n"
+"**How to win:** The first person to reach 0 wins (an alternative rule is they lose)."
+msgstr ""
+"**游戏设置:** 开始时确定一个目标数字，比如20，让您的孩子决定选择先手还是后手。\n"
+"\n"
+"**游戏玩法:** 在第一回合，玩家选择从当前总数中减去1或2。第一回合后，玩家可以减去任意数量，范围是从1到上一回合所用数量的两倍。\n"
+"\n"
+"**如何获胜:** 第一个把数字减到0的玩家获胜（或者可以规定他们输）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can also be played, with essentially the same rules, by starting at 0 and adding your way up to the target. Once children learn to play this without writing anything down, it is a fun travel game."
+msgstr "这个游戏也可以从0开始，按照基本相同的规则，通过加法累计到目标数字来进行。 一旦孩子们学会了不需要动笔就能玩这个游戏，它就变成了一个有趣的旅行游戏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HALVES AND HALF NOTS"
+msgstr "分半与不分半"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Two players agree on a target number, say 20, set their running total to 0, and choose who will go first.\n"
+"\n"
+"**How to play:** A turn starts by generating a number using one die or the sum of two dice. If the number is odd, the player must double it. If the number is even, the player may take half of it as many times as is desired as long as the numbers being halved are even. The player then adds that final result to the running total as long as that does not put the total over the target - if the final result cannot be used, the turn is skipped.\n"
+"\n"
+"**How to win:** The player who brings the total exactly to the target number wins."
+msgstr ""
+"**游戏设置:** 两位玩家确定一个目标数字，比如说20，然后他们的目标是把自己的总数减到0。他们需要决定谁先开始。\n"
+"\n"
+"**游戏玩法:** 轮到玩家时，他们可以通过掷一个骰子或两个骰子的和来生成一个数字。如果数字是奇数，玩家必须将其翻倍。如果数字是偶数，只要被减半的数字是偶数，玩家就可以一直减半。然后玩家将这个最终结果加到累计总数里，只要这样不会使总数超过目标值——如果最终结果无法使用，那么这一轮就跳过。\n"
+"\n"
+"**如何获胜:** 将总数恰好减到目标数字的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
+msgstr "你可以允许玩家不改变初始数字。你也可以允许最多减半一次。最后，你可以通过从目标数字开始练习减法，一直减到0。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING EVENS AND ODDS"
+msgstr "数一数偶数和奇数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a small collection of playing cards involving some small quantities. Start with combinations of three cards and work your way up to more cards.\n"
+"\n"
+"Suppose the numbers are 1, 2, and 3. The question is: If you randomly pick two cards and add them, are you more likely to get an even or odd number? Count how many ways there are of getting an odd number versus an even number. For example, in the case of using 1, 2, and 3, there is one way to get an even number (1 + 3) and two ways to get an odd number (1 + 2, 2 + 3). So the odd number sums are more likely (twice as likely).\n"
+"\n"
+"**Make it a contest:** Let one player be Even and the other player be Odd. See who has the most successes after a dozen trial runs."
+msgstr ""
+"**游戏设置:** 使用一小部分牌，每张牌上是一些较小的数字。从三张牌的组合开始，逐步增加更多的牌。\n"
+"\n"
+"假设你三张牌上的数字分别是1、2、3，如果你随机抽两张牌，你认为得到偶数的可能性更大还是奇数的可能性更大？数一数有多少种方式可以得到一个偶数或奇数。例如，在数字是1、2和3的情况下，有一种方式可以得到偶数（1+3）和两种方式得到奇数（1+2、2+3）。所以，得到奇数的可能性更大（两倍之多）。\n"
+"\n"
+"**比赛:** 让一位玩家代表偶数，另一位代表奇数。看看谁在十几次尝试后取得了最多的成功。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Evens and Odds"
+msgstr "偶数和奇数"
 
 #. type=data_list
 msgctxt "data_list"
