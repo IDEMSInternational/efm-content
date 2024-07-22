@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 03:44\n"
+"PO-Revision-Date: 2024-07-22 04:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1889,6 +1889,201 @@ msgstr "创建形状数独"
 msgctxt "data_list"
 msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
 msgstr "以下是一些创建谜题的简单策略：从每行中移除一个符号；移除一种类型的所有符号以及其他类型的各一个；或者移除一整行和一整列。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "魔法手 - 加法和减法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "这是一个练习加法和减法的魔术技巧。请慢慢进行，让您的孩子有机会看清楚正在发生的事情。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**对于加法:** 选择两个相加不超过5的数字。例如，左手举起的手指数为3，右手为1。将双手放在一起，突然间，右手的手指转移到了左手上，现在左手上有4根手指举起。魔术发生了！\n"
+"\n"
+"总结说：“3个手指再加上1个手指就是4个手指。哒哒！”\n"
+"\n"
+"**对于减法:** 在您的左手上举起一些手指，比如说4根。然后让右手伸过去抓住其中一根手指，比如说1根。快看，左手上剩下3根手指，右手上举起1根手指。总结一下，说4减去1等于3，或者说您已经把4分成了两部分，分别是3和1。这种措辞强调了数字配对的概念，即两个数字的组合加起来等于给定的总数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "重要的特殊情况"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* 加法：让一个或两只手都举起0根手指，并展示当加0时没有任何变化。\n"
+"* 减法：减去所有的手指，使其不留下任何多余的手指，并有时不减去任何手指以表明没有任何变化。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "闪烁的数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "开始手指算术"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"帮助您的孩子轻松快速地识别物体的数量。有两种练习方法。\n"
+"\n"
+"**使用十框图:** 使用带有十个小方格的数字卡片。随机选一张卡片，玩得尽情地看看您的孩子是否能认出数量。为了增添活动的多样性，可以与孩子交换角色，让孩子向您提问。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**使用手指:** 在一只手或两只手上展示一些手指，并让您的孩子识别总数。当使用两只手表示超过五的数字时，其中一只手应该举起5根手指 - 这样看起来就像一个十框图。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "剪出对称形状"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions."
+msgstr "“剪纸艺术”是一种通过将一张纸折叠然后在折叠时剪切纸张来创造设计的艺术。可能会有多个折叠，并且折叠可以发生在不同的方向上。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other."
+msgstr "将纸张折叠一次然后剪裁会创建出一种设计，其中一侧是另一侧的镜像或反射。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ideas to explore"
+msgstr "探索"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Experiment with cutting out faces, lamps, or geometric shapes.\n"
+"• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n"
+"• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape."
+msgstr ""
+"* 尝试剪出面孔、灯或几何形状的设计。\n"
+"* 使用两个交叉折叠来创建在两个方向上都有镜像图案的设计。这使得创建花朵等设计变得更容易。\n"
+"* 尝试各种折叠和剪裁。通过与上一个示例相同的两个折叠开始，创建雪花设计。然后使用另外两个折叠将折叠的纸张分割成三等分。\n"
+"* 制作一个游戏，通过反向操作来进行 – 在一张纸上画出一个对称形状，然后挑战彼此折叠和剪裁纸张以创建该形状。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "寻找正方形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "图表"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
+"\n"
+"**How to play:** Players take turns putting their tokens on points where the lines cross in the grid."
+msgstr ""
+"**游戏设置:** 使用五条水平和垂直线，创建一个空的5 x5的网格。\n"
+"\n"
+"**玩法:** 玩家轮流将他们的标记放在网格中线相交的点上。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The first player with four tokens on the corners of a square of any size wins."
+msgstr "**赢家:** 第一个在任意大小的正方形的四个角上放置四个标记的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow squares with diagonal sides (pictured above).\n"
+"• Use grids larger than 5 by 5."
+msgstr ""
+"* 允许具有对角边的正方形。\n"
+"* 使用大于 5 行 5 列的网格。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAG STORIES – ADD AND SUBTRACT"
+msgstr "袋子故事 - 加法和减法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”"
+msgstr "**袋子设定:** 你和你的孩子假装各自拥有一个装有一些东西的袋子。一个人编造一个故事，比如：“你的袋子里有3颗葡萄干，我的多了一颗。我有多少颗？”当你的孩子逐渐熟悉之后，让孩子有时提出问题 - 这通常对他们来说非常有趣，尤其是如果你偶尔“犯错”的话。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n"
+"\n"
+"**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”"
+msgstr ""
+"**增加复杂性:** 这些故事可以随着经验变得更加复杂。例如，故事可以是：“我比你少两块饼干，我们一共有六块饼干。你有多少块饼干？”另一个例子是：“你有我两倍的糖果，我们一共有九颗。你有多少颗糖果？”\n"
+"\n"
+"**其他玩法:** 使用袋子和食物的概念可以被鱼缸和两种（或更多）种类的鱼的想法所取代，或者使用其他吸引孩子的任何形象。对于一个鱼缸，你可以编造这样一个故事：“鱼缸里有七条鱼，金鱼的数量比长鼻脂鲤多一条。有多少只金鱼？”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH STORIES"
+msgstr "数学故事"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "数字的故事"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories are a fun way to add interest to calculations. Here are two examples of such stories:"
+msgstr "故事是增添计算趣味的有趣方式。以下是两个这样的例子："
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n"
+"\n"
+"**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?"
+msgstr ""
+"**椅子:** 房间里有四把椅子。一开始有两个人，但后来又来了三个人。每个人都能坐下吗？这比机械地问2 + 3是否大于4更为有趣。\n"
+"\n"
+"**冰淇淋:** 我和我的两个朋友正在吃冰淇淋。我会给每个朋友比我多一个球的冰淇淋。如果有十个球的冰淇淋，我可以有多少个球的冰淇淋？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions."
+msgstr "选择一些你孩子感兴趣的话题，比如食物或动物。随着孩子的进步，让一些故事有些模糊，这样孩子就需要更多地分析，并学会提出澄清问题。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variable names"
+msgstr "给数字取个有趣的名字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
+msgstr "通过在活动中使用荒谬的名称来介绍变量名称的概念，例如，在填空中用荒谬的名称替代缺失的数字。"
 
 #. type=data_list
 msgctxt "data_list"
