@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 20:08\n"
+"PO-Revision-Date: 2024-07-22 23:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2805,6 +2805,56 @@ msgstr ""
 "以2为单位向前或 \\textbf{向后} 跳数，数到20为止。\n"
 "\n"
 "最初，可以从0或20开始跳数，但最终目标是从任意数字开始。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM GROUPS"
+msgstr "数字组合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use a rectangular grid of numbers with a target sum of your choosing between 5 and 12."
+msgstr "在一个矩形的数字网格中选择一个目标和，数字范围在5到12之间。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find groups of two or three numbers that add up to the target and share sides. When complete, the entire puzzle will be made up of identified groups. Use tokens, such as different types of food items, to identify each group within the puzzle.\n"
+"\n"
+"**Puzzle creation:** Create these puzzles by starting with an empty grid and working your way around the grid using pairs and triples that add up to the target sum. It’s more fun if the puzzle has just one solution, but it's okay if it doesn't."
+msgstr ""
+"**挑战:** 找到两个或三个数字的组合，这些数字的和等于目标数，并且这些数字在网格中是相邻的。解谜时，整个网格将被填满你找到的数字组。为了标识出找到的数字组合，可以使用代币，比如不同类型的食物。\n"
+"\n"
+"**创建智力游戏:** 从一个空白的网格开始，然后向网格中添加数字直到达到目标和来创建这些智力游戏。如果智力游戏只有一个答案那是最好的，但如果不是也没关系。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH WITH SUMS"
+msgstr "加法版钓鱼游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Using a target sum that your child is comfortable with, remove cards at or above that target from the Number Card deck. If there are more than two players and you have restricted the numbers significantly, you may need to use several decks.\n"
+"\n"
+"**How to play:** Play starts by dealing 5 cards to each player. Put the remaining cards in a common draw pile. Players take turns “fishing” for cards whose number will sum to the target sum with cards they already have.\n"
+"\n"
+"For example, a player might ask a player, “Do you have any 4’s?” If that player has some 4’s, they are handed over and the original player gets another turn. However, if that player does not have any 4’s, then the player says “Go Fish!” and a card is drawn from the draw pile. If the drawn card matches with a card they have, the player may have another turn; otherwise, the turn is over and play continues to the left. When a player has a pair of cards that sum to the total, the player puts that pair on the table in front of them.\n"
+"\n"
+"**How to win:** The game is over when all cards are in pairs. The player with the most pairs wins."
+msgstr ""
+"**游戏设置:** 使用孩子能接受的目标总和，移除超过该范围的卡牌。如果有两个以上的玩家，并且您的卡牌上的数字有很多限制，那么您可能需要使用多副牌。\n"
+"\n"
+"**游戏玩法:** 游戏开始时，给每位玩家发5张卡片。将剩余的卡片放在公共抽牌堆中。玩家轮流“钓鱼”，寻找数字相加可以得到目标和数的卡片。\n"
+"\n"
+"例如，玩家可能会问另一个玩家：“你有4吗？”如果那个玩家有4的牌，就必须把它们交出来，而提问的玩家就可以再次进行游戏。但如果那个玩家没有4的牌，就要说“去钓鱼！”然后从抽牌堆中抽一张牌。如果抽到的牌与玩家手中的某张牌相加等于目标和数，那么玩家可以继续游戏；否则，轮次结束，左边的玩家继续游戏。当玩家手中的两张牌加起来等于总和时，玩家就将这对牌放到自己面前的桌面上。\n"
+"\n"
+"**如何获胜:** 当所有卡牌都成对出现时，游戏结束。拥有最多对子的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create some variety, allow players to use more than two cards to create a group of cards that sum to the target sum. Another possibility is to say that two cards match when their difference is a specified target difference."
+msgstr "为了增加一些变化，允许玩家使用两张以上的卡片来组成一组数字相加等于目标和数的卡片组。另外，也可以设定两张卡片匹配是因为它们的差值是一个特定的目标差值。"
 
 #. type=data_list
 msgctxt "data_list"
