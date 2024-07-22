@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 09:15\n"
+"PO-Revision-Date: 2024-07-22 12:59\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2194,6 +2194,11 @@ msgstr ""
 "随着孩子的进步，通过省略更多的不等式符号来增加谜题的难度。\n"
 "\n"
 "**拼图创建:** 使用已完成的数独谜题创建这些谜题。在相同几何结构的空白网格上放置大于和小于符号。如果您的孩子遇到困难，可以放入一些数字来帮助他们开始。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE ME A LIAR"
+msgstr "我在撒谎吗"
 
 #. type=data_list
 msgctxt "data_list"
