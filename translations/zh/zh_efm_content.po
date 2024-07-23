@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-23 01:05\n"
+"PO-Revision-Date: 2024-07-23 02:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2927,8 +2927,39 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "CREATING ORDER"
+msgstr "数字排列乐"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Order in the House"
 msgstr "数字组合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a deck of Number Cards that goes from 0 to 40 (higher with more players). Deal ten cards to each player (as few as four for younger players). The dealt cards are placed in front of each player in the order dealt. The remaining cards are placed face down in a draw pile. Place the top card face up as the first card in a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile."
+msgstr ""
+"**游戏设置:** 用0到40的数字卡片组成一副牌，数量可以根据玩家年龄和数量增减。发牌给每个玩家，确保卡片面朝下，且每位玩家面前的卡片是顺序排列。剩余的卡片面朝下放一堆，作为抽牌堆。将第一张卡片正面为上放在一边，作为弃牌堆的首张卡片。\n"
+"\n"
+"**游戏玩法:** 轮到玩家时，玩家可以选择抽一张弃牌堆顶部的卡片或者从抽牌堆顶部抽一张。被替换的卡片正面朝上放在弃牌堆顶部。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The goal of the game is to get the cards in inreasing order from left to right."
+msgstr "**如何获胜:** 游戏的目标是将卡片按照从小到大的顺序从左到右排序。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring variations"
+msgstr "其他玩法-计分"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr "你可以使用计分系统，每轮游戏结束后计分。在这个系统中，获胜者得到15分。其他玩家每有一张卡片按顺序排好，就得到1分，从他们的最小卡片开始算起。"
 
 #. type=data_list
 msgctxt "data_list"
