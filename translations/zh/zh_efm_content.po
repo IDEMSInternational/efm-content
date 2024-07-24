@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-23 02:05\n"
+"PO-Revision-Date: 2024-07-24 03:39\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2960,6 +2960,85 @@ msgstr "其他玩法-计分"
 msgctxt "data_list"
 msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
 msgstr "你可以使用计分系统，每轮游戏结束后计分。在这个系统中，获胜者得到15分。其他玩家每有一张卡片按顺序排好，就得到1分，从他们的最小卡片开始算起。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards from 1 to 10. Choose a target sum, say 10.\n"
+"\n"
+"**How to play:** Each round starts by dealing five cards face down on the table. One player randomly chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given, face up, to the other player to choose two cards to get close to the target.\n"
+"\n"
+"**Scoring:** The player whose result is closest to the target from either side wins a point. Have a number line handy to use for discussions about which result is closer to the target sum."
+msgstr ""
+"**游戏设置:** 使用一副从1到10的卡片。选择一个目标数，比如10。\n"
+"\n"
+"**游戏玩法:** 每轮开始，桌面上放五张面朝下的卡片。一位玩家随机选择三张翻开。选择两张卡片相加来尽可能接近目标数。未使用的三张卡片给到另一位玩家，由他选择两张卡片相加来接近目标数。\n"
+"\n"
+"**计分:** 最接近目标数的玩家（无论是大一点还是小一点）得一分。可以用备用的数字线来讨论哪个结果更接近目标和数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you use subtraction instead of addition, use a lower target number, say 4."
+msgstr "如果你使用减法而不是加法，使用一个较低的目标数，比如4。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ZOO RESCUE"
+msgstr "动物园援救"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Small Adding and Subtracting"
+msgstr "小数字加减"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+"\n"
+"**How to play:** During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box.\n"
+"\n"
+"**How to win:** The first player to rescue all their tokens wins.\n"
+"\n"
+"**Strategy:** An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others – you can discuss ideas about why this is."
+msgstr ""
+"**游戏设置:** 使用两个骰子或两组1-6的数字牌。每个玩家有6个代币——如果你有动物代币，这个游戏会更有趣。每个玩家还需要一张纸，上面有从0到5编号的格子。每个玩家决定将6个代币放在哪些格子中——可以在一个格子里放多个代币。\n"
+"\n"
+"**游戏玩法:** 在玩家的回合中，通过掷骰子或者抽取两张卡来产生两个数字，并使用这两个数字的差值。如果玩家在那个格子中有代币，就可以拿出来一个。\n"
+"\n"
+"**如何获胜:** 第一个救出所有“动物”的玩家获胜。\n"
+"\n"
+"**策略:** 这个游戏的重要部分是选择开始时放置代币的格子。通过实践，您的孩子会意识到有些格子比其他格子更容易出现——你们可以讨论为什么会有这种情况。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9."
+msgstr "使用从1到10的牌，并有10个编号从0到9的格子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOT POTATO WITH SUMS"
+msgstr "烫手山芋-求和"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a regular deck of playing cards, have a target number of 5, and remove all cards above the target, except for one card – the 'hot potato,' which can be anything else, such as a Joker or face card. Deal the entire remaining deck to all players – it’s okay if some players get one more card than others.\n"
+"\n"
+"**How to play:** All players start by placing on the table from their hands 5’s and any pairs that add up to 5. On your turn, you can pick a random card from any other player’s hand (a simpler rule is that it is always the player on your right). If this new card gives you a pair of cards that add up to the target sum, place the pair on the table; otherwise, keep the card in your hand. Play then moves to the next player on your right.\n"
+"\n"
+"**How to win:** When play ends, the player holding the hot potato loses. Alternatively, you can play that the first player to run out of cards wins."
+msgstr ""
+"**游戏设置:** 使用一副标准的扑克牌，设定目标数字为5，并移除所有大于该目标数字的牌，除了一张特殊牌——“烫手山芋”，这张可以是任何其他的牌，比如王牌或者人面牌。将剩余的牌整副发给所有玩家——如果有些玩家比其他玩家多拿一张牌也没有关系。\n"
+"\n"
+"**游戏玩法:** 所有玩家从手中的5和任何可以组成5的牌对开始。在你的回合，你可以从其他玩家手中随机抽取一张牌（更简单的规则是总是从你右手边的玩家那里抽牌）。如果这张新牌和你手中的某张牌可以组成目标和数5，就把这对牌放在桌面上；否则，保留这张牌在你手中。玩到没有牌为止。\n"
+"\n"
+"**如何获胜:** 当游戏结束时，手里还握有“烫手山芋”的玩家输了。或者，你也可以规定第一个用光所有牌的玩家赢。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds"
+msgstr "数字组合"
 
 #. type=data_list
 msgctxt "data_list"
