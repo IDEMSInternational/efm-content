@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-24 04:39\n"
+"PO-Revision-Date: 2024-07-24 14:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3155,6 +3155,85 @@ msgstr ""
 msgctxt "data_list"
 msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
 msgstr "使用不同的数字组合来替代常规的1到4，为一个4x4的数独。例如，使用数字1、3、5和7。如果你这样做了，记得在智力游戏上方列出使用的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "关掉盒子"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**游戏设置:** 每个玩家在一张纸上写下从1到9的数字。\n"
+"\n"
+"**游戏玩法:** 开始回合时，玩家掷两颗骰子，并计算出它们的总和。玩家在尚未被划掉的数字中，选择划掉一组或多组数字，使它们的和等于这个总和。如果不能做到，则什么都不变。玩家可以事先决定只使用一颗骰子。\n"
+"\n"
+"**如何获胜:** 第一个划掉所有数字的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "扩展这个游戏的一种方法是使用更大的数字范围，比如到10或者更多。另一种方法是给每位玩家一次机会——游戏继续进行直到玩家第一次被卡住为止。在最后，玩家的得分是他们未被划掉的数字的总和。得分最低的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "命中目标"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "求和组合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**游戏设置:** 从一副扑克牌中移除所有的花牌和任何大于孩子们所能接受的数字。洗牌，翻出五张要使用的牌和第六张作为目标牌。剩下的牌留作抽牌堆，以便在抽出的牌上填上数字。\n"
+"\n"
+"**游戏玩法:** 轮到玩家时，如果玩家能使用五张牌中的两张牌的和或差来等于第六张牌，则玩家得到这三张牌，并从抽牌堆中补充新的牌。如果玩家失败，则翻开一张新的第六张牌，并轮到下一个玩家。\n"
+"\n"
+"**如何获胜:** 游戏结束时拥有最多牌的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "有几种不同的扩展玩法你可以使用。你可以允许玩家使用三张牌而不是两张，甚至允许任何数量的牌来组合成第六张牌。另一个玩法是允许混合使用加法和减法来与任意数量的牌组合。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "让我数数有几种方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"数一数做某件事情的方法有多少种，其中涉及的选择可能会引发一些有趣的调查。以下是一些可能的方法——和孩子一起想出更多的方法吧。\n"
+"\n"
+"**调查 1:** 只用红色和蓝色画画，你能用几种方法画出一个有帽子、眼睛和披风的怪物？如果只给帽子和披风上色，会有什么变化？如果使用三种颜色，或者每种颜色只能使用一次，会有什么变化？\n"
+"\n"
+"**调查2:** 你有一排 5 颗相同的糖果。你能用几种方法给它们涂色，使其中有 2 个红色的和 3 个蓝色的？\n"
+"\n"
+"**调查3:** 找出用一小组数字求和的所有方法。可以考虑顺序，也可以不考虑顺序。例如，如果使用 1 和 2，在不考虑顺序的情况下，有 1+1+1+1 = 2+1+1 = 2+2 三种求得 4 的方法；在考虑顺序的情况下，有 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 五种求得 4 的方法。"
 
 #. type=data_list
 msgctxt "data_list"
