@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-24 03:39\n"
+"PO-Revision-Date: 2024-07-24 04:39\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3037,8 +3037,124 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"As your child’s adding skills improve, use larger target numbers up to 10. \n"
+"\n"
+"Varying the target number will provide practice with the various number bonds."
+msgstr ""
+"随着孩子加法技能的提高，可以使用更大的目标数字，比如10。\n"
+"\n"
+"改变目标数字可以练习不同的数字组合。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMMON SUMS"
+msgstr "常见的和"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Number Bonds"
 msgstr "数字组合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Collect the data:** Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in order in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token(s) will win and why?\n"
+"* Which tokens do well and which ones do poorly?\n"
+"* Which token is the worst?\n"
+"* How will the winners change if the row lengths are made shorter or longer?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"**收集数据:** 在一张纸上画12行，每行画8个方格。在最左边一列的方格中按顺序写上 1 到 12 的数字。在 12 个数字上各放 1 个代币。开始掷一对骰子，每次掷完后，将骰子总和上的代币向右移动一格。每个代币的目标是最先向右移动完整张纸。\n"
+"\n"
+"让您的孩子自己提出一些可以进行探索的问题，以下是一些可能的问题：\n"
+"\n"
+"* 哪个代币会赢？为什么？\n"
+"* 哪些代币做得好，做些代币做得不好？\n"
+"* 哪个代币做得最差？\n"
+"* 如果将行数缩短或延长，胜利者会有什么变化？\n"
+"\n"
+"让孩子用做实验来找到这些问题的答案，然后通过实验来验证他们的想法。\n"
+"\n"
+"在回合开始前通过猜测哪个代币将获胜来增加竞争元素。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "数独扩展玩法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"本页的所有智力游戏都遵守基础数独规则：方格中填入数字，以使每行每列的数字均只出现一次。\n"
+"\n"
+"制作这些智力游戏时，可以从一个完全填满的智力游戏开始，去掉一些或所有数字，然后创建分区并为该类型智力游戏添加适当的额外信息。\n"
+"\n"
+"为了节省空间，这里的例子都是4x4的方格。你可以自己制作更大的智力游戏，或者在网上找到更大版本的智力游戏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "奇偶数独和Kropki数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "这些智力游戏有一些额外的限制，数字必须在每个2x2的分区中精确出现一次。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**奇偶数独:** 偶数方格被标为灰色。\n"
+"\n"
+"**Kropki数独:** 单元格之间的空心点表示数字相差一；实心点表示一个数字是另一个的一半。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "和数独, 差数独, 和差数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "除了常规的数独规则外，这些智力游戏被分成了带有目标数字的分区。不同于标准数独，分区内允许数字重复。如果分区里只有一个方格，那么目标数字就是那个方格的值。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**和数独:** 分区内数字之和是目标数字。\n"
+"\n"
+"**差数独:** 分区内有一个或两个方格。对于两个方格，数字之差是目标数字。\n"
+"\n"
+"**和差数独:** 分区通过一个“+”或“-”标记来指示和数或差数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "使用不同的数字组合来替代常规的1到4，为一个4x4的数独。例如，使用数字1、3、5和7。如果你这样做了，记得在智力游戏上方列出使用的数字。"
 
 #. type=data_list
 msgctxt "data_list"
