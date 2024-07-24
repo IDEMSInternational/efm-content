@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-24 14:35\n"
+"PO-Revision-Date: 2024-07-24 15:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3214,7 +3214,7 @@ msgstr "有几种不同的扩展玩法你可以使用。你可以允许玩家使
 #. type=data_list
 msgctxt "data_list"
 msgid "HOW MANY WAYS?"
-msgstr "让我数数有几种方法"
+msgstr "有几种方法？"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3234,6 +3234,215 @@ msgstr ""
 "**调查2:** 你有一排 5 颗相同的糖果。你能用几种方法给它们涂色，使其中有 2 个红色的和 3 个蓝色的？\n"
 "\n"
 "**调查3:** 找出用一小组数字求和的所有方法。可以考虑顺序，也可以不考虑顺序。例如，如果使用 1 和 2，在不考虑顺序的情况下，有 1+1+1+1 = 2+1+1 = 2+2 三种求得 4 的方法；在考虑顺序的情况下，有 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 五种求得 4 的方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "我怎么做到？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "让我数数有几种方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"一个人给另一个人一个目标数字，让他们想出不同的加法或减法来得到这个数字。如果目标数是 3，那么一开始可能是 1 + 2，但随后会变成 1 + 5 - 3，以此类推。\n"
+"\n"
+"添加限制条件，增加挑战性。例如，可以不允许任何小于 4 的数字，或者只允许小于 4 的数字。\n"
+"\n"
+"您可以提出以下问题，将其变成一个调查： 如果我只能用 1 和 2 相加，有多少种得到 5 的方法？\n"
+"\n"
+"随着孩子学习更多的数学知识，还可以增加其他技能，如加倍和减半。例如，5 是 2的2 倍增加 1 或 2 个 10 减去 3 个 5。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "数字重组"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**游戏设置:** 掷两次骰子来创建一个两位数——第一次掷骰决定十位数，第二次决定个位数。掷五次骰子来创造出要使用的数字。\n"
+"\n"
+"**挑战:** 使用加法、减法和组成两位数的方式尽可能接近目标数字——得分取决于接近目标数字的程度。\n"
+"\n"
+"**如何获胜:** 您可以在每轮比赛中决出优胜者，也可以将几轮比赛的分数相加，以最低分数决出总冠军。当然，您也可以为了挑战而不记分。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**示例1:** 假设掷出的数字是4、4、3、1和22。第一个玩家得分为4+4+3+1+3=15；另一个玩家得分为14+4+3+3=24，另一玩家得分为34-14+3=23。\n"
+"\n"
+"**示例2:** 假设掷出的数字是1、2、5、6、4和63。一位玩家接近得分为65-4+2+1=64。另一位玩家准确得分为56+4+2+1=63。第三位玩家得分为52+6+4+1=63也成立。讨论为什么有些问题会有很多解法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "任意方式"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "拼凑碎片"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"玩家们商定一个目标数字。一个有用的目标数字是10，但其他数字也可以。\n"
+"\n"
+"每位玩家从一副没有人面牌的扑克牌中抽出五张牌。然后，玩家要想尽办法，用尽可能多的方法来达到目标，或尽可能接近目标。可以使用加法和减法的任意组合。\n"
+"\n"
+"在小组活动中，给整个小组五张牌，让他们合作想出实现总数的方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "金字塔纸牌"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**游戏设置:** 移出高于目标数字的牌，比如 10。制作一个有 6 排 21 张牌的金字塔。将牌面朝上放在金字塔中，下面一行与上面一行各重叠一半。剩下的牌组成抽牌堆。\n"
+"\n"
+"**游戏玩法:** 收集并移出能够相加等于目标数字的明牌组。这个组可以包括抽牌堆或弃牌堆的顶部牌。如果没有匹配的组合，将抽牌堆的顶部牌移到弃牌堆。\n"
+"\n"
+"**挑战:** 清空金字塔中的所有牌。抽牌堆清空后，游戏结束。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**较低的目标:** 如果目标数字小于 10，则将金字塔的大小减少一到两行，以便有足够大的抽牌堆。例如，如果目标数字是 8，可以在 5 行中使用 15 张牌。\n"
+"\n"
+"**使用减法:** 用减法代替加法。如果使用 10 以内的扑克牌，目标数字最好是 5 ——移除差值为5的一对牌。当你有一个5时，你可以将其移除，或者与一个10配对。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "差值金字塔"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "单人智力游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**挑战:** 挑战是将 1 到 6 的数字摆成一个金字塔，最上面一排放一张牌，第二排放两张牌，第三排放三张牌，每个数字都是其正下方两个数字的差。\n"
+"\n"
+"让孩子慢慢玩。很有可能，只要玩一玩，他们就会找到解决办法。不过，如果您的孩子感到焦虑，这里有两个小窍门可以帮助他们。6 必须在最下面一行，因为它不可能是任何一对数字的差。同样，5 必须在最下面一行，或者在中间一行，在 6 和 1 的上方。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "相关挑战"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "如果您的孩子觉得这很容易做到，那就让他们挑战一下，看看有多少种方法可以做到。讨论两种不同的解法意味着什么——如果一种解法是另一种解法的镜像，是否应视为不同？另一个挑战是解决更难的智力游戏，即把 1 到 10 的数字放在一个四排金字塔中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "策略游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "玩策略游戏可以帮助孩子培养很多推理、规划和解决问题的技能。这种游戏有很多——比如井字棋、九人摩里斯、狐狸与鹅、达拉（Dara）、四子连线、曼卡拉（Mancala,）、跳棋、围棋、国际象棋——远远超出了这里可以涵盖的范围。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "塔帕坦（Tapatan）"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "**游戏设置:** 类似的游戏有很多--如罗塔（Rota）、九个孔（9 Holes）和三人摩里斯（3 Men’s Morris）。在这个游戏中，9 个点由 3 条水平线和 3 条垂直线连接成一个网格。每个玩家都有三个相同的代币。游戏的目标是将三个代币排成一条线。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**游戏玩法:** 游戏分为两个阶段。在第一个 ”放置 ”阶段，玩家轮流将自己的棋子一个一个地放置在空位上。放置完棋子后，第二个 ”移动 ”阶段开始。在这一阶段，玩家轮流将自己的棋子移动到相邻的空点上。另一种规则是，棋子可以移动到任何空位上，而不仅仅是相邻点。\n"
+"\n"
+"**如何获胜:** 当一方获胜或相同位置出现三次时，游戏结束，在这种情况下，游戏为平局。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "点与方块"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "策略游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**游戏设置:** 这个游戏从一个长方形的网格点开始，比如 3×4 的网格点。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**游戏玩法:** 在一个回合中，玩家画一条水平线或垂直线，连接两个未连接的相邻点。如果新线完成了一个 1x1 的方格，玩家就能获得一分，并画出另一条线。\n"
+"\n"
+"**如何获胜:** 当无法再画线时，积分最高的玩家获胜。一个简单的记分方法是在每个赢得的方格内填入玩家名字首字母。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "虽然这种游戏传统上是画方格，但也可以画三角形或六边形，只是比较难画。"
 
 #. type=data_list
 msgctxt "data_list"
