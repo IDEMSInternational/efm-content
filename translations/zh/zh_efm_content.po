@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-24 15:41\n"
+"PO-Revision-Date: 2024-07-25 18:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -312,6 +312,26 @@ msgstr "你曾经对别人说过谎吗？如果有，这是否让你感到遗憾
 msgctxt "data_list"
 msgid "Count the number of difficult moments in Akadeli's day. All turned out well in the end. Life can be full of surprises!"
 msgstr "数一数阿卡黛丽一天中经历了多少困难时刻。最后一切都好起来了。生活可以充满惊喜！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Akai was a little girl, her mother used to put her to sleep on a beautiful mat. Akai's aunt made this special mat from palm leaves."
+msgstr "当阿凯还是个小女孩时，她妈妈经常把她放在一块漂亮的草席上睡觉。阿凯的阿姨用棕榈叶做的这块特殊的草席。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the beautiful colors and patterns everywhere in this room!"
+msgstr "注意这个房间里到处都是美丽的颜色和图案！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name and describe as many shapes as you can in this picture."
+msgstr "尽可能多地说出和描述这张图片中的形状。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a favorite blanket or item you like to sleep with?"
+msgstr "当你睡觉的时候有喜欢的毯子或其他物品吗？"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3453,6 +3473,17 @@ msgstr "阿卡黛丽的幸运日"
 msgctxt "data_list"
 msgid "This story has  counting to 12, colors, and shapes. Practice words: one, two, to twelve, estimate, take away, color names, shortest, tallest, similar, and different."
 msgstr "这个故事包括了1到12的数字，颜色和形状。练习的单词：一、二、到十二；估计；减去；颜色的名字；最短的；最高的；相似的；不同的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Emeka lived in a fine house in Ebiba town. His parents were rich.\n"
+"\n"
+"Emeka had a dog called Chita. He looked after Chita very well."
+msgstr ""
+"埃梅卡住在埃比巴的一所漂亮房子里。他的父母十分富有。\n"
+"\n"
+"埃梅卡有一条狗叫契塔，他将契塔照顾的很好。"
 
 #. type=template
 msgctxt "template"
