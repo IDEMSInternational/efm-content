@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-27 21:36\n"
+"PO-Revision-Date: 2024-07-27 22:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4836,18 +4836,18 @@ msgid ""
 "\n"
 "Extend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
 msgstr ""
-"**回顧所學內容**\n"
+"**序言**\n"
 "\n"
-"您的孩子現在可以數到100了！他們可以輕鬆地進行一位數字加減法的心算，還可以從任意數字開始計數或跳數，該技能提高與延伸使他們能夠進行一位數與兩位數的加減。他們可以比較兩個兩位數的大小，也初步認識了十位和個位數的位值。\n"
+"您的孩子现在可以数到 100 了！他们可以轻松地进行一位数字加减法的心算，还可以从任意数字开始计数或跳数，这有利于他们今后做一位数与两位数的加减。他们可以比较两个两位数的大小，也初步认识了十位和个位数的位值。\n"
 "\n"
-"隨著孩子跳數能力的提高，他們也在開始發展 2、3、4、5 和 10 乘數的技能。奇數和偶數的概念現在對他們來說更加清晰、有意義了。\n"
+"随着孩子跳数能力的提高，他们 2、3、4、5 和 10 乘数的技能也在逐渐提高。奇数和偶数的概念现在对他们来说更加清晰了。\n"
 "\n"
-"可以將之前章節的活動延伸到這些更大的數字上：第三章：形狀求和，數字再往上增加；第四章：戰爭-兩位數的加減法、差異三角與總和三角、更改錯誤、從數字1和10開始的跳島、填空比較、求和正方形以及加法金字塔。"
+"可以将之前章节的活动延伸到这些更大的数字上：第三章：形状求和，数字再往上增加；第四章：战争-两位数的加减法，差异三角与总和三角，更改错误，从数字 1 和 10 开始的跳岛，填空比较，求和正方形，以及加法金字塔。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "New ideas for this stage"
-msgstr "本章的新概念"
+msgstr "本阶段新知识"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4863,21 +4863,26 @@ msgid ""
 "* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
 "* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
 msgstr ""
-"* 數到200 – 看看 100 到 200 的數字，來認識一下百位。\n"
-"* 跳數到 100 – 這並不是新知識，但這是一個需要加強的重要技能。\n"
-"* 展開式和位值 – 這是一項基礎技能，因此需要進一步加強。\n"
-"* 兩位數加減法 – 跳數可以幫我們輕鬆進行兩位數的加減。\n"
-"* 一位數乘法 – 是時候學習 6、7、8 和 9 乘法了。\n"
-"* 矩形面積＝長×寬 – 這個本身就是一個重要的數學概念。這個知識點還能為很多有趣的遊戲和涉及乘法與因式分解的謎題提供訣竅。\n"
-"* 因式分解 – 你的孩子將學習數字如何分解成因數的奇妙之處。1 是一個單位。大於 1 且僅能被 1 和自身整除的自然數是質數；大於 1 且不是質數的數是合數。3 的平方是 3 x 3。3 的立方是 3 x 3 x 3。3 的冪是指將 3 乘以自身很多次——例如，3 的四次方是 3 x 3 x 3 x 3。\n"
-"* 因數、約數和倍數 – 3 可以整除 12。這使得 3 成為 12 的因數或約數，而 12 是 3 的倍數。3 是 12 和 15 的公因數，而 12 是 4 和 6 的公倍數。\n"
-"* 一位數除法 – 你的孩子將透過在乘法問題中找出缺失的因數來間接學習除法。\n"
-"* 乘法和除法的運算族 – 我們將在該階段加強這兩種運算之間的聯繫。例如，2 x 5 = 10、5 x 2 = 10、10 ÷ 2 = 5 和 10 ÷ 5 = 2 構成了一個乘除法運算族（一組相關的數學算式，使用相同的數字，但運算不同）。"
+"* 数到 200 – 通过观察 100 到 200 的数字来介绍 100 的位值。\n"
+"* 跳数到 100 – 这不是一个新知识，但它是一个重要的技能，需要不断练习。\n"
+"* 展开式和位值 – 这是一项基础技能，需要不断练习。\n"
+"* 两位数加减法 – 跳数可以帮我们轻松进行两位数的加减。\n"
+"* 一位数乘法 – 是时候学习 6、7、8 和 9 乘法了。\n"
+"* 矩形面积＝长×宽 – 这个本身就是一个重要的数学概念。这个知识点还能为很多有趣的游戏和涉及乘法与因式分解的谜题提供诀窍。\n"
+"* 因式分解 – 你的孩子将学习数字如何分解成因数的奇妙之处。1 是一个单位。大于 1 且仅能被 1 和自身整除的自然数是质数；大于 1 且不是质数的数是合数。3 的平方是 3 x 3。3 的立方是 3 x 3 x 3。3 的幂是指将 3 乘以自身很多次——例如，3 的四次方是 3 x 3 x 3 x 3。\n"
+"* 因数、约数和倍数 – 3 可以整除 12。这使得 3 成为 12 的因数或约数，而 12 是 3 的倍数。3 是 12 和 15 的公因数，而 12 是 4 和 6 的公倍数。\n"
+"* 一位数除法 – 你的孩子将通过在乘法问题中找出缺失的因数来间接学习除法。\n"
+"* 乘法和除法的运算族 – 我们将在该阶段加强这两种运算之间的联系。例如，2 x 5 = 10、5 x 2 = 10、10 ÷ 2 = 5 和 10 ÷ 5 = 2 构成了一个乘除法运算族（一组相关的数学算式，使用相同的数字，但运算不同）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MENTAL MULTIPLICATION"
+msgstr "心算乘法"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
-msgstr "這些教學方法提供了學習一位數乘法的結構化策略。您的孩子應該已經掌握將任何數字加倍、按任何數字跳數以及乘以 5 和 10。"
+msgstr "这些教学方法提供了学习单位数乘法的结构化策略。你的孩子应该已经很好地掌握了任意数的倍数运算、跳跃计数以及 5 和 10 的乘法。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4887,7 +4892,7 @@ msgstr "3 x 4 = 4 x 3"
 #. type=data_list
 msgctxt "data_list"
 msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
-msgstr "您的孩子已經非常熟悉加法，因此 2 + 3 等於 3 + 2 這一點並不難理解。雖然不太明顯，但乘法也是一樣的道理。"
+msgstr "您的孩子已经非常熟悉加法，因此 2 + 3 等于 3 + 2 这一点并不难理解。虽然不太明显，但乘法也是一样的道理。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4907,12 +4912,12 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "SQUARES"
-msgstr "平方數"
+msgstr "平方数"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
-msgstr "就像雙胞胎加法是最受歡迎的數學運算方法一樣，平方通常也是乘法中最受歡迎的。學習平方運算能夠為學習其他乘法打下基礎。"
+msgstr "就像双胞胎加法是最受欢迎的数学运算方法一样，平方通常也是乘法中最受欢迎的。学习平方运算能够为学习其他乘法打下基础。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4928,12 +4933,11 @@ msgid ""
 "\n"
 "Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
 msgstr ""
-"當與其他早期學過的技能相結合時，「多 1」或「少 1」（個數字）的策略對於做其他乘法運算是有幫助的。\n"
+"当与其他早期学过的技能相结合时，“多 1”或“少 1”（个数字）的策略对于做其他乘法运算是有帮助的。\n"
 "\n"
+"例如，9 x 7 比 10 x 7 少 1 个 7。因此，9 x 7 = 70 - 7 = 63。这适用于所有 9 的倍数。\n"
 "\n"
-"例如，9 x 7 比 10 x 7 少 1 個 7。因此，9 x 7 = 70 - 7 = 63。這適用於所有 9 的倍數。\n"
-"\n"
-"類似地，3 x 7 比 7 的兩倍多 1 個 7，因此 3 x 7 = 7 + 14 = 21。這適用於所有 3 的倍數。"
+"类似地，3 x 7 比 7 的两倍多 1 个 7，因此 3 x 7 = 7 + 14 = 21。这适用于所有 3 的倍数。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4948,12 +4952,195 @@ msgstr "心算乘法"
 #. type=data_list
 msgctxt "data_list"
 msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
-msgstr "雖然乘以 9 已經涵蓋在上一策略中，但單拎出來講也很有意思。如果你按順序寫出 9 的倍數，你會發現十位數始終比你相乘的數字小 1，而個位數加上十位數始終等於 9！"
+msgstr "虽然乘以 9 已经涵盖在上一策略中，但单拎出来讲也很有意思。如果你按顺序写出 9 的倍数，你会发现十位数始终比你相乘的数字小 1，而个位数加上十位数始终等于 9！"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MAKING 100"
-msgstr "組成100"
+msgstr "组成100"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.”\n"
+"\n"
+"**How to play:** Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total.\n"
+"\n"
+"**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
+msgstr ""
+"**准备工作:** 每位玩家有一张纸，上面有 7 行 3 列。列标题分别为“十位数”、“个位数”和“累计总和”。\n"
+"\n"
+"**游戏规则:** 每位玩家的累计总和从 0 开始。掷一个骰子或从 1 到 9 随机抽取一张扑克牌。每位玩家可以选择将这个数字放在当前行的个位数或十位数列中。例如，如果抽到 4，可以将其当成是 4 或 40。所选数字将添加到累计总和中。\n"
+"\n"
+"**获胜条件:** 累计总和超过目标值 100 的玩家“爆牌”并输掉游戏。如果双方都没有爆牌，则累计总和更接近 100 的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins. \n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"此游戏有多种其他玩法：\n"
+"\n"
+"* 使用不同的目标数字。\n"
+"* 使用更少或更多行。\n"
+"* 超过目标值时不爆牌；两边累计总和更接近的玩家获胜。\n"
+"* 使用第四列“百位数”来练习三位数。\n"
+"* 从目标数字开始，减到 0 来练习减法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAKE YOUR CLAIM"
+msgstr "占领地盘"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value and Addition Games"
+msgstr "位值和加法游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a paper with a number line from 0 to 99 to share.\n"
+"\n"
+"**How to play:** On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line.\n"
+"\n"
+"**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
+msgstr ""
+"**准备工作:** 一张标有数字 0 到 99 的数字线（大家一起分享）\n"
+"\n"
+"**游戏规则:** 每位玩家轮流进行。在你的回合，从卡片 0 - 9 中随机抽取两张，可以自由选择它们的顺序，组成一个两位数 (0-99)。将你生成的两位数标注在数字线上的相应位置。\n"
+"\n"
+"**获胜条件:** 第一个在规定区域内标注四个数字，且这些数字区间内没有对手数字的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variation"
+msgstr "其他玩法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game can also be played from 000 to 999."
+msgstr "此游戏还可以从数字 000 到 999 进行。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BONDED GROUPS"
+msgstr "数字组合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two versions of these puzzles."
+msgstr "这种数学谜题有两个版本。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
+msgstr "类似于第三章的“求和群组” ，但目标和更大。棋盘可以是任意大小的，这里我们使用一个 4 x 4 的棋盘。目标数字写在左边，本例中是 13。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
+msgstr "**挑战： 找到相邻且相加的目标和（13）为数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
+msgstr "**版本二:** 这是一个 4 x 4 的棋盘，目标数字是 20。和“求和群组”一样，棋盘上填满了能组成目标数字的数字对或三个数字。然而，现在有一个格子不参与任何组合。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
+msgstr "**挑战:** 找到这个没有参与任何组合的数字。本例中，它是 “5”。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MISSING NUMBERS"
+msgstr "缺失的数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Create these puzzles by taking a simple addition or subtraction equation and leaving out some of the digits. If you accidentally leave out too many numbers, that can open up a discussion of what all the possible solutions are – for example, if you start with 2 + 5 = 7 and leave out the first and third numbers, there are many solutions to ? + 5 = ?\n"
+"\n"
+"**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
+msgstr ""
+"**制作步骤:** 选取简单的加法或减法算式，并省略其中的一些数字。如果你不小心省略了太多数字，可以引导孩子讨论所有可能的解。例如，如果我们开始算式是 2 + 5 = 7，并且省略了第一个和第三个数字，那么 ? + 5 = ? 就有多个解。\n"
+"\n"
+"**示例:** 以下两个算式通过省略一些数字，变成了“缺失数字”谜题。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
+msgstr "**字母代换谜题:** 这些谜题为使用简单变量提供了基础。当孩子熟练掌握这些谜题后，他们就可以尝试解答本章稍后要介绍的“字母代换”谜题了。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value, Add, and Subtract"
+msgstr "位值、加法和减法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING MULTIPLICATION CARDS"
+msgstr "制作乘法卡"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a set of multiplication cards to practice these math facts while playing matching games your family played earlier: Stage 1 - Go Fish, Memory Challenge; Stage 2 - Bingo; Stage 3 - Hot Potato; and Stage 4 - Gin Rummy.\n"
+"\n"
+"**How to create:** Hand draw four cards for each math fact. These are the four cards for 3 × 4."
+msgstr ""
+"利用制作乘法卡的方式，和孩子一起玩早先学过的配对游戏 (配对钓鱼、记忆挑战赛；宾果游戏；烫手山芋；金拉米) 的同时练习乘法运算。\n"
+"\n"
+"**制作步骤:** 为每个乘法算式制作四张卡片：1. 算式；2. 物体分组；3. 阵列图；4. 质因数分解。表示算式3 x 4 的四张卡片如下："
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Options:** One option is to include 3 × 4 and not include 4 × 3. This has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3.\n"
+"\n"
+"For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
+msgstr ""
+"**选项:** 可以只包含 3 x 4，而不包含 4 x 3。需要注意的是，看到 4 组 3 个物体和看到 3 组 4 个物体是不同的概念。\n"
+"\n"
+"阵列图卡可以沿着一侧或两侧标注跳数序列，帮助孩子练习跳数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "算式卡可以将每个数字替换成其质因数分解的符号。这样可以让孩子更容易理解乘法运算中质因数分解是如何结合起来的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "显示乘积"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "乘法卡和乘法表"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Use a blank table with 4 product rows and columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers, possibly with duplication, from 2 to 9. Fill in the table out of sight of your child, and then flip over or cover the numbers.\n"
+"\n"
+"**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
+msgstr ""
+"**制作步骤:** 准备一个空白表格，有 4 行 4 列，用来填写乘积。表格上方和左侧还有四个缺失数字的组 (可能重复)，这些数字包含 2 到 9 之间的部分数字。在孩子看不到的情况下填满表格，然后翻转或遮盖数字。\n"
+"\n"
+"**挑战:** 孩子一次可以最多揭开 16 个乘积中的 10 个。目标是在用完所有次数之前找到顶部和左侧的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
+msgstr "**示例:** 假设所有卡片都翻转了，如果孩子选择翻开下面写着 63 的卡片，他们就会知道它是 7 和 9 的乘积。翻开同一行或同一列的任何其他卡片都会显示 7 和 9 在哪里。假设他们翻开的第二张卡片是 56，那么第三列一定是 7，第二行也是 9，第三行是 8。"
 
 #. type=data_list
 msgctxt "data_list"
