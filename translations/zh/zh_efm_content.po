@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-27 15:05\n"
+"PO-Revision-Date: 2024-07-27 21:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4818,7 +4818,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 5 – I CAN COUNT TO 100!"
-msgstr "第五階段 – 我能數到100！"
+msgstr "第五阶段 – 我能数到 100！"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4873,6 +4873,87 @@ msgstr ""
 "* 因數、約數和倍數 – 3 可以整除 12。這使得 3 成為 12 的因數或約數，而 12 是 3 的倍數。3 是 12 和 15 的公因數，而 12 是 4 和 6 的公倍數。\n"
 "* 一位數除法 – 你的孩子將透過在乘法問題中找出缺失的因數來間接學習除法。\n"
 "* 乘法和除法的運算族 – 我們將在該階段加強這兩種運算之間的聯繫。例如，2 x 5 = 10、5 x 2 = 10、10 ÷ 2 = 5 和 10 ÷ 5 = 2 構成了一個乘除法運算族（一組相關的數學算式，使用相同的數字，但運算不同）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
+msgstr "這些教學方法提供了學習一位數乘法的結構化策略。您的孩子應該已經掌握將任何數字加倍、按任何數字跳數以及乘以 5 和 10。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 x 4 = 4 x 3"
+msgstr "3 x 4 = 4 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
+msgstr "您的孩子已經非常熟悉加法，因此 2 + 3 等於 3 + 2 這一點並不難理解。雖然不太明顯，但乘法也是一樣的道理。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
+msgstr ""
+"此图显示两行三行与三行两行相同 - 您只是改变了您的观点！\n"
+"\n"
+"两个数字相乘的顺序并不重要——无论哪种方式，你都会得到相同的答案！\n"
+"\n"
+"好消息是这个很酷的观察结果意味着你的孩子只需要掌握大约一半的乘法事实—一旦你的孩子知道了3 x 4，他们也知道了4 x 3。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SQUARES"
+msgstr "平方數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
+msgstr "就像雙胞胎加法是最受歡迎的數學運算方法一樣，平方通常也是乘法中最受歡迎的。學習平方運算能夠為學習其他乘法打下基礎。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1 MORE OR 1 LESS"
+msgstr "多 1 或少 1"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When combined with the other earlier skills, the strategy of using '1 more' or '1 less' is effective for calculating the remaining multiplication facts. \n"
+"\n"
+"For example, 9 × 7 is one 7 less than 10 × 7. So 9 × 7 = 70 – 7 = 63. This works for all 9’s. \n"
+"\n"
+"Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
+msgstr ""
+"當與其他早期學過的技能相結合時，「多 1」或「少 1」（個數字）的策略對於做其他乘法運算是有幫助的。\n"
+"\n"
+"\n"
+"例如，9 x 7 比 10 x 7 少 1 個 7。因此，9 x 7 = 70 - 7 = 63。這適用於所有 9 的倍數。\n"
+"\n"
+"類似地，3 x 7 比 7 的兩倍多 1 個 7，因此 3 x 7 = 7 + 14 = 21。這適用於所有 3 的倍數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 9"
+msgstr "乘以 9"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Multiplication"
+msgstr "心算乘法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr "雖然乘以 9 已經涵蓋在上一策略中，但單拎出來講也很有意思。如果你按順序寫出 9 的倍數，你會發現十位數始終比你相乘的數字小 1，而個位數加上十位數始終等於 9！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING 100"
+msgstr "組成100"
 
 #. type=data_list
 msgctxt "data_list"
