@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-26 23:57\n"
+"PO-Revision-Date: 2024-07-27 02:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4054,6 +4054,108 @@ msgstr ""
 msgctxt "data_list"
 msgid "SKIP COUNTING"
 msgstr "跳位计数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr "您的孩子已经在0到20之间练习了2、5和10的跳位计数。开始练习按任意数字进行跳位计数，从任意数字开始，向任一方向进行。向上和向下的跳位计数有助于所有算术运算，以及位值（当以5或10为步长时）。跳为计数的难点在于十位数字的变化，因此要特别关注这一点。这是一个在旅行或空闲时间进行的有用活动。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "快速到达目标"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**玩法:** 使用两张1到9的扑克牌，创建一个两位数的起始数字——第一张牌决定十位数，第二张牌决定个位数。从这个数字开始，进行5次跳跃，每次跳跃的步长为1或10。目标是尽量接近50，得分是与50的差值。经过几轮后，总得分最低的玩家获胜。\n"
+"\n"
+"**100表:** 如果玩家们是小孩子，他们可以参考从一到一百图表中受益。使用该图表还会强调位值上升或下降10的情况。\n"
+"\n"
+"**游戏变化:** 您可以通过允许玩家向目标迈出1、2 或 10步，或者 1、2、5 或 10步来改变此游戏。此外，有时使用50以外的目标数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "跳岛-跳位计数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "跳位计数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "岛屿（圆）通过桥梁（线）连接，具有连接通过跳位计数制成。有些岛屿内有数字，而另一些岛屿则空白。智力游戏上方是起始数字、结束数字和跳位数量。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**挑战:** 填写缺失的数字并找到路径。\n"
+"\n"
+"你也可以把数字和空格放在地板上，这样做成一个迈步智力游戏。与跳位计数活动一样，创建智力游戏来练习从不同的数字开始向前或向后，而不仅仅是跳位数量的倍数的数字。\n"
+"\n"
+"**如何创建:** 首先制作岛屿，填入跳跃计数的数字，然后按正确顺序连接这些岛屿，再添加一些额外的连接，使其成为一个谜题。在您给孩子的版本中，去掉一些数字，但保留足够的数字，使其仍然可以被解出。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "配对向下"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**游戏布局:** 首先，画一条从 1 到某个数字（例如 20）的数轴。\n"
+"\n"
+"**玩法:** 在一轮中，选择两个数字和一个结果，其中没有一个被划掉，并写下涉及这些数字的加法或减法方程。 等式中的两个数字被划掉，结果被圈出。 下一位玩家必须使用结果作为两个数字之一。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**如何获胜:** 如果比赛是竞争性的，获胜者是最后一个走合法棋步的玩家。 也可以合作玩，看看有多少数字没有被触划掉。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "修复它吧"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "这个游戏从一个完全填写的 4 x 4数字网格开始，并有一个目标总和。 替代版本对每个行和列使用单独的目标总和。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**挑战:** 找到要删除的项目，使每行和每列中剩余数字的总和为目标总和。\n"
+"\n"
+"**如何创建:** 通过放入总和为目标总和的成对或三组数字来制作这些智力游戏。 然后用假目标数字填充剩余的空间。"
 
 #. type=data_list
 msgctxt "data_list"
