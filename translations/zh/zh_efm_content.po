@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-27 13:05\n"
+"PO-Revision-Date: 2024-07-27 14:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4599,6 +4599,221 @@ msgstr "乘以 3 和 4"
 msgctxt "data_list"
 msgid "More Mental Math"
 msgstr "更多心算-乘法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For someone good at adding, multiplying by 3 and 4 can be quick and easy.\n"
+"\n"
+"Multiplying a number by 3 is adding the number to double the number. So, 3 x 6 is 6 more than double 6, which is 6 + 12 = 18.\n"
+"\n"
+"Four times a number is doubling a number twice. So, 4 x 7 is 2 x (2 x 7), which is 14 + 14 = 28."
+msgstr ""
+"对于擅长加法的人来说，乘以 3 和 4 既快速又简单。\n"
+"\n"
+"将一个数乘以 3 就是将该数相加，使该数加倍。 因此，3 x 6 比双 6 多 6，即 6 + 12 = 18。\n"
+"\n"
+"一个数的四倍等于一个数的两倍。 因此，4 x 7 等于 2 x (2 x 7)，即 14 + 14 = 28。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "总和方形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**游戏布局:** 使用一个 3 x 3 的方形网格，其中为每行和每列给出了目标总和。从 1 到 9 的一些数字已经填空在网格中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**挑战:** 将剩余的数字放入网格中，使行和列的总和成为目标值。\n"
+"\n"
+"**如何创建:** 要制作这样的智力游戏，首先将写有数字 1 到 9 的纸片放在 3 x 3 的网格上。\n"
+"\n"
+"对于每一行和每一列，将总和写在右侧或下方。然后，从网格中删除一些数字。最后，将带有您删除的数字的纸片交给您的孩子，并询问“我们应该把这些数字放在哪里？”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "使总和更小的一种变体是使用 0 到 8 之间的数字。更难的一种变化是在 3 x 4 网格中使用数字 1 到 12。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "加法金字塔"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**游戏布局:** 使用金字塔，将 10 个数字分成 4 行，并在它下面包含一个目标数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**挑战:** 使用每一行中的一个数字找到穿过金字塔的路径，使数字之和为目标数字。路径上的数字必须相互连接。\n"
+"\n"
+"**例子:** 这个智力游戏答案是 5 –> 4 –> 1 –> 7。\n"
+"\n"
+"**如何创建:** 创建这样的谜题时，先填入您想要形成路径的数字，并记录这些数字的总和。然后在金字塔中填入剩余的干扰数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "总和差异"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**玩法:** 一个人说出两个数字，一个是总和，另一个是差异，另一个人面临的挑战是找到具有该总和和差异的原始两个数字。例如，如果一个人说总和是12，差异是6，另一个人要说原来的数字是3和9。\n"
+"\n"
+"**反向角色:** 由于提出这些问题非常容易，因此这是让您的孩子成为提问者的好活动。并非所有和与差的数字组合都会产生合理的答案。然而，如果你首先说出两个数字，然后说出它们的和与差，那就肯定只有一个答案。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "有毒的数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**游戏布局:** 从一副牌中取出花牌（如果您愿意，可以将皇后用作 0）。在开始之前，就该轮的一组“有毒”的数字达成一致。有毒数字可以是您希望您的孩子练习或变得更加熟悉的任何数字组。\n"
+"\n"
+"* 偶数（2、4、6、8、10、12）\n"
+"* 奇数（1、3、5、7、9、11）\n"
+"* 平方数（1、4、9、16、25）\n"
+"* 质数（2、3、5、7、11、13、17、19）\n"
+"* 数字的倍数，例如 3 的倍数\n"
+"\n"
+"**玩法:** 给每位玩家发三张牌。第一位玩家打出一张不是“毒药数字”的牌，并从抽牌堆补一张牌。接下来的玩家打出一张牌，使前两张牌的和不是“毒药数字”，然后从抽牌堆补一张牌。再接下来的玩家打出一张牌，使三张牌的和不是“毒药数字”，依此类推。\n"
+"\n"
+"**获胜方法:** 第一个无法打出合法牌的玩家输掉游戏并退出。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "这个游戏同样适用于多于两名玩家。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "让您的孩子在这些探索活动中玩耍和思考。不要急于求成。真正的价值在于玩耍过程中发现美丽的模式。这些活动中蕴含着更深层次的数学原理，但这些概念可以等孩子长大后再进行学习。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "花瓣"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**问题:** 在一个奇特的花园里，有两种花。一种花有4片花瓣，另一种花有7片花瓣。一个孩子被要求采一些花，使得花瓣的总数是13片。可以做到吗？如果是15片花瓣呢？哪些花瓣总数是可能的？对于可能的数量，是否有多种方法实现？例如，32片花瓣可以是四朵7片花瓣的花加上一朵4片花瓣的花，也可以是八朵4片花瓣的花。\n"
+"\n"
+"**其他玩法:** 通过改变数字，有许多例子可以尝试。对于某些数字对，存在一个临界点，从该点开始，所有花瓣数量都是可能的；而对于其他数字对，则不存在这样的点。对于4和7，从18开始的每个数字都是可能的。对于3和6，则不存在一个点之后所有数字都可以实现。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "攀登台阶——有多少种方式？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**问题:** 假设您的孩子有时喜欢一次走两步，有时喜欢一次走一步。如果您的孩子上升一些台阶，有多少种方法可以做到？\n"
+"\n"
+"例如，对于0个台阶，有一种方式——站在原地。对于1个台阶，也有一种方式。对于两个台阶，您可以选择一次迈两步，或者两次迈一步，因此有两种方式。\n"
+"\n"
+"仔细思考许多例子，然后将结果制成表格。当信息很多时，制作表格通常会有所帮助。表的开头如下所示："
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "看了这些数字后，您的孩子可能会注意到每对数字相加就是下一个数字。为什么会发生种情况？ 这些数字称为斐波那契数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "天平"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "计数的乐趣"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"天平是一种用于判断两个物体何时具有相同重量的装置。天平常配有一组用于称量物体的砝码。如果你限制了允许使用的重量，你可以做下面一些有趣的调查。\n"
+"\n"
+"**第一个问题:** 如果你只有 4 个单位和 7 个单位的砝码，那么你能精确称出的东西就和你在花瓣调查中发现的一样。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**第二个问题:** 如果砝码位于天平的两侧，您可以准确称量哪些东西？\n"
+"\n"
+"**第三个问题:** 如果您不使用尺寸 4 和 7 单位的砝码，而是使用 3 和 8单位的砝码，那么这两个问题的答案会如何变化？ 或者你使用4和6或8和12单位的砝码，结果又会怎样？\n"
+"\n"
+"**第四个问题:** 如果你有一组按倍数递增的砝码，每个重量为1、2、4、8和16单位，你能称量出多少种重量为13的物品？如果允许砝码放在天平的两侧，情况会有变化吗？\n"
+"\n"
+"**第五个问题:** 如果在1、3、9 和 27三倍级数中使用单一砝码会发生什么？如果将这些砝码放在两侧，您可以称出哪些东西？\n"
+"\n"
+"**第六个问题:** 如果砝码是斐波那契数，情况会怎样？某些重量是否有不止一种称量方法？找到一个对斐波那契砝码的限制，使得每种重量只有一种称量方法。"
 
 #. type=data_list
 msgctxt "data_list"
