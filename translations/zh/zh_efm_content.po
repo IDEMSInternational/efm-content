@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-27 03:34\n"
+"PO-Revision-Date: 2024-07-27 04:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4241,6 +4241,178 @@ msgstr "重温记忆挑战"
 msgctxt "data_list"
 msgid "Do Sum Play"
 msgstr "我们来玩总数游戏吧"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**游戏布局:** 面朝下发一格牌。4 x 4 网格是一个合适的尺寸。\n"
+"\n"
+"**玩法:** 玩家轮流翻出两张牌。如果牌“匹配”，则玩家保留牌，再将两张牌发到空白处，然后玩家再轮一次。如果牌不匹配，则将牌翻回原处，并玩家的回合结束。\n"
+"\n"
+"**如何获胜:** 游戏结束时，拥有最多牌的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"以下是卡牌匹配的说明：\n"
+"\n"
+"* 使用目标总和。 如果两张牌的总和匹配目标数，则两张牌匹配。\n"
+"* 使用目标差异。如果两张牌的总和匹配差异数，则两张牌匹配。\n"
+"* 将有加法或减法问题的卡片与有答案的卡片一起使用 - 如果问题与答案匹配，卡片就匹配。\n"
+"* 使用数字的展开式。选择 0 到 99 之间的 20 个数字，然后把这些数字写在纸上。 另外，将每个内容以扩展形式写在一张纸上。例如，为 53 创建 50 + 3，为 30 创建 30 + 0，为 7 创建 0 + 7。将这两副 20 张牌洗在一起。当常规数字与其扩展形式配对时，两张牌就会匹配。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "谁离得最近"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**游戏布局:** 将 5、10、25 和 50垂直写在一张纸上。在 5 的每一侧各保留一个空格，在其他数字的每一侧各保留两个空格。一名玩家填补左侧的空格，另一名玩家填补另一侧的空格。 每个玩家还有一个额外的空格可以与一个可忽略的数字就会使用一次。\n"
+"\n"
+"**玩法:** 玩一副从 0 到 9 的数字卡。从牌组中任意的选择一张卡，使用后将其放回原处。 两名玩家必须在尚未填写的空格中使用该数字。一旦所有空格都填满，玩家的数值就会与每个目标数值进行比较。最接近每个目标数字的玩家将获得一分，如果两个玩家同样接近，则两人都将获得一分。\n"
+"\n"
+"**如何获胜:** 得分最多的人获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "通过设定另一的目标数字来改变这个游戏。 您还可以选择通过总结每个玩家的所有错误来对游戏进行评分。在这个变体中，得分较小的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "战争-双位数比较"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**游戏布局:** 将一副扑克牌洗好，去掉面牌和十张牌，然后将其平均分配给两名玩家。\n"
+"\n"
+"**玩法:** 每个玩家翻开两张牌并将它们并排放置以形成一个双位数的数字。 数字较大的玩家保留所有四张牌。 如果有平局，则每位玩家再翻两张牌，获胜者获得所有的八张牌。\n"
+"\n"
+"**如何获胜:** 一张或多张牌经过后，拥有最多牌的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "数学二十一点"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**游戏布局:** 一般来说，目标数字是 21，但对于年幼的孩子，请使用较小的数字，例如 12。为您的孩子调整扑克牌的内容。 例如，对于一个非常年幼的孩子，您可以用四种花色中的牌 1 到 4。\n"
+"\n"
+"**玩法:** 每位玩家发两张牌 - 一张牌面朝上，一张牌面朝下（接收玩家是唯一能看面朝下的牌的人）。在一个转中，玩家可以选择再要求一张牌，直到玩家决定停止。 每个玩家轮完后，玩家都会比较自己的牌的总和。\n"
+"\n"
+"**如何获胜:** 总和最接近并未超过目标的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "填空-比较"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing Double-Digit Numbers"
+msgstr "比较两位数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9.\n"
+"\n"
+"**How to play:** Deal two cards to each player face down. Then, each player turns over one card and decides whether that card will be the tens or ones card. After deciding, each player’s remaining card is turned over and is used to fill the remaining place.\n"
+"\n"
+"**How to win:** The player with the larger number wins."
+msgstr ""
+"**游戏布局:** 洗一幅数字为 1 到 9 的扑克牌。\n"
+"\n"
+"**玩法:** 向每位玩家发两张面朝下的牌。 然后，每个玩家翻开一张牌，并决定该牌是十位卡还是个位卡。确定后, 将每位玩家剩下的牌翻过来，用于填补剩下的位置。\n"
+"\n"
+"**如何获胜:** 数字较大的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "目标O和X"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"**How to play:** Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. \n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**游戏布局:** 使用已拆下图片卡的牌组。 用 1 到 20 之间随机生成的数字填充井字棋盘。如果要包含乘法，请使用更大的范围。\n"
+"\n"
+"**玩法:** 向每位玩家发 6 张牌，然后同时将它们翻转过来。在第一次玩中，有两名玩家之间的竞赛——第一个将两张或更多张牌组合起来匹配其中一个方块的玩家可以在其中放一个 X 并替换他们使用的牌。之后，玩家轮流在一个他们可以匹配的值的选定方格中放置一个X或一个O，用于匹配的卡牌将被抽出新的卡牌所取代。如果无法匹配，他们就失去了回合，并且可以选择两张牌来替换新的牌。\n"
+"\n"
+"**如何获胜:** 第一个连续获得 3 个的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "终结者2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Add & Sub"
+msgstr "更多加减游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and a board with three rows of five squares numbered from 1 to 15.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn.\n"
+"\n"
+"**How to win:** The winner is the one with the most claimed numbers after a fixed number of turns."
+msgstr ""
+"**游戏布局:** 使用三个骰子和一个编号从1到15的三行五列的棋盘。\n"
+"\n"
+"**玩法:** 玩家掷骰子，并使用加法和减法将三个数字组合起来匹配棋盘上的一个数字。匹配到的数字将被划掉并归玩家所有。如果玩家无法找到匹配项，另一位玩家有机会使用这些数字并获取结果——无论如何，另一位玩家会得到下一轮的机会。\n"
+"\n"
+"**如何获胜:** 获胜者是在固定轮数后获得最多数字的人。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr "一个较小的版本使用两个骰子，数字范围是1到10；一个较大的版本使用四个骰子，数字范围是1到20。"
 
 #. type=data_list
 msgctxt "data_list"
