@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-27 02:04\n"
+"PO-Revision-Date: 2024-07-27 03:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4156,6 +4156,91 @@ msgstr ""
 "**挑战:** 找到要删除的项目，使每行和每列中剩余数字的总和为目标总和。\n"
 "\n"
 "**如何创建:** 通过放入总和为目标总和的成对或三组数字来制作这些智力游戏。 然后用假目标数字填充剩余的空间。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "折叠展开式"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "这提供了一种物理方法来了解两位数如何由十和一组成。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "来取一张纸，最好得用一张可以并排放置四张数字卡的纸。 在纸张上加：空格 - “0” - “+” - 空格。 “+”号两侧有垂直折叠。使用回形针在两个空格上添加数字。 如果使用 2 和 3，折叠起来看起来像 23，但展开后变成 20 + 3。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "我在想一个数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"一名玩家想出 0 到 99 之间的一个数字。另一名玩家通过提出有关十位和个位的问题来算出该数字。\n"
+"\n"
+"假设数字是 23。玩家可以询问另一名玩家如果十位数字是否大于或等于个位数字 - 23的情况并非如此。玩家可以询问两位数之和是否小于 8 –是对的. 然后玩家可以询问十位数字的两倍是否比个位数字大 - 也是对的。此时，数字一定是23或34。询问各位数字之和是否小于6，结束本轮。\n"
+"\n"
+"问题类型可以是玩家同意的任何类型，但最好是涉及个位和十位数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "按个位和十位跳岛"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "数字展开式和位值"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "给出一个矩形数字网格，部分数字已填入。填入剩余的数字，使得任何两个共享边的数字在某一位上的差异为1（包括从0到9的循环）。每个数字不能重复使用。使用100表对初学者可能会有帮助。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**如何创建:** 取一个空网格，用数字填充，不要重复数字。接下来，删除一些数字。在本例中，红色数字是缺失的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "数学井字棋"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**设置:** 使用井字棋棋盘和标有1到9数字的棋子。一个玩家使用奇数，另一个玩家使用偶数。\n"
+"\n"
+"**玩法:** 玩家轮流放置棋子，奇数玩家先行。第一个完成一行三个数字之和为15的玩家获胜。一种变体是继续游戏，填满所有格子，看看哪位玩家完成的15最多。\n"
+"\n"
+"一种相关的游戏是设定一个进攻者和一个防守者。进攻者先行（第一步不能是中心的5），尝试凑出15，而防守者则尝试阻止进攻者。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "重温记忆挑战"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "我们来玩总数游戏吧"
 
 #. type=data_list
 msgctxt "data_list"
