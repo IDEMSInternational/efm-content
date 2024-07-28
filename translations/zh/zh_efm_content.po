@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-28 01:54\n"
+"PO-Revision-Date: 2024-07-28 02:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5638,8 +5638,575 @@ msgstr "定义与规则"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The definition:** Just as 4 × 2 is a quick way to write 2 + 2 + 2 + 2, so 2<sup>4</sup> is a quick way to write 2 × 2 × 2 × 2. It’s much easier to say and understand the phrase “two to the fourth,” than to say “two times two times ... “\n"
+"\n"
+"**Special names:** The second power, 4<sup>2</sup> for example, can be said **four squared,** and the third power, 4<sup>3</sup> for example, can be said **four cubed.**\n"
+"\n"
+"**The rule:** When powers of the same number are multiplied, a simple rule governs how to simplify the result – add the powers. For example, if you do 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, we have two fours multiplied by three fours, so the result is five fours being multiplied.\n"
+"\n"
+"**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
+msgstr ""
+"**定义:** 就像 4 × 2 是 2 + 2 + 2 + 2 的简写一样，2<sup>4</sup> 是 2 × 2 × 2 × 2 的简写。 说出“2 的四次方”比重复地说“二乘二再乘二……”更容易理解和表达。 \n"
+"\n"
+"**特殊名称:** 二次方，例如 4<sup>2</sup>，可以称为四的平方，三次方，例如 4<sup>3</sup>，可以称为四的立方。\n"
+"\n"
+"**规则:** 相同数的幂相乘时，遵循一个简单的规则来简化结果 - 即指数相加。例如，计算 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>，我们有两个四乘以三个四，因此结果是五个四相乘。\n"
+"\n"
+"**注意:** 请注意，这个指数相加的规则只适用于同一数的幂次方。诸如 3<sup>2</sup> × 5<sup>3</sup> 的乘方运算并不能直接通过这种方式简化。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "重用旧的加法活动"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Feel the Power"
 msgstr "感受幂"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**重用谜题和游戏:** 由于幂相乘时指数相加，我们以前所有涉及加法的游戏和谜题都可以用于练习乘方运算。以下是一些曾学过的加法运算活动示例： 第三章 - 形状求和和组合求和；第四章 - 封闭式求和、数形结合和修复问题。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr "左边是第三章的两个 “形状求和” 示例。右边是使用乘法代替加法的相同示例 “形状乘积”。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "练习幂次方会变得像原来的加法问题一样熟悉和容易。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "如果您的孩子喜欢这些问题并且想要额外的挑战，可以开始涉及多个数字的幂次方运算。例如，如果您计算 (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>)，您可以将该规则分别应用于 4 的幂和 3 的幂，得到结果 4<sup>7</sup> × 3<sup>5</sup>。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "因式树 - 探索活动"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "因式树模型是对上一页“感受幂” 中“图形乘积”的扩展。创建因式树的目标是将一个数字分解成它的质因数。在构建因式树的过程中，可以了解有关该数字的许多信息。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr "**示例:** 每棵树最终都会在其叶子上产生相同的质数。在每种情况下，我们最终得到 2 x 3 x 3 x 3，但看看不同的到达方式！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "问题"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"做了一些类似练习之后，您的孩子可能会自然而然地开始提出一些问题：\n"
+"\n"
+"* 为什么某些树比其他树有更多的层次？\n"
+"* 为什么某些树比其他树更宽？\n"
+"* 为什么叶子节点总是停留在质数上？\n"
+"* 为什么叶子节点总是具有相同的质数列表，只是顺序可能不同？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "练习质因数分解"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "在旅行或空闲时按顺序进行质因数分解练习。还可以练习谈论幂。轻松掌握质因数分解将有助于将来学习许多知识，例如分数运算。玩得开心，进行该活动要适度，让孩子感觉舒适。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "背诵口诀"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"口诀如下：\n"
+"\n"
+"1. 是单位数\n"
+"2. 是质数\n"
+"3. 是质数\n"
+"4. 是 2 的平方\n"
+"5. 是质数\n"
+"6. 是 2 x 3\n"
+"7. 是质数\n"
+"8. 是 2 的立方\n"
+"9. 是 3 的平方\n"
+"10. 是 2 x 5\n"
+"11. 是质数\n"
+"12. 是 2 的平方 x 3\n"
+"13. 是质数\n"
+"14. 是 2 x 7\n"
+"15. 是 3 x 5\n"
+"16. 是 2 的四次方\n"
+"17. 是质数\n"
+"18. 是 2 x 3 的平方\n"
+"19. 是质数\n"
+"20. 是 2 的平方 x 5\n"
+"21. 是 3 x 7\n"
+"22. 是 2 x 11\n"
+"23. 是质数\n"
+"24. 是 2 的立方 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "乘积金字塔"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "探索质因数分解"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"这些谜题是第四章看到的加法金字塔的乘法版本。 我们会提供一个目标数字和一个数字金字塔。\n"
+"\n"
+"**挑战:** 挑战是找到金字塔中向下连接的数字路径，使所选数字的乘积等于目标数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"在这个金字塔中，目标是 36，红色线条表示有效的路径。\n"
+"\n"
+"这些谜题如果先进行目标的质因数分解会更容易解决。 因为 36 = 2 x 2 x 3 x 3，所以这些质因数必须在路径中选择，这有助于指导搜索。\n"
+"\n"
+"知道质因数分解也可以使创建这些谜题变得更加容易。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100就笑"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**准备工作:** 准备一副扑克牌，其中 Q 代表 0，A 代表 1，2 - 9 代表它们本身的数字。将目标数字设置为 100。随机抽取四张牌并按顺序排列，用它们组成两组两位数，作为公共数字资源。\n"
+"\n"
+"**游戏规则:** 每位玩家随机抽取 14 张牌，正面朝上摆放。玩家轮流抽牌，在自己的回合中，玩家必须从他们手中所有牌拿出任意两张，分别放置在公共资源的四张牌中的任意两张牌上。如果当前的两组两位数相加等于目标数字 100，则玩家得 1 分。游戏名称取自一个可选动作，即玩家每次成功达到目标金额时都可以笑一声。\n"
+"\n"
+"**获胜条件:** 当所有牌都用完后，得分最多的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* 将目标数字设置为100有助于练习10 的组成数。然而，设置其他数字为目标也可以提供多样性并练习其他类型的组成数。\n"
+"* 给玩家多于或少于 14 张的牌。\n"
+"* 将减法与较小的目标数字结合使用。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "5 张牌实现目标"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "加减练习"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**准备工作:** 选择一个目标数字，例如 100。\n"
+"\n"
+"**游戏规则:** 每位玩家从 0 到 9 随机抽取五张牌。用这五张牌中的四张组成两个两位数，而不使用第五张牌。将这两个数字相加，最接近目标数字的玩家得分 1 分。\n"
+"\n"
+"**获胜条件:** 在规定轮数后得分最高者获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "一种选择是使用三位数、定目标数字为1000，每位玩家抽取七张牌。另一种选择是进行减法运算和设定较小目标数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "字母替换"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "字母替换"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**准备工作:** 在这些谜题中，单个数字被字母代替。乍一看，这些谜题似乎与本章前面看到的“缺失的数字”谜题相同。然而，用字母为解决问题提供了更有趣的机会。 如果您的孩子已经熟悉“缺失的数字”谜题，则可以过渡到这些谜题。\n"
+"\n"
+"字母的使用遵循以下三个规则：\n"
+"\n"
+"* 每个字母始终表示 0 到 9 之间的某个数字\n"
+"* 数字的最左侧位永远不是 0\n"
+"* 不同的字母必须代表不同的数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**制作步骤:** 列出一个普通的加减法问题，替换一个或多个数字。 用相同的字母替换相同的数字。 在本例中，6 在两个位置都被替换为“A”。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**特殊谜题:** 这种类型的谜题可以创造出有趣的解题挑战。这些谜题的设计要费不少心思，但会带来一些有趣的思考过程。\n"
+"\n"
+"请注意，字母的值不会在不同的谜题之间延续。在第一个谜题中值为 1 的“B”，在第二个谜题中值为 4。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "用图形填充区域"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"想象你有一个 8 x 8 的国际象棋棋盘和一套 1 x 2 的棋子。 用 32 个这样的棋子完全覆盖棋盘的方法很简单。\n"
+"\n"
+"**移除角落:** 让我们开始尝试从棋盘上移除部分正方形。如果移除棋盘的一个角，你马上就会知道你无法再用棋子覆盖棋盘，因为棋子会覆盖偶数个正方形，而现在只剩下 63 个正方形了。好，移除两个角使剩下的正方形变成偶数个—— 现在你可以用棋子覆盖它了吗？答案取决于你移除的哪两个角。为什么？如果不再限制自己只移除角落，又会发生什么呢？\n"
+"\n"
+"**从细节处学习:** 解决这类问题的一个重要方法是从较小的例子中学习。 首先尝试在 4 x 4 或 6 x 6 的棋盘上进行这些尝试。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "尝试使用其他形状来填充棋盘。 尝试用 1 x 3 的棋子或 3 个正方形组成的 L 形的来填充它。你发现了哪些规律和规则？还有哪些有趣的形状可以用来尝试？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "用正方形填充正方形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "图形填充"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**挑战:** 用其他正方形填充一个正方形，这些正方形不必都大小相同。问题是：有多少种可能的正方形数量？对于那些可能的，是否有简单的方法来描述如何做到？\n"
+"\n"
+"让孩子花几天时间玩这个游戏，不要急于得到答案。下图展示了如何用 6 个正方形填充正方形的例子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr "如果您只允许使用特定大小的正方形，例如 1 x 1、2 x 2 和 3 x 3，会发生什么？用相同形状的图形填充其他图形会发生什么？例如，使用所有边长度相同的正三角形。 还有哪些图形可以用这种方式进行有趣的探索？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "乘积游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**准备工作:** 使用一张公用的纸，按照如图所示填写。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**游戏规则:** 第一位玩家将标记放在1 - 9方格中的任意一个数字上 (1-9)。第二位玩家将另一个棋子放在1 - 9方格中的一个数字上，并说出6 x 6表格中相应位置的乘积。之后，每位玩家都可以选择移动他们任意一枚棋子并说出新的乘积 (如果可以)。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**获胜条件:** 第一个在横、竖、斜任意一行上连成 3 个标记的玩家获胜。\n"
+"\n"
+"**其他玩法:** 混合乘积数字，以帮助您的孩子更好地识别乘积。另请参阅第五章的扩展材料，了解更大范围的更大棋盘设计。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "乘积跳岛"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "乘法和倍数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"这些谜题由岛屿（圆形和方形）和桥梁（线）连接而成。如果正方形的两侧各有一个圆圈，则正方形表示这两个圆圈的乘积。\n"
+"\n"
+"**挑战:** 填入缺失的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**如何创建:** 通过先填入圆圈，然后填入正方形，最后在将谜题交给孩子之前删除一些数字。\n"
+"\n"
+"除了练习乘法之外，这些谜题还可以用来练习公因数相关的运算。在第一个谜题中，除 1 之外，唯一能同时除 14 和 21 的数字是 7，因此它是底部圆圈中的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "计算相邻数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**准备工作:** 使用三个骰子和一个标有1到 64的8 x 8数字棋盘。\n"
+"\n"
+"**游戏规则:** 玩家掷骰子，并使用加、减、乘、除运算得到棋盘上任何未标记的数字。 玩家标记该方格，并获得该方格的分数 + 其周围每个已标记方格(包括斜角) 的分数。 如果玩家无法完成操作，任何可以完成操作的其他玩家都可以获得该分数。\n"
+"\n"
+"**获胜条件:** 进行五轮或更多轮游戏，得分最高者获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "游戏可以选择使用第四个骰子，也可以使用更小或更大的棋盘。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "制作平衡挂饰"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**准备工作:** 准备一些配重和一个带有若干个挂钩的平衡挂饰设计图。 挑战是在每个挂钩上最多放置一个配重，使平衡挂饰沿每个臂保持平衡。假设连接的线没有重量。 每个平衡挂饰的臂都是需要平衡的杠杆，因此这些谜题是本章之基础要求供的“杠杆平衡”谜题的延伸——在开始解答这些谜题之前练习那些谜题。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**简单示例:** 从最简单的平衡挂饰开始，它们就像悬空的杠杆。 以下是如何在这个平衡挂饰上放置 1 到 4 的配重使其平衡。 这是可行的，因为 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2。\n"
+"\n"
+"**更复杂的示例:** 使用下方配重的总和来平衡顶部金属丝的两侧 (1 + 3) x 3 = (4 + 2) x 2。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "有关更多示例和平衡挂饰的更深入讨论，请参阅第五章拓展材料。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "故障计算器"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "加、减、乘"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**准备工作:** 假设你有一个坏了的计算器，你面临着在计算器上算出某个结果的挑战。 这是一个随时可以进行的口头游戏。 以下是一些入门示例。\n"
+"\n"
+"**示例:** 假设你的计算器只有加 (+)、减 (-)、乘 (x) 和除 (÷) 功能，但只有一个数字键 4 可以使用。你能算出 21 吗？ 如果可以，你需要最少的步骤是几步？假设你最多只能使用数字 4 四次，你能算出哪些数字。假设你必须使用数字 4 恰好四次又会有什么结果？尝试使用其他单个数字键并算出其他结果。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**示例:** 假设你的计算器只能加 4 或 7。你能算出哪些数字？\n"
+"\n"
+"**示例:**假设计算器只有 4 或 7，但现在它可以加减。你还能算出哪些数字？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"这些练习与我们之前在其他场景中看到的 (例如天平秤) 是一样的。\n"
+"\n"
+"假设你只有一个 1 键，只能加或翻倍。 例如，2 x (2 x 1) + 1 是 5。 你还能创造哪些数字？\n"
+"\n"
+"**示例:** 一个有趣的挑战是“四个4”的挑战。 假设你有一个只有一个 4 键的计算器，所有运算符都可以使用。从 1 开始，如果你必须在计算器上使用四个 4，你可以创建多少个数字？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "抓因数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**准备工作:** 使用一个标有 1 到 24 的 4 x 6 数字方格的棋盘。\n"
+"\n"
+"**游戏规则:** 轮到玩家时，从没有被覆盖的数字中选择一个至少有一个未被覆盖的因数 - 玩家获得所选数字，另一位玩家可以获得任何或所有未被覆盖的因数 (可以自由选择数量)。轮流进行，直到没有可选择的数字为止。\n"
+"\n"
+"**获胜条件:** 玩家计算各自的数字总和，得分较高者获胜。\n"
+"\n"
+"**税收单人游戏:** 这也可以作为单人谜题玩，称为税收官。一个玩家选择每个数字，税收官得到所有可用的因数。继续玩，直到玩家没有合法的移动。此时，税收官得到剩余的数字。目标是尽可能大的总和——尽可能超过税收官。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "为玩家设置数字范围——可以是 1 到 12，也可以是 1 到 60。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "反弹台球"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "因数和倍数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "想象一个台球桌，每个角落都有一个球袋。 当球从台球桌的侧面反弹时，它会以与入射角相同的角度反弹出去。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"这次探索的问题是：如果我们以 45 度角从一个角落射出一个球，它最终会落在哪里？\n"
+"\n"
+"答案取决于台球桌的大小。下图展示了在 3 x 4 的台球桌上会发生什么。\n"
+"\n"
+"在玩过几种不同大小的台球桌后，挑战你的孩子提前预测新尺寸的答案。 从左下角开始，哪个角落将首先被击中，需要多少次反弹？"
 
 #. type=data_list
 msgctxt "data_list"
