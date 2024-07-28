@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-27 23:32\n"
+"PO-Revision-Date: 2024-07-28 00:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5454,8 +5454,121 @@ msgstr "乘法大战"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck and split it evenly between two players. To give more focused practice, remove the A’s and 10’s as well.\n"
+"\n"
+"**How to play:** Each player turns over two cards, multiplies them, and the player with the larger product wins those four cards. If the products are equal, two more cards are turned over and the winner gets to keep all eight cards.\n"
+"\n"
+"**How to win:** The player with the most cards after playing for a set time is the winner."
+msgstr ""
+"**准备工作:** 取一副扑克牌，去除所有花牌后将剩下的数字牌平均分给两个玩家。 为了更加专注地练习乘法，也可以去除 A 和 10。\n"
+"\n"
+"**游戏规则:** 每位玩家翻开两张牌，计算它们的乘积。 乘积较大的玩家赢得那四张牌。如果两个玩家的乘积相同，则双方再翻开两张牌，乘积较大的玩家赢得所有八张牌。\n"
+"\n"
+"**获胜条件:** 在规定时间内，拥有最多牌的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TURNING THE TABLES"
+msgstr "颠倒乘法表"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Multiplying and Tables"
 msgstr "乘法和乘法表"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Filling in a standard multiplication table is boring, and children quickly realize they can fill it using repeated addition rather than multiplication. To really practice multiplication, as well as practicing problem solving and factoring, create a mixed-up multiplication table.\n"
+"\n"
+"**How to create:** Make these tables by moving the rows and columns around, and then leaving out most of the headings and entries in the middle.\n"
+"\n"
+"**Example:** Here is an example using headings of 2 through 9:"
+msgstr ""
+"直接填写标准乘法表可能会让孩子感到枯燥，他们很快就会发现可以使用重复加法而不是乘法来完成填空。 为了真正练习乘法，以及练习解决问题和因式分解，可以创建一个混乱的乘法表。\n"
+"\n"
+"**创建方法:** 制作这些表格的方法是将行和列上下移动，然后去掉中间的大部分标题和数字。\n"
+"\n"
+"**示例:** 以下是一个使用 2 到 9 的标题的例子："
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to solve:** Start with the distinctive entries.\n"
+"\n"
+"The 20 forces its row to be multiplying by 4, and then the 36 makes its column be 9.\n"
+"\n"
+"The 49 forces its column and row to be multiplying by 7. The 9 forces its column and row to be multiplying by 3."
+msgstr ""
+"**解决方法:** 从独特的数字开始推理。\n"
+"\n"
+"20 意味着它所在的行是由 4 乘出来的，而36所在的列是由 9 乘出来的。\n"
+"\n"
+"49 意味着它所在的列和行是由 7 乘出来的。9 意味着它所在的列和行是由 3 乘出来的。\n"
+"\t\t"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue the detective work in this way and fill in the entries as the headings are discovered."
+msgstr "继续以这种方式推理，随着标题的确定，逐步填空表格。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Level of difficulty:** Increase or decrease the difficulty by leaving out more or less of the numbers. In this example, the '5' in the 5 column could have been left out – there must be a factor of 5 in 20, and that factor cannot come from 20's row because there is a 36 in that row.\n"
+"\n"
+"**Your child can make them:** Challenge your child to make one of these puzzles for you. A lot of good thought can go into creating one of these!"
+msgstr ""
+"**难度等级:** 通过省略更多或更少的数字来增加或降低难度。 在这个例子中，5 列中的 “5” 可以省略 - 20 中必须包含 5 的因数，而这个因数不可能来自 20 所在的行，因为该行中有 36。\n"
+"\n"
+"**让孩子自己制作:** 让孩子为你制作这样一个谜题吧！ 制作谜题需要思考很多。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "RECTANGLE AREA"
+msgstr "矩形面积"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The area of a rectangle is its length times its width. That dry statement can be made tangible to your child in at least two ways."
+msgstr "矩形的面积等于它的长乘宽。这个枯燥的陈述可以通过至少两种方式让孩子更容易理解。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The first way uses rectangles broken into an array of squares. The second uses number shapes to see how a quantity, such as 12, can be placed into an array – 3 by 4, 2 by 6, or 1 by 12. Playing with rectangle areas gives us an arena to play around with multiplication and factoring!"
+msgstr "第一种方法是将矩形分解成由许多正方形组成的网格。第二种方法是使用数字图形来观察如何将某个数量 (例如 12) 放置在一个阵列中 - 例如 3 x 4、2 x 6 或 1 x 12。以矩形面积做游戏能帮助我们练习乘法和因式分解！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES REVISITED"
+msgstr "重温数字形状"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area"
+msgstr "矩形面积"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a large collection of small objects, such as raisins. For each number, investigate which rectangles and other shapes you can make with that many objects.\n"
+"\n"
+"**Rectangles:** The sides of rectangles are values that evenly divide the number and multiply together to give the number. Making rectangles is a direct way to experience divisibility."
+msgstr ""
+"从大量小物体（例如葡萄干）开始。对于每个数字，探索可以用这些物体制作什么样的矩形或者其他形状。\n"
+"\n"
+"**矩形:** 矩形的边长是可以整除该数字并且互相乘积等于该数字的值。 制作矩形是直接体验可整除性的方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Unit, prime, composite:** 1 is a unit, and can only be made with a 1 by 1 rectangle. The numbers, such as 5, that only have flat rectangles, are called primes. Numbers that are not a unit or a prime are called composite because they are composed of primes being multiplied together, such as 12 = 2 × 2 × 3. Numbers, such as 9, are called squares because one of their rectangles is a square – one rectangle for 9 is the 3 by 3 square."
+msgstr "**单位数、质数、合数:** 1 是单位数，只能用 1 x 1 的正方形表示。 5 这样的只能用扁平矩形表示的数字称为质数。不是单位数或质数的数字称为合数，因为它们是由质数相乘而成，例如 12 = 2 x 2 x 3。9 这样的数字称为平方数，因为它们的一个矩形是正方形——面积为9 的一个矩形是 3 x 3 的正方形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Trapezoidal numbers:** There are other shapes that are fun to investigate. For example, which numbers are trapezoidal? These are the numbers that can be represented as stair steps (where each level changes its length by 1)? If you include triangular numbers in this group, the answer is surprising – it is all numbers that are not a power of 2!"
+msgstr "**梯形数:** 还有其他有趣的形状可以探索。例如，哪些数字是梯形数？这些数字可以表示成楼梯状（即每一层长度变化 1）吗？如果将三角形数包含在此组中，答案会令人惊讶——它是不等于 2 的幂的所有数！"
 
 #. type=data_list
 msgctxt "data_list"
