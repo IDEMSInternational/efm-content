@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-28 02:54\n"
+"PO-Revision-Date: 2024-07-28 04:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6207,6 +6207,51 @@ msgstr ""
 "答案取决于台球桌的大小。下图展示了在 3 x 4 的台球桌上会发生什么。\n"
 "\n"
 "在玩过几种不同大小的台球桌后，挑战你的孩子提前预测新尺寸的答案。 从左下角开始，哪个角落将首先被击中，需要多少次反弹？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "双倍惊喜"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**准备工作:** 玩家们先各自选取 5 个不同的数字，范围大于 20 且小于 121。 所有人选择完成后，将数字写在所有玩家都能看到的地方。\n"
+"\n"
+"**游戏规则:** 使用数字卡片或其他工具生成 1 到 20 的随机数。 这个数字会一直翻倍，直到某个玩家的数字首次被命中，或者这个数字变为大于 120。\n"
+"\n"
+"**获胜条件:** 首位五个数字都被命中的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "选数策略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "选择诸如 46 之类的数字并不是一个好策略，因为 46 不是2的幂乘以1到20之间的某个数字 - 它永远不会被命中。一些有许多 2 的因子的数字，例如 32，更容易被命中，因为更多的起始数字可以到达它们。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "每次可以将数字乘以 3 而不是翻倍。 每次可以翻倍并加 1。 对于年龄较小的玩家，可以选择范围大于 10 且小于 60 的数字，并从 1 到 10 生成随机数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "因子之战"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "因数个数"
 
 #. type=data_list
 msgctxt "data_list"
