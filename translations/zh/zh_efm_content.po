@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-28 00:34\n"
+"PO-Revision-Date: 2024-07-28 01:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5569,6 +5569,77 @@ msgstr "**单位数、质数、合数:** 1 是单位数，只能用 1 x 1 的正
 msgctxt "data_list"
 msgid "**Trapezoidal numbers:** There are other shapes that are fun to investigate. For example, which numbers are trapezoidal? These are the numbers that can be represented as stair steps (where each level changes its length by 1)? If you include triangular numbers in this group, the answer is surprising – it is all numbers that are not a power of 2!"
 msgstr "**梯形数:** 还有其他有趣的形状可以探索。例如，哪些数字是梯形数？这些数字可以表示成楼梯状（即每一层长度变化 1）吗？如果将三角形数包含在此组中，答案会令人惊讶——它是不等于 2 的幂的所有数！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PADDOCK GAME"
+msgstr "围栏游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player gets a piece of graph paper.\n"
+"\n"
+"**How to play:** For a player’s turn, use two playing cards from 1 to 10 to determine the dimensions of a rectangle. If a player’s paper has room, the rectangle may be placed anywhere its interior does not overlap with an existing rectangle. Once placed, its interior is lightly shaded and its area and dimensions are written on it. If there is no room, the turn is skipped.\n"
+"\n"
+"**How to win:** The player with the largest total wins."
+msgstr ""
+"**准备工作:** 每位玩家都需要一张方格纸。\n"
+"\n"
+"**游戏规则:** 玩家轮流使用两张 1 到 10 区间内的数字卡片来确定矩形的长和宽。如果玩家的纸张空间足够，可以将矩形放置在任何内部不与现有矩形重叠的位置。放置完成后，将内部涂上阴影并写上其面积和尺寸。如果没有位置放置矩形，则该玩家跳过此轮。\n"
+"\n"
+"**获胜条件:** 总面积最大的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For a normal piece of graph paper, this can be a long game – reduce the time by using half the paper or limiting the number of turns."
+msgstr "对于普通方格纸来说，这可能是一个很耗时的游戏。可以通过使用一半的纸张或限制回合数来缩短游戏时间。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIVIDE UP THE BOX"
+msgstr "分割盒子"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area Games"
+msgstr "矩形面积游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** A rectangle, 4 by 4 or larger, with numbers in some of its squares, is to be divided into smaller rectangles. Each number must end up in a separate rectangle whose area is that number."
+msgstr "**挑战:** 将一个 4 x 4 或更大的矩形（其某些正方形内包含数字）分成更小的矩形。每个数字必须单独放置在一个区域等于该数字的矩形中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Out of the sight of your child, create these puzzles by first filling in the big rectangle with smaller rectangles. Next, place the area in each rectangle. Lastly, give your child the big rectangle with only the numbers."
+msgstr "**制作步骤:** 在孩子看不到的情况下，先用较小的矩形填满大矩形来设置这些谜题。然后将每个矩形的面积写在其内部。最后，只给孩子包含数字的大矩形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving strategies"
+msgstr "解题策略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To solve these puzzles, look first at areas that are prime numbers – their shapes are tightly constrained.\n"
+"\n"
+"Next, consider regions that are boxed in. In this puzzle the upper “4” must relate to the upper left 2 by 2 square. Also, the upper right corner must be used in a vertical 3 by 1 rectangle."
+msgstr ""
+"解这些谜题时，首先观察质数的面积。它们形状的限制比较多。\n"
+"\n"
+"接下来，考虑被包围的区域。在这个谜题中，上面的“4” 必须与左上方的 2 x 2 正方形相关。此外，右上角必须用于一个垂直的 3 x 1 矩形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A DEFINITION AND A RULE"
+msgstr "定义与规则"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "感受幂"
 
 #. type=data_list
 msgctxt "data_list"
