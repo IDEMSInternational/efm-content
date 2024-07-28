@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-28 04:13\n"
+"PO-Revision-Date: 2024-07-28 05:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6252,6 +6252,124 @@ msgstr "因子之战"
 msgctxt "data_list"
 msgid "Factors Count"
 msgstr "因数个数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**准备工作:** 准备两组卡片，例如 1 到 25。\n"
+"\n"
+"**游戏规则:** 使用这些卡片玩标准的“战争”游戏，但现在获胜者是拥有更多因子的卡片。 例如，12比16大，因为12有6个因子 (1、2、3、4、6和12)，而16有5个因子 (1、2、4、8和16)。获胜卡的持有者必须能够正确列出其因子才能赢得卡片 - 否则，卡片将被洗回每个玩家的抽牌堆。 与标准的“战争”游戏一样，当出现平局时，翻开下一张卡，获胜者获得所有卡。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "也可以玩“较少的因子获胜”的游戏。 只计算素因数的总数，而不是所有因数。 可以玩“素数幂 (质数的幂次方) 击败其他数字”的游戏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "穿越火山"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**准备工作:** 使用一份 100 以内的数字表格，将四个边缘的36个正方形涂成灰色。使用去掉了人头牌的扑克牌，或者使用 1 到 10 的数字卡片。\n"
+"\n"
+"**游戏规则:** 轮到玩家时，如果抽到 1，则可以选择任何奇数； 如果抽到其他任何数字，则可以选择它的任何倍数。 如果玩家说了一个数字，则对手就不能说该数字。目标是在表格的任何一条边缘创建一个通向另一条边缘的路径。 玩家不必按照路径的顺序来构建正方形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "您可以设定斜线连接是否被允许。另一种选择是加入人头牌 - 如果抽到人头牌，则可以放置一个阻挡格，该格子不能包含在任何玩家的路径中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "跳棋数学游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "乘法棋盘游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**准备工作:** 这个游戏从跳棋中汲取灵感。每个玩家有 10 个棋子。棋子编号为 1 到 10，其中“10”号棋子标有10和11。棋子最初放置在100以内数字表格的末行上。 一个玩家放在 1 到 10 的正方形上，另一个放在 91 到 100 的正方形上。\n"
+"\n"
+"**游戏规则:** 最初，棋子只能根据所选标记上的数字 (或数字) 的任何倍数向前移动一行——对于从1到10开始的玩家，向前意味着更大的数字，对于从91 到 100 开始的玩家，向前意味着更小的数字。一旦棋子穿过整个棋盘，它就变成“王”，然后可以向前或向后移动一行。 通过落在对手的棋子上可以吃掉对方的棋子。玩家的棋子不能与相同玩家的其他棋子重复放置。\n"
+"\n"
+"**获胜条件:** 吃掉所有对手的棋子即可获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "其他玩法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "对于年龄较小的玩家，可以将棋盘缩短到前 6 行 - 1 到 60 的数字。还不熟悉所有倍数的孩子可以使用顺数来计算移动。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "乘法宾果"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**准备工作:** 每个玩家开始时拥有一个 4 x 4 的表格，表格中填入可能的乘积数字。这些数字可以随机分配，也可以由玩家仔细选择。\n"
+"\n"
+"**游戏规则:** 首先，发两张牌并朝上放置在桌面上。 如果任何玩家拥有这两个数字的乘积，他们就可以用标记盖住它。从那时起，玩家轮流从牌堆顶部取牌，并选择替换两张牌中的哪一张。 所有拥有匹配乘积的玩家都可以用标记盖住它。\n"
+"\n"
+"**获胜条件:** 最先得到 4 个相连的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "互乘谜题"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "有趣的乘积"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"这种乘法谜题可以是 3 x 3 的，包含 1 到 6 的每个数字恰好一次，也可以是 4 x 4 的，包含 1 到 8 的每个数字恰好一次。\n"
+"\n"
+"**挑战:** 填入一些空格，每行和每列填入两个数字，使一行中数字的乘积等于最左边标注的数字，并且一列中数字的乘积等于列顶端标注的数字。 某些行或列可能没有标注 - 如果是这样，则这些行或列的乘积没有任何限制。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**解答示例:** 通过找到可以确定两个数字的行和列来解决这个谜题。30列必须有 5 和 6，10行必须有 2 和 5。接下来，12 列必须有 3 和 4，4 行必须有 1 和 4。其他部分很容易完成。"
 
 #. type=data_list
 msgctxt "data_list"
