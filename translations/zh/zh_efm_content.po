@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-29 13:59\n"
+"PO-Revision-Date: 2024-07-29 19:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7174,6 +7174,87 @@ msgstr ""
 "* 蚂蚁、猪、蜘蛛、草蜢－猪是唯一一只不属于昆虫的动物。\n"
 "\n"
 "您也可以使用图片代替文字来进行这个游戏。您平时可以养成从广告、杂志或者其他地方剪裁图片的习惯，以便您使用这些图片来玩这项游戏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "跳岛-计数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "这些题目中标有编号的岛屿（圆）由桥梁（线）连接。玩家需要解决的问题是要找到一条路径按照顺序连接起各个岛屿。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest versions have all the numbers filled in and the numbers go from 1 to the number of islands. You can vary this activity by starting at some number other than 1 and by leaving out some of the numbers.\n"
+"\n"
+"Puzzles with all the numbers are straightforward once your child is confident with counting. Those beginning puzzles are good counting practice and are also good for building up confidence in puzzle solving. The more challenging puzzles are the ones with numbers left out.\n"
+"\n"
+"Ease your child into these harder puzzles by leaving out just a few numbers and slowly move to leaving out more."
+msgstr ""
+"在最简单的版本中，从1到7所有的数字都已经填好。您可以通过从1以外的其他数字开始并省略一些数字来对这个游戏稍作改变。\n"
+"\n"
+"一旦您的孩子对计数建立起了信心，那些填满了数字的版本都会显得很简单。从这些简单的题目开始练习是个好策略，因为有助于建立解决游戏的信心。相对而言，更具挑战性的是那些省略了部分数字的题目。\n"
+"\n"
+"一开始只需省略几个数字，然后慢慢省略更多数字，这样就可以让您的孩子循序渐进地解决这些游戏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The first of these two puzzles has every other number left out. This makes it relatively easy to fill in the missing numbers. 1 must attach to 0 and 2, and there is only one place for that. 3 must attach to 2 and 4, and with 1 filled in there is only one remaining place for the 3. 5 must go in the remaining place between 4 and 6.\n"
+"\n"
+"The second puzzle is a little bit harder. 3 must attach to 2 and 4, so there is only one place for it. 5 must attach to 4, so there is only one place for it now. 6 must attach to the 5. Finally, 0 must go in the remaining spot."
+msgstr ""
+"这两个游戏中的相邻的数字被省略掉了，这个填写起来相对容易。 1必然与0和2相邻，然而这样的位置只有一个。 3旁边是2和4，并且1填上后只有一个位置满足填3的要求。 5肯定是在4和6之间。\n"
+"\n"
+"第二个题目相对来说要难一些。 3必须与2和4相邻，因此只有一个位置可选。 5必须紧挨着4，所以现在只有一个地方。 6必须靠着5。最后，剩下的位置一定是0。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
+msgstr "为了使这道题变得更加困难，我们可以删除1以及一些桥。您可以尝试各种变化，也可以让您的孩子参与到设计之中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "剪纸"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "通过对一张纸折叠并剪裁来进行设计，这就叫做剪纸艺术。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Fold"
+msgstr "对折"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "将纸张对折一次，然后将其裁切，即可创建出新的图案，并且其中一侧与另一侧镜像对称。尝试切出脸孔、灯或几何形状。以下两个例子是一颗星星和一棵树，其中左边是对折时，右边是展开后的图案。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Folds"
+msgstr "两次对折"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "对折纸张一次，然后在垂直方向再对折一次，展开后的将会是两组镜像对称的图形。通过这个方法您可以制作出花朵等形状。以下的图形中，左图是折叠了两次之后剪裁出的形状，右图是展开后纸张的形状。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three Folds"
+msgstr "三折"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "这是六边雪花的制作流程。虽然乍一看步骤不少，但请不要被吓到。其实您只需稍加练习，就熟能生巧。"
 
 #. type=data_list
 msgctxt "data_list"
