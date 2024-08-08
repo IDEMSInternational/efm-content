@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-08 13:18\n"
+"PO-Revision-Date: 2024-08-08 23:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5981,6 +5981,62 @@ msgstr ""
 msgctxt "data_list"
 msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
 msgstr "قم بتغيير حجم الكومة لتتوافق مع مجموعة الأرقام التي يقوم طفلك باستيعابها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE MORE ONE LESS"
+msgstr "واحد أكثر واحد أقل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
+msgstr "مع نمو فهم الأرقام القليلة الأولى، اطرح على طفلك أسئلة حول ”رقم إضافي“ أو ”رقم أقل“. على سبيل المثال، دون التحدث عن عدد الأشياء الموجودة حاليًا، اسأل ”هل تريد شيئاً إضافيًا؟“ أو ”هل تريد واحدًا أقل؟“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n"
+"\n"
+"**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
+msgstr ""
+"**الكمية والتغيير:** ابدأ ببطء في التأكيد على الكمية الحالية وكيفية تغيرها. احسب عدد العناصر معًا، ربما شريحتي تفاح في طبق. لخص الأمر بالقول إن هناك شريحتي تفاح، واسأل طفلك عما إذا كان يرغب في شريحة تفاح واحدة إضافية أو ربما شريحة أقل. إذا تغير العدد، فانتهي بالسؤال عن عدد شرائح التفاح الموجودة الآن.\n"
+"\n"
+"**التجول:** وبالمثل، عندما تتجول، اختر أشياء لعدها. افترض أن هناك ثلاثة أشخاص في طابور أمامك. احسبهم معًا واسأل عن عددهم عندما يغادر أحدهم وسيكون هناك واحد أقل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Foundations"
+msgstr "الأساسيات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding 'one more' and 'one less' helps deepen understanding of how numbers sequence, and it also is the foundational skill for beginning addition and subtraction."
+msgstr "يساعد فهم ”واحد أكثر“ و”واحد أقل“ في تعميق فهم كيفية تسلسل الأرقام، كما أنه المهارة الأساسية لبدء عمليات الجمع والطرح."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "IN THE OTHER HAND"
+msgstr "في اليد الاخرى"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a bowl of small pieces of food."
+msgstr "**الإعداد:** ابدأ بوعاء به قطع صغيرة من الطعام."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand."
+msgstr "**كيف تلعب:** اطلب من طفلك أن يعد بصوت عالٍ بعض الأشياء في الوعاء، على سبيل المثال ٥، ويعطيها لك. قم بتقسيم هذه الأشياء سرًا بين يديك ثم ارفع كلتا يديك للخارج مع فتح يد واحدة والأخرى مغلقة. يقوم طفلك الآن بعدّ الأشياء الموجودة في اليد المفتوحة بصوت عالٍ ثم يختار اليد التي ”يأخد“ منها. اطلب من طفلك أن يتنبأ بعدد الأشياء التي سيتم أخذها قبل أن تفتح يدك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
+msgstr "**كيف تفوز:** تصبح الأشياء المأخوذة جزءًا من كومة طفلك، وتحتفظ أنت بالأشياء المتبقية. تستمر اللعبة لعدد الجولات المطلوبة حتى يفرغ الوعاء. في النهاية، يقوم كل منكما بترتيب الأشياء الخاصة به بجانب الآخر لمعرفة من لديه المزيد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Materials"
+msgstr "المواد"
 
 #. type=data_list
 msgctxt "data_list"
