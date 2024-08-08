@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-06 14:30\n"
+"PO-Revision-Date: 2024-08-08 00:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5082,6 +5082,574 @@ msgstr "有些人用顏色首字母組成的虛構的名字來記住彩虹的七
 msgctxt "data_list"
 msgid "Brown is not one of the main colors of the rainbow. Are there other colors you know that are not one of the seven?"
 msgstr "褐色不是彩虹的主要顏色之一。你知道其他不是七種顏色之一的顏色嗎？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is going to drink water."
+msgstr "一头大象要喝水。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the elephants, the tusks, the feet, the eyes, and the tails."
+msgstr "数一数大象、象牙、象脚、眼睛和尾巴。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which items are there the most of and which are there the least of?"
+msgstr "哪些最多，哪些最少？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think the elephant is about to do?"
+msgstr "你觉得大象打算做什么？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are going to drink water."
+msgstr "两头长颈鹿要喝水。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each giraffe has four feet. Count the number of giraffes and the number of feet."
+msgstr "每头长颈鹿有四只脚。数一数有几头长颈鹿、有几只脚。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The giraffes are very tall. They must bend way down to get to the water."
+msgstr "长颈鹿很高。它们必须弯下腰才能喝到水。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are one more animal than one elephant. What is one more animal than two animals?"
+msgstr "两头长颈鹿比一头大象多一只动物。比两只动物多一只动物是多少?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes and four birds are also going to drink water."
+msgstr "三头水牛和四只飞鸟也要去喝水。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buffaloes, the birds, the horns, and the tails."
+msgstr "数一数水牛、飞鸟、牛角和尾巴。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When there is one source of water, all the thirsty animals come to that one place. If a lion wants to hunt animals, this is a good place to find them!"
+msgstr "如果只有一个水源，所有口渴的动物都会来到这里。如果狮子想捕猎，这是个好地方！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes is one less animal than four animals. What is one less animal than three animals?"
+msgstr "三头水牛比四只动物少一只动物。比三只动物多一只动物是多少?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Five antelopes and six warthogs are walking to the water."
+msgstr "五只羚羊和六头疣猪正在向水边走去。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the antelopes and the warthogs. How many of the warthogs are babies?"
+msgstr "数一数羚羊和疣猪。有几头疣猪是小猪？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the antelopes are looking around rather than looking at each other. The pack stays safe by having some of them looking for danger!"
+msgstr "有些羚羊没有互相看, 而是在环顾四周。有羚羊注意危险, 羊群就能保持安全。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of antelopes and warthogs, which are there more of and which are there less of?"
+msgstr "羚羊和疣猪，哪个多，哪个少？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Seven zebras are running to the water."
+msgstr "七匹斑马跑向水边。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the zebras and the trees."
+msgstr "数一数斑马和树木。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that the zebras have been running? They must be very thirsty to be running to the water!"
+msgstr "你怎么知道斑马一直在奔跑？它们一定很渴才会跑到水边去！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try counting the black stripes on some of the zebras. Do some zebras have more stripes than others?"
+msgstr "试着数一下斑马身上的黑色条纹。有没有斑马条纹比其他斑马的多？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eight frogs and nine fish are swimming in the water."
+msgstr "八只青蛙和九条鱼在水里游泳。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the frogs and the fish. Can you count that high?"
+msgstr "数一数青蛙和鱼一共有几只。 你能数到那么高吗？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are packed very tightly together. Do you think they feel crowded or do they like having the company?"
+msgstr "它们紧紧地挤在一起。你觉得他们感到拥挤还是喜欢有同类陪伴？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is one more than eight frogs? What is one less than nine fish?"
+msgstr "比八只青蛙多一只是多少？ 比九条鱼少一条是多少？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different kinds of animals can you count?"
+msgstr "你能数出几种不同的动物？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One lion roars. He also wants to drink. Who is afraid of the lion?"
+msgstr "一头狮子在咆哮。它也想喝水。 谁害怕这头狮子？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the lions, warthogs, birds, zebras, antelopes, giraffes, water buffaloes, and elephants. That's a lot of counting!"
+msgstr "数一数狮子、疣猪、飞鸟、斑马、羚羊、长颈鹿、水牛和大象一共有多少。 这可真不少啊！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most of the animals start to run away from the lion. Which animals will stay?"
+msgstr "大多数动物开始从狮子逃跑。哪些动物会留下来？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is drinking water with the lion."
+msgstr "一头大象和狮子一起喝水。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The elephant, birds, fish, and frogs did not run away."
+msgstr "大象、鸟、鱼和青蛙都没有逃跑"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you run away from a lion?"
+msgstr "你会从狮子逃跑吗？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would it be fun to go for a swim in this watering hole?"
+msgstr "在这个水塘里游泳会很有趣吗？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Izinzawu family was a happy family. The children learned cooking, gardening, and hunting from their parents."
+msgstr "伊津扎烏家庭是一個幸福的家庭。孩子們從父母那裡學到了烹飪，園藝和狩獵。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do plants need watering?"
+msgstr "為什麼植物需要澆水？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name the colors in this picture."
+msgstr "指出這張圖片中的顏色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the green colors in this picture similar and how are they different?"
+msgstr "這張圖片中的綠色有何相似之處，又有何不同之處？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At dinner time every day, they talked about what they had done that day."
+msgstr "每天晚餐時，他們都會談論一天做了什麼。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. The tablecloth has a checkerboard design with lots of squares. Find some squares in a pattern where you are."
+msgstr "正方形是一個像這一頁一樣有四條相等邊的形狀。桌布上有一個棋盤設計，有很多正方形。找到你所在地中的一些正方形的圖案。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name the shapes you see in this picture."
+msgstr "說出你在這張圖片中看到的形狀。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This family talks about their day at dinner. What do you talk about when you eat dinner?"
+msgstr "這個家庭在晚餐時談論他們的一天。在吃晚餐時，你會談論什麼？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father usually warned the children not to go deep into the forest. He told the family about a strange creature that lived in the forest. \"This creature is like two of us put together!\""
+msgstr "父親通常警告孩子們不要深入森林。他告訴家人有一個在森林裡生活的奇怪生物。「這個生物就像我們兩個加在一起一樣！」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe what you think the father's \"strange creature\" might look like."
+msgstr "描述一下你認為父親的「奇怪生物」可能是什麼樣子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the different patterns you see in this picture?"
+msgstr "在這張圖片中，你看到了哪些不同的圖案？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the bowls on this page different from the bowls on the last page?"
+msgstr "這頁上的碗與上一頁的碗有何不同？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, the girls were playing at the river. Suddenly, from behind a tree, there was a strange creature! The creature had two eyes, two ears, two arms, and two legs."
+msgstr "一天，女孩們在河邊玩耍。突然，從樹後面出現了一個奇怪的生物！這個生物有兩隻眼睛，兩隻耳朵，兩隻手臂和兩條腿。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the \"strange creature\" look like what you imagined?"
+msgstr "這個「奇怪的生物」看起來像你想像的嗎？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the number of children in this picture."
+msgstr "指著並數一數這張圖片中的孩子數量。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shaking with fear, they ran to tell their brothers about what they had seen. But the boys didn't believe them. \"The girls are being silly!\" they said."
+msgstr "他們嚇得發抖，跑去告訴他們的兄弟姐妹他們看到了什麼。但男孩們不相信他們。「女孩們在胡鬧！」他們說。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four children and four heads. How many legs do you see? How many arms do you see? Is that surprising?"
+msgstr "這張圖片上有四個孩子和四個頭。你看到了多少條腿？你看到了多少只手臂？這讓你感到驚訝嗎？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more girls or boys in this picture?"
+msgstr "在這張圖片中，女孩還是男孩更多？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their mouths and eyebrows. What do their faces tell you about what these children are thinking and feeling?"
+msgstr "看著他們的嘴巴和眉毛。他們的臉怎麼告訴你這些孩子在想什麼？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eventually, curiosity got the better of the boys. They followed the girls to the river to see this strange creature for themselves."
+msgstr "最終，好奇心戰勝了男孩們。他們跟著女孩們去河邊看這個奇怪的生物。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from their size in the picture that the girls are far away and the boys are nearby?"
+msgstr "你如何從圖片中的大小看出女孩們離得很遠，而男孩們在附近？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the girls far away behind some bushes?"
+msgstr "孩們離得很遠，而男孩們在附近？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The grass, bushes, and trees are different shades of green. Are there different shades of some color where you are?"
+msgstr "草地，灌木和樹都是不同深淺的綠色。在你所在的地方有不同深淺的顏色嗎？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They searched and searched, but all they could see was the tall grass and trees.\n"
+"\n"
+"Suddenly, they heard a noise, and looked up."
+msgstr "他們搜索了很久，但他們所能看到的只有高高的草和樹木。突然，他們聽到一種聲音，然後抬頭一看。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think made that noise above them?"
+msgstr "你認為在他們上方發出那種聲音的是什麼？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of things make noises above our heads?"
+msgstr "在我們頭上發出聲音的是什麼類型的東西？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That is really tall grass! What part of their bodies does the grass reach up to?"
+msgstr "那是真的很高的草！草長到和他們身體的哪個部位一樣高？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Up on a tree swung the strangest creature they had ever seen. It had two arms, two hands, two legs and two feet. Instead of one each, like them."
+msgstr "在一棵樹上擺動著他們曾經見過的最奇怪的生物。它有兩隻手臂、兩隻手、兩條腿和兩隻腳。而不是像他們一樣每個只有一隻。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many arms, legs, hands, and eyes does each member of the family have?"
+msgstr "家庭成員分別有多少只手臂，腿，手和眼睛？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you assume the unseen side of each family member had another arm, leg, hand, and eye, just like the side you could see?"
+msgstr "你是否假設每個家庭成員看不見的那一側有另一隻手臂、腿、手和眼睛，就像你能看到的那一側一樣？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you see only one side of something, it is easy to assume the other side looks the same -- that it is the mirror reflection of what you can see."
+msgstr "當你只看到某物的一側時，你是否會假設看不見的一側看起來一樣——就像你能看到的一側的鏡像？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The frightened children ran home to call their parents. Soon the whole family was at the river to see the creature."
+msgstr "受到驚嚇的孩子們跑回家告訴他們的父母。很快整個家庭都在河邊看這個生物。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of arms in this picture. If each person had two arms, how many arms would there be?"
+msgstr "數一數這張圖片中有多少只手臂。如果每個人都有兩隻手臂，那麼會有多少只手臂？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Arms and legs are called limbs. How many limbs does this family have?"
+msgstr "手臂和腿稱為肢體。這個家庭有多少肢體？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice that the grass was tall, but now it is short? Did someone cut the grass?"
+msgstr "你注意到草以前很高，但現在很短嗎？有人割了草嗎？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Don't hurt me! the creature said, as it hid behind the tree. Now the family could only see the creature's one foot, one leg, one hand, one arm and one eye."
+msgstr "「不要傷害我！」生物說，躲在樹後面。現在家庭只能看到這個生物的一隻腳、一條腿、一隻手、一隻胳膊和一隻眼睛。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature is hiding behind a tree. Where are some places you like to hide?"
+msgstr "生物躲在樹後。你喜歡躲藏的地方有哪些？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the creature is halfway behind the tree, it looks just like each of the family members. Why is that?"
+msgstr "當生物半個身子藏在樹後時，它看起來就像家庭成員中的每一個。為什麼會這樣？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature feels \"outnumbered.\" How many people are in the family and how many creatures are there? Which is more and which is less?"
+msgstr "生物感到數量上「被壓倒」。家庭中有多少人，有多少生物？哪個更多，哪個更少？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I am just like you, continued the creature. \"The only difference is that I was made with two of almost everything.\""
+msgstr "「我和你們一樣，」生物繼續說道。「唯一的區別就是我幾乎每個部分都有兩個。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which body parts do you have two of and which do you have one of?"
+msgstr "你有哪些身體部位有兩個，哪些只有一個？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For the body parts you have one of, are they on the sides or the middle line of your body?"
+msgstr "對於你只有一個的身體部位，它們是在你身體的兩側還是在中線上？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of someone you know. List three ways they are similar to you and three ways that they are different."
+msgstr "想想你認識的某個人。列出他們與你相似的三個方面和不同的三個方面。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So this was how the Izanzawu family discovered that it was not a creature to be scared of. It was simply a different form of them."
+msgstr "這就是伊贊扎烏家庭怎麼發現它不是一個應該害怕的生物的。他只是有一種與他們不同的姿態。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature has a striped shirt with two colors and everyone else's shirt has just one. Why did the writer do that?"
+msgstr "生物有一件有兩種顏色的條紋襯衫，而其他人的襯衫只有一種顏色。作者為什麼這樣做？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are six people in the Izanzawu family. When you add one more for the \"creature,\" how many people are there?"
+msgstr "伊贊扎烏家庭有六個人。加上一個「生物」，有多少人？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
+msgstr "如果你按身高順序排列這七個人，將最矮的放在左邊，最高的放在右邊，那麼排序會是什麼樣子？用他們衣服的顏色描述這個順序。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Everyone knows that the elephant has a very long nose."
+msgstr "人人都知道大象有一条非常长的鼻子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants live in many places in Africa and Asia. What are some things you know about elephants?"
+msgstr "大象生活在非洲和亚洲的许多地方。你对大象知道些什么吗？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen an elephant? If so, did it look like this?"
+msgstr "你见过大象吗？如果是，它看起来像这个吗？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two patches of hair on this elephant. Do elephants actually have hair like this?"
+msgstr "这头大象身上有两片头发。大象真的有这样的头发吗？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But a long time ago, the elephant's nose was short and fat. Like a shoe in the middle of its face."
+msgstr "但在很久以前，大象的鼻子又短又胖。像一只鞋子卡在它的脸中间。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants have 5 toes on each foot. How many toes in total? One way to figure this out is to skip count by 5's -- 5, 10, 15, 20."
+msgstr "大象每只脚有5个脚趾。总共有多少个脚趾？一种计算方法是间隔计数5 -- 5，10，15，20。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants have large ears and can hear sounds up to six miles away."
+msgstr "大象有大耳朵，可以听到6英里外的声音。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants also use their ears to keep cool."
+msgstr "大象也用耳朵来降温。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day a baby elephant was born. She was curious about everything. She had a question for every animal."
+msgstr "有一天一只好奇的小象出生了。她对所有的东西都很好奇。她对每只动物都有疑问。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even numbers are numbers that can be split evenly in two. Odd numbers can't. The elephant has 2 eyes, 2 ears, and four legs -- all even numbers."
+msgstr "偶数是可以平均分成两半的数字。奇数不能。大象有2只眼睛，2只耳朵和4条腿 -- 都是偶数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Find some things in this picture that there are an odd number of."
+msgstr "找出图片中数量为奇数的一些东西。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that all the body parts that there are an odd number of are in the middle of the elephant's body."
+msgstr "注意, 数量为奇数的所有身体部位都在大象身体的中间。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Giraffe. \"Why do you have a long neck?\" she asked."
+msgstr "她对长颈鹿很好奇。“你为什么有这么长的脖子？”她问道。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count the Giraffe's dark spots, or are there too many to count?"
+msgstr "你能数清长颈鹿身上的黑斑吗，还是太多了数不清？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No two giraffe's have the same pattern of dark spots!"
+msgstr "没有两头长颈鹿有相同的黑斑图案！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think it takes a giraffe a long time to swallow its food because it has such a long neck?"
+msgstr "你认为长颈鹿需要很长时间才能吞下食物，因为它的脖子那么长吗？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Rhino. \"Why does your horn have a sharp point?\""
+msgstr "她对犀牛很好奇。“你的角为什么那么尖？”她问道。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rhino can run about half as fast as a car on a highway."
+msgstr "犀牛能够以高速公路上汽车速度的一半快跑。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rhino can run three times faster than a person, so don't try to run away from one!"
+msgstr "犀牛可以比人跑得快3倍，所以不要试图跑掉！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The elephant was curious about the rhino. Are you? What would you like to ask the rhino?"
+msgstr "小象对犀牛很好奇。你也好奇吗？你想问犀牛什么"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Hippo. \"Why do you have red eyes?\" she asked."
+msgstr "她对河马很好奇。“你为什么长着红眼睛？”她问道。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hippos can fill up on grass and then not eat for three weeks! How many days is that? Hint: Skip count by 7's."
+msgstr "河马可以在饱草后再不吃其他东西3周！那是多少天？提示：用7来间隔计数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long can you go without eating?"
+msgstr "你可以多久不吃东西？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Every animal we've seen has a bit of hair at the end of its tail. They are all mammals, and mammals have hair! Even the bowhead whale has hair on its lips, chin, snout, and behind its blowhole."
+msgstr "我们见过的每种动物尾巴末端都有一点毛。它们都是哺乳动物，哺乳动物都有毛！即使是弓头鲸在嘴唇、下巴、鼻子和气囊后面也有毛！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And she was VERY curious about Crocodile. \"What does Crocodile eat for dinner?\" she asked."
+msgstr "她对鳄鱼非常好奇。“鳄鱼吃什么当晚餐？”她问道。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many teeth can you see? If it has the same number of teeth on the other side of its mouth, how many would that be all together?"
+msgstr "你能看到多少颗牙齿？如果另一边也有同样多的牙齿，加起来一共会是多少？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think is on his dinner plate under the cover?"
+msgstr "你认为他的晚餐盘子下面盖着什么？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which is more and which is less: Crocodile's teeth or the bumps on Crocodile's tail?"
+msgstr "鳄鱼的牙齿和鳄鱼尾巴上的凸起哪个更多哪个更少？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Never ask a question like that!\" said her mother. Then she walked off, frowning."
+msgstr "“千万不要问这样的问题！”她妈妈说。然后她走开了，皱着眉头。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many groups of things in this picture, such as groups of ears, eyes, and eyelashes. How many different groups can you find?"
+msgstr "图片中有许多物品的组，比如耳朵、眼睛和睫毛的组。你能找到多少不同的组？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the mother say not to ask such a question?"
+msgstr "妈妈为什么说不要问这样的问题？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the eyelashes on both elephants by skip counting by 3's. What would you skip count by to count their feet?"
+msgstr "通过间隔计数3来数两头大象的睫毛。你通过什么间隔计数来数它们的脚？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Quickly Crow flew down to baby elephant. \"Follow me to the river. There you will see what Crocodile eats for dinner,\" squawked Crow."
+msgstr "乌鸦飞快地飞向小象。“跟我到河边去。在那里你会看到鳄鱼吃什么当晚餐，”乌鸦嘎嘎叫着。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Crow wants to help, or is Crow going to play a trick on Baby Elephant?"
+msgstr "你认为乌鸦想提供帮助，还是会欺骗小象？"
 
 #. type=data_list
 msgctxt "data_list"
