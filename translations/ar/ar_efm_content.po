@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-09 02:05\n"
+"PO-Revision-Date: 2024-08-09 03:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6155,6 +6155,31 @@ msgstr ""
 "٣. في الأزواج (٤-٥ و٧-٨)، اقفز بكلتا القدمين.\n"
 "\n"
 "٤. عند الرقم ١٠، اقفز بكلتا القدمين، واستدر، واتجه عائدًا نحو البداية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. When you reach the marked square again, pick up the marker—on one foot!—and keep going.\n"
+"\n"
+"6. If you finished without any mistakes, pass the marker to the next player. On your next turn, throw the marker to the next number.\n"
+"\n"
+"7. If you fall, jump outside the lines, or miss a square or the marker, you lose your turn and must repeat the same number on your next turn. Whoever reaches 10 first, wins."
+msgstr ""
+"٥. عندما تصل إلى المربع المحدد مرة أخرى، التقط العلامة - على قدم واحدة! - واستمر.\n"
+"\n"
+"٦.إذا أنهيت دون أي أخطاء، مرر العلامة إلى اللاعب التالي. في دورك التالي، قم بإلقاء العلامة على الرقم التالي.\n"
+"\n"
+"٧. إذا سقطت أو قفزت خارج الخطوط أو أخطأت مربعًا أو علامة، فستخسر دورك ويجب عليك تكرار نفس الرقم في الدور التالي. من يصل إلى ١٠ أولاً، يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simpler variations"
+msgstr "إختلافات بسيطة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger children, relax many of the rules and replace hopping with stepping. Also, use a jumping pattern with fewer squares, perhaps as simple as having the numbers from1to5infivesquaresinarow."
+msgstr "بالنسبة للأطفال الأصغر سنًا، قم بتخفيف العديد من القواعد واستبدل القفز بالخطوات. استخدم أيضًا نمط قفز يحتوي على عدد أقل من المربعات، ربما يكون بسيطًا مثل وضع الأرقام من ١ إلى ٥ في خمسة مربعات على التوالي."
 
 #. type=data_list
 msgctxt "data_list"
