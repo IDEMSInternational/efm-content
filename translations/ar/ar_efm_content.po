@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-10 04:43\n"
+"PO-Revision-Date: 2024-08-10 18:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6888,6 +6888,21 @@ msgstr ""
 "خذ بطاقة من كومة السحب واعلن عنها. يحق لكل لاعب قلب بطاقة واحدة من مصفوقته تطابق الرقم المسحوب. إذا كان لدى اللاعب أكثر من بطاقة متطابقة، فيجب على اللاعب اختيار البطاقة التي يريد قلبها.\n"
 "\n"
 "**كيف تفوز:** أول لاعب يحصل على أربع أوراق مقلوبة على التوالي أفقيًا أو رأسيًا أو قطريًا يفوز باللعبة ويقول ”بينغو!“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 10"
+msgstr "الأرقام حتى الرقم ١٠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEALING BONES"
+msgstr "الاستحواذ علي الأحجار"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Domino Games"
+msgstr "ألعاب الدومينو"
 
 #. type=data_list
 msgctxt "data_list"
