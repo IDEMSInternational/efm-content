@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-10 19:54\n"
+"PO-Revision-Date: 2024-08-10 20:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7209,6 +7209,362 @@ msgstr "المنطق"
 msgctxt "data_list"
 msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
 msgstr "إحدى الطرق التي يمكن لطفلك أن يستوعب بها هذا الأمر هي ”العد“ من ٤ إلى ٦ - فبينما يعد طفلك ٤ و٥ و٦، ابدأ برفع يدك مقفولة الاصابع وارفع إصبعًا واحدًا في كل مرة للوصول إلى رفع إصبعين. وبالمثل، يمكن لطفلك أن يفعل نفس الشيء تقريبًا من خلال ”العد التنازلي“ من ٦ إلى ٤. إن رؤية أن ٤ زائد ٢ إضافيين يساوي ٦ مرتبطًا بطرح ٢ من ٦ للحصول على ٤، وهذا يعد تمرينًا رائعًا لفهم العلاقات بين الارقام."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "لعبة مطابقة مميزات الشكل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr "تتمتع بطاقات الشكل بثلاث خصائص: الشكل (الدائرة، المثلث، المربع)؛ العدد (واحد، اثنان، ثلاثة)؛اللون (أحمر، أزرق، أسود)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**الإعداد:** قم بتوزيع خمس بطاقات لكل لاعب. ضع البطاقات المتبقية مقلوبة في كومة سحب. اقلب البطاقة العلوية لكومة السحب بحيث يكون وجهها للأعلى لبدء كومة جديدة. يتناوب اللاعبون على وضع بطاقة في الكومة - يجب أن تتطابق البطاقة الجديدة مع ميزتين من ميزات البطاقة العلوية. إذا لم تتمكن من لعب بطاقة في دورك، فاسحب بطاقة من كومة السحب وأنهي دورك.\n"
+"\n"
+"**كيف تفوز:** أول شخص ينفد منه البطاقات هو الفائز. إذا نفدت كومة السحب، فإن اللاعب الذي لديه أقل عدد من البطاقات في يده هو الفائز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* قم بتبسيط اللعبة من خلال طلب مطابقة ميزة واحدة فقط مع البطاقة العلوية\n"
+"* يسمح للاعب بوضع أكثر من بطاقة واحدة في كل دور طالما أن كل بطاقة تعتبر لعبة مسموح بها فوق البطاقة السابقة.\n"
+"\t\t"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "لغز مطابقة المميزات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "اختر بطاقة شكل كبداية. في المثال الموضح، البطاقة ذات الدائرتين الزرقاوين. قم بإنشاء تسلسل من ٤ إلى ٨ بطاقات يمكن لعبها حسب قواعد اللعبة - يجب أن تشترك كل بطاقة في ميزتين مع البطاقة السابقة. خذ البطاقات المخلوطة وضعها في سلسلة من الحركات المسموح بها على بطاقة البداية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"ضع البطاقات غير المستخدمة جانبًا، وافصل بطاقة البداية، وقم بخلط بطاقات الألغاز.\n"
+"\n"
+"**التحدي:** خذ البطاقات المختلطة وضعها في سلسلة من الحركات المسموح بها على بطاقة البداية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "الثلاثي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"**الإعداد:** اصنع مصفوفة تيك تاك تو كبيرة بما يكفي لاستيعاب بطاقة الأشكال في كل مربع. ضع حول اللوحة ٨ بطاقات شكل تحتوي على بطاقتين من كل خاصية. على سبيل المثال، اختر البطاقات الثماني التي تكون إما مثلثة أو مربعة، وتحتوي على شكل أو شكلين، وتكون حمراء أو زرقاء.\n"
+"\n"
+"**كيف تلعب:** يتناوب اللاعبون في اختيار بطاقة غير مستخدمة ليضعها خصمهم على اللوحة. يمكن لأي من اللاعبين استخدام البطاقات الموجودة على اللوحة للحصول على ثلاث بطاقات في صف واحد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**كيف تفوز:** يفوز اللاعب الذي يضع بطاقة تكمل ٣ بطاقات متتالية تحتوي على خاصية مشتركة واحدة على الأقل! إذا تم لعب جميع البطاقات دون فائز، فستكون اللعبة تعادلية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "قم بتبسيط اللعبة وأضف عنصر الحظ عن طريق وضع البطاقات مقلوبة في كومة سحب وجعل كل لاعب يلعب البطاقة العلوية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "لعبة سودوكو الأشكال"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "العاب الأشكال"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**الإعداد:** استخدم أربعة رموز لكل من أربعة أنواع مختلفة. على سبيل المثال، استخدم دببة جيلاتينية بألوان مختلفة. لقد استخدمنا مثلثات برتقالية ومربعات زرقاء ودوائر حمراء وماسات أرجوانية.\n"
+"\n"
+"**كيفية الانشاء:** قم بإنشاء أحد هذه الألغاز من خلال البدء بالإجابة - سيكون هذا نمطًا من القطع مع قطعة من كل نوع في كل صف وعمود وقطعة من كل نوع في كل ركن ٢ × ٢ من المصفوفة. بمجرد حصولك على ”الإجابة“، اسحب بعض القطع المميزة وضعها في كومة على الجانب.\n"
+"\n"
+"**التحدي:** أعط اللغز لطفلك ليكتشف كيفية إعادة الرموز المميزة التي تم سحبها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "استراتيجيات إنشاء الألغاز"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "فيما يلي بعض الاستراتيجيات البسيطة لإنشاء الألغاز: قم بإزالة رمز واحد من كل صف؛ أو إزالة جميع رموز نوع واحد ورمز واحد من كل رمز آخر؛ أو قم بإزالة صف وعمود كاملين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "الأيدي السحرية - الجمع والطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "هذه خدعة سحرية لممارسة الجمع والطرح. افعل ذلك ببطء كافٍ حتى تتاح لطفلك فرصة رؤية ما يحدث."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**للجمع:** اختر رقمين مجموعهما يصل إلى ٥ أو أقل. احسب عدد الأصابع المرفوعة في يدك اليسرى، لنقل ٣. احسب عدد الأصابع المرفوعة في يدك اليمنى، لنقل ١. اجمع اليدين معًا، ثم انقل أصابع يدك اليمنى إلى اليسرى، ثم ارفع ٤ أصابع. يا له من سحر!\n"
+"\n"
+"لخص ذلك بالقول ”٣ أصابع بالإضافة إلى إصبع واحد آخر ينتج عنه ٤أصابع“. تادااااا!'\n"
+"\n"
+"**للطرح:** ارفع بعض أصابع يدك اليسرى، مثلاً ٤ منهم. اجعل يدك اليمنى تصل إلى الأعلى وتمسك ببعض الأصابع، على سبيل المثال، واحدًا منهم. ها هي ذي، سيكون هناك ٣ أصابع متبقية مرفوعة في اليد اليسرى واصبع ١ مرفوع في اليد اليمنى. لخص هذا القول بأن ٤ ناقص ١ يعطي ثلاثة، أو لنفترض أنك قسمت ٤ إلى قطعتين هما ٣ و١. تؤكد هذه الصياغة على مفهوم الروابط العددية، وهي أزواج من الأرقام التي تضيف ما يصل إلى إجمالي معين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "حالات خاصة مهمة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* الجمع: اجعل إحدى اليدين أو كلتيهما بها (٠) أصابع مرفوعة ولا تظهر أي تغيير عند إضافة (٠).\n"
+"* الطرح: اطرح جميع الأصابع حتى لا يتبقى منها شيء، وأحيانًا لا تطرح أيًا من الأصابع لإظهار عدم تغير أي شيء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "الأرقام السريعة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "رياضيات الأصابع للمبتدئين"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"ساعد طفلك على التعرف على أعداد الأشياء بسهولة وسرعة. الممارسة بطريقتين.\n"
+"\n"
+"**استخدم عشرة إطارات:** استخدم بطاقات الأرقام التي تحتوي على عشرة إطارات. اختر بطاقة بشكل عشوائي وانظر ما إذا كان طفلك يستطيع التعرف على الكمية. من أجل التنوع، اطلب من طفلك أن يقوم باختبارك أحيانًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**استخدام الأصابع:** أظهر بعض الأصابع على إحدى اليدين أو كلتيهما واطلب من طفلك التعرف على العدد الإجمالي. عند استخدام اليدين للأرقام التي تزيد عن خمسة، يجب أن تكون إحدى اليدين مرفوعة بخمسة أصابع - وبهذه الطريقة يبدو كأنه إطار من عشرة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "قطع الأشكال المتماثلة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions."
+msgstr "الكيريجامي هو فن إنشاء التصميمات عن طريق طي قطعة من الورق ثم قصها وهي مطوية. قد يكون هناك أكثر من طية واحدة، ويمكن أن تحدث الطيات في اتجاهات مختلفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other."
+msgstr "يؤدي طي الورقة مرة واحدة وقصها إلى إنشاء تصميم حيث يكون أحد الجانبين صورة معكوسة أو انعكاسًا للآخر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ideas to explore"
+msgstr "أفكار للإستكشاف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Experiment with cutting out faces, lamps, or geometric shapes.\n"
+"• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n"
+"• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape."
+msgstr ""
+"* قم بتجربة قطع الوجوه أو المصابيح أو الأشكال الهندسية.\n"
+"* استخدم طيتين متقاطعتين لإنشاء تصميمات ذات صور معكوسة في اتجاهين. وهذا يجعل من السهل إنشاء تصميمات مثل الزهور.\n"
+"* جرب طيات وقطعات مختلفة. قم بإنشاء تصميمات ندفة الثلج من خلال البدء بنفس الطيتين كما في المثال الأخير. ثم استخدم طيتين إضافيتين لتقسيم الورقة المطوية إلى ثلاثة أثلاث.\n"
+"* قم بتحويل هذا إلى لعبة من خلال العمل بشكل عكسي - ارسم شكلًا متماثلًا على قطعة من الورق وتحدى بعضكما البعض لقص قطعة مطوية من الورق لإنشاء هذا الشكل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "البحث عن المربعات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "الأشكال"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
+"\n"
+"**How to play:** Players take turns putting their tokens on points where the lines cross in the grid."
+msgstr ""
+"**الإعداد:** قم بإنشاء مصفوفة ٥ × ٥ باستخدام خمسة خطوط أفقية وعمودية.\n"
+"\n"
+"**كيف تلعب:** يتناوب اللاعبون في وضع الرموز الخاصة بهم على النقاط التي تتقاطع فيها الخطوط في المصفوفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The first player with four tokens on the corners of a square of any size wins."
+msgstr "**كيف تفوز:** يفوز أول لاعب يضع أربع رموز على زوايا مربع بأي حجم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow squares with diagonal sides (pictured above).\n"
+"• Use grids larger than 5 by 5."
+msgstr ""
+"* يسمح بالمربعات ذات الجوانب القطرية.\n"
+"* يمكن استخدام مصفوفات أكبر من ٥ × ٥."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAG STORIES – ADD AND SUBTRACT"
+msgstr "قصص الحقيبة - الجمع والطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”"
+msgstr "**قصص عن الحقائب:** تتظاهر أنت وطفلك بوجود حقيبة بها عدد من الأشياء. يبتكر أحدكم قصة مثل: ”حقيبتك بها 3 حبات زبيب وحقيبتي بها واحدة أخرى. كم لدي؟“ بعد أن يشعر طفلك بالاستيعاب، دعه يقوم بطرح السؤال احياناً - وهذا غالبًا ما يكون ممتعًا للغاية بالنسبة له، خاصة إذا ارتكبت ”خطأ“ من حين لآخر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n"
+"\n"
+"**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”"
+msgstr ""
+"**أضف تعقيدًا:** يمكن أن تصبح هذه القصص أكثر تفصيلاً مع الخبرة. على سبيل المثال، يمكن أن تكون القصة ”لدي كعكتان أقل مما لديك، ولدينا معًا ستة كعكات. كم عدد الكعكات لديك؟“ مثال آخر، ”لديك ضعف عدد الحلوى التي لدي، ولدينا معًا تسع قطع. كم عدد القطع التي لديك؟“\n"
+"\n"
+"**قصص أخرى:** يمكن استبدال استخدام حقائب وقطع الطعام بفكرة وعاء السمك الذي يحتوي على نوعين (أو أكثر) من الأسماك، أو بأي صورة أخرى تنال إعجاب طفلك. بالنسبة لوعاء الأسماك، يمكنك إنشاء قصة مثل ”هناك سبع سمكات في الوعاء، وهناك سمكة ذهبية أكثر من أسماك التترا. كم عدد الأسماك الذهبية هناك؟“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH STORIES"
+msgstr "قصص الرياضيات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "قصص عددية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories are a fun way to add interest to calculations. Here are two examples of such stories:"
+msgstr "تعد القصص طريقة ممتعة لإضفاء الاهتمام على العمليات الرياضية. فيما يلي مثالان لمثل هذه القصص:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n"
+"\n"
+"**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?"
+msgstr ""
+"**الكراسي:** هنالك اربعة كراسي في غرفة. في البدء كان هناك شخصان ثم أتي ثلاث أشخاص آخرين. هل يمكن للجميع الجلوس؟ هذه الطريقة أكثر تشويقاً من السؤال ما إذا كان ٢ + ٣ اكبر من.\n"
+"\n"
+"**الآيس كريم:** أنا وأصدقائي نتناول الآيس كريم. سأعطي كل صديق من أصدقائي مغرفة واحدة أكثر مما أحصل عليه. إذا كان هناك عشرة مغارف من الآيس كريم، فما عدد مغارف الآيس كريم التي يمكنني الحصول عليها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions."
+msgstr "اختر المواضيع التي تهم طفلك، مثل الطعام أو الحيوانات. عندما يتحسن طفلك في هذا الأمر، دع بعض القصص تكون غامضة إلى حد ما حتى يحتاج طفلك إلى التحليل أكثر وتعلم طرح الأسئلة التوضيحية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – 1 MORE/LESS"
+msgstr "اخرج من منزلي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this."
+msgstr "**الإعداد:** استخدم مجموعة من البطاقات تحتوي على أرقام من ١ إلى ١٠. قم بوضع صناديق أو رسومات بسيطة لمنازل مرقمة من (٠) إلى ١١. على قطعة ورق مشتركة. لتدريب الطفل على معرفة الترتيب، لا تقم بترتيب الصناديق على الورقة. كل لاعب لديه ٧ رموز مميزة عن رموز اللاعب الآخر - إحدى الطرق للقيام بذلك هي استخدام ألوان مختلفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to place all their tokens wins."
+msgstr ""
+"**كيف تلعب:** في كل دور، يختار اللاعب بطاقة ويضع رمزه المميز في أي صندوق او منزل يزيد أو يقل عن واحد، طالما أنه لا يحتوي بالفعل على ٣ أو أكثر من الرموز المميزة للاعب الآخر. إذا كان المنزل يحتوي على واحدة أو اثنتين من رموز الخصم، فسيتم إعادتها إلى الخصم ويقول اللاعب ”اخرج من منزلي“.\n"
+"\n"
+"**كيف تفوز:** أول لاعب يقوم بوضع كل رموزه يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n"
+"• Use a smaller or larger range of Number Cards and boxes.\n"
+"• Allow moves to houses that are 2 numbers more or less."
+msgstr ""
+"* اذا لم يكن الطفل مستعدا للتعامل مع الارقام, قم باستخدم بطاقات الأرقام والصناديق التي تحتوي على كميات من النقاط.\n"
+"* استخدم مجموعة أصغر أو أكبر من بطاقات ومربعات الأرقام.\n"
+"* يمكن السماح بالانتقال إلى المنازل التي تحتوي على رقمين أكثر أو أقل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE IN-BETWEEN GAME"
+msgstr "لعبة ”بين ما بين“."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "الترتيب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens."
+msgstr "**الإعداد:** قم باستخدام مجموعة واحدة من البطاقات من (٠) إلى ١٠. استخدم إما بطاقات الأرقام أو أوراق اللعب التي يكون فيها الملكة (٠) والآس ١. يحصل كل لاعب أيضًا على ٢٠ رمزًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n"
+"\n"
+"**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins."
+msgstr ""
+"**كيف تلعب:** يقوم اللاعب الذي يأتي دوره بتوزيع ورقتين مكشوفتين وبطاقة ثالثة مقلوبة بينهما. يقرر اللاعب المراهنة من (٠) إلى ٣ رموز على أن الورقة الثالثة بين الورقتين. إذا كان اللاعب محقًا، يحصل اللاعب على هذا العدد من الرموز من اللاعب الآخر. إذا كان اللاعب مخطئًا، فإن هذا العدد من الرموز يذهب إلى اللاعب الآخر.\n"
+"\n"
+"**كيف تفوز:** يمكن لعب خمس جولات أو حتى نفاد الرموز المميزة للاعب الواحد. يفوز اللاعب الذي لديه أكبر عدد من الرموز في النهاية."
 
 #. type=data_list
 msgctxt "data_list"
