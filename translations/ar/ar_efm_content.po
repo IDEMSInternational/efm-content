@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-10 18:54\n"
+"PO-Revision-Date: 2024-08-10 19:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6901,8 +6901,314 @@ msgstr "الاستحواذ علي الأحجار"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**How to play:** Place all dominoes (bones) face up between the players. For a turn, a player rolls two dice. If the domino that matches these dice is available, the player claims it and moves it to their pile."
+msgstr "**كيف تلعب:** قم بوضع كل قطع الدومينو (الأحجار) مكشوفة بين اللاعبين. في كل دورة، يقوم اللاعب برمي نردين. إذا كان الدومينو الذي يطابق هذين النردين متاحًا، يطالب به اللاعب وينقله إلى كومته."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** For two players, the first player with ten dominoes wins. For more than two players, the first player with six dominoes wins.\n"
+"\n"
+"**Variation:** Claimed dominoes can still be stolen by other players."
+msgstr ""
+"**كيف تفوز:** إذا كان عدد اللاعبين اثنين، يفوز أول لاعب لديه عشرة قطع دومينو. أما إذا كان عددهم أكثر من اثنين، يفوز أول لاعب لديه ستة قطع دومينو.\n"
+"\n"
+"**التنوع:** لا يزال بإمكان اللاعبين الآخرين الاستيلاء على قطع الدومينو التي استحوذ عليها اللاعب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOMINOES"
+msgstr "الدومينو"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Domino Games"
 msgstr "ألعاب الدومينو"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many variations to this ancient game – discuss the rules before you start!\n"
+"\n"
+"**The setup.** Mix up all tiles (bones) face down – this is called the boneyard. Take seven tiles each for two players, and five tiles each for three or four players. The player with the highest double starts by putting it on the table. If no one has a double, start the game over."
+msgstr ""
+"هناك العديد من الأشكال المختلفة لهذه اللعبة القديمة – ناقش القواعد قبل أن تبدأ!\n"
+"\n"
+"**الإعداد.** قم بخلط جميع القطع (الأحجار) بحيث تكون مقلوبة للأسفل – وهذا ما يسمى بونيارد. إذا كان عدد اللاعبين اثنين، قم بتوزيع سبعة أحجار لكل لاعب أما اذا كان عددهم ثلاثة او اربعة يوزع لكل واحد منهم خمسة أحجار. يبدأ اللاعب الذي لديه أعلى رقم مزدوج بوضعه على الطاولة. إذا لم يكن لدى أي شخص رقم مزدوج، ابدأ اللعبة من جديد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play.** A turn consists of placing a tile that matches one of the available ends of the string of dominoes (place double dominoes crosswise to the previous domino). If the player has no matching tile, the player is “blocked,” and there are two possible rules to use: 1) the player’s turn is over, or 2) the player keeps drawing tiles until there is a match (one version restricts this to a single draw whether or not there is a match). If the boneyard is emptied before there is a move, play passes to the next player on the right.\n"
+"\n"
+"**How to win:** The game ends when a player runs out of bones, or when all players are blocked. The winner is the player with the lowest total of dots on their tiles (which is 0 if they have used up all their tiles)."
+msgstr ""
+"**كيف تلعب:** يتكون الدور من وضع قطعة تطابق أحد الأطراف المتاحة لسلسلة قطع الدومينو (ضع قطع الدومينو المزدوجة بشكل عرضي مع قطعة الدومينو السابقة). إذا لم يكن لدى اللاعب حجر مطابق، يتم ”حظر“ اللاعب، وهناك قاعدتان محتملتان يمكن استخدامهما: ١) تنتهي دورة اللاعب، أو ٢) يستمر اللاعب في سحب الأحجار حتى تكون هناك مطابقة (تقتصر إحدى الإصدارات على سحب واحد سواء كانت هناك مطابقة أم لا). إذا تم إفراغ ساحة البونيارد قبل أن تكون هناك حركة، تنتقل اللعبة إلى اللاعب التالي على اليمين.\n"
+"\n"
+"**كيف تفوز:** تنتهي اللعبة عندما ينفد مخزون الأحجار لدى أحد اللاعبين، أو عندما يتم حظر جميع اللاعبين. الفائز هو اللاعب الذي لديه أقل مجموع من النقاط على أحجاره (وهو (٠) إذا استنفد جميع أحجاره)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Scoring options:** The winner’s score can be calculated in two ways. The traditional way is to use the sum of the dots on all the other players’ tiles. Rounds are played until a player reaches 50 or 100. For little ones, a better scoring system is to let the winner have the score which is the count of all the other players’ tiles.\n"
+"\n"
+"**Matching options:** When your child starts adding, change the rule for matching – two tiles match if their numbers add up to six (or nine if using a larger range of dominoes)."
+msgstr ""
+"**حساب نتيجة الفوز:** يمكن حساب نتيجة الفائز بطريقتين. الطريقة التقليدية هي استخدام مجموع النقاط على احجار جميع اللاعبين الآخرين. تُلعَب الادوار حتى يصل اللاعب إلى ٥٠ أو ١٠٠. بالنسبة للأطفال الصغار، فإن نظام التسجيل الأفضل هو السماح للفائز بالحصول على النتيجة التي تمثل عدد احجار جميع اللاعبين الآخرين.\n"
+"\n"
+"**التنوع:** عندما يبدأ طفلك في الإضافة، قم بتغيير قاعدة المطابقة - يتطابق قطعتان إذا كان مجموع أرقامهما يصل إلى ستة (أو تسعة إذا كنت تستخدم نطاقًا أكبر من قطع الدومينو)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "في حدود واحد أو اثنين"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**الإعداد:** قم بإنشاء كومة من بطاقات الأرقام بنطاق من الكميات التي تناسب طفلك. قم بتقسيم البطاقات بالتساوي بين لاعبين ووضع البطاقات مقلوبة للأسفل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**كيف تلعب:** يتناوب اللاعبون على وضع بطاقة واحدة في الكومة في المنتصف بينهما. إذا كانت البطاقة أكثر أو أقل أو أقل ببطاقة واحدة من البطاقة السابقة، فإن أول لاعب يقول ”واحدة أكثر“ أو ”نفس البطاقة“ أو ”واحدة أقل“ يفوز بجميع البطاقات في الكومة الحالية.\n"
+"\n"
+"**كيف تفوز:** يفوز الشخص الذي لديه مجموعة أكبر من البطاقات عندما تنتهي اللعبة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* قم بتضمين العلاقات ”اثنين أكثر“ و”اثنين أقل“ كخيارات.\n"
+"* استخدم مجموعًا مستهدفًا، على سبيل المثال ١٠. كن أول من يقول أن مجموع الورقتين العلويتين يساوي الهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "العب برقم واحد واثنين"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "الأرقام القريبة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 10. Let your child choose to go first or second. \n"
+"\n"
+"**How to play:** Start at 0. Players take turns adding 1 or 2 to the current total. Count aloud the progress for each turn.\n"
+"\n"
+"**How to win:** The player who lands on the target (e.g. 10) wins."
+msgstr ""
+"**الإعداد:** اختر رقمًا مستهدفًا، على سبيل المثال ١٠. دع طفلك يختار أولاً أو ثانيًا.\n"
+"\n"
+"**كيف تلعب:** ابدأ من (٠). يتناوب اللاعبون في إضافة ١ أو ٢ إلى الإجمالي الحالي. احسب بصوت عالٍ التقدم المحرز في كل دور."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Once children learn to play this verbally, it is a great travel game.\n"
+"• Use a pile of objects. Players add one or two objects to the pile until the target quantity\n"
+"is reached.\n"
+"• Use a number line. Advance a marker along the line one or two spaces during a move.\n"
+"• Use subtraction. Players start at the target, say 10. On their turn, players choose whether\n"
+"to subtract 1 or 2. The first person to reach 0 wins.\n"
+"• Use larger target numbers as your child’s skills improve.\n"
+"• Instead of winning, the player forced to hit or go beyond the target number loses.\n"
+"• Allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"* بمجرد أن يتعلم الأطفال لعب هذه اللعبة شفهيًا، تصبح لعبة رائعة للسفر.\n"
+"* استخدم كومة من الأشياء. يضيف اللاعبون واحدًا أو اثنين إلى الكومة حتى يتم الوصول إلى الهدف.\n"
+"* استخدم الخط العددي. حرك علامة على الخط بمقدار خانة أو خانتين لكل حركة.\n"
+"* استخدم الطرح. يبدأ اللاعبون من الهدف، (علي سبيل المثال ١٠). في دوركل منهم، يختار اللاعبون ما إذا كانوا سيطرحون ١ أو ٢. أول شخص يصل إلى (٠) يفوز.\n"
+"* استخدم أهداف أرقام أكبر مع تحسن مهارات طفلك.\n"
+"* بدلاً من الفوز، يخسر اللاعب الذي يُجبر على الوصول إلى الرقم المستهدف أو تجاوزه.\n"
+"* يسمح للاعب بجمع (أو طرح) ١، ٢، أو ٣ في كل دور.\n"
+"\t"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – SINGLE-DIGIT COMPARING"
+msgstr "الحرب – المقارنة بأرقام أحادية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove the cards from two, four, or six Number Decks outside your child’s comfort range. Split the cards evenly in two piles face down."
+msgstr "**الإعداد:** قم بحذف البطاقات من مجموعتين أو أربع أو ست مجموعات من الأرقام خارج نطاق ما يتناسب مع طفلك. قم بتقسيم البطاقات بالتساوي إلى مجموعتين مقلوبة للأسفل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Flip over the top cards and the player with the larger card keeps both cards. If the cards match, flip the next two cards and the winner gets all four cards."
+msgstr "**كيف تلعب:** اقلب البطاقات العلوية ويحتفظ اللاعب الذي يحمل البطاقة الأكبر بالبطاقتين. إذا كانت البطاقات متطابقة، اقلب البطاقتين التاليتين وسيحصل الفائز على جميع البطاقات الأربعة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The player with the most cards after one or more runs through all the cards is the winner.\n"
+"\n"
+"**Variations:** To change things up, sometimes play that the smaller of the two cards wins."
+msgstr ""
+"**كيف تفوز:** اللاعب الذي حصل على أكبر عدد من البطاقات بعد مرور واحد أو أكثر على جميع البطاقات هو الفائز.\n"
+"\n"
+"**التنوع:** للتغيير، العب أحيانًا بحيث تفوز البطاقة الأصغر من بين البطاقتين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing"
+msgstr "المقارنة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is an introductory version of a fun game we will revisit again soon.\n"
+"\n"
+"**How to play:** There are two people: the Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (for example). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number.\n"
+"\n"
+"**Use cards:** With younger children, play this game with counting cards from 0 to 8 placed face up. Hide a star under one of the cards. After each guess, the Questioner turns over all the eliminated cards until the star is discovered."
+msgstr ""
+"هذه نسخة تمهيدية للعبة الممتعة والتي سنعود إليها مرة أخرى قريبًا.\n"
+"\n"
+"**كيف تلعب:** يوجد شخصان: ”المفكر“ الذي يفكر في الرقم و”السائل“ الذي يكتشف الرقم. يقول المفكر: ”أفكر في رقم من (٠) إلى ٨“ (على سبيل المثال). ثم يسأل السائل أسئلة من نوع ”كيف يقارن رقمك بالرقم ٣؟“ يجيب المفكر بأن الرقم أصغر أو يساوي أو أكبر من ذلك الرقم.\n"
+"\n"
+"**استخدم البطاقة:** العب هذه اللعبة مع الأطفال الأصغر سنًا باستخدام بطاقات العد من (٠) إلى ٨ مقلوبة للأعلى. قم بإخفاء نجمة تحت إحدى البطاقات. بعد كل تخمين، يقلب السائل جميع البطاقات المستبعدة حتى يتم اكتشاف النجمة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** The game pictured above uses cards with a target of 5.\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. \n"
+"Question: How does your number compare to 3? \n"
+"Puzzler: My number is larger than 3.\n"
+"Question: How does your number compare to 6? \n"
+"Puzzler: My number is smaller than 6.\n"
+"Question: How does your number compare to 5? \n"
+"Puzzler: Well done! My number is equal to 5."
+msgstr ""
+"**مثال:** إليكم لعبة بهدف ٥:\n"
+"\n"
+"المفكر: أنا أفكر في رقم من (٠) إلى ٨.\n"
+"السائل: كيف يقارن رقمك مع ٣؟\n"
+"المفكر: رقمي أكبر من ٣.\n"
+"السائل: كيف يقارن رقمك بالرقم ٦؟\n"
+"المفكر: رقمي أصغر من ٦.\n"
+"السائل: كيف يقارن رقمك بالرقم ٥؟\n"
+"المفكر: أحسنت! رقمي يساوي ٥."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "التكيف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "أعطِ طفلك عددًا صغيرًا، (مثلا ٧)، من الأشياء الصغيرة وعدها معًا. اختر رقمًا مستهدفًا، (مثلا ٥)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "اطلب من طفلك أن يأخذ خمسة أشياء من المجموعة الأصلية المكونة من سبعة أشياء، إذا كان ذلك ممكنًا. هذا يساعد طفلك على تعلم الأحجام النسبية للأرقام ومدى كبرها أو صغرها مقارنة ببعضها البعض."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "في البداية، يجب أن يكون الرقم المستهدف أقل من أو يساوي العدد الإجمالي. وفي وقت لاحق، فإن إعطاء أرقام كبيرة جدًا يوفر تدريبًا على الحجم النسبي للكميات، بالإضافة إلى توفير التحقق من أن الطلبات معقولة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "الجمع والطرح غير المرئي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**اولاً:** اطلب من طفلك أن يحسب عددًا صغيرًا من الأشياء ويضعها في صندوق."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**بعد ذلك:** اطلب منه أن يرفع عددًا من الأصابع يساوي عدد الأشياء الموجودة في الصندوق."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**وأخيرًا:** أظهر لطفلك أنك تضيف (أو تزيل) واحدًا أو اثنين من الأشياء إلى الصندوق، واسأله ”كم عدد الأشياء الموجودة في الصندوق الآن؟“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "عندما يصبح هذا سهلاً للغاية، يمكنك إضافة أو إزالة أكثر من شيئين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "معركة خط الأعداد"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**الإعداد:** كل لاعب لديه خطين عدديين – واحد لمعركته والآخر لتخميناته. تمتد هذه الخطوط من (٠) إلى ١٢ (أو أعلى إذا كان الأطفال يستطيعون العد لأعلى). بعيدًا عن الأنظار، على الخط العددي لسفينة معركتهم، يضع كل لاعب رموزًا على رقمين يمثلان بوارجه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**كيف تلعب:** بعد الإعداد، يتناوب اللاعبون على تخمين الأرقام. عندما يخمن أحد اللاعبين، يخبر اللاعب الآخر بمدى قرب التخمين من الهدف الأقرب - ثم يسجل اللاعب الذي يخمن هذه المعلومات على الخط العددي الثاني الخاص بهم.\n"
+"\n"
+"**كيف تفوز:** أول شخص يحصل على جميع الأهداف يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* استخدام مجموعة واسعة من الأرقام.\n"
+"* يمكن أن يكون الرد على التخمين عبارة عن نطاق من المسافات وليس مقدارًا محددًا - على سبيل المثال: ”أقرب سفينة معركة على بعد ١ أو ٢.“\n"
+"* يجب أن يكون طول السفن مسافتين أو ثلاث مسافات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "ما المفقود؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "الأرقام الأكبر والأصغر"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "عد عددًا صغيرًا من الأشياء الصغيرة. قم بإخفاء القليل منها بينما ينظر طفلك بعيدًا. وعندما ينظراليك طفلك اسأله عن عدد الأشياء المخفية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**مثال:** افترض أن لديك ٦ حبات زبيب على طاولة. اطلب من طفلك أن ينظر بعيدًا وقم بتغطية اثنين منهم بوعاء. عندما ينظرطفلك قم بعد حبات الزبيب الأربع المرئية واسأله عن عدد حبات الزبيب الموجودة تحت الوعاء إذا كان إجمالي عددها ٦ حبات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "المنطق"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "إحدى الطرق التي يمكن لطفلك أن يستوعب بها هذا الأمر هي ”العد“ من ٤ إلى ٦ - فبينما يعد طفلك ٤ و٥ و٦، ابدأ برفع يدك مقفولة الاصابع وارفع إصبعًا واحدًا في كل مرة للوصول إلى رفع إصبعين. وبالمثل، يمكن لطفلك أن يفعل نفس الشيء تقريبًا من خلال ”العد التنازلي“ من ٦ إلى ٤. إن رؤية أن ٤ زائد ٢ إضافيين يساوي ٦ مرتبطًا بطرح ٢ من ٦ للحصول على ٤، وهذا يعد تمرينًا رائعًا لفهم العلاقات بين الارقام."
 
 #. type=data_list
 msgctxt "data_list"
