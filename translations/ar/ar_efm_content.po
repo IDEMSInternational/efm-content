@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-10 03:44\n"
+"PO-Revision-Date: 2024-08-10 04:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6833,6 +6833,61 @@ msgstr ""
 "قم بعمل رسومات تجريدية من خلال ربط النقاط التي لها نفس العدد على طول الجوانب المتقابلة للزاوية.\n"
 "\n"
 "هناك طريقة أخرى تتمثل في وضع بعض النقاط، على سبيل المثال الرقم ٩، على مسافات متساوية على شكل دائرة. يمكنك تجربة إنشاء أنماط مختلفة من خلال توصيل النقاط بالترتيب، أو توصيلها كل نقطتين، أو كل ثلاث نقاط."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE"
+msgstr "تحدي الذاكرة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Select two or four sets of Number Cards and remove numbers above your child’s comfort level. Place the cards face down in a 3 by 3 grid, with the remaining cards put in a draw pile."
+msgstr "**الإعداد:** اختر مجموعتين أو أربع مجموعات من بطاقات الأرقام وقم بحذف الأرقام التي تزيد عن المستوى الذي يناسب طفلك. ضع البطاقات مقلوبة في مصفوفة ٣ × ٣، مع وضع البطاقات المتبقية في كومة السحب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Take turns flipping two cards face-up. If the cards match, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards don’t match, the player flips the cards back over and ends their turn."
+msgstr "**كيف تلعب:** تناوبوا على قلب بطاقتين على الوجه اللأخر. إذا تطابقت البطاقات، يحق للاعب الاحتفاظ بالبطاقات واستبدال البطاقتين من كومة السحب، ويستمر دوره. إذا كانت البطاقات غير متطابقة، يقوم اللاعب بقلب البطاقات مرة أخرى وينهي دوره."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The game ends when the last pair is taken. The player with the most cards wins."
+msgstr "**كيف تفوز:** تنتهي اللعبة عند أخذ آخر زوج من البطاقات. اللاعب الذي لديه أكبر عدد من البطاقات يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow at most one match per turn.\n"
+"• Use a target sum larger than the largest card. Two cards match if their sum is the target."
+msgstr ""
+"* يسمح بمطابقة واحدة على الأكثر في كل دورة.\n"
+"* استخدم المجموعً المستهدفً علي ان يكون أكبر من أكبر بطاقة. تتطابق البطاقتان إذا كان مجموعهما هو الهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO! WITH CARDS"
+msgstr "لعبة البنغو بالبطاقات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Play this with Number Cards, or if there are many players, with numbered regular playing cards."
+msgstr "**الإعداد:** العب هذه اللعبة باستخدام بطاقات مرقمة، أو إذا كان هناك العديد من اللاعبين، قم باستخدام بطاقات لعب عادية مرقمة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Reserve two suits worth of cards for a draw pile, and divide the remaining cards among the players. Each player randomly selects 16 cards to place in a 4 by 4 grid face up in front of them."
+msgstr "**كيف تلعب:** احتفظ بمجموعتين من البطاقات في كومة السحب، وقم بتقسيم البطاقات المتبقية بين اللاعبين. يختار كل لاعب عشوائيًا ١٦ بطاقة لوضعها في شكل مصفوفة ٤ × ٤ مكشوفة أمامه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take a card from the draw pile and call it out. Each player may turn over one card from their grid that matches the number drawn. If a player has more than one card that matches, the player must choose which one to turn over.\n"
+"\n"
+"**How to win:** The first player to get four cards flipped over in a row horizontally, vertically, or diagonally wins the game and calls out “Bingo!”"
+msgstr ""
+"خذ بطاقة من كومة السحب واعلن عنها. يحق لكل لاعب قلب بطاقة واحدة من مصفوقته تطابق الرقم المسحوب. إذا كان لدى اللاعب أكثر من بطاقة متطابقة، فيجب على اللاعب اختيار البطاقة التي يريد قلبها.\n"
+"\n"
+"**كيف تفوز:** أول لاعب يحصل على أربع أوراق مقلوبة على التوالي أفقيًا أو رأسيًا أو قطريًا يفوز باللعبة ويقول ”بينغو!“"
 
 #. type=data_list
 msgctxt "data_list"
