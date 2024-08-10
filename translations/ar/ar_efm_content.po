@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-09 16:37\n"
+"PO-Revision-Date: 2024-08-10 02:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6603,6 +6603,16 @@ msgstr "من هو؟"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "هذا نشاط لعدة أشخاص. يختار القائد شخصًا واحدًا سراً في المجموعة. لتحديد الشخص السري، يطرح اللاعبون أسئلة مثل، ”هل يرتدي هذا الشخص قميصًا به مثلث في المقدمة؟“ أو ”هل يبلغ طول شعر هذا الشخص أكثر من ١٢ بوصة؟“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 2 – I CAN COUNT TO 5!"
+msgstr "المرحلة الثانية – القدرة علي العد حتى ٥!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Introduction"
+msgstr "المرحلة ٢ – مقدمة"
 
 #. type=data_list
 msgctxt "data_list"
