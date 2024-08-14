@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-14 03:45\n"
+"PO-Revision-Date: 2024-08-14 04:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12664,6 +12664,36 @@ msgstr "第四阶段：我能数到 20！"
 msgctxt "data_list"
 msgid "Stage 5 — I Can Count to 100!"
 msgstr "第五阶段: 我能数到100！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects."
+msgstr "**游戏聚会重点:** 使用数学对话来向您的孩子指出并描述物体。谈论这些物体的属性。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has color words."
+msgstr "这本书包含颜色名称。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the properties of things."
+msgstr "这些涉及日常事物的属性。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child."
+msgstr "**游戏聚会重点:** 继续使用数学对话来向您的孩子指出并描述物体。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This looks at how clothes can be too big or too small."
+msgstr "这本书讨论了衣服如何合适或不合适，例如太大或太小。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These practice shapes and descriptions."
+msgstr "这些练习涉及形状和描述。"
 
 #. type=data_list
 msgctxt "data_list"
