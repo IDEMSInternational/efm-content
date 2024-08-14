@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-14 04:45\n"
+"PO-Revision-Date: 2024-08-14 13:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12694,6 +12694,16 @@ msgstr "这本书讨论了衣服如何合适或不合适，例如太大或太小
 msgctxt "data_list"
 msgid "These practice shapes and descriptions."
 msgstr "这些练习涉及形状和描述。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This talks about speed, colors, and small counting."
+msgstr "这本书介绍了速度、颜色和基础计数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve descriptions of places and objects, and also the following of directions."
+msgstr "这些包括对地点和物体的描述，并涉及方向指引。"
 
 #. type=data_list
 msgctxt "data_list"
