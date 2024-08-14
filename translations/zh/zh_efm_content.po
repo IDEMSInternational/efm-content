@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-14 14:07\n"
+"PO-Revision-Date: 2024-08-14 21:02\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12809,6 +12809,31 @@ msgstr "每一页上都有各种形状。"
 msgctxt "data_list"
 msgid "These continue the ongoing discussions about properties and patterns."
 msgstr "这些延续了对属性和规律的探讨。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction."
+msgstr "**游戏聚会重点:** 从1开始数，有时从0开始。这是理解数量的基础，有助于初步学习加减法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors."
+msgstr "这包括从0到9的计数，并包含最小、最大、多一个、少一个，以及颜色的概念。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
+msgstr "一个活动介绍了反例的概念，另一个活动是一个两人策略游戏，用来制作三角形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction."
+msgstr "**游戏聚会重点:** 倒数到1为止，有时以0为终点。这加深了对数字顺序的理解，也有助于学习减法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has the numbers from 1 to 7. It also has color descriptions on every page."
+msgstr "这本书包含从1到7的数字，并且每一页都有颜色描述。"
 
 #. type=data_list
 msgctxt "data_list"
