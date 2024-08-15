@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-15 15:47\n"
+"PO-Revision-Date: 2024-08-15 21:47\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12712,6 +12712,11 @@ msgstr "游戏聚会3"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child."
+msgstr "**游戏聚会重点:** 无论你走到哪里，都能发现数学的踪迹。用数学对话和孩子聊一聊这些发现。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "This talks about speed, colors, and small counting."
 msgstr "这本书介绍了速度、颜色和基础计数。"
 
@@ -13013,7 +13018,7 @@ msgstr "游戏聚会19"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way."
-msgstr "**游戏聚会重点:** 和您的孩子一起享受按2跳数的乐趣。这是一种有趣且快速的计数方式，可以帮助他们从新的角度看待数字。"
+msgstr "**游戏聚会重点:** 和您的孩子一起享受按2跳跃计数的乐趣。这是一种有趣且快速的计数方式，可以帮助他们从新的角度看待数字。"
 
 #. type=data_list
 msgctxt "data_list"
