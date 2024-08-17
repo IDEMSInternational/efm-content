@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-17 00:44\n"
+"PO-Revision-Date: 2024-08-17 02:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15164,6 +15164,11 @@ msgstr "估计是一种有根据的猜测。不数数的情况下，估计长颈
 msgctxt "data_list"
 msgid "Do the estimation game with a friend. When you see a group of things, both of you make a quick estimate for the count. Now count the things and see which of you was closer."
 msgstr "和朋友一起玩估计游戏。当你看到一组东西时，你们两个都快速估计数量。现在数一数这些东西，看看谁更接近。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Only people had legs, which Maguru gave to them."
+msgstr "只有人类有腿，是马古鲁给予他们的。"
 
 #. type=data_list
 msgctxt "data_list"
