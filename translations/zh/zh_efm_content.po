@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-18 04:24\n"
+"PO-Revision-Date: 2024-08-18 12:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15158,6 +15158,46 @@ msgstr "西莫的球是一个有两种颜色的圆球。五边形是一个有五
 msgctxt "data_list"
 msgid "A hexagon is a six-sided shape. Point at the hexagons on the ball. Hexagons are often used in tiling patterns. Do you see any hexagons around you?"
 msgstr "六边形是一个有六条边的形状。指着球上的六边形。六边形经常用在瓷砖图案中。你周围有没有看到其他六边形？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I have four friends."
+msgstr "我有四个朋友。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you put Simo together with his four friends, how many is that all together? Another way to ask this is: \"What is 1 more than 4?\""
+msgstr "当你把西莫和他的四个朋友放在一起，一共有多少人？另一种问法是：“4加1等于多少？”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of them have striped shirts and how many have solid shirts? That means that 2 more than 3 is 5."
+msgstr "他们中有多少人穿条纹衬衫，有多少人穿纯色衬衫？这意味着3加2等于5。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That's two different ways of getting five! If you take one more than four you get the same thing as two more than three!"
+msgstr "这是两种不同的得到五的方式！如果你比四多一个，你得到的结果就和比三多二一样！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their names are Zizo, Lele, Sisa, and Ayanda."
+msgstr "他们的名字分别是兹左，乐乐，西沙和阿亚达。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you guess who has which name? We'll learn about each one soon."
+msgstr "你能猜出谁叫什么名字吗？我们很快就会了解每个人。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a story about one of them. Perhaps one of them likes cats or going on long walks?"
+msgstr "编一个关于其中一个人的故事。也许其中一个喜欢猫或者喜欢长时间散步？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of the four, one of them likes soccer, one likes swimming, another likes hide-and-seek, and one likes reading -- guess which one is which."
+msgstr "在这四个人中，有一个喜欢足球，一个喜欢游泳，一个喜欢捉迷藏，还有一个喜欢阅读 - 猜猜看每个人是谁。"
 
 #. type=data_list
 msgctxt "data_list"
