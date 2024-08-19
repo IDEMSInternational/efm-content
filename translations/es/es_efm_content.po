@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 21:54\n"
+"PO-Revision-Date: 2024-08-19 22:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9249,18 +9249,80 @@ msgstr "Juntando las partes"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"Los jugadores acuerdan un número objetivo, como el 10, aunque pueden elegir cualquier otro número.\n"
+"\n"
+"A cada jugador se le dan cinco cartas de una baraja sin cartas de figuras. Luego, los jugadores deben buscar tantas formas como les sea posible para alcanzar el objetivo, o acercarse lo más posible a él, utilizando cualquier combinación de sumas y restas con las cartas que tienen.\n"
+"\n"
+"Como dinámica de grupo, se les asignan cinco cartas a todos los participantes para que, en colaboración, encuentren distintas formas de alcanzar el número objetivo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "PYRAMID SOLITAIRE"
-msgstr "PIRÁMIDE SOLITARIO"
+msgstr "SOLITARIO DE PIRÁMIDE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**Cómo se organiza:** para iniciar, elimine las cartas que excedan un valor objetivo, como 10. Construya una pirámide con 21 cartas en 6 filas. Ponga las cartas boca arriba en la pirámide, de modo que cada fila inferior se superponga parcialmente a la fila superior. Las cartas restantes se colocarán en un montón para robar.\n"
+"\n"
+"**Cómo se juega:** reúna y aparte los grupos de cartas descubiertas cuya suma sea igual al objetivo. Estos grupos pueden incluir la carta superior del montón de robo o del montón de descarte. Si no hay coincidencias, mueva la carta superior del montón para robar al montón de descarte.\n"
+"\n"
+"**El desafío:** retire todas las cartas de la pirámide. La partida finaliza cuando el montón para robar quede vacío."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**Establezca objetivos más bajos:** si decide emplear un objetivo inferior a 10, quítele una o dos filas a la pirámide para tener un montón de robo lo bastante grande. Por ejemplo, para un objetivo de 8, emplee 15 cartas que estén distribuidas en 5 filas.\n"
+"\n"
+"**Emplee la resta:** pruebe a restar en lugar de sumar. Por ejemplo, con cartas hasta diez, apunte a un objetivo de 5. Elimine los pares de cartas que tengan una diferencia de 5. Cuando tenga un “5”, puede eliminarlo o emparejarlo con un 10."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "DIFFERENCE PYRAMID"
-msgstr "PIRÁMIDE DE DIFERENCIA"
+msgstr "PIRÁMIDE DE DIFERENCIAS"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Solitaire Puzzles"
-msgstr "Rompecabezas Solitarios"
+msgstr "Solitario de pirámide"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**El desafío:** la tarea consiste en crear una pirámide utilizando los números del 1 al 6, con una carta en la fila superior, dos en la segunda fila y tres en la tercera fila. Cada número debe ser la diferencia de los dos números que están justo debajo.\n"
+"\n"
+"Deje que su niño/niña explore y juegue con esta actividad. Lo más probable es que, a través de la experimentación, encuentre una solución. Sin embargo, si su niño/niña se impacienta, tenga en cuenta estos dos consejos. El número 6 debe estar en la fila inferior porque no puede ser la diferencia entre ningún par de números. Del mismo modo, el número 5 debe estar en la fila inferior o en la fila central, por encima del 6 y el 1."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "Desafíos parecidos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "Si a su niño/niña le resulta fácil, desafíele a encontrar todas las formas posibles de hacerla. Hable sobre si dos soluciones deben contarse como diferentes si una es la imagen especular de la otra. Para un reto adicional, pruebe a poner los números del 1 al 10 en una pirámide con cuatro niveles de diferencias."
 
 #. type=data_list
 msgctxt "data_list"
@@ -9269,8 +9331,29 @@ msgstr "JUEGOS DE ESTRATEGIA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "Los juegos de estrategia pueden mejorar las habilidades de razonamiento, planificación y resolución de problemas de su niño/niña. Hay muchos juegos entre los que elegir, como el tres en raya, juego del molino, zorros y gansos, Dara, conecta cuatro, mancala, damas, Go y ajedrez; demasiados para enumerarlos todos aquí."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "TAPATAN"
 msgstr "TAPATAN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "**Cómo se organiza:** este juego es similar a otros como rota, tres en línea con nueve huecos y juego del molino. Presenta una cuadrícula de nueve puntos conectados por tres líneas horizontales y tres verticales. Cada jugador posee tres fichas idénticas. El objetivo es poner las tres fichas en línea."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**Cómo se juega:** el juego consta de dos fases. En la primera, denominada \\textit{colocación}, los jugadores colocan por turnos sus fichas en puntos vacíos. Una vez colocadas todas las fichas, comienza la segunda fase de \\textit{movimiento}. En esta fase, los jugadores se turnan para mover sus fichas a puntos vacíos adyacentes. Como alternativa, las fichas pueden moverse a cualquier punto vacío, no solo a los adyacentes.\n"
+"\n"
+"**Cómo se gana:** la partida finaliza cuando uno de los jugadores gana o cuando se repite la misma posición tres veces, en cuyo caso es un empate."
 
 #. type=data_list
 msgctxt "data_list"
@@ -9281,6 +9364,27 @@ msgstr "PUNTOS Y CAJAS"
 msgctxt "data_list"
 msgid "Strategy Games"
 msgstr "Juegos de Estrategia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**Cómo se organiza:** para iniciar este juego, se necesita una cuadrícula rectangular de puntos, como, por ejemplo, 3 por 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**Cómo se juega:** en cada turno, un jugador conecta dos puntos adyacentes con una línea horizontal o vertical. Si esta línea completa una casilla de 1 por 1, el jugador obtiene un punto y puede dibujar una línea adicional.\n"
+"\n"
+"**Cómo se gana:** cuando ya no se pueden trazar más líneas, el jugador con la mayor cantidad de puntos gana. Una manera simple de llevar el registro de los puntos es colocar las iniciales dentro de cada cuadro que se complete."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "Si bien se acostumbra a jugar con cuadritos, también se puede jugar disponiendo los puntos en un patrón para crear triángulos o hexágonos, aunque esto puede resultar más difícil de dibujar."
 
 #. type=data_list
 msgctxt "data_list"
@@ -9590,7 +9694,7 @@ msgstr "Haz Que Cuente"
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 5 – I CAN COUNT TO 100!"
-msgstr "Etapa 5 – ¡Puedo contar hasta 100!"
+msgstr "Etapa 5 – ¡Ya puedo contar hasta 100!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9599,8 +9703,62 @@ msgstr "Etapa 5 Introducción"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child can now count to 100! They can comfortably do mental single-digit addition and subtraction. They can also count or skip count up or down by any number, and tied to that skill is their ability to add or subtract a single-digit number with a double-digit number. They can compare two double-digit numbers, and they have a beginning sense of place value with 10’s and 1’s.\n"
+"\n"
+"As their skip counting is improving, they are also developing skills with multiplying by 2, 3, 4, 5, and 10. The idea of even and odd numbers now makes a lot more sense to them.\n"
+"\n"
+"Extend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
+msgstr ""
+"**Trayecto**\n"
+"\n"
+"¡Su niño/niña ya cuenta hasta 100 y puede sumar y restar mentalmente números de un dígito! También puede contar de dos en dos hacia adelante y hacia atrás, lo que le permite sumar y restar números de un dígito con números de dos dígitos. Además, puede comparar números de dos dígitos y también empieza a entender el valor posicional de decenas y unidades.\n"
+"\n"
+"Al contar de dos en dos, también desarrolla destrezas para multiplicar con los números 2, 3, 4, 5 y 10, y entiende mejor los números pares e impares.\n"
+"\n"
+"Incorpore estos números a las actividades de las etapas anteriores: Etapa 3: suma de figuras; Etapa 4: guerra - suma y resta de números de dos dígitos, triángulos de diferencias y triángulos de suma, corrígelo, brincos entre islas de 1 en 1 y de 10 en 10, llena los espacios – comparación, cuadrado de suma y pirámide de adición."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New ideas for this stage"
+msgstr "Nuevos conceptos en esta etapa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 200 – Introduce the 100’s place by looking at the numbers from 100 to 200.\n"
+"* Skip Counting to 100 – This is not new, but it is an important skill to reinforce.\n"
+"* Expanded Form and Place Value – This is a foundational skill, so it will be reinforced further.\n"
+"* Double-digit Addition and Subtraction – Skip counting will help make this seem effortless.\n"
+"* All Single-digit Multiplication – It is time to fill in the missing gaps for 6, 7, 8, and 9.\n"
+"* Rectangle Area is Length x Width – This is an important idea in its own right. This fact will also provide many opportunities for fun games and puzzles involving multiplication and factoring.\n"
+"* Factoring – Your child will learn the beauty of how numbers break apart into factors. 1 is a unit. A number bigger than 1 only divisible by 1 and itself is prime. A number bigger than 1 that is not prime is composite. 3 **squared** is 3 × 3. 3 **cubed** is 3 × 3 × 3. And 3 raised to a power means to multiply 3 by itself that many times - for example, 3 to the fourth is 3 × 3 × 3 × 3.\n"
+"* Factors, Divisors, and Multiples – 3 divides evenly into 12. That makes 3 a factor or divisor of 12, and 12 a multiple of 3. 3 is a common factor of 12 and 15, and 12 is a common multiple of 4 and 6.\n"
+"* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
+"* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
+msgstr ""
+"* Contar hasta 200 – Presente el concepto de las centenas con los números del 100 al 200.\n"
+"* Contar de dos en dos hasta el 100 – Aunque no es algo nuevo, es esencial reforzar esta habilidad.\n"
+"* Descomposición numérica y valor posicional – Es una destreza básica, y se seguirá reforzando.\n"
+"* Adición y sustracción de número de dos dígitos – Contar de dos en dos hará que sea más sencillo.\n"
+"* Multiplicaciones con números de un solo dígito – Cubriremos lo que falta para el 6, 7, 8 y 9.\n"
+"* El área de un rectángulo es longitud por anchura – Esto es muy importante. Además, permitirá disfrutar de muchos juegos relacionados con la multiplicación y la factorización.\n"
+"* Factorización – Su niño/niña descubrirá cómo los números se descomponen en factores. El número 1 es una unidad. Un número mayor a 1 que solo es divisible por 1 y por sí mismo es primo. Si no lo es, entonces es compuesto. Por ejemplo, tres al cuadrado es 3 x 3. Tres al cubo es 3 x 3 x 3. Y cuando se expresa tres a la cuarta potencia, significa 3 x 3 x 3 x 3.\n"
+"* Factores, divisores y múltiplos – El número 3 se puede dividir exactamente en 12. Por lo tanto, el 3 se considera un factor o divisor del 12, y el 12 se considera un múltiplo del 3. Además, el 3 es un factor común del 12 y del 15, mientras que el 12 es un múltiplo común del 4 y del 6.\n"
+"* División de números de un dígito – Su niño/niña aprenderá a dividir de manera indirecta al encontrar un número que falta en un problema de multiplicación.\n"
+"* Familias de operaciones para multiplicación y división – Se reforzará la relación entre estas dos operaciones. Por ejemplo, si 2 x 5 = 10, entonces 5 x 2 = 10, y también 10 / 2 = 5 y 10 / 5 = 2, creando así una familia de operaciones."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MENTAL MULTIPLICATION"
 msgstr "MULTIPLICACIÓN MENTAL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
+msgstr "Estas técnicas de enseñanza ofrecen formas organizadas para aprender a multiplicar números pequeños. Su niño/niña debería ser capaz de duplicar cualquier número, contar de dos en dos y multiplicar por 5 y 10."
 
 #. type=data_list
 msgctxt "data_list"
@@ -9609,18 +9767,140 @@ msgstr "3 x 4 = 4 x 3"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
+msgstr "Su niño/niña ya está muy familiarizado/a con la suma, por lo que no le resulta extraño que 2 + 3 sea lo mismo que 3 + 2. Aunque menos evidente, lo mismo ocurre con la multiplicación."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
+msgstr ""
+"En esta imagen se muestra que dos grupos de tres son equivalentes a tres grupos de dos. Solo cambia el punto de vista. No importa en qué orden se multipliquen dos números, siempre se obtendrá el mismo resultado.\n"
+"\n"
+"Con esta observación, su niño/niña solo necesita dominar la mitad de las tablas de multiplicación. Una vez que entienda 3 x 4, también entenderá 4 x 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SQUARES"
+msgstr "CUADRADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
+msgstr "Así como los pares de sumas son fáciles de recordar en las sumas, los cuadrados suelen ser los más sencillos en las multiplicaciones. Conocer estos valores brinda una base para aprender otras multiplicaciones."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1 MORE OR 1 LESS"
+msgstr "1 MÁS, 1 MENOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When combined with the other earlier skills, the strategy of using '1 more' or '1 less' is effective for calculating the remaining multiplication facts. \n"
+"\n"
+"For example, 9 × 7 is one 7 less than 10 × 7. So 9 × 7 = 70 – 7 = 63. This works for all 9’s. \n"
+"\n"
+"Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
+msgstr ""
+"Al combinar esta estrategia con las habilidades anteriores, el método de \\textit{1 más} o \\textit{1 menos} resulta efectivo para calcular el resto de las tablas de multiplicación.\n"
+"\n"
+"Si se multiplica 9 por 7, se obtiene un número 7 unidades menor que al multiplicar 10 por 7. Por lo tanto, 9 x 7 = 70 - 7 = 63. Este principio es válido para todas las multiplicaciones por 9.\n"
+"\n"
+"Del mismo modo, al multiplicar 3 por 7, se suma un 7 más que el doble de 7, así que 3 x 7 = 7 + 14 = 21. Este mismo método funciona para todas las multiplicaciones por 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 9"
+msgstr "MULTIPLICACIONES POR 9"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Mental Multiplication"
 msgstr "Multiplicación Mental"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr "Aunque la estrategia anterior abarca la multiplicación por 9, es interesante aprenderla por separado. Si se enumeran los múltiplos de 9, se puede observar que el dígito de las decenas siempre es uno menos que el número multiplicado, y la suma de las unidades y las decenas siempre resulta en 9."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MAKING 100"
-msgstr "HACIENDO 100"
+msgstr "FORMAR 100"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.”\n"
+"\n"
+"**How to play:** Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total.\n"
+"\n"
+"**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
+msgstr ""
+"**Cómo se organiza:** cada jugador tiene su propia hoja dividida en 7 filas y 3 columnas. Estas columnas están identificadas como **Decenas**, **Unidades** y **Total acumulado**.\n"
+"\n"
+"**Cómo se juega:** cada jugador comienza en cero. Se tira un dado o se elige una carta del 1 al 9. Luego, cada jugador decide si usar este número como unidades o decenas en la fila actual. Por ejemplo, si sale un 4, puede ser 4 o 40. Este número se suma al total de cada jugador.\n"
+"\n"
+"**Cómo se gana:** si un jugador se pasa de 100 puntos, pierde. Si ninguno se pasa, gana el que esté más cerca de 100."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins. \n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"Existen varias opciones para este juego:\n"
+"\n"
+"* Cambiar el número objetivo\n"
+"* Jugar con menos o más filas\n"
+"* Si se pasa del número objetivo, no se pierde. El jugador que esté más cerca gana.\n"
+"* Añadir una cuarta columna de centenas para practicar con números de tres cifras.\n"
+"* Practicar la resta comenzando desde el número objetivo y restando hasta llegar a cero."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "STAKE YOUR CLAIM"
-msgstr "HAGA SU RECLAMO"
+msgstr "ASEGURA TU LUGAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value and Addition Games"
+msgstr "Juegos de valor posicional y sumas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a paper with a number line from 0 to 99 to share.\n"
+"\n"
+"**How to play:** On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line.\n"
+"\n"
+"**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
+msgstr ""
+"**Cómo se organiza:** prepara una hoja con una línea que tenga números del 0 al 99.\n"
+"\n"
+"**Cómo se juega:** en cada turno, un jugador toma dos cartas al azar del 0 al 9 y decide cómo ordenarlas para formar un número entre 00 y 99. Luego, pone ese número en su lado de la recta numérica.\n"
+"\n"
+"**Cómo se gana:** gana el primer jugador que tenga cuatro números en una región sin que haya números del oponente en medio."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variation"
+msgstr "Variación"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game can also be played from 000 to 999."
+msgstr "También se puede jugar desde 000 hasta 999."
 
 #. type=data_list
 msgctxt "data_list"
@@ -9629,8 +9909,49 @@ msgstr "GRUPOS VINCULADOS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "There are two versions of these puzzles."
+msgstr "Existen dos versiones de este juego."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
+msgstr "**Versión 1:** es igual al juego de grupos de suma de la Etapa 3, pero ahora las sumas objetivo pueden ser mayores. Los tableros pueden variar en tamaño; aquí se emplea uno de 4 por 4. El número objetivo, en este caso 13, se encuentra a la izquierda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
+msgstr "**El desafío:** se deben identificar grupos de números relacionados cuya suma sea el número objetivo (13)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
+msgstr "**Versión 2:** este es un ejemplo de un tablero de 4 por 4 con un número objetivo de 20. Como en los Grupos de Suma, el tablero se completa con pares y tríos de números que alcancen el número objetivo. Sin embargo, habrá un cuadro que no será parte de ninguno de esos grupos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
+msgstr "**El desafío:** el desafío es encontrar el único cuadro que tenga ese número. En este ejemplo, es el 5."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MISSING NUMBERS"
-msgstr "NÚMEROS AUSENTES"
+msgstr "NÚMEROS FALTANTES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Create these puzzles by taking a simple addition or subtraction equation and leaving out some of the digits. If you accidentally leave out too many numbers, that can open up a discussion of what all the possible solutions are – for example, if you start with 2 + 5 = 7 and leave out the first and third numbers, there are many solutions to ? + 5 = ?\n"
+"\n"
+"**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
+msgstr ""
+"**Cómo se elabora:** estos juegos se elaboran a partir de una ecuación básica de suma o resta y omitiendo algunos números. Si se omiten muchos números, se puede abrir un diálogo sobre las soluciones posibles. Por ejemplo, si se comienza con 2 + 5 = 7 y se omite el primer y el tercer número, habrá varias soluciones para ? + 5 = ?\n"
+"\n"
+"**Ejemplo:** los dos problemas a continuación se pueden convertir en juegos de números faltantes si se omiten un par de números en cada uno."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
+msgstr "**Desafío de sustitución de letras:** estos juegos de números faltantes representan una introducción clara al uso de variables simples. Después de practicar con estos juegos, su niño/niña podrá resolver los juegos de sustitución de letras que se encuentran más adelante en esta etapa."
 
 #. type=data_list
 msgctxt "data_list"
