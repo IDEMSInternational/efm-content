@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 11:50\n"
+"PO-Revision-Date: 2024-08-19 12:50\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8384,18 +8384,98 @@ msgstr "Etapa 3 Introducción"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n"
+"\n"
+"In addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them"
+msgstr ""
+"**Trayecto**\n"
+"\n"
+"Su niño/niña está aprendiendo a contar del 0 al 10 y comprende el valor de estos números. Empieza a comprender los conceptos básicos de la suma y la resta. Un paso clave en este proceso de aprendizaje es el dominio de la suma y la resta de 1 y 2 a partir de números pequeños. Asimismo, su niño/niña comprende las cantidades pequeñas y utiliza este conocimiento para realizar sumas y restas con números pequeños.\n"
+"\n"
+"Además de los progresos antes mencionados, ¡las capacidades de razonamiento de su niño/niña han mejorado mucho! Capta la idea de que los objetos y los números tienen rasgos específicos, y puede utilizar este conocimiento para razonar y abordar tareas básicas de resolución de problemas. Por último, su niño/niña ya puede participar plenamente en juegos y desafíos matemáticos en familia y explorar el mundo matemático que le rodea."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n"
+"* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n"
+"* Number Bonds – These are all pairs of numbers that add up to a specific number.\n"
+"* Ten Frames – Represent a number from 0 to 10 as that number of dots inside a 2 by 5 rectangular grid. For numbers greater than 4, the upper group of 5 squares is always filled.\n"
+"* Expanded Form – This refers to writing a multi-digit number broken down into the contribution of each of its digits. For example: 25 = 20 + 5 and 317 = 300 + 10 + 7.\n"
+"* Fact Families – This refers to a group of closely related math facts. For example, 2 + 5 = 7 is in the same family as 7 - 2 = 5 and 7 - 5 = 2.\n"
+"* Adding twins and near twins – An adding twin is adding a number to itself, such as 4 + 4. A near twin is one away from a twin, such as 4 + 5.\n"
+"* Doubling, multiplying by two, and halving, two equal parts, dividing in two – Children usu-\n"
+"ally enjoy adding twins. With that comes the idea of doubling and multiplying by 2. Also\n"
+"associated with that is halving, splitting something into two equal parts, and dividing by two.\n"
+"* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n"
+"* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
+msgstr ""
+"* Contar hacia adelante – Comenzar a contar desde cualquier número en lugar de siempre empezar desde uno. Esto es útil para sumar y para encontrar diferencias.\n"
+"* Contar hacia atrás – Consiste en restar hacia atrás a partir de cualquier número. Este método es útil para la resta y para desarrollar la comprensión de las relaciones entre los números.\n"
+"* Vínculos numéricos – Estos son todos los pares de números cuya suma es un número específico.\n"
+"* Cuadros numéricos – Representan un número del 0 al 10 con puntos en una cuadrícula rectangular de 2 por 5. Para números mayores a 4, siempre se llenan los cinco cuadros superiores.\n"
+"* Descomposición de números – Se trata de escribir un número de varias cifras como la suma de los valores de sus dígitos. Por ejemplo, 25 es 20 + 5 y 317 es 300 + 10 + 7.\n"
+"* Familias de operaciones – Son un conjunto de operaciones matemáticas relacionadas. Por ejemplo, 2 + 5 = 7 pertenece a la misma familia que 7 - 2 = 5 y 7 - 5 = 2.\n"
+"* Suma de números iguales y casi iguales – Una suma de números iguales es cuando se suma un número consigo mismo, como 4 + 4. Una suma de números casi iguales es cuando se suma un número que está a una unidad de distancia del otro, como 4 + 5.\n"
+"* Duplicar, multiplicar por dos, y dividir entre dos – A los niños les suele divertir sumar números iguales. Esto introduce los conceptos de duplicar (multiplicar por 2) y dividir a la mitad (dividir entre dos). A esto se asocia la idea de dividir algo en dos partes iguales y dividir entre dos.\n"
+"* Números pares e impares – Los números pares pueden dividirse en dos partes iguales. Los números impares tienen un sobrante al dividirse en dos partes iguales. Los números pares son el resultado de sumar números iguales.\n"
+"* Contar de dos en dos – Contar hacia adelante y hacia atrás de dos en dos; por ejemplo, 0, 2, 4, 6 o 13, 11, 9, 7."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "SHAPE SUMS"
-msgstr "SUMA DE FORMAS"
+msgstr "SUMA DE FIGURAS GEOMÉTRICAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**El desafío:** complete los círculos faltantes de modo que cada círculo sea la suma de todos los círculos que estén directamente debajo y conectados a ese."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"Los más básicos tienen la mayoría de los círculos ya llenos. Para niños más grandes, existen variaciones que incluyen números más grandes y soluciones más ingeniosas.\n"
+"\n"
+"**Números repetidos:** puede utilizar figuras que no sean círculos para repetir números. En un círculo, un valor puede duplicar el valor en otro círculo o figura. Pero si se utiliza una figura no circular, cada figura con ese número debe coincidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"Por ejemplo, en una partida, todos los cuadrados representan el mismo valor. Utiliza figuras que coincidan para practicar sumas iguales, casi iguales y mitades. En el primer ejemplo, se pide al jugador encontrar un número que sea la mitad de 8.\n"
+"\n"
+"**Cómo elaborarlo:** para crear estos desafíos matemáticos, comience con un diagrama lleno y luego elimina algunos números. Si hay números que se repiten, utilice un cuadrado, un triángulo u otra figura en lugar de un círculo para representarlos."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MYSTERY CHANGE"
-msgstr "CAMBIO DE MISTERIO"
+msgstr "CAMBIO MISTERIOSO"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Fact Families"
-msgstr "Familias de Hechos"
+msgstr "Familia de operaciones"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**Cómo se juega:** pídale a su niño/niña que cuente algunos objetos pequeños. Mientras no esté mirando, cambie la cantidad de objetos. Cuando vuelva a mirar, pregúntele qué hay de diferente. Recreen lo que ocurrió para poner a prueba lo que su niño/niña crea que ha sucedido.\n"
+"\n"
+"**Variaciones** Una vez que le resulte fácil, anime a su niño/niña a que sea más creativo con sus respuestas. Por ejemplo, si el 4 se convirtió en 6, podrían concluir que multiplicaron el 4 por 2 y luego le restaron 2."
 
 #. type=data_list
 msgctxt "data_list"
