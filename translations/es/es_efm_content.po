@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 13:52\n"
+"PO-Revision-Date: 2024-08-19 16:48\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8598,7 +8598,12 @@ msgstr "**Ejemplo:** en este juego, el **rojo** empieza primero. Se muestran las
 #. type=data_list
 msgctxt "data_list"
 msgid "NUMBER SHAPES"
-msgstr "FORMAS DE NÚMEROS"
+msgstr "FIGURAS NUMÉRICAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Shapes"
+msgstr "Figuras numéricas"
 
 #. type=data_list
 msgctxt "data_list"
