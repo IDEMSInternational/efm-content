@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 12:50\n"
+"PO-Revision-Date: 2024-08-19 13:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8480,27 +8480,74 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "INTRODUCING 10’S"
-msgstr "PRESENTAMOS LAS DECENAS"
+msgstr "INTRODUCCIÓN A LAS DECENAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. Before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The games on the next pages are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next Stage."
+msgstr ""
+"Bienvenido al mundo que va más allá de contar con los dedos. Aquí hay mucho por descubrir. La siguiente serie de números, del 10 al 20, son solo 10 más de los que su niño/niña ya conoce. Sin embargo, antes de que esto resulte sencillo, el niño/niña debe dominar los nombres únicos que tenemos para el once, el doce y el trece.\n"
+"\n"
+"Los juegos de la página siguiente están diseñados para mostrar la importancia del número 10 a la hora de conectar pares de números, como el 6 y el 16. Estas actividades también hacen hincapié en que el 16 debe entenderse como 10 más 6. Este enfoque para descomponer los números por su valor posicional será importante cuando su niño/niña aprenda a contar hasta 100 en la siguiente etapa."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MAKING NUMBER CARDS 1 TO 20"
-msgstr "HACIENDO TARJETAS NUMÉRICAS 1 A 20"
+msgstr "ELABORACIÓN DE CARTAS NUMÉRICAS DEL 0 AL 20"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
+msgstr "Si no los tiene todavía, elabore algunos mazos de cartas para contar del 0 al 20. Un mazo tendrá los números normales, otro tendrá los números en forma descompuesta del 0 al 20, como 0 + (0 a 9), 10 + (0 a 9), y 20 + 0, y otro mazo usará marcos de diez."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "BINGO WITH 10"
-msgstr "BINGO CON 10"
+msgstr "BINGO CON DECENAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Place a random collection of 16 Number Cards from 0 to 20 with expanded form on a 4 by 4 bingo board for each child.\n"
+"\n"
+"**How to play:** Generate random numbers to be called out one at a time. Mix up a collection of counting cards from 0 to 20. Select one card at a time from this pile until the first child gets four in a row and yells Bingo!"
+msgstr ""
+"**Cómo se organiza:** en un tablero de bingo de 4 por 4 para cada niño, distribuya de manera aleatoria 16 cartas numéricas del 0 al 20 con su forma descompuesta.\n"
+"\n"
+"**Cómo se juega:** elija números al azar para anunciarlos de uno en uno. A continuación, mezcle varias cartas del 0 al 20 y seleccione una carta a la vez. El juego continúa hasta que el primer jugador complete cuatro en fila y grite ¡Bingo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One important variation of this game is to do a “Tens-Reversed” version using cards with numerals. When a card is chosen, if it is 1 to 10, then 10 is added to find the matching value, and if it is 11 to 20, then 10 is subtracted for the matching value."
+msgstr "Una variante interesante es la versión de \\textit{decenas invertidas}, que se juega con cartas numéricas. Si la carta es del 1 al 10, se suma 10 para obtener el valor correspondiente; si es del 11 al 20, se resta 10."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MEMORY CHALLENGE – 10’S"
-msgstr "RETO DE MEMORIA – DECENAS"
+msgstr "DESAFÍO DE MEMORIA – DECENAS"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Adding and Subtracting 10"
-msgstr "Sumar y Restar 10"
+msgstr "Suma y resta con decenas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This version of the Memory Challenge game uses a Number Card deck from 0 to 20 with the rule that two numbers match if they are 10 apart. If you also have cards from 0 to 20 that use expanded form or ten frames, you should use those too. Deal a 3 by 4 grid of cards out on the table, all face-down.\n"
+"\n"
+"**How to play:** Players take turns flipping two cards face-up. If the two cards are ten apart, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards do not match, the player flips the cards back over and ends their turn.\n"
+"\n"
+"**How to win:** The game ends when the last pair of cards is taken. The player with the most cards wins."
+msgstr ""
+"**Cómo se organiza:** en esta versión del juego Desafío de memoria, se emplea un mazo de cartas numéricas del 0 al 20, con la regla de que dos números coincidirán si tienen una diferencia de 10. Además, si cuenta con cartas del 0 al 20 que representen la forma descompuesta o marcos de diez, se recomienda integrarlas. Organice las cartas sobre la mesa en una cuadrícula de 3 por 4, todas boca abajo.\n"
+"\n"
+"**Cómo se juega:** los jugadores se van turnando para voltear dos cartas boca arriba. Si las dos cartas tienen una diferencia de diez, el jugador puede quedarse con las cartas, reemplaza las dos cartas del montón para robar, y continúa su turno. Si las cartas no coinciden, el jugador voltea las cartas de nuevo boca abajo y termina su turno.\n"
+"\n"
+"**Cómo se gana:** el juego finaliza cuando se hayan emparejado todas las cartas. El jugador que haya obtenido más cartas al finalizar es el ganador."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8509,13 +8556,44 @@ msgstr "ARTE GEOMÉTRICO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Similarity and symmetry are two geometric concepts your child can play with."
+msgstr "La similitud y la simetría son dos conceptos geométricos con los que su niño/niña puede experimentar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Similar shapes:** Two shapes are similar if they have the same shape, where one may be smaller or larger than the other. Circles have the same shape, so all circles are similar. This sequence of three stars are similar.\n"
+"\n"
+"Challenge your child to pick a picture and draw it two or three times as big, or twice as small."
+msgstr ""
+"**Formas que se asemejan:** dos figuras son similares si tienen la misma forma, aunque una pueda ser más pequeña o más grande que la otra. Por ejemplo, todos los círculos son similares porque tienen la misma forma redonda. Del mismo modo, esta secuencia de tres estrellas es similar.\n"
+"\n"
+"Desafíe a su niño/niña a seleccionar una imagen y a dibujarla dos o tres veces más grande, o a la mitad del tamaño original."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Mirror symmetry:** Another geometric concept to play with is mirror symmetry. Show this using a mirror with a flat side – put it down along its edge on a drawing or photo and see what the mirror image looks like. Once your child has the idea, give your child half a picture and challenge them to draw the mirror image."
+msgstr "**Simetría especular:** la simetría especular es otro concepto geométrico interesante. Para demostrarlo, usa un espejo y ponlo sobre un dibujo o una foto para ver cómo se refleja la imagen. Cuando su niño/niña entienda el concepto, dele la mitad de un dibujo y pídale que dibuje la imagen especular."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "SIM TRIANGLE"
-msgstr "TRIÁNGULO SIM"
+msgstr "TRIÁNGULO SIMÉTRICO"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Shapes"
-msgstr "Formas"
+msgstr "Figuras geométricas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The two players have different colored markers. Place six (use more for a harder game) dots evenly around a circle. Players take turns drawing lines between the dots using their color. The loser is the first player forced to create a triangle all of whose sides have the player’s color and whose corners are on the circle."
+msgstr "**Cómo se juega:** los dos jugadores tienen marcadores de diferentes colores. Dibuje seis puntos alrededor de un círculo (dibuje más puntos para aumentar la dificultad). Los jugadores se turnan para dibujar líneas entre los puntos con sus respectivos marcadores. Pierde el primer jugador que cree un triángulo en el que todos los lados sean de su color y todas las esquinas toquen el círculo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example game:** Here is a game with 'red' moving first. This is a sequence of board positions after each of red's moves. In the last position, no matter where 'green' moves next they will form a triangle and lose."
+msgstr "**Ejemplo:** en este juego, el **rojo** empieza primero. Se muestran las posiciones del tablero después de cada movimiento de **rojo**. Al final, **verde** formará un triángulo y perderá, sin importar su siguiente movimiento."
 
 #. type=data_list
 msgctxt "data_list"
