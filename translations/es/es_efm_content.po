@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 03:43\n"
+"PO-Revision-Date: 2024-08-19 04:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7607,7 +7607,17 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "FITTING IN"
-msgstr "CONTAR SI ES APROPIADO"
+msgstr "ENCAJAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "Dele a su niño/niña algunos objetos pequeños y cuéntenlos juntos. Luego, establezca un número objetivo, por ejemplo, cinco."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "Pídale a su niño/niña que tome cinco objetos del grupo original de siete objetos. Así, aprenderá a comparar cantidades y entenderá cómo se relacionan los números."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7617,22 +7627,90 @@ msgstr "Al principio, el número objetivo debe ser menor o igual al número tota
 #. type=data_list
 msgctxt "data_list"
 msgid "INVISIBLE ADDING AND SUBTRACTING"
-msgstr "SUMAR Y RESTAR INVISIBLES"
+msgstr "SUMAS Y RESTAS INVISIBLES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**Primero:** pídale a su niño/niña que cuente algunos objetos y los meta en una caja."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**Luego:** pídale que le muestre con los dedos la cantidad de objetos que hay en la caja."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**Al final:** agregue o retire uno o dos objetos de la caja y pregúntele: “¿Cuántos objetos hay ahora en la caja?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "Cuando se vuelva muy fácil, agregue o retire más de dos objetos."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "NUMBER LINE BATTLESHIP"
-msgstr "BATALLA DE LÍNEA NUMÉRICA"
+msgstr "BATALLA NAVAL – RECTA NUMÉRICA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**Cómo se organiza:** se asignan dos líneas numéricas a cada jugador: una para los barcos y otra para adivinar. Estas líneas numéricas abarcan del 0 al 12 (o más si los niños pueden contar hasta cifras más altas). Fuera de la vista de los demás, cada persona elige dos números en su línea de barcos y coloca fichas en esas posiciones que representarán sus barcos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**Cómo se juega:** una vez listo el juego, los jugadores comienzan a adivinar números por turnos. En cada turno, un jugador propone un número y el oponente verifica qué tan cerca estuvo de los números que representan sus barcos (objetivos). Si la suposición se acerca, lo informa al jugador que adivinó. Este jugador luego marca esa información en la segunda recta numérica.\n"
+"\n"
+"**Cómo se gana:** quien logre descubrir todos los objetivos primero, gana el juego."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* Emplear un rango más amplio de números.\n"
+"* En lugar de dar una cantidad exacta, la respuesta a una suposición puede ser un rango de distancias, por ejemplo: “el barco más cercano está a 1 o 2 espacios de distancia”.\n"
+"* Que los barcos tengan una longitud de dos o tres espacios."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "WHAT’S MISSING"
-msgstr "LO QUE FALTA"
+msgstr "¿QUÉ FALTA?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Bigger and Smaller Numbers"
 msgstr "Números Más Grandes y Más Pequeños"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "Primero, se cuenta un pequeño número de objetos. Luego, se esconden algunos de ellos mientras su niño/niña mira en otra dirección. Cuando vuelva a mirar, se le pregunta cuántos objetos están escondidos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**Ejemplo:** suponga que hay 6 pasas en una mesa. Pídale a su niño/niña que mire hacia otro lado y cubra 2 de las pasas con un tazón. Luego, cuando el niño vuelva a mirar, se cuentan las 4 pasas y se le pregunta cuántas pasas hay debajo del tazón, considerando que en total hay 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "Razonamiento"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "Para que el niño pueda resolver el problema, se puede utilizar el método de contar hacia adelante desde 4 hasta 6. Mientras el niño cuenta 4, 5 y 6, se debe comenzar con 0 dedos levantados y levantar uno a la vez hasta tener 2 dedos. De manera similar, se puede practicar contar hacia atrás desde 6 hasta 4. Al entender que sumar 2 a 4 resulta en 6 y que restar 2 de 6 da 4, se refuerza la comprensión de las familias de operaciones matemáticas."
 
 #. type=data_list
 msgctxt "data_list"
