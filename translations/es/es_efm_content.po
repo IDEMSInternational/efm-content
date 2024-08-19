@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 17:51\n"
+"PO-Revision-Date: 2024-08-19 20:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8847,17 +8847,33 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "GOING UP"
-msgstr "SUBIENDO"
+msgstr "HACIA ARRIBA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
+msgstr "**Cómo se organiza:** cada jugador debe dibujar una escalera de 4 a 10 escalones. Para niños/niñas más grandes, se pueden agregar más escalones."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a two-digit number using cards numbered from 0 to 9. Determine the tens digit by selecting from cards 0 and 1, and then determine the ones digit by selecting from all the cards. If possible, the player must place this number on their steps.\n"
+"\n"
+"**How to win:** The first player to fill their steps in increasing order from bottom to top wins. Make it easier by allowing neighboring steps to have the same value."
+msgstr ""
+"**Cómo se juega:** con las cartas numéricas del 0 al 9, forme un número de dos dígitos. Elija el dígito de las decenas de entre las cartas 0 y 1, y luego elija el de las unidades de entre todas las cartas. Si puede, ponga este número en los escalones.\n"
+"\n"
+"**Cómo se gana:** ganará el jugador que complete primero sus escalones en orden ascendente, de abajo hacia arriba. Para hacer el juego más sencillo, se pueden permitir valores idénticos en escalones adyacentes."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "CREATING ORDER"
-msgstr "CREANDO ORDEN"
+msgstr "GENERAR ORDEN"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Order in the House"
-msgstr "Orden en la Casa"
+msgstr "Orden"
 
 #. type=data_list
 msgctxt "data_list"
