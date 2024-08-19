@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 20:55\n"
+"PO-Revision-Date: 2024-08-19 21:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8877,23 +8877,116 @@ msgstr "Orden"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a deck of Number Cards that goes from 0 to 40 (higher with more players). Deal ten cards to each player (as few as four for younger players). The dealt cards are placed in front of each player in the order dealt. The remaining cards are placed face down in a draw pile. Place the top card face up as the first card in a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile."
+msgstr ""
+"**Cómo se organiza:** empiece con un mazo de cartas numéricas con un rango del 0 al 40 (elija números más altos si hay más jugadores). Reparta diez cartas a cada jugador (solo cuatro para los más jóvenes). Los jugadores ponen las cartas que recibieron frente a ellos en el orden en que las recibieron. Las cartas restantes se quedan boca abajo en un montón para robar. La primera carta de este montón se voltea boca arriba al lado para formar un montón de descarte.\n"
+"\n"
+"**Cómo se juega:** en cada turno, un jugador puede elegir entre la carta superior del montón de descartes o la carta superior del montón de robo. La carta seleccionada debe reemplazar una de las cartas que el jugador tiene al frente, y la carta reemplazada se pone boca arriba en la parte superior del montón de descartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The goal of the game is to get the cards in inreasing order from left to right."
+msgstr "**Cómo se gana:** el objetivo del juego es poner las cartas en orden creciente de izquierda a derecha."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring variations"
+msgstr "Diferentes formas de puntuar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr "El juego termina cuando el primer jugador logra ordenar sus cartas. Otra opción es dar puntos al final de cada turno: el ganador recibe 15 puntos, y los demás obtienen un punto por cada carta en orden, empezando desde la más baja."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "CLOSEST TO 10"
-msgstr "MÁS CERCANO AL 10"
+msgstr "MÁS CERCANO A 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards from 1 to 10. Choose a target sum, say 10.\n"
+"\n"
+"**How to play:** Each round starts by dealing five cards face down on the table. One player randomly chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given, face up, to the other player to choose two cards to get close to the target.\n"
+"\n"
+"**Scoring:** The player whose result is closest to the target from either side wins a point. Have a number line handy to use for discussions about which result is closer to the target sum."
+msgstr ""
+"**Cómo se organiza:** con cartas numéricas del 1 al 10, elija una cantidad objetivo; por ejemplo, 10.\n"
+"\n"
+"**Cómo se juega:** en cada turno, ponga cinco cartas boca abajo sobre la mesa. Un jugador elige al azar tres cartas y las voltea. De esas tres cartas, elige dos cuya suma se acerque lo más posible a la cantidad objetivo. Las tres cartas restantes se muestran al otro jugador, quien debe seleccionar dos que se acerquen a la cantidad objetivo.\n"
+"\n"
+"**Puntuación:** el jugador cuyo resultado se acerque más al objetivo, ya sea por exceso o por defecto, se lleva un punto. Tenga a la mano una recta numérica para comparar cuál resultado se acerca más a la suma deseada."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you use subtraction instead of addition, use a lower target number, say 4."
+msgstr "Si decide restar en lugar de sumar, elija un número objetivo más bajo; por ejemplo, 4."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "ZOO RESCUE"
-msgstr "RESCATE EN EL ZOOLÓGICO"
+msgstr "RESCATE DE ANIMALES"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Small Adding and Subtracting"
-msgstr "Sumar y Restar Números Pequeños"
+msgstr "Suma y resta de cantidades pequeñas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+"\n"
+"**How to play:** During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box.\n"
+"\n"
+"**How to win:** The first player to rescue all their tokens wins.\n"
+"\n"
+"**Strategy:** An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others – you can discuss ideas about why this is."
+msgstr ""
+"**Cómo se organiza:** necesitará dos dados o dos juegos de cartas con números del 1 al 6. Cada jugador contará con 6 fichas, preferiblemente de animales. Asimismo, necesitará una hoja de papel con casillas numeradas del 0 al 5. Cada jugador decidirá dónde poner sus 6 fichas, incluso pueden ubicar más de una en una casilla.\n"
+"\n"
+"**Cómo se juega:** en cada turno, un jugador saca dos cartas o tira dos dados y resta los números que obtenga. Si el resultado de esa resta coincide con una ficha, esta se quita.\n"
+"\n"
+"**Cómo se gana:** el jugador que rescate todas sus fichas primero gana.\n"
+"\n"
+"**Estrategia:** una parte importante de este juego radica en elegir cuidadosamente las casillas al principio para poner las fichas. El niño/niña notará que algunas casillas son más comunes que otras a medida que adquiera experiencia. Luego, pueden conversar sobre por qué sucede esto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9."
+msgstr "Emplee cartas con números del 1 al 10 y prepare 10 casillas numeradas del 0 al 9."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "HOT POTATO WITH SUMS"
 msgstr "PAPA CALIENTE CON SUMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a regular deck of playing cards, have a target number of 5, and remove all cards above the target, except for one card – the 'hot potato,' which can be anything else, such as a Joker or face card. Deal the entire remaining deck to all players – it’s okay if some players get one more card than others.\n"
+"\n"
+"**How to play:** All players start by placing on the table from their hands 5’s and any pairs that add up to 5. On your turn, you can pick a random card from any other player’s hand (a simpler rule is that it is always the player on your right). If this new card gives you a pair of cards that add up to the target sum, place the pair on the table; otherwise, keep the card in your hand. Play then moves to the next player on your right.\n"
+"\n"
+"**How to win:** When play ends, the player holding the hot potato loses. Alternatively, you can play that the first player to run out of cards wins."
+msgstr ""
+"**Cómo se organiza:** use un mazo normal de cartas y elija un número objetivo; por ejemplo, el 5. Elimine todas las cartas que superen este número, excepto una carta especial, la “papa caliente”, que puede ser cualquier otra carta, como un comodín o una carta de figura. Luego, reparta el resto de las cartas entre todos los jugadores, sin importar que alguno reciba una carta extra.\n"
+"\n"
+"**Cómo se juega:** para comenzar, todos los jugadores ponen sobre la mesa los números 5 y cualquier pareja que sume 5 de las cartas que tengan en la mano. En su turno, puede elegir al azar una carta de la mano de otro jugador (o siempre de la misma persona a su derecha, como prefiera). Si esta nueva carta le permite formar una pareja que sume el objetivo, la pone sobre la mesa; de lo contrario, la deja en su mano. Luego, el turno pasa al siguiente jugador en sentido del reloj.\n"
+"\n"
+"**Cómo se gana:** al concluir el juego, el jugador que tenga la papa caliente pierde. Otra opción es jugar de modo que el primer jugador en quedarse sin cartas gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child’s adding skills improve, use larger target numbers up to 10. \n"
+"\n"
+"Varying the target number will provide practice with the various number bonds."
+msgstr "A medida que su niño/niña vaya mejorando en la suma, introduzca números más grandes hasta llegar al 10. La variación del número objetivo le permitirá practicar con distintos vínculos numéricos."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8903,7 +8996,36 @@ msgstr "SUMAS COMUNES"
 #. type=data_list
 msgctxt "data_list"
 msgid "Number Bonds"
-msgstr "Vínculos Numéricos"
+msgstr "Vínculos numéricos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Collect the data:** Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in order in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token(s) will win and why?\n"
+"* Which tokens do well and which ones do poorly?\n"
+"* Which token is the worst?\n"
+"* How will the winners change if the row lengths are made shorter or longer?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"**Recopila la información:** prepare una hoja de papel con 12 filas de 8 casillas cada una. Escriba los números del 1 al 12 en las casillas situadas más a la izquierda de cada fila. Ponga una ficha en cada número. Tire un par de dados y mueva una casilla hacia la derecha la ficha correspondiente a la suma de los dados. El objetivo es que cada ficha llegue primero al lado derecho de la hoja.\n"
+"\n"
+"Deje que su niño/niña proponga algunas preguntas. Estas son algunas preguntas de ejemplo:\n"
+"\n"
+"* ¿Qué ficha(s) serán las ganadoras y por qué?\n"
+"* ¿Qué fichas tienen un buen desempeño y cuáles tienen un desempeño deficiente?\n"
+"* ¿Cuál es la ficha con el peor rendimiento?\n"
+"* ¿Cómo se verán afectados los ganadores si se acortan o alargan las filas?\n"
+"\n"
+"Pídale a su niño/niña que exprese lo que piensa sobre las respuestas a estas preguntas y luego pon a prueba sus ideas mediante experimentos.\n"
+"\n"
+"Para añadir un elemento competitivo, traten de adivinar cuál será la ficha ganadora antes de que comience el turno."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8912,13 +9034,69 @@ msgstr "VARIACIONES DE SUDOKU"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"En esta sección, los desafíos matemáticos siguen la regla básica del sudoku: una cuadrícula se llena con números, de modo que cada número solo aparezca una vez en cada fila y cada columna.\n"
+"\n"
+"Para elaborar estos juegos, comience con un juego ya completado, retire gran parte o todos los números y luego genere subregiones junto con la información adicional correspondiente a ese tipo de reto.\n"
+"\n"
+"Para ahorrar espacio, los ejemplos que se presentan aquí son todos de 4 por 4. Puedes hacerlos más grandes tú mismo, o puedes usar versiones más grandes que encuentres en internet."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "EVEN-ODD AND KROPKI SUDOKU"
-msgstr "PARES-IMPARES Y SUDOKU KROPKI"
+msgstr "SUDOKU DE NÚMEROS PARES E IMPARES Y SUDOKU KROPKI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "Estos desafíos matemáticos tienen una regla extra: los números deben aparecer una sola vez en cada cuadrado marcado de 2 por 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**Sudoku de números pares e impares** los cuadrados con números pares están sombreados.\n"
+"\n"
+"**Sudoku Kropki:** los puntos vacíos entre las celdas representan una diferencia de uno entre los números; los puntos llenos indican que un número es la mitad del otro."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
-msgstr "SUMADOKU, RESTADOKU, SUMARESTADOKU"
+msgstr "SUMADOKU, DIFERDOKU, SUMADIFERDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "Estos desafíos, además de seguir las reglas normales de sudoku, se dividen en áreas más pequeñas con su propio número objetivo. A diferencia del sudoku estándar, un número puede repetirse en una de cada área. Si un área tiene solo un cuadrado, el número objetivo será el valor de ese cuadrado."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**Sumadoku:** la suma de los números de una subregión equivale al número objetivo.\n"
+"\n"
+"**Diferdoku:** cada subregión consta de uno o dos cuadrados. Si son dos cuadrados, el número objetivo es la diferencia entre los números.\n"
+"\n"
+"**SumaDiferdoku:** las subregiones se identifican con un signo \"+\" o \"-\" para señalar si se trata de una suma o una resta."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "Cambie los números habituales del 1 al 4 por otros números, como 1, 3, 5 y 7, para un cuadrado de 4 por 4. Si elige esta opción, indica los números en la parte superior."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8927,28 +9105,147 @@ msgstr "CIERRA LA CAJA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**Cómo se organiza:** en una hoja de papel, cada jugador tiene que escribir los números del 1 al 9 en una fila.\n"
+"\n"
+"**Cómo se juega:** para empezar un turno, el jugador suma los puntos de dos dados. Luego, con los números que aún no ha tachado, marca un grupo de uno o más números que sumen ese total. Si no puede hacerlo, no sucede nada. El jugador puede decidir de antemano si quiere usar solo un dado.\n"
+"\n"
+"**Cómo se gana:** el primer jugador en tachar todos los números gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "Para variar el juego, se pueden emplear números más grandes; por ejemplo, hasta el 10 o incluso al 12. Otra opción es dar a cada jugador un solo turno: el jugador sigue lanzando los dados hasta que no pueda avanzar más. Al final, la puntuación del jugador es la suma de los números que no tachó. Gana el jugador con la puntuación más baja."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "HIT THE TARGET"
-msgstr "DALE AL BLANCO"
+msgstr "ALCANZA EL OBJETIVO"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Sum Combinations"
-msgstr "Combinaciones de Suma"
+msgstr "Combinaciones de sumas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**Cómo se organiza:** de un mazo de cartas, retire las cartas con figuras y los números más altos que los niños no dominen. Mezcle las cartas y saca cinco para usar en el juego, más una sexta carta como objetivo. Deje las cartas restantes como un montón para robar y reemplazar según sea necesario.\n"
+"\n"
+"**Cómo se juega:** en cada turno, si un jugador puede sumar o restar dos de las cinco cartas para igualar el valor de la sexta carta, el jugador toma esas tres cartas y se sacan nuevas del montón de robo. Si no puede, se voltea otra carta y el turno pasa al siguiente jugador.\n"
+"\n"
+"**Cómo se gana:** quien tenga más cartas al final del juego gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "Pruebe estas variaciones: los jugadores pueden usar tres cartas para llegar a la sexta, no solo dos. También puede dejar que utilicen cualquier número de cartas. Otra opción es mezclar sumas y restas, con cualquier número de cartas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "¿CUÁNTOS MODOS?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"Explorar todas las formas posibles de tomar decisiones puede ser muy interesante. Aquí tienes algunas sugerencias. Diviértete inventando muchas más con su niño/niña.\n"
+"\n"
+"**Investigación 1:** ¿de cuántas formas puedes dibujar un monstruo con sombrero, ojos y capa usando solo rojo y azul?, ¿qué pasa si solo se colorea el sombrero y la capa?, ¿y si se usan tres colores, o si solo se puede usar cada color una sola vez?\n"
+"\n"
+"**Investigación 2:** imagina una fila de 5 caramelos idénticos. ¿De cuántas maneras distintas se pueden pintar para que haya 2 rojos y 3 azules?\n"
+"\n"
+"**Investigación 3:** descubrir las distintas formas en que puedes combinar un pequeño grupo de números para llegar a un total determinado, teniendo en cuenta tanto el orden como la ausencia de orden. Por ejemplo, si se emplean los números 1 y 2, hay varias formas de obtener una suma de 4. Sin tener en cuenta el orden, se puede obtener 4 de 1+1+1+1, 2+1+1 o 2+2. Teniendo en cuenta el orden, se puede obtener 4 de 1+1+1+1, 2+1+1 o 2+2. Asimismo, teniendo en cuenta el orden, también se puede obtener 4 de 1+1+1+1, 2+1+1, 1+2+1, 1+1+2 o 2+2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "¿CÓMO PUEDO OBTENER?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Let Me Count the Ways"
-msgstr "Permítame Contar las Maneras"
+msgstr "Déjame contar todos los modos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"Una persona le da a la otra un número objetivo y la desafía a encontrar diferentes formas de sumar o restar para obtener ese número. Por ejemplo, si el objetivo es 3, el proceso podría comenzar con 1 + 2 y progresar a 1 + 5 - 3, y así sucesivamente.\n"
+"\n"
+"Agregue restricciones para hacerlo más desafiante. Por ejemplo, podría prohibir el uso de números menores a 4 o permitir solo números inferiores a 4.\n"
+"\n"
+"Plantee preguntas como la siguiente para convertir esta actividad en una investigación. ¿De cuántas formas se puede obtener 5 si solo sumamos 1 y 2?\n"
+"\n"
+"A medida que su niño/niña mejore en matemáticas, puede enseñarle habilidades adicionales como duplicar y dividir entre dos. Por ejemplo, 5 se puede entender como el doble de 2 más 1, o como dos veces 10 menos tres veces 5."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "NUMBER SCRAMBLE"
-msgstr "COMPONIENDO NÚMEROS"
+msgstr "MEZCLA DE CIFRAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**Cómo se organiza:** para formar un número de dos dígitos, tire un dado dos veces: el primer tiro será las decenas y el segundo será las unidades. Después, tire cinco dados para tener los números con los que jugar.\n"
+"\n"
+"**El desafío:** emplea sumas, restas y números de dos dígitos para acercarte lo más posible al número objetivo. La puntuación dependerá de qué tan cerca se llegue.\n"
+"\n"
+"**Cómo se gana:** en cada turno, puedes decidir quién gana, o sumar los puntajes de varios turnos para determinar un ganador general con el puntaje más bajo. También se puede jugar sin llevar un registro de los puntajes y simplemente disfrutar del desafío."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**Ejemplo 1:** si los dados caen así: 4, 4, 3, 1, 3 y 22, entonces el primer jugador obtiene 4 + 4 + 3 + 1 + 3 = 15; otro jugador obtiene 14 + 4 + 3 + 3 = 24; y otro jugador obtiene 34 - 14 + 3 = 23.\n"
+"\n"
+"**Ejemplo 2:** digamos que tira los dados y obtienes 1, 2, 5, 6, 4, y 63 como número objetivo. Un jugador se acerca con 65 - 4 + 2 + 1 = 64. Otro jugador acierta exactamente con 56 + 4 + 2 + 1 = 63. Además, un tercer jugador señala que la suma de 52 + 6 + 4 + 1 también da 63. Luego, pueden conversar sobre por qué algunos problemas tienen varias soluciones."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "ANY WHICH WAY"
-msgstr "DE CUALQUIER MANERA"
+msgstr "DE CUALQUIER MODO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "Juntando las partes"
 
 #. type=data_list
 msgctxt "data_list"
