@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-20 02:20\n"
+"PO-Revision-Date: 2024-08-20 03:21\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10631,13 +10631,96 @@ msgstr "Práctica"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"El ejercicio es el siguiente:\n"
+"\n"
+"1. es una unidad\n"
+"2. es un primo\n"
+"3. es un primo\n"
+"4. es 2 al cuadrado\n"
+"5. es un primo\n"
+"6. es 2 x 3\n"
+"7. es un primo\n"
+"8. es 2 al cubo\n"
+"9. es 3 al cuadrado\n"
+"10. es 2 x 5\n"
+"11. es un primo\n"
+"12. es 2 al cuadrado x 3\n"
+"13. es un primo\n"
+"14. es 2 x 7\n"
+"15. es 3 x 5\n"
+"16. es 2 al cuarto\n"
+"17. es un primo\n"
+"18. es 2 x 3 al cuadrado\n"
+"19. es un primo\n"
+"20. es 2 al cuadrado x 5\n"
+"21. es 3 x 7\n"
+"22. es 2 x 11\n"
+"23. es un primo\n"
+"24. es 2 al cubo x 3"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "PRODUCT PYRAMID"
-msgstr "PIRÁMIDE DE PRODUCTO"
+msgstr "PIRÁMIDE DE PRODUCTOS"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Factoring With Primes"
-msgstr "Factorización con Primos"
+msgstr "Factorización con números primos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"Estos desafíos representan la variante de multiplicación de las pirámides de sumas que se encuentran en la Etapa 4. Se suministra un número objetivo y una pirámide de números.\n"
+"\n"
+"**El desafío:** la cuestión consiste en encontrar una secuencia de números consecutivos hacia abajo para que, al multiplicarlos, se obtenga el número objetivo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"En esta pirámide, el objetivo es llegar a 36. Las líneas rojas muestran la ruta correcta.\n"
+"\n"
+"Estos juegos son más fáciles de resolver si se comienza por descomponer el número objetivo en sus factores primos. Dado que 36 es igual a 2 × 2 × 3 × 3, es necesario identificar estos factores primos a lo largo del proceso, lo cual facilita la búsqueda.\n"
+"\n"
+"Además, comprender la factorización en primos también simplifica mucho la creación de estos juegos."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10646,13 +10729,59 @@ msgstr "100 RISAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**Cómo se organiza:** para este ejercicio, se empleará una baraja de cartas en la que las Q representen 0, las A representen 1 y los números disponibles sean del 2 al 9. El número objetivo se establece en 100. Se escogen cuatro cartas al azar en un orden específico para crear dos números de dos dígitos que se utilizarán como recurso compartido.\n"
+"\n"
+"**Cómo se juega:** cada jugador recibe 14 cartas al azar boca arriba. En cada turno, un jugador debe seleccionar exactamente dos de sus cartas y ponerlas sobre dos de las cuatro cartas disponibles. Si la suma de los dos números de dos dígitos es igual al objetivo, el jugador gana un punto. El nombre del juego surge de la acción opcional de reír cada vez que se alcance la cantidad objetivo.\n"
+"\n"
+"**Cómo se gana:** una vez que se hayan utilizado todas las cartas, el jugador con la mayor cantidad de puntos es el ganador."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* Fijar el objetivo en 100 es conveniente para ejercitar las combinaciones numéricas de 10. Sin embargo, es recomendable utilizar otros objetivos para ofrecer variedad y practicar distintas combinaciones numéricas.\n"
+"* Cada jugador recibe menos o más de 14 cartas.\n"
+"* Combine la resta con un objetivo numérico menor."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "5-CARD DRAW TO A TARGET"
-msgstr "SORTEO DE 5 CARTAS HACIA UN OBJETIVO"
+msgstr "5 CARTAS PARA LLEGAR A UN OBJETIVO"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Adding and Subtracting"
-msgstr "Sumando y Restando"
+msgstr "Sumas y restas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**Cómo se organiza:** se elige un número objetivo, por ejemplo, 100.\n"
+"\n"
+"**Cómo se juega:** cada jugador elige cinco cartas al azar del 0 al 9. Con estas cartas, se forman dos números de dos dígitos, sin utilizar la quinta carta. Luego, se suman los dos números y el jugador que se aproxime más al objetivo gana un punto en esa ronda.\n"
+"\n"
+"**Cómo se gana:** el jugador que obtenga más puntos tras un número fijo de rondas será el ganador."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "Una alternativa sería utilizar números de tres dígitos, establecer un objetivo de 1000 y dar a cada jugador siete cartas. Otra opción sería emplear la resta con un número objetivo menor."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10661,18 +10790,100 @@ msgstr "SUSTITUCIÓN DE LETRAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "Sustitución de letras"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**Cómo se organiza:** en estos juegos, se reemplazan los dígitos individuales por letras. Aunque pueden parecerse al juego de número faltante de etapas anteriores, el uso de letras ofrece nuevas oportunidades para resolver problemas. Una vez que su niño/niña domine el juego de número faltante, es recomendable probar con este.\n"
+"\n"
+"En estos desafíos, se aplican tres reglas al uso de letras:\n"
+"\n"
+"* Cada letra representa siempre el mismo dígito, del 0 al 9\n"
+"* El dígito más a la izquierda de un número nunca puede ser 0\n"
+"* Cada letra debe representar un dígito diferente"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**Cómo se elabora:** elija un problema común de suma o resta y modifique uno o más números. Utilice la misma letra para el mismo número. En este ejemplo, el dígito 6 se reemplaza por **A** en ambas posiciones."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**Desafíos especiales:** las características de este tipo de juego facilita la creación de desafíos complejos. Aunque el diseño requiere tiempo y planificación, el producto final son desafíos muy entretenidos.\n"
+"\n"
+"Hay que tener en cuenta que los valores de las letras no se mantienen de un juego a otro. Por ejemplo, la \\textit{B} que vale 1 en el primero, tiene un valor de 4 en el segundo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "FILLING REGIONS WITH SHAPES"
-msgstr "LLENANDO REGIONES CON FORMAS"
+msgstr "FIGURAS DENTRO DE FIGURAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"Supongan que tienen un tablero de ajedrez de 8x8 y piezas de 1x2. Es fácil cubrir el tablero entero usando 32 piezas.\n"
+"\n"
+"**Elimine las esquinas:** si se retira una esquina del tablero de ajedrez, se observa que no es posible cubrir el tablero con fichas de 1x2, ya que estas cubren un número par de cuadrados y quedarían 63 cuadrados restantes. Si se retiran dos esquinas, se obtiene un número par de cuadrados restantes, pero la posibilidad de cubrir el tablero depende de las esquinas que se retiren. ¿Qué explicación tiene esto? ¿Qué ocurre si se retiran otros tipos de cuadrados además de las esquinas?\n"
+"\n"
+"**Aprender de ejemplos sencillos:** una estrategia para resolver este tipo de preguntas sería aprender de problemas más sencillos. Trate de responder las preguntas en un tablero de 4x4 o 6x6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "Experimente con figuras distintas para llenar el tablero. Pruebe con fichas de 1 por 3 o con 3 cuadrados en forma de L. ¿Qué patrones y reglas se pueden encontrar?, ¿qué otras figuras se podrían examinar?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "FILLING SQUARES WITH SQUARES"
-msgstr "LLENADO CUADRADOS CON CUADRADOS"
+msgstr "CUBRIR CUADRADOS CON CUADRADOS"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Shapes Inside Shapes"
-msgstr "Formas dentro de formas"
+msgstr "Figuras dentro de figuras"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**El desafío:** ¿Cómo se puede llenar un cuadrado con otros cuadrados de diferentes tamaños? La pregunta clave es: ¿Cuáles son todas las combinaciones posibles de cuadrados? Y para los casos posibles, ¿existe una forma fácil de explicar cómo hacerlo?\n"
+"\n"
+"Deje que su niño/niña trabaje en esto durante varios días sin apresurarse a encontrar una solución. A continuación, se muestra un diagrama que ilustra cómo se puede obtener 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr ""
+"¿Qué pasa si solo se permiten cuadrados de ciertos tamaños, como 1 por 1, 2 por 2 o 3 por 3?, ¿y si se llenan otras figuras con otras figuras de formas parecidas?\n"
+"\n"
+"Por ejemplo, usando triángulos equiláteros (triángulos con todos los lados iguales). ¿Qué otras figuras sería interesante explorar de esta manera?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10681,13 +10892,56 @@ msgstr "EL JUEGO DEL PRODUCTO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**Cómo se organiza:** llene una hoja con la información que se muestra en el ejemplo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**Cómo se juega:** para empezar, el primer jugador pone una ficha en cualquier número del 1 al 9 dentro de los cuadros del 1 al 9. A continuación, el segundo jugador pone otra ficha en un número diferente dentro del mismo rango y reclama el producto en la cuadrícula de 6 por 6. Desde ese momento, cada jugador tiene la opción de mover una de las fichas y reclamar el producto resultante, siempre que sea posible."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**Cómo se gana:** el jugador que complete primero una fila de 3 cuadrados gana.\n"
+"\n"
+"**Variaciones:** altere los números de producto para que su niño/niña mejore su capacidad para identificarlos. Además, revise el material complementario de la Etapa 5 para ver diseños de tableros más grandes con rangos más amplios."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "ISLAND HOPPING WITH PRODUCTS"
-msgstr "SALTANDO ISLAS CON PRODUCTOS"
+msgstr "RECORRIENDO ISLAS CON PRODUCTOS"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Multiplying and Multiples"
-msgstr "Multiplicación y Múltiplos"
+msgstr "Multiplicación y múltiplos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"Estos juegos tienen islas (círculos y cuadrados) conectadas por puentes (líneas). Si hay dos círculos a cada lado de un cuadrado, entonces el cuadrado contiene el producto de los dos círculos.\n"
+"\n"
+"**El desafío:** completar los números faltantes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**Cómo se elabora:** primero se llenan los círculos, después los cuadrados y finalmente se eliminan algunos números antes de entregárselos a su niño/niña.\n"
+"\n"
+"Además de practicar la multiplicación, este juego se puede diseñar para practicar factores comunes. En el primer ejemplo, el único número aparte del 1 que divide a 14 y 21 es el 7; por lo que ese es el número del círculo inferior."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10696,28 +10950,140 @@ msgstr "CONTANDO VECINOS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**Cómo se organiza:** se requieren tres dados y un tablero de 8 por 8 con números del 1 al 64.\n"
+"\n"
+"**Cómo se juega:** el jugador lanza los dados y emplea la suma, la resta, la multiplicación o la división para generar un número que no esté marcado en el tablero. El número se marca y se otorgan puntos: uno por el número marcado y uno adicional por cada número marcado que esté adyacente o diagonal al número marcado. Si un jugador no puede formar un número válido, otro jugador que encuentre un número válido puede reclamar esos puntos.\n"
+"\n"
+"**Cómo se gana:** se juegan cinco rondas o más. Gana quien tenga la puntuación más alta."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "Otra opción sería añadir un cuarto dado y utilizar un tablero más pequeño o más grande."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MAKING A MOBILE"
-msgstr "HACIENDO UN MÓVIL"
+msgstr "ELABORAR UN MÓVIL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**Cómo se organiza:** recibirás unos pesos y un diseño para armar un móvil que tiene varios puntos de sujeción. El objetivo es poner como máximo un peso en cada punto de sujeción para que el móvil se mantenga equilibrado en todos los brazos. Es importante tener en cuenta que los cables que sujetan el móvil no tienen peso. Cada brazo del móvil funciona como una palanca que debe estar equilibrada. Esta actividad es una extensión del juego de equilibrio de palancas que se presentó previamente en esta etapa; por lo tanto, se aconseja practicar esos primeros antes de intentar resolver estos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**Ejemplo:** empiece con móviles básicos, que consisten en palancas suspendidas en el aire. Esta es una solución para equilibrar un móvil de este tipo con pesos comprendidos entre 1 y 4. Este método funciona porque 2 x 4 + 1 x 2 es igual a 4 x 1 + 3 x 2.\n"
+"\n"
+"**Ejemplos más difíciles:** para equilibrar el cable superior, ajuste los pesos inferiores de manera que la suma de los pesos a un lado del cable (1 + 3), multiplicada por 3, sea igual a la suma de los pesos del otro lado (4 + 2), multiplicada por 2. Esto se expresa como (1 + 3) x 3 = (4 + 2) x 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "Consulte el material complementario de la Etapa 5 para ver más ejemplos y una explicación más completa sobre los móviles."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "LIMITED CALCULATORS"
-msgstr "CALCULADORAS LIMITADAS"
+msgstr "CALCULADORAS CON LIMITES"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Add, Subtract, and Multiply"
-msgstr "Sumar, Restar y Multiplicar"
+msgstr "Suma, resta y multiplicación"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**Cómo se organiza:** imagine que tiene una calculadora muy dañada y lo desafían a hacer un cálculo. Este juego se puede jugar de manera oral en cualquier rato libre. Estos son algunos ejemplos para iniciar.\n"
+"\n"
+"**Ejemplo:** imagine que tiene una calculadora con las operaciones básicas de suma (+), resta (-), multiplicación (x) y división (/), pero solo la tecla 4 funciona. ¿Sería posible obtener el 21 como resultado? En caso afirmativo, ¿cuál sería la menor cantidad de operaciones necesarias? Además, si se pudiera utilizar el número 4 hasta cuatro veces, ¿qué otros números se podrían formar?, ¿y si tuviera que utilizar el número 4 exactamente cuatro veces? Experimente con diferentes números para descubrir qué resultados se pueden obtener."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**Ejemplo:** imagine que la calculadora solo permite sumar 4 o 7. ¿Qué resultados se podrían obtener?\n"
+"\n"
+"**Ejemplo:** supongamos que la calculadora solo cuenta con las teclas 4 y 7, y tiene la capacidad de sumar y restar. ¿Qué otros números se podrían generar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"Estas son las mismas actividades que hemos visto previamente, como con la balanza de pesos.\n"
+"\n"
+"**Ejemplo:** supongamos que solo pudieras utilizar la tecla del número 1 y solo pudiera sumar o duplicar. Por ejemplo, 2 x (2 x 1) + 1 es igual a 5. ¿Qué otros números pudieras formar?\n"
+"\n"
+"**Ejemplo:** ¿Qué le parece el reto de los cuatro 4? Imagine que tiene una calculadora con solo la tecla 4, y puede sumar, restar, multiplicar y dividir. ¿Cuántos números distintos se pueden obtener, empezando desde 1, si tuvieras que usar exactamente cuatro veces el número 4?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "GRABBING FACTORS"
-msgstr "AGARRANDO FACTORES"
+msgstr "CAPTURANDO FACTORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**Cómo se organiza:** se requiere un tablero con una cuadrícula de 4 por 6 con números del 1 al 24.\n"
+"\n"
+"**Cómo se juega:** en cada turno, un jugador elige un número que no haya sido seleccionado previamente y que tenga al menos un factor que tampoco haya sido seleccionado. El jugador se queda con el número elegido, mientras que el otro jugador se queda con uno o más de los factores sin seleccionar, según su elección. El juego continúa de esta manera hasta que ya no queden números que cumplan con estas condiciones.\n"
+"\n"
+"**Cómo se gana:** los participantes suman los números que tienen y gana quien tenga la suma más alta.\n"
+"\n"
+"**Solitario de recaudador de impuestos:** esta actividad también se puede jugar en solitario con el nombre \\textit{recaudador de impuestos}. En esta versión, el jugador selecciona cada número y el recaudador de impuestos recoge todos los factores disponibles. El juego continúa hasta que el jugador ya no pueda hacer movimientos válidos, momento en el que el recaudador de impuestos recibe los números restantes. El objetivo es acumular una suma mayor que el recaudador de impuestos, siempre que sea posible."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "Establezca el rango de números según el nivel de habilidad de los jugadores. Puede ser del 1 al 12 o tan alto como del 1 al 60."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "BOUNCING BILLIARD BALL"
-msgstr "BOLA DE BILLAR QUE REBOTE"
+msgstr "BOLA DE BILLAR REBOTADORA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "Factores y múltiplos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "Imagine una mesa de billar con una tronera en cada esquina. Cuando una bola rebota en el borde de la mesa, sale en el mismo ángulo en que entró."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10726,23 +11092,135 @@ msgstr "DOBLE O NADA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**Cómo se organiza:** para empezar el juego, los jugadores eligen en secreto cinco números diferentes entre el 20 y el 121. Una vez que todos hayan elegido, se anotan los números en un lugar visible para que todos los jugadores los vean.\n"
+"\n"
+"**Cómo se juega:** se utiliza un sistema de cartas numéricas u otro método para obtener un número del 1 al 20. Este número se duplica varias veces hasta que supere 120 o coincida con un número elegido por uno de los jugadores.\n"
+"\n"
+"**Cómo se gana:** el primer jugador que acierte los cinco números elegidos gana la partida."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "Estrategias para seleccionar números"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "No es recomendable elegir un número como el 46, ya que no resulta de multiplicar una potencia de 2 por un número entre 1 y 20. Este número nunca coincidirá con un número elegido. En contraste, números como el 32, que tienen varios factores de 2, tienen más probabilidades de que coincidan con algún número elegido, ya que hay más números iniciales que pueden resultar en ellos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "Como alternativa, se puede triplicar el número en cada turno en lugar de duplicarlo. También es posible duplicar el número y sumarle 1 en cada turno. Para jugadores más pequeños, se recomienda seleccionar números entre 10 y 60, así como un número aleatorio del 1 al 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "GUERRA DE FACTORES"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Factors Count"
-msgstr "Recuento de Factores"
+msgstr "Conteo de factores"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**Cómo se organiza:** se requieren dos juegos de cartas. Cada uno con números del 1 al 25.\n"
+"\n"
+"**Cómo se juega:** en la versión de guerra con cartas, gana la carta con el mayor número de factores. Por ejemplo, 12 vence a 16 porque tiene 6 factores (1, 2, 3, 4, 6 y 12), mientras que el 16 solo tiene 5 factores (1, 2, 4, 8 y 16). Para ganar las cartas, el poseedor de la carta ganadora debe ser capaz de enumerar correctamente los factores; de lo contrario, las cartas se barajan de nuevo en la pila de cada jugador. En caso de empate, se voltean las cartas sucesivas y el ganador se lleva todas las cartas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "Se puede jugar de manera que gane el número con menos factores. También se puede contar únicamente la suma de los factores primos en lugar de todos los factores. Otra opción sería jugar de modo que las potencias primas (números que son potencia de un primo) venzan a otros números."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "CROSSING THE VOLCANO"
-msgstr "CRUZANDO EL VOLCÁN"
+msgstr "CRUZAR EL VOLCÁN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**Cómo se organiza:** se requiere una tabla del 100 en la que los 36 cuadros en los bordes estén en color gris. Se pueden usar cartas de juego sin figuras o cartas numéricas del 1 al 10.\n"
+"\n"
+"**Cómo se juega:** en cada turno, si se elige un 1, se puede reclamar cualquier número impar. Si se elige otro número, se puede reclamar cualquier múltiplo de ese número. Una vez reclamado un número, el oponente no puede reclamarlo. El objetivo es conectar un borde con el borde opuesto en cualquier dirección. No es necesario seguir un orden específico para reclamar los cuadros."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "Se puede optar por permitir o no las conexiones diagonales. Además, se pueden incluir cartas con imágenes, que al recibir, permiten bloquear un cuadro que no podrá usarse."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "CHECKERS MATH"
-msgstr "JUEGO DE LAS DAMAS EN MATEMÁTICA"
+msgstr "MATEMÁTICAS CON DAMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "Juegos de multiplicación"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**Cómo se organiza:** este juego está basado en las damas. Cada jugador tiene 10 fichas numeradas del 1 al 10. La ficha con el número 10 también tiene el número 11. Las fichas comienzan en los extremos de una tabla de 100: un jugador en las casillas del 1 al 10 y el otro en las casillas del 91 al 100.\n"
+"\n"
+"**Cómo se juega:** al principio, las fichas solo pueden moverse una fila hacia adelante a cualquier múltiplo del número en la ficha que elijan. Para el jugador que comienza en las casillas del 1 al 10, avanzar significa moverse a números mayores y para el jugador en las casillas del 91 al 100, avanzar significa moverse a números menores. Una vez que una ficha cruza el tablero, se convierte en reina y puede moverse una fila hacia adelante o hacia atrás. Para capturar una ficha del oponente, se debe aterrizar en ella. No se pueden apilar fichas del mismo jugador.\n"
+"\n"
+"**Cómo se gana:** para ganar, se debe capturar todas las piezas del oponente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "Variaciones"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "Para los más pequeños, se puede reducir el tablero a las primeras 6 filas, es decir, los números del 1 al 60. Los niños que no conozcan todos los múltiplos pueden contar de 10 en 10 para saber cuántos pasos avanzar."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MULTIPLICATION BINGO"
 msgstr "BINGO DE MULTIPLICACIÓN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**Cómo se organiza:** cada jugador empieza con un cuadrado de 4 por 4 con números que podrían resultar de multiplicar dos números entre sí. El jugador puede asignar los números al azar o seleccionar cada uno.\n"
+"\n"
+"**Cómo se juega:** se ponen dos cartas boca arriba en la mesa. Si un jugador tiene el producto de esos dos números, lo cubre. Después, los jugadores toman turnos para sacar una carta del mazo y reemplazar una de las dos cartas en la mesa. Los jugadores que tengan una carta con el producto también la cubren.\n"
+"\n"
+"**Cómo se gana:** gana el jugador que primero complete una fila de 4."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10752,7 +11230,34 @@ msgstr "PRODUCTOS CRUZADOS"
 #. type=data_list
 msgctxt "data_list"
 msgid "Interesting Products"
-msgstr "Productos Interesantes"
+msgstr "Productos interesantes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"Este juego de multiplicación puede ser de 3x3, donde cada número del 1 al 6 se usa una vez, o de 4x4, donde cada número del 1 al 8 se usa también una vez.\n"
+"\n"
+"**El desafío:** completa algunos cuadros con dos números en cada fila y columna. El producto de los números en cada fila debe ser igual al número marcado a la izquierda, y el producto de los números en cada columna debe coincidir con el número marcado arriba. Si hay filas o columnas sin número marcado, no habrá restricciones en el producto en esos casos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**Ejemplos:** para resolver este desafío, se debe ubicar las filas y columnas con los dos números correctos. La columna con el número 30 debe tener 5 y 6. La fila con el número 10 debe incluir 2 y 5. La columna con el número 12 debe mostrar 3 y 4, y la fila con el número 4 debe contener 1 y 4. El resto se resuelve fácilmente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"La fila con el número 5 debe tener 1 y 5. La fila con el número 21 debe incluir 3 y 7. La fila con el número 32 debe tener 4 y 8. La fila superior, por eliminación, debe tener 2 y 6. La columna con el número 7 debe tener 1 y 7. La columna con el número 40 debe incluir 5 y 8. La columna con el número 18 debe tener 3 y 6. La segunda columna debe tener 2 y 4. Combina todos estos elementos para obtener la solución.\n"
+"\n"
+"**Cómo se elabora:** como suele ser el caso con estas actividades, el adulto puede rellenar los números primero, luego anota los números y después los borra."
 
 #. type=data_list
 msgctxt "data_list"
