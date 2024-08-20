@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-20 01:14\n"
+"PO-Revision-Date: 2024-08-20 02:20\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10519,13 +10519,52 @@ msgstr "UNA DEFINICIÓN Y UNA REGLA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The definition:** Just as 4 × 2 is a quick way to write 2 + 2 + 2 + 2, so 2<sup>4</sup> is a quick way to write 2 × 2 × 2 × 2. It’s much easier to say and understand the phrase “two to the fourth,” than to say “two times two times ... “\n"
+"\n"
+"**Special names:** The second power, 4<sup>2</sup> for example, can be said **four squared,** and the third power, 4<sup>3</sup> for example, can be said **four cubed.**\n"
+"\n"
+"**The rule:** When powers of the same number are multiplied, a simple rule governs how to simplify the result – add the powers. For example, if you do 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, we have two fours multiplied by three fours, so the result is five fours being multiplied.\n"
+"\n"
+"**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
+msgstr ""
+"**La definición:** al igual que 4 × 2 es una forma abreviada de escribir 2 + 2 + 2 + 2, 2<sup>4</sup> es una forma abreviada de escribir 2 × 2 × 2 × 2. Es más sencillo y claro decir dos a la cuarta potencia que decir repetidamente dos por dos por…\n"
+"\n"
+"**Nombres especiales:** la segunda potencia, por ejemplo 4<sup>2</sup>, puede expresarse **cuatro elevado al cuadrado**, y la tercera potencia, por ejemplo 4<sup>3</sup>, puede expresarse **cuatro elevado al cubo**.\n"
+"\n"
+"**La regla:** en la multiplicación de potencias del mismo número, se sigue una regla sencilla: se suman los exponentes. Por ejemplo, en el caso de 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>. Es decir, se multiplican dos cuatros por tres cuatros, lo que da como resultado cinco cuatros en total.\n"
+"\n"
+"**Atención:** cabe destacar que la regla para agregar exponentes solo funciona cuando se usa el mismo número en ambas potencias. Por lo tanto, la expresión, $3<sup>2</sup> × 5<sup>3</sup> no puede simplificarse fácilmente."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "REUSE OLD ADDITION ACTIVITIES"
-msgstr "REUTILIZAR LAS ACTIVIDADES ADICIONALES"
+msgstr "REUTILIZA ACTIVIDADES DE SUMAS"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Feel the Power"
-msgstr "Sienta el Poder"
+msgstr "Siente la potencia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**Reutiliza juegos anteriores:** dado que los exponentes se suman al multiplicar potencias, se pueden emplear actividades de suma para practicar la multiplicación de números en potencia. Entre estas actividades se encuentran: Etapa 3 - suma de figuras y grupos de sumas; Etapa 4 - sumas cerradas, triángulos de sumas y corrígelo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr "A la izquierda se muestran dos ejemplos de la Etapa 3 - sumas de figuras geométricas. A la derecha, se muestran los mismos ejemplos pero para Productos de figuras geométricas, donde se emplea la multiplicación en lugar de la adición."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "El manejo de potencias se convertirá en una tarea rutinaria y tan fácil como los problemas originales de suma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "Si a su niño/niña le gustan estos problemas y quiere un desafío adicional, incluya varios números elevados a potencias. Por ejemplo, al multiplicar (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>)</sup></sup>, la regla de adición de exponentes se aplica por separado a las potencias de 4 y a las potencias de 3, lo que da como resultado 4<sup>7</sup> × 3<sup>5</sup>."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10534,8 +10573,61 @@ msgstr "ÁRBOLES DE FACTORES"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "Hallando factorizaciones primas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "Los árboles de factores se basan en el concepto de productos de figuras de la sección anterior. El objetivo es reducir un número a sus factores primos. Esto permite descubrir varios aspectos sobre ese número."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr ""
+"**Ejemplo:** a partir de un número, como 54, se pueden explorar varias formas de descomposición, tales como 9 x 6, 18 x 3, o 3 x 3 x 6. Cada una de estas maneras da origen a un árbol de factores.\n"
+"\n"
+"Aunque todos los árboles terminan con los mismos factores primos, 2 x 3 x 3 x 3, se puede notar cómo se obtienen estos factores de diferentes maneras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "Preguntas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"Después de hacer varios ejemplos como estos, es probable que su niño/niña comience a plantearse algunas preguntas.\n"
+"\n"
+"* ¿Por qué algunos árboles tienen más niveles que otros?\n"
+"* ¿Por qué algunos árboles son más amplios que otros?\n"
+"* ¿Por qué las hojas siempre acaban en números primos?\n"
+"* ¿Por qué las hojas siempre muestran la misma lista de números primos, aunque a veces estén reordenados?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "PRACTICE PRIME FACTORIZATIONS"
-msgstr "PRACTICA FACTORIZACIONES DE PRIMOS"
+msgstr "FACTORIZACIÓN CON NÚMEROS PRIMOS – PRÁCTICA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "La descomposición de números en factores primos puede llevarse a cabo durante períodos de ocio o viajes. Esta práctica permite familiarizarse con las potencias y será valiosa para futuros temas, como las fracciones. Procure que la actividad se ajuste al nivel de confort de su niño/niña."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "Práctica"
 
 #. type=data_list
 msgctxt "data_list"
