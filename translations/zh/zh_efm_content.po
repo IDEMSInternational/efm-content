@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-22 20:17\n"
+"PO-Revision-Date: 2024-08-22 21:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26865,6 +26865,11 @@ msgstr "EFM 软件已进行了下载和更新。请重启应用程序以完成�
 
 #. type=template
 msgctxt "template"
+msgid "Restart"
+msgstr "重新开始"
+
+#. type=template
+msgctxt "template"
 msgid ""
 "First and foremost, playing math games should be fun, like any other game your family plays together!\n"
 "\n"
@@ -26889,6 +26894,21 @@ msgstr "帮助你的孩子"
 
 #. type=template
 msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "阅读额外的内容"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "活动 – 额外内容"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "前言"
+
+#. type=template
+msgctxt "template"
 msgid "Individually"
 msgstr "单独地"
 
@@ -26896,6 +26916,26 @@ msgstr "单独地"
 msgctxt "template"
 msgid "By topic"
 msgstr "按主题"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**阶段**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**额外的内容**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "额外的内容 – 活动"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "没有匹配"
 
 #. type=template
 msgctxt "template"
