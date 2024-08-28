@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-28 18:32\n"
+"PO-Revision-Date: 2024-08-28 19:31\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6882,6 +6882,11 @@ msgstr "红色三角形是唯一的非正方形，带孔的红色正方形是唯
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "寻宝游戏"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "DESCRIBING SCENES"
 msgstr "场景描述"
 
@@ -6930,6 +6935,11 @@ msgstr "这是谁?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "这是一个适合多人参与的活动。领导者秘密选择小组中的一人。为了找出这个神秘人，玩家可以问类似“这个人穿着前面有三角形图案的衬衫吗？”或“这个人的头发超过12英寸长吗？”这样的问题来缩小范围。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "这到底是谁的形状？"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7215,6 +7225,31 @@ msgstr ""
 "从抽牌堆中抽取一张牌并宣布其数字。每个玩家可以翻开他们的网格中与所抽取数字相匹配的一张牌。如果玩家有多张匹配的卡片，玩家必须选择翻开哪一张。\n"
 "\n"
 "**赢家:** 第一个将四张卡片水平、垂直或对角线翻转的玩家赢得游戏，并喊出“宾果！”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "来回移动 – 12"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr "**准备工作：**每个玩家从一个0到12的空板开始。首先在任意三个数字上放置红色标记（目标），并在0上放置一个黑色标记（玩家）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**游戏步骤：**轮到你时，掷骰子并将你的黑色标记向前或向后移动相应的步数。如果你落在红色标记上，移除该标记并保留它。\n"
+"\n"
+"**目标：**第一个移除所有三个红色标记的玩家获胜。\n"
+"\n"
+"**示例移动：** 假设首次掷骰结果为5，玩家可以移动到5。如果下一次掷骰结果为3，玩家可以选择移动到2或8。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8159,6 +8194,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "一把抓"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "15 SLIDING PUZZLE"
 msgstr "数字华容道"
 
@@ -8634,6 +8674,24 @@ msgstr ""
 "**两个孩子的玩法:** 每个孩子抽一张卡片，并将其正面朝外放在额头上。您宣布他们两张卡片数字之和，孩子们需要通过观察对方的卡片来猜出自己额头上的数字。\n"
 "\n"
 "**一个大人、一个孩子的玩法:** 提前准备几对数字总和相同的卡片。未使用的卡片放到一边。随机抽取一对卡片，将卡片放在你们的额头上，通过观察对方的卡片来猜出每张卡片的数字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "站立/坐下"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"*将10替换为其他数字。\n"
+"*当数字大于5时站立；如果数字为5或以下则坐下。\n"
+"*当数字为偶数时站立；当数字为奇数时坐下。\n"
+"*如果数字中出现了数字1则站立；否则坐下。"
 
 #. type=data_list
 msgctxt "data_list"
