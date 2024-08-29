@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-29 22:36\n"
+"PO-Revision-Date: 2024-08-29 23:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8096,8 +8096,242 @@ msgstr "أشكال الأرقام"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Using something small, such as pieces of food, challenge your child to make shapes with a given number of pieces. These shapes can be rectangles, triangles, squares, or anything fun.\n"
+"\n"
+"**Making rectangles:** Your child may notice that for some numbers, such as 12, there are different shapes of rectangles that can be made, and that for other numbers, such as 7, only flat rectangles can be made. Numbers such as 5 and 7 are called prime numbers because there is no way to break them into normal rectangles.\n"
+"\n"
+"**Even and Odd:** Investigate even and odd numbers using number shapes. For a given number, ask your child to put the pieces into two equal rows. You would do this if you were splitting food fairly between two people. For which numbers does it work out evenly?"
+msgstr ""
+"باستخدام شيء صغير، مثل قطع الطعام، تحدَّ طفلك بتكوين أشكال بعدد معين من القطع. يمكن أن تكون هذه الأشكال مستطيلات أو مثلثات أو مربعات أو أي شيء يضيف المتعة للنشاط.\n"
+"\n"
+"**صنع المستطيلات:** قد يلاحظ طفلك أنه بالنسبة لبعض الأرقام، مثل ١٢، هناك أشكال مختلفة من المستطيلات التي يمكن صنعها، وأنه بالنسبة لأرقام أخرى، مثل ٧، يمكن عمل مستطيلات مسطحة فقط. تسمى الأرقام مثل ٥ و ٧ أرقامًا أولية لأنه لا توجد طريقة لتقسيمها إلى مستطيلات عادية.\n"
+"\n"
+"**الأعداد الزوجية والفردية:** استكشف الأعداد الزوجية والفردية باستخدام أشكال الأرقام. للحصول على رقم معين، اطلب من طفلك وضع القطع في صفين متساويين. ستفعل هذا إذا كنت تقسم الطعام بشكل عادل بين شخصين. لأي من الأرقام تكون النتيجة متساوية؟"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "**Adding Evens and Odds:** Representing even and odd numbers this way makes it easy to see why: Even + Even = Even, Odd + Odd = Even, and Even + Odd = Odd."
 msgstr "**جمع الأعداد الزوجية والفردية:** إن تمثيل الأعداد الزوجية والفردية بهذه الطريقة يجعل من السهل معرفة السبب: زوجي + زوجي = زوجي، فردي + فردي = زوجي، وزوجي + فردي = فردي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding up odd numbers:** Once your child knows what an odd number is, investigate adding up the first few odd numbers as shown in this diagram. Amazingly, the sum of the first odd numbers is always a square number."
+msgstr "**جمع الأعداد الفردية:** بمجرد أن يعرف طفلك ما هو الرقم الفردي، تحقق من جمع الأعداد الفردية القليلة الأولى كما هو موضح في هذا الرسم التخطيطي. ومن المدهش أن مجموع الأعداد الفردية الأولى يكون دائمًا عددًا مربعًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 2"
+msgstr "الضرب في رقم ٢"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Very gradually, introduce multiplication to your child by a small change in language – start referring to doubling a number as taking “two of it” or as “multiplying it by 2.”"
+msgstr "قم بتقديم الضرب لطفلك بشكل تدريجي جدًا من خلال تغيير بسيط في اللغة - ابدأ بالإشارة إلى مضاعفة الرقم على أنها \"أخذ اثنين منه“ أو \"ضربه في ٢“."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM – DOUBLING THE LIMIT"
+msgstr "لعبة نيم – مضاعفة الحد"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Set a starting total, say 20. Let your child choose whether to go first or second.\n"
+"\n"
+"**How to play:** During the first turn, a player chooses to subtract 1 or 2 from the current total. After the first turn, a player may subtract any number from 1 up to twice the number used on the last turn.\n"
+"\n"
+"**How to win:** The first person to reach 0 wins (an alternative rule is they lose)."
+msgstr ""
+"**الإعداد:** حدد إجمالي البداية، على سبيل المثال ٢٠. دع طفلك يختار ما إذا كان سيبدأ أولاً أم ثانيًا.\n"
+"\n"
+"**كيف تلعب:** خلال الجولة الأولى، يختار اللاعب طرح ١ أو ٢ من الإجمالي الحالي. بعد الجولة الأولى، يمكن للاعب طرح أي رقم من ١ إلى ضعف الرقم المستخدم في الجولة الأخيرة.\n"
+"\n"
+"**كيف تفوز:** أول شخص يصل إلى (٠) يفوز (القاعدة البديلة هي الخسارة)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can also be played, with essentially the same rules, by starting at 0 and adding your way up to the target. Once children learn to play this without writing anything down, it is a fun travel game."
+msgstr "يمكن أيضًا لعب هذه اللعبة بنفس القواعد، من خلال البدء من (٠) وإضافة على طول الطريق حتى الوصول إلى الهدف. بمجرد أن يتعلم الأطفال اللعب بهذه اللعبة دون كتابة أي شيء، تصبح لعبة ممتعة أثناء السفر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HALVES AND HALF NOTS"
+msgstr "النصفان والمعدمون"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Two players agree on a target number, say 20, set their running total to 0, and choose who will go first.\n"
+"\n"
+"**How to play:** A turn starts by generating a number using one die or the sum of two dice. If the number is odd, the player must double it. If the number is even, the player may take half of it as many times as is desired as long as the numbers being halved are even. The player then adds that final result to the running total as long as that does not put the total over the target - if the final result cannot be used, the turn is skipped.\n"
+"\n"
+"**How to win:** The player who brings the total exactly to the target number wins."
+msgstr ""
+"**الإعداد:** يتفق لاعبان على رقم مستهدف، على سبيل المثال ٢٠، ويحددان إجمالي عدد اللاعبين على (٠)، ويختاران من سيبدأ أولاً.\n"
+"\n"
+"**كيف تلعب:** يبدأ الدور بإنشاء رقم باستخدام نرد واحد أو مجموع نردين. إذا كان الرقم فرديًا، فيجب على اللاعب مضاعفته. إذا كان الرقم زوجيًا، فيمكن للاعب أن يأخذ نصفه عدة مرات حسب الرغبة طالما أن الأرقام التي تم تقسيمها إلى النصف زوجية. يضيف اللاعب بعد ذلك النتيجة النهائية إلى الإجمالي الجاري طالما أن ذلك لا يضع الإجمالي فوق الهدف - إذا تعذر استخدام النتيجة النهائية، يتم تخطي الدور.\n"
+"\n"
+"**كيف تفوز:** يفوز اللاعب الذي يجعل الإجمالي مساويًا تمامًا للرقم المستهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
+msgstr "يسمح للاعب بعدم تغيير الرقم الأولي. ويسمح بتقسيم الأرقام إلى النصف مرة واحدة على الأكثر. وأخيرًا، يمكنك التدرب على الطرح من خلال البدء بالرقم المستهدف ثم الطرح حتى يصل إلى (٠)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING EVENS AND ODDS"
+msgstr "عد الأعداد الزوجية والفردية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a small collection of playing cards involving some small quantities. Start with combinations of three cards and work your way up to more cards.\n"
+"\n"
+"Suppose the numbers are 1, 2, and 3. The question is: If you randomly pick two cards and add them, are you more likely to get an even or odd number? Count how many ways there are of getting an odd number versus an even number. For example, in the case of using 1, 2, and 3, there is one way to get an even number (1 + 3) and two ways to get an odd number (1 + 2, 2 + 3). So the odd number sums are more likely (twice as likely).\n"
+"\n"
+"**Make it a contest:** Let one player be Even and the other player be Odd. See who has the most successes after a dozen trial runs."
+msgstr ""
+"**الإعداد:** استخدم مجموعة صغيرة من أوراق اللعب تتضمن بعض الكميات الصغيرة. ابدأ بمجموعات من ثلاث بطاقات ثم انتقل إلى المزيد من البطاقات.\n"
+"\n"
+"لنفترض أن الأرقام هي ١ و٢ و٣. والسؤال هو: إذا اخترت ورقتين بشكل عشوائي وأضفتهما، فهل من المرجح أن تحصل على رقم زوجي أم فردي؟ احسب عدد الطرق المتاحة للحصول على رقم فردي مقابل رقم زوجي. على سبيل المثال، في حالة استخدام ١ و٢ و٣، توجد طريقة واحدة للحصول على رقم زوجي (١ + ٣) وطريقتان للحصول على رقم فردي (١ + ٢، ٢+ ٣). لذا فإن مجموع الأرقام الفردية أكثر احتمالية (ضعف الاحتمال).\n"
+"\n"
+"**اجعلها مسابقة:** دع أحد اللاعبين يكون زوجيًا والآخر فرديًا. تعرف على من حقق أكبر عدد من النجاحات بعد أكثر من عدة تجارب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING BY 2’s"
+msgstr "تخطي العد بمقدار ٢"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Evens and Odds"
+msgstr "الأعداد الزوجية والفردية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to being good addtion practice, skip counting is a faster way to count a collection of things, such as toes, than counting them one at a time. Skip counting is also very helpful when learning multiplication later on.\n"
+"\n"
+"**Alternate counting turns:** Count by 2’s while pushing your child on the swings (or anything else that involves counting). Start by alternating with your child – you say 1, your child says 2, you say 3, your child says 4, and so on. After establishing the pattern, one of you can say their part without the other person saying anything.\n"
+"\n"
+"While traveling, find something fun to skip count like yellow cars."
+msgstr ""
+"بالإضافة إلى كونه تمرينًا جيدًا على الجمع، فإن العد بالتخطي هو طريقة أسرع لعد مجموعة من الأشياء، مثل أصابع القدم، بدلاً من عدها واحدة تلو الأخرى. العد بالتخطي مفيد أيضًا عند تعلم الضرب لاحقًا.\n"
+"\n"
+"**العد بالتناوب:** قم بالعد بمقدار ٢ أثناء دفع طفلك على الأرجوحة (أو أي شيء آخر يتضمن العد). ابدأ بالتناوب مع طفلك – قل ١، طفلك يقول ٢، أنت تقول ٣، طفلك يقول ٤، وهكذا. بعد إنشاء النمط، يمكن لأحدكم أن يقول دوره دون أن يقول الشخص الآخر أي شيء.\n"
+"\n"
+"أثناء السفر، ابحث عن شيء ممتع للعد بالتخطي مثل السيارات الصفراء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Skip count up or down by 2’s ending by 20.\n"
+"\n"
+"Initially, do this starting at 0 or 20, but eventually, start at any number."
+msgstr ""
+"تخطي العد تصاعدياً **او تنازلياً** بمقدار ٢ حتى ينتهي بـ ٢٠.\n"
+"\n"
+"في البداية، افعل هذا بدءًا من ٠ أو ٢٠، ولكن في النهاية، ابدأ بأي رقم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM GROUPS"
+msgstr "مجموع المجموعات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use a rectangular grid of numbers with a target sum of your choosing between 5 and 12."
+msgstr "استخدم شبكة مستطيلة من الأرقام مع مجموع مستهدف تختاره بين ٥ و١٢."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find groups of two or three numbers that add up to the target and share sides. When complete, the entire puzzle will be made up of identified groups. Use tokens, such as different types of food items, to identify each group within the puzzle.\n"
+"\n"
+"**Puzzle creation:** Create these puzzles by starting with an empty grid and working your way around the grid using pairs and triples that add up to the target sum. It’s more fun if the puzzle has just one solution, but it's okay if it doesn't."
+msgstr ""
+"**التحدي:** ابحث عن مجموعات من رقمين أو ثلاثة أرقام يصل مجموعها إلى الهدف وتشترك في الجوانب. عند اكتمالها، ستتكون الأحجية بالكامل من مجموعات محددة. استخدم الرموز، مثل أنواع مختلفة من المواد الغذائية، لتحديد كل مجموعة داخل اللغز.\n"
+"\n"
+"**إنشاء اللغز:** قم بإنشاء هذه الألغاز من خلال البدء بمصفوفة فارغة والعمل على حلها باستخدام أزواج وثلاثيات تصل إلى المجموع المستهدف. سيكون الأمر أكثر متعة إذا كان اللغز يحتوي على حل واحد فقط، ولكن لا بأس إذا لم يكن كذلك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH WITH SUMS"
+msgstr "لعبة الصيد بالمجموعات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Using a target sum that your child is comfortable with, remove cards at or above that target from the Number Card deck. If there are more than two players and you have restricted the numbers significantly, you may need to use several decks.\n"
+"\n"
+"**How to play:** Play starts by dealing 5 cards to each player. Put the remaining cards in a common draw pile. Players take turns “fishing” for cards whose number will sum to the target sum with cards they already have.\n"
+"\n"
+"For example, a player might ask a player, “Do you have any 4’s?” If that player has some 4’s, they are handed over and the original player gets another turn. However, if that player does not have any 4’s, then the player says “Go Fish!” and a card is drawn from the draw pile. If the drawn card matches with a card they have, the player may have another turn; otherwise, the turn is over and play continues to the left. When a player has a pair of cards that sum to the total, the player puts that pair on the table in front of them.\n"
+"\n"
+"**How to win:** The game is over when all cards are in pairs. The player with the most pairs wins."
+msgstr ""
+"**الإعداد:** باستخدام مجموع مستهدف يشعر طفلك بالراحة في التعامل معه، قم بإزالة البطاقات عند هذا الهدف أو أعلى من مجموعة بطاقات الأرقام. إذا كان هناك أكثر من لاعبين وقمت بتقييد الأرقام بشكل كبير، فقد تحتاج إلى استخدام عدة مجموعات.\n"
+"\n"
+"**كيف تلعب:** تبدأ اللعبة بتوزيع ٥ بطاقات على كل لاعب. ضع البطاقات المتبقية في كومة سحب مشتركة. يتناوب اللاعبون في \"صيد“ البطاقات التي سيصل عددها إلى المبلغ المستهدف باستخدام البطاقات الموجودة لديهم بالفعل.\n"
+"\n"
+"على سبيل المثال، قد يسأل اللاعب أحد اللاعبين، \"هل لديك أي رقم ٤؟“ إذا كان لدى هذا اللاعب بعض البطاقات ٤، يتم تسليمها ويحصل اللاعب الأصلي على دور آخر. ومع ذلك، إذا لم يكن لدى هذا اللاعب أي رقم ٤، فسيقول اللاعب \"إذهب للصيد!“ ويتم سحب بطاقة من كومة السحب. إذا تطابقت البطاقة المسحوبة مع بطاقة يمتلكها اللاعب، فيحق للاعب أن يلعب دورًا آخر؛ وإلا، تنتهي الجولة وتستمر اللعبة إلى اليسار. عندما يكون لدى اللاعب زوج من البطاقات يساوي مجموعها الإجمالي، يضع اللاعب هذا الزوج على الطاولة أمامه.\n"
+"\n"
+"**كيف تفوز:** تنتهي اللعبة عندما تكون كل البطاقات في أزواج. يفوز اللاعب الذي لديه أكبر عدد من الأزواج."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create some variety, allow players to use more than two cards to create a group of cards that sum to the target sum. Another possibility is to say that two cards match when their difference is a specified target difference."
+msgstr "لإضفاء بعض التنوع، يسمح للاعبين باستخدام أكثر من ورقتين لإنشاء مجموعة من البطاقات التي يصل مجموعها إلى المجموع المستهدف. الاحتمال الآخر هو أن نقول أن ورقتين تتطابقان عندما يكون الفرق بينهما هو فرق الهدف المحدد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHICH NUMBER AM I"
+msgstr "أي رقم أنا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Depending on whether there are one or two children playing, there are two ways to play.\n"
+"\n"
+"**Two children:** Each child draws a card and places it on their forehead facing out without seeing it. You announce the sum of the cards and the children are challenged to figure out their own card by looking at the other child’s card.\n"
+"\n"
+"**Adult with one child:** Create several pairs of cards in advance where each pair of cards has the same total known to all. The unused cards are moved to the side. Pick up one random pair of cards, place the cards on your foreheads, and figure out each card by looking at the other person’s card."
+msgstr ""
+"هناك طريقتان للعب اعتمادًا على ما إذا كان هناك طفل أو طفلين يلعبان.\n"
+"\n"
+"**طفلان:** يسحب كل طفل بطاقة ويضعها على جبهته بحيث تكون مواجهة للخارج دون رؤيتها. تعلن مجموع البطاقات ويتحدى الطفل بأن يحاول معرفة بطاقته الخاصة من خلال النظر إلى بطاقة الطفل الآخر.\n"
+"\n"
+"**شخص بالغ مع طفل واحد:** قم بإنشاء عدة أزواج من البطاقات مسبقًا حيث يكون لكل زوج من البطاقات نفس المجموع المعروف للجميع. يتم نقل البطاقات غير المستخدمة إلى الجانب. قم بالتقاط زوجًا عشوائيًا من البطاقات، ثم ضع البطاقات على جبهتك، وقم باكتشاف كل بطاقة من خلال النظر إلى بطاقة الشخص الآخر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHOPSTICKS HAND GAME"
+msgstr "لعبة عيدان الطعام باليد"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** All players start with one finger raised on each hand.\n"
+"\n"
+"**How to play:** During a turn, a player has the choice of either “attacking” or “splitting.”\n"
+"\n"
+"**Attacking:** To attack, a player takes a live hand and attacks a live hand of an opponent. The result is that the opponent's hand has the sum of the two hands and the attacking player’s hand is unchanged. If a hand ends up with exactly five fingers, it is dead. If the hand has over five fingers, its count is either reduced by five (in one set of rules) or is dead (an alternate set of rules).\n"
+"\n"
+"**Splitting:** To split, a player bangs their hands together and redistributes the fingers between the two hands. A split may not reverse the two finger counts.\n"
+"\n"
+"**How to win:** A player wins when both hands of everyone else are dead. In one variation, the first player to have two dead hands wins."
+msgstr ""
+"**الإعداد:** يبدأ جميع اللاعبين بإصبع واحد مرفوع في كل يد.\n"
+"\n"
+"**كيف تلعب:** خلال الدور، يكون لدى اللاعب خيار \"الهجوم“ أو \"التقسيم“.\n"
+"\n"
+"**الهجوم:** للهجوم، يقوم اللاعب بالهجوم على يد خصمه. والنتيجة هي أن يد الخصم تحتوي على مجموع اليدين وأن يد اللاعب المهاجم لا تتغير. إذا انتهت اليد بخمسة أصابع بالضبط، فهي ميتة. إذا كانت اليد تحتوي على أكثر من خمسة أصابع، فإن عددها إما أن يقل بمقدار خمسة (في مجموعة واحدة من القواعد) أو تكون ميتة (مجموعة بديلة من القواعد).\n"
+"\n"
+"**التقسيم:** للتقسيم، يقوم اللاعب بضرب يديه معًا وإعادة توزيع الأصابع بين يديه. قد لا يؤدي الانقسام إلى عكس عدد الأصابع.\n"
+"\n"
+"**كيف تفوز:** يفوز اللاعب عندما تموت كل من أيدي خصمه. وفي حين آخر، يفوز أول لاعب لديه يدين ميتتين."
 
 #. type=data_list
 msgctxt "data_list"
