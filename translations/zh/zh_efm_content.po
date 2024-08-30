@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-30 17:17\n"
+"PO-Revision-Date: 2024-08-30 18:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14381,6 +14381,11 @@ msgstr "使用如下填写好的共享纸张："
 msgctxt "data_list"
 msgid "The first player moves a token onto any number from 1 to 9 in the 1-9 squares on the bottom row. The second player puts another token on one of the 1-9 squares on the bottom row and claims the product in the 6 by 6 grid. From then on, each player chooses to move one of the two tokens and claim the product (if they can). The first player to claim 3 squares in a row wins. Mix up the product numbers in the 6 by 6 grid to give your child better practice identifying the products."
 msgstr "第一个玩家将一个棋子放在底部行1-9方格中的任意数字上。第二个玩家将另一个棋子放在底部行1-9方格中的另一个数字上，并在6x6网格中标记出乘积。从此以后，每个玩家都可以选择移动两个棋子中的一个，并标记乘积（如果可能）。第一个在一行中连续获得三个方格的玩家获胜。将6x6网格中的乘积数字打乱，给孩子更多练习识别乘积的机会。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger Boards"
+msgstr "更大的游戏板"
 
 #. type=data_list
 msgctxt "data_list"
