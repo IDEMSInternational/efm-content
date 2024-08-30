@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-29 23:34\n"
+"PO-Revision-Date: 2024-08-30 02:50\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8332,6 +8332,192 @@ msgstr ""
 "**التقسيم:** للتقسيم، يقوم اللاعب بضرب يديه معًا وإعادة توزيع الأصابع بين يديه. قد لا يؤدي الانقسام إلى عكس عدد الأصابع.\n"
 "\n"
 "**كيف تفوز:** يفوز اللاعب عندما تموت كل من أيدي خصمه. وفي حين آخر، يفوز أول لاعب لديه يدين ميتتين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING UP"
+msgstr "الصعود للأعلى"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
+msgstr "**الإعداد:** يرسم كل لاعب سلمًا يتكون من ٤ إلى ١٠ درجات (المزيد من الدرجات للاعبين الأكبر سنًا)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a two-digit number using cards numbered from 0 to 9. Determine the tens digit by selecting from cards 0 and 1, and then determine the ones digit by selecting from all the cards. If possible, the player must place this number on their steps.\n"
+"\n"
+"**How to win:** The first player to fill their steps in increasing order from bottom to top wins. Make it easier by allowing neighboring steps to have the same value."
+msgstr ""
+"**كيف تلعب:** قم بإنشاء رقم مكون من رقمين باستخدام البطاقات المرقمة من (٠) إلى ٩. حدد رقم العشرات عن طريق الاختيار من البطاقات (٠) و١، ثم حدد رقم الآحاد عن طريق الاختيار من جميع البطاقات. إذا أمكن، يجب على اللاعب وضع هذا الرقم على خطواته.\n"
+"\n"
+"**كيف تفوز:** يفوز أول لاعب يملأ خطواته بترتيب تصاعدي من الأسفل إلى الأعلى. يمكنك تسهيل الأمر من خلال السماح للخطوات المجاورة بأن تكون لها نفس القيمة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATING ORDER"
+msgstr "خلق النظام"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order in the House"
+msgstr "الترتيب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a deck of Number Cards that goes from 0 to 40 (higher with more players). Deal ten cards to each player (as few as four for younger players). The dealt cards are placed in front of each player in the order dealt. The remaining cards are placed face down in a draw pile. Place the top card face up as the first card in a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile."
+msgstr ""
+"**الإعداد:** ابدأ بمجموعة بطاقات الأرقام التي تتراوح من (٠) إلى ٤٠ (أعلى مع عدد أكبر من اللاعبين). قم بتوزيع عشر بطاقات لكل لاعب (ما يصل إلى أربع بطاقات للاعبين الأصغر سنًا). يتم وضع البطاقات الموزعة أمام كل لاعب بالترتيب الذي تم توزيعه. يتم وضع البطاقات المتبقية مقلوبة في كومة السحب. ضع البطاقة العلوية بحيث يكون وجهها للأعلى كالبطاقة الأولى في كومة المهملات.\n"
+"\n"
+"**كيف تلعب:** أثناء الدور، يمكن للاعب أن يختار إما البطاقة العلوية من الكومة الموزعة أو كومة السحب - يجب استخدام هذه البطاقة لاستبدال إحدى البطاقات الموجودة أمام اللاعب، ويتم وضع البطاقة المستبدلة مكشوفة في الجزء العلوي من الورقة. كومة المهملات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The goal of the game is to get the cards in inreasing order from left to right."
+msgstr "**كيف تفوز:** الهدف من اللعبة هو الحصول على البطاقات بترتيب متزايد من اليسار إلى اليمين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring variations"
+msgstr "اختلافات تسجيل النتيجة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr "العب بحيث يفوز اللاعب الأول الذي يحصل على أوراقه بالترتيب. أو استخدم نظام النقاط لكل جولة من اللعب. في هذا النظام يحصل الفائز على ١٥ نقطة. يحصل اللاعبون الآخرون على نقطة واحدة مقابل كل بطاقة لديهم بالترتيب بدءًا من البطاقة الأقل لديهم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLOSEST TO 10"
+msgstr "أقرب إلى ١٠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards from 1 to 10. Choose a target sum, say 10.\n"
+"\n"
+"**How to play:** Each round starts by dealing five cards face down on the table. One player randomly chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given, face up, to the other player to choose two cards to get close to the target.\n"
+"\n"
+"**Scoring:** The player whose result is closest to the target from either side wins a point. Have a number line handy to use for discussions about which result is closer to the target sum."
+msgstr ""
+"**الإعداد:** استخدم مجموعة أوراق من ١ إلى ١٠. اختر الرقم المستهدف، على سبيل المثال ١٠.\n"
+"\n"
+"**كيف تلعب:** تبدأ كل جولة بتوزيع خمس أوراق مقلوبة على الطاولة. يقوم أحد اللاعبين باختيار ثلاث من تلك البطاقات بشكل عشوائي ويقوم بتسليمها. يتم اختيار بطاقتين من تلك البطاقات الثلاثة لتقريبهما من الهدف قدر الإمكان. يتم إعطاء البطاقات الثلاث غير المستخدمة، مكشوفة، للاعب الآخر لاختيار ورقتين للاقتراب من الهدف.\n"
+"\n"
+"**تسجيل الأهداف:** اللاعب الذي تكون نتيجته أقرب إلى الهدف من أي من الجانبين يفوز بنقطة. احتفظ بخط أرقام في متناول اليد لاستخدامه في المناقشات حول النتيجة الأقرب إلى المجموع المستهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you use subtraction instead of addition, use a lower target number, say 4."
+msgstr "إذا كنت تستخدم الطرح بدلاً من الجمع، فاستخدم رقمًا مستهدفًا أقل. على سبيل المثال ٤."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ZOO RESCUE"
+msgstr "إنقاذ حديقة الحيوان"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Small Adding and Subtracting"
+msgstr "عمليات الجمع والطرح الصغيرة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+"\n"
+"**How to play:** During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box.\n"
+"\n"
+"**How to win:** The first player to rescue all their tokens wins.\n"
+"\n"
+"**Strategy:** An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others – you can discuss ideas about why this is."
+msgstr ""
+"**الإعداد:** استخدم نردين أو مجموعتين من بطاقات الأرقام بدءًا من ١ إلى ٦. كل لاعب لديه ٦ رموز - رموز الحيوانات مثالية لهذه اللعبة إذا كانت لديك. يمتلك كل لاعب أيضًا قطعة من الورق تحتوي على صناديق مرقمة من (٠) إلى ٥. يقرر كل لاعب مكان وضع الرموز الستة الخاصة به – لا بأس بوضع أكثر من رمز واحد في الصندوق.\n"
+"\n"
+"**كيف تلعب:** أثناء دور اللاعب، يتم إنشاء رقمين عن طريق رمي النرد أو اختيار ورقتين، ويتم استخدام الفرق بين هذين الرقمين. يمكن للاعب تحرير أحد الرموز المميزة الخاصة به إذا كان لديه واحدة في هذا الصندوق.\n"
+"\n"
+"**كيف تفوز:** أول لاعب يقوم بإنقاذ كل رموزه هو الفائز.\n"
+"\n"
+"**الإستراتيجية:** جزء مهم من هذه اللعبة هو اختيار الصناديق الجيدة لوضع الرموز المميزة فيها في البداية. مع الممارسة، سوف يدرك طفلك أن بعض الصناديق أكثر احتمالاً لحدوثها من غيرها - يمكنك مناقشة الأفكار حول سبب حدوث ذلك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9."
+msgstr "استخدم البطاقات المرقمة من ١ إلى ١٠ واحصل على ١٠ صناديق مرقمة من (٠) إلى ٩."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOT POTATO WITH SUMS"
+msgstr "البطاطا الساخنة مع المجموع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a regular deck of playing cards, have a target number of 5, and remove all cards above the target, except for one card – the 'hot potato,' which can be anything else, such as a Joker or face card. Deal the entire remaining deck to all players – it’s okay if some players get one more card than others.\n"
+"\n"
+"**How to play:** All players start by placing on the table from their hands 5’s and any pairs that add up to 5. On your turn, you can pick a random card from any other player’s hand (a simpler rule is that it is always the player on your right). If this new card gives you a pair of cards that add up to the target sum, place the pair on the table; otherwise, keep the card in your hand. Play then moves to the next player on your right.\n"
+"\n"
+"**How to win:** When play ends, the player holding the hot potato loses. Alternatively, you can play that the first player to run out of cards wins."
+msgstr ""
+"**الإعداد:** استخدم مجموعة عادية من أوراق اللعب، واحصل على رقم مستهدف وهو ٥، وقم بإزالة جميع الأوراق فوق الهدف، باستثناء بطاقة واحدة - \"البطاطا الساخنة“، والتي يمكن أن تكون أي شيء آخر، مثل بطاقة الجوكر أو بطاقة الوجه. قم بتوزيع المجموعة المتبقية بالكامل على جميع اللاعبين – فلا بأس إذا حصل بعض اللاعبين على بطاقة واحدة أكثر من الآخرين.\n"
+"\n"
+"**كيف تلعب:** يبدأ جميع اللاعبين بوضع أوراق ال ٥ من أيديهم على الطاولة وأي أزواج يصل مجموعها إلى ٥. عند دورك، يمكنك اختيار بطاقة عشوائية من يد أي لاعب آخر (القاعدة الأبسط هي اللاعب الموجود دائمًا على يمينك). إذا كانت هذه البطاقة الجديدة تمنحك زوجًا من البطاقات التي تضيف ما يصل إلى المبلغ المستهدف، فضع الزوج على الطاولة؛ وإلا، احتفظ بالبطاقة في يدك. ثم تنتقل اللعبة إلى اللاعب التالي على يمينك.\n"
+"\n"
+"**كيف تفوز:** عندما تنتهي اللعبة، يخسر اللاعب الذي يحمل البطاطا الساخنة. بدلاً من ذلك، يمكنك اللعب على أن يفوز أول لاعب ينفد منه عدد البطاقات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child’s adding skills improve, use larger target numbers up to 10. \n"
+"\n"
+"Varying the target number will provide practice with the various number bonds."
+msgstr ""
+"مع تحسن مهارات الجمع لدى طفلك، استخدم أرقامًا مستهدفة أكبر تصل إلى ١٠.\n"
+"\n"
+"وسيوفر تغيير الرقم المستهدف تدريبًا على روابط الأرقام المختلفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMMON SUMS"
+msgstr "المجموعات الشائعة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds"
+msgstr "روابط الأرقام"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Collect the data:** Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in order in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token(s) will win and why?\n"
+"* Which tokens do well and which ones do poorly?\n"
+"* Which token is the worst?\n"
+"* How will the winners change if the row lengths are made shorter or longer?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"**اجمع البيانات:** اصنع ورقة بها ١٢ صفًا. في كل صف، ضع ٨ مربعات. يحتوي عمود المربعات الموجود في أقصى اليسار على الأرقام من ١ إلى ١٢ مكتوبة بالترتيب في المربعات. ضع علامة واحدة على كل رقم من الأرقام الـ ١٢. في البدء قم برمي زوجي النرد. بعد كل لفة، حرك رمز مجموع النرد مربعًا واحدًا إلى اليمين. الهدف من كل رمز هو أن يكون أول من يصل إلى اليمين عبر الصفحة.\n"
+"\n"
+"دع طفلك يطرح بعض الأسئلة للتحقيق فيها. بعض الأسئلة الطبيعية هي:\n"
+"\n"
+"* أي الرموز ستفوز ولماذا؟\n"
+"* ما هي الرموز المميزة التي تعمل بشكل جيد وأيها تعمل بشكل سيء؟\n"
+"* أي رمز هو الأسوأ؟\n"
+"* كيف سيتغير الفائزون إذا أصبحت أطوال الصفوف أقصر أو أطول؟\n"
+"\n"
+"اطلب من طفلك شرح أفكاره حول إجابات هذه الأسئلة، ثم التحقق من أفكاره عن طريق إجراء التجارب.\n"
+"\n"
+"أضف عنصرًا تنافسيًا إلى هذا من خلال تخمين الرمز المميز الذي سيفوز قبل بدء الجولة."
 
 #. type=data_list
 msgctxt "data_list"
