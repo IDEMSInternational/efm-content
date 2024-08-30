@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-30 02:50\n"
+"PO-Revision-Date: 2024-08-30 03:48\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8518,6 +8518,246 @@ msgstr ""
 "اطلب من طفلك شرح أفكاره حول إجابات هذه الأسئلة، ثم التحقق من أفكاره عن طريق إجراء التجارب.\n"
 "\n"
 "أضف عنصرًا تنافسيًا إلى هذا من خلال تخمين الرمز المميز الذي سيفوز قبل بدء الجولة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "اختلافات لعبة السودوكو"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"تحتوي جميع الألغاز الموجودة في هذه الصفحة على قاعدة سودوكو الأساسية التي تنص على أن الشبكة المربعة مملوءة بالأرقام بحيث يظهر كل رقم مرة واحدة بالضبط في كل صف وعمود.\n"
+"\n"
+"قم بإنشاء هذه الألغاز من خلال البدء بأحجية مملوءة بالكامل، وإزالة العديد من الأرقام أو جميعها، وإنشاء مناطق فرعية والمعلومات الإضافية المناسبة لهذا النوع من الألغاز.\n"
+"\n"
+"لتوفير المساحة، فإن الأمثلة هنا كلها بحجم ٤ × ٤. يمكنك صنع ألغاز أكبر بنفسك، أو يمكنك العثور على إصدارات أكبر منها على الإنترنت."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "سودوكو الأرقام الزوجية والفردية وكروبكي سودوكو"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "تحتوي هذه الألغاز على قيود إضافية تتمثل في أن الأرقام يجب أن تظهر مرة واحدة بالضبط في كل منطقة فرعية محددة ٢× ٢."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**سودوكو الأرقام الزوجية والفردية:** المربعات ذات الأرقام الزوجية تكون باللون الرمادي.\n"
+"\n"
+"**كروبكي سودوكو:** النقاط المجوفة بين الخلايا تعني أن الأرقام متباعدة بمقدار واحد؛ والنقاط المملوءة تعني ان الرقم هو نصف الآخر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "سومدوكو, ديفدوكو, سمديفدوكو"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "بالإضافة إلى قواعد سودوكو المعتادة، يتم تقسيم هذه الألغاز إلى مناطق فرعية ذات أرقام مستهدفة. وعلى عكس سودوكو القياسي، يُسمح بتكرار رقم في منطقة فرعية. إذا كانت المنطقة الفرعية تحتوي على مربع واحد فقط، فسيكون الرقم المستهدف هو قيمة هذا المربع."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**سومدوكو:** مجموع الأرقام في منطقة فرعية هو الرقم المستهدف.\n"
+"\n"
+"**ديفدوكو:** تحتوي المناطق الفرعية على مربع أو مربعين. بالنسبة لمربعين، الفرق بين الأرقام هو الرقم المستهدف.\n"
+"\n"
+"**سمديفدوكو:** يتم وضع علامة على المناطق الفرعية بعلامة \"+“ أو \"-“ للإشارة إلى المجموع أو الفرق."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "استخدم مجموعات مختلفة من الأرقام بدلًا من ١ إلى ٤ المعتادة لـ ٤ في ٤. على سبيل المثال، استخدم ١و٣و٥و٧. إذا قمت بذلك، قم بإدراج الأرقام التي تريد استخدامها فوق اللغز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "أغلق الصندوق"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**الإعداد:** يكتب كل لاعب الأرقام من ١ إلى ٩ على قطعة من الورق.\n"
+"\n"
+"**كيف تلعب:** لبدء الدور، يجد اللاعب مجموع رمي حجري النرد. باستخدام الأرقام التي لم يتم شطبها بعد، يقوم اللاعب بشطب مجموعة مكونة من رقم واحد أو أكثر مجموعها يصل إلى هذا المجموع. إذا لم يكن من الممكن القيام بذلك، فلن يتغير شيء. يمكن للاعب أن يقرر مسبقًا استخدام نرد واحد فقط.\n"
+"\n"
+"**كيف تفوز:** أول لاعب يقوم بشطب جميع الأرقام هو الفائز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "تتمثل إحدى طرق تغيير هذه اللعبة في استخدام نطاق أكبر من الأرقام، مثل الانتقال إلى ١٠ أو حتى ١٢. وهناك طريقة أخرى وهي إعطاء كل لاعب دورة واحدة - تستمر الدورة برميات جديدة حتى المرة الأولى التي يعلق فيها اللاعب. في النهاية، نتيجة اللاعب هي مجموع الأرقام التي لم يتم شطبها. يفوز اللاعب الذي يحصل على أقل درجة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "أصيب الهدف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "مجموعات المجموع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**الإعداد:** من مجموعة أوراق اللعب، قم بإزالة بطاقات الوجه وأي أرقام أكبر من استيعاب الأطفال له. قم بخلط البطاقات وقم بتسليم خمس بطاقات لاستخدامها والبطاقة السادسة هي الهدف. اترك البطاقات المتبقية ككومة سحب لملء البطاقات عند إزالتها.\n"
+"\n"
+"**كيف تلعب:** أثناء الدور، إذا كان بإمكان اللاعب استخدام مجموع أو فرق ورقتين من البطاقات الخمسة لتساوي البطاقة السادسة، فسيحصل اللاعب على جميع البطاقات الثلاثة ويتم استبدالها من كومة السحب. إذا فشل اللاعب، فسيتم تسليم البطاقة السادسة الجديدة وينتقل الدور إلى اللاعب التالي.\n"
+"\n"
+"**كيف تفوز:** اللاعب الذي لديه أكبر عدد من البطاقات في نهاية اللعبة هو الفائز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "هناك عدة تنوعات يمكنك استخدامها. يمكنك السماح للاعب باستخدام ثلاث بطاقات، بدلاً من ورقتين فقط، لإضافة ما يصل إلى البطاقة السادسة. يمكنك أيضًا السماح باستخدام أي عدد من البطاقات لإضافة ما يصل إلى البطاقة السادسة. هناك تنوع آخر وهو السماح بمزيج من الجمع والطرح مع أي عدد من البطاقات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "كم عدد الطرق؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"إن حساب عدد الطرق للقيام بشيء يتضمن اختيارات يمكن أن تؤدي إلى بعض التحقيقات المثيرة للاهتمام. فيما يلي بعض الاحتمالات - استمتع بالتفكير في المزيد مع طفلك.\n"
+"\n"
+"**التحقيق ١:** بالرسم باللونين الأحمر والأزرق فقط، كم عدد الطرق التي يمكنك بها رسم وحش بقبعة وعينين وعباءة؟ كيف يتغير هذا إذا قمت بتلوين القبعة والعباءة فقط؟ كيف يتغير إذا استخدمت ثلاثة ألوان، أو إذا كان بإمكانك استخدام كل لون مرة واحدة فقط؟\n"
+"\n"
+"**التحقيق ٢:** لديك صف من ٥ قطع حلوى متطابقة. كم عدد الطرق التي يمكنك تلوينها بحيث يكون هناك ٢ حمراء و٣ زرقاء؟\n"
+"\n"
+"**التحقيق ٣:** ابحث عن جميع الطرق للحصول على مجموع باستخدام مجموعة صغيرة من الأرقام. افعل ذلك مع مراعاة الترتيب وبدونه. على سبيل المثال، إذا كنت تستخدم ١ و٢، فهناك ١+١+١+١ = ٢+١+١ = ٢+٢ طرق للحصول على ٤ دون النظر إلى الترتيب، و١+١+١+١ = ٢+١+١ = ١+٢+١ = ١+١+٢ = ٢+٢ طرق للحصول على ٤ مع النظر إلى الترتيب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "كيف يمكنني صنعها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "دعني أحسب الطرق"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"يعطي أحد الأشخاص الشخص الآخر رقمًا مستهدفًا ويتحداه للتوصل إلى طرق مختلفة للجمع و/أو الطرح للحصول على هذا الرقم. إذا كان الرقم المستهدف هو ٣، فقد يبدأ بـ ١ + ٢، ثم يصبح ١ + ٥ - ٣ وهكذا.\n"
+"\n"
+"أضف قيودًا لجعل الأمر أكثر صعوبة. على سبيل المثال، قد لا تسمح بأي أرقام أقل من ٤، أو قد تسمح فقط بالأرقام الأقل من ٤.\n"
+"\n"
+"يمكنك تحويل هذا إلى تحقيق عن طريق طرح أسئلة مثل: ما عدد الطرق المتاحة للحصول على الرقم ٥ إذا كان بإمكاني إضافة ١ و٢ فقط.\n"
+"\n"
+"عندما يتعلم طفلك المزيد من الرياضيات، يمكن إضافة مهارات إضافية، مثل المضاعفة والنصف. على سبيل المثال، ٥ هو ٢ مضاعف زائد ١ أو عشرتان ناقص ثلاثة ٥."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "لعبة خلط الأرقام"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**الإعداد:** قم برمي حجر نرد مرتين لإنشاء رقم مستهدف مكون من رقمين - ستكون الرمية الأولى عبارة عن رقم العشرات والرمية الثانية عبارة عن رقم الآحاد. قم برمي خمسة أحجار نرد لإنشاء أرقام للعمل بها.\n"
+"\n"
+"**التحدي:** استخدم الجمع والطرح وتكوين أرقام مكونة من رقمين للوصول إلى أقرب رقم مستهدف - النتيجة هي مدى اقترابها.\n"
+"\n"
+"**كيف تفوز:** يمكنك إما الحصول على فائز في كل جولة، أو يمكنك إضافة النتائج على مدار عدة جولات والحصول على فائز إجمالي بأقل درجة. بالطبع، يمكنك لعبها من أجل التحدي وعدم الاحتفاظ بالنتيجة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**مثال  ١:** افترض أن الرمية هي: ٤، ٤، ٣، ١، ٣ و٢٢. يحصل اللاعب الأول على ٤ + ٤ + ٣ + ١ + ٣ = ١٥؛ لاعب آخر يحصل على ١٤ + ٤ + ٣ + ٣ = ٢٤؛ ويحصل لاعب آخر على 3٤ - ١٤ + ٣ = ٢٣.\n"
+"\n"
+"**مثال  ٢:** افترض أن النتيجة هي: ١، ٢، ٥، ٦، ٤ و٦٣. يقترب أحد اللاعبين من النتيجة ٦٥ - ٤ + ٢ + ١ = ٦٤. ويحصل لاعب آخر على النتيجة بالضبط ٥٦ + ٤ + ٢ + ١ = ٣٦ ويقول لاعب ثالث أن ٥٢ + ٦ + ٤ + ١ = ٦٣  تعمل أيضًا. تحدث عن سبب وجود العديد من الحلول لبعض المشكلات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "بأي طريقة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "تجميع القطع معًا"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"يتفق اللاعبون على الهدف. الهدف المفيد هو ١٠، لكن الأرقام الأخرى جيدة.\n"
+"\n"
+"يتم توزيع خمس أوراق لكل لاعب من مجموعة البطاقات بدون بطاقات الوجه. ثم يبحث اللاعبون عن أكبر عدد ممكن من الطرق للوصول إلى الهدف، أو الاقتراب من الهدف قدر الإمكان، باستخدام أي تركيبة من الجمع والطرح مع أي من بطاقاتهم.\n"
+"\n"
+"قم بذلك كنشاط جماعي حيث يتم إعطاء المجموعة بأكملها خمس بطاقات لاستخدامها في التوصل بشكل تعاوني إلى طرق لتحقيق المجموع."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "ألغاز سوليتير"
 
 #. type=data_list
 msgctxt "data_list"
