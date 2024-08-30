@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-28 19:31\n"
+"PO-Revision-Date: 2024-08-30 17:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9362,6 +9362,11 @@ msgstr "手指减法 ------- 简单的方法"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Finger Math up to 20"
+msgstr "数字 20 以内手指数学"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**Two methods:** Subtraction can be thought of as 'take away' or 'difference.' Both models are essential to a complete understanding of subtraction. Have your child practice both ways of thinking of subtraction using these finger subtraction methods.\n"
 "\n"
@@ -9761,6 +9766,11 @@ msgstr ""
 "例如，如果顶部是[1,5]，那么它可以匹配[2,4]，因为1+5=2+4；它也可以匹配[2,2]，因为5-1=2x2。匹配的多米诺骨牌放在之前的顶部上。如果你无法匹配，则必须从牌堆中抽取一张新的多米诺骨牌。\n"
 "\n"
 "**获胜方法:** 第一个出完所有多米诺骨牌的玩家获胜。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "DIFFTRIANGLES 和 SUMTRIANGLES"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10461,6 +10471,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "This game works equally well with more than two players."
 msgstr "这个游戏同样适用于多于两名玩家。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVESTIGATIONS"
+msgstr "调查"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11421,6 +11436,11 @@ msgstr "练习幂次方会变得像原来的加法问题一样熟悉和容易。
 msgctxt "data_list"
 msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
 msgstr "如果您的孩子喜欢这些问题并且想要额外的挑战，可以开始涉及多个数字的幂次方运算。例如，如果您计算 (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>)，您可以将该规则分别应用于 4 的幂和 3 的幂，得到结果 4<sup>7</sup> × 3<sup>5</sup>。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "因式树"
 
 #. type=data_list
 msgctxt "data_list"
