@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-30 18:16\n"
+"PO-Revision-Date: 2024-08-30 22:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6879,6 +6879,11 @@ msgstr "**例子 – 形状:** 假设这四个物品分别是一个红色的三�
 msgctxt "data_list"
 msgid "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas."
 msgstr "红色三角形是唯一的非正方形，带孔的红色正方形是唯一有孔的，蓝色正方形是唯一不是红色的，而小红色正方形比其他的要小得多。虽然正确答案并不总是唯一的，但你应该始终对出人意料的想法保持开放的态度。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "其中一个和别的不同"
 
 #. type=data_list
 msgctxt "data_list"
