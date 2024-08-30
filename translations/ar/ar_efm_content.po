@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-08-30 03:48\n"
+"PO-Revision-Date: 2024-08-30 04:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8756,8 +8756,147 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "هرم سوليتير"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**الإعداد:** قم بإزالة البطاقات الموجودة فوق الرقم المستهدف، على سبيل المثال ١٠. اصنع هرمًا مكونًا من ٢١ بطاقة مع ٦ صفوف. ضع البطاقات في الهرم بحيث يكون وجهها لأعلى، بحيث يتداخل كل صف سفلي مع الصف الذي فوقه إلى النصف. تشكل البطاقات المتبقية كومة سحب.\n"
+"\n"
+"**كيف تلعب:** قم بجمع وتحريك المجموعات المكشوفة من البطاقات التي تصل إلى الهدف. يمكن أن تتضمن هذه المجموعة البطاقة العلوية من كومة السحب أو الكومة الموزعة. إذا لم تكن هناك تطابقات، انقل بطاقة كومة السحب العلوية إلى الكومة الموزعة.\n"
+"\n"
+"**التحدي:** قم بإفراغ الهرم من جميع بطاقاته. تنتهي اللعبة عندما تكون كومة السحب فارغة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**أهداف أقل:** إذا كنت تستخدم هدفًا أقل من١٠ فقم بتقليل حجم الهرم بمقدار صف أو صفين بحيث يكون لديك كومة سحب كبيرة بما يكفي. على سبيل المثال، لهدف ٨ استخدم ١٥ بطاقة في ٥ صفوف.\n"
+"\n"
+"**استخدم الطرح:** بدلا من استخدام الجمع، استخدم الطرح. إذا كنت تستخدم بطاقات تصل إلى عشرة، فإن الرقم المستهدف الجيد هو ٥ - قم بإزالة أزواج من البطاقات التي يكون الفرق بينها ٥. عندما يكون لديك الرقم \"٥\"، يمكنك إما إزالته أو إقرانه بالرقم ١٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "هرم الفروق"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Solitaire Puzzles"
 msgstr "ألغاز سوليتير"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**التحدي:** التحدي هو وضع الأرقام من ١ إلى ٦ في شكل هرمي بحيث تكون هناك بطاقة واحدة في الصف العلوي، وبطاقتان في الصف الثاني وثلاث بطاقات في الصف الثالث، حيث يمثل كل رقم الفرق بين الرقمين الموجودين أسفله مباشرة.\n"
+"\n"
+"دع ​​طفلك يأخذ وقته ويلعب بهذه اللعبة. على الأرجح، بمجرد اللعب، سيجد حلاً. ومع ذلك، إذا شعر طفلك بالقلق، فإليك نصيحتان قد تساعدانه. يجب أن يكون الرقم ٦ في الصف السفلي لأنه لا يمكن أن يكون الفرق بين أي زوج من الأرقام. وبالمثل، يجب أن يكون الرقم ٥ إما في الصف السفلي أو في الصف الأوسط فوق الرقمين ٦ و١."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "التحديات ذات الصلة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "إذا وجد طفلك أن القيام بذلك سهل، فتحداه للعثور على عدد الطرق التي يمكن القيام بها. ناقش ما يعنيه أن يكون الحلان مختلفين - إذا كان أحد الحلول صورة طبق الأصل للآخر، فهل يجب اعتباره مختلفًا؟ يتمثل التحدي الآخر في حل اللغز الأصعب المتمثل في وضع الأرقام من ١ إلى ١٠ في هرم الفروق المكون من أربعة مستويات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "الألعاب الإستراتيجية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "إن لعب الألعاب الإستراتيجية سيساعد طفلك على اكتساب العديد من مهارات التفكير والتخطيط وحل المشكلات. وهناك العشرات من هذه الألعاب - مثل لعبة \"تيك تاك تو“ و\"٩ رجال موريس“ و\"الثعلب والأوز“ و\"دارا“ و\"كونيكت فور“ و\"مانكالا“ و\"تشيكرز“ و\"جو“ و\"تشيس“ - وهي ألعاب كثيرة للغاية بحيث لا يمكن تغطيتها هنا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "لعبة تاباتان"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "**الإعداد:** هناك العديد من الألعاب المشابهة لهذه اللعبة - مثل لعبة \"روتا“ و\"٩ هولز“ و\"٣ رجال موريس“. وفي هذه اللعبة، توجد ٩ نقاط متصلة في شبكة بثلاثة خطوط أفقية وثلاثة خطوط رأسية. ويملك كل لاعب ثلاث قطع متطابقة للعب بها. والهدف من اللعبة هو وضع القطع الثلاث في خط واحد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**كيف تلعب:** وهناك مرحلتان للعب. وخلال مرحلة \"الوضع“ الأولى، يتناوب اللاعبون على وضع قطعهم واحدة تلو الأخرى على النقاط الفارغة. وبعد وضع القطع، تبدأ مرحلة \"الحركة“ الثانية. وخلال هذه المرحلة، يتناوب اللاعبون على تحريك قطعهم إلى النقاط الفارغة المجاورة. والقاعدة البديلة هي أنه يمكن نقل القطع إلى أي نقطة فارغة، وليس فقط النقاط المجاورة.\n"
+"\n"
+"**كيف تفوز:** تنتهي اللعبة عندما يفوز لاعب واحد أو عندما يحدث نفس الموقف ثلاث مرات، وفي هذه الحالة تكون اللعبة متعادلة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "النقاط والمربعات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "الألعاب الإستراتيجية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**الإعداد:** تبدأ هذه اللعبة الممتعة بمصفوفة مستطيلة من النقاط - ولنقل ٣ × ٤."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**كيف تلعب:** خلال الدور، يرسم اللاعب خطًا أفقيًا أو رأسيًا يربط بين نقطتين متجاورتين غير متصلتين. إذا أكمل الخط الجديد مربعًا ١ × ١، يكسب اللاعب نقطة ويرسم خطًا آخر.\n"
+"\n"
+"**كيف تفوز:** عندما لا يكون من الممكن رسم المزيد من الخطوط، يفوز اللاعب الذي حصل على أكبر عدد من النقاط. وهناك طريقة سهلة لتتبع النقاط وهي وضع الحرف الأول من اسم اللاعب داخل كل مربع مكتسب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "على الرغم من أن هذه اللعبة يتم لعبها تقليديًا بمربعات صغيرة، إلا أنه يمكن أيضًا لعبها بنقاط بنمط لإنتاج مثلثات أو أشكال سداسية - ولكن من الصعب رسمها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 4 – I CAN COUNT TO 20!"
+msgstr "المرحلة ٤ - أستطيع العد حتى ٢٠!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Introduction"
+msgstr "المرحلة ٤ – مقدمة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "المرحلة ٥ - أستطيع العد حتى ١٠٠!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Introduction"
+msgstr "المرحلة ٥ – مقدمة"
 
 #. type=data_list
 msgctxt "data_list"
