@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-20 12:34\n"
+"PO-Revision-Date: 2024-09-02 03:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25210,6 +25210,21 @@ msgstr "Material Adicional — Actividades"
 msgctxt "template"
 msgid "No Match"
 msgstr "Sin Coincidencia"
+
+#. type=template
+msgctxt "template"
+msgid "block"
+msgstr "block"
+
+#. type=template
+msgctxt "template"
+msgid "margin-top: -5px"
+msgstr "margin-top: -5px"
+
+#. type=template
+msgctxt "template"
+msgid "margin-top: 0px"
+msgstr "margin-top: -5px"
 
 #. type=template
 msgctxt "template"
