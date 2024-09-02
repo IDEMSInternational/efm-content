@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-30 23:24\n"
+"PO-Revision-Date: 2024-09-02 02:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28866,6 +28866,11 @@ msgstr "活动 – 额外内容"
 msgctxt "template"
 msgid "Introductions"
 msgstr "前言"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "游戏"
 
 #. type=template
 msgctxt "template"
