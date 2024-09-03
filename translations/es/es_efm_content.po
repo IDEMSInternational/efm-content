@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-03 22:17\n"
+"PO-Revision-Date: 2024-09-03 23:20\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2628,6 +2628,11 @@ msgstr "Si cada persona en la familia come un pescado, ¿cuántas personas forma
 msgctxt "data_list"
 msgid "Suppose each person eats two fish, how many people would there be? What if each person eats half a fish?"
 msgstr "Supón que cada persona come dos pescados, ¿cuántas personas habría? ¿Y si cada persona come medio pescado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.\""
+msgstr "“Además, mis amigos proporcionan la sombra de tus chozas. Refrescas tu corazón con mi vino de palma dulce, rico y espumante después de un duro día de trabajo\"."
 
 #. type=data_list
 msgctxt "data_list"
