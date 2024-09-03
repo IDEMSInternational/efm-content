@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-02 03:45\n"
+"PO-Revision-Date: 2024-09-03 22:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25364,6 +25364,12 @@ msgstr "Historias"
 msgctxt "template"
 msgid "Activities"
 msgstr "Actividades"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Last sync at: @local.sync_latest"
 
 #. type=tour
 msgctxt "tour"
