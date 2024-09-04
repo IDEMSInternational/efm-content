@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-09-04 11:28\n"
+"PO-Revision-Date: 2024-09-04 12:29\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6424,7 +6424,7 @@ msgstr ""
 "\n"
 "Lorsque vous nettoyez, y a-t-il des objets qui sont nettoyés différemment des autres ? Comment savoir si un couvercle correspond à une casserole ou une poêle ? Quels types d'objets sont rangés à quels endroits ?\n"
 "\n"
-"**Ranger les provisions :** Lorsque vous rangez vos provisions, parlez des types de produits qui vont ensemble. Quelles sont les choses qui ont besoin d'être réfrigérées ? Où vont les boîtes de conserve~? Où y a-t-il de la place pour le gros carton ? Utilisez beaucoup de mots de relation tels que au-dessus, au-dessous, autour et entre."
+"**Ranger les provisions :** Lorsque vous rangez vos provisions, parlez des types de produits qui vont ensemble. Quelles sont les choses qui ont besoin d'être réfrigérées ? Où vont les boîtes de conserve ? Où y a-t-il de la place pour le gros carton ? Utilisez beaucoup de mots de relation tels que au-dessus, au-dessous, autour et entre."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6783,7 +6783,7 @@ msgid ""
 msgstr ""
 "**Comment jouer :** À tour de rôle, les joueurs lancent un dé. Chaque fois que le résultat d'un lancer correspond à une rangée qui se trouve encore dans le triangle, le joueur peut retirer cette rangée et la manger (miam) ou la mettre dans sa pile personnelle.\n"
 "\n"
-"**Comment gagner :** Les joueurs qui débutent peuvent faire correspondre 1 à 1 les points sur le dé avec les morceaux de nourriture dans une rangée. Le joueur qui a le plus gros tas de nourriture gagne~! Pour déterminer le gagnant, faites correspondre les deux piles 1 à 1 pour voir laquelle est la plus grande."
+"**Comment gagner :** Les joueurs qui débutent peuvent faire correspondre 1 à 1 les points sur le dé avec les morceaux de nourriture dans une rangée. Le joueur qui a le plus gros tas de nourriture gagne ! Pour déterminer le gagnant, faites correspondre les deux piles 1 à 1 pour voir laquelle est la plus grande."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6799,6 +6799,317 @@ msgstr "UN DE PLUS UN DE MOINS"
 msgctxt "data_list"
 msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
 msgstr "Au fur et à mesure que votre enfant comprend les premiers nombres, posez-lui des questions sur « un de plus » ou « un de moins ». Par exemple, sans parler du nombre d'objets qu'il y a actuellement, demandez-lui : « Voudrais-tu en avoir un de plus ? » ou « Voudrais-tu en avoir un de moins ? »."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n"
+"\n"
+"**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
+msgstr ""
+"**Quantité et changement :** Lentement, commencez à mettre l'accent sur la quantité actuelle et sur la façon dont elle change. Comptez le nombre d'éléments ensemble, par exemple deux tranches de pomme dans une assiette. Résumez en disant qu'il y a deux tranches de pomme et demandez à votre enfant s'il aimerait une tranche de pomme de plus ou de moins. Si la quantité change, terminez en demandant combien de tranches de pommes il y a maintenant.\n"
+"\n"
+"**Se promener :** De même, lorsque vous vous promenez, choisissez des objets à compter. Supposons que trois personnes fassent la queue devant vous. Comptez-les ensemble et demandez combien ils seront quand l'un d'entre eux partira et qu'il y en aura un de moins."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Foundations"
+msgstr "Bases"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding 'one more' and 'one less' helps deepen understanding of how numbers sequence, and it also is the foundational skill for beginning addition and subtraction."
+msgstr "Comprendre « un de plus » et « un de moins » permet d'approfondir la compréhension de la séquence des nombres, et c'est aussi la compétence de base pour commencer l'addition et la soustraction."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "IN THE OTHER HAND"
+msgstr "DANS L'AUTRE MAIN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a bowl of small pieces of food."
+msgstr "**La mise en place :** Commencez avec un bol contenant de petits morceaux de nourriture."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand."
+msgstr "**Comment jouer :** Demandez à votre enfant de compter à haute voix quelques objets du bol, par exemple 5, et de vous les donner. Répartissez secrètement ces objets entre vos mains, puis tendez les deux mains, l'une ouverte et l'autre fermée. Votre enfant compte alors à haute voix les objets qui se trouvent dans la main ouverte et choisit ensuite la main dans laquelle il va « voler ». Demandez à votre enfant de prédire combien d'objets seront volés avant d’ouvrir la main."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
+msgstr "**Comment gagner :** Les objets volés sont ajoutés à la pile de votre enfant et vous gardez les objets restants. Le jeu se poursuit autant de fois que nécessaire jusqu'à ce que le bol soit vide. À la fin, vous alignez vos objets l'un à côté de l'autre pour voir qui en a le plus."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "FOURNITURES ET CARTES DE NOMBRES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Introduction**\n"
+"\n"
+"You only need a few materials for these Early Family Math activities, and they are all very inexpensive and easy to get. Here’s a short list:\n"
+"\n"
+"• Five dice\n"
+"• A deck of playing cards\n"
+"• String (optional)\n"
+"• Sidewalk chalk (optional)\n"
+"• Some stiff paper in various colors (optional)\n"
+"\n"
+"**Make Number Cards**\n"
+"\n"
+"Many EFM activities can be played using decks of playing cards. However, using a Number Card deck will help your child practice ideas that will not be emphasized with regular playing cards. Make your own cards using card stock or any thick paper. You can either use the PDF supplied in Resources or draw your own."
+msgstr ""
+"**Introduction**\n"
+"\n"
+"Pour ces activités de mathématiques familiales précoces, vous n'avez besoin que de quelques fournitures, qui sont toutes très peu coûteuses et faciles à obtenir. En voici une courte liste :\n"
+"\n"
+"* Cinq dés\n"
+"* Un jeu de cartes\n"
+"* Une ficelle (facultatif)\n"
+"* De la craie de trottoir (facultatif)\n"
+"* Du papier rigide de différentes couleurs (facultatif)\n"
+"\n"
+"**Fabriquer des Cartes de Nombres**\n"
+"\n"
+"De nombreuses activités EFM peuvent être réalisées à l'aide de jeux de cartes. Cependant, l'utilisation d'un jeu de cartes avec des nombres aidera votre enfant à mettre en pratique des idées qui ne seront pas mises en valeur avec des cartes à jouer ordinaires. Fabriquez vos propres cartes en utilisant du papier cartonné ou tout autre papier épais. Vous pouvez utiliser le PDF fourni dans les Ressources ou dessiner vos propres cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE A SHAPE DECK"
+msgstr "FABRIQUER UN JEU DE FORMES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few games and puzzles that involve a Shape Deck of 27 cards in the Shape Deck Games page. If you happen to have a set of 81 cards from the game of SET, you can use 27 of those cards that have solid colors as a Shape Deck."
+msgstr "Il y a plusieurs jeux et puzzles qui impliquent un jeu de forme de 27 cartes dans la page Jeux de Jeu de Forme. Si vous disposez d'un jeu de 81 cartes du jeu SET, vous pouvez utiliser 27 de ces cartes de couleur unie comme Jeu de Forme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with some stiff paper such as card stock if you can. Regular paper will work, it’s just not as easy to handle or as durable.\n"
+"\n"
+"Each of the 27 cards of the Shape Deck has three properties: a shape (circle, triangle, or square), a count (one, two, or three) and a color (red, blue, or black). The 27 cards are pictured above. Use the pdf supplied in Resources or draw your own."
+msgstr ""
+"Commencez par utiliser du papier rigide, comme du papier cartonné, si vous le pouvez. Le papier ordinaire peut faire l'affaire, mais il n'est pas aussi facile à manipuler ni aussi durable.\n"
+"\n"
+"Chacune des 27 cartes du jeu de forme possède trois propriétés : une forme (cercle, triangle ou carré), un nombre (un, deux ou trois) et une couleur (rouge, bleu ou noir). Les 27 cartes sont illustrées ci-dessus. Utilisez le pdf fourni dans les Ressources ou dessinez les vôtres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE ON THE WALL"
+msgstr "LIGNE DES NOMBRES SUR LE MUR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Materials"
+msgstr "Fournitures"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place a number line on a wall to let your child see the numbers and how they grow. The number line should start at 0 and go at least to 20, with the numbers increasing as they go to the right. Make it from regular paper and use tick marks and large numbers."
+msgstr "Placez une ligne numérique sur un mur pour permettre à votre enfant de voir les nombres et leur croissance. La ligne des nombres doit commencer à 0 et aller au moins jusqu'à 20, les nombres augmentant à mesure qu'ils se déplacent vers la droite. Fabriquez-la avec du papier ordinaire et utilisez des points de repère et des grands nombres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "YOUR OWN STORE"
+msgstr "VOTRE PROPRE MAGASIN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kids love to play store! Create tags with silly prices that are small numbers. If your child hasn't learned the numerals yet, you can use quantities of dots on the tags."
+msgstr "Les enfants adorent jouer au vendeur ! Créez des étiquettes avec des prix ridicules qui sont des petits nombres. Si votre enfant n'a pas encore appris les chiffres, vous pouvez utiliser des quantités de points sur les étiquettes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put price tags on things in your home (toys, food, books, etc.) Use pieces of paper that have '1' marked on them as pretend money to spend on things in the store.\n"
+"\n"
+"After each 'purchase,' have your child count out the number of bills to pay for it and then count out how much money is left."
+msgstr ""
+"Mettez des étiquettes de prix sur les objets de votre maison (jouets, nourriture, livres, etc.) Utilisez des morceaux de papier sur lesquels est inscrit « 1 » pour faire semblant de dépenser de l'argent dans le magasin.\n"
+"\n"
+"Après chaque « achat », demandez à votre enfant de compter le nombre de billets pour le payer, puis de compter l'argent restant."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOPSCOTCH"
+msgstr "LA MARELLE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 5"
+msgstr "Nombres jusqu'à 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game of hopscotch provides great counting practice, both forward and backward. Copy this design, or use a simpler one. Use chalk if outside, or masking or painter's tape if inside."
+msgstr "Le jeu de la marelle permet de s'entraîner à compter, en avant et en arrière. Copiez ce modèle ou utilisez-en un plus simple. Utilisez de la craie si vous êtes à l'extérieur, ou du ruban adhésif ou de peintre si vous êtes à l'intérieur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"1. Throw a marker into the first square. If it lands on a line, or outside the square, you lose your turn and you pass the marker to the next player.\n"
+"\n"
+"2. Hop on one foot into the first empty square, and then every subsequent empty square. Skip the one your marker is on.\n"
+"\n"
+"3. At the pairs (4-5 and 7-8), jump with both feet.\n"
+"\n"
+"4. At 10, hop with both feet, turn around, and head back toward the start."
+msgstr ""
+"1. Lancez un marqueur sur la première case. S'il atterrit sur une ligne ou en dehors de la case, vous perdez votre tour et vous passez le marqueur au joueur suivant.\n"
+"\n"
+"2. Sautez sur un pied dans la première case vide, puis dans toutes les cases vides suivantes. Passez la case sur laquelle se trouve votre marqueur.\n"
+"\n"
+"3. Aux paires (4-5 et 7-8), sautez avec les deux pieds.\n"
+"\n"
+"4. A 10, sautez avec les deux pieds, faites demi-tour et retournez vers le départ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. When you reach the marked square again, pick up the marker—on one foot!—and keep going.\n"
+"\n"
+"6. If you finished without any mistakes, pass the marker to the next player. On your next turn, throw the marker to the next number.\n"
+"\n"
+"7. If you fall, jump outside the lines, or miss a square or the marker, you lose your turn and must repeat the same number on your next turn. Whoever reaches 10 first, wins."
+msgstr ""
+"5. Lorsque vous atteignez à nouveau le carré marqué, ramassez le marqueur - sur un pied ! - et continuez à avancer.\n"
+"\n"
+"6. Si vous avez terminé sans erreur, passez le marqueur au joueur suivant. Au tour suivant, lancez le marqueur sur le nombre suivant.\n"
+"\n"
+"7. Si vous tombez, sautez en dehors des lignes ou manquez une case ou un marqueur, vous perdez votre tour et devez répéter le même nombre au tour suivant. Celui qui atteint 10 en premier a gagné."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simpler variations"
+msgstr "Variations plus simples"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger children, relax many of the rules and replace hopping with stepping. Also, use a jumping pattern with fewer squares, perhaps as simple as having the numbers from1to5infivesquaresinarow."
+msgstr "Pour les enfants plus jeunes, assouplissez un grand nombre de règles et remplacez les sauts par des pas. Utilisez également un modèle de saut comportant moins de cases, par exemple en plaçant les chiffres de 1 à 5 dans cinq cases consécutives."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING IN CIRCLES"
+msgstr "TOURNER EN ROND"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**A circle for each property:** Create large circles on the ground using Hula Hoops, string, or draw them with sidewalk chalk. Use a collection of objects and have each circle represent a property of some of the objects. Possible properties are: has four legs, is bigger than a doll, has some red coloring. The challenge for your child is to put everything that has the property in the circle and everything without the property outside the circle."
+msgstr "**Un cercle pour chaque propriété :** Créez de grands cercles sur le sol à l'aide de Hula Hoops, de ficelles ou dessinez-les avec de la craie de trottoir. Utilisez une collection d'objets et faites en sorte que chaque cercle représente une propriété de l'un des objets. Voici quelques exemples de propriétés possibles : a quatre pattes, est plus grand qu'une poupée, a des couleurs rouges. Le défi pour votre enfant est de placer tout ce qui a la propriété dans le cercle et tout ce qui n'a pas la propriété à l'extérieur du cercle."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two circles:** Start by using one circle to get your child used to the idea. When you change to two circles, make them partially overlap, and choose the properties so that some objects have both properties.\n"
+"\n"
+"**Example:** For example, if you have a box of blocks, the two properties might be having a round shape and being wooden. Your child should tell you how they are deciding to place each object."
+msgstr ""
+"**Deux cercles :** Commencez par utiliser un seul cercle pour que votre enfant s'habitue à l'idée. Lorsque vous passez à deux cercles, faites-les se chevaucher partiellement et choisissez les propriétés de manière à ce que certains objets aient les deux propriétés.\n"
+"\n"
+"**Exemple :** Par exemple, si vous avez une boîte de blocs, les deux propriétés peuvent être d'avoir une forme ronde et d'être en bois. Votre enfant doit vous dire comment il décide de placer chaque objet."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reverse this activity by placing objects in the circles and challenging your child to identify what property goes with each circle."
+msgstr "Inversez cette activité en plaçant des objets dans les cercles et en mettant votre enfant au défi d'identifier la propriété qui va avec chaque cercle."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SAME AND DIFFERENT"
+msgstr "IDENTIQUE ET DIFFÉRENT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Choose two items that are somewhat similar. How are they similar? How are they different? Allow your child lots of freedom to come up with unusual reasons. Sometimes let your child pick the two items to challenge you to come up with the similarities and differences.\n"
+"\n"
+"**Example:** Pick a spoon and a fork. They are similar because you eat with them and they are both kept in the kitchen. They are different because one is pointy and one is round."
+msgstr ""
+"**Comment jouer :** Choisissez deux objets qui se ressemblent légèrement. En quoi sont-ils semblables ? En quoi sont-ils différents ? Laissez à votre enfant toute latitude pour trouver des raisons inhabituelles. Laissez-le parfois choisir les deux objets pour qu'il vous mette au défi de trouver les similitudes et les différences.\n"
+"\n"
+"**Exemple :** Choisissez une cuillère et une fourchette. Elles se ressemblent parce qu'on mange avec elles et qu'elles sont toutes deux rangées dans la cuisine. Elles sont différentes parce que l'une est pointue et l'autre ronde."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation is to choose an item and ask which things in the room are similar to it and which things are very different from it."
+msgstr "Une variante consiste à choisir un objet et à demander quels sont les objets de la pièce qui lui ressemblent et ceux qui en sont très différents."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE OF THESE IS NOT LIKE THE OTHERS"
+msgstr "L'UN D'ENTRE EUX N'EST PAS COMME LES AUTRES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use a set of four items or drawings where at least one of the four is the odd one out. Challenge your child to identify one that is not like the others and to explain why. Accept any reason that makes sense; your child may have an unusual reason."
+msgstr "Utilisez un ensemble de quatre objets ou dessins dont au moins l'un des quatre est différent des autres. Mettez votre enfant au défi d'en identifier un qui n'est pas comme les autres et d'expliquer pourquoi. Acceptez toute raison logique ; votre enfant peut avoir une raison inhabituelle."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example – Shapes:** Suppose the four items are a red triangle, a red square with a hole, a small red square, and solid blue square."
+msgstr "**Exemple – Les Formes :** Supposons que les quatre objets soient un triangle rouge, un carré rouge avec un trou, un petit carré rouge et un carré plein bleu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas."
+msgstr "Le triangle rouge est le seul à ne pas être carré, le carré rouge troué est le seul à avoir un trou, le carré bleu est le seul à ne pas être rouge et le petit carré rouge est beaucoup plus petit que les autres. Il n'y a pas toujours plus d'une bonne réponse, mais il faut toujours être ouvert aux idées surprenantes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DESCRIBING SCENES"
+msgstr "DÉCRIRE DES SCÈNES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a simple barrier between the two players so they can’t see each other’s work. Another option is to work back to back. Each person has a piece of paper and the same set of colored pencils, crayons, or pens.\n"
+"\n"
+"One person draws shapes (such as circles, triangles, squares, and rectangles) in colors and groups in distinctive positions on their paper. That person then gives directions for the other person to follow to make the identical drawing.\n"
+"\n"
+"At the end, the barrier is removed and the two drawings are compared (usually with lots of laughter). The players compare ideas on which spoken directions worked and which did not."
+msgstr ""
+"**La mise en place :** Placez une simple barrière entre les deux joueurs pour qu'ils ne puissent pas voir le travail de l'autre. Une autre option consiste à travailler dos à dos. Chaque personne dispose d'une feuille de papier et de la même série de crayons de couleur ou de stylos.\n"
+"\n"
+"Une personne dessine des formes (telles que des cercles, des triangles, des carrés et des rectangles) en couleurs et en groupes dans des positions distinctes sur sa feuille. Cette personne donne ensuite des instructions à l'autre personne pour qu'elle réalise le même dessin.\n"
+"\n"
+"À la fin, la barrière est enlevée et les deux dessins sont comparés (généralement avec beaucoup de rires). Les joueurs comparent leurs idées sur les instructions orales qui ont fonctionné et celles qui n'ont pas fonctionné."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can be a 3D activity if each player has the same set of stackable items (such as Lego bricks). In this case, one player makes a stack in some interesting way and then gives a sequence of directions to the other player."
+msgstr "Il peut s'agir d'une activité en 3D si chaque joueur dispose du même ensemble d'objets empilables (comme des briques Lego). Dans ce cas, un joueur fait une pile d'une manière intéressante et donne ensuite une série de directives à l'autre joueur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHICH SHAPE AM I?"
+msgstr "QUELLE FORME SUIS-JE ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Have a collection of small shapes, drawings of shapes on cards, or names of shapes on cards.\n"
+"\n"
+"Stick a shape or card on each person’s forehead. Ask yes-or-no questions about your own shape until you guess what you are."
+msgstr ""
+"Disposez d'une collection de petites formes, de dessins de formes sur des cartes ou de noms de formes sur des cartes.\n"
+"\n"
+"Collez une forme ou une carte sur le front de chaque personne. Posez des questions par oui ou par non sur votre propre forme jusqu'à ce que vous deviniez ce que vous êtes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHO IS IT?"
+msgstr "QUI EST-CE ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
+msgstr "Il s'agit d'une activité pour plusieurs personnes. Le meneur choisit secrètement une personne dans le groupe. Pour trouver la personne secrète, les joueurs posent des questions telles que : « Cette personne porte-t-elle une chemise avec un triangle sur le devant ? “ ou ” Les cheveux de cette personne sont-ils longs de plus de 30 cm ? »."
 
 #. type=data_list
 msgctxt "data_list"
