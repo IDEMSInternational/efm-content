@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-04 15:27\n"
+"PO-Revision-Date: 2024-09-04 18:28\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7055,6 +7055,26 @@ msgstr "El triángulo rojo es el único que no es un cuadrado, el cuadrado rojo 
 msgctxt "data_list"
 msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
 msgstr "CADA UNO DE ESTOS ES DIFERENTE A LOS DEMÁS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Start with a group of four things with the following property: for each one of the things, the remaining three things have something in common that is not shared by the fourth.\n"
+"\n"
+"Challenge each other to find groups with this property. Be flexible and allow for any reasonable explanation that seems to work.\n"
+"\n"
+"**Example.** The first item is a triangle, while the others are squares. The second has a hole, while the others are solid. The third is a lot smaller than the others. The fourth is blue, while the others are red."
+msgstr ""
+"**Cómo se organiza.** Comienza con un grupo de cuatro cosas con la siguiente característica: para cada una de las cosas, las tres restantes tienen algo en común que no comparte la cuarta.\n"
+"\n"
+"Desafíense a encontrar grupos con esta característica. Sea flexible y permita cualquier explicación razonable que parezca funcionar.\n"
+"\n"
+"**Ejemplo.** El primer elemento es un triángulo y los demás son cuadrados. El segundo tiene un agujero, mientras que los otros son sólidos. El tercero es mucho más pequeño que el resto. El cuarto es azul y los demás son rojos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "BÚSQUEDA DEL TESORO"
 
 #. type=data_list
 msgctxt "data_list"
