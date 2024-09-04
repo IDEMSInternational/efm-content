@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-09-02 03:45\n"
+"PO-Revision-Date: 2024-09-04 13:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14644,6 +14644,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "One Working Number"
+msgstr "一个有效的数字"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "a) Suppose you had a calculator with +, -, x, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? \n"
 "\n"
@@ -14689,6 +14694,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Two Working Numbers"
+msgstr "两个有效的数字"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "a) Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
 "\n"
@@ -14712,6 +14722,11 @@ msgstr ""
 "2c）用其他数字对替换 4 和 7。这些数字对会有什么结果？\n"
 "\n"
 "在数论中，这被称为贝祖定理。结果表明，通过结合两个数的倍数，你可以产生两个数的最大公约数的任意倍数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Binary Numbers"
+msgstr "二进制数字"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16570,6 +16585,17 @@ msgstr "第一阶段：我能听见你！"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**Overview for Stage 1 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 1 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**第一阶段游戏聚会概述**\n"
+"\n"
+"第一阶段数学学习步骤的介绍提供了在该阶段涵盖的主题概述。每个单独的游戏聚会都建议了一本故事书和一些数学活动。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 1-1"
 msgstr "游戏聚会1"
 
@@ -16775,6 +16801,17 @@ msgstr "第二阶段：我能数到 5！"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**Overview for Stage 2 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**第二阶段游戏聚会概述**\n"
+"\n"
+"第二阶段数学学习步骤的介绍提供了在该阶段涵盖的主题概述。每个单独的游戏聚会都建议了一本故事书和一些数学活动。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-1"
 msgstr "游戏聚会11"
 
@@ -16905,6 +16942,11 @@ msgstr "这包括计数到6，以及颜色和形状。"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
+msgstr "这些涉及非常小的计数和加法。目前, 在组合拼图中仅使用较小的和(不超过6)。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-8"
 msgstr "游戏聚会18"
 
@@ -16962,6 +17004,17 @@ msgstr "这些活动包括将数量不同的物体排列成不同的形状，并
 msgctxt "data_list"
 msgid "Stage 3 Overview"
 msgstr "第三阶段：我能数到 10！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 3 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 3 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**第三阶段游戏聚会概述**\n"
+"\n"
+"第三阶段数学学习步骤的介绍提供了在该阶段涵盖的主题概述。每个单独的游戏聚会都建议了一本故事书和一些数学活动。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17157,6 +17210,17 @@ msgstr "这些活动在玩策略游戏时涉及大量的问题解决。"
 msgctxt "data_list"
 msgid "Stage 4 Overview"
 msgstr "第四阶段：我能数到 20！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 4 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**第时阶段游戏聚会概述**\n"
+"\n"
+"第四阶段数学学习步骤的介绍提供了在该阶段涵盖的主题概述。每个单独的游戏聚会都建议了一本故事书和一些数学活动。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17362,6 +17426,17 @@ msgstr "这些活动涉及加法和减法。在点格游戏中使用带编号的
 msgctxt "data_list"
 msgid "Stage 5 Overview"
 msgstr "第五阶段：我能数到 100！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr ""
+"**第五阶段游戏聚会概述**\n"
+"\n"
+"第五阶段数学学习步骤的介绍提供了在该阶段涵盖的主题概述。每个单独的游戏聚会都建议了一本故事书和一些数学活动。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28789,8 +28864,28 @@ msgstr "同一群体的人经常以相同的方式思考，从而错失解决问
 
 #. type=template
 msgctxt "template"
+msgid "Privacy policy"
+msgstr "隐私政策"
+
+#. type=template
+msgctxt "template"
 msgid "Template list"
 msgstr "模版列表"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "巡演列表"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "重置程序"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "语言"
 
 #. type=template
 msgctxt "template"
@@ -28929,13 +29024,33 @@ msgstr "margin-top: 0px"
 
 #. type=template
 msgctxt "template"
+msgid "Activity list"
+msgstr "活动列表"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "故事书列表"
+
+#. type=template
+msgctxt "template"
 msgid "**Math Learning Step**"
 msgstr "**数学学习步骤**"
 
 #. type=template
 msgctxt "template"
+msgid "**Storybook**"
+msgstr "**故事书**"
+
+#. type=template
+msgctxt "template"
 msgid "**Activities**"
 msgstr "**活动**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "阶段"
 
 #. type=template
 msgctxt "template"
@@ -29013,6 +29128,66 @@ msgstr "**成人读者**"
 
 #. type=template
 msgctxt "template"
+msgid "Beginning"
+msgstr "初级"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "中级"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "高级"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**初级故事书**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**中级故事书**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**高级故事书**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "故事文本"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "第一次阅读"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "第二次阅读"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "第三次阅读"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "欢迎！"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "故事书"
+
+#. type=template
+msgctxt "template"
 msgid "Activities"
 msgstr "活动"
 
@@ -29026,10 +29201,51 @@ msgctxt "template"
 msgid "Playdates"
 msgstr "游戏聚会"
 
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "同步中"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "同步中..."
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "复制"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "已复制！"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "上次同步于@local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "此设备此前未进行过同步。"
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "立即同步"
+
 #. type=tour
 msgctxt "tour"
 msgid "Bonus Material"
 msgstr "额外的内容"
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "阶段"
 
 #. type=tour
 msgctxt "tour"
