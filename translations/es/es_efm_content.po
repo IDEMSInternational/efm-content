@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-03 23:20\n"
+"PO-Revision-Date: 2024-09-04 15:27\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7050,6 +7050,11 @@ msgstr "**Ejemplo - figuras geométricas:** imagínese que tiene un triángulo r
 msgctxt "data_list"
 msgid "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas."
 msgstr "El triángulo rojo es el único que no es un cuadrado, el cuadrado rojo con el agujero es el único con un agujero, el cuadrado azul es el único que no es rojo y el cuadrado rojo pequeño es mucho más pequeño que los demás. Recuerde que, aunque no siempre haya más de una respuesta correcta, es importante estar abierto a ideas creativas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "CADA UNO DE ESTOS ES DIFERENTE A LOS DEMÁS"
 
 #. type=data_list
 msgctxt "data_list"
