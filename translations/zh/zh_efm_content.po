@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-09-04 13:26\n"
+"PO-Revision-Date: 2024-09-04 14:21\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11049,6 +11049,19 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"* Play that the smaller number wins.\n"
+"* Decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"* Deal three cards to each player and let the players choose which one to put aside.\n"
+"* To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"*较小的数字获胜。\n"
+"*决定是每翻一张牌就展示，还是等所有决定做完、最终数字形成后再展示，哪种方式更具戏剧性。\n"
+"*每位玩家发三张牌，玩家自行选择弃掉其中一张。\n"
+"*为了练习加法，并增加决策的难度，抽三张牌，每次翻一张，用其中两张组成一个两位数，剩下一张是单位数。目标是使两者相加得到最大和。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MAKING MULTIPLICATION CARDS"
 msgstr "制作乘法卡"
 
@@ -16959,6 +16972,11 @@ msgstr "**游戏聚会重点:** 手指在计数、加法和减法中非常有用
 msgctxt "data_list"
 msgid "This has counting up to 12, shapes, and comparing."
 msgstr "这包括计数到12、形状和比较。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
+msgstr "这些活动涉及使用数轴进行计数、加法和减法，并使用 数字组合练习加法。数字组合的总和应保持较小（大约7左右），然后逐渐增大。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -29244,8 +29262,103 @@ msgstr "额外的内容"
 
 #. type=tour
 msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "部分活动提供了额外的资料，包含示例和详细说明。你可以在这里查看，或者在相应的活动页面末尾找到这些内容。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "每个阶段大约包含十几个部分，提供有趣的游戏、拼图、活动和探索，供全家一起娱乐。"
+
+#. type=tour
+msgctxt "tour"
 msgid "Stages"
 msgstr "阶段"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "每个阶段的名称都描述了孩子开始该阶段的主要要求。例如，如果你的孩子能数到十并理解这些数字的含义，那么可以从第三阶段开始。各个阶段的材料按照学习进阶的顺序设计，后面的部分是基于前面内容的延续和升华。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "请选择您想进行的活动类型。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "请选择您是希望按单个阶段查看活动，还是按主题查看活动。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "每个学习阶段分为十个基本的学习步骤。每个步骤都会说明您的孩子在学习什么、您如何帮助他们学习，以及这些步骤之间的关联性。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "每个阶段都有十个游戏，供您和其他家庭一起享受。每个游戏都推荐了适合一起阅读的故事书和活动。这些游戏对应于每个阶段的十个数学学习步骤。每个游戏都提供了链接，便于您直接访问这些资源。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "与孩子一起阅读是美好的体验！这些故事书是为成人给孩子朗读准备的。在阅读过程中加入数学相关的评论和问题，不仅能帮助孩子的数学成长，还能让数学与这种快乐、温馨的经历紧密联系起来。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "请选择您想选择的故事类型。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "初级故事书"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "在孩子还不会说话甚至不理解单词时，就可以与他们交流。指着你看到的事物，告诉他们名称并进行描述，比如形状、颜色、大小比较和数量。当孩子开始理解单词时，可以提问并让他们指出对应的物品。等孩子开始理解并会说单词后，可以逐渐加入一些简单的问题。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "中级故事书"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "这些故事书篇幅稍长，故事情节更复杂，涵盖的思想也更深入。您的孩子现在能够讨论并思考更多世界上的事物。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "高级故事书"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "故事情节变得更加详细和复杂，数学内容涉及更大的数字和更高级的概念。对物体的描述也更加细致且深入。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "欢迎！"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "一起享受阅读和数学游戏吧！最好的学习和体验数学的方式就是在社交和游戏中进行。Early Family Math 为您的家庭准备了四种可以共同学习的材料。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "故事书"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "这些故事书是为成人给孩子朗读的。每一页都有数学评论和引导性问题。通过一起阅读，帮助孩子数学能力的成长，并将数学与这种愉快、温馨的阅读体验紧密联系起来！"
 
 #. type=tour
 msgctxt "tour"
@@ -29254,11 +29367,36 @@ msgstr "活动"
 
 #. type=tour
 msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "这些按教育顺序设计的数学游戏、拼图、活动和探索，旨在让全家一起参与。不仅能帮助孩子学习学校所需的数学知识，还能为家庭带来许多欢乐的时光。"
+
+#. type=tour
+msgctxt "tour"
 msgid "Math Learning Steps"
 msgstr "数学学习步骤"
 
 #. type=tour
 msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "你有没有想过，数学的初始学习步骤是什么，以及它们之间是如何相互联系的？下面是十个数学学习步骤的简要介绍，您的孩子将在五个阶段中逐步体验这些步骤。"
+
+#. type=tour
+msgctxt "tour"
 msgid "Playdates"
 msgstr "游戏聚会"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "和其他家庭一起举办数学游戏聚会吧！这些聚会提供推荐的故事书、游戏和拼图，供多个家庭共同享受和互动。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "帮助"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "如果您想再次查看此介绍，点击问号标识即可。"
 
