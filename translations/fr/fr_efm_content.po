@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-09-04 02:33\n"
+"PO-Revision-Date: 2024-09-04 03:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6508,6 +6508,188 @@ msgstr "Il y a beaucoup de choses à compter ou à décrire lorsque vous faites 
 msgctxt "data_list"
 msgid "**Counting:** Talk about how many apples you need, and count them out as you pick them out. Count the people in line in front of you, and compare that to the length of the other lines."
 msgstr "**Compter :** Parlez du nombre de pommes dont vous avez besoin et comptez-les au fur et à mesure que vous les choisissez. Comptez les personnes qui font la queue devant vous et comparez-les à la longueur des autres files."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Shapes:** Point out the shapes of fruit or pictures on food boxes. Talk about how some things come in boxes, and other things come in round bottles.\n"
+"\n"
+"You might need something on a high shelf, or something on a low shelf. There is so much to describe and compare!"
+msgstr ""
+"**Les Formes :** Montrez les formes des fruits ou les images sur les boîtes de nourriture. Expliquez que certaines choses sont présentées dans des boîtes et d'autres dans des bouteilles rondes.\n"
+"\n"
+"Vous pourriez avoir besoin de quelque chose sur une étagère haute ou sur une étagère basse. Il y a tellement de choses à décrire et à comparer !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES INSIDE SHAPES"
+msgstr "DES FORMES DANS DES FORMES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help your child explore the physical relationships between shapes by providing an environment rich in opportunities to experiment."
+msgstr "Aidez votre enfant à explorer les relations physiques entre les formes en lui offrant un environnement riche en possibilités d'expérimentation."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Start with any box – perhaps a cereal box or cardboard shipping box. Cut holes with different shapes (square, circle, triangle, long rectangle) in the box. Watch your child experiment with fitting toys and other objects through the holes."
+msgstr "**Comment créer : Commencez par une boîte quelconque, par exemple une boîte de céréales ou une boîte d'expédition en carton. Découpez des trous de différentes formes (carré, cercle, triangle, long rectangle) dans la boîte. Observez votre enfant essayer de faire passer des jouets et d'autres objets dans les trous."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add different colors to outline the holes (e.g. red triangle, blue circle, yellow square). Reinforce the names by saying the name of the shape of the hole when your child puts the toy through it."
+msgstr "Ajoutez des couleurs différentes pour délimiter les trous (par exemple, triangle rouge, cercle bleu, carré jaune). Renforcez les noms en prononçant le nom de la forme du trou lorsque votre enfant y introduit le jouet."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE HUNT"
+msgstr "LA CHASSE AUX FORMES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This game is similar to I Spy. It can be played anywhere and at any time.\n"
+"\n"
+"**The setup:** One person sees a shape, and then gives clues about the object's description and position to the other person."
+msgstr ""
+"Ce jeu est similaire au jeu d'espionnage I Spy. Il peut être joué n'importe où et à n'importe quel moment.\n"
+"\n"
+"**La Mise en Place :** Une personne voit une forme, puis donne des indices sur la description et la position de l'objet à l'autre personne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player 1: “I see something that has a large blue circle.” \n"
+"\n"
+"Player 2: \"Is it that bicycle wheel?\"\n"
+"\n"
+"Player 1: \"No. It is in the middle of a wall.\"\n"
+"\n"
+"Player 2: “I see it! It’s the clock!”"
+msgstr ""
+"Joueur 1 : « Je vois quelque chose qui a un grand cercle bleu ».\n"
+"\n"
+"Joueur 2 : « Est-ce que c'est la roue de ce vélo ? »\n"
+"\n"
+"Joueur 1 : « Non. C'est au milieu d'un mur. »\n"
+"\n"
+"Joueur 2 : « Je la vois ! C'est l'horloge ! »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take turns with your child in the two roles. Being able to give good clues is just as important as discovering an object from some clues.\n"
+"\n"
+"Start with simple shapes, add size and color, and then add shapes inside of shapes or other arrangements. Add in information about its position relative to other objects."
+msgstr ""
+"Les deux rôles sont joués à tour de rôle par votre enfant. Savoir donner de bons indices est tout aussi important que de découvrir un objet à partir de certains indices.\n"
+"\n"
+"Commencez par des formes simples, ajoutez la taille et la couleur, puis ajoutez des formes dans des formes ou d'autres arrangements. Ajoutez des informations sur sa position par rapport à d'autres objets."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATE A JIGSAW PUZZLE"
+msgstr "CRÉER UN PUZZLE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a jigsaw puzzle together for your child to play with.\n"
+"\n"
+"Either use a box that already has a picture on it, such as a cereal or product box, or have your child paint or draw on a piece of cardboard or stiff paper.\n"
+"\n"
+"Cut the cardboard or paper into large pieces and keep all the pieces. \n"
+"\n"
+"You now have your own personal jigsaw puzzle!"
+msgstr ""
+"Réalisez ensemble un puzzle avec lequel votre enfant pourra jouer.\n"
+"\n"
+"Utilisez une boîte déjà illustrée, comme une boîte de céréales ou de produits, ou demandez à votre enfant de peindre ou de dessiner sur un morceau de carton ou de papier rigide.\n"
+"\n"
+"Découpez le carton ou le papier en grands morceaux et conservez tous les morceaux.\n"
+"\n"
+"Vous avez maintenant votre propre puzzle !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COLORED TILINGS"
+msgstr "PAVAGES COLORIÉS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Create a set of “tiles” from cardboard or stiff paper. Use the patterns in the EFM Printables PDF, or download the patterns from a source on the internet. Use one source for all the shapes so that they fit well together. For each shape, use just one or two colors, such as red squares and blue triangles – that will help your child pick up the pattern of which shapes are which, and it will make the patterns more interesting."
+msgstr "**Comment Créer :** Créez un ensemble de « pavés » à partir de carton ou de papier rigide. Utilisez les modèles figurant dans le document PDF EFM Printables ou téléchargez les modèles à partir d'une source sur Internet. Utilisez une seule source pour toutes les formes afin qu'elles s'intègrent bien les unes aux autres. Pour chaque forme, utilisez une ou deux couleurs seulement, par exemple des carrés rouges et des triangles bleus - cela aidera votre enfant à reconnaître les formes et rendra les motifs plus intéressants."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Watch your child make patterns fitting the tiles together. Name the shapes and colors as they go.\n"
+"\n"
+"With older children, talk about patterns in the tiling that repeat. Also, talk about symmetries in the overall design. Some designs have one side that is the reflection of the other side, and that is called mirror symmetry."
+msgstr ""
+"Observez votre enfant réaliser des motifs en emboîtant les pavés les uns sur les autres. Nommez les formes et les couleurs au fur et à mesure.\n"
+"\n"
+"Avec les enfants plus âgés, parlez des motifs qui se répètent dans le pavé. Parlez également des symétries dans l'ensemble du dessin. Certains dessins ont un côté qui est le reflet de l'autre côté, et c'est ce qu'on appelle **la symétrie miroir.**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child has made a few designs, start pointing out patterns in the tiled floors and buildings that you see. Brickwork or woodwork often have interesting patterns in them."
+msgstr "Une fois que votre enfant a fait quelques dessins, commencez à lui faire remarquer des motifs dans les carrelages et les bâtiments que vous voyez. Les briques et les boiseries présentent souvent des motifs intéressants."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LAUNDRY SORTING"
+msgstr "TRI DU LINGE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Laundry sorting is a great way to discuss properties that make things the same or different."
+msgstr "Le tri du linge est un excellent moyen de discuter des propriétés qui font que les choses sont identiques ou différentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Dirty clothes:** Perhaps the clothes need to be sorted by whites, bright colors, and dark colors. Perhaps some clothes need delicate handling, or they are particularly dirty. Perhaps one pile is too big to wash as one group. All of these characterstics are things to be observed, described, and discussed.\n"
+"\n"
+"**Clean clothes:** You may want to sort into piles by whose clothes they are. Some clothes may be bigger than others. Pairing up socks can be particularly interesting – matching colors, patterns, and sizes."
+msgstr ""
+"**Les Vêtements Sales :** Les vêtements doivent peut-être être triés par blanc, couleurs vives et couleurs foncées. Certains vêtements doivent être manipulés avec délicatesse ou sont particulièrement sales. Peut-être qu'une pile est trop grosse pour être lavée en un seul groupe. Toutes ces caractéristiques doivent être observées, décrites et discutées.\n"
+"\n"
+"**Les Vêtements Propres :** Vous pouvez trier les vêtements en fonction de leur propriétaire. Certains vêtements peuvent être plus grands que d'autres. Il peut être particulièrement intéressant d'associer des chaussettes – en faisant correspondre les couleurs, les motifs et les tailles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "OBJECT HUNT"
+msgstr "LA CHASSE AUX OBJETS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make a math game of searching for objects around the house or outside. Use the game to practice concepts that your child is learning, such as color, size (large, medium, small), weight (heavy, light), quantity, and relationship (inside, on top of, below)."
+msgstr "Faites un jeu de mathématiques en cherchant des objets dans la maison ou à l'extérieur. Utilisez ce jeu pour mettre en pratique les concepts que votre enfant apprend, tels que la couleur, la taille (grand, moyen, petit), le poids (lourd, léger), la quantité et la relation (à l'intérieur, au-dessus, en dessous)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two versions of this game. Both versions involve a Puzzler, who thinks of an object to find, and a Guesser, who tries to guess what the object based on the information from the Puzzler.\n"
+"\n"
+"**Version 1:** The Puzzler starts describing an object, and the Guesser tries to guess what it is. \n"
+"\n"
+"**Version 2:** The Guesser asks yes/no questions of the Puzzler until the Guesser guesses what the object is.\n"
+"\n"
+"**How to win:** Guess what the object is in as few steps as possible."
+msgstr ""
+"**Comment jouer :** Il existe deux versions de ce jeu. Les deux versions impliquent un as du casse-tête, qui pense à un objet à trouver, et un devineur, qui essaie de deviner l'objet en se basant sur les informations fournies par l’as du casse-tête.\n"
+"\n"
+"**Version 1 :** L’as du casse-tête commence à décrire un objet et le devineur essaie de deviner de quoi il s'agit.\n"
+"\n"
+"**Version 2 :** Le devineur pose des questions de type oui/non à l’as du casse-tête jusqu'à ce que le devineur devine ce qu'est l'objet.\n"
+"\n"
+"**Comment gagner :** Deviner l'objet en un minimum d'étapes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Descriptions"
+msgstr "Descriptions D'objets"
 
 #. type=data_list
 msgctxt "data_list"
