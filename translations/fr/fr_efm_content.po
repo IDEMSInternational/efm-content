@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-09-04 03:45\n"
+"PO-Revision-Date: 2024-09-04 11:28\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6688,8 +6688,117 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "PATTERNS"
+msgstr "LES MOTIFS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Object Descriptions"
 msgstr "Descriptions D'objets"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Patterns are everywhere! See how many you can make with your child."
+msgstr "Les motifs sont partout ! Voyez combien vous pouvez en faire avec votre enfant."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pattern types"
+msgstr "Types de Modèle"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some characteristics that can be used by themselves or mixed together: \n"
+"\n"
+"• Movement patterns: stepping, jumping, waving, nodding\n"
+"• Sound patterns: clapping, knee slapping, tongue clicking, stamping\n"
+"• Loudness patterns: soft, medium, loud\n"
+"• Visual patterns: color, shape, size"
+msgstr ""
+"Voici quelques caractéristiques qui peuvent être utilisées seules ou combinées :\n"
+"\n"
+"* Modèles de mouvement : marcher, sauter, saluer, hocher la tête\n"
+"* Modèles sonores : battements de mains, claquements de genoux, claquements de langue, trépignements.\n"
+"* Modèles d'intensité sonore : douce, moyenne, forte\n"
+"* Modèles visuels : couleur, forme, taille"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player one: makes a pattern and challenges the other person to repeat it. (Step, clap, jump)\n"
+"\n"
+"Player two: can repeat and eventually add to the pattern, challenging player one to repeat it. (Step, clap, jump, touch their nose)\n"
+"As you get better, challenge each other to repeat longer and longer patterns from memory.\n"
+"\n"
+"You can use a pattern as a secret code for getting through a passageway. You can also make necklaces with your child by taking string and threading on beads or bits of food to create repeating patterns. Walking hand in hand, you can use squeeze patterns (short short long, etc.).\n"
+"\n"
+"**Puzzles:** For older children, create puzzles by drawing a pattern of shapes on paper. One person establishes a pattern and then leaves gaps in the sequence for the other to fill in."
+msgstr ""
+"Premier joueur : crée un motif et met l'autre personne au défi de le répéter. (Marcher, taper dans les mains, sauter).\n"
+"\n"
+"Deuxième joueur : peut répéter et éventuellement ajouter au motif, en mettant le premier joueur au défi de le répéter. (Marcher, applaudir, sauter, se toucher le nez)\n"
+"Au fur et à mesure que vous vous améliorez, mettez-vous au défi de répéter de mémoire des motifs de plus en plus longs.\n"
+"\n"
+"Vous pouvez utiliser un motif comme code secret pour franchir un passage. Vous pouvez également fabriquer des colliers avec votre enfant en prenant de la ficelle et en y enfilant des perles ou des morceaux de nourriture pour créer des motifs répétitifs. En marchant main dans la main, vous pouvez utiliser des motifs de compression (court court long, etc.).\n"
+"\n"
+"**Puzzles :** Pour les enfants plus âgés, créez des puzzles en dessinant un motif de formes sur du papier. Une personne établit un modèle et laisse des trous dans la séquence pour que l'autre les remplisse."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER HUNT"
+msgstr "LA CHASSE AUX NUMÉROS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Go hunting:** Pick a number, say 2. Challenge your child to go on a treasure hunt to find as many ways as possible that 2 shows up around you. It may show up as the numeral 2 on a wall, sign, or building. It may show up as two of something, such as two chairs, two dishes, or two cups, as it does in this illustration."
+msgstr "**Partir à la chasse :** Choisissez un chiffre, par exemple 2. Mettez votre enfant au défi de partir à la chasse au trésor et de trouver le plus grand nombre possible de façons dont le chiffre 2 apparaît autour de vous. Il peut s'agir du chiffre 2 sur un mur, un panneau ou un bâtiment. Il peut s'agir de deux exemplaires de quelque chose, comme deux chaises, deux assiettes ou deux tasses, comme dans cette illustration."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you like, you can make this into a contest by seeing who can find the most of whatever number you are looking for."
+msgstr "Si vous le souhaitez, vous pouvez en faire une compétition en cherchant qui peut trouver le plus grand nombre du chiffre que vous recherchez."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER GOBBLER"
+msgstr "LE GOBEUR DE NUMÉROS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 5"
+msgstr "Compter jusqu'à 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Make a 21-piece triangle with some food item. Put 1 piece in the top row, 2 pieces in the next row, and 6 pieces in the last."
+msgstr "**La mise en place :** Formez un triangle de 21 pièces avec un aliment. Placez 1 pièce dans la rangée supérieure, 2 pièces dans la rangée suivante et 6 pièces dans la dernière."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Take turns rolling a die. Each time the count of a roll matches a row that is still in the triangle, the player gets to remove that row and either eat it (yum) or put it in their personal pile.\n"
+"\n"
+"**How to win:** Beginning players can do a 1-to-1 match of the dots on the die with the food pieces in a row. The player with the bigger pile of food wins! To determine the winner, do a 1-to-1 match of the two piles to see whose pile is larger."
+msgstr ""
+"**Comment jouer :** À tour de rôle, les joueurs lancent un dé. Chaque fois que le résultat d'un lancer correspond à une rangée qui se trouve encore dans le triangle, le joueur peut retirer cette rangée et la manger (miam) ou la mettre dans sa pile personnelle.\n"
+"\n"
+"**Comment gagner :** Les joueurs qui débutent peuvent faire correspondre 1 à 1 les points sur le dé avec les morceaux de nourriture dans une rangée. Le joueur qui a le plus gros tas de nourriture gagne~! Pour déterminer le gagnant, faites correspondre les deux piles 1 à 1 pour voir laquelle est la plus grande."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
+msgstr "Variez la taille de la pile pour correspondre à la fourchette de chiffres avec laquelle votre enfant est à l'aise."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE MORE ONE LESS"
+msgstr "UN DE PLUS UN DE MOINS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
+msgstr "Au fur et à mesure que votre enfant comprend les premiers nombres, posez-lui des questions sur « un de plus » ou « un de moins ». Par exemple, sans parler du nombre d'objets qu'il y a actuellement, demandez-lui : « Voudrais-tu en avoir un de plus ? » ou « Voudrais-tu en avoir un de moins ? »."
 
 #. type=data_list
 msgctxt "data_list"
