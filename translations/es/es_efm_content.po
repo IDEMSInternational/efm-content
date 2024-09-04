@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-04 18:28\n"
+"PO-Revision-Date: 2024-09-04 19:29\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7078,8 +7078,59 @@ msgstr "BÚSQUEDA DEL TESORO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup.** Make a stack of scavenger hunt cards in advance. The players can play individually or in small groups of two to three.\n"
+"\n"
+"Each card will describe a thing to find. It may be a specific thing, \"A stop sign,\" or it may be a description involving all sorts of descriptions and properties. Here are some examples that you might want to use individually or in combinations:\n"
+"\n"
+"* Colors\n"
+"* Size (bigger than a hand, smaller than a car)\n"
+"* Shapes (circle, triangle, square, ball, box)\n"
+"* Group size (two things together, three together, ...)\n"
+"* Patterns (A B A B ...)\n"
+"* Numbers\n"
+"* Position (under, over, on top of, next to)\n"
+"* Texture (smooth, rough, bumpy, pointy)\n"
+"* Uses (for writing, for sitting, ...)\n"
+"\n"
+"**How to play.** Randomly distribute three cards to each player or group of players. Their goal is to be the first to find things for each of their cards."
+msgstr ""
+"**Cómo se organiza.** Prepare con antelación tarjetas de búsqueda del tesoro. Los jugadores pueden jugar de forma individual o en pequeños grupos de dos o tres.\n"
+"\n"
+"Cada tarjeta describirá una cosa que se debe encontrar. Puede ser algo específico, \"una señal de alto\", o puede ser una descripción que incluya todo tipo de propiedades. A continuación, se muestran algunos ejemplos que puede utilizar de forma individual o en combinaciones:\n"
+"\n"
+"* Colores\n"
+"* Tamaño (más grande que una mano, más pequeño que un automóvil)\n"
+"* Formas (círculo, triángulo, cuadrado, esfera, caja)\n"
+"* Tamaño del grupo (dos cosas juntas, tres juntas, ...)\n"
+"* Patrones (A B A B ...)\n"
+"* Números\n"
+"* Posición (debajo, encima, encima de, al lado)\n"
+"* Textura (suave, áspera, irregular, puntiaguda)\n"
+"* Usos (para escribir, para sentarse, ...)\n"
+"\n"
+"**Cómo se juega.** Distribuye al azar tres cartas a cada jugador o grupo de jugadores. El objetivo es encontrar cosas para cada una de las cartas primero."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TREASURE MAP"
+msgstr "MAPA DEL TESORO"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Object Properties"
 msgstr "Propiedades de objetos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Decide on an interesting place for the treasure. It can be just the place, or you could put some silly thing there that your child will enjoy finding.  \n"
+"\n"
+"The \"map\" can be done in one of two ways. It can be a drawing of the area with interesting landmarks drawn in, and with an \"X\" marks the spot where the treasure is. Or, it can be a series of directions that must be followed to get to the treasure. The directions can be as simple as \"face the clock and go forward 9 steps,\" or they can be descriptions similar to those in the Scavenger Hunt activity \"face something blue and round, then walk toward a group of three red things until you are next to something to sit on.\""
+msgstr ""
+"**Cómo se organiza.** Elija un lugar interesante para el tesoro. El tesoro puede ser simplemente el lugar o puede colocar allí algo divertido que a su hijo le guste encontrar.\n"
+"\n"
+"El \"mapa\" se puede hacer de dos maneras. Puede ser un dibujo de la zona con puntos de referencia interesantes dibujados y con una \"X\" que marca el lugar donde está el tesoro. O puede ser una serie de instrucciones que se deben seguir para llegar al tesoro. Las instrucciones pueden ser tan simples como \"mirar hacia el reloj y avanzar 9 pasos\", o pueden ser descripciones similares a las de la actividad de búsqueda del tesoro \"mirar hacia algo azul y redondo, luego caminar hacia un grupo de tres cosas rojas hasta que estés al lado de algo en lo que te puedas sentar\"."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7131,6 +7182,21 @@ msgstr "¿QUIÉN ES?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "Esta actividad es para varias personas. El líder elige en secreto a alguien del grupo. Para descubrir a la persona secreta, los jugadores deben hacer preguntas como: “¿Tiene puesta una camiseta con un triángulo?” o “¿Su cabello mide más de 30 cm?”."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "¿DE QUIÉN ES ESTA FORMA?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BUILDING WITH SHAPES"
+msgstr "CONSTRUIR CON FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unknown Shapes"
+msgstr "Formas desconocidas"
 
 #. type=data_list
 msgctxt "data_list"
