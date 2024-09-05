@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-09-04 14:21\n"
+"PO-Revision-Date: 2024-09-05 14:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28879,6 +28879,21 @@ msgstr "如果有人让你数到十，你会按1、2、5或10的倍数去数吗�
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "同一群体的人经常以相同的方式思考，从而错失解决问题的好方法。优秀的问题解决者会发现解决问题的新途径！"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "下一个"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "上一页"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "完成"
 
 #. type=template
 msgctxt "template"
