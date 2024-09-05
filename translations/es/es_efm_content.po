@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-04 21:28\n"
+"PO-Revision-Date: 2024-09-05 13:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7515,8 +7515,48 @@ msgstr "NÚMERO ÚNICO MÁS PEQUEÑO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup.** Gather a group of people together in a circle. Have them each think of a whole number that they will use for this round of the game. One person is the announcer.\n"
+"\n"
+"**How to play.** The announcer starts slowly counting up starting at 1. With each number, any person who was thinking of that number raises their hand. If only one hand is raised, that person is the winner and the round is over. If more than one hand is raised, those people are out of the game for this round and the announcer continues counting up.\n"
+"\n"
+"Make this an active game by having all the players sitting down or crouched down. When their number is called, the person jumps up."
+msgstr ""
+"**Cómo se organiza:** Reúna a un grupo de personas en un círculo. Pídeles que piensen en un número entero que usarán para esta ronda del juego. Una persona será el locutor.\n"
+"\n"
+"**Cómo se juega:** El locutor comienza a contar lentamente desde el 1. Con cada número, cualquier persona que estaba pensando en ese número levanta la mano. Si solo se levanta una mano, esa persona es la ganadora y la ronda termina. Si se levanta más de una mano, esas personas quedan fuera del juego para esta ronda y el locutor continúa contando.\n"
+"\n"
+"Haga que este sea un juego activo haciendo que todos los jugadores se sienten o se agachen. Cuando llaman a su número, la persona se levanta de un salto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "DE IDA Y VUELTA – 12"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Numbers up to 10"
 msgstr "Números hasta el 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr "**Cómo se organiza:** Cada jugador comienza con un tablero vacío del 0 al 12. Cada jugador coloca un marcador negro en el 0 y decide dónde colocar tres marcadores rojos en los números mayores que 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**Cómo se juega:** En un turno, tira el dado y mueve tu marcador negro hacia adelante o hacia atrás según la cantidad indicada por el dado. Si caes sobre un marcador rojo, retíralo del tablero y quédate con él.\n"
+"\n"
+"**Cómo se gana:** El primer jugador que elimine los tres marcadores rojos gana.\n"
+"\n"
+"**Ejemplo de movimiento:** Aquí hay un primer movimiento usando un resultado de 5. Si el jugador sacó un 3 después de eso, podría moverse al 2 o al 8."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8457,6 +8497,31 @@ msgstr ""
 "Para mejorar la habilidad de estimación, se puede hacer una actividad en la que los participantes adivinen el número de un grupo; por ejemplo, personas en una fila.\n"
 "\n"
 "Para ello, cada participante debe hacer una estimación rápida sin contar individualmente. Una vez que todos hayan dado su estimación, se cuenta el número real. Luego, se premia al participante cuya estimación sea la más cercana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "PUÑADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "Tamaños de números"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Have a collection of small items that will fit easily in a child's hand.\n"
+"\n"
+"**How to play.** Show your children the items and ask them to estimate how many of these items they think they can grab with one hand. Give them a little bit of time to come up with an answer, and then collect all the answers. If you have a number line handy, put a mark by each estimate. Take a moment to discuss why some are larger and some are smaller. Finally, have one child grab a handful, count together how many they have, and see which estimates were the closest.\n"
+"\n"
+"**Variations.** Use two hands if you want to get larger numbers. Also, use different sizes of objects to add variety and to produce smaller or larger numbers."
+msgstr ""
+"**Cómo se organiza:** Colecte artículos pequeños que quepan fácilmente en la mano de su niño/niña.\n"
+"\n"
+"**Cómo se juega:** Muestre a su niño/niña los objetos y pídale que calcule cuántos de ellos cree que puede agarrar con una mano. Dele un poco de tiempo para que encuentre una respuesta y luego recopile todas las respuestas. Si tiene una línea numérica a mano, coloque una marca junto a cada estimación. Tómese un momento para analizar por qué algunos son más grandes y otros más pequeños. Por último, pida a su niño/niña que tome un puñado, cuenten juntos cuántos tienen y vean qué estimaciones fueron las más cercanas.\n"
+"\n"
+"**Variaciones** Utilice las dos manos si desea obtener números más grandes. Además, utilice objetos de distintos tamaños para agregar variedad y producir números más pequeños o más grandes."
 
 #. type=data_list
 msgctxt "data_list"
