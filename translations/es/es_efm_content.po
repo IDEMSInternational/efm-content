@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-05 14:06\n"
+"PO-Revision-Date: 2024-09-05 14:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25338,6 +25338,21 @@ msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "Un grupo de personas a menudo piensa en algo de la misma manera y pierde una buena manera de resolver un problema. ¡Los buenos solucionadores de problemas descubren nuevas formas de abordar los problemas!"
 
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "Siguiente"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "Anterior"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "Ya"
+
 #. type=template
 msgctxt "template"
 msgid "Privacy policy"
@@ -25500,8 +25515,28 @@ msgstr "margin-top: -5px"
 
 #. type=template
 msgctxt "template"
+msgid "Activity list"
+msgstr "Lista de actividades"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "Lista de libros de cuentos"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**Paso de aprendizaje de matemáticas**"
+
+#. type=template
+msgctxt "template"
 msgid "**Storybook**"
 msgstr "**Historia**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**Actividades**"
 
 #. type=template
 msgctxt "template"
@@ -25657,6 +25692,11 @@ msgstr "Material Adicional"
 msgctxt "tour"
 msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
 msgstr "Algunas de las actividades tienen material adicional con ejemplos y explicaciones adicionales. Puedes consultarlos aquí o al final de la página de actividades correspondiente."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "Cada una de las etapas tiene alrededor de una docena de secciones de juegos divertidos, rompecabezas, actividades e investigaciones para que su familia disfrute junta."
 
 #. type=tour
 msgctxt "tour"
