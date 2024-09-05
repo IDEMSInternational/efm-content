@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-05 14:14\n"
+"PO-Revision-Date: 2024-09-05 15:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25665,7 +25665,7 @@ msgstr "Tercera lectura"
 #. type=template
 msgctxt "template"
 msgid "Welcome!"
-msgstr "Bienvenido!"
+msgstr "¡Bienvenido!"
 
 #. type=template
 msgctxt "template"
@@ -25678,10 +25678,50 @@ msgid "Activities"
 msgstr "Actividades"
 
 #. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "Pasos para aprender matemáticas"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "Citas de juego"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "Sincronización"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Sincronización..."
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "Copiar"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+#. type=template
 #. The string @local.sync_latest should not be translated.
 msgctxt "template"
 msgid "Last sync at: @local.sync_latest"
 msgstr "Last sync at: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "Este dispositivo nunca ha sido sincronizado."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Sincronizar ahora"
 
 #. type=tour
 msgctxt "tour"
@@ -25705,8 +25745,33 @@ msgstr "Etapas"
 
 #. type=tour
 msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "El nombre de cada etapa describe el requisito principal que debe cumplir su niño/niña para comenzar esa etapa. Por ejemplo, si su niño/niña puede contar hasta diez y sabe lo que significan esos números, comience con la etapa 3. Los materiales de las etapas están diseñados en una progresión de aprendizaje, de modo que las secciones posteriores se basen en las anteriores."
+
+#. type=tour
+msgctxt "tour"
 msgid "Please select the kinds of activities you would like to do."
 msgstr "Por favor, seleccione el tipo de actividades que le gustaría realizar."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "Seleccione si prefiere ver las actividades del escenario individualmente o por tema."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "Cada etapa del aprendizaje se divide en diez pasos básicos. Cada paso describe lo que está aprendiendo su niño/niña, cómo puede ayudar con ese aprendizaje y cómo se relacionan los pasos entre sí."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "Cada etapa tiene diez citas de juego para que su familia disfrute con otras familias. Cada cita de juego tiene libros de cuentos y actividades sugeridos para disfrutar juntos. Las citas de juego corresponden a los diez pasos de aprendizaje de matemáticas para cada etapa. Se proporcionan enlaces para brindar acceso directo y fácil a cada uno de esos recursos."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "¡Leer con su niño/niña es una experiencia maravillosa! Estos libros de cuentos están pensados ​​para que los adultos se los lean a los niños. Agregar comentarios y preguntas sobre matemáticas a la lectura ayuda a crecer en matemáticas y crea asociaciones sólidas de las matemáticas con esta experiencia feliz y acogedora."
 
 #. type=tour
 msgctxt "tour"
@@ -25732,6 +25797,16 @@ msgstr "Libros de Historias Intermedio"
 msgctxt "tour"
 msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
 msgstr "Estos libros de cuentos son un poco más largos, tienen tramas un poco más complejas e involucran ideas más sofisticadas. Su hijo/a ahora puede hablar y razonar sobre más cosas en el mundo."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "Libros de cuentos avanzados"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "Las historias se vuelven cada vez más detalladas y complejas. Las matemáticas implican números más grandes y conceptos más avanzados. La descripción de los objetos se vuelve más detallada y compleja."
 
 #. type=tour
 msgctxt "tour"
