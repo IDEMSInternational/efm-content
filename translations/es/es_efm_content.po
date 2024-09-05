@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-05 13:07\n"
+"PO-Revision-Date: 2024-09-05 14:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9005,6 +9005,30 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
+"\n"
+"**How to play:** Suppose the leader selects the number 10. If the leader says the number 10, or anything that equals 10, such as 7 + 3, everyone stands up. If the leader says any other number, or anything not equal to 10, then everyone sits down. The leader can try to trick everyone else by standing up or sitting down when everyone should do the opposite."
+msgstr ""
+"**Cómo se organiza:** Haga que todos estén en un lugar donde sea fácil levantarse y sentarse. Designe a alguien para que dirija.\n"
+"\n"
+"**Cómo se juega:** Supongamos que el líder elige el número 10. Si el líder dice el número 10, o cualquier número que sea igual a 10, como 7 + 3, todos se ponen de pie. Si el líder dice cualquier otro número, o cualquier número que no sea igual a 10, entonces todos se sientan. El líder puede intentar engañar a todos los demás poniéndose de pie o sentándose cuando todos deberían hacer lo contrario."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"* Reemplazar 10 por otro número.\n"
+"* Levantarse cuando el número sea mayor que 5; sentarse si es 5 o menor.\n"
+"* Levantarse cuando el número sea par; sentarse cuando sea impar.\n"
+"* Levantarse si aparece el dígito 1 en el número; sentarse en caso contrario."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "CHOPSTICKS HAND GAME"
 msgstr "MANOS Y PALILLOS CHINOS"
 
@@ -9567,6 +9591,11 @@ msgstr ""
 "**Cómo se juega:** en cada turno, un jugador conecta dos puntos adyacentes con una línea horizontal o vertical. Si esta línea completa una casilla de 1 por 1, el jugador obtiene un punto y puede dibujar una línea adicional.\n"
 "\n"
 "**Cómo se gana:** cuando ya no se pueden trazar más líneas, el jugador con la mayor cantidad de puntos gana. Una manera simple de llevar el registro de los puntos es colocar las iniciales dentro de cada cuadro que se complete."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use numbers.** One variation is to place numbers inside each square of the grid when the grid is first drawn. When a player completes a square, they receive the number of points inside the box. After all lines are drawn, the points are totaled up and the player with the most points wins."
+msgstr "**Usar números:** Una variante consiste en colocar números dentro de cada cuadrado de la cuadrícula cuando se dibuja la cuadrícula por primera vez. Cuando un jugador completa un cuadrado, recibe la cantidad de puntos dentro del recuadro. Una vez que se dibujan todas las líneas, se suman los puntos y el jugador con más puntos gana."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10142,8 +10171,49 @@ msgstr "**Desafío de sustitución de letras:** estos juegos de números faltant
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FILL IN THE BLANKS REVISITED"
+msgstr "COMPLETE LOS ESPACIOS EN BLANCO - REVISADO"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Place Value, Add, and Subtract"
 msgstr "Valor Posicional, Suma y Resta"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9. Decide on which version of this game to play and make a game board for each person. One person is designated the dealer.\n"
+"\n"
+"The game boards can be as simple as two blanks to fill in to form 2-digit numbers. In this case the winner is the person with the largest number (or the smallest number, if you prefer). You can have zero, one, or two discard blanks for numbers not to be used.\n"
+"\n"
+"More complicated game boards can involve one or more 2-digit, 3-digit, or 4-digit numbers. The task may be to add up the numbers, or perhaps to take their difference. For adding, you might want to maximize the sum without going over some agreed upon limit. For subtracting, you might want it to be as small as possible without going below 0. There are a large number of possibilities which give you many ways to practice skills. \n"
+"\n"
+"**How to play:** The dealer draws random cards one at a time. The players decide where on their game board they will use that number. After deciding, the placement of that number cannot be changed for the remainder of the game.\n"
+"\n"
+"**How to win:** When the game boards are filled, the player who does the best job of achieving the objective wins."
+msgstr ""
+"**Cómo se organiza:**Mezcla una baraja de cartas con los números del 1 al 9. Decide qué versión de este juego jugar y haz un tablero para cada persona. Una persona será designada como repartidora.\n"
+"\n"
+"Los tableros de juego pueden ser tan simples como dos espacios en blanco para completar y formar números de 2 dígitos. En este caso el ganador es la persona con el número más grande (o el número más pequeño, si lo prefieres). Puede tener cero, uno o dos espacios en blanco para descartar los números que no se utilizarán.\n"
+"\n"
+"Los tableros de juego más complicados pueden incluir uno o más números de 2, 3 o 4 dígitos. La tarea puede consistir en sumar los números o, tal vez, restarlos. Para sumar, es posible que quieras maximizar la suma sin sobrepasar un límite acordado. Para restar, es posible que quieras que sea lo más pequeña posible sin bajar de 0. Hay una gran cantidad de posibilidades que brindan muchas formas de practicar habilidades.\n"
+"\n"
+"**Cómo se juega:** El repartidor saca cartas al azar, una a una. Los jugadores deciden en qué parte del tablero de juego utilizarán ese número. Después de decidirlo, la ubicación de ese número no se puede cambiar durante el resto del juego.\n"
+"\n"
+"**Cómo se gana:** Cuando los tableros de juego estén llenos, el jugador que haga el mejor trabajo para lograr el objetivo gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Play that the smaller number wins.\n"
+"* Decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"* Deal three cards to each player and let the players choose which one to put aside.\n"
+"* To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"* Jueguen a que el número más pequeño gana.\n"
+"* Decidan si es más dramático mostrar las cartas a medida que se dan vuelta o esperar hasta que se hayan tomado todas las decisiones y se formen los números finales.\n"
+"* Repartan tres cartas a cada jugador y dejen que los jugadores elijan cuál dejar de lado.\n"
+"* Para practicar un poco la suma, además de hacer que las decisiones sean más complicadas, saquen tres cartas y den vuelta una a la vez para formar un número de dos dígitos y un número de un solo dígito. El objetivo es crear la suma más grande de los dos números."
 
 #. type=data_list
 msgctxt "data_list"
@@ -25290,6 +25360,21 @@ msgstr "Restablecer aplicación"
 
 #. type=template
 msgctxt "template"
+msgid "Language"
+msgstr "Idioma"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "La aplicación EFM ha descargado una actualización. Reinicie la aplicación para finalizar la instalación."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Reanudar"
+
+#. type=template
+msgctxt "template"
 msgid ""
 "First and foremost, playing math games should be fun, like any other game your family plays together!\n"
 "\n"
@@ -25506,6 +25591,11 @@ msgstr "Empenzando"
 msgctxt "template"
 msgid "Intermediate"
 msgstr "Intermedio"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "Avanzado"
 
 #. type=template
 msgctxt "template"
