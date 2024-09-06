@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-06 03:34\n"
+"PO-Revision-Date: 2024-09-06 05:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9907,32 +9907,123 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "REVIEWING SUBTRACTION SKILLS"
-msgstr "REPASO DE LAS HABILIDADES DE RESTAR"
+msgstr ""
+"REVISANDO HABILIDADES DE RESTA\n"
+"Revisando habilidades de resta"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"Antes de empezar estas actividades de resta, practique cualquiera de las siguientes habilidades que su niño/niña todavía no ha dominado:\n"
+"\n"
+"* Sumar y restar 0, 1, 2 (y quizás 3)\n"
+"* Restar números separados por 1 o 2\n"
+"* Conocer los vínculos numéricos para 10 y cómo hacen que restar de 10 sea más fácil\n"
+"* Restar 10 de números entre 11 y 19"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "USING 10 AS AN INTERMEDIATE STOP"
-msgstr "USANDO 10 COMO PARADA INTERMEDIA"
+msgstr "USAR EL 10 COMO PARADA INTERMEDIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"Para ejercicios con números más grandes que 10, como 13 - 8, sepárelos en dos diferencias. Use el 10 como una parada intermedia entre los dos números. La distancia entre 13 y 8 es la distancia entre 13 y 10 más la distancia entre 10 y 8. Usando esto, 13 - 8 se convierte en (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"Separar las restas en dos partes manejables simplifica considerablemente el cálculo mental. Restar 10 de un número entre 10 y 20 es muy sencillo. Aprender a restar números de 10 es cuestión de aprender los vínculos numéricos de 10."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "SUBTRACTION COMPENSATION"
-msgstr "COMPENSACIÓN PARA RESTAR"
+msgstr "COMPENSACIÓN POR RESTA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "Cálculo mental: resta de un solo dígito"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"La compensación por resta significa sumar o restar la misma cantidad a ambos números. Al sumar o restar lo mismo, se mantiene la distancia o diferencia entre los dos números.\n"
+"\n"
+"Use la compensación en 13 - 8 añadiendo 2 a ambos números para convertir el problema en 15 - 10. ¡Observe cuánto más fácil se volvió el problema con este pequeño ajuste!\n"
+"\n"
+"Los problemas de un solo dígito también se pueden resolver de esta manera. Por ejemplo, se puede sumar 3 a ambos números en 7 - 3 para obtener 10 - 6, que es 4."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "DON’T GO OVER"
-msgstr "NO PASAR"
+msgstr "NO TE PASES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**Cómo se organiza:** se utilizan 5 dados y se tira 4 veces.\n"
+"\n"
+"**Cómo se juega:** en la primera tirada, elija guardar del 0 al 5 de los dados. Una vez que se guarda un dado, no se puede cambiar. Lo mismo ocurre con los dados restantes en las tiradas dos y tres. En la tirada final, se guardan todos los dados. Cualquier puntuación menor o igual a 20 cuenta; cualquier puntuación superior a 20 otorga al jugador un puntaje de 0.\n"
+"\n"
+"**Cómo se gana:** pueden jugar una o más rondas. Gana quien tenga la puntuación total más alta."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "La puntuación objetivo de 20, el número de dados y el número de tiradas se pueden cambiar para adaptarse a jugadores más jóvenes o mayores. Por ejemplo, juega esto con un objetivo de 12, y 3 dados."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "ISLAND HOPPING – COMPENSATION"
-msgstr "SALTANDO ISLAS – COMPENSACIÓN"
+msgstr "SALTO DE ISLA EN ISLA: COMPENSACIÓN"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Addition up to 20"
-msgstr "Suma hasta 20"
+msgstr "Suma de un solo dígito"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "Este juego muestra cómo el uso de la compensación facilita los problemas de suma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**El desafío:** encuentre un camino que conecte todas las islas que tengan el mismo resultado. Dos islas solo pueden conectarse si los números de sus problemas difieren en 1: un número se incrementa en uno y el otro se reduce en uno.\n"
+"\n"
+"Por ejemplo, \"5 + 8\" se conectaría con \"6 + 7\". Solo algunas de las islas estarán en el camino. En este ejemplo, el camino comienza en la esquina inferior izquierda y termina en la esquina superior derecha.\n"
+"\n"
+"**Cómo se elabora:** cree este juego comenzando con unos diez círculos vacíos conectados. Identifique un camino desde un borde de las islas hasta el otro. A lo largo de ese camino, emplee problemas cuyos números difieran entre sí en uno. En las islas cercanas, emplee problemas con pequeños cambios que tengan diferentes respuestas."
 
 #. type=data_list
 msgctxt "data_list"
