@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-06 02:35\n"
+"PO-Revision-Date: 2024-09-06 03:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9794,28 +9794,115 @@ msgstr "GUERRA – SUMA Y RESTA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead.\n"
+"\n"
+"**How to play:** Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes.\n"
+"\n"
+"**How to win:** The winner is the player who has the most cards."
+msgstr ""
+"**Cómo se organiza:** divida equitativamente un mazo de cartas de juego barajadas, eliminando las cartas de figuras. Si lo prefiere, use fichas de dominó en lugar de cartas.\n"
+"\n"
+"**Cómo se juega:** ambos jugadores voltean sus dos cartas superiores y las suman. El jugador con la suma más alta gana las cuatro cartas. Si las sumas son iguales, se suman las siguientes dos parejas de cartas y el ganador se lleva las ocho cartas.\n"
+"\n"
+"**Cómo se gana:** quien tenga más cartas gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr "Puede jugarlo usando la diferencia de las dos cartas. También puede añadir tres cartas a la vez. Otra opción es asignar los números impares a un jugador, y los números pares al otro. Jugando así, cada participante da la vuelta a una carta y si la suma es par, el jugador de par consigue las cartas, si la suma es impar, el jugador de impar consigue las cartas."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "TARGET GIN RUMMY"
-msgstr "OBJETIVO GIN RUMMY"
+msgstr "GIN RUMMY CON OBJETIVO"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Number Bonds and Fact Families"
-msgstr "Vínculos Numéricos y Familias de Operaciones"
+msgstr "Vínculos numéricos y familias de operaciones"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target.\n"
+"\n"
+"**How to play:** During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card.\n"
+"\n"
+"**How to win:** When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”"
+msgstr ""
+"**Cómo se organiza:** acuerden una suma objetivo, por ejemplo, 10. Eliminen las cartas de cara y repartan siete cartas a cada jugador. Las cartas restantes forman el mazo de robo, y su carta superior se voltea para comenzar el mazo de descarte. El objetivo es tener siete cartas divididas en grupos separados de una o más cartas que sumen la cantidad objetivo.\n"
+"\n"
+"**Cómo se juega:** durante un turno, el jugador tiene la opción de recoger la carta superior del mazo de descarte o la carta no visible en la parte superior del mazo de robo. Luego, ese jugador descarta una carta.\n"
+"\n"
+"**Cómo se gana:** cuando un jugador tiene la mano completa, coloca las cartas sobre la mesa y dice “¡Gin!”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "Si está usando un par de cartas, puede tomar la diferencia en vez de usar la suma. En ese caso, dé un número par de cartas a cada jugador."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "FLASH CARDS"
-msgstr "TARJETAS DIDÁCTICAS"
+msgstr "TARJETAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"La facilidad de practicar operaciones matemáticas con tarjetas didácticas las hace tentadoras. Sin embargo, a menudo son objeto de abuso por parte de ayudantes bien intencionados y pueden contribuir al odio hacia las matemáticas. Más allá del daño psicológico que se produce con un ejercicio demasiado entusiasta, el uso de tarjetas didácticas impide aprender relaciones importantes entre los números. Siéntase libre de utilizar tarjetas didácticas para practicar de forma concentrada un pequeño puñado de datos, pero mantenga la práctica limitada y relajada.\n"
+"\n"
+"Esta página y la siguiente contienen métodos que practican conocimientos estructurales que son útiles y mucho más interesantes para su niño/niña y que deben usarse hasta que las operaciones se vuelvan automáticas."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "REVIEWING ADDITION SKILLS"
-msgstr "REPASO DE LAS HABILIDADES DE SUMAR"
+msgstr "REVISANDO HABILIDADES DE SUMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"Para hacer las actividades en esta página, su niño/niña debe tener las siguientes habilidades de cálculo mental:\n"
+"\n"
+"* Sumar y restar 0, 1, 2 (y quizás 3)\n"
+"* Realizar sumas de números iguales y casi iguales\n"
+"* Conocer los vínculos numéricos para 10\n"
+"* Sumar 10 a números de un solo dígito.\n"
+"\n"
+"Si su niño/niña tiene dificultades con alguna de estas habilidades, este es el momento de practicarlas un poco más."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "ADDITION COMPENSATION"
-msgstr "COMPENSACIÓN PARA SUMAR"
+msgstr "COMPENSACIÓN POR SUMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"La compensación es una herramienta poderosa para facilitar las matemáticas mentales. Al sumar dos números, puede obtener la misma suma al trasladar parte de un número al otro. Sumar 8 o 9 es fácil utilizando la compensación. Por ejemplo, suma 6 + 9 trasladando 1 del 6 al 9, lo que da 5 + 10. De manera similar, 4 + 8 se convierte en 2 + 10.\n"
+"\n"
+"Use compensación para números iguales y casi iguales para facilitar todas las operaciones matemáticas restantes: 3 + 5, 3 + 6, 4 + 7 y 5 + 7. Por ejemplo, usando compensación, 5 + 7 es lo mismo que 6 + 6.\n"
+"\n"
+"**Más de una manera:** algunas operaciones matemáticas se pueden hacer de varias maneras. Rete a su niño/niña a encontrar más de una manera de hacer un ejercicio. Por ejemplo, 5 + 7 puede convertirse en 6 + 6, pero también puede convertirse en 2 + 10. Este tipo de juego matemático conducirá a un conocimiento duradero."
 
 #. type=data_list
 msgctxt "data_list"
