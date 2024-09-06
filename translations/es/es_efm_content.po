@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-06 22:24\n"
+"PO-Revision-Date: 2024-09-06 23:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10422,12 +10422,27 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "MATH BLACKJACK"
-msgstr "BLACKJACK DE MATEMÁTICAS"
+msgstr "BLACKJACK MATEMÁTICO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**Cómo se organiza:** tradicionalmente, el número objetivo es 21, pero para jugadores más jóvenes elija un número más pequeño, como el 12. Adapte la baraja de cartas a su niño/niña. Por ejemplo, para jugadores muy jóvenes, podrían usar las cartas del 1 al 4 de los cuatro palos.\n"
+"\n"
+"**Cómo se juega:** se reparten dos cartas a cada jugador: una boca arriba y otra boca abajo (el jugador que recibe la carta es el único que mira la carta boca abajo). Durante un turno, el jugador tiene la opción de pedir una carta más hasta que decida parar. Después de que cada jugador haya tenido un turno, los jugadores comparan la suma de sus cartas.\n"
+"\n"
+"**Cómo se gana:** el jugador con la suma más cercana al objetivo sin pasarse gana."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "FILL IN THE BLANKS COMPARISON"
-msgstr "RELLENA EL ESPACIO Y COMPARA"
+msgstr "LIENA LOS ESPACIOS: COMPARACIÓN"
 
 #. type=data_list
 msgctxt "data_list"
