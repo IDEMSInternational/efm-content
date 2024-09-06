@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-06 05:04\n"
+"PO-Revision-Date: 2024-09-06 06:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10028,17 +10028,68 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "PART-WHOLE TRIANGLES"
-msgstr "TRIÁNGULOS PARCIALMENTE ENTEROS"
+msgstr "TRIÁNGULOS PARTE-TODO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**Cómo se organiza:** utilice cartas con números del 1 al 13. Para empezar, cada jugador recibe 6 cartas boca arriba. Hay una pila para robar con una carta volteada para comenzar una pila de descarte.\n"
+"\n"
+"**Cómo se juega:** durante un turno, un jugador toma la carta de descarte superior o la carta de robo superior desconocida. La carta elegida reemplaza una carta que ya tiene y la carta reemplazada se descarta.\n"
+"\n"
+"**Cómo se gana:** el primer jugador que crea una pirámide de 6 cartas donde cada carta es la suma de las dos cartas que están debajo gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "Utiliza rangos de cartas más pequeños o más grandes para adaptarse a las habilidades de jugadores más jóvenes o mayores."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "CARDS TO A TARGET"
-msgstr "TARJETAS AL BLANCO"
+msgstr "CARTAS A UN OBJETIVO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**Cómo se organiza:** comience colocando todas las cartas del 1 al 5 en una cuadrícula de 4 x 5. Empiece el total acumulado en 0 y elija un número objetivo, por ejemplo 25.\n"
+"\n"
+"**Cómo se juega:** los jugadores se turnan para dar vuelta una carta y agregarla al total acumulado. El último jugador en escoger un número que no haga que el total acumulado supere el número objetivo gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "Reemplaza del 1 al 5 con cualquier otro conjunto de cinco números que quieras practicar. Para practicar la resta, comienza en el número objetivo, resta los números seleccionados y no permitas que el total sea inferior a 0."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "GET OUT OF MY HOUSE – ADD/SUB"
-msgstr "SALGA DE MI CASA – RESTAR/SUMAR"
+msgstr "¡FUERA DE MI CASA!: SUMA Y RESTA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**Cómo se organiza:** utilice una baraja de cartas con números del 1 (As) al 10. En una hoja de papel compartida, dibuje 20 casillas o casas simples numeradas del 0 al 19. Cada jugador tiene 7 fichas distintas de las 7 fichas del otro jugador.\n"
+"\n"
+"**Cómo se juega:** durante un turno, un jugador selecciona dos cartas al azar y puede elegir sumarlas, restarlas o multiplicarlas para colocar su ficha en una casa que tenga menos de tres fichas del oponente. Si la casa contiene una o dos fichas del oponente, esas fichas se devuelven al oponente y el jugador dice “¡Fuera de mi casa!”.\n"
+"\n"
+"**Cómo se gana:** el primer jugador que coloque todas sus fichas en las casas gana."
 
 #. type=data_list
 msgctxt "data_list"
