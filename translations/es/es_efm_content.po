@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-06 20:25\n"
+"PO-Revision-Date: 2024-09-06 21:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10132,8 +10132,34 @@ msgstr "**Triángulos de diferencias:** Estos juegos tienen triángulos y cuadra
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**Triángulos de suma:** estos utilizan la suma en lugar de la resta. El valor de un triángulo es la suma de sus dos o tres cuadrados vecinos.\n"
+"\n"
+"**El desafío:** completa los números que faltan para que funcione cada tipo de desafío.\n"
+"\n"
+"**Cómo se elabora:** hacer juegos de líneas rectas es fácil. Dibuja una secuencia de cuadrados y triángulos alternándolos. Luego, coloca los números comenzando por un extremo y avanzando hacia el otro extremo. Cuando hayas terminado, quita algunos de los números. Consulta el material adicional para obtener ideas sobre cómo hacer estos desafíos, pero con círculos."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "SKIP COUNTING"
 msgstr "CONTEO SALTEADO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"Su niño/niña ya ha practicado el conteo de 2 en 2, de 5 en 5 y de 10 en 10 entre 0 y 20. Comience a practicar el conteo de 2 en 2, comenzando en cualquier número y en cualquier dirección.\n"
+"\n"
+"Contar salteado hacia arriba y \\textbf{hacia abajo} ayuda con todas las operaciones aritméticas, así como con el valor posicional (al saltar de 5 en 5 o de 10 en 10). La parte complicada del conteo salteado es cuando cambia el dígito de las decenas, así que concéntrese en eso. Esta es una actividad útil para hacer cuando está de viaje o tiene algo de tiempo libre."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10142,13 +10168,52 @@ msgstr "PASOS CORTOS HACIA UN OBJETIVO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**Cómo se juega:** cree un número de 2 dígitos usando dos cartas de una baraja del 1 al 9: la primera carta determina las decenas y la segunda carta determina las unidades. Comenzando con ese número, realiza 5 saltos, cada uno de los cuales puede ser de 1 o de 10. El objetivo es acercarse lo más posible a 50, y la puntuación es la diferencia con respecto a 50. La puntuación total más baja después de varias rondas gana.\n"
+"\n"
+"**Tabla del 100:** los jugadores jóvenes se benefician al consultar una tabla de 100. El uso de esa tabla también enfatizará el valor posicional a medida que suben o bajan de 10 en 10.\n"
+"\n"
+"**Variaciones:** puede variar este juego permitiendo saltos de 1, 2 o 10, o saltos de 1, 2, 5 o 10. Además, puede usar otros números objetivos."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "ISLAND HOPPING – SKIP COUNTING"
-msgstr "SALTANDO ISLAS – CONTEO SALTEADO"
+msgstr "SALTO DE ISLA A ISLA: CONTEO SALTEADO"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Skip Counting"
 msgstr "Conteo Salteado"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "Las islas (círculos) están conectadas por puentes (líneas), y las conexiones se realizan contando de a dos. Algunas islas tienen números y otras comienzan en blanco. En la parte superior del juego está el número inicial, el número final y la cantidad omitida."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**El desafío:** complete los números que faltan y encuentra el camino.\n"
+"\n"
+"También puede colocar los números y espacios en el suelo para crear un rompecabezas de pasos.\n"
+"\n"
+"Al igual que con la actividad de conteo salteado, cree desafíos para practicar cómo avanzar o retroceder comenzando con una variedad de números, no solo números que sean múltiplos de la cantidad salteada.\n"
+"\n"
+"**Cómo se elabora:** cree estos juegos haciendo primero las islas, completando los números que se deben contar de forma salteada, conectando esas islas en el orden correcto y luego agregando algunas conexiones adicionales para ayudar a elaborar uno de estos juegos. En la versión que le dé a su niño/niña, quite algunos números y deje suficientes para que aún se pueda resolver."
 
 #. type=data_list
 msgctxt "data_list"
