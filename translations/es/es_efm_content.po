@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-06 21:24\n"
+"PO-Revision-Date: 2024-09-06 22:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10218,12 +10218,44 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "PAIRING DOWN"
-msgstr "EMPAREJAMIENTO"
+msgstr "REDUCIENDO PARES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**Cómo se organiza:** comience con una línea numérica que vaya del 1 a algún número, por ejemplo, hasta el 20.\n"
+"\n"
+"**Cómo se juega:** durante un turno, elija dos números y un resultado, ninguno de los cuales haya sido tachado aún, y escriba una ecuación de suma o resta que involucre esos números. Los dos números en la ecuación se tachan, y el resultado se encierra con un círculo. El siguiente jugador debe usar el resultado como uno de los dos números en su turno."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**Cómo se gana:** si se juega de manera competitiva, el ganador es el último jugador que tenga un movimiento legal. También se puede jugar de manera cooperativa para ver cuántos números quedan sin tocar."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "FIX IT"
-msgstr "ARREGLALO"
+msgstr "CORRÍGELO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "Este juego comienza con una cuadrícula de 4 x 4 completamente llena de números con una suma objetivo. Una versión alternativa emplea sumas objetivo individuales para cada fila y columna."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**El desafío:** encuentre entradas para eliminar de modo que la suma de los números restantes en cada fila y columna sea el objetivo.\n"
+"\n"
+"**Cómo se elabora:** haga el desafío colocando pares o tríos de números que sumen la suma objetivo. Luego, complete los espacios restantes con números señuelos."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10232,43 +10264,160 @@ msgstr "FORMA EXPANDIDA PLEGABLE"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "Esta actividad permite ver físicamente cómo se forman los números de dos dígitos a partir de decenas y unidades."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "Tome una hoja de papel en la que quepan exactamente cuatro cartas numéricas, una al lado de la otra. Marque el papel con: espacio - “0” - “+” - espacio. Haga pliegues verticales en ambos lados del signo “+”. Sujete con un clip los números en los dos espacios. Si usa 2 y 3, doblado hacia arriba parece 23, pero desplegado se convierte en 20 + 3."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I’M THINKING OF A NUMBER"
 msgstr "ESTOY PENSANDO EN UN NÚMERO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"Un jugador piensa en un número entre 0 y 99. El otro jugador averigua el número haciendo preguntas sobre los dígitos de las decenas y las unidades.\n"
+"\n"
+"Supongamos que el número es 23. El jugador podría preguntar si el dígito de las decenas es mayor o igual que el dígito de las unidades; para 23, no es así. El jugador podría preguntar si la suma de los dos dígitos es menor que 8; en este caso es así. Luego, el jugador podría preguntar si el doble del dígito de las decenas es mayor que el dígito de las unidades; en este caso, sí lo es. En este punto, el número debe ser 23 o 34. Preguntar si la suma de los dígitos es menor que 6 finalizará la adivinanza.\n"
+"\n"
+"Los tipos de preguntas pueden ser cualquier cosa que los jugadores acuerden, pero es mejor si las preguntas involucran los dígitos de las unidades y las decenas."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "ISLAND HOPPING BY ONES AND TENS"
-msgstr "SALTANDO ISLAS POR UNOS Y DIECES"
+msgstr "SALTO DE ISLAS POR UNIDADES Y DECENAS"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Expanded Form and Place Value"
-msgstr "Forma Expandida y Valor Posicional"
+msgstr "Forma Expandida y Valor posicional"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "Se da una cuadrícula rectangular de números con algunos números. Complete los números restantes, de modo que cualquier par de números que compartan un lado sólo difiera en un solo lugar, y la diferencia de los dígitos en ese lugar sea 1 (incluyendo el paso entre 0 y 9). Ningún número puede usarse más de una vez. El uso de una tabla de 100 puede ser útil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**Cómo se elabora:** llene una cuadrícula con números, sin que se repita ninguno. A continuación, elimine algunos de los números. En el ejemplo, los números rojos son los que faltan."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MATH TIC TAC TOE"
-msgstr "TIC TAC TOE DE MATEMÁTICAS"
+msgstr "TRES EN LINEA MATEMÁTICO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**Cómo se organiza:** utilice un tablero de tres en raya y fichas con los números del 1 al 9. Un jugador usa los números impares y el otro los pares.\n"
+"\n"
+"**Cómo se juega:** los jugadores se turnan para colocar una ficha, y el jugador impar empieza primero. El primer jugador que complete 3 fichas seguidas cuya suma sea 15 gana. Una variante es continuar, completar todos los cuadrados y ver qué jugador hizo más 15.\n"
+"\n"
+"Un juego similar es el que consiste en tener un atacante y un defensor. El atacante va primero (el primer movimiento no puede ser un 5 en el centro) e intenta conseguir 15, y el defensor intenta detener al atacante."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MEMORY CHALLENGE REVISITED"
-msgstr "REPASO AL DESAFÍO DE LA MEMORIA"
+msgstr "RETO DE LA MEMORIA REVISADO"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Do Sum Play"
-msgstr "Jugar con Sumas"
+msgstr "Juegos de suma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**Cómo se organiza:** reparta unas cartas boca abajo. Una cuadrícula de 4x4 es un buen tamaño.\n"
+"\n"
+"**Cómo se juega:** los jugadores se turnan para dar vuelta dos cartas. Si las cartas son iguales, el jugador se las queda, se reparten dos cartas más en los espacios vacíos y el jugador tiene otro turno. Si las cartas no son iguales, se dan vuelta y el turno del jugador termina.\n"
+"\n"
+"**Cómo se gana:** al final del juego, el jugador con más cartas gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"Aquí hay algunas ideas sobre cómo hacer coincidir las cartas:\n"
+"\n"
+"* Con una suma objetivo. Dos cartas coinciden si su suma es el objetivo.\n"
+"* Con una diferencia objetivo. Dos cartas coinciden si su diferencia es el objetivo.\n"
+"* Con cartas con problemas de suma o resta junto con cartas que tengan las respuestas; las cartas coinciden si el problema coincide con la respuesta.\n"
+"* Con la forma expandida. Selecciona 20 números del 0 al 99. Escriba estos números en hojas de papel. Además, escriba cada uno en forma expandida en una hoja de papel. Por ejemplo, crea 50 + 3 para 53, 30 + 0 para 30 y 0 + 7 para 7. Mezcla esas dos barajas de 20 cartas. Dos cartas coinciden cuando un número regular se empareja con su forma expandida."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "GET CLOSEST"
-msgstr "MÁS CERCA"
+msgstr "ACÉRCATE MÁS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**Cómo se organiza:** escriba los números 5, 10, 25 y 50 en forma vertical en una hoja de papel. Deje un espacio en blanco en cada lado del 5 y dos espacios en blanco en cada lado de los otros números. Un jugador llena los espacios en blanco del lado izquierdo y el otro llena los espacios en blanco del otro lado. Cada jugador también tiene un espacio en blanco adicional para usar una vez con un número para ignorar.\n"
+"\n"
+"**Cómo se juega:** juegue con una baraja de cartas numéricas del 0 al 9. Elija una carta al azar de la baraja y vuelva a colocarla después de usarla. Ambos jugadores deben usar ese número en algún lugar de los espacios que aún no se han llenado. Una vez que todos los espacios están llenos, los valores del jugador se comparan con cada uno de los números objetivos. El jugador que se acerque más a cada número objetivo obtendrá un punto, y ambos jugadores obtendrán un punto si están igualmente cerca.\n"
+"\n"
+"**Cómo se gana:** quien tenga más puntos gana."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "Puede variar este juego con diferentes números objetivos. También puede puntuar el juego sumando todos los errores de cada jugador: el jugador con el puntaje más bajo gana."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "WAR – DOUBLE-DIGIT COMPARISON"
-msgstr "GUERRA – COMPARACIÓN DE DOBLE DÍGITO"
+msgstr "GUERRA: COMPARACIÓN DE DOS DÍGITOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**Cómo se organiza:** mezcle una baraja de cartas sin las figuras y los dieces, y divídala en partes iguales entre dos jugadores.\n"
+"\n"
+"**Cómo se juega:** cada jugador da vuelta dos cartas y las coloca una al lado de la otra para formar un número de dos dígitos. El jugador con el número mayor se queda con las cuatro cartas. Si hay un empate, cada jugador da vuelta dos cartas más y el ganador se queda con las ocho cartas.\n"
+"\n"
+"**Cómo se gana:** después de varias jugadas, el jugador con más cartas gana."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10283,7 +10432,7 @@ msgstr "RELLENA EL ESPACIO Y COMPARA"
 #. type=data_list
 msgctxt "data_list"
 msgid "Comparing Double-Digit Numbers"
-msgstr "Comparación de Números de Dos Dígitos"
+msgstr "Comparar números de dos dígitos"
 
 #. type=data_list
 msgctxt "data_list"
