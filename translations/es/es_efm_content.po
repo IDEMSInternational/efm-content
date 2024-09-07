@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-07 00:34\n"
+"PO-Revision-Date: 2024-09-07 02:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10718,17 +10718,73 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "SUM SQUARE"
-msgstr "CUADRÍCULA DE SUMAS"
+msgstr "CUADRADO DE SUMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**Cómo se organiza:** comience con una cuadrícula de 3 x 3 cuadrados que tenga sumas objetivo dadas para cada fila y columna. Algunos de los números del 1 al 9 ya están colocados en la cuadrícula."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**El desafío:** coloque los números restantes en la cuadrícula para que las sumas de filas y columnas sean los valores objetivo.\n"
+"\n"
+"**Cómo se elabora:** para hacer uno de estos desafíos, comience colocando trozos de papel con los números del 1 al 9 en una cuadrícula de 3 x 3.\n"
+"\n"
+"Para cada fila y columna, escriba la suma a la derecha o debajo. Luego, quite algunos de los números de la cuadrícula. Por último, entréguele a su niño/niña los trozos de papel con los números que quitaste y pregúntale: “¿Dónde van estos números?”."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "Una variante con sumas más fáciles consiste en utilizar los números del 0 al 8. Una variante más difícil es hacer lo mismo con los números del 1 al 12 en una cuadrícula de 3 x 4."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "ADDITION PYRAMID"
-msgstr "PIRÁMIDE DE SUMAR"
+msgstr "PIRÁMIDE DE SUMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**Cómo se organiza:** se presenta una pirámide de 10 números colocados en 4 filas con un número objetivo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**El desafío:** encuentre un camino a través de la pirámide usando un número de cada fila de modo que la suma de los números sea el número objetivo. Los números en el camino deben conectarse entre sí.\n"
+"\n"
+"**Ejemplo:** la respuesta a este ejemplo es 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**Cómo se elabora:** haz una de estas pirámides rellenando los números que quieres que formen el camino y anota la suma de estos. Luego completa los números señuelos restantes en la pirámide."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "SUM DIFFERENCE"
-msgstr "DIFERENCIA Y SUMA"
+msgstr "SUMA Y DIFERENCIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**Cómo se juega:** una persona dice dos números, uno es una suma y el otro es una diferencia, y la otra persona tiene el reto de encontrar los dos números originales que tienen esa suma y diferencia. Por ejemplo, si una persona dice que la suma es 12 y la diferencia es 6, la otra persona dice que los números originales son 3 y 9.\n"
+"\n"
+"**Roles inversos:** debido a lo fácil que es crear estas preguntas, esta es una buena actividad para que su niño/niña sea quien haga las preguntas. No todas las combinaciones de números para la suma y la diferencia producirán respuestas razonables. Sin embargo, si comienza con dos números y luego dice su suma y diferencia, eso garantizará una respuesta."
 
 #. type=data_list
 msgctxt "data_list"
