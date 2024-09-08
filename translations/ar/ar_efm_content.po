@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-08 11:04\n"
+"PO-Revision-Date: 2024-09-08 17:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9117,6 +9117,137 @@ msgstr ""
 msgctxt "data_list"
 msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
 msgstr "يمكن استخدام الفرق بين البطاقات بدلاً من الجمع. في هذه الحالة، قم بتوزيع عدد زوجي من البطاقات على كل لاعب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "البطاقات التعليمية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"إن سهولة ممارسة الحقائق الرياضية باستخدام البطاقات التعليمية تجعلها مغرية. ومع ذلك، غالبًا ما يتم إساءة معاملتهم من قبل المساعدين بنية حسنة ولكنهم يساهمون في كراهية الرياضيات. وبعيدًا عن الضرر النفسي الذي يحدث نتيجة للتمرين المفرط في الحماس، فإن استخدام البطاقات التعليمية يحرمك من تعلم العلاقات المهمة بين الأرقام. لا تتردد في استخدام البطاقات التعليمية لتوفير تدريب مركز على مجموعة صغيرة من الحقائق، ولكن يرجى إبقاء التدريب محدودًا ومريحًا.\n"
+"\n"
+"تحتوي هذه الصفحة والصفحة التالية على أساليب تمارس الرؤى الهيكلية المفيدة والأكثر إثارة لاهتمام طفلك، ويجب استخدامها حتى تصبح الحقائق تلقائية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "مراجعة مهارات الجمع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"للقيام بالأنشطة الموجودة في هذه الصفحة، يجب أن يعرف طفلك كيفية القيام بما يلي عقليًا:\n"
+"\n"
+"* جمع وطرح (٠)، ١، ٢ (وربما ٣)\n"
+"* القيام بإضافة التوائم والتوائم القريبة\n"
+"* معرفة روابط الرقم١٠\n"
+"* إضافة ١٠ إلى الأرقام الأحادية.\n"
+"\n"
+"إذا كان طفلك ضعيفًا في أي من هذه المهارات، فهذا هو الوقت المناسب لممارسة هذه المهارات أكثر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "التعويض بالجمع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"التعويض هو أداة قوية لتسهيل الرياضيات الذهنية. عند إضافة رقمين، يمكنك الحصول على نفس المجموع عن طريق نقل جزء من أحد الرقمين إلى الآخر. إن إضافة ٨ أو ٩ أمر سهل باستخدام التعويض. على سبيل المثال، أضف ٦ + ٩ عن طريق تحويل ١ من ٦ إلى ٩، مما يعطي ٥ + ١٠. وبالمثل، يصبح ٤ + ٨ = ٢ + ١٠.\n"
+"\n"
+"استخدم التعويض من التوائم والتوائم القريبة لتسهيل جميع الحقائق الرياضية المتبقية: ٣ + ٥، ٣ + ٦، ٤ + ٧، و٥ + ٧. على سبيل المثال، باستخدام التعويض، ٥ + ٧ هو نفس ٦ + ٦.\n"
+"\n"
+"**أكثر من طريقة:** يمكن حل بعض الحقائق الرياضية بعدة طرق. تحدى طفلك لإيجاد أكثر من طريقة لحل مسألة. على سبيل المثال، يمكن أن يصبح ٥ + ٧ ٦ + ٦، ولكن يمكن أن يصبح أيضًا ٢ + ١٠. سيؤدي هذا النوع من اللعب الرياضي إلى رؤى دائمة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "مراجعة مهارات الطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"قبل البدء في أنشطة الطرح هذه، مارس أيًا من المهارات التالية التي قد تكون ضعيفة لدى طفلك:\n"
+"\n"
+"* جمع وطرح (٠) و١ و٢ (وربما ٣)\n"
+"* طرح الأعداد بفارق ١ أو ٢\\par \n"
+"* معرفة الروابط العددية للرقم ١٠ وكيف تجعل الطرح من ١٠ أمرًا سهلاً\\par \n"
+"* طرح ١٠ من الأعداد من ١١ إلى ١٩"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "استخدام ١٠ كنقطة توقف متوسطة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"بالنسبة للمسائل التي تحتوي على أرقام أكبر من ١٠، مثل ١٣ - ٨، قم بتقسيمها إلى فرقين. اجعل الرقم ١٠ بمثابة نقطة توقف متوسطة عند الانتقال بين الرقمين. المسافة من ١٣ إلى ٨ هي المسافة من ١٣ إلى ١٠ زائد المسافة من ١٠ إلى ٨. باستخدام هذا، يصبح ١٣ - ٨ (١٣ - ١٠) + (١٠ - ٨) = ٣ + ٢ = ٥.\n"
+"\n"
+"هذا يبسط الحمل الذهني بشكل كبير من خلال تقسيم عمليات الطرح هذه إلى جزأين يمكن التحكم فيهما. طرح ١٠ من رقم بين ١٠ و٢٠ أمر بسيط للغاية. تعلم كيفية طرح الأرقام من ١٠ هو مسألة تعلم روابط الأرقام لـ ١٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "التعويض عن الطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "الرياضيات العقلية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"التعويض عن الطرح يعني إضافة أو طرح نفس الكمية لكلا الرقمين. ومن خلال إضافة أو طرح نفس الشيء، يتم الحفاظ على المسافة أو الفرق بين الرقمين.\n"
+"\n"
+"استخدم التعويض من ١٣ - ٨ عن طريق إضافة ٢ إلى كلا الرقمين لتحويل المسألة إلى ١٥ - ١٠. لاحظ مدى سهولة المسألة باستخدام هذا التعديل البسيط!\n"
+"\n"
+"ويمكن أيضًا إجراء المسائل ذات الأرقام الأحادية بهذه الطريقة. على سبيل المثال، يمكن إضافة ٣ إلى كلا العددين في ٧ - ٣ ليصبح الناتج ١٠ - ٦، وهو ٤."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "لا تتجاوز"
 
 #. type=data_list
 msgctxt "data_list"
