@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-08 03:43\n"
+"PO-Revision-Date: 2024-09-08 11:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9014,6 +9014,109 @@ msgstr ""
 "**طريقة الفرق:** تستخدم هذه الطريقة العد على النحو الذي استخدمناه في طريقة الجمع بالأصابع السهلة. ما نفعله هو معرفة الرقم الذي نحتاج إلى إضافته إلى ٣ للحصول على ١١.\n"
 "\n"
 "اطلب من طفلك أن يغلق قبضة يده ويقول \"٣“. ثم، ارفع إصبعًا آخر في كل مرة، وعد \"١١،١٠،٩،٨،٧،٦،٥،٤“. عندما يقول طفلك ١١، يكون هناك ٨ أصابع مرفوعة. وهذا يعني أن الفرق بين ٣ و١١ هو ٨!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PIG"
+msgstr "الخنزير"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, roll a die as many times as you want. When a roll is not 1, you add that roll to your turn’s total. If it is 1, you lose everything for that turn and the turn is over. A player may choose to stop before rolling a 1, keep the turn’s points so far, and add them to the player’s running total.\n"
+"\n"
+"**How to win:** The first player to reach the target number, say 30, wins."
+msgstr ""
+"**كيف تلعب:** خلال دورك، قم برمي النرد عدة مرات كما تريد. عندما لا تكون النتيجة ١، تضيف تلك النتيجة إلى مجموع دورك. إذا كانت النتيجة ١، تخسر كل شيء لهذا الدور وينتهي الدور. يمكن للاعب أن يختار التوقف قبل أن يرمي ١، ويحتفظ بنقاط الدور حتى الآن، ويضيفها إلى مجموع نقاطه الإجمالي.\n"
+"\n"
+"**كيف تفوز:** أول لاعب يصل إلى الرقم المستهدف، لنقل ٣٠، يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A two dice variation has these rules: If neither die shows a 1, the sum is added to the turn’s running total. If exactly one of the dice shows a 1, then nothing more is added to the running total and the turn ends. If two 1’s are rolled, the turn’s total becomes 0 and the turn ends."
+msgstr "تتضمن نسخة النردين هذه القواعد: إذا لم يظهر أي من النردين ١، يتم إضافة المجموع إلى مجموع الدور الجاري. إذا ظهر بالضبط أحد النردين ١، فلا يضاف شيء إلى المجموع الجاري وينتهي الدور. إذا تم رمي اثنين من ١، يصبح مجموع الدور (٠) وينتهي الدور."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ENCLOSED SUMS"
+msgstr "المجاميع المغلقة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These puzzles have shapes connected by lines. Each enclosed region, such as where the 9 or the 7 are in this example, has a number that is the sum of the shapes that border it.\n"
+"\n"
+"While circles may have any value, a non-circle must have the same value as any other figure of the same shape."
+msgstr ""
+"**الإعداد:** الإعداد: تحتوي هذه الألغاز على أشكال متصلة بخطوط. كل منطقة مغلقة، مثل المكان الذي يوجد فيه الرقم ٩ أو ٧ في هذا المثال، تحتوي على رقم يمثل مجموع الأشكال التي تحدها.\n"
+"\n"
+"بينما يمكن أن تحتوي الدوائر على أي قيمة، يجب أن يكون للشكل غير الدائري نفس القيمة مثل أي شكل آخر من نفس النوع."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers in the shapes and the inside of the regions.\n"
+"\n"
+"**How to create:** Create these puzzles by making a diagram of circles and maybe some squares. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers."
+msgstr ""
+"**التحدي:** املأ الأرقام المفقودة في الأشكال وداخل المناطق المغلقة.\n"
+"\n"
+"**كيفية الإنشاء:** قم بإنشاء هذه الألغاز عن طريق رسم مخطط للدوائر وربما بعض المربعات. بعد ذلك، املأ جميع الأشكال بالأرقام واملأ المناطق المغلقة بمجموع الأشكال التي تحيط بها. وأخيرًا، قم بحذف بعض الأرقام."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – ADDITION AND SUBTRACTION"
+msgstr "الحرب – الجمع والطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead.\n"
+"\n"
+"**How to play:** Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes.\n"
+"\n"
+"**How to win:** The winner is the player who has the most cards."
+msgstr ""
+"**الإعداد:** وزع مجموعة أوراق اللعب المختلطة بالتساوي مع حذف الأوراق المكشوفة. إذا أردت، استخدم الدومينو بدلاً من ذلك.\n"
+"\n"
+"**كيف تلعب:** قوم كلا اللاعبين بقلب أول ورقتين لهما ويجمعان الأرقام. اللاعب الذي يحصل على المجموع الأكبر يفوز بجميع الأوراق الأربعة. إذا كانت المجموعات متساوية، يتم جمع الزوجين التاليين من الأوراق والفائز يحصل على جميع الأوراق الثمانية. يمكن لعب هذه اللعبة بمرور واحد عبر المجموعة أو بمرات متعددة.\n"
+"\n"
+"**كيف تفوز:** الفائز هو اللاعب الذي يمتلك أكبر عدد من الأوراق."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr "للتنوع، يمكن لعب هذه اللعبة باستخدام الفرق بين الورقتين. أو يمكنك جمع ثلاث أوراق في كل مرة. خيار آخر هو تعيين شخص ليكون الفردي والآخر الزوجي. في هذه الحالة، يقوم كل لاعب بقلب ورقة وتحدد فردية أو زوجية المجموع من يحصل على الأوراق."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET GIN RUMMY"
+msgstr "لعبة هدف الجن رومي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds and Fact Families"
+msgstr "الروابط العددية وزُمَر الحقائق الرياضية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target.\n"
+"\n"
+"**How to play:** During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card.\n"
+"\n"
+"**How to win:** When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”"
+msgstr ""
+"**الإعداد:** اتفق على مجموع مستهدف، لنقل ١٠. قم بحذف البطاقات المكشوفة ووزع سبع بطاقات على كل لاعب. لتصبح البطاقات المتبقية هي كومة سحب، ويتم قلب البطاقة العلوية لبدء كومة التخلص. الهدف هو الاحتفاظ بسبع بطاقات مقسمة إلى مجموعات منفصلة من بطاقة واحدة أو أكثر والتي يصل مجموعها إلى الهدف.\n"
+"\n"
+"**كيف تلعب:** أثناء الدور، يكون لدى اللاعب خيار التقاط البطاقة العلوية من كومة التخلص أو البطاقة المقلوبة في أعلى كومة السحب. ثم يتخلص هذا اللاعب من بطاقة.\n"
+"\n"
+"**كيف تفوز:** عندما ينجح اللاعب في ملء يده بالكامل، يضع اللاعب يده ويقول \"جن!“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "يمكن استخدام الفرق بين البطاقات بدلاً من الجمع. في هذه الحالة، قم بتوزيع عدد زوجي من البطاقات على كل لاعب."
 
 #. type=data_list
 msgctxt "data_list"
