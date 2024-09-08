@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-08 17:49\n"
+"PO-Revision-Date: 2024-09-08 19:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9248,6 +9248,288 @@ msgstr ""
 msgctxt "data_list"
 msgid "DON’T GO OVER"
 msgstr "لا تتجاوز"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**الإعداد:** استخدم ٥ أحجار نرد و٤ لفات.\n"
+"\n"
+"**كيف تلعب:** في الجولة الأولى، اختر حفظ النرد من (٠) إلى ٥. بمجرد حفظ النرد، لا يمكن تغييره. وبالمثل مع النرد المتبقي على اللفات الثانية والثالثة. في اللفة النهائية، يتم حفظ جميع أحجار النرد. أي نتيجة أقل من أو تساوي ٢٠ نقطة، وأي نتيجة أكثر من ٢٠ تعطي اللاعب (٠). \n"
+"\n"
+"**كيف تفوز:** يمكنك لعب جولة واحدة أو أكثر. أعلى مجموع من الدرجات يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "يمكن تغيير النتيجة المستهدفة البالغة ٢٠ وعدد أحجار النرد وعدد اللفات لتناسب اللاعبين الأصغر أو الأكبر سنًا. على سبيل المثال، العب هذه اللعبة بهدف ١٢ و٣ نرد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "التنقل بين الجزر – التعويض"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "جمع الأرقام الأحادية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "تُظهر هذه الألغاز كيف أن استخدام التعويض يخلق مسائل أسهل لعملية الجمع."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**التحدي:** ابحث عن طريق يربط بين جميع الجزر التي لها نفس الإجابة. لا يمكن لجزيرتين الاتصال إلا إذا كانت أرقام المسائل الخاصة بهما تختلف بمقدار ١ - مع زيادة رقم واحد برقم واحد وانخفاض الآخر بمقدار واحد.\n"
+"\n"
+"على سبيل المثال، قد يتصل الرقم \"٥ + ٨“ بالرقم \"٦ + ٧“. بعض الجزر فقط ستكون على الطريق. في هذا المثال، يبدأ المسار في الجزء السفلي الأيسر وينتهي في الجزء العلوي الأيمن.\n"
+"\n"
+"**كيفية الإنشاء:** اصنع هذه الألغاز من خلال البدء بحوالي عشر دوائر فارغة مع بعض الروابط. حدد مسارًا من أحد أطراف الجزر إلى الطرف الآخر. على طول هذا المسار، ضع المسائل التي تختلف أرقامها عن بعضها البعض بواحد. في الجزر القريبة، ضع المسائل مع تغييرات صغيرة علي ان تكون لها إجابات مختلفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "المثلثات الجزئية والكاملة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**الإعداد:** استخدم بطاقات الأرقام من ١ إلى ١٣. للبدء، يتم توزيع ٦ بطاقات مكشوفة على كل لاعب. توجد كومة سحب مع قلب بطاقة واحدة مقلوبة لبدء كومة التخلص.\n"
+"\n"
+"**كيف تلعب:** أثناء الدور، يأخذ اللاعب بطاقة التخلص العلوية أو بطاقة كومة السحب العلوية غير المعروفة. تحل البطاقة المختارة محل بطاقة لديه بالفعل، ويتم التخلص من البطاقة المستبدلة.\n"
+"\n"
+"**كيف تفوز:** أول لاعب ينشئ هرمًا من ٦ بطاقات حيث تكون كل بطاقة عبارة عن مجموع البطاقتين أدناها يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "استخدم نطاقات أصغر أو أكبر من البطاقات لتتناسب مع مهارات اللاعبين الأصغر أو الأكبر سنًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "البطاقات حسب الهدف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**الإعداد:** ابدأ بوضع جميع بطاقات اللعب من ١ إلى ٥ في مصفوفة ٤ × ٥. ابدأ المجموع الجاري من (٠) واختر رقمًا مستهدفًا، على سبيل المثال ٢٥.\n"
+"\n"
+"**كيف تلعب:** يتناوب اللاعبون على قلب رقم واحد وإضافته إلى المجموع الجاري. يفوز آخر لاعب يختار رقمًا لا يتجاوز الرقم المستهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "استبدل من ١ إلى ٥ بأي خمسة أرقام ترغب في التدرب عليها. للتدرب على الطرح، ابدأ من الرقم المستهدف، واطرح الأرقام المحددة، ولا تسمح بالذهاب إلى ما دون الصفر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "اخرج من منزلي - الجمع والطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**الإعداد:** استخدم مجموعة من البطاقات بأرقام من ١ (الآس) إلى ١٠. على قطعة ورق مشتركة، ارسم ٢٠ صندوقًا أو منزلًا بسيطًا مرقمة من (٠) إلى ١٩. كل لاعب لديه ٧ رموز مميزة عن الرموز السبعة للاعب الآخر.\n"
+"\n"
+"**كيف تلعب:** خلال الدور، يختار اللاعب بطاقتين عشوائيتين، ويمكنه اختيار الجمع أو الطرح أو الضرب لوضع رمزه في منزل يحتوي على أقل من ثلاثة من رموز الخصم. إذا كان المنزل يحتوي على رمز واحد أو اثنين من رموز الخصم، يتم إرجاع هذه الرموز إلى الخصم ويقول اللاعب \"اخرج من منزلي“.\n"
+"\n"
+"**كيف تفوز:** يفوز أول لاعب يضع جميع رموزه في المنازل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "الدومينو المركب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them.\n"
+"\n"
+"**How to play:** To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes.\n"
+"\n"
+"For example, if [1, 5] is on top, then it matches [2, 4] because 1 + 5 = 2 + 4, and it also matches [2, 2] because 5 - 1 = 2 x 2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile.\n"
+"\n"
+"**How to win:** The first player to get rid of all their dominoes wins."
+msgstr ""
+"**الإعداد:** استخدم مجموعة من الدومينو التي تتراوح من ١ إلى ٦ أو من ١ إلى ٩. يبدأ كل لاعب بخمسة دومينو عشوائية دون السماح للاعب الآخر برؤيتها.\n"
+"\n"
+"**كيف تلعب:** للبدء، يتم وضع دومينو عشوائي مقلوبة في المنتصف. بعد ذلك، يجب على اللاعب مطابقة الدومينو العلوي في المنتصف. تعني المطابقة أنه يمكن دمج الرقمين الموجودين على الدومينو العلوي مع أي عملية - الجمع أو الطرح أو حتى الضرب إذا كنت تريد الحصول على نفس النتيجة مثل بعض العمليات المختلفة التي تؤثر على الرقمين في إحدى دومينواتك.\n"
+"\n"
+"على سبيل المثال، إذا كان [١, ٥] في الأعلى، فإنه يتطابق مع [٢, ٤] لأن ١+٥ = ٢+٤، ويتطابق أيضًا مع [٢, ٢] لأن ٥-١ = ٢×٢. يتم وضع قطعة الدومينو المطابقة أعلى القطعة السابقة. إذا لم تتمكن من إجراء مطابقة، فيجب عليك التقاط قطعة دومينو جديدة من الكومة.\n"
+"\n"
+"**كيف تفوز:** يفوز أول لاعب يتخلص من كل قطع الدومينو الخاصة به."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "المثلثات المتباينة ومجموع المثلثات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Add & Sub"
+msgstr "ألعاب الجمع والطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**DiffTriangles:** These puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides – the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares."
+msgstr "**المثلثات المتباينة:** تحتوي هذه الألغاز على مثلثات ومربعات تشترك في الأضلاع. يحتوي المثلث دائمًا على مربعين بالضبط على ضلعيه - الضلع المتبقي إما أن يكون مثلثًا أو فارغًا. رقم المثلث هو الفرق بين المربعين المتجاورين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**مجموع المثلثات:** تستخدم هذه الألغاز الجمع بدلاً من الطرح. قيمة المثلث هي مجموع المربعين أو المربعات الثلاثة المجاورة له.\n"
+"\n"
+"**التحدي:** املأ الأرقام المفقودة حتى تنجح الألغاز.\n"
+"\n"
+"**كيفية الإنشاء:** يعد صنع الألغاز بدون حلقات أمرًا سهلاً. ارسم تسلسلًا متناوبًا من المربعات والمثلثات. ثم قم بوضع الأرقام بدءًا من أحد الأطراف حتى النهاية البعيدة. عند الانتهاء، احذف بعض الأرقام. انظر إلى المادة الإضافية للحصول على أفكار حول كيفية عمل هذه الألغاز باستخدام الحلقات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "العد بالتخطي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"لقد تدرب طفلك بالفعل على العد بالتخطي بالأرقام ٢و٥ و١٠ بين (٠) و٢٠. ابدأ في ممارسة العد بالتخطي بأي رقم، بدءًا من أي رقم، في أي اتجاه.\n"
+"\n"
+"يساعد العد بالتخطي لأعلى ولأسفل في جميع العمليات الحسابية، بالإضافة إلى القيمة المكانية (عند التخطي بالأرقام ٥ أو ١٠). الجزء الصعب في العد بالتخطي هو عندما يتغير رقم العشرات، لذا ركز على ذلك. هذا نشاط مفيد للقيام به عندما تسافر أو يكون لديك وقت فراغ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "خطوات قصيرة لتحقيق هدف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**كيف تلعب:** قم بإنشاء رقم بداية مكون من رقمين باستخدام بطاقتي لعب من ١ إلى ٩ - البطاقة الأولى تعطي رقم العشرات والأخرى رقم الآحاد. ابدأ بهذا الرقم، واستخدم ٥ قفزات، كل منها إما برقم ١ أو ١٠. والهدف هو الاقتراب من الرقم ٥٠ قدر الإمكان، والنتيجة هي الفرق بين الرقمين ٥٠ و٥٠. ويفوز صاحب أقل نتيجة إجمالية بعد عدة جولات.\n"
+"\n"
+"**مخطط ١٠٠:** يستفيد اللاعبون الصغار من الإشارة إلى مخطط ١٠٠. سيؤدي استخدام هذا المخطط أيضًا إلى التأكيد على القيمة المكانية عند ارتفاعها أو انخفاضها بمقدار ١٠.\n"
+"\n"
+"**التنوع:** يمكنك تنويع هذه اللعبة من خلال السماح بخطوات من ١أو٢ أو١٠, أو خطوات من ١أو ٢ أو ٥ أو ١٠. وأيضًا، استخدم أرقامًا مستهدفة غير ٥٠ أحيانًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "التنقل بين الجزر – العد بالتخطي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "العد بالتخطي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "ترتبط الجزر (الدوائر) بجسور (خطوط)، مع إجراء اتصالات عن طريق العد بالتخطي. تحتوي بعض الجزر على أرقام، وتبدأ جزر أخرى فارغة. يوجد فوق اللغز رقم البداية ورقم النهاية ومقدار التخطي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**التحدي:** املأ الأرقام المفقودة وابحث عن المسار.\n"
+"\n"
+"يمكنك أيضًا وضع الأرقام والفراغات على الأرض لعمل لغز متدرج.\n"
+"\n"
+"كما هو الحال مع نشاط العد بالتخطي، اصنع ألغازًا للتدرب على التقدم للأمام أو للخلف بدءًا من مجموعة متنوعة من الأرقام، وليس فقط الأرقام التي هي مضاعفات لمقدار التخطي.\n"
+"\n"
+"**كيفية الإنشاء:** اصنع هذه الألغاز عن طريق عمل الجزر أولاً، وملء أرقام العد بالتخطي، وربط تلك الجزر بالترتيب الصحيح، ثم إضافة بعض التوصيلات الإضافية للمساعدة في صنع لغز منها. في الإصدار الذي تقدمه لطفلك، قم بحذف بعض الأرقام مع ترك عدد كافٍ من الأرقام بحيث لا يزال من الممكن حل اللغز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "الاقتران"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**الإعداد:** ابدأ بخط أرقام يمتد من ١ إلى رقم ما، على سبيل المثال ٢٠.\n"
+"\n"
+"**كيف تلعب:** أثناء الدور، اختر رقمين ونتيجة، لا يتم شطب أي منهما، واكتب معادلة جمع أو طرح تتضمن هذين الرقمين. يتم شطب الرقمين في المعادلة، ويتم وضع دائرة حول النتيجة. يجب على اللاعب التالي استخدام النتيجة كواحد من الرقمين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**كيف تفوز:** إذا تم اللعب بشكل تنافسي، فإن الفائز هو آخر لاعب يقوم بحركة صحيحة. يمكن أيضًا لعبها بشكل تعاوني لمعرفة عدد الأرقام التي تبقى غير مستخدمة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "قم بإصلاحها"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "تبدأ هذه اللعبة بمصفوفة ٤ × ٤ مملوءة بالكامل من الأرقام بمجموع مستهدف. تستخدم النسخة البديلة مجموعات مستهدفة فردية لكل صف وعمود."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**التحدي:** ابحث عن الإدخالات التي يجب حذفها بحيث يكون مجموع الأرقام المتبقية في كل صف وعمود هو الهدف.\n"
+"\n"
+"**كيفية الإنشاء:** اصنع هذه الألغاز عن طريق وضع أزواج أو ثلاثيات من الأرقام التي يبلغ مجموعها المجموع المستهدف. ثم املأ المساحات المتبقية بأرقام وهمية."
 
 #. type=data_list
 msgctxt "data_list"
