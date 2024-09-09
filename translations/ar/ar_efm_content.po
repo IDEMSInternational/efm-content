@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-09 03:20\n"
+"PO-Revision-Date: 2024-09-09 04:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9991,6 +9991,208 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "مجموع المربعات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**الإعداد:** ابدأ بمصفوفة مربعات ٣ × ٣ تحتوي على مجموع مستهدف لكل صف وعمود. بعض الأرقام من١ الى ٩ موضوعة بالفعل في المصفوفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**التحدي:** ضع الأرقام المتبقية في المصفوفة لجعل مجموع الصفوف والأعمدة هو القيم المستهدفة.\n"
+"\n"
+"**كيفية الإنشاء:** لصنع أحد هذه الألغاز، ابدأ بوضع قطع من الورق تحمل الأرقام من١ الى ٩ على مصفوفة مقاس ٣ × ٣.\n"
+"\n"
+"لكل صف وعمود، اكتب المجموع إلى اليمين أو أدناه. ثم قم بحذف بعض الأرقام من المصفوفة. أخيرًا، قم بتسليم قطع الورق التي تحتوي على الأرقام التي قمت بحذفها لطفلك واسأل \"أين كانت هذه؟“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "أحد الاختلافات التي تحافظ على المجموع أصغر هو استخدام الأرقام من (٠) إلى ٨ بدلاً من ذلك. أحد الاختلافات الأكثر صعوبة هو القيام بنفس الشيء مع الأرقام من ١ إلى ١٢ في مصفوفة ٣×٤."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "هرم الجمع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**الإعداد:** يتم إعطاء هرم مكون من ١٠ أرقام موضوعة في ٤ صفوف برقم مستهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**التحدي:** ابحث عن مسار عبر الهرم باستخدام رقم واحد من كل صف بحيث يكون مجموع الأرقام هو الرقم المستهدف. يجب أن تتصل الأرقام الموجودة على المسار ببعضها البعض.\n"
+"\n"
+"**مثال:** الإجابة على هذا اللغز هي ٥ –> ٤ –> ١ –> ٧.\n"
+"\n"
+"**كيفية الإنشاء:** اصنع أحد هذه الألغاز عن طريق ملء الأرقام التي تريدها لتكوين المسار، وسجل مجموع هذه الأرقام. ثم املأ الأرقام الوهمية المتبقية في الهرم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "المجموع والفرق"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**كيف تلعب:** يقول أحد الأشخاص رقمين، أحدهما مجموع والآخر فرق، ويتحدى الشخص الآخر لإيجاد الرقمين الأصليين اللذين لهما هذا المجموع والفرق. على سبيل المثال، إذا قال أحد الأشخاص أن المجموع هو ١٢ والفرق هو ٦، يقول الشخص الآخر أن الرقمين الأصليين هما ٣ و٩.\n"
+"\n"
+"**التناوب على الأدوار:** نظرًا لسهولة إنشاء هذه الأسئلة، فإن هذا النشاط جيد للسماح لطفلك بأن يكون هو من يطرح الأسئلة. لن تنتج كل مجموعات الأرقام الخاصة بالمجموع والفرق إجابات معقولة. ومع ذلك، إذا بدأت برقمين ثم ذكرت مجموعهما والفرق بينهما، فسيضمن ذلك وجود إجابة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "الأرقام السامة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**الإعداد:** قم بحذف بطاقات الصور من مجموعة البطاقات (يمكنك استخدام الملكات كأصفار إذا أردت). قبل البدء، اتفق على مجموعة من الأرقام \"السامة“ للجولة. يمكن أن تكون الأرقام السامة أي مجموعة من الأرقام التي تريد أن يتدرب عليها طفلك أو يصبح أكثر دراية بها. \n"
+"\n"
+"بعض الأمثلة هي:\n"
+"\n"
+"* الأعداد الزوجية (٢،٤،٦،٨،١٠،١٢)\n"
+"* الأعداد الفردية (١،٣،٥،٧،٩،١١)\n"
+"* الأعداد المربعة (١،٤،٩،١٦،٢٥)\n"
+"* الأعداد الأولية (٢،٣،٥،٧،١١،١٣،١٧،١٩)\n"
+"* مضاعفات أحد الأعداد، مثل مضاعفات ٣\n"
+"\n"
+"**كيف تلعب:** يتم توزيع ثلاث بطاقات على كل لاعب. يتخلص اللاعب الأول من رقم ليس رقمًا سامًا ويستبدله من كومة السحب. يتخلص اللاعب التالي من رقم بحيث لا يكون مجموع الرقمين الأولين رقمًا سامًا ويستبدل الرقم المستبعد من كومة السحب. يلعب اللاعب التالي بحيث لا يكون مجموع البطاقات الثلاث رقمًا سامًا، وهكذا.\n"
+"\n"
+"**كيف تفوز:** أول لاعب لا يستطيع التخلص من بطاقة بطريقة صحيحة يخسر ويخرج من اللعبة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "تعمل هذه اللعبة بشكل جيد مع أكثر من لاعبين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "دع طفلك يلعب بهذه التحقيقات ويفكر فيها. لا تتعجل. تكمن القيمة في اللعب واكتشاف الأنماط الجميلة. هناك بعض الرياضيات الأعمق في هذه الأنشطة، ولكن هذه الأفكار يمكن أن تنتظر حتى يكبر طفلك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "بتلات الزهور"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**السؤال:** يوجد في حديقة غريبة نوعان من الزهور. نوع له ٤ بتلات ونوع آخر له ٧ بتلات. طُلب من طفل قطف بعض الزهور بحيث يكون العدد الإجمالي للبتلات ١٣. هل يمكن القيام بذلك؟ ماذا عن ١٥ بتلة؟ لأي عدد من البتلات يكون ذلك ممكنًا؟ بالنسبة للأرقام الممكنة، هل يمكن القيام بذلك بأكثر من طريقة؟ على سبيل المثال، ٣٢ بتلة هي أربعة ٧ وواحدة ٤، وهي أيضًا ثمانية ٤.\n"
+"\n"
+"**التنوع:** من خلال تغيير الأرقام، هناك الكثير من الأمثلة التي يمكن اللعب بها. بالنسبة لبعض أزواج الأرقام، تأتي نقطة حيث تكون جميع أرقام البتلات ممكنة، وبالنسبة لأزواج أخرى من الأرقام لا توجد مثل هذه النقطة. بالنسبة للرقمين ٤ و٧، كل رقم من ١٨ وما فوق ممكن. بالنسبة للرقمين ٣ و٦، لا توجد نقطة بعدها تحدث جميع الأرقام."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "تسلق الدرجات – كم عدد الطرق؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**السؤال:** لنفترض أن طفلك يحب القيام بالخطوات الثانية في كل مرة في بعض الأحيان، والخطوة الواحدة في وقت آخر في أحيان أخرى. إذا صعد طفلك بعض الخطوات، ما هي عدد الطرق التي يمكن من خلالها القيام بذلك؟\n"
+"\n"
+"على سبيل المثال، لـ (٠) خطوات، هناك طريقة واحدة - أنت تقف هناك. لخطوة واحدة توجد طريقة واحدة. بالنسبة للخطوتين، يمكنك إما اتخاذ خطوة مزدوجة واحدة أو خطوتين فرديتين، لذلك هناك طريقتان.\n"
+"\n"
+"فكر مليًا في العديد من الأمثلة ثم قم بعمل جدول للنتائج. عندما تكون هناك الكثير من المعلومات، فإن عمل جدول يساعد غالبًا. تبدو بداية الجدول على هذا النحو:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "بعد النظر إلى هذه الأرقام، قد يلاحظ طفلك أن كل زوج من الأرقام يساوي الرقم التالي. لماذا يحدث هذا؟ تسمى هذه الأرقام أرقام فيبوناتشي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "ميزان التوازن"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "اجعل الأمر ذا قيمة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"ميزان التوازن هو جهاز يستخدم لتحديد ما إذا كان وزن شيئين متماثلاً. وعادة ما يكون الميزان مزوداً بمجموعة من الأوزان التي تستخدم لوزن الأشياء. وفيما يلي بعض التحقيقات المثيرة للاهتمام التي يمكنك القيام بها إذا قمت بتقييد الأوزان المسموح لك باستخدامها.\n"
+"\n"
+"**السؤال ١:** إذا كان لديك أوزان بقياس ٤ وحدات و٧ وحدات فقط، فإن الأشياء التي يمكنك وزنها بالضبط هي نفس الأشياء التي وجدتها في تحقيق بتلات الزهور."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**السؤال ٢:** ما الأشياء التي يمكنك وزنها بالضبط إذا كانت الأوزان على جانبي الميزان؟\n"
+"\n"
+"**السؤال ٣:** كيف تتغير إجابات هذين السؤالين إذا استخدمت ٣ و٨ بدلاً من استخدام أوزان بقياس ٤ و٧؟ أو ربما تستخدم ٤ و٦ أو ٨ و١٢؟\n"
+"\n"
+"**السؤال ٤:** ماذا يحدث إذا كان لديك وزن واحد لكل من الأوزان في تقدم مضاعف من ١ و٢و٤ و٨ و١٦؟ بكم طريقة يمكنك وزن شيء يزن ١٣؟ هل يتغير الأمر إذا سمحت بوجود أوزان على كلا الجانبين؟ ما هو أكبر وزن يمكنك قياسه؟ هذا الموقف مرتبط بنظام الأعداد الثنائية.\n"
+"\n"
+"**السؤال ٥:** ماذا يحدث إذا استخدمت أوزانًا فردية في المتوالية الثلاثية ١ و٣ و٩ و٢٧؟ ما الأشياء التي يمكنك وزنها إذا سمحت بوجود هذه الأوزان على كلا الجانبين؟\n"
+"\n"
+"**السؤال ٦:** ماذا يحدث إذا كانت الأوزان أرقام فيبوناتشي؟ هل هناك أكثر من طريقة لوزن بعض الأوزان؟ ابحث عن قيد على أوزان فيبوناتشي بحيث تكون هناك طريقة واحدة فقط للحصول على كل وزن."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "STAGE 5 – I CAN COUNT TO 100!"
 msgstr "المرحلة ٥ - أستطيع العد حتى ١٠٠!"
 
@@ -9998,6 +10200,31 @@ msgstr "المرحلة ٥ - أستطيع العد حتى ١٠٠!"
 msgctxt "data_list"
 msgid "Stage 5 Introduction"
 msgstr "المرحلة ٥ – مقدمة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "المرحلة ١ – يمكنني سماعك!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "المرحلة ٢ – يمكنني العدد حتى ٥!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "المرحلة ٣ – يمكنني العدد حتى ١٠!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "المرحلة ٤ – يمكنني العدد حتى ٢٠!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "المرحلة ٥ – يمكنني العدد حتى ١٠٠!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16322,6 +16549,21 @@ msgstr "هل كانت القطة تلعب لعبة مع الصبي؟"
 msgctxt "data_list"
 msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
 msgstr "ماذا سيفعل الصبي مع القطة الآن؟ ربما سيطعمها أو يلعب معها؟ ماذا تعتقد؟"
+
+#. type=template
+msgctxt "template"
+msgid "block"
+msgstr "block"
+
+#. type=template
+msgctxt "template"
+msgid "margin-top: -5px"
+msgstr "margin-top: -5px"
+
+#. type=template
+msgctxt "template"
+msgid "margin-top: 0px"
+msgstr "margin-top: 0px"
 
 #. type=template
 msgctxt "template"
