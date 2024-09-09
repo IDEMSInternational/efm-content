@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-08 19:12\n"
+"PO-Revision-Date: 2024-09-09 00:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9530,6 +9530,153 @@ msgstr ""
 "**التحدي:** ابحث عن الإدخالات التي يجب حذفها بحيث يكون مجموع الأرقام المتبقية في كل صف وعمود هو الهدف.\n"
 "\n"
 "**كيفية الإنشاء:** اصنع هذه الألغاز عن طريق وضع أزواج أو ثلاثيات من الأرقام التي يبلغ مجموعها المجموع المستهدف. ثم املأ المساحات المتبقية بأرقام وهمية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "النموذج الموسع للطي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "ويوفر هذا طريقة مادية لرؤية كيفية تكوين الأرقام المكونة من رقمين من العشرات والآحاد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "خذ قطعة من الورق تناسب تمامًا أربع بطاقات أرقام جنبًا إلى جنب. ضع علامة على الورقة: مسافة - \"(٠)“ - \"+“ - مسافة. قم بعمل طيات رأسية على جانبي علامة \"+“. قم بربط الأرقام بمشبك ورقي في الفراغين. إذا استخدمت ٢ و٣، فإن هذا يبدو عند طيه وكأنه ٢٣، ولكن عند فرده يصبح ٢٠ + ٣."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "أنا أفكر في رقم"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"يفكر أحد اللاعبين في رقم بين (٠) و٩٩. يتوصل اللاعب الآخر إلى الرقم عن طريق طرح أسئلة حول أرقام العشرات والآحاد.\n"
+"\n"
+"لنفترض أن الرقم هو ٢٣. يمكن للاعب أن يسأل عما إذا كان رقم العشرات أكبر من أو يساوي رقم الآحاد - فهو ليس كذلك بالنسبة للرقم ٢٣. يمكن للاعب أن يسأل عما إذا كان مجموع الرقمين أقل من ٨ - فهو كذلك بالنسبة للرقم ٢٣. يمكن للاعب بعد ذلك أن يسأل عما إذا كان ضعف رقم العشرات أكبر من رقم الآحاد - فهو كذلك. في هذه المرحلة، يجب أن يكون الرقم ٢٣ أو ٣٤. السؤال عما إذا كان مجموع الأرقام أقل من ٦ ينهي الأمر.\n"
+"\n"
+"يمكن أن تكون أنواع الأسئلة أي شيء يتفق عليه اللاعبون، ولكن من الأفضل أن تتضمن الأسئلة أرقام الآحاد والعشرات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "التنقل بين الجزر باستخدام الآحاد والعشرات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "{الشكل الموسع والقيمة المكانية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "يتم تقديم مصفوفة مستطيلة من الأرقام مع ملء بعض الأرقام. املأ الأرقام المتبقية بحيث يختلف أي رقمين يشتركان في جانب واحد فقط في مكان واحد، ويكون الفرق بين الأرقام في ذلك المكان ١ (بما في ذلك الانتقال بين (٠) و٩). لا يجوز استخدام أي رقم أكثر من مرة. قد يكون استخدام مخطط مكون من ١٠٠ رقم مفيدًا للمبتدئين في حل المسائل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**كيفية الإنشاء:** خذ مصفوفة فارغة واملأها بأرقام، دون تكرار أي رقم. بعد ذلك، قم بحذف بعض الأرقام. في المثال، الأرقام الحمراء هي الأرقام المفقودة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "لعبة \"تيك تاك تو“ الرياضية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**الإعداد:** استخدم لوحة \"تيك تاك تو“ التي عليها الأرقام من ١ إلى ٩. يضع أحد اللاعبين الأرقام الفردية والآخر الأرقام الزوجية.\n"
+"\n"
+"**كيف تلعب:** يتناوب اللاعبون على وضع قطعة، ويضع اللاعب الذي يضع الأرقام الفردية أولاً. يفوز أول لاعب يكمل ٣ مربعات متتالية مجموعها ١٥. أحد الاختلافات هو الاستمرار وملء جميع المربعات ومعرفة اللاعب الذي حقق أكبر عدد من ١٥ نقطة.\n"
+"\n"
+"اللعبة المرتبطة بذلك هي أن يكون لديك مهاجم ومدافع. يتقدم المهاجم أولاً (لا يمكن أن تكون الخطوة الأولى ٥ في المنتصف) ويحاول الحصول على ١٥، ويحاول المدافع إيقاف المهاجم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "إعادة النظر في تحدي الذاكرة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "قم بلعبة الجمع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**الإعداد:** قم بتوزيع مصفوفة من البطاقات مقلوبة. المصفوفة ٤ × ٤ حجمها جيد.\n"
+"\n"
+"**كيف تلعب:** يتناوب اللاعبون على قلب بطاقتين. إذا تطابقت البطاقات، يحتفظ اللاعب بالبطاقات، ويتم توزيع بطاقتين أخريين في المساحات الفارغة، ويحصل اللاعب على دور آخر. إذا لم تتطابق البطاقات، يتم قلب البطاقات مرة أخرى وينتهي دور اللاعب.\n"
+"\n"
+"**كيف تفوز:** في نهاية اللعبة، يفوز اللاعب الذي لديه أكبر عدد من البطاقات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"إليك أفكار حول كيفية مطابقة البطاقات:\n"
+"\n"
+"* استخدم مجموعًا مستهدفًا. تتطابق بطاقتان إذا كان مجموعهما هو الهدف.\n"
+"* استخدم فرقًا مستهدفًا. تتطابق بطاقتان إذا كان الفرق بينهما هو الهدف.\n"
+"* استخدم بطاقات بها مسائل جمع أو طرح مع بطاقات بها الإجابات - تتطابق البطاقات إذا كانت المسألة تتطابق مع الإجابة.\n"
+"* استخدام النموذج الموسع. اختر ٢٠ رقمًا من (٠) إلى ٩٩. اكتب هذه الأرقام على قطع من الورق. واكتب أيضًا كل واحدة بشكل موسع على قطعة من الورق. على سبيل المثال، أنشئ ٥٠ + ٣ لـ ٥٣، و٣٠ + (٠) لـ ٣٠، و(٠) + ٧ لـ ٧. اخلط هذين المجموعتين المكونتين من ٢٠ بطاقة معًا. تتطابق بطاقتان عندما يتم إقران رقم عادي بشكله الموسع."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "التقريب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**الإعداد:** اكتب الأرقام ٥، ١٠، ٢٥، و٥٠ عموديًا على قطعة من الورق. ضع مسافة فارغة واحدة على كل جانب من الرقم ٥، ومساحتين فارغتين على كل جانب من الأرقام الأخرى. يقوم أحد اللاعبين بملء الفراغات الموجودة على الجانب الأيسر والآخر يملأ الفراغات على الجانب الآخر. لدى كل لاعب أيضًا فراغ إضافي واحد لاستخدامه مرة واحدة مع رقم لتجاهله.\n"
+"\n"
+"**كيف تلعب:** العب بمجموعة من بطاقات الأرقام من (٠) إلى ٩. اختر بطاقة عشوائيًا من المجموعة، وأعدها بعد استخدامها. يجب على كلا اللاعبين استخدام هذا الرقم في مكان ما في المساحات التي لم يتم ملؤها بعد. بمجرد ملء جميع المساحات، تتم مقارنة قيم اللاعب بكل من الأرقام المستهدفة. أي لاعب يقترب من كل رقم مستهدف يحصل على نقطة، مع حصول كلا اللاعبين على نقطة إذا كانا قريبين بنفس القدر.\n"
+"\n"
+"**كيف تفوز:** من لديه أكبر عدد من النقاط يفوز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "قم بتغيير هذه اللعبة من خلال وجود مجموعة مختلفة من الأرقام المستهدفة. يمكنك أيضًا تسجيل اللعبة من خلال جمع كل الأخطاء لكل لاعب - يفوز اللاعب صاحب النتيجة الأصغر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "الحرب – مقارنة ذات رقمين"
 
 #. type=data_list
 msgctxt "data_list"
