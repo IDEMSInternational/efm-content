@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-09 01:14\n"
+"PO-Revision-Date: 2024-09-09 02:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9692,6 +9692,36 @@ msgstr ""
 "**كيف تلعب:** يقلب كل لاعب بطاقتين ويضعهما جنبًا إلى جنب لتكوين رقم مكون من رقمين. يحتفظ اللاعب الذي لديه الرقم الأكبر بجميع البطاقات الأربع. إذا كان هناك تعادل، يقلب كل لاعب بطاقتين أخريين مع حصول الفائز على جميع البطاقات الثماني.\n"
 "\n"
 "**كيف تفوز:** بعد مرور بطاقة واحدة أو أكثر من البطاقات، يفوز اللاعب الذي لديه أكبر عدد من البطاقات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "رياضيات لعبة الواحد والعشرين"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**الإعداد:** تقليديًا، الرقم المستهدف هو ٢١، ولكن بالنسبة للطفل الصغير، استخدم رقمًا أصغر مثل ١٢. اضبط محتويات أوراق اللعب لطفلك. على سبيل المثال، بالنسبة للطفل الصغير جدًا، قد تكون هذه هي البطاقات من ١ إلى ٤ في المجموعات الأربع.\n"
+"\n"
+"**كيف تلعب:** يتم توزيع بطاقتين على كل لاعب - واحدة مكشوفة والأخرى مقلوبة (اللاعب المستلم هو الوحيد الذي ينظر إلى البطاقة مقلوبة). أثناء الدور، يكون لدى اللاعب خيار طلب بطاقة أخرى حتى يقرر اللاعب التوقف. بعد أن يلعب كل لاعب دوره، يقارن اللاعبون مجموع أوراقهم.\n"
+"\n"
+"**كيف تفوز:** يفوز اللاعب الذي يكون مجموع أوراقه أقرب إلى الهدف دون تجاوزه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "املأ الفراغات – المقارنة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing Double-Digit Numbers"
+msgstr "مقارنة الأرقام المكونة من رقمين"
 
 #. type=data_list
 msgctxt "data_list"
