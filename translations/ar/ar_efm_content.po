@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-09 04:04\n"
+"PO-Revision-Date: 2024-09-13 08:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16549,21 +16549,6 @@ msgstr "هل كانت القطة تلعب لعبة مع الصبي؟"
 msgctxt "data_list"
 msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
 msgstr "ماذا سيفعل الصبي مع القطة الآن؟ ربما سيطعمها أو يلعب معها؟ ماذا تعتقد؟"
-
-#. type=template
-msgctxt "template"
-msgid "block"
-msgstr "block"
-
-#. type=template
-msgctxt "template"
-msgid "margin-top: -5px"
-msgstr "margin-top: -5px"
-
-#. type=template
-msgctxt "template"
-msgid "margin-top: 0px"
-msgstr "margin-top: 0px"
 
 #. type=template
 msgctxt "template"
