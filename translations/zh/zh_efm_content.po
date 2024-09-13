@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-09-05 14:14\n"
+"PO-Revision-Date: 2024-09-13 08:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -29039,21 +29039,6 @@ msgstr "额外的内容 – 活动"
 msgctxt "template"
 msgid "No Match"
 msgstr "没有匹配"
-
-#. type=template
-msgctxt "template"
-msgid "block"
-msgstr "block"
-
-#. type=template
-msgctxt "template"
-msgid "margin-top: -5px"
-msgstr "margin-top: -5px"
-
-#. type=template
-msgctxt "template"
-msgid "margin-top: 0px"
-msgstr "margin-top: 0px"
 
 #. type=template
 msgctxt "template"
