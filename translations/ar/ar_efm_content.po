@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-19 12:58\n"
+"PO-Revision-Date: 2024-09-19 17:02\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10249,6 +10249,84 @@ msgstr ""
 "* العوامل والمقسومات والمضاعفات - ٣ يقسم ١٢ بالتساوي. وهذا يجعل ٣ عاملاً أو قاسمًا لـ ١٢، و١٢ مضاعفًا لـ ٣. و٣ عامل مشترك لـ ١٢ و١٥، و١٢ مضاعف مشترك لـ ٤ و٦.\n"
 "* القسمة المكونة من رقم واحد - سيتعلم طفلك القسمة بشكل غير مباشر في شكل إيجاد عامل مفقود في مسألة الضرب.\n"
 "* عائلات الحقائق للضرب والقسمة - سنعزز العلاقة بين هاتين العمليتين. على سبيل المثال، ٢ × ٥ = ١٠، و٥ × ٢ = ١٠، و١٠ / ٢ = ٥، و١٠ / ٥ = ٢ تشكل عائلة حقائق."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MENTAL MULTIPLICATION"
+msgstr "الضرب الذهني"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
+msgstr "توفر طرق التدريس هذه استراتيجيات منظمة لتعلم الضرب المكون من رقم واحد. يجب أن يكون لدى طفلك القدرة الجيدة بالفعل في مضاعفة أي رقم، والعد بالتخطي بأي رقم، والضرب في ٥ و١٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 x 4 = 4 x 3"
+msgstr "٣ × ٤ = ٤ × ٣"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
+msgstr "إن طفلك على دراية كبيرة بالجمع لدرجة أنه ليس من المفاجئ أن يكون ٢ + ٣ هو نفسه ٣ + ٢. على الرغم من عدم وضوح ذلك، فإن الأمر نفسه ينطبق على الضرب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
+msgstr ""
+"يوضح هذا الرسم التوضيحي أن صفين من ثلاثة هو نفس ثلاثة صفوف من اثنين - أنت فقط تغير وجهة نظرك! لا يهم الترتيب الذي تضرب به رقمين، ستحصل على نفس الإجابة.\n"
+"\n"
+"من الرائع أن هذه الملاحظة الرائعة تعني أن طفلك يحتاج إلى إتقان نصف عدد حقائق الضرب فقط - بمجرد أن يعرف طفلك ٣ × ٤، فإنه يعرف أيضًا ٤ × ٣."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SQUARES"
+msgstr "المربعات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
+msgstr "كما أن التوائم هي حقائق الجمع المفضلة في الرياضيات، فإن المربعات غالبًا ما تكون حقائق الضرب المفضلة. يوفر تعلم هذه الحقائق أساسًا آخر لتعلم حقائق الضرب الأخرى."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1 MORE OR 1 LESS"
+msgstr "١ أكثر أو ١ أقل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When combined with the other earlier skills, the strategy of using '1 more' or '1 less' is effective for calculating the remaining multiplication facts. \n"
+"\n"
+"For example, 9 × 7 is one 7 less than 10 × 7. So 9 × 7 = 70 – 7 = 63. This works for all 9’s. \n"
+"\n"
+"Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
+msgstr ""
+"عند دمجها مع المهارات السابقة الأخرى، تكون استراتيجية استخدام \"١ أكثر“ أو \"١ أقل“ فعالة لحساب حقائق الضرب المتبقية.\n"
+"\n"
+"على سبيل المثال، ٩ × ٧ أقل بمقدار ٧ من ١٠ × ٧ لذا ٩ × ٧ = ٧٠ - ٧ = ٦٣. وهذا ينطبق على جميع حقائق الضرب ٩.\n"
+"\n"
+"وبالمثل، فإن ٣ × ٧ يزيد بمقدار ٧ عن مضاعفة ٧ لذا فإن ٣ × ٧ = ٧ + ١٤ = ٢١. وهذا ينطبق على جميع الأعداد ٣."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 9"
+msgstr "الضرب في ٩"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Multiplication"
+msgstr "الضرب الذهني"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr "على الرغم من أن الضرب في ٩ مشمول بالاستراتيجية الأخيرة، إلا أنه من الممتع تعلمه في حد ذاته. إذا كتبت مضاعفات ٩ بالترتيب، فستجد أن رقم العشرات يكون دائمًا أقل بمقدار واحد من الرقم الذي تضرب فيه وأن رقم الآحاد بالإضافة إلى رقم العشرات يساوي دائمًا ٩!"
 
 #. type=data_list
 msgctxt "data_list"
