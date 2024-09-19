@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-19 17:02\n"
+"PO-Revision-Date: 2024-09-19 18:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10327,6 +10327,131 @@ msgstr "الضرب الذهني"
 msgctxt "data_list"
 msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
 msgstr "على الرغم من أن الضرب في ٩ مشمول بالاستراتيجية الأخيرة، إلا أنه من الممتع تعلمه في حد ذاته. إذا كتبت مضاعفات ٩ بالترتيب، فستجد أن رقم العشرات يكون دائمًا أقل بمقدار واحد من الرقم الذي تضرب فيه وأن رقم الآحاد بالإضافة إلى رقم العشرات يساوي دائمًا ٩!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING 100"
+msgstr "لعبة تكوين ١٠٠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.”\n"
+"\n"
+"**How to play:** Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total.\n"
+"\n"
+"**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
+msgstr ""
+"**الإعداد** كل لاعب لديه ورقة بها ٧ صفوف و٣ أعمدة. الأعمدة مُشار إليها بـ \"١٠“ و\"١“ و\"الإجمالي الجاري“\n"
+"\n"
+"**كيف تلعب:** يبدأ الإجمالي الجاري لكل لاعب من (٠). قم برمي نرد أو اختر بطاقة لعب عشوائية من ١ إلى ٩. يختار كل لاعب استخدام هذا الرقم في عمود ١ أو ١٠ الخاص به للصف الحالي. على سبيل المثال، إذا كان الرقم ٤، فيمكن أن يصبح ٤ أو ٤٠. تتم إضافة الرقم المختار إلى الإجمالي الجاري.\n"
+"\n"
+"**كيف تفوز:** اللاعب الذي يتجاوز الهدف ١٠٠ \"يخسر“. إذا لم يخسر أي من اللاعبين، يفوز اللاعب الأقرب إلى ١٠٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins. \n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"هناك العديد من الخيارات لهذه اللعبة:\n"
+"\n"
+"* استخدم رقم هدف مختلف\n"
+"* استخدم صفوفًا أقل أو أكثر.\n"
+"* لا تخسر إذا تجاوزت الهدف. يفوز اللاعب الأقرب على أي من الجانبين.\n"
+"* استخدم عمودًا رابعًا من ١٠٠ للتدرب على الأرقام المكونة من ٣ أرقام.\n"
+"* تدرب على الطرح من خلال البدء بالرقم المستهدف وطرحه حتى (٠)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAKE YOUR CLAIM"
+msgstr "لعبة \"طالب بحقك“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value and Addition Games"
+msgstr "ألعاب القيمة المكانية والجمع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a paper with a number line from 0 to 99 to share.\n"
+"\n"
+"**How to play:** On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line.\n"
+"\n"
+"**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
+msgstr ""
+"**الإعداد:** احصل على ورقة بخط أرقام من $(٠)$ إلى $٩٩$ لمشاركتها.\n"
+"\n"
+"**كيف تلعب:** في الدور، يستخدم اللاعب بطاقتين عشوائيتين من (٠) إلى ٩، ويختار ترتيب هذين الرقمين، لتوليد رقم من (٠٠) إلى ٩٩، ثم يضع هذا الرقم على جانبه من خط الأرقام.\n"
+"\n"
+"**كيف تفوز:** يفوز أول لاعب يحصل على أربعة أرقام في منطقة بدون أي من أرقام الخصم بينها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variation"
+msgstr "التنوع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game can also be played from 000 to 999."
+msgstr "يمكن أيضًا لعب اللعبة من ٠٠٠ إلى ٩٩٩."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BONDED GROUPS"
+msgstr "ألغاز المجموعات المرتبطة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two versions of these puzzles."
+msgstr "توجد نسختان من هذه الألغاز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
+msgstr "**النسخة ١:** هي نفس ألغاز المجموعات المجمعة في المرحلة ٣، إلا أن مجموع الأهداف يمكن أن يكون أكبر الآن. يمكن أن تكون الألواح بأي حجم، وهنا نستخدم لوحة ٤ × ٤. الرقم المستهدف موجود على اليسار، وهو ١٣ في هذه الحالة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
+msgstr "**التحدي:** تحديد مجموعات الأرقام المتصلة التي يكون مجموعها هو الهدف (١٣)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
+msgstr "**النسخة ٢:** هذا مثال للوحة ٤ × ٤ مع رقم هدف ٢٠. كما هو الحال في المجموعات المجمعة، تمتلئ اللوحة بأزواج وثلاثيات من الأرقام التي يصل مجموعها إلى الهدف. ومع ذلك، الآن سيكون هناك مربع واحد غير مشارك في أي من هذه المجموعات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
+msgstr "**التحدي:** التحدي هو إيجاد المربع الوحيد الذي يحتوي على هذا الرقم. في هذا المثال، هو \"٥“."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MISSING NUMBERS"
+msgstr "ألغاز الأرقام المفقودة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Create these puzzles by taking a simple addition or subtraction equation and leaving out some of the digits. If you accidentally leave out too many numbers, that can open up a discussion of what all the possible solutions are – for example, if you start with 2 + 5 = 7 and leave out the first and third numbers, there are many solutions to ? + 5 = ?\n"
+"\n"
+"**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
+msgstr ""
+"**كيفية الإنشاء:** قم بإنشاء هذه الألغاز من خلال أخذ معادلة جمع أو طرح بسيطة وحذف بعض الأرقام. إذا تركت عن طريق الخطأ عددًا كبيرًا جدًا من الأرقام، فقد يفتح ذلك مناقشة حول جميع الحلول الممكنة - على سبيل المثال، إذا بدأت بـ ٢ + ٥ = ٧ وحذفت الرقمين الأول والثالث، فهناك العديد من الحلول لـ ؟ + ٥ = ؟\n"
+"\n"
+"**مثال:** يتم تحويل المشكلتين التاليتين إلى ألغاز أرقام مفقودة من خلال حذف عدد من الأرقام في كل منها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
+msgstr "**ألغاز استبدال الحروف:** تشكل ألغاز الأرقام المفقودة هذه حجر الأساس المفهوم للغاية لاستخدام المتغيرات البسيطة. بعد أن يعتاد طفلك على هذه الألغاز، سيكون مستعدًا لحل بعض ألغاز استبدال الحروف التي سيتم وصفها لاحقًا في هذه المرحلة."
 
 #. type=data_list
 msgctxt "data_list"
