@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-20 02:34\n"
+"PO-Revision-Date: 2024-09-20 03:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10468,6 +10468,173 @@ msgstr ""
 "اصنع مجموعة من بطاقات الضرب لممارسة هذه الحقائق الرياضية أثناء لعب ألعاب المطابقة التي لعبتها عائلتك سابقًا: المرحلة ١ - لعبة ”إذهب للصيد“، تحدي الذاكرة؛ المرحلة ٢ - لعبة ”بينغو“؛ المرحلة ٣ - لعبة ”الطاطا الساخنة“؛ والمرحلة ٤ - لعبة ”الجن رومي“.\n"
 "\n"
 "**كيفية الإنشاء:** ارسم يدويًا أربع بطاقات لكل حقيقة رياضية. ١) التعبير ٢) مجموعات الأشياء، ٣) المصفوفة، و٤) التحليل إلى عوامل أولية. البطاقات الأربع لـ ٣ × ٤ هي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Options:** One option is to include 3 × 4 and not include 4 × 3. This has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3.\n"
+"\n"
+"For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
+msgstr ""
+"أحد الخيارات هو تضمين ٣ × ٤ وعدم تضمين ٤ × ٣. وهذا له عيب يتمثل في أن رؤية ٣ مجموعات من ٤ تختلف عن رؤية ٤ مجموعات من ٣.\n"
+"\n"
+"بالنسبة لبطاقات المصفوفة، ضع أرقام العد بالتخطي على طول أحد أو كلا الجانبين لمساعدة طفلك على ممارسة العد بالتخطي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "بالنسبة لبطاقات التعبير، استبدل كل رقم برمز التحليل إلى عوامل أولية للرقم. وهذا يجعل من السهل رؤية كيفية تناسق التحليل إلى عوامل أولية معًا عند ضرب رقمين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "الكشف عن النتائج"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "بطاقات وجداول الضرب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Use a blank table with 4 product rows and columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers, possibly with duplication, from 2 to 9. Fill in the table out of sight of your child, and then flip over or cover the numbers.\n"
+"\n"
+"**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
+msgstr ""
+"**كيفية الإنشاء:** استخدم جدولاً فارغًا به ٤ صفوف وأعمدة للضرب. توجد أيضًا مجموعات من أربعة أرقام مفقودة في الجانبين العلوي واليسار - ستحتوي هذه على بعض الأرقام، ربما مع تكرار، من ٢ إلى ٩. املأ الجدول بعيدًا عن أنظار طفلك، ثم اقلب الأرقام أو غطها.\n"
+"\n"
+"**التحدي:** يمكن لطفلك أن يطلب الكشف، واحدًا تلو الآخر، عن ما يصل إلى ١٠ من إدخالات المنتج الستة عشر. والهدف هو العثور على الإدخالات للجانبين العلوي واليسار قبل نفاد الأدوار."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
+msgstr "**مثال:** تخيل أن جميع البطاقات مقلوبة في هذا المثال. إذا اختار طفلك قلب البطاقة التي تحتوي على الرقم ٦٣ أسفلها، فسوف يعرف أنها جاءت من ٧ و٩. سيُظهر قلب أي بطاقة أخرى في نفس الصف أو العمود مثل الرقم ٦٣ مكان الرقمين ٧ و٩. افترض أن البطاقة الثانية التي قلبها هي الرقم ٥٦. يجب أن يكون العمود الثالث ٧، والصف الثاني أيضًا ٩ والصف الثالث ٨."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER FACTORS AND MULTIPLES"
+msgstr "تغطية العوامل والمضاعفات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Have a board of numbers from 1 to 24. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens."
+msgstr "**الإعداد:** يجب أن يكون لديك لوحة بها أرقام من ١ إلى ٢٤. هناك نوعان من الرموز - رمز واحد مخصص لـ \"الحركة الأخيرة“، ومجموعة من الرموز الأخرى."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** The first player gets to pick any number and cover it with the last move token. After that, a player replaces the last move token with the other type of token and moves the last move token to any number that is a factor or multiple of the number from the last move.\n"
+"\n"
+"**How to win:** The losing player is the one forced to cover the number 1.\n"
+"\n"
+"**Example:** This board shows the middle of a game that started 10 -> 5 -> 15 -> 3."
+msgstr ""
+"**كيف تلعب:** يحصل اللاعب الأول على اختيار أي رقم وتغطيته برمز الحركة الأخيرة. بعد ذلك، يستبدل اللاعب رمز الحركة الأخيرة بنوع آخر من الرموز وينقل رمز الحركة الأخيرة إلى أي رقم يكون عاملًا أو مضاعفًا للرقم من الحركة الأخيرة.\n"
+"\n"
+"**كيف تفوز:** اللاعب الخاسر هو اللاعب الذي يضطر إلى تغطية الرقم ١.\n"
+"\n"
+"**مثال:** تُظهر هذه اللوحة منتصف لعبة بدأت بـ ١٠ -> ٥ -> ١٥ -> ٣."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As children get better at this game, they will discover rules they need to follow governing reasonable first moves. The most basic rule is that the first move cannot be on a prime number in the upper half of the numbers.\n"
+"\n"
+"Adjust the range of numbers to the skill level of the players – 1 to 30, 1 to 48, or 1 to 60."
+msgstr ""
+"مع تحسن أداء الطفل في هذه اللعبة، سيكتشف القواعد التي تحكم التحركات الأولى المعقولة. والقاعدة الأساسية هي أن التحرك الأول لا يمكن أن يكون على رقم أولي في النصف العلوي من الأرقام.\n"
+"\n"
+"اضبط نطاق الأرقام وفقًا لمستوى مهارة اللاعبين - من ١ إلى ٣٠، أو من ١ إلى ٤٨، أو من ١ إلى ٦٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH FACTORS"
+msgstr "لعبة نيم بالعوامل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with any number, say 20. Let your child decide whether to go first or second. How to play: During their turn, a player may subtract any divisor of the current number from the number. For example, starting at 20, the first player can subtract 1, 2, 4, 5, or 10 for their first move.\n"
+"\n"
+"**How to win:** The player forced to 0 loses."
+msgstr ""
+"**الإعداد:** ابدأ بأي رقم، على سبيل المثال ٢٠. دع طفلك يقرر ما إذا كان سيبدأ أولاً أم ثانيًا.\n"
+"\n"
+"**كيف تلعب:** خلال دوره، يمكن للاعب طرح أي قاسم للرقم الحالي من الرقم. على سبيل المثال، بدءًا من ٢٠، يمكن للاعب الأول طرح ١ أو ٢ أو ٤ أو ٥ أو ١٠ في حركته الأولى.\n"
+"\n"
+"**كيف تفوز:** يخسر اللاعب الذي يُجبر على (٠)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy"
+msgstr "الاستراتيجية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for always winning - once they discover it, see if they can explain why it works."
+msgstr "بعد أن يعتاد طفلك على اللعبة، شجعه على البحث عن الاستراتيجية البسيطة بشكل ملحوظ للفوز دائمًا - بمجرد اكتشافها، انظر ما إذا كان بإمكانه شرح سبب نجاحها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIEVE OF ERATOSTHENES"
+msgstr "غربال إراتوستينس"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding Primes"
+msgstr "العثور على الأعداد الأولية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Children have fun putting in X’s and watching primes fall through this sieve. This investigation\n"
+"creates opportunities for discovering many interesting properties of divisibility and primes. \n"
+"\n"
+"Start with a number line numbered from 1 to 25 (or larger if space and patience allows). \n"
+"\n"
+"Write the number 2 below itself. On this new line put X’s below each multiple of 2.\n"
+"\n"
+"Next, pull down the lowest number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples."
+msgstr ""
+"يستمتع الأطفال بوضع علامة X ومشاهدة الأعداد الأولية تتساقط من خلال هذا الغربال. يتيح هذا التحقيق فرصًا لاكتشاف العديد من الخصائص المثيرة للاهتمام للقسمة والأعداد الأولية.\n"
+"\n"
+"ابدأ بخط أعداد مرقم من ١ إلى ٢٥ (أو أكبر إذا سمح الوقت والصبر).\n"
+"\n"
+"اكتب الرقم ٢ أسفل نفسه. في هذا الخط الجديد، ضع علامة X أسفل كل مضاعف للرقم ٢.\n"
+"\n"
+"بعد ذلك، اسحب أدنى رقم لا يحتوي على علامة X أسفله (في هذه الحالة الرقم ٣) وضعه في السطر التالي. اكتب الرقم ٣ وضع علامة X في ذلك السطر لجميع مضاعفاته."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Keep pulling down numbers and marking their multiples.\n"
+"\n"
+"When you are finished, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!"
+msgstr ""
+"استمر في سحب الأرقام ووضع علامة على مضاعفاتها.\n"
+"\n"
+"عند الانتهاء، ستكون قد سحبت جميع الأعداد الأولية. تذكر أن ١ هو وحدة وليس عددًا أوليًا!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Discuss these questions with your child as they play with the sieve:\n"
+"\n"
+"* Why are primes the numbers the numbers that are pulled down?\n"
+"* What is the last prime whose multiples you need to cross out? Why were the other\n"
+"primes not useful?\n"
+"* For all the primes that were useful, which of their multiples produced new restrictions\n"
+"and which were not useful? Is there a pattern in that answer?\n"
+"* If you had a number, say 53, which prime numbers would you need to divide it by to\n"
+"confirm that it’s a prime?"
+msgstr ""
+"ناقش هذه الأسئلة مع طفلك أثناء اللعب بالغربال:\n"
+"\n"
+"* لماذا الأعداد الأولية هي الأرقام التي يتم سحبها؟\n"
+"* ما هو آخر عدد أولي تحتاج إلى شطب مضاعفاته؟ لماذا لم تكن الأعداد الأولية الأخرى مفيدة؟\n"
+"* بالنسبة لجميع الأعداد الأولية التي كانت مفيدة، أي من مضاعفاتها أنتجت قيودًا جديدة وأيها لم يكن مفيدًا؟ هل هناك نمط في تلك الإجابة؟\n"
+"* إذا كان لديك رقم، لنقل ٥٣، ما هي الأعداد الأولية التي تحتاج إلى تقسيمه عليها لتأكيد أنه عدد أولي؟"
 
 #. type=data_list
 msgctxt "data_list"
