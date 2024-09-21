@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-21 19:34\n"
+"PO-Revision-Date: 2024-09-21 20:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11011,6 +11011,187 @@ msgstr ""
 "**القاعدة:** عندما يتم ضرب قوى نفس الرقم، تحكم قاعدة بسيطة كيفية تبسيط النتيجة - إضافة القوى. على سبيل المثال، إذا قمت بـ ٤<sup>٢</sup> × ٤<sup>٣</sup> = (٤ × ٤) × (٤ × ٤ × ٤) = ٤<sup>٥</sup>، لدينا اثنان من الأربعات مضروبة في ثلاثة من الأربعات، لذا فإن النتيجة هي خمسة من الأربعات مضروبة.\n"
 "\n"
 "**تحذير:** لاحظ أن هذه القاعدة لإضافة الأسس تعمل فقط عندما يكون نفس الرقم مرفوعًا إلى قوة - لا يمكنك تبسيط ٣<sup>٢</sup> × ٥<sup>٣</sup> بسهولة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "إعادة استخدام أنشطة الجمع القديمة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "الشعور بالقوة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**إعادة استخدام الألغاز والألعاب:** نظرًا لأن القوى تتجمع عند ضرب القوى، يمكن استخدام أي من ألعابنا وألغازنا القديمة التي تتضمن الجمع لممارسة ضرب الأرقام التي هي قوى. بعض أمثلة هذه الأنشطة القديمة هي: المرحلة ٣ - مجموع الأشكال ومجموع المجموعات؛ المرحلة ٤ - المجموع المغلق، المثلثات المجمعة، وإصلاحها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "سيصبح العمل مع القوى روتينيًا وسهلاً تمامًا مثل مسائل الجمع الأصلية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "إذا كان طفلك يستمتع بهذه المسائل ويريد بعض التحدي الإضافي، ابدأ بإشراك أكثر من رقم واحد مرفوع إلى قوة. على سبيل المثال، إذا قمت بضرب ٤<sup>٢</sup> × ٣<sup>٣</sup> في ٤<sup>٥</sup> × ٣<sup>٢</sup>، يمكنك تطبيق القاعدة بشكل منفصل على قوى ٤ وقوى ٣ والحصول على النتيجة ٤<sup>٧</sup> × ٣<sup>٥</sup>."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "أشجار العوامل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "اكتشاف التحليل إلى عوامل أولية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "نموذج أشجار العوامل هو امتداد لنتائج الأشكال من صفحة \"الشعور بالقوة\" السابقة. الهدف من إنشاء شجرة العوامل هو تحليل الرقم إلى عوامله الأولية. يمكن تعلم العديد من الأشياء عن الرقم أثناء عملية إنشاء شجرة العوامل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr ""
+"**مثال:** ابدأ برقم، لنقل ٥٤. يمكن تقسيم هذا الرقم بعدة طرق. إحدى الطرق هي ٩ × ٦، وأخرى هي ١٨ × ٣، وأخرى هي ٣ × ٣ × ٦. كل منها ينتج بداية لشجرة العوامل. كل من هذه الأشجار تنتج في النهاية نفس الأعداد الأولية في أوراقها.\n"
+"\n"
+"في كل حالة، ننتهي بـ ٢ × ٣ × ٣ × ٣، ولكن انظر إلى الطرق المختلفة للوصول إلى هناك!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "الأسئلة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"بعد القيام ببعض الأمثلة مثل هذه، قد يبدأ طفلك بطبيعة الحال في طرح بعض الأسئلة.\n"
+"\n"
+"* لماذا تحتوي بعض الأشجار على مستويات أكثر من غيرها؟\n"
+"* لماذا تكون بعض الأشجار أوسع من غيرها؟\n"
+"* لماذا تتوقف الأوراق دائمًا عند الأعداد الأولية؟\n"
+"* لماذا تحتوي الأوراق دائمًا على نفس قائمة الأعداد الأولية، ربما مع إعادة ترتيب؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "ممارسة التحليل إلى عوامل أولية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "قم بتحليل الأعداد إلى عواملها الأولية بترتيب عندما تسافر أو يكون لديك وقت فراغ. هذا يوفر أيضًا ممارسة للحديث عن القوى. معرفة التحليل إلى عوامل أولية بسهولة سيكون مفيدًا في العديد من الأمور القادمة، مثل العمل مع الكسور. استمتع بهذا ولا تدفع طفلك إلى ما يتجاوز مستوى راحته."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "الحفلة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"تسير الحفلة على هذا النحو:\n"
+"\n"
+"١. هو وحدة\n"
+"٢. هو عدد أولي\n"
+"٣. هو عدد أولي\n"
+"٤. هو ٢ تربيع\n"
+"٥. هو عدد أولي\n"
+"٦. هو ٢ × ٣\n"
+"٧. هو عدد أولي\n"
+"٨. هو ٢ تكعيب\n"
+"٩. هو ٣ تربيع\n"
+"١٠. هو ٢ × ٥\n"
+"١١. هو عدد أولي\n"
+"١٢. هو ٢ تربيع × ٣\n"
+"١٣. هو عدد أولي\n"
+"١٤. هو ٢ × ٧\n"
+"١٥. هو ٣ × ٥\n"
+"١٦. هو ٢ للقوة الرابعة\n"
+"١٧. هو عدد أولي\n"
+"١٨. هو ٢ × ٣ تربيع\n"
+"١٩. هو عدد أولي\n"
+"٢٠. هو ٢ تربيع × ٥\n"
+"٢١. هو ٣ × ٧\n"
+"٢٢. هو ٢ × ١١\n"
+"٢٣. هو عدد أولي\n"
+"٢٤. هو ٢ تكعيب × ٣"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "هرم الناتج"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "التحليل إلى عوامل أولية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"هذه الألغاز هي النسخة الضربية من أهرامات الجمع التي شوهدت في المرحلة ٤. يتم تزويدك برقم هدف وهرم من الأرقام.\n"
+"\n"
+"**التحدي:** التحدي هو العثور على مسار من الأرقام المتصلة أسفل الهرم بحيث يكون حاصل ضرب الأرقام المختارة هو الهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"في هذا الهرم، الهدف هو ٣٦، والخطوط الحمراء تشير إلى المسار الذي يعمل.\n"
+"\n"
+"تكون هذه الألغاز أسهل إذا بدأت بتحليل العدد الهدف إلى عوامله الأولية. لأن ٣٦ = ٢ × ٢ × ٣ × ٣، يجب اختيار هذه العوامل الأولية على طول المسار، وهذا يساعد في توجيه البحث.\n"
+"\n"
+"معرفة التحليل إلى عوامل أولية يجعل أيضًا من السهل جدًا إنشاء هذه الألغاز."
 
 #. type=data_list
 msgctxt "data_list"
