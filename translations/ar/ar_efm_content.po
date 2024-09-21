@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-21 16:44\n"
+"PO-Revision-Date: 2024-09-21 18:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10880,6 +10880,16 @@ msgstr ""
 "**مستوى الصعوبة:** قم بزيادة أو تقليل مستوى الصعوبة عن طريق ترك المزيد أو القليل من الأرقام. في هذا المثال، كان يمكن ترك الرقم ٥ في عمود ٥ - يجب أن يكون هناك عامل ٥ في ٢٠، ولا يمكن أن يكون هذا العامل من صف ٢٠ لأن هناك ٣٦ في ذلك الصف.\n"
 "\n"
 "**يستطيع طفلك صنعها:** تحدى طفلك لصنع أحد هذه الألغاز لك. يمكن أن يتطلب إنشاء أحد هذه الألغاز الكثير من التفكير الجيد!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "RECTANGLE AREA"
+msgstr "مساحة المستطيل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area"
+msgstr "مساحة المستطيل"
 
 #. type=data_list
 msgctxt "data_list"
