@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-20 03:34\n"
+"PO-Revision-Date: 2024-09-21 02:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10635,6 +10635,48 @@ msgstr ""
 "* ما هو آخر عدد أولي تحتاج إلى شطب مضاعفاته؟ لماذا لم تكن الأعداد الأولية الأخرى مفيدة؟\n"
 "* بالنسبة لجميع الأعداد الأولية التي كانت مفيدة، أي من مضاعفاتها أنتجت قيودًا جديدة وأيها لم يكن مفيدًا؟ هل هناك نمط في تلك الإجابة؟\n"
 "* إذا كان لديك رقم، لنقل ٥٣، ما هي الأعداد الأولية التي تحتاج إلى تقسيمه عليها لتأكيد أنه عدد أولي؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MIX IT UP"
+msgstr "قم بخلط الأرقام"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use numbered cards from 1 to 25, or a range your child is comfortable with.\n"
+"\n"
+"**How to play:** A card is selected at random and used as everyone’s target number. That card is returned to the deck. Each player is dealt five cards to be used, in any order and with any operations, to get as close as possible to the target number.\n"
+"\n"
+"**Examples:** Suppose the target number is 14, and you are dealt 3, 6, 12, 17, and 20. 17 - 3 or 20 - 6 work, but only use two cards. 20 - 12 + 6 uses three cards. 17 x (6 / 3) - 20 or 20 - (12 /  (6  /  3)) use four cards, so that's an improvement, if you're trying to use all the cards. Can you find a way to use all five?"
+msgstr ""
+"**الإعداد:** استخدم بطاقات مرقمة من ١ إلى $٢٥$، أو نطاقًا يشعر طفلك بالراحة معه.\n"
+"\n"
+"**كيف تلعب:** يتم اختيار بطاقة عشوائيًا وتستخدم كرقم الهدف للجميع. تُعاد تلك البطاقة إلى المجموعة. يتم توزيع خمس بطاقات على كل لاعب ليستخدمها بأي ترتيب ومع أي عمليات للوصول إلى الرقم الهدف بأقرب ما يمكن.\n"
+"\n"
+"**أمثلة:** لنفترض أن الرقم الهدف هو ١٤، وتم توزيع ٣، ٦، ١٢، ١٧، و٢٠. يمكن استخدام ١٧ - ٣ أو ٢٠ - ٦، ولكن باستخدام بطاقتين فقط. ٢٠ - ١٢ + ٦ يستخدم ثلاث بطاقات. ١٧ × (٦ / ٣) - ٢٠ أو ٢٠ - (١٢ / (٦ / ٣)) يستخدم أربع بطاقات، لذا هذا تحسن إذا كنت تحاول استخدام جميع البطاقات. هل يمكنك العثور على طريقة لاستخدام البطاقات الخمس جميعها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring options"
+msgstr "خيارات التسجيل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are several options for scoring, and you may think of your own.\n"
+"\n"
+"* 1 point to each player who hits the target. Total over several rounds.\n"
+"* A player's score for a round is the difference between their result and the target. The\n"
+"scores are totaled over several rounds, and the lowest total score wins.\n"
+"* A player earns twice as many points as the number of cards they use to reach the target; a player receives 5 points for hitting the target with help; and a player receives\n"
+"6 points for helping someone hit the target."
+msgstr ""
+"هناك عدة خيارات للتسجيل، ويمكنك التفكير في خياراتك الخاصة.\n"
+"\n"
+"* نقطة واحدة لكل لاعب يصل إلى الهدف. يتم جمع النقاط على مدار عدة جولات.\n"
+"* درجة اللاعب لجولة هي الفرق بين نتيجته والهدف. يتم جمع الدرجات على مدار عدة جولات، والفائز هو من يحصل على أقل مجموع درجات.\n"
+"* يكسب اللاعب ضعف عدد النقاط بقدر عدد البطاقات التي يستخدمها للوصول إلى الهدف؛ يحصل اللاعب على ٥ نقاط للوصول إلى الهدف بمساعدة؛ ويحصل اللاعب على ٦ نقاط لمساعدة شخص آخر في الوصول إلى الهدف."
 
 #. type=data_list
 msgctxt "data_list"
