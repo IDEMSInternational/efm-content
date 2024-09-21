@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-21 20:34\n"
+"PO-Revision-Date: 2024-09-21 21:33\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11192,6 +11192,332 @@ msgstr ""
 "تكون هذه الألغاز أسهل إذا بدأت بتحليل العدد الهدف إلى عوامله الأولية. لأن ٣٦ = ٢ × ٢ × ٣ × ٣، يجب اختيار هذه العوامل الأولية على طول المسار، وهذا يساعد في توجيه البحث.\n"
 "\n"
 "معرفة التحليل إلى عوامل أولية يجعل أيضًا من السهل جدًا إنشاء هذه الألغاز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "١٠٠ ضحكة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**الإعداد:** استخدم مجموعة من البطاقات تحتوي على Q (كـ (٠))، A (كـ (١))، و٢-٩. حدد الرقم الهدف عند ١٠٠. يتم اختيار أربع بطاقات عشوائية بالترتيب وتستخدم لتكوين زوج من الأرقام المكونة من رقمين، كمورد مشترك.\n"
+"\n"
+"**كيف تلعب:** يتم توزيع ١٤ بطاقة عشوائية على كل لاعب مكشوفة. يتناوب اللاعبون الأدوار. خلال الدور، يجب على اللاعب استخدام بطاقتين بالضبط من بطاقاته لوضعهما فوق اثنتين من البطاقات الأربع. يحصل اللاعب على نقطة واحدة إذا كانت الأرقام الحالية المكونة من رقمين تضيف إلى الرقم الهدف. يأتي اسم اللعبة من الإجراء الاختياري للاعب بالضحك في كل مرة ينجح فيها في الوصول إلى المبلغ المستهدف.\n"
+"\n"
+"**كيف تفوز:** عندما يتم استخدام جميع البطاقات، يفوز اللاعب الذي يحصل على أكبر عدد من النقاط."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* وجود هدف ١٠٠ جيد لممارسة روابط الأرقام لـ ١٠. ومع ذلك، فإن الأهداف الأخرى مفيدة للتنوع وممارسة روابط الأرقام الأخرى.\n"
+"* أعط اللاعبين أقل أو أكثر من ١٤ بطاقة.\n"
+"* استخدم الطرح مع رقم هدف أصغر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "سحب ٥ بطاقات إلى هدف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "الجمع والطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**الإعداد:** اختر رقم هدف، لنقل ١٠٠.\n"
+"\n"
+"**كيف تلعب:** يلتقط كل لاعب خمس بطاقات عشوائية من (٠) إلى ٩. يتم تكوين رقمين مكونين من رقمين من هذه الأرقام، والبطاقة الخامسة غير مستخدمة. يتم جمع الرقمين واللاعب الأقرب إلى الهدف يفوز بنقطة لتلك الجولة.\n"
+"\n"
+"**كيف تفوز:** يفوز اللاعب الذي يحصل على أعلى عدد من النقاط بعد عدد محدد من الجولات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "أحد الخيارات هو استخدام الأرقام المكونة من ثلاثة أرقام، ورقم هدف ١٠٠٠، ويحصل كل لاعب على سبع بطاقات. خيار آخر هو استخدام الطرح مع رقم هدف أصغر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "استبدال الحروف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "استبدال الحروف"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**الإعداد:** في هذه الألغاز، يتم استبدال الأرقام الأحادية بالحروف. للوهلة الأولى، تبدو هذه الألغاز مشابهة لألغاز \"الرقم المفقود“ من المرحلة السابقة. ومع ذلك، يوفر استخدام الحروف فرصًا أكثر إثارة لحل المشكلات. إذا كان طفلك مرتاحًا مع ألغاز الرقم المفقود، يجب أن تنتقل إلى هذه الألغاز.\n"
+"\n"
+"يتبع استخدام الحروف في هذه الألغاز ثلاث قواعد:\n"
+"\n"
+"* الحرف المعطى هو دائمًا نفس الرقم من (٠) إلى ٩\n"
+"* الرقم الأيسر في العدد لا يكون (٠)\n"
+"* يجب أن تكون الحروف المختلفة أرقامًا مختلفة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**كيفية الإنشاء:** خذ مسألة جمع أو طرح عادية واستبدل واحدًا أو أكثر من الأرقام. استخدم نفس الحرف عند استبدال نفس الرقم. في هذا المثال، يتم استبدال الرقم ٦ بالحرف \"A“ في كلا المكانين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**ألغاز خاصة:** تتيح ظروف هذا النوع من الألغاز إنشاء تحديات مثيرة لحل المشكلات. يتطلب ذلك بعض التصميم، ولكن النتيجة هي بعض الألغاز الممتعة.\n"
+"\n"
+"لاحظ أن قيم الحروف لا تنتقل من لغز إلى آخر. الحرف \"B“، الذي قيمته ١ في هذا اللغز الأول، قيمته ٤ في اللغز الثاني."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "ملء المناطق بالأشكال"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"افترض أن لديك لوحة شطرنج ٨ في ٨ ومجموعة من البلاط ١ في ٢. العثور على طريقة لتغطية لوحة الشطرنج بالكامل بـ ٣٢ من هذه البلاط ١ في ٢ أمر بسيط بما فيه الكفاية.\n"
+"\n"
+"**إزالة الزوايا:** لنبدأ باللعب بإزالة المربعات من لوحة الشطرنج. إذا قمت بإزالة زاوية واحدة من لوحة الشطرنج، ستعرف فورًا أنك لم تعد تستطيع تغطية لوحة الشطرنج بالبلاط لأن البلاط سيغطي عددًا زوجيًا من المربعات، والآن هناك ٦٣ مربعًا. حسنًا، قم بإزالة زاويتين لجعل العدد المتبقي من المربعات زوجيًا - هل يمكنك تغطيته الآن؟ تعتمد الإجابة على الزاويتين اللتين تزيلهما. لماذا؟ ماذا لو لم تعد تقيد نفسك بإزالة الزوايا، ماذا يحدث؟\n"
+"\n"
+"**التعلم من الأمثلة الأصغر:** درس مهم في التعامل مع أسئلة مثل هذه هو التعلم من المشكلات الأصغر. جرب هذه الأسئلة على لوحة ٤ في ٤ أو ٦ في ٦ أولاً."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "تفرع إلى استخدام أشكال أخرى لملء اللوحة. العب بملئها بالبلاط ١ في ٣ أو بثلاثة مربعات على شكل L. ما الأنماط والقواعد التي تكتشفها مع هذه؟ ما الأشكال الأخرى التي قد تكون مثيرة للاهتمام للنظر فيها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "ملء المربعات بالمربعات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "الأشكال داخل الأشكال"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**التحدي:** بأي طرق يمكنك ملء مربع بمربعات أخرى، حيث لا يجب أن تكون جميع المربعات بنفس الحجم؟ السؤال هو: ما هي جميع أعداد المربعات الممكنة؟ بالنسبة لتلك التي تكون ممكنة، هل هناك طريقة سهلة لوصف كيفية القيام بذلك؟\n"
+"\n"
+"دع طفلك يلعب بها على مدى أيام عديدة دون أي عجلة للحصول على إجابة. هنا رسم بياني يوضح كيف يمكن تحقيق ٦."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr "ماذا يحدث إذا سمحت فقط بمربعات بأحجام معينة، مثل ١ في ١، ٢ في ٢، و٣ في ٣؟ ماذا يحدث عند ملء أشكال أخرى بأشكال لها نفس الشكل؟ على سبيل المثال، استخدم الأشكال التي هي مثلثات منتظمة (مثلثات جميع جوانبها بنفس الطول). ما الأشكال التي تكون مثيرة للاهتمام للتحقيق بهذه الطريقة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "لعبة الناتج"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**الإعداد:** استخدم قطعة ورق مشتركة مملوءة كما هو موضح."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**كيف تلعب:** يقوم اللاعب الأول بتحريك رمز إلى أي رقم من ١ إلى ٩ في المربعات ١-٩. يقوم اللاعب الثاني بوضع رمز آخر على أحد المربعات ١-٩ ويطالب بالناتج في الشبكة ٦ في ٦. من ثم، يختار كل لاعب تحريك أي من الرمزين ويطالب بالناتج (إذا استطاع)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**كيف تفوز:** اللاعب الأول الذي يحصل على ٣ مربعات على التوالي يفوز.\n"
+"\n"
+"**التنوع:** امزج أرقام النتائج لتوفير ممارسة أفضل لطفلك في تحديد النتائج. أيضًا، راجع المواد الإضافية للمرحلة ٥ لتصميمات اللوحات الأكبر مع نطاقات أكبر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "القفز بالنتائج بين الجزر"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "الضرب والمضاعفات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"تحتوي هذه الألغاز على جزر (دوائر ومربعات) متصلة بجسور (خطوط). إذا كانت هناك دائرتان على جانبي مربع، فإن المربع يحتوي على حاصل ضرب الدائرتين.\n"
+"\n"
+"**التحدي:** املأ الأرقام المفقودة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**كيفية الإنشاء:** قم بإنشاء هذه الألغاز عن طريق ملء الدوائر، ثم ملء المربعات، وأخيرًا إزالة بعض الأرقام قبل إعطائها لطفلك.\n"
+"\n"
+"بالإضافة إلى ممارسة الضرب، يمكن هيكلة هذه الألغاز لممارسة العوامل المشتركة أيضًا. في اللغز الأول، الرقم الوحيد، بخلاف ١، الذي يقسم ١٤ و٢١ هو ٧، لذا فإن هذا هو الرقم في الدائرة السفلية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "قم بعد الجيران"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**الإعداد:** استخدم ثلاثة نرد ولوحة ٨ في ٨ تحتوي على أرقام من ١ إلى ٦٤.\n"
+"\n"
+"**كيف تلعب:** يقوم اللاعب برمي النرد ويستخدم الجمع، الطرح، الضرب، والقسمة لتكوين أي رقم غير محدد على اللوحة. يقوم اللاعب بتحديد هذا المربع ويحصل على نقطة واحدة للمربع بالإضافة إلى نقطة أخرى لكل مربع محدد يلمسه، بما في ذلك بشكل قطري. إذا لم يتمكن اللاعب من اللعب، يمكن لأي لاعب آخر يجد لعبة أن يطالب بتلك النقاط.\n"
+"\n"
+"**كيف تفوز:** العب خمس جولات أو أكثر، والفائز هو من يحصل على أكبر عدد من النقاط."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "بعض خيارات اللعبة هي استخدام نرد رابع، واستخدام لوحة أصغر أو أكبر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "صنع المحمول"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**الإعداد:** يتم إعطاؤك بعض الأوزان وتصميم لمحمول يحتوي على بعض نقاط التعلق. التحدي هو وضع وزن واحد كحد أقصى لكل نقطة تعلق بحيث يتوازن المحمول على طول كل ذراع. افترض أن الأسلاك بلا وزن. كل ذراع في المحمول هو رافعة تحتاج إلى التوازن، لذا فإن هذه الألغاز هي امتداد للغز توازن الرافعة الذي تم تقديمه في وقت سابق في هذه المرحلة - مارس تلك الألغاز قبل البدء في هذه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**مثال بسيط:** ابدأ بأبسط المحمولات، وهي مجرد رافعات في الهواء. هنا حل لوضع الأوزان من ١ إلى ٤ على هذا المحمول لتوازنه. هذا يعمل لأن ٢ × ٤ + ١ × ٢ = ٤ × ١ + ٣ × ٢.\n"
+"\n"
+"**مثال أكثر تعقيدًا:** استخدم مجموع الأوزان أسفلها لتوازن كل جانب من السلك العلوي (١ + ٣) × ٣ = (٤ + ٢) × ٢."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "انتقل إلى المواد الإضافية للمرحلة ٥ لمزيد من الأمثلة ومناقشة أطول حول المحمولات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "الآلات الحاسبة المحدودة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "الجمع والطرح والضرب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**الإعداد:** افترض أن لديك آلة حاسبة معطلة بشدة وتم تحديك لإنتاج نتيجة معينة على الآلة الحاسبة. من السهل لعب هذا شفهيًا كلما كان لديك لحظة فراغ. إليك بعض الأمثلة لتبدأ بها.\n"
+"\n"
+"**مثال:** افترض أن لديك آلة حاسبة تحتوي على +، -، ×، و /، ولكن بها مفتاح رقم واحد يعمل فقط، وهو ٤. هل يمكنك الحصول على النتيجة ٢١؟ إذا كان الأمر كذلك، ما هو أقل عدد من الخطوات التي ستحتاجها؟ افترض أنه يمكنك استخدام ٤ بحد أقصى أربع مرات - ما هي الأرقام التي يمكنك إنتاجها؟ افترض أنه يجب عليك استخدام ٤ بالضبط أربع مرات. العب مع وجود مفاتيح فردية أخرى وإنشاء نتائج أخرى."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**مثال:** افترض أن الآلة الحاسبة يمكنها فقط إضافة ٤ أو ٧. ما هي الأرقام التي يمكنك إنتاجها؟\n"
+"\n"
+"**مثال:** افترض أن الآلة الحاسبة تحتوي فقط على ٤ أو ٧، ولكن الآن يمكنها الجمع والطرح. ما هي الأرقام الإضافية التي يمكنك إنتاجها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"هذه هي نفس الأنشطة التي رأيناها سابقًا في إعدادات أخرى، مثل ميزان المقلاة.\n"
+"\n"
+"**مثال:** افترض أن لديك مفتاح ١ فقط ويمكنك فقط الجمع أو المضاعفة. على سبيل المثال، ٢ × (٢ × ١) + ١ هو ٥. ما هي الأرقام الأخرى التي يمكنك إنشاؤها؟\n"
+"\n"
+"**مثال:** تحدي ممتع هو تحدي الأربعة ٤. افترض أن لديك آلة حاسبة تحتوي فقط على مفتاح ٤، مع عمل جميع العمليات. بدءًا من ١، كم عدد الأرقام التي يمكنك إنشاؤها إذا كان يجب عليك استخدام أربعة ٤ بالضبط في عملك على الآلة الحاسبة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "التقاط العوامل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "العوامل والمضاعفات"
 
 #. type=data_list
 msgctxt "data_list"
