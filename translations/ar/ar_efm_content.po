@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-21 02:34\n"
+"PO-Revision-Date: 2024-09-21 03:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10677,6 +10677,32 @@ msgstr ""
 "* نقطة واحدة لكل لاعب يصل إلى الهدف. يتم جمع النقاط على مدار عدة جولات.\n"
 "* درجة اللاعب لجولة هي الفرق بين نتيجته والهدف. يتم جمع الدرجات على مدار عدة جولات، والفائز هو من يحصل على أقل مجموع درجات.\n"
 "* يكسب اللاعب ضعف عدد النقاط بقدر عدد البطاقات التي يستخدمها للوصول إلى الهدف؛ يحصل اللاعب على ٥ نقاط للوصول إلى الهدف بمساعدة؛ ويحصل اللاعب على ٦ نقاط لمساعدة شخص آخر في الوصول إلى الهدف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PARENTHESES PUZZLES"
+msgstr "ألغاز الأقواس"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Take an expression, such as \n"
+"\n"
+"2 + 7 × 5 − 2 × 2\n"
+"\n"
+"and add parentheses to it so that a target result, say 9, is obtained.\n"
+"\n"
+"**How to create:** These are easy to create and tailor to you child's skill set. Take any equation, in our case \n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+"and then remove the parentheses. It's as simple as that! \n"
+"\n"
+"Use the operations and numbers that your child is comfortable with. Use shorter expressions and fewer parentheses to make simpler puzzles."
+msgstr ""
+"**التحدي:** خذ تعبيرًا مثل ٢ + ٧ × ٥ − ٢ × ٢، وأضف إليه أقواسًا بحيث يتم الحصول على نتيجة مستهدفة، لنقل ٩\n"
+"\n"
+"**كيفية الإنشاء:** من السهل إنشاء هذه الألغاز وتكييفها مع مستوى مهارة طفلك. خذ أي معادلة، في هذه الحالة ٩ = (٢+٧) × (٥−٢×٢)، ثم قم بإزالة الأقواس. الأمر بهذه البساطة! استخدم العمليات والأرقام التي يشعر طفلك بالراحة معها. استخدم تعبيرات أقصر وأقواس أقل لجعل الألغاز أبسط."
 
 #. type=data_list
 msgctxt "data_list"
