@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-21 21:33\n"
+"PO-Revision-Date: 2024-09-21 22:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11516,8 +11516,42 @@ msgstr "التقاط العوامل"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**الإعداد:** استخدم لوحة تحتوي على شبكة ٤ في ٦ من الأرقام من ١ إلى ٢٤.\n"
+"\n"
+"**كيف تلعب:** في الدور، يختار اللاعب رقمًا غير مغطى وله على الأقل عامل واحد غير مغطى - يحصل اللاعب على الرقم المختار ويحصل اللاعب الآخر على أي أو كل العوامل غير المغطاة (اختياره لعددها). يتناوب اللعب حتى لا يتبقى أرقام قانونية.\n"
+"\n"
+"**كيف تفوز:** يجمع اللاعبون أرقامهم والفائز هو من يحصل على المجموع الأعلى.\n"
+"\n"
+"**لعبة جامع الضرائب الفردية:** يمكن لعب هذه اللعبة أيضًا كلغز فردي، يسمى جامع الضرائب. يختار اللاعب كل رقم ويحصل جامع الضرائب على جميع العوامل المتاحة. يستمر اللعب حتى لا يكون لدى اللاعب حركة قانونية. في هذه المرحلة، يحصل جامع الضرائب على الأرقام المتبقية. الهدف هو الحصول على أكبر مجموع ممكن - أكبر من جامع الضرائب عندما يكون ذلك ممكنًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "حدد نطاق الأرقام وفقًا لمستوى مهارة اللاعبين. يمكن أن يكون من ١ إلى ١٢، أو حتى ١ إلى ٦٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "كرة البلياردو المرتدة"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Factors and Multiples"
 msgstr "العوامل والمضاعفات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "تخيل طاولة بلياردو تحتوي على جيب في كل زاوية من الزوايا الأربع. عندما ترتد الكرة عن جانب الطاولة، ترتد بزاوية نفسها التي دخلت بها."
 
 #. type=data_list
 msgctxt "data_list"
