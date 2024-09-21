@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-21 22:34\n"
+"PO-Revision-Date: 2024-09-21 23:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11552,6 +11552,180 @@ msgstr "العوامل والمضاعفات"
 msgctxt "data_list"
 msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
 msgstr "تخيل طاولة بلياردو تحتوي على جيب في كل زاوية من الزوايا الأربع. عندما ترتد الكرة عن جانب الطاولة، ترتد بزاوية نفسها التي دخلت بها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "المضاعفة أو لا شئ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**الإعداد:** يبدأ اللاعبون اللعبة باختيار ٥ أرقام مميزة سرًا أكبر من ٢٠ وأقل من ١٢١. بعد إجراء جميع الاختيارات، يتم كتابتها حيث يمكن للجميع رؤيتها.\n"
+"\n"
+"**كيف تلعب:** باستخدام بطاقات الأرقام أو أي جهاز آخر، يتم إنشاء رقم عشوائي من ١ إلى ٢٠. يتم مضاعفة هذا الرقم بشكل متكرر حتى يتم الوصول إلى رقم أحد اللاعبين لأول مرة أو يصبح الرقم أكبر من ١٢٠.\n"
+"\n"
+"**كيف تفوز:** أول لاعب يصل إلى جميع الأرقام الخمسة هو الفائز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "استراتيجيات اختيار الأرقام"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "من السيء اختيار رقم، مثل ٤٦، ليس قوة ٢ مضروبة في رقم بين ١ و٢٠ - لن يتم الوصول إليه أبدًا. بعض الأرقام التي تحتوي على الكثير من عوامل ٢، مثل ٣٢، من المرجح أن يتم الوصول إليها لأن المزيد من الأرقام البدء يمكن أن تصل إليها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "يمكنك مضاعفة الرقم ثلاث مرات بدلاً من مضاعفته مرتين. يمكنك مضاعفته وإضافة ١ في كل مرة. بالنسبة للاعبين الأصغر سنًا، اختر أرقامًا أكبر من ١٠ وليس أكبر من ٦٠، واختر رقمًا عشوائيًا من ١ إلى ١٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "الحرب مع العوامل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "حساب العوامل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**الإعداد:** حصل على مجموعتين من البطاقات، لنقل من ١ إلى ٢٥.\n"
+"\n"
+"**كيف تلعب:** العب لعبة الحرب القياسية بهذه البطاقات، ولكن الآن الفائز هو البطاقة التي تحتوي على المزيد من العوامل. على سبيل المثال، ١٢ يهزم ١٦ لأن ١٢ يحتوي على ٦ عوامل ١، ٢، ٣، ٤، ٦، و١٢) بينما يحتوي ١٦ على ٥ عوامل ١، ٢، ٤، ٨، و١٦). يجب أن يكون حامل البطاقة الفائزة قادرًا على سرد العوامل بشكل صحيح للفوز بالبطاقات - وإلا، يتم خلط البطاقات مرة أخرى في كومة السحب لكل لاعب. كما هو الحال في حرب القياسية، عندما يكون هناك تعادل، يتم قلب البطاقات التالية والفائز يحصل على جميع البطاقات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "يمكنك اللعب بأن العدد الأصغر من العوامل يفوز. يمكنك حساب مجموع العوامل الأولية فقط بدلاً من جميع العوامل. يمكنك اللعب بأن قوى الأعداد الأولية (الأرقام التي هي قوة عدد أولي) تهزم الأرقام الأخرى."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "عبور البركان"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**الإعداد:** استخدم مخطط ١٠٠ مع ٣٦ مربعًا على الحواف الأربعة ملونة باللون الرمادي. استخدم بطاقات اللعب مع إزالة بطاقات الصور أو استخدم بطاقات الأرقام من ١ إلى ١٠.\n"
+"\n"
+"**كيف تلعب:** في الدور، إذا اخترت ١ يمكنك المطالبة بأي رقم فردي؛ إذا اخترت أي رقم آخر، يمكنك المطالبة بأي مضاعف له. إذا طالبت برقم، لا يمكن لمنافسك المطالبة به. الهدف هو إنشاء مسار من حافة إلى الحافة المقابلة، في أي اتجاه. لا تحتاج إلى المطالبة بالمربعات بترتيب مسارك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "يمكنك اللعب بأن الاتصالات القطرية مسموحة أو غير مسموحة. خيار آخر هو تضمين بطاقات الصور - إذا حصلت على واحدة من هذه، يمكنك وضع مربع محظور لا يمكن تضمينه في مسار أي شخص."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "رياضيات الداما"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "ألعاب لوحة الضرب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**الإعداد:** هذه اللعبة مستوحاة بشكل خفيف من لعبة الداما. كل لاعب لديه ١٠ عدادات. العدادات مرقمة من ١ إلى ١٠، مع وضع علامة على العداد \"١٠“ بـ ١٠ و١١. تبدأ العدادات في الصفوف النهائية من مخطط ١٠٠ - لاعب واحد على المربعات ١ إلى ١٠ والآخر على المربعات ٩١ إلى ١٠٠.\n"
+"\n"
+"**كيف تلعب:** في البداية، يمكن للعدادات التحرك \"للأمام“ صفًا واحدًا على أي مضاعف للأرقام على العلامة التي يختارونها - بالنسبة للاعب الذي يبدأ من ١ إلى ١٠، يعني الأمام أرقامًا أكبر، وبالنسبة للاعب الذي يبدأ من ٩١ إلى ١٠٠، يعني الأمام أرقامًا أصغر. بمجرد أن يصل العداد إلى الطرف الآخر من اللوحة، يصبح ملكًا ويمكنه بعد ذلك التحرك للأمام أو للخلف صفًا واحدًا بعد ذلك. يتم أخذ قطعة الخصم عن طريق الهبوط عليها. لا يمكن لقطعة اللاعب أن تتضاعف مع قطعة أخرى لنفس اللاعب.\n"
+"\n"
+"**كيف تفوز:** أن تفوز بأخذ جميع قطع خصمك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "التنوع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "بالنسبة للاعبين الأصغر سنًا، قصر اللوحة على استخدام الصفوف الستة الأولى - الأرقام من ١ إلى ٦٠. يمكن للطفل الذي لا يعرف جميع المضاعفات بعد استخدام العد القفزي لمعرفة الحركات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "بينغو الضرب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**الإعداد:** يبدأ كل لاعب بمصفوفة ٤ في ٤ من الأرقام التي يمكن أن تكون نتائج ضرب - يمكن تعيين هذه الأرقام عشوائيًا أو اختيارها بعناية من قبل اللاعب.\n"
+"\n"
+"**كيف تلعب:** للبدء، يتم توزيع بطاقتين ووضعهما مكشوفتين على الطاولة. إذا كان لدى أي لاعب حاصل ضرب هذين الرقمين، فإنه يغطيه. من ثم، يتناوب اللاعبون على أخذ البطاقة العلوية من كومة السحب واختيار أي من البطاقتين لاستبدالها. يغطي جميع اللاعبين الذين لديهم تطابق مع الناتج.\n"
+"\n"
+"**كيف تفوز:** أول لاعب يحصل على ٤ على التوالي هو الفائز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "لنتائج المتقاطعة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "النتائج المثيرة للاهتمام"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"هذا اللغز الضربي هو إما ٣ في ٣ يتضمن كل من الأرقام من ١ إلى ٦ مرة واحدة بالضبط، أو ٤ في ٤ يتضمن الأرقام من ١ إلى ٨ مرة واحدة بالضبط.\n"
+"\n"
+"**التحدي:** املأ بعض المربعات، رقمين لكل صف ولكل عمود، بحيث يكون حاصل ضرب الأرقام في الصف هو الرقم المحدد إلى أقصى اليسار وحاصل ضرب الأرقام في العمود هو الرقم المحدد فوق العمود. قد لا يتم تحديد بعض الصفوف أو الأعمدة - إذا كان الأمر كذلك، فلا يوجد قيد على حاصل ضرب تلك الصفوف أو الأعمدة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**أمثلة للحل:** حل هذا اللغز عن طريق العثور على الأعمدة والصفوف حيث يمكنك تحديد الرقمين. يجب أن يحتوي عمود ٣٠ على ٥ و٦، ويجب أن يحتوي صف ١٠ على ٢ و٥. بعد ذلك، يجب أن يحتوي عمود ١٢ على ٣ و٤ ويجب أن يحتوي صف ٤على ١ و٤. يتبع الباقي بسرعة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"يجب أن يحتوي صف ٥ في هذا اللغز على ١ و٥، ويحتوي صف ٢١ على ٣ و٧، ويحتوي صف ٣٢ على ٤ و٨، ويحتوي الصف العلوي، عن طريق الإقصاء، على ٢ و٦. يحتوي عمود ٧ على ١ و٧، ويحتوي عمود ٤٠ على ٥ و٨، ويحتوي عمود ١٨ على ٣ و٦، ويحتوي العمود الثاني على ٢ و٤. اجمع هذا معًا للحصول على الحل.\n"
+"\n"
+"**كيفية الإنشاء:** كما هو الحال غالبًا مع هذه الألغاز، يمكن للبالغين إنشاؤها عن طريق ملء الأرقام داخل اللغز أولاً، وكتابة النتائج، ثم إزالة جميع الأرقام الداخلية."
 
 #. type=data_list
 msgctxt "data_list"
