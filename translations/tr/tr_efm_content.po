@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-09-22 21:34\n"
+"PO-Revision-Date: 2024-09-22 22:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1186,6 +1186,378 @@ msgstr "Atış ve yakalama sayısını sayın. Aynı sayıdalar mı?"
 msgctxt "data_list"
 msgid "Did each animal throw and each animal catch?"
 msgstr "Her bir hayvan atıp, her bir hayvan yakaladı mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are good at taking turns. Are you good at taking turns?"
+msgstr "Onlar, sırayla yapmakta iyiler. Siz sırayla hareket etmekte iyi misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye Elephant."
+msgstr ""
+"Güle güle, Kedi.\n"
+"\n"
+"Güle güle, Köpek.\n"
+"\n"
+"Güle güle, Fil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of animals waving."
+msgstr "El sallayan hayvanların sayısını çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more animals or balls? By how much?"
+msgstr "Orada daha fazla hayvan veya daha fazla top var mı? Ne kadar fazla?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With fewer balls than animals, the animals must be good at sharing."
+msgstr "Hayvanlardan daha az sayıda toplarla, hayvanlar paylaşmada iyi olmalılar!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has stripes and which one has spots? How many stripes and how many spots?"
+msgstr "Hangisinin çizgileri ve hangisinin benekleri var? Kaç çizgi ve kaç benek var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has whiskers we can see? How many whiskers?"
+msgstr "Hangisinin bıyıkları olduğunu görebiliyoruz? Kaç tane bıyık var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one is red and which one is yellow?"
+msgstr "Hangisi kırmızı ve hangisi sarı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog look through the window.\n"
+"\n"
+"They look through the window."
+msgstr ""
+"Kedi ve Köpek, pencereden bakıyor.\n"
+"\n"
+"Onlar pencereden bakıyorlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times does it say that they are looking through the window? The writer repeats it to tell us that Cat and Dog have nothing to do."
+msgstr "Hikâye, onların pencereden baktıklarını kaç kere söylüyor? Yazar, Kedi ve Köpek’in yapacak hiçbir şeylerinin olmadığını bize anlatmak için pencereden baktıklarını tekrarlıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Cat and Dog look bored?"
+msgstr "Kedi ve Köpek, sıkılmış gibi mi görünüyorlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of trees."
+msgstr "Ağaçların sayısını çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat and Dog see a butterfly!\n"
+"\n"
+"The butterfly is pink."
+msgstr ""
+"Sonra, Kedi ve Köpek bir kelebek görürler!\n"
+"\n"
+"Kelebek pembedir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why were Cat and Dog so excited to see a butterfly? Were they looking for one?"
+msgstr "Bir kelebeği görmek Kedi ve Köpek’i neden bu kadar heyecanlandırdı? Bir kelebek mi arıyorlardı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the wings on the butterfly."
+msgstr "Kelebekteki kanatları gösterip sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the short lines going away from the butterfly. They show the butterfly is alarmed."
+msgstr "Kelebekten uzaklaşan kısa çizgileri işaret edip sayın. Kısa çizgiler kelebeğin paniğe kapılmış olduğunu gösterir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog want to catch the butterfly.\n"
+"\n"
+"Cat and Dog follow the butterfly.\n"
+"\n"
+"They follow the butterfly."
+msgstr ""
+"Kedi ve Köpek, kelebeği yakalamak istiyorlar.\n"
+"\n"
+"Kedi ve Köpek, kelebeği takip ediyorlar.\n"
+"\n"
+"Onlar kelebeği takip ediyorlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the butterfly want to be caught?"
+msgstr "Kelebek yakalanmayı istiyor mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it mean of Cat and Dog to want to catch the butterfly?"
+msgstr "Kedi’nin ve Köpek’in, kelebeği yakalamak istemeleri kötü bir şey mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When is it fun to be chased and when is it frightening?"
+msgstr "Kovalanmak ne zaman eğlencelidir ve ne zaman korkutucu olur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by foot. They walk after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is too fast and Cat and Dog are slow. They are too slow."
+msgstr ""
+"Kedi ve Köpek, kelebeği yürüyerek mi takip ediyorlar? Onlar, kelebeğin peşinden yürüyorlar.\n"
+"\n"
+"Ama kelebek hızlı. Kelebek çok hızlı ve Kedi ve Köpek ise yavaş. Onlar çok yavaş."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is going the fastest?"
+msgstr "Hangi hayvan en hızlı gidiyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you go faster or slower than Cat and Dog?"
+msgstr "Siz, Kedi ve Köpek’ten daha hızlı mı yoksa daha yavaş mı gidebilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out that their feet are drawn going in circles to indicate they are running fast."
+msgstr "Hızlı koştuklarını belirtmek için ayaklarının daireler çizerek gittiklerini belirtin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by bike. They ride after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is very fast, and Cat and Dog are slow. They are very slow."
+msgstr ""
+"Kedi ve Köpek, kelebeği bisikletle takip ediyorlar. Onlar, kelebeğin peşinden bisiklet sürerek gidiyorlar.\n"
+"\n"
+"Ama kelebek hızlı ve Kedi ve Köpek ise yavaş. Onlar çok yavaş."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can butterflies fly faster than a bike can go?"
+msgstr "Kelebekler bir bisikletin gidebileceğinden daha hızlı uçabilirler mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can cats and dogs ride bikes?"
+msgstr "Kediler ve köpekler bisiklet sürebilirler mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you could catch a butterfly while riding a bike?"
+msgstr "Bisiklet sürerken bir kelebeği yakalayabileceğini düşünüyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by car. They drive after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is still too fast, and Cat and Dog are slow. They are still too slow."
+msgstr ""
+"Kedi ve Köpek, kelebeği arabayla takip ediyorlar. Kelebeğin peşinden araba sürerek gidiyorlar.\n"
+"\n"
+"Ama kelebek hızlı. Kelebek hâlâ çok hızlı ve Kedi ve Köpek ise yavaş. Onlar hâlâ çok yavaşlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can a butterfly or a bird fly faster than a car?"
+msgstr "Bir kelebek veya bir kuş, bir arabadan daha hızlı uçabilir mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can a real dog drive a car?"
+msgstr "Gerçek bir köpek bir araba sürebilir mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the clouds in the sky."
+msgstr "Gökyüzündeki bulutları çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by boat. They float after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is super-fast, and Cat and Dog are slow. They are still super-slow."
+msgstr ""
+"Kedi ve Köpek, kelebeği tekneyle takip ediyorlar. Onlar su üzerinde kelebeğin peşinden gidiyorlar.\n"
+"\n"
+"Ama kelebek hızlı. Kelebek süper hızlı ve Kedi ve Köpek ise yavaş. Onlar hâlâ süper yavaşlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of fish."
+msgstr "Balıkların sayısını sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Including Cat and Dog, count the number of animals."
+msgstr "Kedi ve Köpek de dahil, hayvanların sayısını çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fish look surprised. Why are they surprised?"
+msgstr "Balıklar şaşırmış görünüyorlar. Onlar neden şaşırmışlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog follow the butterfly by plane. They flow after the butterfly.\n"
+"\n"
+"But the butterfly is fast. The butterfly is still super-super-fast, and Cat and Dog are slow. They are still super-super-slow."
+msgstr ""
+"Kedi ve Köpek, kelebeği uçakla takip ediyorlar. Onlar kelebeğin peşinden süzülerek gidiyorlar.\n"
+"\n"
+"Ama kelebek hızlı. Kelebek hâlâ süper süper hızlı ve Kedi ve Köpek ise yavaş. Onlar hâlâ süper süper yavaşlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think a dog can fly a plane?"
+msgstr "Bir köpeğin bir uçak sürebileceğini düşünüyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of cars, boats, and planes is the fastest and which is the slowest?"
+msgstr "Arabalar, tekneler ve uçaklardan hangisi en hızlı ve hangisi en yavaştır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are up very high. Count together the clouds where they are."
+msgstr "Onlar çok yüksekteler. Onların bulundukları yerdeki bulutları çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The Cat and Dog stop. They stop and sit down. They sit down at a tree.\n"
+"\n"
+"They sit down at a big tree.\n"
+"\n"
+"But then ...."
+msgstr ""
+"Kedi ve Köpek, duruyorlar. Onlar duruyorlar ve oturuyorlar. Onlar bir ağacın dibine oturuyorlar.\n"
+"\n"
+"Onlar, büyük bir ağacın dibine oturuyorlar.\n"
+"\n"
+"Fakat ondan sonra ..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which is longer, Cat's tongue or Cat's legs?"
+msgstr "Hangisi daha uzun, Kedi’nin dili mi yoksa Kedi’nin bacakları mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think cats have tongues that long?"
+msgstr "Sizce kedilerin bu kadar uzun dilleri var mıdır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are their tongues hanging out because Cat and Dog are tired?"
+msgstr "Kedi ve Köpek yorgun oldukları için mi dillerini dışarıya sarkıtmışlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They see one butterfly in the tree.\n"
+"\n"
+"They see two butterflies in the tree.\n"
+"\n"
+"They see three butterflies in the tree."
+msgstr ""
+"Onlar ağaçta bir tane kelebek görüyorlar.\n"
+"\n"
+"Onlar ağaçta iki tane kelebek görüyorlar.\n"
+"\n"
+"Onlar ağaçta üç tane kelebek görüyorlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the butterflies you can see in the tree."
+msgstr "Ağaçta görebildiğiniz kelebekleri çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you can see all the butterflies?"
+msgstr "Bütün kelebekleri görebildiğinizi düşünüyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three types of living things in the picture: trees, Cat and Dog, and butterflies. Which group is the largest and which is the smallest?"
+msgstr "Bu resimde üç tür canlı var: ağaçlar, Kedi ve Köpek ve kelebekler. Hangi grup en büyük ve hangisi en küçüktür?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They see a hundred butterflies!"
+msgstr "Onlar yüz tane kelebek görüyorlar!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many butterflies can you count? Are there too many for you to count?"
+msgstr "Siz kaç tane kelebek sayabilirsiniz? Sayamayacağınız kadar çok mu var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different colors of butterflies are there?"
+msgstr "Orada kaç farklı renkte kelebek var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For which color of butterfly is there the most?"
+msgstr "Orada en çok hangi renk kelebek var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye butterflies."
+msgstr ""
+"Güle güle, Kedi.\n"
+"\n"
+"Güle güle, Köpek.\n"
+"\n"
+"Güle güle, kelebekler."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are you happy or sad that Cat and Dog caught a butterfly?"
+msgstr "Kedi ve Köpek’in bir kelebeği yakalamalarına mutlu mu yoksa üzgün müsünüz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In the picture, who do you think is happy and who is sad?"
+msgstr "Bu resimde, sizce kim mutlu ve kim üzgün?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long do you think a butterfly can live in a jar?"
+msgstr "Sizce bir kelebek bir kavanozda ne kadar uzun yaşayabilir?"
 
 #. type=data_list
 msgctxt "data_list"
