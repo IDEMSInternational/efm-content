@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-09-21 23:34\n"
+"PO-Revision-Date: 2024-09-22 04:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11552,6 +11552,21 @@ msgstr "العوامل والمضاعفات"
 msgctxt "data_list"
 msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
 msgstr "تخيل طاولة بلياردو تحتوي على جيب في كل زاوية من الزوايا الأربع. عندما ترتد الكرة عن جانب الطاولة، ترتد بزاوية نفسها التي دخلت بها."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"ينظر هذا التحقيق في السؤال: إذا أطلقنا كرة بزاوية ٤٥ درجة من زاوية واحدة، أين ستنتهي؟\n"
+"\n"
+"تعتمد الإجابة على حجم الطاولة. هذا ما يحدث على طاولة ٣ في ٤.\n"
+"\n"
+"بعد اللعب بأحجام مختلفة من الطاولات، اطلب من طفلك أن يتنبأ بالإجابة للأحجام الجديدة. بدءًا من الزاوية السفلية اليسرى، أي زاوية سيتم ضربها أولاً وكم عدد الارتدادات التي ستحدث؟"
 
 #. type=data_list
 msgctxt "data_list"
