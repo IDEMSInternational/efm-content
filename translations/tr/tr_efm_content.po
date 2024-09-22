@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-09-22 22:34\n"
+"PO-Revision-Date: 2024-09-22 23:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1558,6 +1558,66 @@ msgstr "Bu resimde, sizce kim mutlu ve kim üzgün?"
 msgctxt "data_list"
 msgid "How long do you think a butterfly can live in a jar?"
 msgstr "Sizce bir kelebek bir kavanozda ne kadar uzun yaşayabilir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have two ears. Whose ears are bigger?"
+msgstr "İkisinin de iki kulağı var. Hangisinin kulakları daha büyük?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have one tail. Whose tail is longer?"
+msgstr "İkisinin de bir kuyruğu var. Hangisinin kuyruğu daha uzun?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have markings on their belly. Whose markings are bigger?"
+msgstr "İkisinin de karnında işaretler var. Hangisinin işaretleri daha büyük?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk.\n"
+"\n"
+"They walk in their village."
+msgstr ""
+"Kedi ve Köpek yürüyorlar.\n"
+"\n"
+"Onlar, köylerinde yürüyorlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the homes in the village."
+msgstr "Köydeki evleri çocuğunuzla beraber sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many things to count together -- one bird, one cat, one dog, three animals, three buildings, and one tree."
+msgstr "Birlikte sayılacak birçok şey var – bir kuş, bir kedi, bir köpek, üç hayvan, üç bina ve bir ağaç."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two of the buildings are round around the base. The third one has a base shaped like this page."
+msgstr "Binalardan ikisinin tabanı yuvarlak. Üçüncüsünün tabanı bu sayfanın şekline benziyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then they see an egg.\n"
+"\n"
+"The egg is in the grass.\n"
+"\n"
+"The egg is alone in the grass.\n"
+"\n"
+"The egg is all alone."
+msgstr ""
+"Sonra, bir yumurta görürler.\n"
+"\n"
+"Yumurta çimenlerin içinde.\n"
+"\n"
+"Yumurta çimenlerin içinde tek başına.\n"
+"\n"
+"Yumurta yapayalnız."
 
 #. type=data_list
 msgctxt "data_list"
