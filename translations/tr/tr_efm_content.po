@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-09-23 17:25\n"
+"PO-Revision-Date: 2024-09-23 18:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5430,4 +5430,530 @@ msgstr "Resimdeki adamın kolyesinde sarı ve kırmızı boncuklardan oluşan te
 msgctxt "data_list"
 msgid "He has loops for his ears. How many looping pieces of clothing does he have? Be sure to look all over."
 msgstr "Kulaklarında halkalar var. Adamın üzerinde kaç tane halka şeklinde (veya ilmekli) parçalar var? Her tarafına baktığınızdan emin olun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This tree lives when everything else is dry."
+msgstr "Bu ağaç, diğer her şey kuruduğunda bile yaşar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Water is needed by most living things. Palm trees are smart about using very little water in a dry place."
+msgstr "Su çoğu canlı için gereklidir. Palmiye ağaçları kurak yerlerde çok az su kullanma konusunda akıllıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The branches split into two branches as they go up. Count the branches at the top of what we can see before the leaves."
+msgstr "Dallar yukarılara doğru gittikçe iki dala ayrılır. Ağacın yapraklar başlamadan önceki kısmındaki görebildiğiniz dallarını sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the bones and stones on the ground."
+msgstr "Yerdeki kemikleri ve taşları sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The shade from a palm tree is always cool."
+msgstr "Bir palmiye ağacının gölgesi her zaman serindir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there something special about the shade of a palm tree that makes it cool?"
+msgstr "Palmiye ağacının gölgesini serin yapan özel bir şey var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the shade of all trees cool?"
+msgstr "Tüm ağaçların gölgeleri serin midir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This person barely fits inside this shade. Why did he pick such a small tree? Maybe there aren't any other trees nearby?"
+msgstr "Bu kişi bu gölgenin içine zar zor sığıyor. Neden bu kadar küçük bir ağaç seçti? Belki yakınlarda başka ağaç yoktur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We eat fruit from the palm tree."
+msgstr "Palmiye ağacından meyveler yeriz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name and count the kinds of fruit you like to eat."
+msgstr "Yemekten hoşlandığınız meyve türlerinin isimlerini söyleyin ve sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their hair is braided into rows. Which one has more rows that you can see? What is the difference between the two numbers -- how many more?"
+msgstr "Resimdekilerin saçları sıra sıra örülmüş. Hangisinde daha fazla sıra var? Örgü sayıları arasındaki fark nedir — bir sayı öbüründen ne kadar daha fazla?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does it make sense that the bigger person would have the bigger number of hair rows?"
+msgstr "Daha büyük bir kişinin saçlarında daha fazla örgü sırasına sahip olması mantıklı mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We use palm leaves to thatch our houses."
+msgstr "Evlerimizin damlarını örtmek için palmiyelerin yapraklarını kullanırız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This house has a round shape. Round houses are easier to build and enclose more space."
+msgstr "Bu ev yuvarlak bir şekle sahip. Yuvarlak evleri inşa etmek daha kolaydır ve daha fazla alan kaplar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any round buildings where you live?"
+msgstr "Sizin yaşadığınız hiç yerde yuvarlak yapılar var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Balls and light bulbs are usually round. What are some round things around you?"
+msgstr "Toplar ve ampuller genellikle yuvarlaktır. Etrafınızdaki yuvarlak şeyler nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We make brooms and mats from palm leaves."
+msgstr "Palmiye yapraklarından süpürgeler ve kilimler (paspaslar) yaparız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of the things around you, which of them look like they are made directly from trees or other natural materials?"
+msgstr "Etrafınızdaki eşyalar arasında hangileri doğrudan ağaçlardan veya diğer doğal malzemelerden yapılmışlar gibi görünüyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of different things in this picture that are made from a palm."
+msgstr "Bu resimdeki palmiye ağacından yapılmış farklı şeyleri çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of loops that she is wearing. Is the number more or less than the man had on an earlier page?"
+msgstr "Resimdeki kadının taktığı halkaların sayısını sayın. Bu sayı, daha önceki sayfadaki adamın sahip olduğu halkaların sayısından daha mı fazla yoksa daha mı az?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We use palm tree seeds for fuel."
+msgstr "Palmiye ağacı tohumlarını yakıt olarak kullanırız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Burning palm tree seeds is one of many possible sources of heat. How do you get heat where you live?"
+msgstr "Palmiye ağacı tohumlarını yakmak olası ısı kaynaklarından biridir. Siz yaşadığınız yerde ısıyı nasıl elde ediyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are other uses for heat besides cooking?"
+msgstr "Yemek pişirmek dışında, ısının diğer kullanım alanları nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An estimate is an educated guess based on partial information. Estimate the number of seeds in that basket. Is it a bigger number than you know?"
+msgstr "Değer biçme (kestirme), kısmi bilgilere dayanan eğitimli bir tahmindir. Bu sepetteki tohumların sayısını tahmin edin (kestirin). Tahmininiz, bildiğiniz sayıdan daha mı büyük?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you see why the palm tree is important?"
+msgstr "Artık palmiye ağacının neden önemli olduğunu anlıyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "List and count how many ways the palm tree is useful to them."
+msgstr "Palmiye ağacının onlar için kaç farklı şekilde faydalı olduğunu listeleyip sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some trees where you live that have important uses?"
+msgstr "Sizin yaşadığınız yerde önemli kullanımları olan bazı ağaçlar nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Whether useful or not, what are some of your favorite trees near you?"
+msgstr "Faydalı olsun veya olmasın, yakınınızdaki en sevdiğiniz ağaçlarınızdan bazıları nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is Ndalo."
+msgstr "Bu, Ndalo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Identify together the kinds of animals you see and count each type."
+msgstr "Çocuğunuzla birlikte, gördüğünüz hayvanların türlerini belirleyip her bir türü sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which type of animal in this picture is there the most of?"
+msgstr "Bu resimdeki hangi hayvan türü orada en çok sayıda olandır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buttons on Ndalo's shirt."
+msgstr "Çocuğunuzla birlikte, Ndalo'nun gömleğindeki düğmeleri sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo likes to read books."
+msgstr "Ndalo kitap okumayı sever."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the books in front of Ndalo on the table."
+msgstr "Çocuğunuzla birlikte, masadaki Ndalo’nun önündeki kitapları sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can see on his face how much he likes to read!"
+msgstr "Ndalo’nun yüzünden onun okumayı ne kadar çok sevdiğini anlayabilirsiniz!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like hearing stories from books?"
+msgstr "Siz kitaplardan hikâyeler okumayı sever misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is Pendo."
+msgstr "Bu, Pendo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many little details in this picture. Count the animals that you can find."
+msgstr "Bu resimde bir sürü küçük ayrıntılar var. Bulabildiğiniz hayvanları sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trees and power poles do you see?"
+msgstr "Kaç tane ağaç ve elektrik direği görüyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the people moving around that you can just barely see."
+msgstr "Etrafta dolaşan zar zor görebildiğiniz insanları gösterip sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo likes to eat carrots."
+msgstr "Pendo havuç yemeyi sever."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you tell by looking at Pendo that Pendo likes carrots?"
+msgstr "Pendo’ya bakarak onun havuç sevdiğini söyleyebilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like eating carrots? What is your favorite vegetable?"
+msgstr "Siz havuç yemeyi sever misiniz? Sizin en sevdiğiniz sebze nedir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo is eating two carrots, and Ndalo is holding three more carrots. What is three more than two?"
+msgstr "Pendo, iki havuç yiyor ve Ndalo ise üç tane havuç tutuyor. İkinin üç fazlası kaçtır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo grazes Pendo after school."
+msgstr "Ndalo, okuldan sonra Pendo’yu otlatır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the different animals in the yard, or just count your favorites."
+msgstr "Bahçedeki tüm farklı hayvanları sayın veya sadece en sevdiklerinizi sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which type of animal is there the most of and which has the least?"
+msgstr "Orada en çok hangi hayvan türünden var ve hangisi en azdır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What food are Pendo and the goats eating? Do you suppose you would like eating grass?"
+msgstr "Pendo ve keçiler hangi yiyecekleri yiyorlar? Siz ot yemeyi seveceğinizi düşünebilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He gives fresh water to Pendo."
+msgstr "Ndalo, Pendo’ya temiz su veriyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo is very good about taking care of Pendo. Do you have any animals that you care for?"
+msgstr "Ndalo, Pendo'ya bakma konusunda çok iyi. Sizin baktığınız bir hayvanınız var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the many colors -- Pendo is brown, Ndalo's shirt is blue, the pail is yellow, the grass is green, and the underside of the water basin is pink."
+msgstr "Birçok renge işaret edin – Pendo kahverengidir, Ndalo'nun gömleği mavidir, kova sarıdır, çimen yeşildir ve su leğeninin altı pembedir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo looks very big next to Ndalo. How many times bigger than Ndalo do you think Pendo is?"
+msgstr "Pendo, Ndalo'nun yanında çok büyük görünüyor. Sizce Pendo, Ndalo'dan kaç kat daha büyüktür?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father gives grain to Pendo."
+msgstr "Ndalo’nun babası Pendo’ya tahıl veriyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is watching Pendo eat the grain.. Do you think the cat wants some of the grain?"
+msgstr "Kedi, Pendo’nun tahılı yemesini seyrediyor. Sizce kedi de tahıldan biraz istiyor mudur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think the cat is waiting for?"
+msgstr "Sizce kedi neyi bekliyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo provides the family with a lot of milk. What does the cat provide the family?"
+msgstr "Pendo, aileye bol bol süt sağlıyor. Kedi, aileye ne veriyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He milks Pendo every day."
+msgstr "Ndalo’nun babası Pendo’yu her gün sağıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is still waiting. Perhaps the cat is hoping for some splashed milk?"
+msgstr "Kedi hâlâ bekliyor. Belki de kedi biraz sıçrayan sütten istiyordur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are Pendo's back two legs tied to a post? Do you think she likes being milked?"
+msgstr "Pendo'nun arka iki bacağı neden elektrik direğine bağlı? Sizce Pendo, sağılmaktan hoşlanıyor mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. Point at a few of the many rectangles in this picture."
+msgstr "Bir dikdörtgen, bu sayfa gibi dört kenarlı bir şekildir. Bu resimdeki birçok dikdörtgenden birkaçını gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo gives a lot of milk."
+msgstr "Pendo çok fazla süt veriyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of milk containers."
+msgstr "Çocuğunuzla birlikte, süt kaplarını sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window behind them is split into parts called panes. How many panes are there?"
+msgstr "Arkalarındaki pencere ‘bölme’ adı verilen kısımlara ayrılmıştır. Orada kaç tane bölme var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Liquid containers are often round, but sometimes milk comes in milk cartons in the shape of boxes."
+msgstr "Sıvı kapları genellikle yuvarlaktır ancak sütler bazen kutu şeklindeki süt kartonlarında da gelir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father sells Pendo's milk."
+msgstr "Ndalo’nun babası Pendo’nun sütünü satıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "His father's shirt has some interesting patterns. Point at and describe the stripes and black diamonds."
+msgstr "Babanın gömleğinde bazı ilginç desenler var. Gömlekteki çizgileri ve siyah elmasları gösterip tarif edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe this woman's colorful dress."
+msgstr "Bu kadının renkli elbisesini tarif edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the picture on the paper on the wall? The sign says \"Milk here.\""
+msgstr "Duvardaki kâğıttaki resim nedir? Tabelada, \"Süt burada!\" yazıyor.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo drinks fresh milk every day."
+msgstr "Ndalo her gün taze süt içer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell Ndalo has been drinking milk?"
+msgstr "Ndalo’nun süt içmiş olduğunu nasıl anlarsınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you drink something, do you end up with the liquid around your mouth?"
+msgstr "Siz bir şey içtiğinizde ağzınızın etrafında sıvı kalır mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many rectangles here. Count the doors and windows that you can see. Are there more or less doors than windows?"
+msgstr "Burada bir sürü dikdörtgen var. Görebildiğiniz kapıları ve pencereleri sayın. Orada pencerelerden daha fazla mı yoksa daha az mı kapı var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He says, \"Thank you Pendo!\""
+msgstr "\"Teşekkür ederim, Pendo!\" diyor Ndalo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo's family feeds and takes care of Pendo, and Pendo gives them milk. Does that seem like a fair trade?"
+msgstr "Ndalo'nun ailesi Pendo’yu besleyip ona bakıyor ve Pendo da onlara süt veriyor. Sizce bu adil bir ticaret gibi mi görünüyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about some of the places your food comes from."
+msgstr "Yiyeceklerinizin geldiği bazı yerler hakkında konuşun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are you thankful for where your food comes from?"
+msgstr "Yiyeceklerinizin geldiği yerlere minnettar mısınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mother Sun decided to visit her sister, the moon. Sister Moon lives on the other side of the sky. \"I will be back soon,\" said Sun to the clouds."
+msgstr "Güneş Ana, kız kardeşi Ay’ı ziyaret etmeye karar verdi. Kız kardeş Ay, gökyüzünün diğer tarafında yaşıyor. “Yakında döneceğim,” dedi Güneş bulutlara."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will change for the clouds and the mountains when the Sun goes away?"
+msgstr "Güneş gidince bulutlar ve dağlar için ne değişecek?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever imagined faces on the clouds and mountains?"
+msgstr "Siz hiç bulutların ve dağların üzerinde yüzlerin olduğunu hayal ettiniz mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five things in the sky. When the sun goes away, how many will be left? What is one less than five?"
+msgstr "Resimde, gökyüzünde beş şey var. Güneş gidince, geriye kaç şey kalacak? Beşin bir eksiği kaçtır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Sun left, the mountains put on their white scarves."
+msgstr "Güneş gittiğinde, dağlar beyaz atkılarını taktı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the mountains put on white scarves when the Sun went away?"
+msgstr "Güneş gidince dağlar neden beyaz atkılar taktılar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many clouds are there? Are there more mountains or clouds on this page?"
+msgstr "Resimde kaç tane bulut var? Bu sayfada dağlardan mı yoksa bulutlardan mı daha fazla var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the clouds doing and what do you think they are feeling?"
+msgstr "Bulutlar ne yapıyorlar ve sizce nasıl hissediyorlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Wind had an argument with the trees. The trees became angry. They threw their leaves all over the place."
+msgstr "Rüzgâr ağaçlarla tartıştı. Ağaçlar sinirlendi. Yapraklarını her tarafa savurdular."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess how many leaves there are blowing around. Do you know numbers that are that big?"
+msgstr "Etrafta uçuşan yaprakların kaç tane olduğunu tahmin edin. Bu kadar büyük sayıları biliyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice how hard the wind is blowing. The leaves are blowing everywhere!"
+msgstr "Rüzgârın ne kadar sert estiğine dikkat edin. Yapraklar her yere savruluyorlar!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind is blowing so hard that the trees are bending over. Have you ever been outside when the wind blew so hard that you had trouble walking?"
+msgstr "Rüzgâr o kadar sert esiyor ki ağaçlar eğiliyor. Hiç rüzgârın çok sert estiği ve yürümekte zorlandığınız bir zamanda dışarıda bulundunuz mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The sky started to grumble.\n"
+"\n"
+"She turned grey."
+msgstr ""
+"Gökyüzü gürlemeye başladı.\n"
+"\n"
+"Rengi griye döndü."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The clouds are worried and anxious. What do you think is about to happen?"
+msgstr "Bulutlar endişeli ve kaygılılar. Sizce ne olacak?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the faces on the clouds. They are in three groups: groups of two, four, and one. How many is that all together?"
+msgstr "Bulutların üstündeki yüzleri sayın. Üç grup halindeler: iki, dört ve bir kişilik gruplar. Toplamda kaç tane yüz var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting the trees, the mountains, and the groups of clouds, there are all the numbers from one to five -- can you find them all?"
+msgstr "Ağaçları, dağları ve bulut gruplarını saydığınızda birden beşe kadar tüm sayılar var – hepsini bulabilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The clouds were sad to see all this. They started crying. There were many tears."
+msgstr "Bulutlar tüm bunları gördükleri için üzgünlerdi. Ağlamaya başladılar. Çok fazla gözyaşı vardı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The clouds may have made rain because they were sad, but some people enjoy watching and listening to the rain. How does the rain make you feel?"
+msgstr "Bulutlar üzgün olduklarından yağmur yağdırmış olabilirler fakat bazı insanlar yağmuru izlemekten ve dinlemekten hoşlanırlar. Yağmur size nasıl hissettiriyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a great many raindrops. Can you count them all, or is it too many?"
+msgstr "Çok fazla yağmur damlası var. Hepsini sayabilir misiniz yoksa sayılamayacak kadar çok mu fazlalar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of something else that there are too many to count."
+msgstr "Sayılamayacak kadar çok olan başka bir şey düşünün."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The whole world began to sink under water."
+msgstr "Tüm dünya suya batmaya başladı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Trees need water, but do you think they like having this much water? The faces on the trees look a little anxious or sad."
+msgstr "Ağaçların suya ihtiyacı var ama sizce bu kadar çok suya sahip olmak hoşlarına gidiyor mudur? Ağaçların yüzleri biraz endişeli veya üzgün görünüyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trees do you count in this picture?"
+msgstr "Bu resimde kaç tane ağaç sayabilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the world sinking under the water, or is the water filling up on top of it?"
+msgstr "Dünya suya mı batıyor yoksa su dünyanın yüzeyini mi dolduruyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Meanwhile, on the other side of the sky, Sun was ready to leave her sister. She kissed the moon goodbye and went home."
+msgstr "Bu sırada, gökyüzünün diğer tarafında, Güneş kız kardeşinden ayrılmaya hazırdı. Ay’a veda öpücüğü verdi ve evine döndü."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think it is possible for the Sun to kiss the Moon?"
+msgstr "Sizce Güneş’in Ay’ı öpmesi mümkün mü?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen stars near the moon or the sun?"
+msgstr "Hiç Ay'ın ya da Güneş'in yakınında yıldızlar gördünüz mü?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sphere is a shape like a ball -- it is round in all directions. The moon and the sun are shaped like spheres, though the moon doesn't always look like it."
+msgstr "Bir küre, top gibi bir şekildir – tüm yönlerinde yuvarlaktır. Ay ve Güneş küre şeklindedir ama Ay her zaman öyle görünmeyebilir."
 
