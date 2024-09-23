@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-09-23 20:20\n"
+"PO-Revision-Date: 2024-09-23 22:33\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6824,4 +6824,84 @@ msgstr "Sizce Lulu kitaplara bakıp okumayı mı seviyor?"
 msgctxt "data_list"
 msgid "Do you?"
 msgstr "Siz sever misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I have lost my bat, and I cannot find it."
+msgstr "Raketimi kaybettim ve onu bulamıyorum."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Though you can only see five of them, there are six panes in the window. What else is there six of?"
+msgstr "Sadece beş tanesini görebilmenize rağmen, pencerede altı tane cam var. Başka nelerden altı tane var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The number of rungs on the ladder is one more than the number of panes -- how many? The number of panes you can see is five, which is one less than the total number of panes."
+msgstr "Merdivendeki basamakların sayısı, camların sayısından bir fazladır — o hâlde, kaç tanedir? Pencerelerdeki görebildiğiniz cam (bölme) sayısı beştir, yani toplam sayıdan bir eksiktir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles have four straight sides and corners like those on this page. Point to and describe the rectangles in the picture."
+msgstr "Dikdörtgenlerin bu sayfa gibi dört düz kenarı ve köşeleri vardır. Resimdeki dikdörtgenleri gösterip tanımlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked behind the door. It was not there."
+msgstr "Kapının arkasına baktım. Orada değildi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice the girl outside the window?"
+msgstr "Pencerenin dışındaki kızı fark ettiniz mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bat is not behind the door -- could it be inside the box?"
+msgstr "Raket kapının arkasında değil — acaba kutunun içinde olabilir mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A box is a 3-dimensional shape with rectangles on every side. Do you see anything else similar to a box? (the door)"
+msgstr "Bir kutu, her tarafında dikdörtgenler olan 3 boyutlu bir şekildir. Kutuyla benzer başka bir şey görüyor musunuz? (kapı)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it on the shelf. I could not find it there."
+msgstr "Rafın üstünde aradım. Orada da bulamadım."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window bangs into the shelf when it opens. That seems like a bad design!"
+msgstr "Pencere açıldığında rafa çarpıyor. Bu pek iyi bir tasarım gibi görünmüyor!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this shelf is too high for a child's room?"
+msgstr "Sizce bu raf bir çocuk odası için çok mu yüksek?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There's that girl riding around again. Notice that the buildings behind her are shaped like big boxes. A lot of buildings are."
+msgstr "İşte yine o kız, etrafta bisiklet sürüyor. Arkasındaki binaların büyük kutular şeklinde olduğuna dikkat edin. Bir sürü bina öyledir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it under the bed. Not there either."
+msgstr "Yatağın altında aradım. Orada da yok."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl's dress matches the bag hanging by the door. Do you think the bag is hers?"
+msgstr "Kızın elbisesi, kapının yanında asılı olan çantayla uyumlu. Sizce bu çanta onun mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of a place the boy hasn't looked?"
+msgstr "Çocuğun henüz bakmadığı bir yer düşünebiliyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vertical lines are lines that go up and down. How many vertical pieces are there to the blue frame on the side of the bed? The number of spaces between those vertical pieces is one less. How many is that?"
+msgstr "Dikey çizgiler yukarıya ve aşağıya doğru giden çizgilerdir. Yatağın kenarındaki mavi çerçevede kaç tane dikey parça var? O dikey parçalar arasındaki boşlukların sayısı, çerçevedeki parçaların sayısından bir eksiktir. Kaç tanedir?"
 
