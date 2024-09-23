@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-09-23 01:44\n"
+"PO-Revision-Date: 2024-09-23 02:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2460,6 +2460,1027 @@ msgstr "Komşu, Safi tarafından korkutuluyor. Siz bir kedi veya başka küçük
 
 #. type=data_list
 msgctxt "data_list"
+msgid "When Safi is hungry, she closes the door."
+msgstr "Safi acıktığında, kapıyı kapatır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi should just close the door as soon as Mr. Kio leaves."
+msgstr "Kio Bey gider gitmez Safi kapıyı hemen kapatmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is little Safi big enough to close that big door?"
+msgstr "Bu büyük kapıyı kapatmak için Safi yeterince büyük mü?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After the door closes, will Safi be able to reach the handle and open it?"
+msgstr "Kapı kapandıktan sonra, Safi kapının koluna ulaşıp onu açabilir mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi eats her food."
+msgstr "Safi yemeğini yiyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the straight and curved lines in this picture."
+msgstr "Bu resimdeki düz ve eğri çizgileri gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi look happy to be eating? Do you like to eat your food?"
+msgstr "Safi, yerken mutlu mu görünüyor? Siz yemeğinizi yemekten hoşlanır mısınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you wait to eat if you were left with a plate of food you liked?"
+msgstr "Eğer siz bir tabak sevdiğiniz bir yemekle bırakılsaydınız, bekler miydiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Afterwards, Safi jumps onto the sofa and sleeps, \"Purr! Purr! Purr!\""
+msgstr "Ardından, Safi sofanın üzerine atlar ve uyur, \"Mırr! Mırr! Mırr!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people feel sleepy after eating and sometimes it gives them fresh energy. What does it do to you?"
+msgstr "Bazen insanlar yemek yedikten sonra uykulu hissederler ve bazen de yemek yemek onlara taze bir enerji verir. Yemek yemek sizde neler yapıyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Safi dreaming? If so, what do you think Safi is dreaming about?"
+msgstr "Safi rüya mı görüyor? Eğer öyleyse, sizce Safi ne hakkında rüya görüyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the things you dream about?"
+msgstr "Rüya gördüğünüz şeylerden bazıları nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio returns, Safi stretches happily and welcomes him home."
+msgstr "Kio Bey geri döndüğünde, Safi mutlulukla gerinip onu karşılar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the beautiful circle inside the orange square."
+msgstr "Turuncu karenin içindeki o güzel daireye işaret edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have some circles and squares where you are?"
+msgstr "Sizin bulunduğunuz yerde daireler ve kareler var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point together at the white circles Safi has on her back and belly."
+msgstr "Safi’nin sırtındaki ve karnındaki beyaz halkaları çocuğunuzla birlikte gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mister Kio and Safi sit down, and each of them reads the newspaper."
+msgstr "Kio Bey ve Safi oturur ve her birisi gazete okur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is warm and cozy. Do cats read the newspaper?"
+msgstr "Sıcacık ve rahat. Kediler gazete okur mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides with corners like this page. Point at the rectangles you see in this picture and around you."
+msgstr "Bir dikdörtgen, bu sayfa gibi dört düz kenarı ve köşeleri olan bir şekildir. Bu resimdeki ve etrafınızdaki dikdörtgenleri işaret edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
+msgstr "Pek çok gazete dikdörtgen şeklindedir. Kio Bey’in gazetesi tuhaf bir şekildedir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rainbow has seven colors."
+msgstr "Bir gökkuşağı yedi renge sahiptir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the colors of the rainbow."
+msgstr "Gökkuşağının renklerini çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a rainbow after it rains? Sometimes, you can even see a double rainbow if you're lucky!"
+msgstr "Yağmur yağdıktan sonra bir gökkuşağı gördünüz mü hiç? Bazen, şansınız yaver giderse, çift gökkuşağı bile görebilirsiniz!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out that her dress and the background on this page go through many of the same colors as the rainbow."
+msgstr "Kızın elbisesinin ve bu sayfanın arka planının, gökkuşağıyla aynı olan renklerin çoğundan geçtiğine dikkat çekin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The first color is red."
+msgstr "İlk renk kırmızıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does the color red make you feel? Red is often thought of as an active, high energy color."
+msgstr "Kırmızı renk sizi nasıl hissettirir? Kırmızı, sıklıkla, bir aktiflik ve yüksek enerji rengi olarak düşünülür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes red is an angry color. People may say they \"see red\" when they are angry."
+msgstr "Bazen kırmızı, bir kızgınlık rengidir. İnsanlar çok öfkeli ve kızgın olduklarında \"gözlerini kan bürümek\" deyimini kullanabilirler."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often paint things red or choose red things because of the color's high energy. Have you seen cars that are red?"
+msgstr "Kırmızı renginin yüksek enerjisinden dolayı insanlar sık sık bir şeyleri kırmızıya boyarlar ya da kırmızı şeyleri seçerler. Siz hiç kırmızı arabalar gördünüz mü?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kewyu is wearing a red shirt."
+msgstr "Kewyu, kırmızı bir gömlek giyinmiş."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any red clothes?"
+msgstr "Sizin hiç kırmızı giysileriniz var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any red flowers near where you live?"
+msgstr "Yaşadığınız yerin yakınlarında hiç kırmızı çiçek var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of people in this picture."
+msgstr "Bu resimdeki insanların sayısını çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The second color is orange."
+msgstr "İkinci renk turuncudur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does orange feel compared to red? It is still high energy, but perhaps a bit less so."
+msgstr "Kırmızıya kıyasla turuncu nasıl hissettirir? Turuncu rengi hâlâ yüksek enerjili ama belki kırmızıdan biraz daha az enerjili."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks all alone in the middle of all that orange with her hands stretched out like that."
+msgstr "Tüm o turuncuların ortasında kız ellerini öylece uzatmış yapayalnız görünüyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An orange is a fruit named after its color. Can you think of other orange things around you?"
+msgstr "Portakal, renginden dolayı öyle isimlendirilen bir meyvedir. Etrafınızda portakal renginde olan başka şeyler aklınıza geliyor mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is an orange. What else can you see that is the color orange?"
+msgstr "Bu bir portakaldır. Resimde turuncu renkli başka neler görebiliyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat and fish are orange. Have you seen an orange cat or fish before?"
+msgstr "Resimdeki kedi ve balık turuncudur. Siz daha önce turuncu bir kedi veya turuncu balık gördünüz mü?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sphere is a ball -- round in all directions. Is an orange a sphere?"
+msgstr "Bir küre, bir toptur – bütün yönlerinde yuvarlaktır. Bir portakal, bir küre midir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the fish bowl different from a sphere?"
+msgstr "Balık fanusu bir küreden nasıl farklıdır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The third color is yellow."
+msgstr "Üçüncü renk sarıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up something that she is pointing at."
+msgstr "Kızın işaret ettiği bir şey uydurun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks excited about what is coming next. I bet it is something yellow!"
+msgstr "Kız, bir sonraki gelecek şey konusunda heyecanlı. Onun sarı olduğuna bahse girerim!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How has her dress changed from earlier pictures? Hint: It is now broken up into two sections."
+msgstr "Kızın elbisesi önceki resimlere göre nasıl değişti? İpucu: Elbisesi artık iki kısma ayrılmış."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The yolk of an egg is yellow. What else can you see that is the color yellow?"
+msgstr "Yumurtanın sarısı, sarıdır. Sarı renkli başka ne görebiliyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that she is hungry?"
+msgstr "Kızın acıkmış olduğunu nasıl anlarsınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She has a yellow sunflower on her table. Do you have flowers around you sometimes when you eat?"
+msgstr "Masasında sarı bir ayçiçeği var. Siz yemek yediğiniz zaman etrafınızda bazen çiçekler oluyor mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name something in the sky that is yellow."
+msgstr "Gökyüzünde rengi sarı olan bir şeyin adını söyleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fourth color is green."
+msgstr "Dördüncü renk yeşil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does green feel to you? This green is a lot calmer than the red, orange, or yellow."
+msgstr "Yeşil size nasıl hissettiriyor? Bu yeşil, kırmızıdan, turuncudan veya sarıdan çok daha sakin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name some things that are green -- they are all around you!"
+msgstr "Yeşil olan bazı şeylerin adlarını söyleyin – onlar her yerdeler!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Green comes in many different types. How many types of green can you name?"
+msgstr "Yeşilin birçok farklı türü vardır. Siz kaç çeşit yeşil sayabilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Our banana garden is green."
+msgstr "Bizim muz bahçemiz yeşil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the animals you see on this page -- look carefully!"
+msgstr "Bu sayfada gördüğünüz hayvanları işaret edip sayın – dikkatlice bakın!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out the yellow greens, lime greens, bright greens, and dark greens on this page."
+msgstr "Bu sayfadaki sarımsı yeşilleri, misket limonu (lime) yeşillerini, cırtlak yeşilleri ve koyu yeşilleri gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A lot of trees are brown and green. Brown is not one of the main colors of the rainbow. Where does it show up in the rainbow?"
+msgstr "Bir sürü ağaç, kahverengi ve yeşildir. Kahverengi, gökkuşağının ana renklerinden birisi değildir. Kahverengi, gökkuşağının neresinde ortaya çıkar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fifth color is blue."
+msgstr "Beşinci renk mavidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks so happy in the middle of all that blue. Does blue make you feel happy?"
+msgstr "Kız tüm o mavilerin arasında çok mutlu görünüyor. Mavi sizi mutlu eder mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people say they feel blue when they are sad. Does blue seem like a sad color to you?"
+msgstr "Türkçede, herkese şirin görünmeye çalışan ve birçok kişiye birden sevgi gösteren kişilerin yaptıkları eylemi anlatmak için 'mavi boncuk dağıtmak' deyimi kullanılır. Mavi size üzgün bir renk gibi mi geliyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sky and water are usually blue, but it is not common in plants. Have you seen flowers that are blue?"
+msgstr "Gökyüzü ve su genellikle mavidir ama bu durum bitkilerde yaygın değildir. Mavi bitkiler gördünüz mü?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sky is blue."
+msgstr "Gökyüzü mavidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bodies of water, such as oceans, seas, lakes, and rivers, are often blue."
+msgstr "Su kütleleri – okyanuslar, denizler, göller ve nehirler – sıklıkla mavidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to these birds and clouds and count them together."
+msgstr "Resimdeki kuşları ve bulutları gösterip onları çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which are there more of -- clouds or birds?"
+msgstr "Hangisinden daha çok var – bulutlardan mı yoksa kuşlardan mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sixth color is indigo."
+msgstr "Altıncı renk çivit mavisidir. (Bazıları, çivit mavisine lacivert demeyi tercih eder.)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Flowers are sometimes indigo. Have you seen flowers whose color is close to being indigo?"
+msgstr "Çiçekler bazen çivit mavisidir. Siz, hiç rengi çivit mavisine yakın bir çiçek gördünüz mü?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes her hands are stretched out wide. Having hands on hips often shows defiance and strength."
+msgstr "Kızın elleri bazen genişçe açılmış görünüyor. Ellerin kalçanın üzerinde olması sıklıkla gözdağını ve gücü anlatır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Indigo is very powerful. How do you feel if you stare at this big square of indigo?"
+msgstr "Çivit mavisi çok güçlüdür. Bu büyük çivit mavisi kareye uzun uzun baktığınızda, ne hissediyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These berries are the color indigo."
+msgstr "Bu yaban mersinleri çivit mavisi rengindedir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buttons or snaps on her jacket."
+msgstr "Ceketin üzerindeki düğmeleri veya çıtçıtları çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you like to eat some of those berries? Do you think you could eat all of them?"
+msgstr "Şu meyvelerden biraz yemek ister misiniz? Onların hepsini yiyebileceğinizi düşünüyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of the largest number you can. Does she have more berries than that number?"
+msgstr "Düşünebileceğiniz en büyük sayıyı düşünün. Kızın o düşündüğünüz sayıdan daha çok mu yaban mersini var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The seventh color is violet."
+msgstr "Yedinci renk menekşe rengidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Violet is a very intense color. Is it too intense for you, or do you enjoy how intense it is?"
+msgstr "Menekşe rengi çok yoğun bir renktir. Sizin için de yoğun mudur yoksa o kadar yoğun olmasından zevk alır mısınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now she has her arms crossed. Crossed arms can indicate being closed off from others."
+msgstr "Kız şu anda kollarını çapraz yapmış. Çapraz kollar başkalarından uzak durmak anlamına gelebilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People tell us a lot without saying any words. Sometimes people do that with an expression on their face, and sometimes they do it with the way they hold their body."
+msgstr "İnsanlar bize hiçbir şey söylemeden çok fazla şey anlatırlar. Bunu bazen yüzlerindeki bir ifadeyle ve bazen de vücut duruşlarıyla anlatırlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My dress is violet. Violet is my favorite color! What is your favorite color?"
+msgstr "Benim elbisem menekşe renginde. Menekşe rengi benim favori rengim! Sizin favori renginiz nedir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the flowers she is next to are violet flowers -- they are named after their color."
+msgstr "Kızın yanındaki çiçeklerin menekşe çiçekleri olduklarına dikkat edin – onlar isimlerini renklerinden almışlardır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks very happy wearing a dress with her favorite color. Do you have clothes that are in your favorite color?"
+msgstr "Kız, en sevdiği renkte bir elbise giydiği için çok mutlu görünüyor. Sizin favori renginizde olan kıyafetleriniz var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors make you happy? Are there colors you don't like?"
+msgstr "Hangi renkler sizi mutlu eder? Sevmediğiniz renkler var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know the seven colors of the rainbow?"
+msgstr "Gökkuşağının yedi rengini biliyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you remember what each color is?"
+msgstr "Her bir rengin ne olduğunu hatırlıyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people use the fake name Roy G. Biv to remind them of the order of the seven colors of the rainbow."
+msgstr "Bazı insanlar, gökkuşağının yedi renginin sırasını onlara hatırlatması için ‘KuTuSu YaMaÇ Mı?’ kısaltmasını kullanırlar (Ç, çivit mavisi/indigo rengi için kullanılmıştır)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Brown is not one of the main colors of the rainbow. Are there other colors you know that are not one of the seven?"
+msgstr "Kahverengi gökkuşağının ana renklerinden birisi değildir. Gökkuşağının yedi renginden biri olmayan bildiğiniz başka renkler var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is going to drink water."
+msgstr "Bir fil su içmeye gidiyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the elephants, the tusks, the feet, the eyes, and the tails."
+msgstr "Çocuğunuzla beraber filleri, fildişlerini, ayakları, gözleri ve kuyrukları sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which items are there the most of and which are there the least of?"
+msgstr "Hangi ögelerden en çok ve hangilerinden en az var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think the elephant is about to do?"
+msgstr "Sizce fil ne yapmak üzere?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are going to drink water."
+msgstr "İki zürafa su içmeye gidiyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each giraffe has four feet. Count the number of giraffes and the number of feet."
+msgstr "Her zürafanın dört ayağı var. Kaç tane zürafa ve ayak olduğunu sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The giraffes are very tall. They must bend way down to get to the water."
+msgstr "Zürafalar çok uzundur. Suya ulaşmak için oldukça eğilmeleri gerekir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are one more animal than one elephant. What is one more animal than two animals?"
+msgstr "İki zürafa, bir filden bir hayvan fazladır. O hâlde, iki hayvandan bir fazla hayvan nedir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes and four birds are also going to drink water."
+msgstr "Üç manda ve dört kuş da su içmeye gidiyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buffaloes, the birds, the horns, and the tails."
+msgstr "Mandaları, kuşları, boynuzları ve kuyrukları çocuğunuzla beraber sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When there is one source of water, all the thirsty animals come to that one place. If a lion wants to hunt animals, this is a good place to find them!"
+msgstr "Tek bir su kaynağı olunca bütün susamış hayvanlar o yere gelir. Eğer bir aslan hayvan avlamak istiyorsa, o yer avlarını bulmak için iyi bir yerdir!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes is one less animal than four animals. What is one less animal than three animals?"
+msgstr "Üç manda dört hayvandan bir hayvan daha azdır. Üç hayvandan bir eksik hayvan kaçtır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Five antelopes and six warthogs are walking to the water."
+msgstr "Beş antilop ve altı yaban domuzu suya doğru yürüyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the antelopes and the warthogs. How many of the warthogs are babies?"
+msgstr "Antilopları ve yaban domuzlarını sayın. Yaban domuzlarının kaç tanesi yavru?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the antelopes are looking around rather than looking at each other. The pack stays safe by having some of them looking for danger!"
+msgstr "Bazı antiloplar birbirlerine bakmak yerine etrafa bakıyor. Sürü, bazı antilopların tehlike olup olmadığını kontrol etmesi sayesinde güvende kalıyor!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of antelopes and warthogs, which are there more of and which are there less of?"
+msgstr "Antiloplar ve yaban domuzlarından hangisi sayıca daha fazla ve hangisi daha az?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Seven zebras are running to the water."
+msgstr "Yedi zebra suya doğru koşuyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the zebras and the trees."
+msgstr "Zebraları ve ağaçları sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that the zebras have been running? They must be very thirsty to be running to the water!"
+msgstr "Zebraların koştuklarını nasıl anlayabilirsiniz? Suya doğru koştuklarına göre çok susamış olmalılar!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try counting the black stripes on some of the zebras. Do some zebras have more stripes than others?"
+msgstr "Bazı zebraların üzerindeki siyah çizgileri saymayı deneyin. Bazı zebraların diğerlerinden daha fazla çizgisi mi var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eight frogs and nine fish are swimming in the water."
+msgstr "Sekiz kurbağa ve dokuz balık suda yüzüyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the frogs and the fish. Can you count that high?"
+msgstr "Çocuğunuzla beraber, kurbağaları ve balıkları sayın. O kadar ileriye kadar sayabiliyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are packed very tightly together. Do you think they feel crowded or do they like having the company?"
+msgstr "Birbirlerine çok yakın olacak şekilde toplanmışlar. Sizce kendilerini kalabalık mı hissediyorlar yoksa arkadaşlıktan mı hoşlanıyorlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is one more than eight frogs? What is one less than nine fish?"
+msgstr "Sekiz kurbağadan bir fazlası nedir? Dokuz balıktan bir eksik kaçtır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different kinds of animals can you count?"
+msgstr "Kaç farklı hayvan türü sayabilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One lion roars. He also wants to drink. Who is afraid of the lion?"
+msgstr "Bir aslan kükrüyor. O da su içmek istiyor. Aslandan kim korkuyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the lions, warthogs, birds, zebras, antelopes, giraffes, water buffaloes, and elephants. That's a lot of counting!"
+msgstr "Aslanları, yaban domuzlarını, kuşları, zebraları, antilopları, zürafaları, mandaları ve filleri çocuğunuzla birlikte sayın. Bu oldukça ileriye kadar saymak demek!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most of the animals start to run away from the lion. Which animals will stay?"
+msgstr "Hayvanların çoğu aslandan kaçmaya başlıyor. Hangi hayvanlar kalacak?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is drinking water with the lion."
+msgstr "Bir fil aslanla birlikte su içiyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The elephant, birds, fish, and frogs did not run away."
+msgstr "Fil, kuşlar, balıklar ve kurbağalar aslandan kaçmamış."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you run away from a lion?"
+msgstr "Siz aslandan kaçar mıydınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would it be fun to go for a swim in this watering hole?"
+msgstr "Bu su birikintisinde yüzmek eğlenceli olur muydu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Izinzawu family was a happy family. The children learned cooking, gardening, and hunting from their parents."
+msgstr "Izinzawu ailesi mutlu bir aileydi. Çocuklar yemek yapmayı, bahçeciliği ve avcılığı ebeveynlerinden öğreniyorlardı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do plants need watering?"
+msgstr "Bitkiler neden sulanmaya ihtiyaç duyarlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name the colors in this picture."
+msgstr "Bu resimdeki renkleri gösterip isimlerini söyleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the green colors in this picture similar and how are they different?"
+msgstr "Bu resimdeki yeşil renkler birbirlerine nasıl benzerler ve birbirlerinden nasıl farklılar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At dinner time every day, they talked about what they had done that day."
+msgstr "Her akşam yemeğinde, o gün neler yaptıklarını konuşurlardı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. The tablecloth has a checkerboard design with lots of squares. Find some squares in a pattern where you are."
+msgstr "Bir kare, bu sayfa gibi dört eşit kenarı olan bir şekildir. Masa örtüsü bir sürü kareden oluşan bir dama (veya satranç) tahtası tasarımına sahip. Bulunduğunuz yerdeki bir desenin içinde olan birkaç kare bulun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name the shapes you see in this picture."
+msgstr "Bu resimde gördüğünüz şekillerin isimlerini söyleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This family talks about their day at dinner. What do you talk about when you eat dinner?"
+msgstr "Bu aile akşam yemeğinde kendi günlerinden bahsediyorlar. Siz akşam yemeği yerken neler hakkında konuşursunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father usually warned the children not to go deep into the forest. He told the family about a strange creature that lived in the forest. \"This creature is like two of us put together!\""
+msgstr "Baba genellikle çocuklarını ormanın derinliklerine gitmemeleri konusunda uyarırdı. Ailesine ormanda yaşayan tuhaf bir yaratığı anlatmıştı. \"Bu yaratık, iki tanemizin bir araya gelmiş hali gibi!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe what you think the father's \"strange creature\" might look like."
+msgstr "Babanın anlattığı o \"tuhaf yaratığın\" size göre neye benzediğini tarif edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the different patterns you see in this picture?"
+msgstr "Bu resimde gördüğünüz farklı desenler nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the bowls on this page different from the bowls on the last page?"
+msgstr "Bu sayfadaki kâseler, bir önceki sayfadaki kâselerden nasıl farklılar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, the girls were playing at the river. Suddenly, from behind a tree, there was a strange creature! The creature had two eyes, two ears, two arms, and two legs."
+msgstr "Bir gün, kızlar nehir kenarında oynuyorlardı. Aniden, bir ağacın arkasından tuhaf bir yaratık çıktı! Bu yaratığın iki gözü, iki kulağı, iki kolu ve iki bacağı vardı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the \"strange creature\" look like what you imagined?"
+msgstr "Bu \"tuhaf yaratık\" tıpkı hayal ettiğiniz gibi mi görünüyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the number of children in this picture."
+msgstr "Bu resimdeki çocukları gösterip sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shaking with fear, they ran to tell their brothers about what they had seen. But the boys didn't believe them. \"The girls are being silly!\" they said."
+msgstr "Bu resimde daha fazla kız mı yoksa daha fazla erkek mi var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four children and four heads. How many legs do you see? How many arms do you see? Is that surprising?"
+msgstr "Dört çocuk ve dört kafa var. Kaç tane bacak görüyorsunuz? Kaç tane kol görüyorsunuz? Bu sizi şaşırttı mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more girls or boys in this picture?"
+msgstr "Bu resimde daha fazla kız mı yoksa daha fazla erkek mi var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their mouths and eyebrows. What do their faces tell you about what these children are thinking and feeling?"
+msgstr "Çocukların ağızlarına ve kaşlarına bakın. Çocukların yüzleri onların ne düşündükleri ve ne hissettikleri konusunda size ne anlatıyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eventually, curiosity got the better of the boys. They followed the girls to the river to see this strange creature for themselves."
+msgstr "En sonunda, erkekler meraklarına yenik düştüler. Bu tuhaf yaratığı kendi gözleriyle görmek için kızları nehre kadar takip ettiler."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from their size in the picture that the girls are far away and the boys are nearby?"
+msgstr "Resimdeki büyüklüklerine bakarak, kızların uzakta, erkeklerin ise yakında olduklarını nasıl anlayabilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the girls far away behind some bushes?"
+msgstr "Kızlar neden bazı çalılıkların arkasında, uzaktalar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The grass, bushes, and trees are different shades of green. Are there different shades of some color where you are?"
+msgstr "Çimenler, çalılar ve ağaçlar yeşilin farklı tonlarında. Sizin bulunduğunuz yerde, bazı renklerin farklı tonları var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They searched and searched, but all they could see was the tall grass and trees.\n"
+"\n"
+"Suddenly, they heard a noise, and looked up."
+msgstr ""
+"Aradılar, aradılar ama tek görebildikleri uzun otlar ve ağaçlardı.\n"
+"\n"
+"Aniden, bir ses duydular ve yukarı baktılar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think made that noise above them?"
+msgstr "Üstlerinde bu sesi neyin çıkardığını düşünüyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of things make noises above our heads?"
+msgstr "Başımızın üstünde ne tür şeyler ses çıkarır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That is really tall grass! What part of their bodies does the grass reach up to?"
+msgstr "Gerçekten uzun çimenler! Çimenler çocukların vücutlarının hangi kısımlarına kadar uzanıyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Up on a tree swung the strangest creature they had ever seen. It had two arms, two hands, two legs and two feet. Instead of one each, like them."
+msgstr "Bir ağaçta, o güne kadar gördükleri en tuhaf yaratık sallanıyordu. İki kolu, iki eli, iki bacağı ve iki ayağı vardı. Onlarınki gibi her birinden birer tane olmasından ziyade!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many arms, legs, hands, and eyes does each member of the family have?"
+msgstr "Ailenin her bir üyesinin kaç kolu, kaç bacağı, kaç eli ve kaç gözü var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you assume the unseen side of each family member had another arm, leg, hand, and eye, just like the side you could see?"
+msgstr "Her aile üyesinin görünmeyen tarafında, tıpkı görebildiğiniz tarafta olduğu gibi başka bir kol, bacak, el ve göz olduğunu da varsaydınız mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you see only one side of something, it is easy to assume the other side looks the same -- that it is the mirror reflection of what you can see."
+msgstr "Bir şeyin sadece bir tarafını gördüğünüzde, diğer tarafının da aynı göründüğünü – yani, görebildiğiniz tarafın aynısı olduğunu – varsaymak kolaydır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The frightened children ran home to call their parents. Soon the whole family was at the river to see the creature."
+msgstr "Korkuya kapılan çocuklar ebeveynlerini çağırmak için evlerine koştular. Çok geçmeden, tüm aile yaratığı görmek için nehrin kenarındaydı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of arms in this picture. If each person had two arms, how many arms would there be?"
+msgstr "Bu resimdeki kolların sayısını sayın. Eğer her insanın iki kolu olsaydı, toplamda kaç kol olurdu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Arms and legs are called limbs. How many limbs does this family have?"
+msgstr "Kollara ve bacaklara ‘uzuv’ denir. Bu ailenin toplam kaç uzvu var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice that the grass was tall, but now it is short? Did someone cut the grass?"
+msgstr "Çimenlerin önceden uzun ama şu anda kısa olduklarını fark ettiniz mi? Birisi çimleri mi kesti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Don't hurt me! the creature said, as it hid behind the tree. Now the family could only see the creature's one foot, one leg, one hand, one arm and one eye."
+msgstr "\"Bana zarar vermeyin!\" diye bağırdı yaratık, ağacın arkasına saklanarak. Artık aile yaratığın sadece bir ayağını, bir bacağını, bir elini, bir kolunu ve bir gözünü görebiliyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature is hiding behind a tree. Where are some places you like to hide?"
+msgstr "Yaratık bir ağacın arkasında saklanıyor. Siz nerelerde saklanmayı seversiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the creature is halfway behind the tree, it looks just like each of the family members. Why is that?"
+msgstr "Yaratığın yarısı bir ağacın arkasındayken, aile üyelerine benziyor gibi görünüyor. Bunun nedeni nedir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature feels \"outnumbered.\" How many people are in the family and how many creatures are there? Which is more and which is less?"
+msgstr "Yaratık kendini \"sayıca az\" hissediyor. Ailede kaç insan var ve kaç tane yaratık var? Sayıca hangisi daha fazla ve hangisi daha az?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I am just like you, continued the creature. \"The only difference is that I was made with two of almost everything.\""
+msgstr "\"Ben tıpkı sizin gibi biriyim,\" diye devam etti yaratık. \"Tek farkım, bende neredeyse her şeyden iki tane var.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which body parts do you have two of and which do you have one of?"
+msgstr "Sizde hangi vücut parçalarınızdan ikişer tane, hangilerinden birer tane var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For the body parts you have one of, are they on the sides or the middle line of your body?"
+msgstr "Bir tane olan vücut parçalarınız bedeninizin yan taraflarında mı yoksa orta hattında mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of someone you know. List three ways they are similar to you and three ways that they are different."
+msgstr "Tanıdığınız birini düşünün. Onun sizinle benzer ve farklı olan üç yönünü sıralayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So this was how the Izanzawu family discovered that it was not a creature to be scared of. It was simply a different form of them."
+msgstr "Böylece, Izinzawu ailesi, onun korkulacak bir yaratık olmadığını keşfetti. O sadece kendilerinin farklı bir şekliydi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature has a striped shirt with two colors and everyone else's shirt has just one. Why did the writer do that?"
+msgstr "Yaratığın iki renkli çizgili bir tişörtü var; diğer herkesin giysilerinde ise sadece bir renk var. Sizce yazar bunu neden öyle yapmış olabilir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are six people in the Izanzawu family. When you add one more for the \"creature,\" how many people are there?"
+msgstr "Izinzawu ailesinde altı kişi var. \"Yaratık\" için de bir kişi daha eklediğinizde, toplam kaç kişi olurlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
+msgstr "Bu yedi kişiyi boylarına göre dizerseniz, en kısa olanı sola ve en uzun olanı sağa koyarsanız, sıralama nasıl olur? Bu sıralamayı giysilerinin renklerini kullanarak açıklayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drum has always been an important musical instrument in our community. We love drums!\n"
+"\n"
+"We have drums of different sizes: big, medium-sized, and small."
+msgstr ""
+"Davul, bizim toplumumuzda her zaman önemli bir müzik aleti olmuştur. Davulları çok severiz!\n"
+"\n"
+"Farklı boyutlarda davullarımız var: büyük, orta boy ve küçük."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of things that have the same shape with different sizes. Perhaps one big and one small, or three with big, medium, and small."
+msgstr "Aynı şekle sahip fakat farklı boyutlardaki – örneğin, bir büyük ve bir küçük veya küçük, orta ve büyük – şeyleri düşünün."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of stories about three things. Some examples are: The Three Little Pigs and Goldilocks."
+msgstr "Üç şey hakkında hikâyeler düşünün. Örneğin, Üç Küçük Domuzcuk ve Altın Saçlı Kız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever beat on a drum? Which of these three would you choose?"
+msgstr "Siz hiç davul çaldınız mı? Bu üçünden hangisini seçerdiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We play drums using beaters, or with our fingers.\n"
+"\n"
+"We play drums for various reasons: We play drums with songs and dances, for feasts, and in bad times."
+msgstr ""
+"Davulları tokmakla veya parmaklarımızla çalarız.\n"
+"\n"
+"Davulları farklı nedenlerle çalarız: şarkılarda ve danslarda, şölenlerde ve zor zamanlarda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People use drums to make rhythms. Make up your own rhythm and count it. For example:  (clapping for each number) \"1, 2, pause, 3, 1, 2, pause 3.\""
+msgstr "İnsanlar davulları ritim tutmak için kullanır. Siz de kendi ritminizi oluşturup sayın. Örneğin, (her sayı için alkışlayarak) \"1, 2, dur, 3, 1, 2, dur, 3\" gibi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you suppose a beater sounds different than using fingers?"
+msgstr "Tokmakla çalmak ile parmaklarla çalmak arasında nasıl bir ses farkı olabilir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does the small drum sound different than the large one?"
+msgstr "Küçük davul büyük davuldan nasıl farklı bir ses çıkarır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Drums enrich songs and make people want to dance. Drums make ceremonies colorful.\n"
+"\n"
+"We play drums during ceremonies for marriage and child naming. We play drums when celebrating a new harvest or a twin birth."
+msgstr ""
+"Davullar şarkıları zenginleştirir ve insanları dans etmeye teşvik eder. Davullar törenleri renklendirir.\n"
+"\n"
+"Biz, düğün ve bebeğe isim koyma törenlerinde davul çalarız. Yeni bir hasadı veya ikiz doğumunu kutladığımızda da davul çalarız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People are wearing special wedding clothes. Count together the people wearing orange."
+msgstr "İnsanlar özel düğün kıyafetleri giyinmişler. Turuncu giymiş olanları çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color are the drummers wearing?"
+msgstr "Davul çalanlar hangi renkte giyinmişler?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the people at the wedding. Can you count that high?"
+msgstr "Düğündeki tüm insanları çocuğunuzla birlikte sayın. Bu kadar çok sayıyı sayabilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We sound drums to announce grief and call people when death occurs."
+msgstr "Kederi duyurmak ve bir ölüm gerçekleştiğinde insanları çağırmak için davul çalarız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does sad drumming sound like? Can you make a soft, sad rhythm with your hands?"
+msgstr "Hüzünlü bir davul sesi nasıldır? Ellerinizle yumuşak ve hüzünlü bir ritim tutabilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many kinds of drumming, such as soft background rhythms or fast loud rhythms. Which kinds of drumming have you heard?"
+msgstr "Yumuşak arka plan ritimleri veya hızlı yüksek ritimler gibi pek çok davul çalma türü vardır. Siz bugüne kadar hangi tür davul seslerini duydunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does a drumbeat make you want to dance?"
+msgstr "Davul sesi sizi dans etmeye teşvik eder mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We sound drums to call people to clean wells, clear roads, or to build a hut for a needy old person.\n"
+"\n"
+"We sound drums to call people when cattle are stolen in our village."
+msgstr ""
+"Davulları, insanları kuyuları temizlemeye, yolları açmaya ya da muhtaç bir yaşlı için kulübe inşa etmeye çağırmak için de çalarız.\n"
+"\n"
+"Ayrıca, köyümüzde sığırlar çalındığında insanları çağırmada da davul çalarız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where you live, what sound or method do people use to call people together for food, school, or special events?"
+msgstr "Yaşadığınız yerde insanları yiyecek, okul veya özel etkinlikler için bir araya getirmek için hangi sesleri veya yöntemleri kullanıyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you rather beat the drum or do the work?"
+msgstr "Davul çalmayı mı yoksa iş yapmayı mı tercih edersiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of tools people are using in this picture."
+msgstr "Bu resimde insanların kullandığı aletlerin sayısını çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We sound drums to gather for meetings at our chief's palace."
+msgstr "Davulları, liderimizin sarayındaki toplantılara katılmak üzere toplanmak için de çalarız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is something in this picture that shows this is a special place?"
+msgstr "Bu resimde bu yerin özel olduğunu gösteren şey nedir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many people are gathering in this picture?"
+msgstr "Bu resimde kaç kişi toplanıyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you think the chief will sit?"
+msgstr "Sizce lider nereye oturacak?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Drums call people to go to church for prayers on Sundays and other prayer days.\n"
+"\n"
+"We also play drums to enrich songs when singing in churches."
+msgstr ""
+"Davullar, pazar günleri ve diğer dua günlerinde insanları kiliseye duaya veya diğer dini ritüeller için çağırır.\n"
+"\n"
+"Ayrıca, dini mabetlerde şarkı söylerken şarkıları zenginleştirmek için davul çalarız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Items made from wood come from trees. Which items in this picture are made of wood?"
+msgstr "Ahşap eşyalar ağaçlardan yapılırlar. Bu resimde hangi eşyalar ahşaptan yapılmıştır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which things are made of wood where you are?"
+msgstr "Sizin bulunduğunuz yerde hangi eşyalar ahşaptan yapılmış?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are straps on the drums in each picture. Why are the straps useful?"
+msgstr "Her resimde davullarda kayışlar var. Kayışlar neden kullanışlıdır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The big drum sounds, \"An a bul mba, an a bul mba, an a bul mba-mba-mba-mba bul.\"\n"
+"\n"
+"The small drums sing in their high pitches, \"Tindiri, tindiri tindiri ti.\"\n"
+"\n"
+"Together they chorus, \"Tindiri mba, tindiri mba, tindiri mba-mba-mba-mba, tindiri ti!\""
+msgstr ""
+"Büyük davul, \"An a bul mba, an a bul mba, an a bul mba-mba-mba-mba bul\" diye ses çıkarır.\n"
+"\n"
+"Küçük davullar ise, \"Tindiri, tindiri tindiri ti\" şeklinde yüksek perdeden (tiz) ses çıkarır.\n"
+"\n"
+"Birlikte çalındıklarında, \"Tindiri mba, tindiri mba, tindiri mba-mba-mba-mba, tindiri ti!\" şeklinde bir melodi oluşur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A duet is when two intruments are played together. Have you sung duets with your family or friends?"
+msgstr "Düet, iki enstrümanın birlikte çalınmasıdır. Siz ailenizle veya arkadaşlarınızla düet yaptınız mı hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a clapping duet. One person starts with a clapping pattern, and then the other person creates a clapping pattern that goes well with it."
+msgstr "Bir alkış düeti oluşturun. Bir kişi alkışla bir ritim başlatsın ve ardından, diğer kişi bu ritme uygun bir alkış ritmi oluştursun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you hear music, listen for the instruments that create the beat."
+msgstr "Müzik dinlerken, ritmi oluşturan enstrümanlara kulak verin."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "STAGE 1 – I CAN HEAR YOU!"
 msgstr "AŞAMA 1- SENI DUYABILIYORUM!"
 
@@ -2662,4 +3683,14 @@ msgstr ""
 "Oyun alanındaki daireleri, eğrileri, düz çizgileri, üçgenleri ve dikdörtgenleri vurgulayın. Bazı objelerin diğer şeylerin üstünde, altında, arasında veya üstünde nasıl olduğu hakkında konuşun.\n"
 "\n"
 "**Evde:** Oyuncaklar veya bloklarla kule inşa ederken boyutları karşılaştırın – Hangi kule en uzun; Aynı uzunlukta iki kule yapabilir misiniz? Oyuncaklarınızın boyutlarını, sayılarını, renklerini, resimlerdeki hayvanları veya dışarıda görebileceğiniz şeyleri tanımlayın ve karşılaştırın. Bir yapboz yapıyorsanız, ihtiyacınız olan parçanın şeklini ve rengini açıklayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A Very Tall Man"
+msgstr "Çok Uzun Bir Adam"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story looks at counting to 5, descriptions, and comparisons. Practice describing words: too, very, short, tall, long, low, high, big, small; color names; and comparison words: shorter, taller, longer, lower, higher, bigger, smaller"
+msgstr "Bu hikâye 5’e kadar saymayı, betimlemeleri ve karşılaştırmaları içerir. Renk isimlerinin haricinde şu betimleme sözcükleriyle: çok fazla, çok, kısa, uzun, alçak, yüksek, büyük, küçük ve şu karşılaştırma sözcükleriyle alıştırma yapın: daha kısa, daha uzun, daha alçak, daha yüksek, daha büyük, daha küçük."
 
