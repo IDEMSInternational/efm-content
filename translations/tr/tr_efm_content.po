@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-09-23 04:44\n"
+"PO-Revision-Date: 2024-09-23 13:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4204,4 +4204,30 @@ msgstr "Başkalarına karşı hissettiğiniz sevgiyi onların bilmelerini sağla
 msgctxt "data_list"
 msgid "The mother's clothing has stripes and the girl's has stars. Do you have some clothes with stars or some other shapes on them?"
 msgstr "Annenin kıyafetinde çizgiler, kızınkinde ise yıldızlar var. Sizin, üzerinde yıldız veya başka şekiller olan bazı kıyafetleriniz var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Chat was born blind.\n"
+"\n"
+"Her eyes had never seen her parents, or her brother and sisters. She knew their faces by touch."
+msgstr ""
+"Chat kör doğmuştu.\n"
+"\n"
+"Gözleri, ebeveynlerini, erkek kardeşini veya kız kardeşini hiç görmemişti. Onları yüzlerine dokunarak tanıyordu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you tried walking with your eyes closed? If you do, be sure to be with someone else to stay safe."
+msgstr "Gözleriniz kapalı yürümeyi denediniz mi? Eğer denediyseniz, güvende olmak için birisiyle birlikte olduğunuzdan emin olun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you don't see, you become much more aware of your other senses. Which senses do you notice more when you close your eyes?"
+msgstr "Görmediğinizde, diğer duyularınızın çok daha fazla farkına varırsınız. Gözlerinizi kapattığınızda hangi duyularınızı daha çok fark ediyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. A square is a rectangle with four equal sides. Point to the squares and rectangles you see on this page."
+msgstr "Bir dikdörtgen, bu sayfa gibi dört kenarlı bir şekildir. Bir kare, dört eşit kenara sahip bir dikdörtgendir. Bu sayfada gördüğünüz kareleri ve dikdörtgenleri gösterin."
 
