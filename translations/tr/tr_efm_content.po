@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-09-23 22:33\n"
+"PO-Revision-Date: 2024-09-23 22:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6904,4 +6904,224 @@ msgstr "Çocuğun henüz bakmadığı bir yer düşünebiliyor musunuz?"
 msgctxt "data_list"
 msgid "Vertical lines are lines that go up and down. How many vertical pieces are there to the blue frame on the side of the bed? The number of spaces between those vertical pieces is one less. How many is that?"
 msgstr "Dikey çizgiler yukarıya ve aşağıya doğru giden çizgilerdir. Yatağın kenarındaki mavi çerçevede kaç tane dikey parça var? O dikey parçalar arasındaki boşlukların sayısı, çerçevedeki parçaların sayısından bir eksiktir. Kaç tanedir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched inside the box. There was no sign of it."
+msgstr "Kutunun içinde aradım. Ondan bir iz yoktu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy's shirt has a stripe on it. Do you see other stripes in this picture? Do you see stripes around where you are?"
+msgstr "Çocuğun gömleğinde bir şerit var. Bu resimde başka şeritler görüyor musunuz? Etrafınızda şeritler (çizgiler) görüyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pink is a light shade of red. If you include pink, how many things are red in this picture?"
+msgstr "Pembe, kırmızının açık bir tonudur. Pembeyi de dahil ederseniz, bu resimde kaç tane kırmızı şey vardır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don't count pink, you get one less thing that is red. How many is that?"
+msgstr "Pembeyi saymazsanız, kırmızı olan şeylerin sayısı azalır. O zaman kaç olur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I searched the attic. It was not there."
+msgstr "Çatı katına baktım. Orada da yoktu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The boy has looked in a lot of places. How long do you look for something before you give up?"
+msgstr "Çocuk birçok yere baktı. Siz vazgeçmeden önce bir şeyi ne kadar süre boyunca ararsınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you have trouble finding something, what are some places you end up finding it?"
+msgstr "Bir şeyi bulmakta zorlandığınızda, sonunda onu bulduğunuz bazı yerler nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the window no longer bangs into the shelf. Did the shelf move?"
+msgstr "Pencerenin artık rafa çarpmadığına dikkat edin. Raf yerinden mi oynadı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked here, there, and everywhere. I could not find it anywhere."
+msgstr "Oraya, buraya ve her yere baktım ama hiçbir yerde bulamadım."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at his face, what do you think the boy is feeling?"
+msgstr "Çocuğun yüzüne baktığınızda, ne hissettiğini düşünüyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever lost something and never found it?"
+msgstr "Sizin bir şeyi kaybettiğiniz ve bulamadığınız oldu mu hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl is smiling in the window. Do you think she knows where the bat is?"
+msgstr "Kız pencerede gülümsüyor. Sizce kız raketin nerede olduğunu biliyor olabilir mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is my cat?"
+msgstr "Benim kedim nerede?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cat is very good at hiding. The dark black of this cat helps it hide."
+msgstr "Bu kedi saklanmakta çok iyi. Bu kedinin koyu siyah rengi, onun saklanmasına yardımcı oluyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of places would make it easy to see this cat?"
+msgstr "Ne tür yerler bu kediyi görmeyi kolaylaştırır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you like to hide?"
+msgstr "Siz nerede saklanmayı seversiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it under the bed?"
+msgstr "Yatağın altında mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat under the bed before the boy looked there?"
+msgstr "Çocuk oraya bakmadan önce, kedi yatağın altında mıydı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This bed cover has lots of colorful stripes. Count how many different colors it has."
+msgstr "Bu yatak örtüsünün bir sürü renkli şeridi var. Yatak örtüsünde kaç tane farklı renk olduğunu sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The walls in this room have a free form design that doesn't repeat. Have you  seen walls like this before?"
+msgstr "Bu odadaki duvarların tekrarlamayan serbest biçimli bir tasarımı var. Daha önce böyle duvarlar gördünüz mü hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it on top of the cupboard?"
+msgstr "Dolabın tepesinde mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Instead of being on top of the cupboard, the cat is inside it."
+msgstr "Dolabın tepesinde olmak yerine, kedi dolabın içinde."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cupboard has a beautiful design. How many colors does it have?"
+msgstr "Bu dolap güzel bir tasarıma sahip. Dolabın kaç rengi var?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about the shapes and patterns on the cupboard doors."
+msgstr "Dolap kapaklarının üzerindeki şekiller ve desenler hakkında konuşun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it behind the couch?"
+msgstr "Kanepenin arkasında mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is very easy to see right now. Too bad the boy is looking in the wrong place."
+msgstr "Kediyi görmek çok kolay şu anda. Çocuğun yanlış yere bakıyor olması çok kötü."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the strong colors on this page: red, orange, yellow, green, blue, and brown."
+msgstr "Bu sayfadaki güçlü renkleri gösterin: kırmızı, turuncu, sarı, yeşil, mavi ve kahverengi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors of the rainbow are missing from the room?"
+msgstr "Odada gökkuşağının hangi renkleri eksik?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it next to the trash can?"
+msgstr "Çöp kutusunun yanında mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat must be very fast and quiet -- he was next to where the boy is now."
+msgstr "Kedi, çocuğun şu anda bulunduğu yerin yanındaydı — kedi, çok hızlı ve sessiz olmalı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the red bricks just below the window."
+msgstr "Pencerenin hemen altındaki kırmızı tuğlaları sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many straight lines in this picture. Point to some curved lines."
+msgstr "Bu resimde bir sürü düz çizgi var. Bazı eğri çizgileri gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it inside the basket?"
+msgstr "Sepetin içinde mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which part of the cat is not inside the SOAP box?"
+msgstr "Kedinin hangi kısmı SOAP kutusunun içinde değil?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is inside the basket? Is that where the cat sleeps?"
+msgstr "Sepetin içinde ne var? Kedinin uyuduğu yer orası mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the wall does not line up with the squares of the floor."
+msgstr "Zemindeki karelerle duvarın aynı hizada olmadığına dikkat edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it outside the house?"
+msgstr "Evin dışında mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That poor boy is always looking in the wrong place."
+msgstr "Zavallı çocuk hep yanlış yere bakıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the boy ever finds the cat, or will the boy give up?"
+msgstr "Sizce çocuk kediyi hiç bulabilecek mi yoksa pes mi edecek?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the same wall pattern as on the last page, but the floor is a different color!"
+msgstr "Bu resim, son sayfadaki duvar deseninin aynısı ama zemin farklı bir renkte!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here it is!"
+msgstr "İşte burada!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like the cat is in a cupboard or under a sink."
+msgstr "Kedi ya bir dolabın içinde ya da bir lavabonun altında gibi görünüyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat playing a game with the boy?"
+msgstr "Kedi, çocukla bir oyun mu oynuyordu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
+msgstr "Çocuk kediyle ne yapacak şimdi? Belki onu besleyecek veya onunla oyun oynayacak? Siz ne düşünüyorsunuz?"
 
