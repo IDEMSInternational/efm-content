@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese\n"
 "\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-09-26 03:52\n"
+"PO-Revision-Date: 2024-09-26 04:51\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1558,4 +1558,351 @@ msgstr "Na imagem, quem você acha que está feliz e quem está triste?"
 msgctxt "data_list"
 msgid "How long do you think a butterfly can live in a jar?"
 msgstr "Por quanto tempo você acha que uma borboleta pode viver em um pote de vidro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have two ears. Whose ears are bigger?"
+msgstr "Cada um tem duas orelhas. Quem tem as maiores orelhas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have one tail. Whose tail is longer?"
+msgstr "Cada um tem um rabo. De quem é o rabo mais longo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They each have markings on their belly. Whose markings are bigger?"
+msgstr "Cada um tem marcações na barriga. De quem são as marcações maiores?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk.\n"
+"\n"
+"They walk in their village."
+msgstr ""
+"Gato e Cachorro caminham.\n"
+"\n"
+"Eles caminham em sua vila."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the homes in the village."
+msgstr "Contem juntos as casas na vila."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many things to count together -- one bird, one cat, one dog, three animals, three buildings, and one tree."
+msgstr "Há muitas coisas para contarem juntos - um pássaro, um gato, um cachorro, três animais, três prédios e uma árvore."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two of the buildings are round around the base. The third one has a base shaped like this page."
+msgstr "Dois dos prédios são redondos na base. O terceiro tem uma base em forma desta página."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then they see an egg.\n"
+"\n"
+"The egg is in the grass.\n"
+"\n"
+"The egg is alone in the grass.\n"
+"\n"
+"The egg is all alone."
+msgstr ""
+"Então eles veem um ovo.\n"
+"\n"
+"O ovo está na grama.\n"
+"\n"
+"O ovo está sozinho na grama.\n"
+"\n"
+"O ovo está completamente sozinho."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the animals, trees, houses, and eggs."
+msgstr "Contem juntos os animais, árvores, casas e ovos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name an animal that lays eggs."
+msgstr "Nomeie um animal que ponha ovos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog pick up the egg. It is usually better to leave eggs where you find them."
+msgstr "Gato e Cachorro pegam o ovo. Geralmente é melhor deixar os ovos onde você os encontra."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to a bird.\n"
+"\n"
+"They ask the bird, \"Is this your egg?\""
+msgstr ""
+"Gato e Cachorro caminham até um pássaro.\n"
+"\n"
+"Eles perguntam ao pássaro: \"Este ovo é seu?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The egg is round. Point to other things with round sides."
+msgstr "O ovo é redondo. Aponte para outras coisas com lados redondos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to round things where you are."
+msgstr "Aponte para as coisas redondas onde você está."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe where the bird is -- Cat and Dog are below the roof and below the bird, and the bird is above them."
+msgstr "Descreva onde está o pássaro – Gato e Cachorro estão abaixo do telhado e abaixo do pássaro, e o pássaro está acima deles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But the bird says, \"No, that is not my egg. Ask the owl. Maybe it is his egg.\""
+msgstr "Mas o pássaro diz: \"Não, esse ovo não é meu. Pergunte à coruja. Talvez o ovo seja dela.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you seen blue birds where you live?"
+msgstr "Você já viu pássaros azuis onde você mora?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What color is the tie the owl is wearing? Have you seen a bird wearing a tie?"
+msgstr "De que cor é a gravata que a coruja está usando? Você já viu uma ave usando gravata?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The blue bird is sitting on the roof. What is the owl sitting on?"
+msgstr "O pássaro azul está sentado no telhado. No que a coruja está sentada?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to the owl.\n"
+"\n"
+"They ask the owl, \"Is this your egg?\""
+msgstr ""
+"Gato e Cachorro caminham até a coruja.\n"
+"\n"
+"Eles perguntam à coruja: \"Este ovo é seu?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Owls are said to be wise. Does this owl look wise to you?"
+msgstr "Dizem que as corujas são sábias. Essa coruja parece sábia para você?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the birds, cats, and dogs. Which type of animal is there the most of?"
+msgstr "Contem as aves, gatos e cachorros. Qual tipo de animal mais há?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice owl's unusual kite-shaped tie!"
+msgstr "Note a gravata incomum em forma de pipa da coruja!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But the owl says, \"No, that is not my egg. Ask the goose. Maybe it is her egg.\""
+msgstr "Mas a coruja diz: \"Não,esse ovo não é meu. Pergunte à gansa. Talvez seja o ovo dela.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you get something wrong two times, do you get discouraged?"
+msgstr "Se você erra duas vezes, fica desanimado?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog are great at persisting -- trying over and over until they succeed. Are you good at persisting?"
+msgstr "Gato e Cachorro são ótimos em persistir - tentar repetidamente até conseguir. Você é bom em persistir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the houses and how many animals there are now."
+msgstr "Contem juntos as casas e quantos animais há agora."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to the goose.\n"
+"\n"
+"They ask the goose, \"Is this your egg?\""
+msgstr ""
+"Gato e Cachorro caminham até a gansa.\n"
+"\n"
+"Eles perguntam à gansa: \"Este ovo é seu?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals are there?"
+msgstr "Quantos animais há?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are any of the animals the same color? How many different colors are there for all the animals?"
+msgstr "Alguns dos animais têm a mesma cor? Quantas cores diferentes há para todos os animais?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three birds. How are these three similar and how are they different?"
+msgstr "Há três aves. Como essas três são semelhantes e como são diferentes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But the goose says, \"No, that is not my egg. Ask the two ducks. Maybe it is their egg.\""
+msgstr "Mas a gansa diz: \"Não, esse ovo não é meu. Pergunte aos dois patos. Talvez seja o ovo deles.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Cat and Dog will give up? Would you give up at this point?"
+msgstr "Você acha que Gato e Cachorro desistirão? Você desistiria nesse ponto?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many birds have they talked to?"
+msgstr "Com quantas aves eles conversaram?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If they can't find the home for the egg, what should they do with it?"
+msgstr "Se não conseguirem encontrar a casa para o ovo, o que devem fazer com ele?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog walk to the two ducks.\n"
+"\n"
+"They ask the two ducks, \"Is this your egg?\""
+msgstr ""
+"Gato e Cachorro caminham até os dois patos.\n"
+"\n"
+"Eles perguntam aos patos: \"Este ovo é de vocês?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the ducks going to say?"
+msgstr "O que os patos vão dizer?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The two ducks are different colors and patterns. Describe how they are the same and how they are different."
+msgstr "Os dois patos têm muitas cores e padrões diferentes. Descreva como são iguais e como são diferentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have ducks around where you live?"
+msgstr "Há patos por perto onde você mora?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"But the two ducks say, \"No, that is not our egg.\"\n"
+"\n"
+"Then the egg breaks."
+msgstr ""
+"Mas os patos dizem: \"Não, esse ovo não é nosso.”\n"
+"\n"
+"Então o ovo se quebra."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that the egg is breaking?"
+msgstr "Como você pode dizer que o ovo está se quebrando?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat drop the egg? Have you ever dropped an egg?"
+msgstr "Será que Gato deixou cair o ovo? Você já deixou cair um ovo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will come out of the egg?"
+msgstr "O que você acha que vai sair do ovo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There is a lizard in the egg.\n"
+"\n"
+"A baby lizard."
+msgstr ""
+"Há um lagarto no ovo.\n"
+"\n"
+"Um filhote de lagarto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is it surprising to see a baby lizard come out of the egg? Were you expecting a baby bird?"
+msgstr "Por que é surpreendente ver um filhote de lagarto sair do ovo? Você estava esperando um filhote de uma ave?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of other animals that lay eggs and that are not birds? Hint: Fish, insects, and turtles are examples."
+msgstr "Você consegue pensar em outros animais que botam ovos e que não são aves? Dica: Peixes, insetos e tartarugas são exemplos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What color is the lizard? Have you seen lizards like this before?"
+msgstr "De que cor é o lagarto? Você já viu lagartos assim antes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The baby lizard says, \"Where is my mother? Where is my father? Where are my mother and father?\"\n"
+"\n"
+"Cat and Dog bring the baby lizard to his mother and father."
+msgstr ""
+"O filhote de lagarto diz: \"Onde está minha mãe? Onde está meu pai? Onde estão minha mãe e meu pai?\"\n"
+"\n"
+"Gato e Cachorro levam o filhote de lagarto para sua mãe e seu pai."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many lizards are on top of the rocks?"
+msgstr "Quantos lagartos estão em cima das rochas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do lizards like to be on rocks on sunny days?"
+msgstr "Por que os lagartos gostam de ficar em rochas em dias ensolarados?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are most rocks round like these, or do some have sharp edges and points?"
+msgstr "A maioria das rochas são redondas como essas, ou algumas têm bordas e pontas afiadas?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye baby lizard."
+msgstr ""
+"Tchau Tchau Gato.\n"
+"\n"
+"Tchau Tchau Cachorro.\n"
+"\n"
+"Tchau Tchau lagarto filhote."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The baby lizard is still in the egg. Is it stuck in there?"
+msgstr "O filhote de lagarto ainda está no ovo. Ele está preso lá dentro?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three animals here. If you take away the baby lizard, how many animals does that leave?"
+msgstr "Há três animais aqui. Se você tirar o filhote de lagarto, quantos animais sobram?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some round shapes you see in this picture?"
+msgstr "Quais são algumas formas redondas que você vê nesta imagem?"
 
