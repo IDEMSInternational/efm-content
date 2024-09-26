@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese\n"
 "\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-09-26 01:51\n"
+"PO-Revision-Date: 2024-09-26 02:51\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1157,4 +1157,68 @@ msgstr "Qual desses animais é o maior e qual é o menor?"
 msgctxt "data_list"
 msgid "How is Elephant different and how is Elephant similar to Cat and Dog? What does Elephant have that they don't?"
 msgstr "Como o Elefante é diferente e como é similar ao Gato e ao Cachorro? O que o Elefante tem que eles não têm?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog and Elephant play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog. Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Elephant. Elephant catches the ball.\n"
+"\n"
+"Elephant throws the ball to Cat. Cat catches the ball."
+msgstr ""
+"Gato, Cachorro e Elefante brincam com a bola.\n"
+"\n"
+"Gato joga a bola para o Cachorro. Cachorro pega a bola.\n"
+"\n"
+"Cachorro joga a bola para o Elefante. Elefante pega a bola.\n"
+"\n"
+"Elefante joga a bola para o Gato. Gato pega a bola."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of throws and the number of catches. Are they the same number?"
+msgstr "Contem o número de jogadas e o número de pegadas. É o mesmo número?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did each animal throw and each animal catch?"
+msgstr "Todos os animais jogaram e pegaram a bola?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are good at taking turns. Are you good at taking turns?"
+msgstr "Eles são bons em se revezar Você é bom em revezar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye Elephant."
+msgstr ""
+"Tchau Tchau Gato.\n"
+"\n"
+"Tchau Tchau Cachorro.\n"
+"\n"
+"Tchau Tchau Elefante."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of animals waving."
+msgstr "Contem juntos o número de animais acenando."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more animals or balls? By how much?"
+msgstr "Existem mais animais ou bolas? Por quanto?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With fewer balls than animals, the animals must be good at sharing."
+msgstr "Com menos bolas do que animais, os animais devem ser bons em compartilhar."
 
