@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-10-15 03:15\n"
+"PO-Revision-Date: 2024-10-15 17:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3883,6 +3883,215 @@ msgstr ""
 "Bu, Kedi.\n"
 "\n"
 "Bu, Köpek."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These two are a pair of friends. Point out all the pairs and groups of three you can find in this picture."
+msgstr "Bu ikisi bir çift arkadaş. Bu resimde bulabildiğiniz tüm ikili (çift) ve üçlü grupları gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cats and dogs are mammals. Mammals have fur (or hair), they give birth to babies (not eggs), and the mother feeds her baby milk. Can you think of other animals that are mammals (don't forget yourself!)?"
+msgstr "Kediler ve köpekler memeli hayvanlardır. Memeli hayvanların kürkleri (veya kılları) vardır; yavrularını doğururlar (yumurtlayarak değil) ve anne yavrusunu kendi sütüyle besler. Memeli olan başka hayvanlar biliyor musunuz (kendinizi unutmayın!)?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some ways that Cat and Dog are similar, and some other ways that they are different."
+msgstr "Kedi ve köpeğin benzer ve farklı oldukları bazı yönlerini açıklayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog want to draw.\n"
+"\n"
+"Cat and Dog want to color.\n"
+"\n"
+"Cat and Dog want to make art.\n"
+"\n"
+"Dog starts.\n"
+"\n"
+"He takes a pencil and he takes a paper. The paper is a square."
+msgstr ""
+"Kedi ve Köpek, resim çizmek istiyor.\n"
+"\n"
+"Kedi ve Köpek, boyamak istiyor.\n"
+"\n"
+"Kedi ve Köpek, sanat yapmak istiyor.\n"
+"\n"
+"Köpek, yapmaya başlıyor.\n"
+"\n"
+"Bir kalem alıyor ve bir kâğıt alıyor. Kâğıdı bir karedir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides, like this page. A square is a rectangle with four equal sides. Point out some squares where you are now."
+msgstr "Bir dikdörtgen, bu sayfa gibi dört düz kenarı olan bir şekildir. Kare, dört eşit kenarı olan bir dikdörtgendir. Şu anda bulunduğunuz yerdeki birkaç kareyi gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes when we draw, we know exactly what we want to draw. Other times, we have to think and think. If you drew something right now, what would you draw?"
+msgstr "Bazen çizim yaparken, ne çizmek istediğimizi tam olarak biliriz. Diğer zamanlarda ise, onun üstüne düşünmemiz gerekir. Şu anda bir şey çizseydiniz, ne çizerdiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog is holding the pencil in his right paw. When you write or draw, which hand do you use?"
+msgstr "Köpek, kalemi sağ patisinde tutuyor. Peki ya siz, yazarken veya çizerken hangi elinizi kullanırsınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"First, Dog draws an oval.\n"
+"\n"
+"The oval is the body of Cat.\n"
+"\n"
+"Wow, that is simple!"
+msgstr ""
+"Köpek, ilk önce, bir oval çizer.\n"
+"\n"
+"Oval, Kedi’nin gövdesinin şeklidir.\n"
+"\n"
+"Vay canına, bu çok basit!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An oval is like a squished or pulled circle. Ellipses are also ovals. Look for some ovals around where you are."
+msgstr "Oval, ezilmiş (bastırılmış) veya çekilmiş bir daire gibidir. Elipsler de ovaldir. Bulunduğunuz yerde ovaller arayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the tails for Cat and Dog. Describe how they are similar and how they are different."
+msgstr "Kedi ve Köpek’in kuyruklarına bakın. Kuyruklarının nasıl benzer ve nasıl farklı olduklarını açıklayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog draws Cat one step at a time. Which part of Cat do you think Dog will draw next?"
+msgstr "Köpek, Kedi’yi adım adım çizer. Sizce Köpek, bir sonraki adımda Kedi’nin hangi kısmını çizecek?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws two triangles on top of the oval.\n"
+"\n"
+"The two triangles are the ears of Cat and he draws a black triangle in the oval.\n"
+"\n"
+"The black triangle is the nose of Cat and he draws a line above the nose."
+msgstr ""
+"Daha sonra, ovalin tepesine iki üçgen çizer.\n"
+"\n"
+"O çizdiği iki üçgen Kedi’nin kulaklarıdır. Ardından, ovalin içine siyah bir üçgen çizer.\n"
+"\n"
+"Siyah üçgen, Kedi’nin burnudur. Sonrasında, burnun üzerine bir çizgi çizer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An arc is part of a circle. Point to each part of this drawing and name the shape (oval, triangle, arc)."
+msgstr "Bir ‘yay’, dairenin bir parçasıdır. Bu çizimin her bir parçasını gösterip şekillerin isimlerini (oval, üçgen, yay) söyleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look around where you are and see how many of the shapes you can name."
+msgstr "Etrafınıza bir göz atın; bakalım kaç şekli adlandırabileceksiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the line above the nose. That is a surprising line. See what happens to this line in the next two pages."
+msgstr "Burnun üzerindeki çizgiye dikkat edin. Bu şaşırtıcı bir çizgidir! Bakalım sonraki iki sayfada bu çizgiye ne olacak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now he draws the eyes and the eyebrows of Cat.\n"
+"\n"
+"The eyes are two dots.\n"
+"\n"
+"The eyebrows are two lines.\n"
+"\n"
+"Wow, that is easy!"
+msgstr ""
+"Köpek şu anda Kedi’nin gözlerini ve kaşlarını çiziyor.\n"
+"\n"
+"Gözler iki noktadır.\n"
+"\n"
+"Kaşlar iki çizgidir.\n"
+"\n"
+"Vay canına, bu çok kolay!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That unusual line from the last page is the start of Cat's muzzle. That line separates the muzzle from the rest of Cat's face."
+msgstr "Geçtiğimiz sayfadaki o şaşırtıcı çizgi, aslında Kedi’nin ağzının başlangıcıdır. Bu çizgi, Kedi’nin ağzını, yüzünün geri kalanından ayırıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The way people move their eyebrows can tell us what they are feeling. Can you move your eyebrows to show you are surprised? Angry?"
+msgstr "İnsanların kaşlarını oynatma şekilleri, onların bize ne hissettiklerini anlatabilir. Siz de şaşırdığınızı belli etmek için kaşlarınızı hareket ettirebilir misiniz? Kızgın olduğunuzda?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do Cat's eyebrows tell us about how Cat is feeling?"
+msgstr "Kedi’nin kaşları bize Kedi’nin nasıl hissettiği hakkında ne anlatıyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws the mouth of Cat.\n"
+"\n"
+"The mouth is a line.\n"
+"\n"
+"It looks like the letter 'w' and he draws the hairs of Cat.\n"
+"\n"
+"Three hairs on the left side and three hairs on the right side."
+msgstr ""
+"Köpek, daha sonra, Kedi’nin ağzını çizer.\n"
+"\n"
+"Ağzı bir çizgi şeklinde.\n"
+"\n"
+"‘W’' harfine benziyor. Ardından, Kedi’nin bıyıklarını çizer.\n"
+"\n"
+"Sol tarafta üç bıyık ve sağ tarafta da üç bıyık!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The lines beside Cat's nose are whiskers. They are very sensitive to touch. They help a cat sense things in the dark."
+msgstr "Kedi’nin burnunun yanındaki çizgiler bıyıklarıdır. Bıyıkları, dokunmaya karşı çok hassas olup Kedi’nin karanlıkta bir şeyleri algılamasına yardımcı olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the fourth step in the drawing. See if you can describe the steps in order, calling each one by its number."
+msgstr "Bu, çiziminin dördüncü adımıdır. Çizimin adımlarını bir, iki, üç, dört şeklinde sırayla anlatabilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of something you do step by step. Perhaps it is getting dressed or going to the store. List as many of the steps in order that you can think of."
+msgstr "Adım adım yaptığınız bir şeyi düşünün. O şey belki de giyinmek veya alışverişe gitmek olabilir. Aklınıza gelen adımları sırasıyla listeleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drawing is almost finished.\n"
+"\n"
+"He draws the arms and legs of Cat.\n"
+"\n"
+"The arms and legs are lines and he draws the toes of Cat.\n"
+"\n"
+"The toes are circles and he draws the tail of Cat.\n"
+"\n"
+"The tail is a long line."
+msgstr ""
+"Çizim neredeyse bitti sayılır.\n"
+"\n"
+"Köpek, Kedi’nin kollarını ve bacaklarını çizer.\n"
+"\n"
+"Kedi’nin kolları ve bacakları çizgilerden oluşuyor. Ardından, Kedi’nin ayağını çizer.\n"
+"\n"
+"Kedi’nin ayak parmakları dairelerden oluşuyor. Sonra, Kedi’nin kuyruğunu çizer.\n"
+"\n"
+"Kuyruğu uzun bir çizgidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which details still need to be added to this picture?"
+msgstr "Bu resme başka hangi detayların daha eklenmesi gereklidir?"
 
 #. type=data_list
 msgctxt "data_list"
