@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-10-16 01:46\n"
+"PO-Revision-Date: 2024-10-16 02:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9517,6 +9517,402 @@ msgstr "Yaşadığınız yerden uzakta olan ziyaret etmeyi en sevdiğiniz yer ne
 msgctxt "data_list"
 msgid "What is your favorite spot to go to around where you live?"
 msgstr "Yaşadığınız yerin civarında gitmeyi en çok sevdiğiniz yer neresidir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Today I an not going to school.\n"
+"\n"
+"It is a holiday."
+msgstr ""
+"Bugün okula gitmiyorum.\n"
+"\n"
+"Bugün tatil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think she will do with her day off from school?"
+msgstr "Sizce kız, okula gitmediği bugün ne yapacak?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does she like not going to school?"
+msgstr "Okula gitmemeyi neden seviyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she will miss seeing her school friends and teachers?"
+msgstr "Okul arkadaşlarını ve öğretmenlerini görmeyi özleyecek midir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Today I am not going to watch TV.\n"
+"\n"
+"There is no electricity anyway."
+msgstr ""
+"Bugün televizyon izlemeyeceğim.\n"
+"\n"
+"Zaten elektrikler yok."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does she decide to not watch TV?"
+msgstr "Neden televizyon izlememeye karar verdi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would you do if you were to plan a special day?"
+msgstr "Peki ya siz, özel bir gün planlayacak olsaydınız ne yapardınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you do during times when your electricity is not working? Do you have special activities for such times?"
+msgstr "Elektriğinizin olmadığı zamanlarda ne yaparsınız? Böyle zamanlar için özel aktiviteleriniz var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What am I going to do?\n"
+"\n"
+"Today I am going to listen to my body!"
+msgstr ""
+"Ne yapacağım?\n"
+"\n"
+"Bugün vücudumu dinleyeceğim!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her hands only have four fingers! Have you seen someone with four fingers on a hand?"
+msgstr "Onun ellerinde sadece dört parmağı var! Bir elinde dört parmağı olan birini gördünüz mü hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is uncommon, but some people are born with six fingers on a hand. How many more fingers is six fingers than what she has?"
+msgstr "Böyle bir şey nadirdir ama bazı insanlar bir ellerinde altı parmakla doğarlar. Altı parmak, onun sahip olduğundan kaç parmak daha fazladır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you can buy gloves for someone with six fingers?"
+msgstr "Altı parmağı olan birisi için bir eldiven satın alabileceğinizi düşünüyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"First I have to be very quiet.\n"
+"\n"
+"So that I can listen to my own body."
+msgstr ""
+"İlk önce, çok sessiz olmalıyım.\n"
+"\n"
+"Böylece kendi vücudumu dinleyebilirim."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you listened to the sounds your body makes? What are some of them?"
+msgstr "Hiç kendi vücudunuzun çıkardığı sesleri dinlediniz mi? O seslerden bazıları nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you heard your stomach rumbling, grumbling, or gurgling?"
+msgstr "Karnınızın guruldadığını, homurdandığını veya gürül gürül ses çıkardığını duydunuz mu hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever run hard and heard your pulse pounding in your ears?"
+msgstr "Peki ya çok koştuğunuzda nabzınızın kulaklarınızda attığını duydunuz mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Yes, now I can hear my breath.\n"
+"\n"
+"I breath in and out, in and out."
+msgstr ""
+"Evet, şu anda nefesimi duyabiliyorum.\n"
+"\n"
+"Nefes alıyorum, nefes veriyorum, nefes alıp nefes veriyorum."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you stop and listen, can you hear yourself breathing?"
+msgstr "Durup dinlerseniz, nefes alış verişinizi duyabilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you breathe through your mouth or your nose most of the time?"
+msgstr "Çoğu zaman ağzınızdan mı yoksa burnunuzdan mı nefes alıyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Watch the time for half a minute and count your breaths. How many were there?"
+msgstr "Yarım dakika süreyle zaman tutup nefeslerinizi sayın. Kaç nefes oldu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"And I can make my breath noisier. \n"
+"Ssssssssssss!\n"
+"\n"
+"And softer.\n"
+"Mmmmmmmm."
+msgstr ""
+"Ve nefesimi daha gürültülü yapabilirim.\n"
+"Ssssssssssss!\n"
+"\n"
+"Ve daha yumuşak.\n"
+"Mmmmmmmm."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is making her toy fly around by blowing on it very hard. When have you blown hard on something?"
+msgstr "Oyuncağına çok sert üfleyerek onun kendi etrafında uçmasını sağlıyor. Peki ya siz ne zaman bir şeye sertçe üflediniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you blown out candles on a birthday cake or maybe blown on a fire to help it burn?"
+msgstr "Hiç doğum günü pastasındaki mumlara veya mumların yanmasına yardımcı olmak için ateşe üflediniz mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How old were you at your last birthday?"
+msgstr "Son doğum gününüzde kaç yaşındaydınız?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now I can hear my heart beating!\n"
+"\n"
+"Doodom, doodoom, dooo dooom."
+msgstr ""
+"Şu anda kalbimin atışını duyabiliyorum!\n"
+"\n"
+"Dum dum, dum dum, dum dum."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is not easy to hear your own heart beating. Can you hear yours?"
+msgstr "Kendi kalbinizin atışını duymak kolay değildir. Siz duyabiliyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Put your ear on someone's chest so you can hear their heart beating."
+msgstr "Kulağınızı birinin göğsüne dayayın, böylece o kişinin kalp atışlarını duyabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think your heart ever stops beating? Most of your muscles can get tired, but your heart muscle never does!"
+msgstr "Sizce kalbiniz atmayı bırakır mı hiç? Kaslarınızın çoğu yorulabilir ama kalp kasınız asla yorulmaz!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Can I make my heart go faster or louder?\n"
+"\n"
+"Yes, by jumping up and down twenty times."
+msgstr ""
+"Kalbimin daha hızlı veya daha gürültülü atmasını sağlayabilir miyim?\n"
+"\n"
+"Evet, yukarı aşağı 20 kez zıplayarak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count to 20 to count the jumps?"
+msgstr "Zıplamaları saymak için 20’ye kadar sayabilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you can't count to 20, you can count to 10 and then immediately count to 10 again. That will be just the same."
+msgstr "Eğer 20’ye kadar sayamıyorsanız 10’a kadar sayabilir ve hemen ardından tekrar 10’a kadar sayabilirsiniz. Bu ikisi aynı şeylerdir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you run around and start breathing hard, do you sometimes feel your heart beating in your chest?"
+msgstr "Etrafta koştuğunuzda ve zor nefes almaya başladığınızda, bazen kalbinizin aşırı attığını hissediyor musunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now see, my heart is beating faster."
+msgstr "Şimdi bakın, kalbim daha hızlı atıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen your own heart beating in your chest? Is it possible to see it?"
+msgstr "Kalbinizin göğüs kafesinizde attığını gördünüz mü hiç? Bunu görmek mümkün müdür?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The storyteller and artist are stretching the truth a bit here. Have you ever stretched the truth a bit to make a story a little more interesting?"
+msgstr "Burada hikâye anlatıcısı ve illüstratör gerçekten biraz uzaklaşmışlar. Bir hikâyeyi biraz daha ilginç kılmak için sizin de gerçekten biraz uzaklaştığınız oldu mu hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her toy is covering its ears because the heart is beating so loudly. Is it possible to hear someone else's heart from a distance?"
+msgstr "Kızın oyuncağı kulaklarını kapatıyor çünkü kızın kalbi çok yüksek sesle atıyor. Sizce birinin kalbini uzaktan duymak mümkün müdür?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If I put my fingers on my wrist, then I can feel my pulse!"
+msgstr "Parmaklarımı bileğimin üzerine koyarsam, o zaman nabzımı hissedebilirim!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you feel your pulse on your wrist? Some people like to feel their pulse on their neck or on their head. Try it!"
+msgstr "Peki ya siz, nabzınızı bileğinizde hissedebiliyor musunuz? Bazı insanlar nabızlarını boyunlarında veya başlarında hissetmeyi severler. Haydi bir deneyin!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count your pulse for ten seconds. Did you get a count between 7 and 20?"
+msgstr "Nabzınızı on saniye boyunca sayın. 7 ile 20 arasında bir sayı elde ettiniz mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have another person do the same thing and compare the counts you got. Whose count was more and whose was less?"
+msgstr "Başka bir kişiye de aynı şeyi yaptırın ve elde ettiğiniz sayıları karşılaştırın. Kimin sayısı daha fazlaydı ve kiminki daha azdı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear myself laughing.\n"
+"\n"
+"Haha, haha, haaah, haaa!"
+msgstr ""
+"Kendimi gülerken duyabiliyorum.\n"
+"\n"
+"Haha, haha, haaah, haaa!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is very expressive, so her laughter is probably very loud. Is it possible to laugh softly? Can you do it?"
+msgstr "Kız, yüz ifadesinden ne hissettiğini gösteren birisi; kahkahası da muhtemelen çok yüksek sesli! Alçak sesli bir şekilde gülmek mümkün müdür? Bunu yapabilir misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often like to laugh together. When you laugh, do other people laugh with you?"
+msgstr "İnsanlar genellikle ‘birlikte gülmeyi’ severler. Peki siz güldüğünüzde, diğer insanlar da sizinle birlikte gülerler mi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even when there is nothing funny happening, sometimes just laughing out loud can make you feel better."
+msgstr "Ortada komik bir şey olmasa da bazen sadece yüksek sesle gülmek bile kendinizi daha iyi hissetmenizi sağlayabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I can hear myself crying. Boohoooo hooo!"
+msgstr "Ağladığımı duyabiliyorum. Aaahhhh! Aahh!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she is really crying, or is she just pretending?"
+msgstr "Sizce kız gerçekten mi ağlıyor yoksa numara mı yapıyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you ever pretend to cry so that people will feel sorry for you?"
+msgstr "İnsanlar sizin için üzülsün diye ağlıyormuş gibi yaptınız mı hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people feel much better after they cry. Do you feel better after you cry?"
+msgstr "Bazı insanlar ağladıktan sonra kendilerini çok daha iyi hissederler. Peki ya siz, ağladıktan sonra kendinizi daha iyi hisseder misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear myself clapping.\n"
+"\n"
+"Clap, clap, clap."
+msgstr ""
+"Kendimi alkışlarken duyabiliyorum.\n"
+"\n"
+"Şak, şak, şak!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a pattern using claps and foot stomps on the ground."
+msgstr "Alkışlarınızı (şak) ve yere ayak vuruşlarınızı (pat) kullanarak seslerden oluşan bir desen (örüntü) oluşturun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was your pattern complicated, or was it as simple as: clap clap stomp, clap clap stomp?"
+msgstr "Örüntünüz karmaşık mıydı yoksa şu kadar basit miydi: şak, şak, şak, pat, şak, şak, pat?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dancing is often a pattern of movements with your arms and legs. Do you like to dance?"
+msgstr "Dans etmek genellikle kollarınız ve bacaklarınızla yaptığınız hareketlerden oluşan bir örüntüdür (desendir). Dans etmeyi sever misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear my stomach rumbling!\n"
+"\n"
+"Guddu, guddu, guddu."
+msgstr ""
+"Midemin guruldadığını duyabiliyorum!\n"
+"\n"
+"Gurr, gurr, gurr!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your stomach rumbles, what is your body feeling?"
+msgstr "Mideniz guruldadığında, vücudunuz ne hisseder?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does your stomach ever rumble when it is having trouble digesting something or when you're sick?"
+msgstr "Mideniz bir şeyi sindirmekte zorlandığında veya hasta olduğunuzda hiç gurulduyor mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at her face, what is she feeling right now?"
+msgstr "Kızın yüzüne baktığınızda, sizce o şu anda ne hissediyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My stomach is saying, \"Feed me!\""
+msgstr "Midem, \"Beni doyur!\" diyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been so hungry you couldn't wait and you had to eat immediately?"
+msgstr "Peki ya siz, bekleyemeyeceğiniz kadar çok acıkıp çabucak yemek yemek zorunda kaldınız mı hiç?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think her stomach is really shoving her to get some food?"
+msgstr "Sizce kızın midesi onu gerçekten yemek yemesi için zorluyor mudur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each time she bounds forward, she takes two steps. You can count those steps by counting by 2's -- 2, 4, 6, 8, ..."
+msgstr "Kız her ileri atılışında (ileriye zıpladığında), iki adım atıyor. Bu adımları ikişer ikişer de sayabilirsiniz -- 2, 4, 6, 8, ... "
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"My nose can smell cakes baking in mother's kitchen.\n"
+"\n"
+"And now I want to hear my jaws chewing those cakes!"
+msgstr ""
+"Burnum annemin mutfağında pişen keklerin kokusunu alabiliyor.\n"
+"\n"
+"Ve şimdi ise çenemin o kekleri çiğnediğini duymak istiyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many really small cakes do you think she will eat?"
+msgstr "Sizce kız gerçekten kaç adet küçük kek yer?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the most cookies or other snack you've eaten at one time?"
+msgstr "Sizin tek seferde yediğiniz en fazla kurabiye veya diğer atıştırmalıklar nelerdir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
+msgstr "Bu hikâye, vücudunuzdan duyabileceğiniz pek çok farklı sesten bahsetti. Kaçını hatırlayabiliyorsunuz?"
 
 #. type=data_list
 msgctxt "data_list"
