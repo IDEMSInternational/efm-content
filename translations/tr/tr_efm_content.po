@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-10-17 01:05\n"
+"PO-Revision-Date: 2024-10-17 01:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6506,8 +6506,133 @@ msgstr "Bu hikâyede 10’a kadar saymalar ve vücutları karşılaştırmalar v
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How Many?"
+msgstr "Kaç Tane?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
+msgstr "Bu hikâye, 14’e kadar saymayı ve atlayarak saymayı içerir. Alıştırma sözcükleri: 14’e kadar sayılar, atlayarak sayma (ritmik sayma), daha fazla, daha az, bir fazlası (bir tane daha), üç fazlası (üç tane daha), iki katı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I Love Forests"
+msgstr "Ormanları Seviyorum"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to ten and comparing quantities. Practice words: numbers to ten, counting by 2's, one more, one less, most, and least."
+msgstr "Bu hikâyede 10’a kadar saymalar ve miktarları karşılaştırmalar var. Alıştırma sözcükleri: 10’a kadar sayılar, ikişer ikişer sayma, bir fazla(sı), bir az(ı), en çok, en az."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is There Anyone Like Me?"
+msgstr "Benim Gibi Başka Biri Var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 8 and comparing. Practice words: one more, one less, take away, fact family, symmetry, mirror symmetry, similarity, difference, and same."
+msgstr "Bu hikâyede 8’e kadar saymalar ve karşılaştırmalar var. Alıştırma sözcükleri: bir fazla(sı), bir az(ı), çıkarma (alıp götürme), işlem ailesi, simetri, ayna simetrisi, benzerlik, farklılık, fark, aynı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Listen to My Body"
+msgstr "Vücudumu Dinleyin"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has  counting to 10 and comparing. Practice words: more, less, difference, and counting by 2's."
+msgstr "Bu hikâyede 20’ye kadar saymalar ve karşılaştırmalar var. Alıştırma sözcükleri: daha fazla, daha az, fark, ikişer ikişer ritmik sayma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Little Jojo's Long Tall Tale"
+msgstr "Küçük Jojo’nun Uzun Hikâyesi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has many shapes. Practice words: circle, round, short, polygon, side, triangle, quadrilateral, pentagon, hexagon, square, rectangle, diamond, rhombus, cone, pattern, concentric circles, colors, tall, tallest, far, farthest, long, half, pair, add, subtract, easy, hard, easier, harder, and problem solving."
+msgstr "Bu hikâyede bir sürü şekiller var. Alıştırma sözcükleri: daire, çember, yuvarlak, kısa, çokgen, kenar, üçgen, dörtgen, beşgen, altıgen, kare, dikdörtgen, elmas, eşkenar dörtgen, koni, desen, eş merkezli daireler, renkler, uzun, en uzun, uzak, en uzak, yarım, çift, toplama, çıkarma, kolay, daha kolay, zor, daha zor, problem çözme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory Dory"
+msgstr "Lory Dory"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's."
+msgstr "Bu hikâyede şekiller ve betimlemeler var. Alıştırma sözcükleri: ince, çiftler halinde, çizgi, paralel, yatay, dikey, dik, negatif uzay, farklı, üçgen, yan, düz, küre, daire, yay, kırmızı, mavi, sağ, sol, beşer beşer ritmik (atlayarak) sayma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Maguru Gives Legs"
+msgstr "Maguru Bacak Dağıtıyor!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero."
+msgstr "Bu hikâyede şekiller ve gruplamalar var. Alıştırma sözcükleri: uzun, yuvarlak, koni, düz, dikdörtgen, kare, yakın, daha yakın, tahmin, ikişer ikişer ve dörder dörder atlayarak (ritmik) sayma, renkler, daha fazla, daha az, nesne özellikleri, özelliğe göre gruplama, daha az sayıda, ilk, son, sonra, önce, daha hızlı, daha yavaş, hiçbiri, sıfır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun Moon and Water"
+msgstr "Güneş, Ay ve Su"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has many shapes. Practice words: rainbow, circle, arc, polygon, rectangle, pentagon, big, large, straight, curved, box, top, many, color names, rainbow, next, and too much."
+msgstr "Bu hikâyede bir sürü şekiller var. Alıştırma sözcükleri: gökkuşağı, daire, çember, yay, poligon, dikdörtgen, beşgen, büyük, geniş, düz, eğri, kutu, en üst (tepe), fazla, renk isimleri, yanında, çok fazla."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise Finds his House"
+msgstr "Kaplumbağa Evini Buluyor"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
+msgstr "Bu hikâyede betimlemeler ve karşılaştırmalar var. Alıştırma sözcükleri: yüksek, üzerinde, üzerine, ortalama, hız, sürat, 5 kez, çift halde, tek sayı, çift sayı, paylaşım (paylaşma), çok fazla, çok, hızlı, uzun, mesafe, hafif, ağır, daha düşük, daha yüksek, farklı, tahmin, daha çok, daha güçlü, dikey, çapraz, paralel çizgiler, büyük."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Horses of Debre Birhan"
 msgstr "Debre Birhan’ın Atları"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
+msgstr "Bu hikâye, karşılaştırma sözcüklerini ve gruplar halinde saymaları içerir. Şu kelimeleri kullanarak alıştırma yapın: ağır, daha hızlı, yeterli, daha fazla, çok sıkı, çok, eski, ikişer ikişer ve dörder dörder atlayarak sayma, eşit paylaşım, çift, eşleştirme, tek sayı, çift, tahmin (değer biçme), yüz, bin, milyon, yan taraf, karşı taraf, yuvarlak, dikdörtgen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena and Tortoise"
+msgstr "Sırtlan ve Kaplumbağa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
+msgstr "Bu hikâye, şekilleri ve miktarları içerir. Alıştırma sözcükleri: yuvarlak, koni, farklı şekil, altıgen, düzgün altıgen, fayans tasarımları, kareler, desenler, daha çok, daha az, daha az sayıda, aynı, eşit, sayı farkı, tahmin, daha güçlü, daha zayıf, daha hızlı, daha yavaş, yavaşça, hız (sürat)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Singing the Truth: The Story of Miriam Makeba"
+msgstr "Gerçeği Şarkıyla Söylemek: Miriam Makeba'nın Hikâyesi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
+msgstr "Bu hikâyede bir sürü şekiller var. Alıştırma sözcükleri: şekil, dikdörtgen, düz çizgi, daire, çember, yay, oval, kemer, koni, elips, farklı, aynı, düz yüzey, ana hat, şerit."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who Can Count to Ten?"
+msgstr "Kim 10’a Kadar Sayabilir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
+msgstr "Bu hikâyede saymalar, karşılaştırmalar ve problem çözmeler ele alınmaktadır. Alıştırma sözcükleri: 10’a kadar ve 10’dan büyük sayılar, ikişer ikişer, üçer üçer, dörder dörder, beşer beşer ve on’ar on’ar atlayarak saymalar, tek sayılar, daha fazla (daha çok), fark, toplama, kombinasyon, toplam, çizgiler (şeritler), noktalar (benekler, lekeler), büyük, en büyük, hızlı, en hızlı, güçlü, en güçlü, geniş, en geniş, yüksek, daha yüksek, örüntü (desen), problem çözme."
 
 #. type=data_list
 msgctxt "data_list"
