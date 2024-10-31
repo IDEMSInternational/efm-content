@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese\n"
 "\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-10-31 04:55\n"
+"PO-Revision-Date: 2024-10-31 12:19\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1581,7 +1581,7 @@ msgid ""
 "\n"
 "They walk in their village."
 msgstr ""
-"Gato e Cachorro caminham.\n"
+"Gato e Cão caminham.\n"
 "\n"
 "Eles caminham em sua vila."
 
@@ -1598,7 +1598,7 @@ msgstr "Há muitas coisas para contarem juntos - um pássaro, um gato, um cachor
 #. type=data_list
 msgctxt "data_list"
 msgid "Two of the buildings are round around the base. The third one has a base shaped like this page."
-msgstr "Dois dos prédios são redondos na base. O terceiro tem uma base em forma desta página."
+msgstr "Dois dos prédios são redondos na base. O terceiro tem uma base quadrada."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1632,7 +1632,7 @@ msgstr "Nomeie um animal que ponha ovos."
 #. type=data_list
 msgctxt "data_list"
 msgid "Cat and Dog pick up the egg. It is usually better to leave eggs where you find them."
-msgstr "Gato e Cachorro pegam o ovo. Geralmente é melhor deixar os ovos onde você os encontra."
+msgstr "Gato e Cão pegam o ovo. Geralmente é melhor deixar os ovos onde você os encontra."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1641,14 +1641,14 @@ msgid ""
 "\n"
 "They ask the bird, \"Is this your egg?\""
 msgstr ""
-"Gato e Cachorro caminham até um pássaro.\n"
+"Gato e Cão caminham até um pássaro.\n"
 "\n"
 "Eles perguntam ao pássaro: \"Este ovo é seu?\""
 
 #. type=data_list
 msgctxt "data_list"
 msgid "The egg is round. Point to other things with round sides."
-msgstr "O ovo é redondo. Aponte para outras coisas com lados redondos."
+msgstr "O ovo é redondo. Aponte para outras coisas redondas no desenho."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1658,7 +1658,7 @@ msgstr "Aponte para as coisas redondas onde você está."
 #. type=data_list
 msgctxt "data_list"
 msgid "Describe where the bird is -- Cat and Dog are below the roof and below the bird, and the bird is above them."
-msgstr "Descreva onde está o pássaro – Gato e Cachorro estão abaixo do telhado e abaixo do pássaro, e o pássaro está acima deles."
+msgstr "Descreva onde está o pássaro - Gato e Cão estão abaixo do telhado e abaixo do pássaro, e o pássaro está acima deles."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1687,7 +1687,7 @@ msgid ""
 "\n"
 "They ask the owl, \"Is this your egg?\""
 msgstr ""
-"Gato e Cachorro caminham até a coruja.\n"
+"Gato e Cão caminham até a coruja.\n"
 "\n"
 "Eles perguntam à coruja: \"Este ovo é seu?\""
 
@@ -1719,7 +1719,7 @@ msgstr "Se você erra duas vezes, fica desanimado?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Cat and Dog are great at persisting -- trying over and over until they succeed. Are you good at persisting?"
-msgstr "Gato e Cachorro são ótimos em persistir - tentar repetidamente até conseguir. Você é bom em persistir?"
+msgstr "Gato e Cão são ótimos em persistir - tentar repetidamente até conseguir. Você é bom em persistir?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1733,7 +1733,7 @@ msgid ""
 "\n"
 "They ask the goose, \"Is this your egg?\""
 msgstr ""
-"Gato e Cachorro caminham até a gansa.\n"
+"Gato e Cão caminham até a gansa.\n"
 "\n"
 "Eles perguntam à gansa: \"Este ovo é seu?\""
 
@@ -1760,7 +1760,7 @@ msgstr "Mas a gansa diz: \"Não, esse ovo não é meu. Pergunte aos dois patos. 
 #. type=data_list
 msgctxt "data_list"
 msgid "Do you think Cat and Dog will give up? Would you give up at this point?"
-msgstr "Você acha que Gato e Cachorro desistirão? Você desistiria nesse ponto?"
+msgstr "Você acha que Gato e Cão desistirão? Você desistiria nesse ponto?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1770,7 +1770,7 @@ msgstr "Com quantas aves eles conversaram?"
 #. type=data_list
 msgctxt "data_list"
 msgid "If they can't find the home for the egg, what should they do with it?"
-msgstr "Se não conseguirem encontrar a casa para o ovo, o que devem fazer com ele?"
+msgstr "Se não conseguirem encontrar a casa do ovo, o que devem fazer com ele?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1779,7 +1779,7 @@ msgid ""
 "\n"
 "They ask the two ducks, \"Is this your egg?\""
 msgstr ""
-"Gato e Cachorro caminham até os dois patos.\n"
+"Gato e Cão caminham até os dois patos.\n"
 "\n"
 "Eles perguntam aos patos: \"Este ovo é de vocês?\""
 
@@ -1859,7 +1859,7 @@ msgid ""
 msgstr ""
 "O filhote de lagarto diz: \"Onde está minha mãe? Onde está meu pai? Onde estão minha mãe e meu pai?\"\n"
 "\n"
-"Gato e Cachorro levam o filhote de lagarto para sua mãe e seu pai."
+"Gato e Cão levam o filhote de lagarto para sua mãe e seu pai."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1885,11 +1885,11 @@ msgid ""
 "\n"
 "Bye bye baby lizard."
 msgstr ""
-"Tchau Tchau Gato.\n"
+"Tchau, Gato.\n"
 "\n"
-"Tchau Tchau Cachorro.\n"
+"Tchau, Cão.\n"
 "\n"
-"Tchau Tchau lagarto filhote."
+"Tchau, bebê lagarto."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1945,27 +1945,27 @@ msgstr "Contem as árvores juntos."
 #. type=data_list
 msgctxt "data_list"
 msgid "A full moon forms a complete circle. A moon that is a partial circle like this is called a crescent moon."
-msgstr "Uma Lua cheia forma um círculo completo. Uma Lua que é um círculo parcial como esta é chamada de lua crescente."
+msgstr "Uma lua cheia forma um círculo completo. Uma lua que é um círculo parcial como na imagem é chamada de lua crescente."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "For Dog it is too cold."
-msgstr "Para o Cachorro está muito frio."
+msgstr "Para o Cão, está muito frio."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "What shows you that Dog is cold?"
-msgstr "O que mostra que o Cachorro está com frio?"
+msgstr "O que mostra que o Cão está com frio?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "A light blue color is often used to show something cold. Does seeing blue make you feel cold?"
-msgstr "A cor azul clara é frequentemente usada para mostrar algo frio. Ver azul te faz sentir frio?"
+msgstr "A cor azul clara é frequentemente usada para mostrar algo frio. Ver a cor azul te faz sentir frio?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "On cold nights, even outdoor animals can use help with the cold."
-msgstr "Nas noites frias, até os animais ao ar livre podem precisar de ajuda com o frio."
+msgstr "Nas noites frias, até os animais ao ar livre podem precisar de ajuda para se esquentar."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1974,14 +1974,14 @@ msgid ""
 "\n"
 "One pair of underwear is dirty. One pair of underwear is clean."
 msgstr ""
-"O Gato dá roupas para o Cachorro.\n"
+"O Gato dá roupas para o Cão.\n"
 "\n"
 "Uma delas está suja. Uma delas está limpa."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Is this choice of underwear very helpful?"
-msgstr "Essa escolha de roupa é útil?"
+msgstr "Esse tipo de roupa vai ajudar a esquentar o Cão?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1996,27 +1996,27 @@ msgstr "Por que o Gato não está com frio?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Dog takes the clean underwear. But it is still too cold."
-msgstr "O Cachorro pega a roupa limpa. Mas ainda está muito frio."
+msgstr "O Cão pega a roupa limpa. Mas ainda está muito frio."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Count together how much clothing Dog has. Dog is cold and needs more."
-msgstr "Contem juntos quantas peças de roupa o Cachorro tem. Ele está com frio e precisa de mais."
+msgstr "Contem juntos quantas peças de roupa o Cão tem. Ele está com frio e precisa de mais."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Remember a time when you were cold and how hard it was to get warm."
-msgstr "Lembre-se de um momento em que você sentiu frio e como foi difícil se aquecer."
+msgstr "Lembre um momento em que você sentiu frio e como foi difícil se aquecer."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Why are Dog's arms crossed in front?"
-msgstr "Por que os braços do Cachorro estão cruzados na sua frente?"
+msgstr "Por que os braços do Cão estão cruzados?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Cat gives Dog shirts. One shirt is big. One shirt is small."
-msgstr "O Gato dá camisetas para o Cachorro. Uma é muito grande. Uma é muito pequena."
+msgstr "O Gato dá camisetas para o Cão. Uma é grande. Uma é pequena."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2036,17 +2036,17 @@ msgstr "Qual das patas do Gato tem garras mais visíveis?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Dog takes the big shirt. But it is still too cold."
-msgstr "O Cachorro pega a camisa grande. Mas ainda está muito frio."
+msgstr "O Cão pega a camisa grande. Mas ainda está muito frio."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Count the pieces of clothing Dog has. Is it enough?"
-msgstr "Contem quantas peças de roupa o Cachorro tem. É suficiente?"
+msgstr "Contem quantas peças de roupa o Cão tem. É suficiente?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "A square is a shape like a piece of paper with four equal sides. Compare the round moon with the square window."
-msgstr "Um quadrado é uma forma como um pedaço de papel com quatro lados iguais. Compare a Lua redonda com a janela quadrada."
+msgstr "Um quadrado é uma forma como um pedaço de papel com quatro lados iguais. Compare a lua redonda com a janela quadrada."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2060,7 +2060,7 @@ msgid ""
 "\n"
 "One pair of pants is long. One pair of pants is short."
 msgstr ""
-"O Gato dá calças para o Cachorro.\n"
+"O Gato dá calças para o Cão.\n"
 "\n"
 "Um par de calças é comprido. Um par de calças é curto."
 
@@ -2077,27 +2077,27 @@ msgstr "Quando você está com frio, você usa bermudas?"
 #. type=data_list
 msgctxt "data_list"
 msgid "What will happen with Dog's tail? Do these pants have a hole for Dog's tail?"
-msgstr "O que acontecerá com a cauda do Cachorro? Estas calças têm um buraco para a cauda do Cachorro?"
+msgstr "O que acontecerá com o rabo do Cão? Estas calças têm um buraco para o rabo dele?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Dog takes the long pair of pants. But it is still too cold."
-msgstr "O Cachorro pega o par de calças comprido. Mas ainda está muito frio."
+msgstr "O Cão pega o par de calças comprido. Mas ainda está muito frio."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Each time, Dog gets one more piece of clothing. How many pieces does Dog have on now?"
-msgstr "Cada vez o Cachorro recebe mais uma peça de roupa. Quantas peças ele tem agora?"
+msgstr "Cada vez o Cão ganha mais uma peça de roupa. Quantas peças ele tem agora?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "How many pieces will Dog need?"
-msgstr "Quantas peças o Cachorro vai precisar?"
+msgstr "Quantas peças o Cão vai precisar?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Do you think there is any way Dog will get warm?"
-msgstr "Você acha que há alguma maneira do Cachorro se aquecer?"
+msgstr "Você acha que há alguma maneira do Cão se aquecer?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2106,9 +2106,9 @@ msgid ""
 "\n"
 "Dog takes the dry vest, but it is still too cold."
 msgstr ""
-"O Gato dá coletes para o Cachorro. Um colete está molhado, um está seco.\n"
+"O Gato dá coletes ao Cão. Um colete está molhado, um está seco.\n"
 "\n"
-"O Cachorro pega o colete seco, mas ainda está muito frio."
+"O Cão pega o colete seco, mas ainda está muito frio."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2123,7 +2123,7 @@ msgstr "O Cachorro tinha três peças de roupa. O colete é uma a mais. Quantas 
 #. type=data_list
 msgctxt "data_list"
 msgid "With the vest, Dog has four pieces of clothing. Before he put the vest on, he had one less. How many was that?"
-msgstr "Com o colete, o Cachorro tem quatro peças de roupa. Antes de colocar o colete, ele tinha uma a menos. Quantas eram?"
+msgstr "Com o colete, o Cão tem quatro peças de roupa. Antes de colocar o colete, ele tinha uma a menos. Quantas eram?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2132,7 +2132,7 @@ msgid ""
 "\n"
 "Dog takes the thick jacket, but it is still too cold."
 msgstr ""
-"O Gato dá jaquetas para o Cachorro. Uma jaqueta é grossa, uma é fina.\n"
+"O Gato dá jaquetas para o Cão. Uma jaqueta é grossa, uma é fina.\n"
 "\n"
 "O Cachorro pega a jaqueta mais grossa, mas ainda está muito frio."
 
@@ -2144,12 +2144,12 @@ msgstr "Roupas mais grossas ajudam a manter o calor e a ficar mais quente."
 #. type=data_list
 msgctxt "data_list"
 msgid "Does the color of the jacket look odd with Dog's other clothes?"
-msgstr "A cor da jaqueta parece estranha com as outras roupas do Cachorro?"
+msgstr "A cor da jaqueta parece estranha com as outras roupas do Cão?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Dog now has one more than four. How many is that?"
-msgstr "O Cachorro agora tem uma a mais que quatro. Quantas são agora?"
+msgstr "O Cão agora tem uma a mais que quatro. Quantas são agora?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2158,24 +2158,24 @@ msgid ""
 "\n"
 "Dog takes the high hat, but it is still too cold."
 msgstr ""
-"O Gato dá chapéus para o Cachorro. Um chapéu é comprido, um chapéu é baixo.\n"
+"O Gato dá chapéus para o Cão. Um chapéu é alto, um chapéu é baixo.\n"
 "\n"
-"O Cachorro pega o chapéu alto, mas ainda está muito frio."
+"O Cão pega o chapéu comprido, mas ainda está muito frio."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Point at the short hat and the tall hat."
-msgstr "Aponte para o chapéu curto e para o alto."
+msgstr "Aponte para o chapéu baixo e para o alto."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Does it matter which hat Dog chooses? Is one hat warmer than the other?"
-msgstr "Importa qual chapéu o Cachorro escolhe? Um chapéu é mais quente que o outro?"
+msgstr "A escolha do chapéu importa para o Cão? Um chapéu é mais quente que o outro?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Do you have any hats? If so, do you like to wear them?"
-msgstr "Você tem chapéus? Se sim, gosta de usá-los?"
+msgstr "Você tem chapéus? Se sim, gosta de usar eles?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2184,14 +2184,14 @@ msgid ""
 "\n"
 "One pair of shoes is new, one pair of shoes is old."
 msgstr ""
-"O Gato dá sapatos para o Cachorro.\n"
+"O Gato dá sapatos para o Cão.\n"
 "\n"
 "Um par de sapatos é novo, um par é velho."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "To give someone a choice, how many things do you need? Would having one thing be enough for a choice?"
-msgstr "Para dar a alguém uma escolha, quantas coisas você precisa? Ter apenas uma coisa seria suficiente para uma escolha?"
+msgstr "Para oferecer uma escolha a alguém, você precisa de quantas opções? Ter apenas uma opção seria suficiente para realizar uma escolha?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2201,7 +2201,7 @@ msgstr "Uma pessoa pode ficar confusa se você der muitas coisas para escolher."
 #. type=data_list
 msgctxt "data_list"
 msgid "Dog is still cold. Why are Dog's choices not helping?"
-msgstr "O Cachorro ainda está com frio. Por que as escolhas do Cachorro não estão ajudando?"
+msgstr "O Cão ainda está com frio. Por que as escolhas do Cão não estão ajudando?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2210,9 +2210,9 @@ msgid ""
 "\n"
 "It is not too cold for Dog."
 msgstr ""
-"O Cachorro pega os sapatos novos e então...\n"
+"O Cão pega os sapatos novos e então...\n"
 "\n"
-"Não está mais tão frio para o Cachorro."
+"Não está mais tão frio para o Cão."
 
 #. type=data_list
 msgctxt "data_list"
