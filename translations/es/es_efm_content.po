@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-11-01 18:02\n"
+"PO-Revision-Date: 2024-11-01 18:59\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15876,6 +15876,34 @@ msgstr ""
 msgctxt "data_list"
 msgid "3.1 Mental Adding by Counting On"
 msgstr "Paso 21: Suma mental contando adelante"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Gradual change:** As your child develops skill with small adding and subtracting problems, gradually shift over to doing more of these calculations mentally. Don't be in a hurry to memorize. This time spent calculating answers by seeing the relationships between numbers will pay off handsomely in terms of a much better feel and understanding of numbers. If your child masters these facts by grinding through repeated drills with flash cards, you will have thrown away this important opportunity.\n"
+"\n"
+"**Counting on:** Use 6 + 3 as an example of adding by Counting On.\n"
+"\n"
+"Initially, your child will want to do this using their fingers, and that is fine. Say \"6\" and have a closed fist to indicate 0. Next, count up \"7, 8, 9\" and raise one finger with each number. Stop at 9, when three fingers have been raised.\n"
+"\n"
+"Over time, using fingers with small addition problems will become less necessary. Your child will start to mentally see the change of 3 in going from 6 to 9, and will no longer need to use fingers – just as they no longer need fingers for adding 1 or 2.\n"
+"\n"
+"**Start from the larger number:** With experience, your child will start to realize that it is easier and faster to start with the larger of the two numbers. For example, it is easier to do 3 + 6 as 6 Counted On with 3 more than it is do it as 3 Counted On with 6 more. Part of making this choice is realizing that the results of 3 + 6 and 6 + 3 are the same. This important observation will mean learning only about half as many addition facts!"
+msgstr ""
+"**Cambio gradual:** A medida que su niño/niña desarrolla habilidades con pequeños problemas de suma y resta, cambie gradualmente a hacer más de estos cálculos mentalmente. No tengas prisa por memorizar. Este tiempo dedicado a calcular respuestas observando las relaciones entre los números dará buenos resultados en términos de una mejor comprensión de los números. Si su niño/niña domina estos datos mediante ejercicios repetidos con tarjetas didácticas, habrá desperdiciado esta importante oportunidad.\n"
+"\n"
+"**Contando adelante** Use 6 + 3 como ejemplo de suma por contar adelante.\n"
+"\n"
+"Inicialmente, su niño/niña querrá hacer esto con los dedos, y eso está bien. Diga \"6\" y cierre el puño para indicar el 0. A continuación, cuenten \"7, 8, 9\" y levante un dedo con cada número. Deténgase en el 9, cuando haya levantado tres dedos.\n"
+"\n"
+"Con el tiempo, usar los dedos con pequeños problemas de suma se volverá menos necesario. Su niño/niña comenzará a ver mentalmente el cambio de 3 en ir de 6 a 9, y ya no tendrá que usar los dedos - al igual que ya no necesitan dedos para agregar 1 o 2.\n"
+"\n"
+"**Empiecen con el número más alto:** Con la experiencia, su niño/niña comenzará a darse cuenta de que es más fácil y rápido comenzar con el mayor de los dos números. Por ejemplo, es más fácil hacer 3 + 6 como 6 con 3 más que hacerlo como 3 con 6 más. Parte de tomar esta decisión es darse cuenta de que los resultados de 3 + 6 y 6 + 3 son los mismos. ¡Esta importante observación significará aprender solo la mitad de las operaciones de suma!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3.2 Mental Subtracting – Take Away"
+msgstr "Paso 22: Resta mental: Quitar"
 
 #. type=data_list
 msgctxt "data_list"
