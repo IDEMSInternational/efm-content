@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-11-02 02:35\n"
+"PO-Revision-Date: 2024-11-02 03:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16761,8 +16761,38 @@ msgstr "Cita de juego 1"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects."
+msgstr "**Enfoque:** Utilice la Charla matemática para señalar y describir objetos a su niño/niña. Hable de las propiedades de estos objetos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has color words."
+msgstr "Este libro tiene nombres de colores."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the properties of things."
+msgstr "Comprenden las propiedades de las cosas cotidianas."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 1-2"
 msgstr "Cita de juego 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child."
+msgstr "**Enfoque:** Continúe usando la charla matemática para señalar y describir objetos a su niño/niña."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This looks at how clothes can be too big or too small."
+msgstr "Este libro trata de cómo la ropa puede ser demasiado grande o demasiado pequeña."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These practice shapes and descriptions."
+msgstr "Estas practican formas y descripciones."
 
 #. type=data_list
 msgctxt "data_list"
