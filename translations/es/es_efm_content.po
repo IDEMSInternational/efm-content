@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-11-02 04:35\n"
+"PO-Revision-Date: 2024-11-03 16:27\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9005,6 +9005,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "LEVANTARSE / SENTARSE"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
 "\n"
@@ -16756,6 +16761,22 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stage 1 Overview"
+msgstr "Resumen de la etapa 1"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 1 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 1 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**Resumen de las citas de juego de la etapa 1**\n"
+"\n"
+"El paso de aprendizaje matemático para la introducción a la etapa 1 brinda una descripción general de los temas que se abordan durante esta etapa. Cada cita de juego incluye un libro de cuentos sugerido y algunas actividades matemáticas."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 1-1"
 msgstr "Cita de juego 1"
 
@@ -16798,6 +16819,11 @@ msgstr "Estas practican formas y descripciones."
 msgctxt "data_list"
 msgid "Playdate 1-3"
 msgstr "Cita de juego 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child."
+msgstr "**Enfoque:** Describe todas las matemáticas que los rodean dondequiera que vayan. Usa la charla matemática para hablar sobre ellas con tu niño/niña."
 
 #. type=data_list
 msgctxt "data_list"
@@ -16948,6 +16974,22 @@ msgstr "Este libro tiene formas en cada página."
 msgctxt "data_list"
 msgid "These continue the ongoing discussions about properties and patterns."
 msgstr "Estas actividads implican la continuación de las discusiones sobre propiedades y patrones."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Overview"
+msgstr "Resumen de la etapa 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 2 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**Resumen de las citas de juego de la etapa 2**\n"
+"\n"
+"El paso de aprendizaje matemático para la introducción a la etapa 2 brinda una descripción general de los temas que se abordan durante esta etapa. Cada cita de juego incluye un libro de cuentos sugerido y algunas actividades matemáticas."
 
 #. type=data_list
 msgctxt "data_list"
@@ -17146,6 +17188,22 @@ msgstr "Esto implica poner cantidades de cosas en diferentes formas, así como j
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stage 3 Overview"
+msgstr "Resumen de la etapa 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 3 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 3 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**Resumen de las citas de juego de la etapa 3**\n"
+"\n"
+"El paso de aprendizaje matemático para la introducción a la etapa 3 brinda una descripción general de los temas que se abordan durante esta etapa. Cada cita de juego incluye un libro de cuentos sugerido y algunas actividades matemáticas."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 3-1"
 msgstr "Cita de juego 21"
 
@@ -17333,6 +17391,22 @@ msgstr "Esto incluye contar hasta 10, comparaciones y una discusión sobre la re
 msgctxt "data_list"
 msgid "These involve lots of problem solving while playing strategy games."
 msgstr "Estos implican resolver muchos problemas mientras se juegan juegos de estrategia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Overview"
+msgstr "Resumen de la etapa 4"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 4 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**Resumen de las citas de juego de la etapa 4**\n"
+"\n"
+"El paso de aprendizaje matemático para la introducción a la etapa 4 brinda una descripción general de los temas que se abordan durante esta etapa. Cada cita de juego incluye un libro de cuentos sugerido y algunas actividades matemáticas."
 
 #. type=data_list
 msgctxt "data_list"
@@ -17533,6 +17607,22 @@ msgstr "Esto incluye contar, comparar, y resolver problemas."
 msgctxt "data_list"
 msgid "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
 msgstr "Estos implican suma y resta. Utilice la versión numerada de Puntos y cajas y escriba números de dos cifras si su niño/niña está listo/lista para ellos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Overview"
+msgstr "Resumen de la etapa 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr ""
+"**Resumen de las citas de juego de la etapa 5**\n"
+"\n"
+"El paso de aprendizaje matemático para la introducción a la etapa 5 ofrece una descripción general de los temas que se abordan durante esta etapa. Cada cita de juego incluye algunas actividades matemáticas."
 
 #. type=data_list
 msgctxt "data_list"
