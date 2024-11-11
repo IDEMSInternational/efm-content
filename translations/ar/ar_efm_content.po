@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-11-11 04:57\n"
+"PO-Revision-Date: 2024-11-11 05:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15637,6 +15637,300 @@ msgstr "هل مررت بشيء جعلك تفقد صديقًا؟"
 msgctxt "data_list"
 msgid "Do you think Tortoise and Hyena will return to being friends someday?"
 msgstr "هل تعتقد أن السلحفاة والضبع سيعودان أصدقاء يومًا ما؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I wonder if there's another me somewhere in the world."
+msgstr "أتساءل عما إذا كان هناك شخص مثلي في مكان ما في العالم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think -- is there another animal just like this one somewhere in the world?"
+msgstr "ما رأيك - هل يوجد حيوان آخر مثل هذا في مكان ما في العالم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think there's another person just like you?"
+msgstr "هل تعتقد أن هناك شخص آخر مثلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five trees in this picture. If you take away the one by itself on one side, how many trees are there on the other side? What is one less than five?"
+msgstr "هناك خمسة أشجار في هذه الصورة. إذا قمت بإزالة واحدة على جانب واحد، كم عدد الأشجار على الجانب الآخر؟ ما هو العدد الأقل من خمسة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who looks the same."
+msgstr "من يشبهني."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you look in a mirror or in water, the image is almost the same as how you look. How is it different and how is it the same?"
+msgstr "عندما تنظر في المرآة أو في الماء، تكون الصورة تقريبًا مثلما تبدو. كيف تختلف وكيف تتشابه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Something that has one side that is the mirror image of the other side is called symmetric, or even mirror symmetric. Do you see some things around you that are symmetric?"
+msgstr "الشيء الذي يكون له جانب واحد هو الصورة المرآة للجانب الآخر ويسمى متماثل، أو حتى متماثل المرآة. هل ترى بعض الأشياء حولك المتماثلة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People's faces are very close to being symmetric. Do you notice anything on one side of your face that is a little different than the other side? Perhaps your hair?"
+msgstr "وجوه الناس قريبة جدًا من كونها متماثلة. هل تلاحظ شيئًا في جانب وجهك يختلف قليلاً عن الجانب الآخر؟ ربما شعرك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And talks the same."
+msgstr "ويتحدث مثلما أتحدث."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This animal is listening to its echo across a canyon. Have you heard an echo of your voice?"
+msgstr "هذا الحيوان يستمع إلى صداه عبر الوادي. هل سمعت صدى صوتك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An echo for your voice is like looking in a mirror for your image. Does an echo sound exactly like you, or can you tell the difference?"
+msgstr "الصدى لصوتك يشبه النظر في المرآة لصورتك. هل الصدى يبدو تمامًا مثلك، أم يمكنك تمييز الفرق؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hearing an echo is similar to hearing a recording of your voice. Do you think recordings of your voice sound like what you hear in your head when you talk?"
+msgstr "سماع الصدى يشبه سماع تسجيل لصوتك. هل تعتقد أن تسجيلات صوتك تشبه ما تسمعه في رأسك عندما تتحدث؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And even has my curls."
+msgstr "بل وحتى لديه شعري المجعد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hippos and mice may have curly tails, but that does not make them the same as our friend. How many things need to be the same for two animals to be the same?"
+msgstr "{قد يكون للأفراس والفئران ذيول مجعدة، لكن هذا لا يجعلها تشبه صديقنا هذا. كم عدد الأشياء التي يجب أن تكون نفس الشيء لكي يكون حيوانين متشابهين؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some ways that the hippo and the mouse are different than our friend."
+msgstr "صف بعض الطرق التي يختلف بها فرس النهر والفأر عن صديقنا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick someone you know and describe some ways you are similar to them and some ways you are different."
+msgstr "اختر شخصًا تعرفه وصف بعض الطرق التي تتشابه بها معه وبعض الطرق التي تختلف بها عنه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone with my eyes my ears."
+msgstr "شخص لديه عيوني وأذني."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of other animals that have big ears similar to these?"
+msgstr "هل يمكنك التفكير في حيوانات أخرى لها آذان كبيرة مثل هذه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of other animals that have eyelashes like these?"
+msgstr "هل يمكنك التفكير في حيوانات أخرى لها رموش مثل هذه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This animal has three eyelashes on each side. How many eyelashes is that all together?"
+msgstr "لهذا الحيوان ثلاث رموش على كل جانب. كم عدد الرموش معًا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who even has my laugh."
+msgstr "من لديه حتى ضحكتي؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you make some animals sounds? Which animals?"
+msgstr "هل تستطيع تقليد أصوات الحيوانات؟ أي حيوانات؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you neigh like a horse, oink like a pig, meow like a cat, or bray like a donkey?"
+msgstr "هل يمكنك الصهيل مثل الحصان، أو النخير مثل الخنزير، أو المواء مثل القطة، أو النهيق مثل الحمار؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This animal has exceptionally big teeth. Think of other animals with teeth like these."
+msgstr "هذا الحيوان لديه أسنان ضخمة جداً. فكّر في حيوانات أخرى لديها أسنان مثل هذه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who can do what I can do."
+msgstr "من يمكنه أن يفعل ما أفعله"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you feel happy running in a big open space like that?"
+msgstr "هل تشعر بالسعادة عند الجري في مساحة واسعة مثل هذه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you prefer to run with someone or by yourself?"
+msgstr "هل تفضل الجري مع شخص ما أو بمفردك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the rocks near them. If you take away the two biggest rocks, how many rocks are left?"
+msgstr "عد كل الصخور بالقرب منهم. إذا أزلت أكبر صخرتين، كم عدد الصخور المتبقية؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And can't do what I can't."
+msgstr "ومن لا يمكنه أن يفعل ما لا أستطيع فعله"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the animals having trouble peeling the banana?"
+msgstr "لماذا تواجه الحيوانات صعوبة في تقشير الموزة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you peel a banana easily?"
+msgstr "هل يمكنك تقشير الموزة بسهولة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there things, such as fruit or packages, that you have trouble opening?"
+msgstr "هل هناك أشياء مثل الفواكه أو الحزم التي تواجه صعوبة في فتحها؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I've looked and looked everywhere to find another me. I went down to the park and looked behind the trees."
+msgstr "بحثت في كل مكان لأجد شخصًا مثلي. ذهبت إلى الحديقة ونظرت خلف الأشجار"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What animal did he see when he looked behind a tree?"
+msgstr "ما هو الحيوان الذي رآه عندما نظر خلف شجرة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did he see an animal just like him when he looked behind the tree?"
+msgstr "هل رأى حيوانًا مثله تمامًا عندما نظر خلف الشجرة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did he see what he was looking for behind the tree?"
+msgstr "هل رأى ما كان يبحث عنه خلف الشجرة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked around, up, and down."
+msgstr "نظرت حولي، لأعلى ولأسفل"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think our friend could ever climb to the top of a tree?"
+msgstr "هل تعتقد أن صديقنا يمكن أن يتسلق إلى قمة الشجرة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the bird is surprised to see him there?"
+msgstr "هل تعتقد أن الطائر تفاجأ لرؤيته هناك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Has the animal looked everywhere? What are some places that may have been missed?"
+msgstr "هل نظر الحيوان في كل مكان؟ ما هي بعض الأماكن التي قد تكون قد فاتته؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At every single face."
+msgstr "في كل وجه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three animals on one side of the pond, and one more on the other side. If you put them all together, how many animals are there? What is one more than 3?"
+msgstr "هناك ٣ حيوانات على كل جانب من البركة، وحيوان واحد آخر على الجانب الآخر. إذا جمعتهم معًا، كم عدد الحيوانات هناك؟ ما هو العدد الذي يزيد عن ٣؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you remove one animal on one side of the pond from the four animals at the pond, how many are left? What is one less than 4?"
+msgstr "إذا قمت بإزالة حيوان واحد من الحيوانات الأربعة من جانب واحد من البركة، كم عدد الحيوانات المتبقية؟ ما هو العدد الأقل من ٤؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Describe how the two facts:\n"
+"3 + 1 = 4 and 4 - 1 = 3\n"
+"are tied together.\n"
+"These two related math facts are called a math fact family. Can you think of another math fact family?"
+msgstr "صف كيف ترتبط هاتين الحقيقتين معًا: ٣ + ١ = ٤ و ٤ - ١ = ٣. هاتان الحقيقتان الرياضيتان المرتبطتان تسمى عائلة الحقائق الرياضية. هل يمكنك التفكير في عائلة حقائق رياضية أخرى؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I couldn't find another me in any single place."
+msgstr "لم أتمكن من العثور على شخص مثلي في أي مكان"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think his shadow temporarily fooled him into thinking that there was another animal just like him?"
+msgstr "هل تعتقد أن ظله خدعه مؤقتًا ليفكر بوجود حيوان آخر مثله تمامًا؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How much does your shadow look like you?"
+msgstr "إلى أي مدى يشبه ظلك شكلك؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a shadow that you thought was a person?"
+msgstr "هل رأيت يومًا ظلًا اعتقدت أنه شخص ما؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There's only one me in the world!\n"
+"I'm special, oh it's true!"
+msgstr ""
+"لا يوجد غيري في العالم!\n"
+"\n"
+"أنا مميز، إنها حقيقة!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals can you count in this picture?"
+msgstr "كم عدد الحيوانات التي يمكنك عدها في هذه الصورة؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the ways each animal in this picture is different than our friend."
+msgstr "صف بعض الطرق التي يختلف بها كل حيوان في هذه الصورة عن صديقنا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the ways each animal is similar to our friend."
+msgstr "صف بعض الطرق التي يتشابه بها كل حيوان مع صديقنا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"But not just me, don't you see?\n"
+"There's only one of you!"
+msgstr ""
+"ولكن ليس فقط أنا، ألا ترى ذلك؟\n"
+"\n"
+"لا يوجد شخص مثلك أيضًا!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know someone who is very similar to you? How are they similar to you?"
+msgstr "هل تعرف شخصًا يشبهك كثيرًا؟ كيف تتشابه معه؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Despite the similarities, describe some ways they are different from you."
+msgstr "على الرغم من التشابهات، صف بعض الطرق التي تختلف بها عنه."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like being the only you that there is?"
+msgstr "هل تحب أن تكون الشخص الوحيد من نوعك؟"
 
 #. type=data_list
 msgctxt "data_list"
