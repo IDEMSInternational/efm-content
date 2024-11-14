@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-11-14 04:43\n"
+"PO-Revision-Date: 2024-11-14 05:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12725,12 +12725,22 @@ msgstr "تحتوي هذه القصة على أشكال هندسية. تدرب ع
 #. type=data_list
 msgctxt "data_list"
 msgid "Father, Son, and Donkey"
-msgstr "الأب و الأبن و الحمار"
+msgstr "الأب و الأبن و و الحمار"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's."
 msgstr "تحتوي هذه القصة على أشكال هندسية. تدرب علي الكلمات التالية: المسافة،  المنتصف، المستطيل، المثلث، باهت، الضعف، الأزواج، العد بمقدار ٢٠ و ٥٠ و ١٠٠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Horses of Debre Birhan"
+msgstr "حصان مدينه ديبري برهن"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
+msgstr "تحتوي هذه القصة على كلمات تستخدم المقارنة و مجموعات للعد. تدرب على هذه الكلمات: ثقيل، سريع، كاف، أكثر من، طويل للغاية ، جدا، قديم، تسلسل العد بمقدار ٢ و ٤, التوزيع المتساوي، زوج، اقتران، فردي، زوجي، قرب/قدر، مائة، ألف، مليون، جانب، الجانب المقابل/ الآخر، مستدير، و مستطيل."
 
 #. type=data_list
 msgctxt "data_list"
@@ -12744,6 +12754,16 @@ msgstr "هذه القصة تحتوي على أشكال وكميات. تدرب ع
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Keeper and his Nursery"
+msgstr "القائم على الرعاية و حضانته"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: triangle, rectangle, pentagon, hexagon, sides, diagonal, circle, oval, cylinder, ball, sphere, stripe, thin, small, big, flat, pairs, opposite, center, long, high, twice, measurement, and estimate."
+msgstr "هذه القصة تحتوي على أشكال وأوصاف. كلمات للممارسة: مثلث، مستطيل، خماسي، سداسي، جوانب، قطر، دائرة، بيضاوي، أسطوانة، كرة، مجال، شريط، رقيق، صغير، كبير، مسطح، أزواج، متقابل، مركز، طويل، مرتفع، مرتين، قياس، وتقدير."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Magical Rainbow River"
 msgstr "نهر قوس القزح السحري"
 
@@ -12751,6 +12771,36 @@ msgstr "نهر قوس القزح السحري"
 msgctxt "data_list"
 msgid "This story has shapes and descriptions. Practice words: circle, arc, oval, lines, sides, straight, rectangle, curve, color names, rainbow colors, double, high, pairs, and skip counting by 2's."
 msgstr "هذه القصة تحتوي على أشكال وأوصاف. كلمات للممارسة: دائرة، قوس، بيضاوي، خطوط، جوانب، مستقيم، مستطيل، منحنى، أسماء الألوان، ألوان قوس القزح، مزدوج، عالي، أزواج، والعد بالقفز ب٢."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sakima's Song"
+msgstr "أغنية ساكيما"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes, descriptions, and perspective. Practice words: rectangle, sides, square, straight, curved, parallel lines, color names, rainbow colors, little, twice, tall, taller, short, shorter, far, farthest, farther, apart, large, thick, close, too close, small, too small, below, and estimate."
+msgstr "هذه القصة تحتوي على أشكال وأوصاف ومنظور. كلمات للممارسة: مستطيل، جوانب، مربع، مستقيم، منحني، خطوط متوازية، أسماء الألوان، ألوان قوس القزح، صغير، مرتين، طويل، أطول، قصير، أقصر، بعيد، الأبعد، أبعد، منفصل، تقدير، قصير، أقصر، كبير، سميك، قريب، قريب جدًا، صغير، صغير جدًا، أدناه، وتقدير."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Searching for the Spirit of Spring"
+msgstr "البحث عن روح الربيع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: circle, oval, arc, cone, rectangle, triangle, long, longest, far, far away, distance, big, bigger, pattern, color, bright, dull, muted, drab, giant, dark, too dark, and problem solving."
+msgstr "هذه القصة تحتوي على أشكال ووصف. كلمات الممارسة: دائرة، بيضاوي، قوس، مخروط، مستطيل، مثلث، كبير، طويل، الأطول، بعيد، بعيد جدًا، مسافة، كبير، أكبر، نمط، لون، ساطع، باهت، خافت، كئيب، عملاق، مظلم، مظلم جدًا، ومشاكل حل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Share it Fair!"
+msgstr "القسمة العادلة!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
+msgstr "هذه القصة تحتوي على أشكال وتقسيم بالتساوي. كلمات التدريب: مستطيل، مربع، مستدير، دائرة، قوس، بيضاوي، إهليلجي، شريط، متساوٍ، تقسيم بالتساوي، وجهة نظر، منظور، نصف، ثلث، رابع، ربع، حل المشكلات، نسخ أبسط من مشكلة، مثابرة، طرح ١، ٢، ٣، تقدير، ومضاعفات ٣."
 
 #. type=data_list
 msgctxt "data_list"
