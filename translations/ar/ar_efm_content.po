@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-09 17:56\n"
+"PO-Revision-Date: 2024-12-09 18:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13529,6 +13529,181 @@ msgstr ""
 msgctxt "data_list"
 msgid "Island Hopping – Compensation"
 msgstr "التنقل بين الجزر - التعويض"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"استخدام التعويض في الجمع هو وسيلة لجعل مسائل الجمع أسهل بكثير. الفكرة هي أخذ كمية من أحد الأرقام المضافة وإعطائها للرقم الآخر - النتيجة تبقى نفسها، لكن أحد الأرقام يصبح أسهل في التعامل معه.\n"
+"\n"
+"على سبيل المثال، عندما تضيف ٧ + ٨، إذا أخذت ٢ من ٧ وأعطيتها للـ ٨، تصبح المسألة ٥ + ١٠. بدلاً من ذلك، إذا أخذت ٣ من ٨ وأعطيتها للـ ٧، تصبح المسألة ١٠ + ٥. في أي وقت يمكنك جعل أحد الأرقام مضاعفًا للعشرة، ستكون المسألة أبسط بكثير.\n"
+"\n"
+"هذه الألغاز توفر ممارسة في إنشاء مسائل جديدة باستخدام التعويض. التحدي هو العثور على مسار يربط جميع الجزر بنفس الإجابة. يمكن فقط ربط جزيرتين إذا كانت أرقام مسألتيهما تختلف بواحد. فقط بعض الجزر ستكون على المسار.\n"
+"\n"
+"اصنع هذه الألغاز ببدء حوالي عشر جزر مع بعض الروابط. حدد مسارًا من حافة الجزر إلى الأخرى. على طول هذا المسار، ضع مسائل تختلف عن بعضها البعض بواحد - ربما تبدأ بمسألة تتضمن إضافة ١٠، ثم قم بإجراء تنويعات عليها. في الجزر القريبة من المسار، ضع مسائل بتغييرات صغيرة لها إجابات مختلفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "في الواقع، لا يوجد الكثير الذي يمكن فعله لتغيير صعوبة هذه الألغاز. إضافة مسارات زائفة ربما يؤدي إلى الارتباك بدلاً من التحدي، لذا فهي عمومًا فكرة سيئة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "مثلثات الفرق والجمع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles"
+msgstr "مثلثات الفرق (DiffTriangles)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "ألغاز مثلثات الفرق تحتوي على مثلثات ومربعات تتشارك جوانبها. يجب أن يحتوي المثلث دائمًا على مربعين على جوانبه، والجانب المتبقي يحتوي إما على مثلث أو يكون فارغًا. الرقم في المثلث هو الفرق بين الرقمين في المربعين المجاورين له. التحدي هو ملء الأرقام المفقودة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Constructing Puzzles** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, put in numbers starting at one end, and then work your way to the far end. When you are done, remove some of the numbers. Making puzzles with loops or more complicated interactions is trickier; however, the effort pays off with some challenging puzzles!\n"
+"\n"
+"When your child gets very comfortable with these, they may want to take a turn creating some new puzzles of their own. They should have fun and learn a lot by figuring out how the numbers fit together.\n"
+"\n"
+"**Strategies for Solving** The places to do first are any triangles between two filled in squares. Another easy case is a square next to a filled triangle that has a smaller filled square next to it - in this case, because we are not working with negative numbers, there is only one choice for filling in the empty square. The most common case is a square that has two possible values looking in one direction, and two other possibilities looking in the other direction - there is usually only one number that overlaps in those possibilities."
+msgstr ""
+"**إنشاء الألغاز** بدون حلقات سهل. ارسم تسلسلاً متبادلاً من المربعات والمثلثات، وضع الأرقام بدءًا من أحد الأطراف، ثم تقدم نحو الطرف الآخر. عندما تنتهي، أزل بعض الأرقام. إنشاء الألغاز بحلقات أو تفاعلات أكثر تعقيدًا أصعب؛ ومع ذلك، فإن الجهد يستحق بعض الألغاز التحديّة!\n"
+"\n"
+"قد يرغب في تجربة إنشاء بعض الألغاز الجديدة بنفسه عندما يشعر طفلك بالراحة مع هذه الألغاز. يجب أن يستمتع ويتعلم الكثير من خلال معرفة كيفية توافق الأرقام معًا.\n"
+"\n"
+"**استراتيجيات الحل:** الأماكن الأولى التي يجب القيام بها هي أي مثلثات بين مربعين مملوءين. حالة سهلة أخرى هي مربع بجانب مثلث مملوء وله مربع أصغر مملوء بجواره - في هذه الحالة، لأننا لا نعمل بأرقام سالبة، هناك خيار واحد فقط لملء المربع الفارغ. الحالة الأكثر شيوعًا هي مربع له قيمتان محتملتان في اتجاه واحد، واثنتان أخريان في الاتجاه الآخر - عادة ما يكون هناك رقم واحد يتداخل في هذه الاحتمالات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some examples with lots of interconnections."
+msgstr "هنا بعض الأمثلة ذات الترابطات المتعددة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles"
+msgstr "مجموع المثلثات (SumTriangles)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles puzzles are just like DiffTriangles only they use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors. Make these puzzles using methods similar to DiffTriangles. SumTriangles puzzles are typically simpler to solve than DiffTriangles."
+msgstr "ألغاز مجموع المثلثات تشبه ألغاز الفرق بين المثلثات (DiffTriangles)، لكن تستخدم الجمع بدلاً من الطرح. قيمة المثلث هي مجموع الأرقام في المربعات المجاورة له (إثنين أو ثلاثة مربعات). يمكن إنشاء هذه الألغاز باستخدام أساليب مشابهة لألغاز الفرق بين المثلثات. ألغاز مجموع المثلثات تكون عادةً أبسط في الحل من ألغاز الفرق بين المثلثات."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Skip Counting"
+msgstr "التنقل بين الجزر - العد بالتخطي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have islands (circles) connected by bridges (lines). In this version of Island Hopping, the connections are made by skip counting. Some of the islands have numbers written on them and some will start off blank. Above the puzzle is the starting number, ending number, and the skip amount. The challenge is to fill in the missing numbers and find the path. You can also place the numbers and blanks on pieces of paper on the floor to make a stepping puzzle."
+msgstr "هذه الألغاز تحتوي على جزر (دوائر) متصلة بجسور (خطوط). في هذا الإصدار من التنقل بين الجزر، يتم إجراء الاتصالات عن طريق العد التخطيطي. تحتوي بعض الجزر على أرقام مكتوبة عليها وسيبدأ البعض الآخر فارغًا. فوق اللغز يكون هناك الرقم الابتدائي، الرقم النهائي، ومقدار العد التخطيطي. التحدي هو ملء الأرقام المفقودة والعثور على المسار. يمكنك أيضًا وضع الأرقام والفجوات على قطع من الورق على الأرض لعمل لغز التخطية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount. \n"
+"\n"
+"Creating these puzzles is the same as creating the Island Hopping - Counting puzzles from early in Chapter 2. Make the islands first, fill in the skip counting numbers, connect those islands in the correct order, and then add some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out.\n"
+"\n"
+"You can revisit the puzzle construction strategies described in the Bonus Material for Chapter 2 for Island Hopping - Counting. Also, if you still have any of those puzzles, it is very easy to convert one of those puzzles to one of these. Take the following puzzle from Chapter 2. It involves counting from 0 to 6. The red numbers are the ones that would normally be left out when the puzzle is given to your child. To convert it to a puzzle that starts at 3 and skip counts by 2, simply multiply all the numbers by 2 and then add 3 to them (leaving out the red ones, of course)."
+msgstr ""
+"كما هو الحال مع نشاط العد التخطيطي، أنشئ الألغاز لممارسة العد للأمام أو للخلف بدءًا من مجموعة متنوعة من الأرقام، وليس فقط الأرقام التي تكون مضاعفات لمقدار العد التخطيطي.\n"
+"\n"
+"إنشاء هذه الألغاز يشبه إنشاء ألغاز التنقل بين الجزر - العد من أوائل الفصل الثاني. قم بصنع الجزر أولاً، املأ الأرقام الخاصة بالعد التخطيطي، اربط تلك الجزر بالترتيب الصحيح، ثم أضف بعض الروابط الإضافية لجعلها لغزًا. في الإصدار الذي تقدمه لطفلك، قم بإزالة بعض الأرقام مع ترك ما يكفي من الأرقام حتى يتمكن من استنتاج الحل.\n"
+"\n"
+"يمكنك مراجعة استراتيجيات بناء الألغاز الموضحة في المواد الإضافية للفصل الثاني للتنقل بين الجزر - العد. أيضًا، إذا كنت لا تزال تحتفظ بأي من تلك الألغاز، فمن السهل جدًا تحويل أحد تلك الألغاز إلى هذا النوع. اليك اللغز التالي من الفصل الثاني. يتضمن العد من ٠ إلى ٦. الأرقام الحمراء هي التي ستُترك عادةً عندما يتم تقديم اللغز لطفلك. لتحويله إلى لغز يبدأ من ٣ ويعد تخطيطيًا بمقدار ٢، ببساطة اضرب جميع الأرقام في ٢ ثم أضف ٣ إليها، كما هو موضح في الجدول أدناه. بعد ذلك، استبدل الأرقام الأصلية بالأرقام الجديدة (بالطبع مع ترك الأرقام الحمراء)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fix It"
+msgstr "أصلحها"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 4 by 4 grid of numbers with a target sum. The challenge is to find entries to remove so that the sum of the remaining numbers in every row and column is the target. An alternative version uses individual target sums for each row and column.\n"
+"\n"
+"Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers. You can make these trickier by having alternative pairs or triples of numbers that partially work. If your child is enjoying these, but finding them too easy, you can always make larger ones that are 4 by 5, 5 by 5, or even larger.\n"
+"\n"
+"Red stars have been added here to show which entries would be removed to make the puzzles work."
+msgstr ""
+"ابدأ بشبكة ٤ × ٤ من الأرقام مع مجموع مستهدف. التحدي هو العثور على الإدخالات لإزالتها بحيث يكون مجموع الأرقام المتبقية في كل صف وعمود هو المجموع المستهدف. هناك إصدار بديل يستخدم مجموعات مستهدفة فردية لكل صف وعمود.\n"
+"\n"
+"قم بإنشاء هذه الألغاز عن طريق وضع أزواج أو ثلاثيات من الأرقام التي تجمع إلى المجموع المستهدف. ثم املأ الأماكن المتبقية بأرقام خادعة. يمكنك جعل هذه الألغاز أكثر صعوبة عن طريق إدخال أزواج أو ثلاثيات بديلة من الأرقام التي تعمل جزئيًا. إذا كان طفلك يستمتع بهذه الألغاز ولكنه يجدها سهلة جدًا، يمكنك دائمًا إنشاء ألغاز أكبر بحجم ٤ × ٥، ٥ × ٥، أو حتى أكبر.\n"
+"\n"
+"تمت إضافة نجوم حمراء هنا لإظهار الإدخالات التي ستتم إزالتها لجعل الألغاز تعمل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are two puzzles using individual target sums for the rows and columns."
+msgstr "إليك لغزين باستخدام مجموعات مستهدفة فردية للصفوف والأعمدة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping by Ones and Tens"
+msgstr "التنقل بين الجزر بالأعداد الفردية والعشرات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A rectangular grid of numbers is given with some of the numbers filled in. The challenge is to fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once in the entire grid. Referencing a 100-Chart may be helpful for beginning solvers.\n"
+"\n"
+"Make this puzzle by taking an empty grid and filling it with numbers, with no number repeated. Next, remove some of the numbers, making sure that it is not too hard for your child. In these examples, the red numbers are the missing ones."
+msgstr ""
+"يتم إعطاء شبكة مستطيلة من الأرقام مع ملء بعض الأرقام. التحدي هو ملء الأرقام المتبقية بحيث أن أي رقمين يشتركان في جانب واحد يختلفان فقط في مكان واحد، ويكون الفرق بين الأرقام في هذا المكان هو ١ (بما في ذلك الانتقال بين ٠ و٩). لا يجوز استخدام أي رقم أكثر من مرة في الشبكة بأكملها. قد يكون الرجوع إلى مخطط ١٠٠ مفيدًا للمبتدئين.\n"
+"\n"
+"قم بإنشاء هذا اللغز عن طريق أخذ شبكة فارغة وملئها بالأرقام، دون تكرار أي رقم. بعد ذلك، قم بإزالة بعض الأرقام، مع التأكد من أنه ليس صعبًا للغاية على طفلك. في هذه الأمثلة، الأرقام الحمراء هي الأرقام المفقودة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using only one-digit and two-digit numbers, there is not a lot of trickiness that can be introduced. However, they are great practice for thinking about place value. One wrinkle that may surprise your child are transitions such as 95 to 5 to 15 or 11 to 10 to 0 to 9 - they may not realize there is a 0 in the tens place for single-digit numbers and they may be surprised by 0 and 9 being connected.\n"
+"\n"
+"Grids are a natural way to present these problems. However, the puzzles can also be represented in the same way as other Island Hopping puzzles using circles, and this representation allows for some additional freedom in creating puzzles."
+msgstr ""
+"باستخدام الأرقام من رقم واحد ورقمين فقط، لا يوجد الكثير من الصعوبة التي يمكن إدخالها. ومع ذلك، فهي تمرين ممتاز للتفكير في قيمة المكان. واحدة من النقاط التي قد تفاجئ طفلك هي الانتقالات مثل ٩٥ إلى ٥ إلى ١٥ أو ١١ إلى ١٠ إلى ٠ إلى ٩ - قد لا يدركون أن هناك صفرًا في خانة العشرات للأرقام المكونة من رقم واحد وقد يتفاجؤون بارتباط ٠ و٩.\n"
+"\n"
+"الشبكات هي طريقة طبيعية لتقديم هذه المشكلات. ومع ذلك، يمكن أيضًا تمثيل الألغاز بنفس طريقة تمثيل الألغاز التنقل بين الجزر باستخدام الدوائر، وهذا التمثيل يسمح بمزيد من الحرية في إنشاء الألغاز."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Shape Puzzles"
+msgstr "ألغاز الشكل الفردي"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Triangles"
+msgstr "مثلثات سحرية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a triangle of six circles with three circles on a side. In the circles, use each of the numbers from 1 to 6 once so that each side of the triangle has the same sum. This involves two challenges - finding out which sums will work and then figuring out how to get those sums. It is better to let your child play with this to figure out which sums are possible, but if frustration wins out, the possible sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys figuring this out, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23.\n"
+"\n"
+"As with so many of the puzzles for this age group, the main reason to have your child play with this is to encourage having fun exploring how numbers interact with each other and to practice number facts. They do not yet have the math or reasoning skills to be systematic with their exploration. However, these puzzles can be explored more deeply, and here are some ideas to dig into if you or an older child are interested.\n"
+"\n"
+"Let SUM represent the sum of one side of the triangle. If you add up the three sides of the triangle, the total will be 3 x SUM. However, the total of the three sides will also be the sum of all the numbers plus one extra copy for each corner of the triangle. Let C-SUM be the sum of the values in the three corners. We end up with the relationship that 3 x SUM = (Total of all the numbers) + C-SUM."
+msgstr ""
+"صنع مثلث من ست دوائر مع ثلاث دوائر على كل جانب. في الدوائر، استخدم كل الأرقام من ١ إلى ٦ مرة واحدة بحيث يكون مجموع كل جانب من جوانب المثلث متساويًا. يتضمن هذا تحديين - اكتشاف أي المجموعات تعمل ثم معرفة كيفية الحصول على تلك المجموعات. من الأفضل أن تدع طفلك يلعب بهذا ليكتشف أي المجموعات ممكنة، ولكن إذا سيطر الإحباط، فإن المجموعات الممكنة هي ٩، ١٠، ١١، و١٢.\n"
+"\n"
+"إذا استمتع طفلك باكتشاف هذا، يمكن فعل ذلك أيضًا للمثلثات الأكبر. لمثلث بتسع دوائر مع أربع دوائر على كل جانب، المجموعات الممكنة هي ١٧، ١٩، ٢٠، ٢١، و٢٣.\n"
+"\n"
+"كما هو الحال مع العديد من الألغاز لهذه الفئة العمرية، السبب الرئيسي لجعل طفلك يلعب بهذا هو تشجيعه على الاستمتاع باستكشاف كيفية تفاعل الأرقام مع بعضها البعض وممارسة حقائق الأرقام. لم يتطور لديهم بعد مهارات الرياضيات أو التفكير النظامي لاستكشاف هذه الألغاز بشكل منهجي. ومع ذلك، يمكن استكشاف هذه الألغاز بعمق أكبر، وهذه بعض الأفكار للتعمق إذا كنت أنت أو طفل أكبر مهتمًا.\n"
+"\n"
+"ليكن SUM هو مجموع جانب واحد من المثلث. إذا جمعت الجوانب الثلاثة للمثلث، فسيكون المجموع ٣ x SUM. ومع ذلك، فإن مجموع الجوانب الثلاثة سيكون أيضًا مجموع كل الأرقام بالإضافة إلى نسخة إضافية لكل زاوية من المثلث. ليكن C-SUM هو مجموع القيم في الزوايا الثلاث. ننتهي بالعلاقة التي هي ٣ x SUM = (مجموع كل الأرقام) + C-SUM."
 
 #. type=data_list
 msgctxt "data_list"
