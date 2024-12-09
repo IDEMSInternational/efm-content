@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-09 04:15\n"
+"PO-Revision-Date: 2024-12-09 05:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12271,6 +12271,371 @@ msgstr ""
 msgctxt "data_list"
 msgid "Groups of Four"
 msgstr "مجموعات من أربعة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"إليك بعض الأمثلة لمساعدتك على البدء.\n"
+"\n"
+"* أرنب ، كلب ، فراشة ، وسادة - الثلاثة الأوائل كائنات حية اما الوسادة ليست كذلك.\n"
+"* موز، جبن، مطرقة، جزر - المطرقة هي الشيء الوحيد الذي لا يمكن أكله.\n"
+"* جبن، أحذية، معطف، قميص - الجبن هو الشيء الوحيد الذي لا يمكن ارتداؤه.\n"
+"* مثلث أحمر، مربع أحمر به ثقب، مربع أخضر، مربع أحمر بدون ثقب - يمكن لأي من الثلاثة الأولى أن يكون المختلف. المثلث الأحمر هو الوحيد الذي ليس مربعاً. المربع الأحمر الذي به ثقب هو الوحيد الذي ليس صلباً. المربع الأخضر هو الوحيد الذي ليس أحمر.\n"
+"* كلب، قطة، أسد، سمكة ذهبية - الأسد هو الحيوان الوحيد في القائمة الذي لا يصلح كحيوان أليف. كما أنه أكبر بكثير من الحيوانات الأخرى. أو، ثلاثة منهم لديهم أربعة أرجل والسمكة تعيش في الماء.\n"
+"* شجيرة الورد، بلوط، قيقب، صنوبر - شجيرة الورد هي الوحيدة التي ليست شجرة كبيرة.\n"
+"* مقعد، طاولة، أريكة، كرسي - الطاولة هي الشيء الوحيد الذي لا تجلس عليه. أو فقط الأريكة هي الناعمة.\n"
+"* نباح، بوق، قوس قزح، نقرة - قوس قزح هو الشيء الوحيد الذي ليس صوتاً.\n"
+"* جوارب، بنطلون، فرشاة أسنان، قبعة - فرشاة الأسنان هي الشيء الوحيد الذي لا ترتديه.\n"
+"* كرسي، مظلة، أريكة، كرسي صغير - المظلة هي الشيء الوحيد الذي لا تجلس عليه.\n"
+"* نمل، خنزير، عناكب، جراد - الخنزير هو الشيء الوحيد الذي ليس حشرة صغيرة.\n"
+"\n"
+"يمكنك أيضًا القيام بهذا النشاط باستخدام الصور بدلاً من الكلمات. اجعل من العادة قص الصور من الإعلانات، المجلات، وأي شيء آخر يأتي في طريقك حتى تتمكن من لعب الألعاب باستخدام الصور."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "قفز الجزر – العد"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "تحتوي هذه الألغاز على جزر مرقمة (دوائر) متصلة بجسور (خطوط) مرسومة على الورق. التحدي هو العثور على مسار يربط الجزر بالترتيب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest versions have all the numbers filled in and the numbers go from 1 to the number of islands. You can vary this activity by starting at some number other than 1 and by leaving out some of the numbers.\n"
+"\n"
+"Puzzles with all the numbers are straightforward once your child is confident with counting. Those beginning puzzles are good counting practice and are also good for building up confidence in puzzle solving. The more challenging puzzles are the ones with numbers left out.\n"
+"\n"
+"Ease your child into these harder puzzles by leaving out just a few numbers and slowly move to leaving out more."
+msgstr ""
+"أسهل الإصدارات هي التي تحتوي على جميع الأرقام مملوءة والأرقام تتراوح من ١ إلى عدد الجزر. يمكنك تنويع هذا النشاط عن طريق البدء برقم غير ١ وترك بعض الأرقام.\n"
+"\n"
+"الألغاز التي تحتوي على جميع الأرقام تكون مباشرة بمجرد أن يكون طفلك واثقًا في العد. تلك الألغاز الأولى تعد ممارسة جيدة للعد وهي أيضًا جيدة لبناء الثقة في حل الألغاز. الألغاز الأكثر تحديًا هي تلك التي تترك فيها بعض الأرقام.\n"
+"\n"
+"ساعد طفلك في التدرج إلى هذه الألغاز الأصعب عن طريق ترك القليل فقط من الأرقام ثم ببطء زيادة العدد المتروك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The first of these two puzzles has every other number left out. This makes it relatively easy to fill in the missing numbers. 1 must attach to 0 and 2, and there is only one place for that. 3 must attach to 2 and 4, and with 1 filled in there is only one remaining place for the 3. 5 must go in the remaining place between 4 and 6.\n"
+"\n"
+"The second puzzle is a little bit harder. 3 must attach to 2 and 4, so there is only one place for it. 5 must attach to 4, so there is only one place for it now. 6 must attach to the 5. Finally, 0 must go in the remaining spot."
+msgstr ""
+"الأول من هذه الألغاز يحتوي على كل رقم ثانٍ متروك. هذا يجعل من السهل نسبيًا ملء الأرقام المفقودة. يجب أن يتصل الرقم ١ بالرقم ٠ والرقم ٢، ولا يوجد سوى مكان واحد لذلك. يجب أن يتصل الرقم ٣ بالرقم ٢ والرقم ٤، ومع ملء الرقم ١، لا يتبقى سوى مكان واحد للرقم ٣. يجب أن يذهب الرقم ٥ إلى المكان المتبقي بين ٤ و ٦.\n"
+"\n"
+"اللغر الثاني أصعب قليلاً. يجب أن يتصل الرقم ٣ بالرقم ٢ والرقم ٤، لذا لا يوجد سوى مكان واحد له. يجب أن يتصل الرقم ٥ بالرقم ٤، لذا لا يوجد سوى مكان واحد له الآن. يجب أن يتصل الرقم ٦ بالرقم ٥. وأخيراً، يجب أن يذهب الرقم ٠ إلى المكان المتبقي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
+msgstr "لجعل اللغز أكثر صعوبة، يمكننا إزالة الرقم ١ ولعب بتغيير بعض الجسور. استمتع بالتنويعات ودع طفلك يصمم بعضها أيضًا."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "قص الأشكال المتماثلة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "صناعة التصاميم بواسطة طي الورق وقطعه. هذه الطريقة تُسمى كيريغامي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Fold"
+msgstr "طيّة واحدة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "طي الورقة مرة واحدة وقطعها ينشئ تصميماً بجانب واحد هو صورة مرآة للجانب الآخر. جرب قطع أشكال الوجوه، المصابيح، أو الأشكال الهندسية. تم إنتاج النجمة والشجرة بطية واحدة، والتي تُظهر على اليسار، ثم تُظهر الورقة غير المطوية على اليمين."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Folds"
+msgstr "طيتان"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "طي الورقة مرة واحدة، ثم الطي مرة أخرى في الاتجاه المعاكس، سينتج أشكالاً بخطين من الصور المرآوية. هذا يجعل من السهل إنشاء تصاميم مثل الزهور. الشكل على اليسار هو الورقة المطوية مرتين ومقطوعة لترك المنطقة الزرقاء، والشكل على اليمين يُظهر الورقة غير المطوية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three Folds"
+msgstr "ثلاث طيات"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "جرب الطيات والقطوع المختلفة. تم إنشاء هذا الشكل عن طريق أخذ ورقة مطوية مرتين ثم طيها مرة أخرى بشكل مائل عبر زاوية الطيات السابقة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Snowflakes"
+msgstr "رقاقات الثلج"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a sequence of folds for creating 6-point snowflakes. Though it takes a few steps, don’t be put off by them - with a little practice they become quick and easy. \n"
+"\n"
+"Start by taking a standard sheet of paper and folding at one of the corners so the sides marked A and B meet. Leave the fold in place and cut along the line marked C.\n"
+"\n"
+"Take the triangle produced and fold it in half so that sides AB and C overlap.\n"
+"\n"
+"Put a temporary fold in this triangle and use the fold to mark the middle of side ABC. Undo the temporary fold.\n"
+"\n"
+"Make a fold over F. When you fold over F, you will be looking to have G placed so that G breaks the angle in half. \n"
+"\n"
+"Fold along G - do this fold underneath so that this new folded piece is underneath the other paper.\n"
+"\n"
+"Although not strictly necessary, it is a good idea to slice off the top of this figure. Otherwise, you might be tempted to use the region above the red dotted line without realizing that there isn’t paper on all levels.\n"
+"\n"
+"Lastly, fold this triangle in half. At last you are all set to do the cutting of your design!\n"
+"\n"
+"Have fun experimenting with many different combinations of cuts and colors!"
+msgstr ""
+"هذه هي سلسلة من الطيات لإنشاء رقاقات ثلجية ب٦ نقاط. على الرغم من أنها تتطلب بضع خطوات، لا تدعها تُحبطك - مع القليل من الممارسة تصبح سريعة وسهلة.\n"
+"\n"
+"ابدأ بأخذ ورقة قياسية وطيها عند أحد الزوايا بحيث تتقابل الجوانب A و B. اترك الطية في مكانها واقطع على طول الخط C.\n"
+"\n"
+"خذ المثلث الناتج واطويه إلى النصف بحيث تتداخل الجوانب AB و C.\n"
+"\n"
+"ضع طية مؤقتة في هذا المثلث واستخدم الطية لتحديد منتصف الجانب ABC. قم بفك الطية المؤقتة.\n"
+"\n"
+"قم بعمل طية فوق F. عندما تطوي فوق F، ستبحث عن وضع G بحيث يقسم الزاوية إلى نصفين.\n"
+"\n"
+"اطوي على طول G - قم بهذه الطية تحت الورقة بحيث تكون هذه القطعة المطوية الجديدة تحت الورق الآخر.\n"
+"\n"
+"على الرغم من أنه ليس ضرورياً بشكل صارم، فمن الجيد قص الجزء العلوي من هذا الشكل. خلاف ذلك، قد تكون مغرياً لاستخدام المنطقة فوق الخط الأحمر المنقط دون أن تدرك أنه لا يوجد ورق في جميع المستويات.\n"
+"\n"
+"أخيراً، اطوِ هذا المثلث إلى النصف. الآن أنت مستعد لقطع تصميمك!\n"
+"\n"
+"استمتع بالتجريب مع العديد من مجموعات القطع والألوان المختلفة!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "نيم مع ١ و ٢"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Game Rules"
+msgstr "قواعد اللعبة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"يتم اختيار رقم هدف، على سبيل المثال ١٠. دع طفلك يختار ما إذا كان يريد أن يبدأ أولاً أو ثانيًا. تبدأ القيمة الإجمالية عند ٠. أثناء الدور، يختار الشخص أن يضيف ١ أو ٢ إلى القيمة الإجمالية الحالية. الشخص الأول الذي يصل إلى الهدف يفوز.\n"
+"\n"
+"يمكن لعب هذه اللعبة أيضًا باستخدام الطرح. في هذا الإصدار، تبدأ القيمة الإجمالية عند الهدف، والذي في هذا المثال هو ١٠. في الدور المعطى، يختار اللاعب ما إذا كان سيطرح ١ أو ٢. الشخص الأول الذي يصل إلى ٠ يفوز.\n"
+"\n"
+"تغيير آخر هو أنه بدلاً من الفوز، يخسر اللاعب المجبر على الوصول إلى أو تجاوز الرقم المستهدف. يمكنك أيضًا تجربة ما يحدث إذا سمحت للاعب بإضافة (أو طرح) ١، ٢، أو ٣ في كل دور."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding the Game"
+msgstr "فهم اللعبة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"بدون تحليل أي شيء، فإن هذه اللعبة ممتعة للعب وتوفر ممارسة جيدة لإضافة أو طرح ١ و ٢. يمكننا ترك الأمر عند هذا الحد. ومع ذلك، فهي أيضًا مثال رائع على تقنيتي حل المشكلات اللتين يمكنك إظهارهما لطفلك عندما يكون جاهزًا: ١) التعلم من الأمثلة الأبسط، و ٢) البحث عن الأنماط.\n"
+"\n"
+"يمكن دراسة أي من الإصدارات بهذه الطريقة. لنلقي نظرة على واحدة: الطرح بدءًا من ١٠ ومن يصل إلى ٠ يفوز. الجزء الصعب من هذه اللعبة هو أن ١٠ بعيدة جدًا عن ٠. لذلك، لنلقي نظرة على إصدار أبسط. عندما يُطلب من الأطفال القيام بذلك، يقترحون غالبًا البدء من ٥ أو ٦ - يبدو ذلك غير منطقي لهم للبدء من ١، لكن هذا هو بالضبط ما يجب عليهم فعله! في كثير من الأحيان، من الأفضل البدء بأبسط طريقة ممكنة - وهذا يعني البدء من ١. إذا كان دورك والعدد ١، فإنك تفوز. افعل ما يلي. إذا كان العدد ٢، فإنك تفوز. إذا كان العدد ٣، يجب أن تخسر - سواء طرحت ١ أو ٢، ستمنح خصمك موقفًا رابحًا. إذا كان العدد ٤، فإنك ستفوز لأنك ستطرح ١ وتضع خصمك في موقف خاسر. تابع بهذه الطريقة لإنشاء جدول من النتائج:\n"
+"\n"
+"١W - ٢W - ٣L - ٤W - ٥W - ٦L - ٧W - ٨W - ٩L - ١٠W"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"هذا الجدول يجعل من الواضح أن هناك نمطًا متكررًا من ٣. عند البدء من ١٠، يجب أن ترغب في الذهاب أولاً وطرح ١. ما يرضي في هذا هو أنه بمجرد أن تقرر النظر في إصدارات أبسط من المشكلة، يكون التحليل سريعًا وسهلاً - لا حاجة لتحليل معقد. الآن أنت خبير في هذه اللعبة وتعرف ماذا تفعل بدءًا من أي رقم! أي إصدار من هذه اللعبة الأساسية سهل بنفس القدر في التحليل.\n"
+"\n"
+"لكن انتظر، هناك سؤال أخير. لماذا يوجد نمط متكرر من ٣؟ بمجرد أن يصبح أحد اللاعبين عالقًا في رقم خاسر وهو مضاعف للثلاثة، يمكن لكل زوج من التحركات بعد ذلك أن يصل إلى ٣ - إذا طرح اللاعب الخاسر ١، يطرح اللاعب الآخر ٢، وإذا طرح اللاعب الخاسر ٢، يطرح اللاعب الآخر ١."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connect The Dots"
+msgstr "توصيل النقاط"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Everyday Scenes With Dots"
+msgstr "صنع مشاهد يومية بالنقاط"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
+msgstr "أكمل الرسومات الممتعة بربط النقاط المرقمة. إحدى الطرق هي أخذ رسم بسيط، مثل منزل، وإزالة بعض الخطوط المستقيمة واستبدالها بنقاط مرقمة، وعند ربطها بالترتيب تُعيد إنشاء الرسم الأصلي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Geometric Patterns With Angles"
+msgstr "صنع أنماط هندسية بالزوايا"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make abstract drawings by connecting points with the same number along opposite sides of an angle. The numbers may not be needed - if so, feel free to omit them - this will make the finished designs a little less cluttered. You can add variety to these by having your child draw with colors. There are lots of amazing examples of this to be found under the category of String Art on the Internet. This circle drawing was made by moving ahead by one dot on one side of the line segment and ahead by two dots on the other side."
+msgstr "اصنع رسومات مجردة بربط النقاط التي تحمل نفس الرقم على الجانبين المتقابلين للزاوية. قد لا تكون الأرقام ضرورية - إذا كان الأمر كذلك، فلا تتردد في حذفها - هذا سيجعل التصاميم النهائية أقل ازدحامًا. يمكنك إضافة تنوع لهذه الرسومات بجعل طفلك يرسم بالألوان. هناك العديد من الأمثلة المدهشة على هذا تحت فئة فن الخيوط على الإنترنت. تم إنشاء هذا الرسم الدائري عن طريق التقدم بنقطة واحدة على جانب واحد من مقطع الخط والتقدم بنقطتين على الجانب الآخر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Patterns With Circles"
+msgstr "صنع أنماط بالدوائر"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a special case of the last idea. Put some dots, say 8 or 9, evenly spaced on a circle. Your child can play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot. To make it easier to do different experiments, use push pins in a piece of cardboard or wood and then use string between the push pins.\n"
+"\n"
+"If your child is intrigued by the patterns that are produced, you can look at questions such as: For a circle with 8 dots, why is only one string needed to skip by 1, 3, 5, or 7, but 2 or 4 strings are needed for skipping 2, 4, or 6. Similarly, for a circle with 9 dots, why is only one string needed to skip by 1, 2, 4, 5, 7, or 8, but 3 strings are needed for 3 and 6? It’s too young to understand the idea that 2, 4, and 6 have a factor in common with 8, and 3 and 6 have a factor in common in 9 - however, seeing the patterns may plant the seeds for later ideas."
+msgstr ""
+"هذه حالة خاصة من الفكرة الأخيرة. ضع بعض النقاط، لنقل ٨ أو ٩، موزعة بالتساوي على دائرة. يمكن لطفلك اللعب بإنشاء أنماط مختلفة عن طريق ربط النقاط بالترتيب، أو ربط كل نقطة ثانية، أو كل نقطة ثالثة. لتسهيل تنفيذ تجارب مختلفة، استخدم دبابيس دفع في قطعة من الورق المقوى أو الخشب، ثم استخدم الخيط بين دبابيس الدفع.\n"
+"\n"
+"إذا كان طفلك مفتونًا بالأنماط الناتجة، يمكنك النظر في أسئلة مثل: لدائرة تحتوي على ٨ نقاط، لماذا تحتاج إلى خيط واحد فقط لتخطي ١، ٣، ٥، أو ٧، ولكن تحتاج إلى ٢ أو ٤ خيوط لتخطي ٢، ٤، أو ٦؟ وبالمثل، لدائرة تحتوي على ٩ نقاط، لماذا تحتاج إلى خيط واحد فقط لتخطي ١، ٢، ٤، ٥، ٧، أو ٨، ولكن تحتاج إلى ٣ خيوط لتخطي ٣ و٦؟ من المبكر جداً فهم الفكرة أن ٢، ٤، و٦ لديها عامل مشترك مع ٨، و٣ و٦ لديها عامل مشترك مع ٩ - مع ذلك، رؤية الأنماط قد تزرع البذور للأفكار المستقبلية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Sudoku"
+msgstr "سودوكو الأشكال"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is your child’s first math puzzle, and that’s pretty cool! It also means you should take it very slowly so your child has lots of success and fun, and very little frustration.\n"
+"\n"
+"The rules for these 4 by 4 Sudokus are very simple. There are four different types of tokens. There should be one of each kind of token in each row, column, and 2 by 2 corner of the puzzle. Use moveable pieces so that it is easy for your child to experiment in finding solutions.\n"
+"\n"
+"The first puzzles you make should just have one token missing from each row. Once your child understands and figures out those puzzles, you can move to trickier ones, but do not be in a hurry.\n"
+"\n"
+"The easiest way to create these puzzles is to start with a finished Sudoku and remove some of the tokens. To help you to do that, there are a number of finished Sudokus supplied below. After those finished examples, there is a list of methods you can use to create puzzles from a finished puzzle."
+msgstr ""
+"هذا هو أول لغز رياضيات لطفلك، وهذا شيء رائع! كما يعني أنه يجب عليك أن تأخذ الأمور ببطء شديد حتى يتمكن طفلك من تحقيق الكثير من النجاح والمتعة، ويقلل من الشعور بالإحباط.\n"
+"\n"
+"قواعد هذه الألغاز ٤ × ٤ بسيطة جداً. هناك أربعة أنواع مختلفة من الرموز. يجب أن يكون هناك واحد من كل نوع من الرموز في كل صف، عمود، وركن ٢ × ٢ من اللغز. استخدم قطع قابلة للتحريك بحيث يكون من السهل على طفلك تجربة العثور على الحلول.\n"
+"\n"
+"الألغاز الأولى التي تصنعها يجب أن تحتوي على رمز واحد مفقود من كل صف. بمجرد أن يفهم طفلك هذه الألغاز ويحلها، يمكنك الانتقال إلى الألغاز الأصعب، ولكن لا تتعجل.\n"
+"\n"
+"أسهل طريقة لإنشاء هذه الألغاز هي البدء بلغز سودوكو مكتمل وإزالة بعض الرموز. لمساعدتك على فعل ذلك، هناك عدد من ألغاز السودوكو المكتملة المتاحة أدناه. بعد تلك الأمثلة المكتملة، هناك قائمة بالطرق التي يمكنك استخدامها لإنشاء الألغاز من لغز مكتمل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finished Sudokus"
+msgstr "سودوكو مكتملة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before giving you a collection of finished Sudokus, there is one thing to note. You can take any one of these and create 23 more of them simply by interchanging token types - for example, you can take a finished puzzle and create a “new” one by swapping the circles and triangles and swapping the diamonds and squares. \n"
+"\n"
+"The examples below are distinctly different from each other and cannot be made from each other by doing interchanges. You can create more examples from these by doing such interchanges if you like."
+msgstr ""
+"قبل أن أعطيك مجموعة من الألغاز السودوكو المكتملة، هناك شيء يجب ملاحظته. يمكنك أخذ أي واحد من هذه الألغاز وإنشاء ٢٣ لغزًا إضافيًا ببساطة عن طريق تبديل أنواع الرموز - على سبيل المثال، يمكنك أخذ لغز مكتمل وإنشاء لغز \"جديد\" عن طريق تبديل الدوائر والمثلثات وتبديل الألماس والمربعات.\n"
+"\n"
+"الأمثلة أدناه مختلفة تمامًا عن بعضها البعض ولا يمكن إنشاؤها من بعضها البعض عن طريق التبديل. يمكنك إنشاء المزيد من الأمثلة من هذه الألغاز عن طريق التبديل إذا أردت."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Methods for Creating Sudokus From Solved Ones"
+msgstr "طرق لإنشاء ألغاز سودوكو من الألغاز المحلولة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Once you have a finished Sudoku, you can use any of the following strategies to create a puzzle that has a unique solution. Generally speaking, the more tokens you remove, the harder the puzzle will be.\n"
+"\n"
+"* Remove a single token from each row or from each column.\n"
+"* Remove a single token from each 2 by 2 corner.\n"
+"* Remove all of one kind of token from the entire puzzle.\n"
+"* Remove all tokens from one 2 by 2 corner.\n"
+"* Remove one entire row and one entire column.\n"
+"* Remove all of one kind of token and one each of the other kinds of tokens.\n"
+"* Remove all tokens from two 2 by 2 opposite corners.\n"
+"* Remove all tokens from two 2 by 2 opposite corners and 1 token each from the other two corners.\n"
+"\n"
+"Of course, these are not the only methods you can use. They are just supplied here as sure-fire general methods that will quickly create puzzles."
+msgstr ""
+"طرق لإنشاء ألغاز سودوكو من الألغاز المحلولة — بمجرد أن يكون لديك سودوكو مكتمل، يمكنك استخدام أي من الاستراتيجيات التالية لإنشاء لغز له حل فريد. بشكل عام، كلما أزلت المزيد من الرموز، كان اللغز أصعب.\n"
+"\n"
+"* إزالة رمز واحد من كل صف أو من كل عمود.\n"
+"* إزالة رمز واحد من كل ركن ٢ × ٢.\n"
+"* إزالة نوع معين من الرموز بأكمله من اللغز.\n"
+"* إزالة جميع الرموز من زاوية ٢ × ٢ واحدة.\n"
+"* إزالة صف كامل وعمود كامل.\n"
+"* إزالة نوع معين من الرموز ورمز واحد من كل نوع من الرموز الأخرى.\n"
+"* إزالة جميع الرموز من زاويتين متقابلتين ٢ × ٢.\n"
+"* إزالة جميع الرموز من زاويتين متقابلتين ٢ × ٢ ورمز واحد من الزاويتين الأخريين.\n"
+"\n"
+"بالطبع، هذه ليست الطرق الوحيدة التي يمكنك استخدامها. بل هي مجرد طرق موثوقة عامة لإنشاء الألغاز بسرعة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sudoku With Jigsaws"
+msgstr "سودوكو الأرقام مع أنماط الألغاز"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is similar to the Shape Sudoku puzzles, only now it uses numbers. If your child is not ready to recognize numerals yet, you can use quantities of dots instead. To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once.\n"
+"\n"
+"Create these puzzles for your child by starting with a completed puzzle with moveable pieces of numbered paper and then removing some of the pieces of paper."
+msgstr ""
+"تشبه هذه الألغاز ألغاز سودوكو الأشكال، لكن الآن تستخدم الأرقام. إذا لم يكن طفلك مستعداً بعد للتعرف على الأرقام، يمكنك استخدام كميات من النقاط بدلاً من ذلك. لتجنب المحو، استخدم قطعاً من الورق المرقمة (أو المنقطة) لحل الألغاز.\n"
+"\n"
+"بالنسبة للغز ٤ × ٤، يحتوي كل صف وعمود على الأرقام من ١ إلى ٤ مرة واحدة. أيضاً، تحتوي كل منطقة فرعية معلمة على الأرقام من ١ إلى ٤ مرة واحدة.\n"
+"\n"
+"قم بإنشاء هذه الألغاز لطفلك عن طريق البدء بلغز مكتمل يحتوي على قطع ورق مرقمة قابلة للتحريك ثم إزالة بعض هذه القطع الورقية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4 by 4 Puzzles"
+msgstr "ألغاز ٤ × ٤"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The 4 by 4 puzzles with subregions that are the 2 by 2 corners are exactly the same as the Shape Sudoku puzzles given before. You can go back to that page in these Resources to see solved versions of those puzzles. To create a numbered version of them, replace each colored shape by a number. For example, red circles could be 1, orange triangles 2, purple diamonds 3, and blue squares 4."
+msgstr "ألغاز ٤ × ٤ مع المناطق الفرعية التي هي زوايا ٢ × ٢ تشبه تماماً ألغاز سودوكو الأشكال المعطاة سابقاً. يمكنك الرجوع إلى تلك الصفحة في هذه الموارد لرؤية نسخ محلولة من تلك الألغاز. لإنشاء نسخة مرقمة منها، استبدل كل شكل ملون برقم. على سبيل المثال، يمكن أن تكون الدوائر الحمراء ١، والمثلثات البرتقالية ٢، والألماسات الأرجوانية ٣، والمربعات الزرقاء ٤."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5 by 5 Puzzles"
+msgstr "ألغاز ٥ × ٥"
 
 #. type=data_list
 msgctxt "data_list"
