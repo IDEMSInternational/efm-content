@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-09 05:15\n"
+"PO-Revision-Date: 2024-12-09 06:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12636,6 +12636,200 @@ msgstr "ألغاز ٤ × ٤ مع المناطق الفرعية التي هي ز�
 msgctxt "data_list"
 msgid "5 by 5 Puzzles"
 msgstr "ألغاز ٥ × ٥"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are too many of these puzzles to come anywhere close to showing all the possible jigsaw geometries. These are here just to suggest what is possible. Your child may enjoy finding different ways of carving up a 5 by 5 square into pieces that have 5 small squares. \n"
+"\n"
+"Pieces that consist of 5 little squares are called “pentominoes.” Making shapes with pentominoes can be lots of fun. Maybe cut out some pentomino shapes out of stiff thick colored paper and see what designs you can make!"
+msgstr ""
+"هناك الكثير من هذه الألغاز بحيث لا يمكننا عرض جميع الأشكال الممكنة. هذه الأمثلة هنا فقط لتوضيح ما هو ممكن. قد يستمتع طفلك بإيجاد طرق مختلفة لتقسيم مربع ٥ × ٥ إلى قطع تحتوي على ٥ مربعات صغيرة.\n"
+"\n"
+"تسمى القطع التي تتكون من ٥ مربعات صغيرة بـ \"البنتومينو\". صنع الأشكال باستخدام البنتومينو يمكن أن يكون ممتعاً للغاية. ربما يمكنك قص بعض أشكال البنتومينو من ورق ملون سميك ومشاهدة التصميمات التي يمكنكم صنعها!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6 by 6 Puzzles"
+msgstr "ألغاز ٦ × ٦"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Okay, you are getting the idea. There are a lot of these! Here are just a few 6 by 6 puzzles to give you some ideas for what is possible. As always, play around with your child with these puzzle pieces and numbers. Perhaps design a few of these together."
+msgstr "حسناً، أنت بدأت تفهم الفكرة. هناك الكثير من هذه الألغاز! هنا بعض ألغاز ٦ × ٦ لإعطائك بعض الأفكار عما هو ممكن. كما هو الحال دائماً، العب مع طفلك بهذه القطع والأرقام. ربما تصممون بعضاً منها معاً."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Greater Than Sudoku"
+msgstr "السودوكوالأكبر"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship. \n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
+msgstr ""
+"تبدأ ألغاز السودوكو الأكبر بنفس قواعد سودوكو العادية - يظهر كل رقم مرة واحدة فقط في كل صف وعمود ومنطقة فرعية. بالإضافة إلى ذلك، إذا كان هناك رمز أصغر من أو أكبر من بين خليتين، فيجب أن تلتزم الأرقام في الخلايا بتلك العلاقة.\n"
+"\n"
+"اصنع هذه الألغاز باستخدام لغز سودوكو مكتمل - جميع ألغاز سودوكو الأرقام المعطاة سابقًا في هذه الموارد ستكون مفيدة في إنشاء هذه الألغاز. ضع إشارات أكبر من وأصغر من على شبكة فارغة من نفس الهندسة. إذا حذفت جميع الأرقام ووضعت جميع علاقات التفاوت (أصغر من أو أكبر من)، فإنه يكون عادةً سهل الحل. استراتيجية مفيدة لطفلك هي النظر أولاً إلى أماكن الأرقام الأصغر والأكبر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your child is first learning how to do these puzzles, put in all the inequalities and some of the numbers. Gradually, start omitting more of the numbers and some of the inequalities."
+msgstr "عندما يبدأ طفلك في تعلم كيفية حل هذه الألغاز، ضع جميع علاقات التفاوت وبعض الأرقام. تدريجيًا، ابدأ في حذف المزيد من الأرقام وبعض علاقات التفاوت."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make Me a Liar"
+msgstr "اجعلني كاذباً"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone makes an absolute statement and the other players attempt to show that the person is lying. This is done by finding an example that breaks the statement."
+msgstr "شخص ما يقدم بياناً مطلقاً واللاعبون الآخرون يحاولون إظهار أن الشخص يكذب. يتم ذلك عن طريق العثور على مثال يكسر البيان."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simple Statements That Are Almost Always True"
+msgstr "بيانات بسيطة تكاد تكون دائماً صحيحة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One type of statement to use is saying that something is always true. Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* All trucks have four wheels. - Large trucks often have 6, 10 or more wheels.\n"
+"* All rectangles are squares. - Rectangles need not have all their sides the same length.\n"
+"* All birds can fly. - Ostriches, emus, and kiwis are birds that cannot fly.\n"
+"* The moon is only visible at night. - The moon is often visible during the day.\n"
+"* All shapes have straight sides. - A circle does not have a straight side.\n"
+"* All playgrounds have swing sets. - Some playgrounds don’t have swing sets.\n"
+"* All rooms have chairs. Bedrooms and bathrooms often don’t have a chair."
+msgstr ""
+"نوع واحد من البيانات هو قول أن شيئاً ما صحيح دائماً. إليك بعض الأمثلة مع مناقشات سريعة حول سبب كونها أكاذيب.\n"
+"\n"
+"* جميع الشاحنات لها أربع عجلات. - الشاحنات الكبيرة غالباً ما تكون لها ٦، ١٠ أو أكثر من العجلات.\n"
+"* جميع المستطيلات مربعات. - المستطيلات ليس من الضروري أن تكون جميع جوانبها متساوية الطول.\n"
+"* جميع الطيور يمكنها الطيران. - النعام، الإيموس، و الكيوي هي طيور لا يمكنها الطيران.\n"
+"* القمر مرئي فقط في الليل. - القمر غالباً ما يكون مرئيًا خلال النهار.\n"
+"* جميع الأشكال لها جوانب مستقيمة. - الدائرة ليس لها جانب مستقيم.\n"
+"* جميع الملاعب تحتوي على أرجوحات. - بعض الملاعب لا تحتوي على أرجوحات.\n"
+"* جميع الغرف تحتوي على كراسي. - غرف النوم والحمامات غالباً ما لا تحتوي على كرسي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If-Then Statements That Are Almost Always True"
+msgstr "بيانات -إذا- التي تكاد تكون دائماً صحيحة"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Another type of statement is of the form “if __, then ___ .” Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* If today is Monday, then it is a school day. - Some Mondays are holidays and some Mondays occur during the summer.\n"
+"* If I don’t eat for three hours, then I am hungry. - Most people can sleep for more than three hours and not wake up hungry.\n"
+"* If a person is taller than someone, then they are older. - Children often grow up to be taller than their parents.\n"
+"* If the sun is shining, it is a warm day. - Winter days can be sunny and cold.\n"
+"* If someone is late, something bad must have happened to them. - Sometimes people are late through carelessness or reasons beyond their control (traffic, bad weather, car trouble)."
+msgstr ""
+"نوع آخر من البيانات هو من النوع \"إذا __، إذن __\". إليك بعض الأمثلة مع مناقشات سريعة حول سبب كونها أكاذيب.\n"
+"\n"
+"* إذا كان اليوم هو الاثنين، إذن هو يوم دراسي. - بعض أيام الاثنين تكون عطلات وبعض أيام الاثنين تحدث خلال الصيف.\n"
+"* إذا لم آكل لمدة ثلاث ساعات، إذن أنا جائع. - معظم الناس يمكنهم النوم لأكثر من ثلاث ساعات دون الاستيقاظ جائعين.\n"
+"* إذا كان الشخص أطول من شخص آخر، إذن هو أكبر سناً. - الأطفال غالباً ما يكبرون ليكونوا أطول من والديهم.\n"
+"* إذا كانت الشمس مشرقة، إذن اليوم دافئ. - الأيام الشتوية يمكن أن تكون مشمسة وباردة.\n"
+"* إذا كان شخص ما متأخراً، فلا بد أن شيئاً سيئاً حدث له. - أحياناً يكون الأشخاص متأخرين بسبب الإهمال أو لأسباب خارج سيطرتهم (مثل بسبب المرور، الطقس السيئ، مشاكل السيارات)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15-Sliding Puzzle"
+msgstr "١٥ - لغز منزلق"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle Description"
+msgstr "وصف اللغز"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The classic version of this puzzle starts with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid. The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"A 4 x 4 grid is too hard for a beginner, so start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr ""
+"النسخة الكلاسيكية من هذا اللغز تبدأ بشبكة فارغة ٤ × ٤ مكونة من ٥ خطوط أفقية ورأسية. استخدم مجموعة من ١٥ قطعة ورقية بحجم مربعات الشبكة، وقم بترقيم القطع من ١ إلى ١٥. يبدأ اللغز بوضع شخص ما القطع على الشبكة. الهدف من اللغز هو ترتيب القطع بالترتيب مع ترك الركن السفلي الأيمن من الشبكة فارغًا. لتحقيق ذلك، يمكن نقل قطعة ورقية إذا كانت مجاورة للمربع الفارغ - في هذه الحالة يمكن انزلاقها إلى ذلك المكان. اعتمادًا على كيفية وضع الشخص اللغز، قد يكون اللغز قابلاً للحل أو لا.\n"
+"\n"
+"شبكة ٤ × ٤ صعبة جدًا للمبتدئين، لذا ابدأ بشيء أصغر. يمكن أن تكون الشبكة صغيرة تصل إلى ٢ × ٢ أو كبيرة بقدر ما يريد الطفل. عدد القطع الورقية المرقمة سيكون دائمًا واحدًا أقل من حجم الشبكة. على سبيل المثال، استخدم البطاقات من ١ إلى ٥ في شبكة ٢ × ٣."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr "لإنشاء هذه الألغاز، لديك خياران. الأول هو وضع المربعات بشكل عشوائي، وفي هذه الحالة لديك فرصة ٥٠ / ٥٠ لأن تكون الوضعية قابلة للحل. بدلاً من ذلك، يمكنك البدء بوضع القطع الورقية في الموضع النهائي ثم إجراء سلسلة من التحركات حسب القواعد لتحريك الورق حوله. عندما تنتهي، تكون مضمونًا أن اللغز قابل للحل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving the Puzzle"
+msgstr "حل اللغز"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The main reason for a child to play with this puzzle is to have fun moving pieces around until they accidentally solve it and also to practice getting numbers in order. Despite that simple goal, you may start to wonder about deeper ideas in the puzzle.\n"
+"\n"
+"A frequent theme of problem solving is to learn from simpler problems or examples. So, let’s do that.\n"
+"\n"
+"The smallest example is 2 by 2. For this size, it is clear that the rows will end up being either 1 2; 3 0 or 1 3; 2 0.\n"
+"\n"
+"The next smallest is 2 by 3. Start this by getting the 1 and 4 in the left column. Once this is done, your puzzle will look like 1 _ _; 4 _ _ . Finish off the last four squares as you would the 2 by 2 case.\n"
+"\n"
+"The 2 by 4 puzzle is done similarly. Start by putting 1 and 5 in the left column. Next, put the 2 and 6 in the second left column without disturbing the 1 and 4. Finally finish off the last 2 by 2.\n"
+"\n"
+"At this point, the pattern for attacking puzzles with 2 rows is clear. What to do with more than 2 rows? Suppose you have 3 rows. Start the solution by getting the top row correctly laid out. After that, leave the top row undisturbed and use your ability to solve a puzzle with 2 rows.\n"
+"\n"
+"Similarly, if there are 4 rows, do the top row first, the second row next (without disturbing the top row), and finish off the last 2 rows as before."
+msgstr ""
+"السبب الرئيسي الذي يجعل الطفل يلعب بهذا اللغز هو الاستمتاع بتحريك القطع حولها حتى يحلها بطريق الخطأ وأيضًا لممارسة ترتيب الأرقام. على الرغم من هذا الهدف البسيط، قد تبدأ في التساؤل عن الأفكار الأعمق في اللغز.\n"
+"\n"
+"موضوع شائع لحل المشكلات هو التعلم من المشكلات أو الأمثلة الأبسط. لنفعل ذلك.\n"
+"\n"
+"أصغر مثال هو ٢ × ٢. لهذا الحجم، من الواضح أن الصفوف ستنتهي بكونها إما ١ ٢؛ ٣ ٠ أو ١ ٣؛ ٢ ٠.\n"
+"\n"
+"الأصغر التالي هو ٢ × ٣. ابدأ بذلك بوضع ١ و ٤ في العمود الأيسر. بمجرد الانتهاء من ذلك، ستبدو اللغز كالتالي: ١ _ _؛ ٤ _ _. أكمل الأربعة مربعات الأخيرة كما كنت تفعل في حالة ٢ × ٢.\n"
+"\n"
+"اللغز ٢ × ٤ يتم بشكل مشابه. ابدأ بوضع ١ و ٥ في العمود الأيسر. بعد ذلك، ضع ٢ و ٦ في العمود الأيسر الثاني دون إزعاج ١ و ٤. أخيرًا، أكمل الأخير ٢ × ٢.\n"
+"\n"
+"في هذه المرحلة، أصبح نمط حل الألغاز التي تحتوي على صفين واضحاً. ماذا عن الألغاز التي تحتوي على أكثر من صفين؟ لنفترض أن لديك ثلاثة صفوف. ابدأ الحل بوضع الصف العلوي بشكل صحيح. بعد ذلك، اترك الصف العلوي دون إزعاج واستخدم قدرتك على حل لغز بصفين.\n"
+"\n"
+"وبالمثل، إذا كان هناك أربعة صفوف، قم بترتيب الصف العلوي أولاً، ثم الصف الثاني (دون إزعاج الصف العلوي)، ثم أكمل الصفين الأخيرين كما هو موضح من قبل."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is This Puzzle Solvable?"
+msgstr "هل هذا اللغز قابل للحل؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Okay, you have a simple method for solving the puzzle. The next question is: How can I just look at the puzzle and know whether it is solvable or not?\n"
+"\n"
+"To make describing the answer as simple as possible, do a few quick moves, if needed, to place the empty square in the bottom row. Next, make a list of the rows in one long list - the first row is listed first, the second row is listed second, and so on with the last row listed last. Omit the empty square when you list the last row.\n"
+"\n"
+"Take this long list and count the number of inversions in it. When a number earlier in the list is larger than a number later in the list, this is called an inversion. If the number of inversions is an even number, then the puzzle is solvable. If it is an odd number, it is not.\n"
+"\n"
+"As an example, take the 3 by 3 puzzle at the start of this discussion. Start by moving the 4 up to the second row. Then the list is: 6 1 2 4 8 5 3 7. There are 10 inversions in this list: 6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7, and 5 3. There are an even number of inversions, so the puzzle is solvable.\n"
+"\n"
+"Why does this rule work? I won’t drag you through a detailed analysis. The key idea is to keep track of the number of inversions every time you make a move. It turns out that, if you adjust for the hole being in the last row, the number of inversions must always change by an even number after any move. Consequently, if the number of inversions starts as an odd number, it can never get down to 0 inversions."
+msgstr ""
+"حسنًا، لديك طريقة بسيطة لحل اللغز. السؤال التالي هو: كيف يمكنني فقط النظر إلى اللغز ومعرفة ما إذا كان قابلاً للحل أم لا؟\n"
+"\n"
+"لجعل وصف الإجابة بسيطًا قدر الإمكان، قم ببعض التحركات السريعة، إذا لزم الأمر، لوضع المربع الفارغ في الصف السفلي. بعد ذلك، قم بعمل قائمة بالصفوف في قائمة طويلة واحدة - يتم سرد الصف الأول أولاً، والثاني ثانيًا، وهكذا مع الصف الأخير. احذف المربع الفارغ عند سرد الصف الأخير.\n"
+"\n"
+"خذ هذه القائمة الطويلة واحسب عدد الانعكاسات فيها. عندما يكون رقم سابق في القائمة أكبر من رقم لاحق في القائمة، يُسمى ذلك انعكاسًا. إذا كان عدد الانعكاسات عددًا زوجيًا، فإن اللغز قابل للحل. إذا كان عدد الانعكاسات فرديًا، فإنه ليس كذلك.\n"
+"\n"
+"كمثال، خذ لغز ٣ × ٣ في بداية هذا النقاش. ابدأ بتحريك الرقم ٤ إلى الصف الثاني. ثم تكون القائمة: ٦ ١ ٢ ٤ ٨ ٥ ٣ ٧. هناك ١٠ انعكاسات في هذه القائمة: ٦ ١، ٦ ٢، ٦ ٤، ٦ ٥، ٦ ٣، ٤ ٣، ٨ ٥، ٨ ٣، ٨ ٧، و٥ ٣. هناك عدد زوجي من الانعكاسات، لذا فإن اللغز قابل للحل.\n"
+"\n"
+"لماذا تعمل هذه القاعدة؟ لن أغرقك في تحليل مفصل. الفكرة الرئيسية هي تتبع عدد الانعكاسات في كل مرة تقوم فيها بحركة. يتبين أنه إذا قمت بتعديل الموضع الفارغ ليكون في الصف الأخير، يجب أن يتغير عدد الانعكاسات دائمًا بعدد زوجي بعد كل حركة. نتيجة لذلك، إذا بدأ عدد الانعكاسات كعدد فردي، فلن يتمكن أبدًا من الوصول إلى عدم الانعكاس."
 
 #. type=data_list
 msgctxt "data_list"
