@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-09 18:56\n"
+"PO-Revision-Date: 2024-12-09 19:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13704,6 +13704,165 @@ msgstr ""
 "كما هو الحال مع العديد من الألغاز لهذه الفئة العمرية، السبب الرئيسي لجعل طفلك يلعب بهذا هو تشجيعه على الاستمتاع باستكشاف كيفية تفاعل الأرقام مع بعضها البعض وممارسة حقائق الأرقام. لم يتطور لديهم بعد مهارات الرياضيات أو التفكير النظامي لاستكشاف هذه الألغاز بشكل منهجي. ومع ذلك، يمكن استكشاف هذه الألغاز بعمق أكبر، وهذه بعض الأفكار للتعمق إذا كنت أنت أو طفل أكبر مهتمًا.\n"
 "\n"
 "ليكن SUM هو مجموع جانب واحد من المثلث. إذا جمعت الجوانب الثلاثة للمثلث، فسيكون المجموع ٣ x SUM. ومع ذلك، فإن مجموع الجوانب الثلاثة سيكون أيضًا مجموع كل الأرقام بالإضافة إلى نسخة إضافية لكل زاوية من المثلث. ليكن C-SUM هو مجموع القيم في الزوايا الثلاث. ننتهي بالعلاقة التي هي ٣ x SUM = (مجموع كل الأرقام) + C-SUM."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6-Circle Puzzle"
+msgstr "لغز الدوائر الست"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Apply this to the triangle with six circles. The sum of all the numbers is the sum of the numbers from one to six, which is 21. So the equation becomes 3 x SUM = 21 + C-SUM The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 4 + 5 + 6 = 15. So, 3 x SUM is between 21 + 6 = 27 and 21 + 15 = 36. This forces SUM to be 9, 10, 11, 12. Note also that C-SUM = 3 x SUM - 21, which is handy for finding the corners.\n"
+"\n"
+"Another thing to notice is the symmetry of the possible values. What is causing this symmetry is that for every solution, there is another solution created by subtracting all the numbers from 7 (or from 10 for the nine circle puzzle). A little calculating will show that this symmetry takes a puzzle with sum SUM and creates a new one with sum (21 - SUM) (or 40 - SUM for the nine circle puzzle).\n"
+"\n"
+"The last thing to notice before we dig in with actual numbers is that for any solution for the three corners, we can assume that they are in increasing order going around clockwise, with the smallest number at the top. If they are not in that configuration to begin with, you can rotate or flip the diagram until they are.\n"
+"\n"
+"All these observations save a tremendous amount of work. We only need to look at SUM equal to 9 and 10, and we only need to have the corners in increasing order. If SUM is 9, then C-SUM = 3 x 9 - 21 = 6, so the trio is 1, 2, and 3. If SUM is 10, then a + b + c = 3 x 10 - 21 = 9. This leaves two possibilities - either corner values of 1, 2, and 6, or 1, 3, and 5. A quick trial rules out 1, 2, and 6 as a possibility.\n"
+"\n"
+"After much work, we have the solutions for SUM being 9 and 10 for the six circle puzzle. Remember that you can get the solutions for SUM being 11 and 12 by subtracting all the entries from 7."
+msgstr ""
+"طبق هذا على المثلث المكون من ست دوائر. مجموع كل الأرقام هو مجموع الأرقام من واحد إلى ستة، وهو ٢١. لذا تصبح المعادلة ٣ x SUM = ٢١ + C-SUM. أصغر قيمة لـ C-SUM يمكن أن تكون ١ + ٢ + ٣ = ٦، وأكبر قيمة يمكن أن تكون ٤ + ٥ + ٦ = ١٥. لذلك، ٣ x SUM تكون بين ٢١ + ٦ = ٢٧ و٢١ + ١٥ = ٣٦. هذا يجبر SUM على أن تكون ٩، ١٠، ١١، أو ١٢. لاحظ أيضًا أن C-SUM = ٣ x SUM - ٢١، مما يسهل العثور على الزوايا.\n"
+"\n"
+"شيء آخر يجب ملاحظته هو تماثل القيم الممكنة. ما يسبب هذا التماثل هو أنه لكل حل، هناك حل آخر يتم إنشاؤه بطرح جميع الأرقام من ٧ (أو من ١٠ للغز التسع دوائر). بعض الحسابات ستوضح أن هذا التماثل يأخذ لغزًا بمجموع SUM ويخلق واحدًا جديدًا بمجموع (٢١ - SUM) (أو ٤٠ - SUM للغز التسع دوائر).\n"
+"\n"
+"آخر شيء يجب ملاحظته قبل الخوض في الأرقام الفعلية هو أنه لأي حل للزوايا الثلاث، يمكننا افتراض أنها في ترتيب تصاعدي بالاتجاه مع عقارب الساعة، مع الرقم الأصغر في الأعلى. إذا لم تكن في هذا التكوين في البداية، يمكنك تدوير أو قلب المخطط حتى تصبح كذلك.\n"
+"\n"
+"كل هذه الملاحظات توفر الكثير من العمل. نحتاج فقط إلى النظر في SUM تساوي ٩ و١٠، ونحتاج فقط إلى أن تكون الزوايا في ترتيب تصاعدي. إذا كان SUM هو ٩، فإن C-SUM = ٣ x ٩ - ٢١ = ٦، لذا الثلاثي هو ١، ٢، و٣. إذا كان SUM هو ١٠، فإن a + b + c = ٣ x ١٠ - ٢١ = ٩. هذا يترك احتمالين - إما قيم الزوايا هي ١، ٢، و٦، أو ١، ٣، و٥. تجربة سريعة تستبعد احتمال ١، ٢، و٦.\n"
+"\n"
+"بعد الكثير من العمل، توصلنا إلى الحلول عندما يكون SUM يساوي ٩ و١٠ للغز الدوائر الست. تذكر أنه يمكنك الحصول على الحلول عندما يكون SUM يساوي ١١ و١٢ بطرح جميع الأرقام من ٧."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9-Circle Puzzle"
+msgstr "لغز الدوائر التسع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use the same approach for the 9 circle puzzle. The sum of the numbers from 1 to 9 is 45. Hence, 3 x SUM = 45 + C-SUM. The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 7 + 8 + 9 = 24. So 3 x SUM is between 45 + 6 = 51 and 45 + 24 = 69, which forces SUM to be between 17 and 23. Taking a solution and subtracting all the entries from 10 gives the following SUM pairings: 17 - 23, 18 - 22, 19 - 21, and 20 - 20. So, solutions are only needed for 17, 18, 19, and 20. The corresponding values for C-SUM are 6, 9, 12, and 15. \n"
+"\n"
+"* SUM = 17 and C-SUM = 6. For this, the corners must be 1, 2, 3, and it works.\n"
+"* SUM = 18 and C-SUM = 9. For this, the corners must be either 1, 2, 6 or 1, 3, 5. Neither works.\n"
+"* SUM = 19 and C-SUM = 12. There are quite a few possibilities for the corners, but the only combinations that work are 1, 4, 7 and 2, 3, 7.\n"
+"* SUM = 20 and C-SUM = 15. There are too many combinations for the corners, and many of them work. Two that work are 1, 5, 9 and 2, 5, 8."
+msgstr ""
+"ااستخدم نفس النهج للغز الدوائر التسع. مجموع الأرقام من ١ إلى ٩ هو ٤٥. لذا، ٣ × المجموع = ٤٥ + مجموع القيم في الزوايا (C-المجموع). أصغر قيمة لمجموع القيم في الزوايا (C-المجموع) يمكن أن تكون ١ + ٢ + ٣ = ٦، وأكبر قيمة يمكن أن تكون ٧ + ٨ + ٩ = ٢٤. لذا، ٣ × المجموع يكون بين ٤٥ + ٦ = ٥١ و٤٥ + ٢٤ = ٦٩، مما يجبر المجموع على أن يكون بين ١٧ و٢٣. أخذ حل وطرح جميع الأرقام من ١٠ يعطي الزوج التالي من المجموع: ١٧ - ٢٣، ١٨ - ٢٢، ١٩ - ٢١، و٢٠ - ٢٠. لذا، الحلول مطلوبة فقط للأعداد ١٧، ١٨، ١٩، و٢٠. القيم المقابلة لمجموع القيم في الزوايا (C-المجموع) هي ٦، ٩، ١٢، و١٥.\n"
+"\n"
+"* المجموع = ١٧ وC-المجموع = ٦: بالنسبة لهذا، يجب أن تكون الزوايا ١، ٢، و٣، وهذا يعمل.\n"
+"* المجموع = ١٨ وC-المجموع = ٩: بالنسبة لهذا، يجب أن تكون الزوايا إما ١، ٢، و٦ أو ١، ٣، و٥. لا يعمل أي منهما.\n"
+"* المجموع = ١٩ وC-المجموع = ١٢: هناك عدة احتمالات للزوايا، لكن التوليفات الوحيدة التي تعمل هي ١، ٤، ٧ و٢، ٣، ٧.\n"
+"* المجموع = ٢٠ وC-المجموع = ١٥: هناك العديد من التوليفات للزوايا، والعديد منها يعمل. اثنان يعملان هما ١، ٥، ٩ و٢، ٥، ٨."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Designs"
+msgstr "تصميمات سحرية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Similar to Magic Triangles, these have circles connected in a geometric pattern and an associated group of numbers. Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"The analysis of these puzzles is similar to what was done for Magic Triangles. Let SUM be the common sum that all the rows share. Let c be the value of the middle circle, for puzzles that have one. The general strategy will be to add up all the rows and investigate the relationship that is revealed. Note also that, just as for Magic Triangles, a new solution can be created by subtracting all the entries from one more than the largest number.\n"
+"\n"
+"1. The numbers from 1 to 4 are in a plus sign shape with no circles in common. The numbers 1 to 4 add up to 10, and this is split evenly between the two directions. So SUM = 5 and the answer is easy."
+msgstr ""
+"مشابهة للمثلثات السحرية، تحتوي هذه التصميمات على دوائر متصلة بنمط هندسي ومجموعة من الأرقام المرتبطة بها. ضع الأرقام في الدوائر بحيث يكون مجموع كل خط مستقيم من الدوائر المتصلة هو نفسه.\n"
+"\n"
+"تحليل هذه الألغاز مشابه لما تم فعله للمثلثات السحرية. لنفترض أن المجموع هو المجموع المشترك الذي تشترك فيه كل الصفوف. ليكن c هو قيمة الدائرة الوسطى، للألغاز التي تحتوي على واحدة. ستكون الاستراتيجية العامة هي جمع كل الصفوف والتحقيق في العلاقة التي تظهر. لاحظ أيضًا أنه، كما في حالة المثلثات السحرية، يمكن إنشاء حل جديد بطرح جميع الأرقام من واحد أكثر من أكبر رقم.\n"
+"\n"
+"١. الأرقام من ١ إلى ٤ موجودة في شكل علامة زائد بدون دوائر مشتركة. مجموع الأرقام من ١ إلى ٤ هو ١٠، وهذا يتم تقسيمه بالتساوي بين الاتجاهين. لذا، المجموع = ٥ والإجابة سهلة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2. The numbers from 1 to 5 are in a plus sign with one circle in common in the middle. The numbers 1 to 5 add up to 15. Adding up the two directions gives 2 x SUM = 15 + c. Because 15 + c must be even, c can be 1, 3, and 5. Get the solution for c = 5 (SUM = 10) from the c = 1 solution by subtracting all the numbers from 6."
+msgstr "٢. الأرقام من ١ إلى ٥ على شكل علامة زائد مع دائرة واحدة مشتركة في الوسط. مجموع الأرقام من ١ إلى ٥ هو ١٥. جمع الاتجاهين يعطي ٢ × المجموع = ١٥ + c. لأن ١٥ + c يجب أن يكون زوجيًا، يمكن أن يكون c ١، ٣، و٥. احصل على الحل عندما يكون c = ٥ (المجموع = ١٠) من الحل عندما يكون c = ١ عن طريق طرح جميع الأرقام من ٦."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3. The numbers from 1 to 7 are in lines of 3 circles with one common circle in the middle. Adding up the three directions gives 3 x SUM = 28 + 2 x c. Because 3 evenly divides 28 + 2 x c, this forces c to be 1, 4, or 7. The solutions for c = 1 and 4 are given."
+msgstr "٣. الأرقام من ١ إلى ٧ في خطوط من ٣ دوائر مع دائرة واحدة مشتركة في الوسط. جمع الاتجاهات الثلاثة يعطي ٣ × المجموع = ٢٨ + ٢ × c. لأن ٣ تقسم بالتساوي ٢٨ + ٢ × c، يجبر هذا c على أن يكون ١، ٤، أو ٧. الحلول لـ c = ١ و٤ موجودة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4. The numbers from 1 to 9 are in lines of 3 circles with one common circle in the middle. Adding up the four directions gives 4 x SUM = 45 + 3 x c. Because 4 evenly divides 45 + 3 x c, this forces c = 1, 5, or 9."
+msgstr "٤. الأرقام من ١ إلى ٩ في خطوط من ٣ دوائر مع دائرة واحدة مشتركة في الوسط. جمع الاتجاهات الأربعة يعطي ٤ × المجموع = ٤٥ + ٣ × c. لأن ٤ تقسم بالتساوي ٤٥ + ٣ × c، يجبر هذا c على أن يكون ١، ٥، أو ٩."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. The numbers from 1 to 5 are placed in an L shape with one circle in common in the corner. This is really the same as problem #2, so the solutions are essentially the same.\n"
+"\n"
+"6. The numbers from 1 to 8 are in a plus sign with no circles in common. The two directions evenly split 36, the sum of all the numbers, so SUM = 18. There are many ways to solve this by splitting the set of numbers into two groups that add up to 18. One solution is 1, 2, 7, 8 and 3, 4, 5, 6, and another is 1, 3, 6, 8 and 2, 4, 5, 7.\n"
+"\n"
+"7. The numbers from 1 to 9 are in a plus sign with one circle in common in the middle. Adding up the two directions gives 2 X SUM = 45 + c, so c = 1, 3, 5, 7, and 9. Solutions for c = 1, 3, and 5 are given."
+msgstr ""
+"٥. الأرقام من ١ إلى ٥ موضوعة في شكل L مع دائرة واحدة مشتركة في الزاوية. هذا يشبه في الواقع المشكلة رقم ٢، لذلك الحلول تكون متشابهة بشكل أساسي.\n"
+"\n"
+"٦. الأرقام من ١ إلى ٨ على شكل علامة زائد بدون دوائر مشتركة. الاتجاهان يقسمان بالتساوي ٣٦، مجموع كل الأرقام، لذا المجموع = ١٨. هناك العديد من الطرق لحل هذا بتقسيم مجموعة الأرقام إلى مجموعتين يبلغ مجموعهما ١٨. أحد الحلول هو ١، ٢، ٧، ٨ و٣، ٤، ٥، ٦، وآخر هو ١، ٣، ٦، ٨ و٢، ٤، ٥، ٧.\n"
+"\n"
+"٧. الأرقام من ١ إلى ٩ على شكل علامة زائد مع دائرة واحدة مشتركة في الوسط. جمع الاتجاهين يعطي ٢ × المجموع = ٤٥ + c، لذا c = ١، ٣، ٥، ٧، و٩. الحلول لـ c = ١، ٣، و٥ موجودة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "8. The numbers from 1 to 12 are in a star shape. This has 6 directions of lines of 4 circles. This one is much harder than the others. If you add up all the directions, every number will be involved twice. The numbers from 1 to 12 add up to 78. Thus we have 6 x SUM = 2 x 78, which means SUM = 26 (as given in the hint). A solution is given below. As always, another solution can be obtained by subtracting all the entries from 13."
+msgstr "٨. الأرقام من ١ إلى ١٢ في شكل نجمة. هذه تحتوي على ٦ اتجاهات لخطوط من ٤ دوائر. هذا أصعب بكثير من البقية. إذا جمعت كل الاتجاهات، سيكون كل رقم مشترك مرتين. الأرقام من ١ إلى ١٢ مجموعها ٧٨. وبالتالي لدينا ٦ × المجموع = ٢ × ٧٨، مما يعني أن المجموع = ٢٦ (كما هو مذكور في التلميح). الحل موجود أدناه. كما هو الحال دائمًا، يمكن الحصول على حل آخر بطرح جميع الإدخالات من ١٣."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9. The numbers from 1 to 7 are in an H shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. There are 5 possible lines of 3 connected circles. If the 5 directions are added up, all the circles will be used twice, with the exception of the center which is used three times. Adding up the five directions gives 5 x SUM = 2 x 28 + c. Because 5 evenly divides 56 + c, this forces c = 4, and in that case SUM = 12 (as given in the hint). Note that neither 2 nor 3 can be on the same side as the 1, and this leads to the following solution."
+msgstr "٩. الأرقام من ١ إلى ٧ في شكل H - ٣ عمودياً على اليسار، ١ في المركز، ٣ عمودياً على اليمين. هناك ٥ خطوط ممكنة من ٣ دوائر متصلة. إذا جمعت الاتجاهات الخمسة، سيتم استخدام جميع الدوائر مرتين، باستثناء المركز الذي يستخدم ثلاث مرات. جمع الاتجاهات الخمسة يعطي ٥ × المجموع = ٢ × ٢٨ + c. لأن ٥ تقسم بالتساوي ٥٦ + c، يجبر هذا c على أن يكون ٤، وفي هذه الحالة المجموع = ١٢ (كما هو مذكور في التلميح). لاحظ أن ٢ و٣ لا يمكن أن يكونا على نفس الجانب مع ١، وهذا يؤدي إلى الحل التالي."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Square"
+msgstr "مجموع المربع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 3 by 3 grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid. For the numbers that are not yet placed, the challenge is to place them to make the row and column sums be the target values.\n"
+"\n"
+"To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid. For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper you removed to your child and ask “where were these?” Because these are so easy to create, they are great puzzles for your child to create for you to solve.\n"
+"\n"
+"One variation that keeps the sums a little smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid, or even 1 to 16 in a 4 by 4 grid."
+msgstr ""
+"ابدأ بشبكة ٣ × ٣ تحتوي على مجاميع مستهدفة لكل صف وعمود. بعض الأرقام من ١ إلى ٩ وضعت بالفعل في الشبكة. التحدي هو وضع الأرقام المتبقية بحيث تتساوى مجاميع الصفوف والأعمدة مع القيم المستهدفة.\n"
+"\n"
+"لإنشاء أحد هذه الألغاز، ابدأ بوضع أوراق صغيرة بالأرقام من ١ إلى ٩ على شبكة ٣ × ٣. لكل صف وعمود، اكتب المجموع إلى اليمين أو أسفل. بعد ذلك، أزل بعض الأرقام من الشبكة. أخيرًا، قدم الأوراق التي أزلتها لطفلك واسأله \"أين كانت هذه؟\" نظرًا لأن هذه الألغاز سهلة الإنشاء، فهي رائعة لطفلك ليقوم بإنشائها لك لحلها.\n"
+"\n"
+"يمكن تقليل المجاميع قليلاً باستخدام الأرقام من ٠ إلى ٨ بدلاً من ذلك. وتحدي أصعب هو القيام بنفس الشيء بالأرقام من ١ إلى ١٢ في شبكة ٣ × ٤، أو حتى ١ إلى ١٦ في شبكة ٤ × ٤."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making the original filled in puzzle is easy enough. As mentioned above, just put in all the numbers and write down the sums. The challenge for the puzzle maker is to remove just the right amount of information so that the puzzle is challenging but not too hard."
+msgstr "صنع اللغز الأصلي مع الأرقام المملوءة سهل بما فيه الكفاية. كما ذكر أعلاه، فقط ضع جميع الأرقام واكتب المجاميع. التحدي لصانع اللغز هو إزالة الكمية المناسبة من المعلومات بحيث يكون اللغز تحديًا ولكنه ليس صعبًا للغاية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategies for Solving and Creating"
+msgstr "استراتيجيات الحل والإنشاء"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start by filling in squares that are the single missing numbers in a row or column. The leftmost of these three puzzles is pretty easy to solve because, after the 5 and the 7 are filled in, then the 3 and 2 are easy to solve, and then lastly the 8 will be easy- solving each singleton creates new singletons that are easy to calculate.\n"
+"\n"
+"Easy to calculate puzzles are good practice for your child, so don’t worry about making all the puzzles tricky.\n"
+"\n"
+"The middle puzzle is a bit harder. There are no singletons. A good strategy for these is to look for rows or columns that have particularly large or small missing sums - these will have relatively few choices to choose from. The bottom row and the rightmost column are good places to start for this puzzle. The missing numbers in the bottom row add up to 16, so they must be 7 and 9. The 9 cannot go in the column with the 6 (the sum would be too big for that column), so that places the 7 and 9. The rest follows as in the previous puzzle.\n"
+"\n"
+"In the rightmost puzzle, two of the side numbers are left out. Once your child realizes that the side numbers add up to 45, which is the sum of the numbers from 1 to 9, it is easy to fill in a single missing side number."
+msgstr ""
+"ابدأ بملء المربعات التي تكون الأرقام الفردية المفقودة في صف أو عمود. اللغز الأيسر من هذه الألغاز الثلاثة سهل الحل لأن بعد ملء ٥ و٧، يصبح من السهل حل ٣ و٢، وأخيرًا سيكون من السهل ملء ٨ - حل كل عدد فردي ينشئ أعداد فردية جديدة يسهل حسابها.\n"
+"\n"
+"الألغاز السهلة الحساب هي ممارسة جيدة لطفلك، لذلك لا تقلق بشأن جعل جميع الألغاز معقدة.\n"
+"\n"
+"اللغز الأوسط أصعب قليلاً. لا توجد أعداد فردية. استراتيجية جيدة لهذه الألغاز هي البحث عن الصفوف أو الأعمدة التي تحتوي على مجاميع مفقودة كبيرة أو صغيرة بشكل خاص - سيكون لهذه خيارات قليلة نسبيًا. الصف السفلي والعمود الأيمن هما مكانان جيدان للبدء في هذا اللغز. الأرقام المفقودة في الصف السفلي تساوي ١٦، لذلك يجب أن تكون ٧ و٩. لا يمكن وضع ٩ في العمود الذي يحتوي على ٦ (سيكون المجموع كبيرًا جدًا لذلك العمود)، لذا يمكن وضع ٧ و٩. الباقي يتبع كما في اللغز السابق.\n"
+"\n"
+"في اللغز الأيمن، يتم حذف اثنين من الأرقام الجانبية. بمجرد أن يدرك طفلك أن الأرقام الجانبية تساوي ٤٥، وهو مجموع الأرقام من ١ إلى ٩، يصبح من السهل ملء العدد الجانبي الفردي المفقود."
 
 #. type=data_list
 msgctxt "data_list"
