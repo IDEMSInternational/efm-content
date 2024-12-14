@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-14 00:54\n"
+"PO-Revision-Date: 2024-12-14 02:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6738,6 +6738,7 @@ msgstr ""
 "Premier joueur : crée un motif et met l'autre personne au défi de le répéter. (Marcher, taper dans les mains, sauter).\n"
 "\n"
 "Deuxième joueur : peut répéter et éventuellement ajouter au motif, en mettant le premier joueur au défi de le répéter. (Marcher, applaudir, sauter, se toucher le nez)\n"
+"\n"
 "Au fur et à mesure que vous vous améliorez, mettez-vous au défi de répéter de mémoire des motifs de plus en plus longs.\n"
 "\n"
 "Vous pouvez utiliser un motif comme code secret pour franchir un passage. Vous pouvez également fabriquer des colliers avec votre enfant en prenant de la ficelle et en y enfilant des perles ou des morceaux de nourriture pour créer des motifs répétitifs. En marchant main dans la main, vous pouvez utiliser des motifs de compression (court court long, etc.).\n"
@@ -6798,7 +6799,7 @@ msgstr "UN DE PLUS UN DE MOINS"
 #. type=data_list
 msgctxt "data_list"
 msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
-msgstr "Au fur et à mesure que votre enfant comprend les premiers nombres, posez-lui des questions sur « un de plus » ou « un de moins ». Par exemple, sans parler du nombre d'objets qu'il y a actuellement, demandez-lui : « Voudrais-tu en avoir un de plus ? » ou « Voudrais-tu en avoir un de moins ? »."
+msgstr "Au fur et à mesure que votre enfant comprend les premiers nombres, posez-lui des questions sur « un de plus » ou « un de moins~». Par exemple, sans parler du nombre d'objets qu'il y a actuellement, demandez-lui : « Voudrais-tu en avoir un de plus ? » ou « Voudrais-tu en avoir un de moins ? »"
 
 #. type=data_list
 msgctxt "data_list"
