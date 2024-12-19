@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-12-19 22:05\n"
+"PO-Revision-Date: 2024-12-19 23:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15578,6 +15578,11 @@ msgstr "Bu sayfada sayıca en az olan hangisi: ağaçlar mı, dağlar mı yoksa 
 msgctxt "data_list"
 msgid "Which are there the most of? Sometimes there are two things with the same amount with the most -- that's okay, just say both of them."
 msgstr "En çok hangisinden var? Bazen iki şey aynı sayıda olabilir – sorun değil, eğer öyleyse her ikisini de söyleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mr. Shabangu was the best baker in town. Every morning he woke up at four o'clock to mix and knead the dough for his famous buns, cakes, and biscuits."
+msgstr "Mr. Shabangu kasabanın en iyi fırıncısıydı. Her sabah saat dörtte kalkıp o meşhur çöreklerinin, keklerinin ve bisküvilerinin hamurunu hazırlayıp yoğururdu."
 
 #. type=data_list
 msgctxt "data_list"
