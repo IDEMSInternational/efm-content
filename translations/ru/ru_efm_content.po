@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-07 18:50\n"
+"PO-Revision-Date: 2025-04-08 23:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -868,4 +868,372 @@ msgstr "Ты знаешь человека у которого есть кошк
 msgctxt "data_list"
 msgid "Do you think nine cats is too many?"
 msgstr "Ты думаешь что девять кошек это слишком много?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "Посчитайте вместе усы, уши, ноги, глаза и хвосты."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "Какие числы которые ты посчитал одинаковые, какие разные, какое самое большое, и какое самое маленькое?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "Какое животное красное, а какое жёлтое?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"Кошка и собака живут в доме.\n"
+"\n"
+"У дома есть дверь.\n"
+"\n"
+"У дома есть крыша."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "Кошка и собака живут в круглом доме. А твой дом круглый?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "Покажи другие круглые предметы на картинке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "Сколько комнат ты думаешь в их доме?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"У кошки и собаки есть мяч.\n"
+"\n"
+"Мяч красный, синий и зелёный."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "Посчитайте вместе количество цветов на мяче."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "Какой цвет на мяче нет цвет который на кошке или собаке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "Если там, где ты сейчас находишься, что-нибудь полосатое, как этот мяч?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog.\n"
+"\n"
+"Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Cat.\n"
+"\n"
+"Cat catches the ball."
+msgstr ""
+"Кошка и собака играют с мячом.\n"
+"\n"
+"Кошка бросает мяч собаки.\n"
+"\n"
+"Собака ловит мяч.\n"
+"\n"
+"Собака бросает мяч кошке.\n"
+"\n"
+"Кошка ловит мяч."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times did they throw the ball?"
+msgstr "Сколько раз они бросали мяч?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like playing with balls? Do you throw them, catch them, or kick them?"
+msgstr "А ты любишь играть с мячами? Ты его бросаешь, ловишь или пинаешь ногами?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can real cats and dogs play catch with a ball? How can they play with balls?"
+msgstr "А настоящие кошки и собаки могут ли играть с мячом? А как они могут играть с мячом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat throws the ball very high.\n"
+"\n"
+"Oh! Oh!"
+msgstr ""
+"Потом кошка бросает мяч очень высоко.\n"
+"\n"
+"Ой! Oй!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Dog. How much higher than Dog did Cat throw it?"
+msgstr "Мяч выше собаки. На сколько выше собаки кошка бросила мяч?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat mean to do that? How can you tell from Cat's face?"
+msgstr "Кошка хотела это сделать? Как ты можешь узнать смотря на лицо кошки?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball sometimes not go where you want it when you play catch?"
+msgstr "Когда ты играешь с мячом он тоже попадает туда куда ты не хотел?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball is on the roof.\n"
+"\n"
+"The ball is on the roof of the house."
+msgstr ""
+"Мяч на крыше.\n"
+"\n"
+"Мяч на крыше дома."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The roof is slanted. Does the ball look like it would roll off the roof?"
+msgstr "Крыша наклонная. Мяч выглядит так, будто он скатится с крыши?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are Cat and Dog?"
+msgstr "Где кошка и собака?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the shape of the ball and the house similar and how are they different?"
+msgstr "Чем похожи и чем отличается форма мяча и дома?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog can see the ball.\n"
+"\n"
+"Cat and Dog cannot get to the ball.\n"
+"\n"
+"How will they get the ball down?"
+msgstr ""
+"Кошка и собака видят мяч.\n"
+"\n"
+"Кошка и собака не могут добраться до мяча.\n"
+"\n"
+"Как они смогут опустить мяч на землю?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is too high for Cat and Dog to reach. How will they solve this problem?"
+msgstr "Мяч слишком высоко чтобы кошка или собака его достали. Как они могут решить эту проблему?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What can you do to get something that is too high? Would you ask for help?"
+msgstr "Что ты можешь сделать чтобы добраться до чего-то что очень высоко? Ты бы позвал помощь."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball look bigger than it did when they were throwing it?"
+msgstr "Мяч сейчас выглядит больше чем когда они его кидали?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog are sad.\n"
+"\n"
+"They want to find something tall to reach the ball.\n"
+"\n"
+"Then Elephant comes by."
+msgstr ""
+"Кошка и собака грустная.\n"
+"\n"
+"Они хотят найти что-то высокое чтобы добраться до мяча.\n"
+"\n"
+"Потом приходит слон."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog are crying. Is their crying helping them solve their problem?"
+msgstr "Кошка и собака плачут. Плакать поможет им решить ихнюю проблему?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the big animals, birds, and trees in the picture."
+msgstr "Посчитайте вместе больших животных, птиц и деревья которые на картинке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can Elephant help them? Is the elephant tall?"
+msgstr "Как слон Может им помочь? Слон высокий?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant is big.\n"
+"\n"
+"Elephant can see the ball.\n"
+"\n"
+"Elephant can get to the ball.\n"
+"\n"
+"Elephant gets the ball from the roof.\n"
+"\n"
+"Elephant takes the ball from the roof of the house."
+msgstr ""
+"Слон высокий.\n"
+"\n"
+"Слон видит мяч.\n"
+"\n"
+"Слон может добраться до мяча.\n"
+"\n"
+"Слон достаёт мяч с крыши.\n"
+"\n"
+"Слон достаёт мяч с крыши дома."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Elephant. How does Elephant reach the ball?"
+msgstr "Мяч выше слона. А как слон добирается до мяча?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The animals are all standing on two of their four legs. Have you seen animals do this?"
+msgstr "Все животные стоят на двух из четырёх ног. Ты когда-нибудь видел когда это животное делали?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What other animals stand on two legs?"
+msgstr "Какие другие животные стоят на двух ногах?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant gives the ball to Cat and Dog.\n"
+"\n"
+"Cat and Dog smile. Elephant smiles.\n"
+"\n"
+"Cat and Dog and Elephant smile."
+msgstr ""
+"Слон отдаёт мяч кошке и собаке.\n"
+"\n"
+"Кошка и собака улыбаются. Слон улыбается.\n"
+"\n"
+"Кошка и собака и слон улыбаются."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who has the longest nose? Why does an elephant need such a long nose?"
+msgstr "У кого самый длинный нос? Зачем слону нужен такой длинный нос?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these animals is the biggest and which is the smallest?"
+msgstr "Какой из этих животных самый большой и самый маленький?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is Elephant different and how is Elephant similar to Cat and Dog? What does Elephant have that they don't?"
+msgstr "Как слон отличается и как слон похож на кошку и собаку? Что слон имеет что они не имеют?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog and Elephant play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog. Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Elephant. Elephant catches the ball.\n"
+"\n"
+"Elephant throws the ball to Cat. Cat catches the ball."
+msgstr ""
+"Кошка и собака и слон играют с мячом.\n"
+"\n"
+"Кошка бросает мяч собаки. Собака ловит мяч.\n"
+"\n"
+"Собака бросает мяч слону. Слон ловит мяч.\n"
+"\n"
+"Слон бросает мяч кошке. Кошка ловит мяч."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of throws and the number of catches. Are they the same number?"
+msgstr "Посчитай сколько раз они бросали и сколько раз они ловили мяч. Получился одинаковое число?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did each animal throw and each animal catch?"
+msgstr "Каждое животное бросало и ловило?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are good at taking turns. Are you good at taking turns?"
+msgstr "Они умеют очень хорошо играть по очереди. А ты тоже хорошо ждёшь свою очередь?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye Elephant."
+msgstr ""
+"Пока кошка.\n"
+"\n"
+"Пока собака.\n"
+"\n"
+"Пока слон."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of animals waving."
+msgstr "Посчитайте вместе сколько животных махают."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more animals or balls? By how much?"
+msgstr "Здесь больше животных или мячей? На сколько?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With fewer balls than animals, the animals must be good at sharing."
+msgstr "Поскольку мячей меньше, чем животных, животные умеют делиться и играть по очереди."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has stripes and which one has spots? How many stripes and how many spots?"
+msgstr "У какой из них есть полосы а у какой пятны? Сколько полосок и пятен ты видишь?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has whiskers we can see? How many whiskers?"
+msgstr "У кого из них есть усы, которые мы можем видеть? Сколько усов?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one is red and which one is yellow?"
+msgstr "Какой из них красный, а какой жёлтый?"
 
