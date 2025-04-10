@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-10 03:07\n"
+"PO-Revision-Date: 2025-04-10 04:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2063,4 +2063,498 @@ msgstr ""
 "Кошка даёт Собаке штаны.\n"
 "\n"
 "Одни штаны слишком длинные. Другие штаны слишком короткие."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many pieces of clothing does Cat offer each time?"
+msgstr "Сколько предметов одежды предлагает кошка каждый раз?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you are cold, do you want to wear shorts?"
+msgstr "Когда тебе холодно, ты хочешь одевать шорты?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will happen with Dog's tail? Do these pants have a hole for Dog's tail?"
+msgstr "Что случится с хвостом Собаки? У этих штанов есть дырка для хвоста Собаки?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog takes the long pair of pants. But it is still too cold."
+msgstr "Собака берёт длинные штаны. Но Cобакe всё ещё холодно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each time, Dog gets one more piece of clothing. How many pieces does Dog have on now?"
+msgstr "Каждый раз Собака получает ещё один предмет одежды. Сколько предметов одежды надето на собакe сейчас?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many pieces will Dog need?"
+msgstr "Сколько одежды понадобится Собаке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think there is any way Dog will get warm?"
+msgstr "Как ты думаешь, если способ чтобы Собака согрелась?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog vests. One vest is wet, one vest is dry.\n"
+"\n"
+"Dog takes the dry vest, but it is still too cold."
+msgstr ""
+"Кошка даёт Собаке жилеты. Один жилет мокрый, а другой жилет сухой.\n"
+"\n"
+"Собака берёт сухой жилет, но ему всё равно холодно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does having something wet on make you feel warmer or colder?"
+msgstr "Если на тебе одета одежда которая мокрая тебе становится холодно?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog had three pieces of clothing on. The vest is one more. How many does that make?"
+msgstr "На собаке было три предмета одежды. Жилет - это ещё один предмет. Сколько предметов одежды это вместе?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With the vest, Dog has four pieces of clothing. Before he put the vest on, he had one less. How many was that?"
+msgstr "Считая жилет, у Собаки надеты четыре предмета одежды. Перед тем как он надел жилет у него был на один меньше предметов. Сколько это было?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog jackets. One jacket is thick, one jacket is thin.\n"
+"\n"
+"Dog takes the thick jacket, but it is still too cold."
+msgstr ""
+"Кошка даёт Собаке куртке. Одна куртка плотная, а другая куртка тонкая.\n"
+"\n"
+"Собака берёт плотную куртку, но ему всё равно холодно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Thicker clothing helps you keep heat in and stay warmer."
+msgstr "Плотная одежда помогает сохранять тепло и тебе становится теплее."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the color of the jacket look odd with Dog's other clothes?"
+msgstr "Цвет этой курткой странно смотрится с другой одеждой Собаке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog now has one more than four. How many is that?"
+msgstr "Теперь у Собаки на один больше чем четыре предметов одежды. Сколько это вместе?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog hats. One hat is high, one hat is low.\n"
+"\n"
+"Dog takes the high hat, but it is still too cold."
+msgstr ""
+"Кошка даёт Собаке шапки. Одна шапка высокая, а другая шапка короткая.\n"
+"\n"
+"Собака берёт высокую шапку, но ему всё равно холодно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the short hat and the tall hat."
+msgstr "Покажи какая шапка Короткая, и какая шапка высокая."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does it matter which hat Dog chooses? Is one hat warmer than the other?"
+msgstr "Важно ли какую шапку выберет собака? Одна из этих шапок теплее чем другая?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any hats? If so, do you like to wear them?"
+msgstr "А у тебя есть шапки? Если есть, Тебе нравится их носить?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog shoes.\n"
+"\n"
+"One pair of shoes is new, one pair of shoes is old."
+msgstr ""
+"Кошка даёт Собаке обувь.\n"
+"\n"
+"Одна пара обуви новая, а другая пара обуви старая."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To give someone a choice, how many things do you need? Would having one thing be enough for a choice?"
+msgstr "Чтобы дать кому-то выбор, сколько вещей вам нужно предложить? Достаточно ли одной вещей для выбора?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A person can be baffled if you give them too many things to choose from."
+msgstr "Человек может быть сбит с толку, если ты даёшь ему слишком много вещей на выбор."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog is still cold. Why are Dog's choices not helping?"
+msgstr "Собаки всё равно холодно. Почему выбор собаки не помогает ему?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dogs takes the new shoes, and then ...\n"
+"\n"
+"It is not too cold for Dog."
+msgstr ""
+"Собака берёт новую пару обуви, и потом ...\n"
+"\n"
+"Собаке не так-то холодно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What changed outside the window?"
+msgstr "Что изменилось за окном?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why isn't Dog cold any more? Did his clothes help make him warm?"
+msgstr "Почему Собаке больше не холодно? Помогла ли его одежда его согреть?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is the moon and what is that on the horizon in the window?"
+msgstr "Где луна, и что это На горизонте в окне?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The night is over.\n"
+"\n"
+"The moon goes. The sun comes."
+msgstr ""
+"Ночь закончилась.\n"
+"\n"
+"Луна ушла. Солнце вышло."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the palm trees together."
+msgstr "Посчитай сколько в деревьев вместе."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the round, yellow sun. Is the moon always gone when the sun comes up?"
+msgstr "Покажи круглое, жёлтое солнце. А Луна всегда уходит когда выходит солнце?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the moon always visible at night?"
+msgstr "Всегда ли луна видна ночью?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is day. It is light. It is warm. It is very warm.\n"
+"\n"
+"For Dog it is too warm."
+msgstr ""
+"Сейчас день. Сейчас светло. Сейчас тепло. Сейчас очень тепло.\n"
+"\n"
+"Для Собаки сейчас слишком тепло."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "List all the pieces of clothing Dog has on."
+msgstr "Перечисли каждый предмет одежды которые одеты на собакe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Dog doing with his right hand? What motion do you use to try to cool off?"
+msgstr "Что Собака делает с правой рукой? Какие движения ты используешь чтобы остыть?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are Dog's clothes finally making him warm, or too warm?"
+msgstr "Одежда Собаки наконец-то согревает его или ему слишком тепло?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye hot Dog."
+msgstr ""
+"Пока кошка.\n"
+"\n"
+"Пока горячая собака."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count Cat's whiskers. How many whiskers does Dog have?"
+msgstr "Посчитай сколько усов у Кошки. А сколько усов у Собаки?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who has more whiskers -- Cat or Dog? They have the same number, but Dog's whiskers are small."
+msgstr "У кого больше усов- у Кошки или у Собаки? У них одинаковое количество усов, но усы у Собаки короче."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In the end, how many pieces of clothing does Dog have? Too many!"
+msgstr "В конце концов, сколько предметов одежды у собаки? Очень много, слишком много!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is Cat.\n"
+"\n"
+"This is Dog."
+msgstr ""
+"Это Кошка.\n"
+"\n"
+"Это Собака."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In my village lives Mister Kio. Mister Kio has a cat called Safi."
+msgstr "В моей деревне живёт господин Кио. У господина Кио есть кошка по имени Сафи."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out and name each of the strong colors on this page."
+msgstr "Покажи и назови каждый из ярких цветов на этой странице."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which has the least number of legs -- the table, Mr. Kio, or Safi?"
+msgstr "У кого наименьшее количество ног --Стол, господин Кио, или Сафи?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of Safi's legs can you see? How many can't you see?"
+msgstr "Сколько ты видишь ног у Сафи? А сколько ты не можешь видеть?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio goes to work, he leaves the door open."
+msgstr "Когда господин Кио уходит на работу, он оставляет дверь открытой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are the two things that used to be hanging on the pegs by the door?"
+msgstr "Где две вещи, которые раньше висели на крючках у двери?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that Safi looks happy when Mr. Kio leaves?"
+msgstr "Заметь что София выглядят счастливой, когда господин Кио уходит."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is odd that  Mr. Kio leaves the door open when he leaves."
+msgstr "Это странно что господин Кио оставляет дверью открытой когда он уходит?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi sits in the doorway to watch over the house."
+msgstr "Сафи сидит в дверях и присматривает за домом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. This floor is tiled with square tiles."
+msgstr "Квадрат, это фигура, подобная этой странице, имеющая четыре равных сторон. Этот пол выложен квадратной плиткой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have tiles where you live? If so, what shape are they?"
+msgstr "У тебя есть плитки на полу, где ты живёшь? Если да, то какой формы они?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi like being a house watcher?"
+msgstr "Нравится ли Сафи быть смотрителем дома?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the neighbor's dog comes close, Safi scares him away."
+msgstr "Когда соседняя собака приближается, Сафи отпугивает её."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is trying to scare the dog?"
+msgstr "Как нам понять, что Сафи пытается напугать собаку?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the circles of colors and name the colors. Those circles aren't really in the house."
+msgstr "Покажи на цветные кружочки и назови цвета. Эти круги на самом деле не в доме."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Circles that share the same central point are called \"concentric.\""
+msgstr "Круги, имеющие одну и ту же центральную точку, называются «концентрическими»."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog runs away."
+msgstr "Собака убегает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the dog feeling?"
+msgstr "Что собака чувствует?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is bigger, the cat or the dog?"
+msgstr "Какое животное больше, кошка или собака?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These bands of color going from yellow to orange give a sense of motion. Compare this to the concentric circles on the previous page."
+msgstr "Эти цветные полосы от жёлтого до оранжевого создают ощущение движения. Сравни это с концентрическими кругами на предыдущий странице."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When a neighbor knocks at the door, Safi is ready to scratch."
+msgstr "Когда соседка стучится в дверь, Сaфи готова её поцарапать."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is being scary? Is the neighbor scared?"
+msgstr "Как ты знаешь что Сaфи пытается её пугать? Соседка боится?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the neighbor need to be scared away, or is Safi doing too much?"
+msgstr "Соседку надо отпугивать или Сaфи слишком много делает?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name different things in this picture that are in a group of 2, 3, or 4."
+msgstr "Покажи и назови разные предметы на этой картинке, которые объединены в группы по два, три или четыре."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor turns and runs away."
+msgstr "Соседка разворачивается и убегает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at the neighbor's clothes, what is her favorite color?"
+msgstr "Посмотри на одежду соседки, какой у неё любимый цвет?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite color?"
+msgstr "Какой у тебя любимый цвет?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor is frightened by Safi. Have you ever been frightened by a cat or other small animal?"
+msgstr "Соседка напуганa от Сафи. Тебя когда-нибудь пугала кошка или другое маленькое животное?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Safi is hungry, she closes the door."
+msgstr "Когда Сафи голодная, она закрывает дверь."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi should just close the door as soon as Mr. Kio leaves."
+msgstr "Сафи надо было закрыть дверь как только господин Кио ушёл."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is little Safi big enough to close that big door?"
+msgstr "Маленькая Сафи достаточно большая, чтобы закрыть эту большую дверь?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After the door closes, will Safi be able to reach the handle and open it?"
+msgstr "После того, как дверь закроется, сможет ли Сафи дотянуться до ручки и открыть её?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi eats her food."
+msgstr "Сафи кушает свою еду."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the straight and curved lines in this picture."
+msgstr "Покажи на прямые и изогнутые линии на этом рисунке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi look happy to be eating? Do you like to eat your food?"
+msgstr "Сафи выглядит счастливой от еды? Тебе нравится есть твою еду?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you wait to eat if you were left with a plate of food you liked?"
+msgstr "Ты бы ждал есть, если у тебя бы была тарелка еды которая тебе очень нравится?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Afterwards, Safi jumps onto the sofa and sleeps, \"Purr! Purr! Purr!\""
+msgstr "После этого, Софи запрыгивает на диван и засыпает, «Мурр! Мурр! Мурр!»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people feel sleepy after eating and sometimes it gives them fresh energy. What does it do to you?"
+msgstr "Иногда люди чувствуют сонливость после еды, а иногда это даёт им свежую энергию. Как ты себя чувствуешь после еды?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Safi dreaming? If so, what do you think Safi is dreaming about?"
+msgstr "Сафи снится сон? Если да, то что ты думаешь, о чём Сaфи снится?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the things you dream about?"
+msgstr "А что тебе снится во сне?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio returns, Safi stretches happily and welcomes him home."
+msgstr "Когда господин Кио возвращается домой, Сaфи счастливо потягивается и приветствует его домой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the beautiful circle inside the orange square."
+msgstr "Покажи красивый круг внутри оранжевого квадрата."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have some circles and squares where you are?"
+msgstr "У тебя есть круги и квадраты где ты сейчас находишься?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point together at the white circles Safi has on her back and belly."
+msgstr "Покажите вместе на белые круги которые на спине и животе у Сафи."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mister Kio and Safi sit down, and each of them reads the newspaper."
+msgstr "Господин Кио и Сафи садятся, и каждый из них читает газету."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is warm and cozy. Do cats read the newspaper?"
+msgstr "Здесь Тепло и уютно. Кошки вообще читают газету?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides with corners like this page. Point at the rectangles you see in this picture and around you."
+msgstr "Прямоугольник, это фигура, с четырьмя прямыми сторонами и углами, как на этой странице. Покажи на прямоугольнике которые ты видишь на этой картинки и вокруг тебя."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
+msgstr "Большинство бумаг Имеют форму прямоугольников. Бумага господина Кио имеет странную форму."
 
