@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-11 03:46\n"
+"PO-Revision-Date: 2025-04-11 04:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4618,4 +4618,39 @@ msgstr "Ты когда-нибудь ходил в пруду, реки, или 
 msgctxt "data_list"
 msgid "Look at the animals."
 msgstr "Посмотрите на животных."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count and name together all the animals you see."
+msgstr "Посчитай и назови всех животных, которых видишь."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are all the animals looking at?"
+msgstr "На что смотрят все животные?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do the animals want something from the farmer?"
+msgstr "Do the animals want something from the farmer?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow says, \"Moo.\""
+msgstr "Корова говорит, «Mу.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow is looking at an empty trough. What do you think \"Moo\" means?"
+msgstr "Корова смотрит на пустое корыто. Что ты думаешь, что означает «Mу»?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?"
+msgstr "Если у тебя есть только одно слово («Mу»), Тебе нужно его сказать по-разному, чтобы давать разные значения. Что ты думаешь хочет корова?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the cow's black spots are small and some are large. Count how many spots the cow has."
+msgstr "Некоторые чёрные пятна коровы маленькие, а некоторые большие. Посчитай сколько пятен у коровы."
 
