@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-12 21:34\n"
+"PO-Revision-Date: 2025-04-12 22:33\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6359,4 +6359,59 @@ msgstr "Лулу любит смотреть и читать книги, как 
 msgctxt "data_list"
 msgid "Do you?"
 msgstr "А ты?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I have lost my bat, and I cannot find it."
+msgstr "Я потерял свою биту и не могу её найти."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Though you can only see five of them, there are six panes in the window. What else is there six of?"
+msgstr "Хотя вы видите только пять из них, в окне всего шесть стекол. Что ещё можно найти в количестве шести штук?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The number of rungs on the ladder is one more than the number of panes -- how many? The number of panes you can see is five, which is one less than the total number of panes."
+msgstr "Количество ступенек на лестнице на одну больше, чем количество стекол. Сколько их? Количество стекол, которые вы можете видеть, равно пяти, что на одно меньше общего количества стекол."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles have four straight sides and corners like those on this page. Point to and describe the rectangles in the picture."
+msgstr "Прямоугольники имеют четыре прямые стороны и угла, как на этой странице. Укажи на прямоугольники на картине и опиши их."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked behind the door. It was not there."
+msgstr "Я посмотрел за дверью. Её там не было."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice the girl outside the window?"
+msgstr "Ты заметил девочку за окном?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bat is not behind the door -- could it be inside the box?"
+msgstr "Бита не за дверью — может быть, она внутри коробки?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A box is a 3-dimensional shape with rectangles on every side. Do you see anything else similar to a box? (the door)"
+msgstr "Коробка — это трёхмерная фигура с прямоугольниками на каждой стороне. Видишь что-то ещё, похожее на коробку? (дверь)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked for it on the shelf. I could not find it there."
+msgstr "Я искал её на полке. Там я её не нашёл."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window bangs into the shelf when it opens. That seems like a bad design!"
+msgstr "Окно бьётся о полку, когда открывается. Похоже, это плохой дизайн!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this shelf is too high for a child's room?"
+msgstr "Как ты думаешь, эта полка слишком высока для детской комнаты?"
 
