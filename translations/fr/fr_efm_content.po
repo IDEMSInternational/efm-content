@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-13 16:07\n"
+"PO-Revision-Date: 2025-04-13 17:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7625,6 +7625,394 @@ msgstr "Remplacez les nombres de 1 à 5 par d'autres chiffres de votre choix. Po
 msgctxt "data_list"
 msgid "GET OUT OF MY HOUSE – ADD/SUB"
 msgstr "SORS DE MA MAISON – ADDITION ET SOUSTRACTION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**La préparation :** Utilisez un jeu de cartes numérotées de 1 (As) à 10. Sur une feuille, dessinez 20 maisons numérotées de 0 à 19. Chaque joueur dispose de 7 jetons distincts des autres joueurs.\n"
+"\n"
+"**Comment jouer :** À chaque tour, un joueur choisit deux cartes au hasard et peut les additionner, les soustraire ou les multiplier pour placer son jeton dans une maison qui contient moins de trois jetons de l’adversaire. Si la maison contient un ou deux jetons de l’adversaire, ceux-ci sont retournés à l’adversaire et le joueur dit « Sors de ma maison ! ».\n"
+"\n"
+"**Comment gagner :** Le premier joueur à placer tous ses jetons dans des maisons gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "COMBO DOMINOES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them.\n"
+"\n"
+"**How to play:** To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes.\n"
+"\n"
+"For example, if [1, 5] is on top, then it matches [2, 4] because 1 + 5 = 2 + 4, and it also matches [2, 2] because 5 - 1 = 2 x 2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile.\n"
+"\n"
+"**How to win:** The first player to get rid of all their dominoes wins."
+msgstr ""
+"**La préparation :** Utilisez un jeu de dominos allant de 1 à 6 ou de 1 à 9. Chaque joueur commence avec 5 dominos aléatoires sans les montrer à l'autre joueur.\n"
+"\n"
+"**Comment jouer :** Pour commencer, un domino aléatoire est placé face visible au centre. Ensuite, un joueur doit faire correspondre un de ses dominos avec celui du milieu. La correspondance signifie que les deux chiffres du domino supérieur peuvent être combinés à l'aide de n'importe quelle opération (addition, soustraction, ou même multiplication) pour obtenir le même résultat qu'une opération, éventuellement différente, appliquée sur les deux chiffres d'un de ses propres dominos.\n"
+"\n"
+"Par exemple, si [1,5] est au sommet, il correspond à [2,4] parce que 1 + 5 = 2 + 4, et aussi à [2,2] parce que 5 - 1 = 2 x 2. Le domino correspondant est placé au-dessus du précédent. Si vous ne trouvez pas de correspondance, piochez un domino de la pile.\n"
+"\n"
+"**Comment gagner :** Le premier joueur à se débarrasser de tous ses dominos gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "TRIANGLES DE DIFFÉRENCE ET TRIANGLES DE SOMME"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Add & Sub"
+msgstr "Jeux d'addition et de soustraction"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**DiffTriangles:** These puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides – the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares."
+msgstr "**Triangle de différence :** Ces puzzles comportent des triangles et des carrés qui partagent des côtés. Un triangle a toujours exactement deux carrés sur ses côtés – le côté restant est soit un triangle, soit vide. Le nombre d'un triangle est la différence entre les deux carrés adjacents."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**Triangle de somme :** Ces puzzles utilisent l'addition à la place de la soustraction. La valeur d'un triangle est la somme de ses deux ou trois voisins carrés.\n"
+"\n"
+"**Le défi :** Remplir les chiffres manquants pour que chaque type de puzzle fonctionne.\n"
+"\n"
+"**Comment créer :** Créer des puzzles sans boucles est simple. Dessinez une séquence alternée de carrés et de triangles. Ensuite, placez les chiffres en commençant par une extrémité et en allant vers l'autre extrémité. Une fois que vous avez terminé, retirez certains chiffres. Consultez le matériel bonus pour apprendre à créer des puzzles avec des boucles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "BOND DE COMPTAGE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"Votre enfant a déjà pratiqué le comptage par bonds de 2, 5 et 10 entre 0 et 20. Commencez à pratiquer le comptage par n'importe quel nombre, à partir de n'importe quel chiffre, dans n'importe quelle direction.\n"
+"\n"
+"Compter par bonds, que ce soit vers le haut ou vers le bas, aide à maîtriser toutes les opérations arithmétiques et à comprendre la valeur de position (lorsque l'on compte par 5 ou par 10). La partie la plus délicate du comptage par bonds est le changement du chiffre des dizaines, c'est pourquoi il faut porter une attention particulière à ce point. C'est une activité pratique que vous pouvez faire en voyage ou pendant vos moments libres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "PETITES ÉTAPES VERS UNE CIBLE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**Comment jouer :** Créez un nombre de départ à deux chiffres à l'aide de deux cartes à jouer de 1 à 9. La première carte détermine les dizaines et l'autre les unités. À partir de ce nombre, utilisez 5 bonds, chacun de 1 ou de 10. Le but est d’atteindre le plus près possible de 50. Le score est la différence par rapport à 50. Le score total le plus bas après plusieurs tours gagne.\n"
+"\n"
+"**Tableau des 100 :** Les jeunes joueurs peuvent consulter un tableau des 100 pour les aider. Cet outil met l'accent sur la valeur de position lorsqu’ils montent ou descendent par bonds de 10.\n"
+"\n"
+"**Variations :** Vous pouvez varier ce jeu en permettant des bonds de 1, 2 ou 10, ou encore de 1, 2, 5 ou 10. Vous pouvez aussi utiliser d'autres nombres cibles que 50."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "SAUT D'ÎLE – BOND DE COMPTAGE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "Comptage par bonds"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "Les îles (cercles) sont reliées par des ponts (lignes), les connexions étant réalisées par des bonds de comptage. Certaines îles sont numérotées, d'autres sont vierges. Au-dessus du puzzle, se trouvent le nombre de départ, le nombre d’arrivée et le montant du bond."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**Le défi :** Compléter les chiffres manquants et trouver le chemin.\n"
+"\n"
+"Vous pouvez aussi placer les chiffres et les cases vierges sur le sol pour créer un puzzle de pas.\n"
+"\n"
+"Comme pour l'activité de comptage par bonds, créez des puzzles pour vous entraîner à aller en avant ou en arrière à partir de différents nombres, et pas seulement des nombres multiples de la quantité sautée.\n"
+"\n"
+"**Comment créer :** Pour créer ces puzzles, commencez par dessiner les îles, complétez les nombres à compter à la volée, reliez ces îles dans le bon ordre, puis ajoutez des connexions supplémentaires pour créer un puzzle. Dans la version que vous donnez à votre enfant, enlevez certains chiffres tout en laissant suffisamment d’indices pour qu’il puisse résoudre le puzzle."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "RÉDUIRE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**La préparation :** Commencez par une ligne numérique allant de 1 à un certain nombre, par exemple 20.\n"
+"\n"
+"**Comment jouer :** Lors d'un tour, choisissez deux nombres et un résultat, dont aucun n'a été barré, et écrivez une équation d'addition ou de soustraction impliquant ces nombres. Les deux nombres de l'équation sont barrés et le résultat est entouré. Le joueur suivant doit utiliser le résultat comme l'un des deux nombres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**Comment gagner :** Si le jeu est joué en compétition, le gagnant est le dernier joueur à avoir effectué un coup légal. Il peut aussi être joué de manière coopérative pour voir combien de numéros restent intacts."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "FIXEZ-LE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "Ce jeu commence avec une grille de 4 x 4 remplie de nombres, avec une somme cible. Une version alternative utilise des sommes cibles individuelles pour chaque ligne et chaque colonne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**Le défi :** Trouver quels nombres supprimer pour que la somme des nombres restants dans chaque ligne et chaque colonne soit égale à la somme cible.\n"
+"\n"
+"**Comment créer :** Créez ces puzzles en plaçant des paires ou des triples de nombres dont la somme est égale à la somme cible. Complétez ensuite les espaces restants avec des chiffres leurres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "ÉCRITURE DÉVELOPPÉE PAR PLIAGE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "Cela permet de voir physiquement comment les nombres à deux chiffres sont formés à partir des dizaines et des unités."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "Prenez une feuille de papier sur laquelle quatre cartes numériques peuvent tenir côte à côte. Marquez le papier comme suit : espace, « 0 », « + », espace. Pliez verticalement le papier de chaque côté du signe « + ». Fixez les chiffres dans les espaces avec des trombones. Si vous utilisez 2 et 3, plié, cela donne 23, mais déplié, cela devient 20 + 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "JE PENSE À UN NOMBRE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"Un joueur pense à un nombre entre 0 et 99. L'autre joueur calcule le nombre en posant des questions sur les chiffres des dizaines et des unités.\n"
+"\n"
+"Supposons que le nombre soit 23. Le joueur pourrait demander si le chiffre des dizaines est plus grand ou égal au chiffre des unités – ce n’est pas le cas pour 23. Le joueur pourrait demander si la somme des deux chiffres est inférieure à 8 – c’est le cas pour 23. Le joueur peut ensuite demander si le double du chiffre des dizaines est plus grand que celui des unités – c’est le cas. À ce point, le nombre doit être 23 ou 34. Pour finir, il faut demander si la somme des chiffres est inférieure à 6.\n"
+"\n"
+"Les joueurs peuvent choisir les types de questions, mais il est préférable qu’elles portent sur les chiffres des unités et des dizaines."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "SAUTE D'ÎLE EN ÎLE EN AVANÇANT DE 1 OU 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "Écriture Développée et Valeur de Position"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "Une grille rectangulaire de nombres est fournie, avec certains nombres déjà remplis. Remplissez les cases vides de façon à ce que les deux nombres qui partagent un côté ne diffèrent qu'en un seul chiffre, et la différence entre les chiffres à cet endroit soit de 1 (y compris entre 0 et 9). Aucun chiffre ne peut être utilisé plus qu'une fois. L’utilisation d’un tableau de 100 peut être utile pour les débutants."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**Comment créer :** Prenez une grille vide et remplissez-la de chiffres, sans que aucun chiffre ne se répète. Ensuite, retirez certains chiffres. Dans l'exemple, les chiffres rouges sont ceux qui manquent."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "MORPION DE MATHS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**La préparation :** Utilisez un plateau de morpion et des jetons portant les chiffres de 1 à 9. Un joueur utilise les chiffres impairs, l’autre utilise les chiffres pairs.\n"
+"\n"
+"**Comment jouer :** Les joueurs placent à tour de rôle un jeton, le joueur ayant les chiffres impairs commence. Le premier joueur à réaliser trois suites dont la somme est égale à 15 gagne. Une variante consiste à remplir toutes les cases et à voir quel joueur a réalisé le plus grand nombre de suites qui totalisent 15.\n"
+"\n"
+"Un jeu apparenté consiste à avoir un attaquant et un défenseur. L'attaquant commence (le premier coup ne peut pas être un 5 au centre) et essaie d'obtenir une somme de 15, tandis que le défenseur essaie d'empêcher l'attaquant de réussir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "LE DÉFI DE LA MÉMOIRE REVISITÉ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "Jouer avec les Sommes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**La préparation :** Distribuez une grille de cartes face cachée. Une grille de 4 x 4 est idéale.\n"
+"\n"
+"**Comment jouer :** À tour de rôle, les joueurs retournent deux cartes. Si elles correspondent, le joueur les garde, deux autres cartes sont ensuite distribuées dans les espaces vides et le joueur a un autre tour. Si les cartes ne correspondent pas, elles sont retournées et le tour du joueur prend fin.\n"
+"\n"
+"**Comment gagner :** À la fin du jeu, le joueur qui possède le plus de cartes gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"Voici quelques idées pour assortir les cartes :\n"
+"\n"
+"* Utiliser une somme cible : deux cartes correspondent si leur somme est égale à la cible.\n"
+"*Utiliser une différence cible : deux cartes correspondent si leur différence est égale à la cible.\n"
+"*Utiliser des cartes avec des problèmes d'addition ou de soustraction et des cartes contenant les réponses : les cartes correspondent si le problème correspond à la réponse.\n"
+"*Utiliser l'écriture développée : sélectionnez 20 nombres entre 0 et 99 et écrivez-les sur des morceaux de papier. Écrivez également chacun d'eux en écriture développée sur un autre morceau de papier. Par exemple, créez 50 + 3 pour 53, 30 + 0 pour 30 et 0 + 7 pour 7. Mélangez ces deux jeux de 20 cartes. Deux cartes correspondent lorsqu'un nombre ordinaire est associé à l'écriture développée."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "OBTENIR LE PLUS PROCHE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**La préparation :** Écrivez les nombres 5, 10, 25 et 50 verticalement sur une feuille de papier. Laissez un espace blanc de chaque côté du 5 et deux espaces blancs de chaque côté des autres nombres. Un joueur remplit les espaces vides du côté gauche, et l'autre joueur remplit les espaces vides du côté droit. Chaque joueur dispose également d’un espace vide supplémentaire qu’il peut utiliser une seule fois pour ignorer un chiffre.\n"
+"\n"
+"**Comment jouer :** Jouez avec un jeu de cartes numériques de 0 à 9. Piochez une carte au hasard dans le jeu, puis remettez-la en place après l’avoir utilisée. Les deux joueurs doivent utiliser ce chiffre quelque part dans les cases qui n'ont pas encore été remplies. Une fois toutes les cases remplies, les valeurs des joueurs sont comparées à chacun des nombres cibles. Le joueur qui se rapproche le plus de chaque nombre cible obtient un point. Les deux joueurs obtiennent un point si leurs résultats sont égaux.\n"
+"\n"
+"**Comment gagner :** Celui qui a le plus de points gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "Variez ce jeu en utilisant un autre ensemble de nombres cibles. Vous pouvez également attribuer des points en additionnant toutes les erreurs de chaque joueur – le joueur avec le score le plus bas gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "GUERRE – COMPARAISON À DEUX CHIFFRES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**La préparation :** Mélangez un jeu de cartes en retirant les cartes de figures et les dizaines, puis répartissez-le équitablement entre les deux joueurs.\n"
+"\n"
+"**Comment jouer :** Chaque joueur retourne deux cartes et les place côté à côté pour former un nombre à deux chiffres. Le joueur qui obtient le nombre le plus élevé garde les quatre cartes. En cas d'égalité, chaque joueur retourne deux cartes supplémentaires et le gagnant remporte les huit cartes.\n"
+"\n"
+"**Comment gagner :** Après un ou plusieurs passages des cartes, le joueur qui a le plus de cartes gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "MATHÉMATIQUES BLACKJACK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**La préparation :** Traditionnellement, le nombre cible est 21, mais pour un jeune enfant, vous pouvez utiliser un nombre plus petit comme 12. Adaptez le contenu des cartes en fonction de l'âge de l'enfant. Par exemple, pour un très jeune enfant, utilisez les cartes 1 à 4 dans les quatre couleurs.\n"
+"\n"
+"**Comment jouer :** Deux cartes sont distribuées à chaque joueur : une face visible et une face cachée (seul le joueur qui reçoit la carte regarde la carte cachée). Lors de son tour, le joueur peut demander une carte supplémentaire, jusqu'à ce qu'il décide d'arrêter. Une fois que chaque joueur a joué son tour, les joueurs comparent la somme de leurs cartes.\n"
+"\n"
+"**Comment gagner :** Le joueur dont la somme est la plus proche de la cible, sans la dépasser, gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "REMPLIR LES BLANCS – COMPARAISON"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing Double-Digit Numbers"
+msgstr "Comparer des Nombres à deux Chiffres"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9.\n"
+"\n"
+"**How to play:** Deal two cards to each player face down. Then, each player turns over one card and decides whether that card will be the tens or ones card. After deciding, each player’s remaining card is turned over and is used to fill the remaining place.\n"
+"\n"
+"**How to win:** The player with the larger number wins."
+msgstr ""
+"**La préparation :** Mélangez un jeu de cartes avec les chiffres de 1 à 9.\n"
+"\n"
+"**Comment jouer :** Chaque joueur reçoit deux cartes face cachée. Ensuite, chaque joueur retourne une carte et décide si cette carte représentera les dizaines ou les unités. Une fois la décision prise, la carte restante de chaque joueur est retournée et utilisée pour compléter l’autre place.\n"
+"\n"
+"**Comment gagner :** Le joueur qui a formé le plus grand nombre gagne."
 
 #. type=data_list
 msgctxt "data_list"
