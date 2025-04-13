@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-13 04:55\n"
+"PO-Revision-Date: 2025-04-13 16:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7574,6 +7574,57 @@ msgstr ""
 "Par exemple, 5 + 8 peut être relié à 6 + 7. Seules certaines îles font partie du chemin. Dans l’exemple, le chemin commence en bas à gauche et se termine en haut à droite.\n"
 "\n"
 "**Comment créer le puzzle :** Dessinez une dizaine de cercles vides avec quelques connexions aléatoires. Identifiez un chemin clair reliant un bord de la carte à l’autre. Remplissez le chemin avec des opérations où les nombres diffèrent de 1. Ajoutez d’autres opérations similaires dans les îles voisines, mais avec des résultats différents."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "TRIANGLES PARTIELS ET ENTIERS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**La préparation :** Utilisez des cartes numérotées de 1 à 13. Chaque joueur reçoit 6 cartes face visible. Placez une carte face cachée pour démarrer une pile de tirage et une pile de défausse.\n"
+"\n"
+"**Comment jouer :** À chaque tour, un joueur prend la carte du dessus de la pile de défausse ou de la pile de tirage. La carte choisie remplace une de ses cartes et celle qui est remplacée est mise de côté.\n"
+"\n"
+"**Comment gagner :** Le premier joueur à créer une pyramide de 6 cartes où chaque carte est la somme des deux cartes situées en dessous gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "Utilisez des gammes de cartes plus ou moins grandes pour adapter les compétences des joueurs plus ou moins jeunes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "CARTES VERS UN OBJECTIF"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**La préparation :** Disposez toutes les cartes numérotées de 1 à 5 dans une grille de 4 x 5. Commencez le total à 0 et choisissez un nombre cible, par exemple 25.\n"
+"\n"
+"**Comment jouer :** À tour de rôle, les joueurs retournent une carte et l'ajoutent au total en cours. Le dernier joueur à ajouter un nombre sans dépasser la cible gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "Remplacez les nombres de 1 à 5 par d'autres chiffres de votre choix. Pour pratiquer la soustraction, commencez par le nombre cible, soustrayez les nombres choisis et ne permettez pas de descendre sous 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "SORS DE MA MAISON – ADDITION ET SOUSTRACTION"
 
 #. type=data_list
 msgctxt "data_list"
