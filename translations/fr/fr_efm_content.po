@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-13 02:55\n"
+"PO-Revision-Date: 2025-04-13 03:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7247,6 +7247,97 @@ msgstr ""
 msgctxt "data_list"
 msgid "With practice and further number relationship ideas, these math facts will become automatic for your child. However, there is no hurry for memorization, and it can wait until more experience with the quantities and relationships between the numbers has been gained."
 msgstr "Avec de la pratique et une meilleure compréhension des relations entre les nombres, ces calculs mathématiques deviendront automatiques pour votre enfant. Cependant, il n’est pas nécessaire de mémoriser immédiatement, et cela peut attendre que l'enfant ait acquis plus d'expérience avec les quantités et les relations entre les nombres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION THE EASY WAY"
+msgstr "SOUSTRACTION FACILE AVEC LES DOIGTS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math up to 20"
+msgstr "Mathématiques avec les doigts – à un chiffre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two methods:** Subtraction can be thought of as 'take away' or 'difference.' Both models are essential to a complete understanding of subtraction. Have your child practice both ways of thinking of subtraction using these finger subtraction methods.\n"
+"\n"
+"We’ll use 11 - 3 for our examples."
+msgstr ""
+"**Deux méthodes :** La soustraction peut être envisagée comme un « retrait » ou une « différence ». Les deux modèles sont essentiels pour une compréhension complète de la soustraction. Demandez à votre enfant de s'exercer aux deux façons de concevoir la soustraction en utilisant ces méthodes de soustraction avec les doigts.\n"
+"\n"
+"Nous utiliserons 11 - 3 pour nos exemples."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Take Away method:** Start with a closed fist and say “11.” Then, lifting one more finger each time, count “10, 9, 8.” Each time you lift a finger and count down, you are taking one more away from the original number.\n"
+"\n"
+"When your child sees 3 fingers raised, the counting stops. They now see that taking 3 away from 11 leaves 8."
+msgstr ""
+"**Méthode du retrait :** Commencez par fermer le poing et dites « 11 ». Ensuite, en levant un doigt de plus à chaque fois, comptez en arrière « 10, 9, 8 ». Chaque fois que vous levez un doigt et comptez en arrière, vous soustrayez un chiffre.\n"
+"\n"
+"Lorsque votre enfant voit 3 doigts levés, le comptage s'arrête. Il voit alors que si l'on enlève 3 à 11, il reste 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference method:** This uses counting on, much as we did for Easy Way Finger Addition. What we are doing is finding out which number weneedtoaddto3toget11.\n"
+"\n"
+"Have your child make a closed fist and say “3.” Then, lifting one more finger each time, count “4, 5, 6, 7, 8, 9, 10, 11.” When your child says 11, there are 8 fingers raised. That shows that the difference between 3and11is8!"
+msgstr ""
+"**Méthode de la différence :** Cette méthode utilise le comptage, comme nous l'avons fait pour l’addition facile pour les doigts. L'idée est de trouver quel nombre on a besoin d’ajouter à 3 pour obtenir 11.\n"
+"\n"
+"Demandez à votre enfant de fermer le poing et de dire « 3 ». Puis, en levant un doigt à chaque fois, comptez « 4, 5, 6, 7, 8, 9, 10, 11 ». Lorsque votre enfant dit 11, il y a 8 doigts levés. Cela montre que la différence entre 3 et 11 est de 8 !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PIG"
+msgstr "COCHON"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, roll a die as many times as you want. When a roll is not 1, you add that roll to your turn’s total. If it is 1, you lose everything for that turn and the turn is over. A player may choose to stop before rolling a 1, keep the turn’s points so far, and add them to the player’s running total.\n"
+"\n"
+"**How to win:** The first player to reach the target number, say 30, wins."
+msgstr ""
+"**Comment jouer :** Au cours d'un tour, lancez un dé autant de fois que vous le souhaitez. Si le résultat après avoir lancé le dé n’est pas 1, vous devrez ajouter ce chiffre au total de votre tour. Si vous obtenez un 1 après lancer le dé, vous perdez tous les points de ce tour et celui-ci est terminé. Vous pouvez choisir de vous arrêter avant d’obtenir un 1, conserver les points accumulés jusqu’à ce moment-là, et les ajouter à votre total général.\n"
+"\n"
+"**Comment gagner :** Le premier joueur à atteindre le nombre cible, par exemple 30, gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A two dice variation has these rules: If neither die shows a 1, the sum is added to the turn’s running total. If exactly one of the dice shows a 1, then nothing more is added to the running total and the turn ends. If two 1’s are rolled, the turn’s total becomes 0 and the turn ends."
+msgstr "Une variante à deux dés a les règles suivantes : Si aucun des deux dés n'affiche un 1, la somme est ajoutée au total du tour. Si un seul des dés affiche un 1, rien n'est ajouté au total et le tour se termine. Si les deux dés montrent un 1, le total du tour devient 0 et le tour s'achève."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ENCLOSED SUMS"
+msgstr "SOMMES JOINTES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These puzzles have shapes connected by lines. Each enclosed region, such as where the 9 or the 7 are in this example, has a number that is the sum of the shapes that border it.\n"
+"\n"
+"While circles may have any value, a non-circle must have the same value as any other figure of the same shape."
+msgstr ""
+"**La préparation :** Ces puzzles présentent des formes reliées par des lignes. Chaque région fermée, comme celle où se trouve le 9 ou le 7 dans cet exemple, a un nombre qui est la somme des formes qui la bordent.\n"
+"\n"
+"Alors que les cercles peuvent avoir n'importe quelle valeur, une figure qui n'est pas un cercle doit avoir la même valeur que n'importe quelle autre figure de la même forme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers in the shapes and the inside of the regions.\n"
+"\n"
+"**How to create:** Create these puzzles by making a diagram of circles and maybe some squares. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers."
+msgstr ""
+"**Le défi :** Compléter les chiffres manquants dans les formes et à l'intérieur des régions.\n"
+"\n"
+"**Comment créer :** Créez ces puzzles en faisant un diagramme de cercles et peut-être de carrés. Ensuite, remplissez les formes avec des chiffres et complétez les régions avec la somme des chiffres qui les entourent. Enfin, supprimez certains chiffres."
 
 #. type=data_list
 msgctxt "data_list"
