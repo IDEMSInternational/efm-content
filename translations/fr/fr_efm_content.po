@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-12 23:34\n"
+"PO-Revision-Date: 2025-04-13 02:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7201,6 +7201,52 @@ msgstr ""
 "* Comptage par bonds – Le comptage par bonds de nombres à un chiffre, quel que soit le point de départ, est excellent pour les additions et les soustractions mentales, et facilite les multiplications et les divisions.\n"
 "* Commencer à multiplier – Votre enfant sait déjà multiplier par 2, ce qui sera approfondi, en partie grâce au comptage par bonds, à tous les nombres à un chiffre.\n"
 "* Jeux, énigmes, résolution de problèmes et enquêtes – Les jeux et les puzzles deviendront progressivement de plus en plus difficiles, en fonction de l’évolution des compétences et de la sophistication de votre enfant. Assurez-vous que ces activités restent amusantes et stimulantes - le plaisir est essentiel pour la réussite mathématique à long terme de votre enfant. Encouragez des moments de joie lorsque votre enfant découvre ou expérimente des modèles mathématiques particulièrement beaux ou satisfaisants."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION W/ COMPENSATION"
+msgstr "ADDITION DE DOIGTS AVEC COMPENSATION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use compensation for sums between 11 and 18 to make them easier.\n"
+"\n"
+"**Giving away fingers:** Suppose you’re adding 7 + 8. One person puts up 7 fingers and the other person puts up 8 fingers. Then, one person gives away as many fingers as are needed to put up 10 fingers on the other person’s hands. In this example, 7 + 8 could turn into 5 + 10 (giving away 2) or 10 + 5 (giving away 3).\n"
+"\n"
+"**Magic:** Be dramatic and give away the fingers by having one person’s hand bang into the other person’s hand and having the fingers transfer “magically.”"
+msgstr ""
+"Utilisez la compensation pour les sommes comprises entre 11 et 18 afin de les rendre plus faciles.\n"
+"\n"
+"**Distribution des doigts :** Supposons que vous additionnez 7 + 8. Une personne lève 7 doigts et l'autre personne lève 8 doigts. Ensuite, une personne donne autant de doigts que nécessaire pour que l’autre personne ait un total de 10 doigts. Dans cet exemple, 7 + 8 pourrait se transformer en 5 + 10 (en \\\\ donnant 2) ou 10 + 5 (en donnant 3).\n"
+"\n"
+"**Magie :** Soyez dramatique en faisant en sorte que la main d'une personne se joint à celle de l'autre et que les doigts soient transférés « par magie »."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION THE EASY WAY"
+msgstr "L'ADDITION FACILE AVEC LES DOIGTS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Counting on:** Use the idea of 'counting on' to make addition easier. Counting on refers to doing addition by starting at one of the numbers, rather than starting at 0 and counting out both of the numbers."
+msgstr "**Addition en comptant :** Utilisez l'idée de « compter à partir de » pour faciliter l'addition. L'addition se fait en comptant à partir d'un des nombres, plutôt qu'en commençant par 0 et en comptant les deux nombres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Let's use adding 8 + 3 as an example. It is easier if you pick the larger number being added as the starting point for the 'counting on.'\n"
+"\n"
+"Have your child make a closed fist and say '8.' Then, lift one more finger each time as your child counts out loud '9, 10, 11.' When 3 fingers are raised, you are done adding 3, and the counting stops. At that point, you have that 8 plus 3, which is 11."
+msgstr ""
+"Prenons l'exemple de l'addition de 8 + 3. C'est plus facile si vous prenez le plus grand nombre des deux nombres comme point de départ du « comptage ».\n"
+"\n"
+"Demandez à votre enfant de fermer le poing et de dire « 8 ». Ensuite, levez un doigt à chaque fois que votre enfant compte à haute voix « 9, 10, 11 ». Lorsque les trois doigts sont levés, l’addition est terminée et le comptage s'arrête. À ce moment-là, vous avez 8 plus 3, ce qui donne 11."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With practice and further number relationship ideas, these math facts will become automatic for your child. However, there is no hurry for memorization, and it can wait until more experience with the quantities and relationships between the numbers has been gained."
+msgstr "Avec de la pratique et une meilleure compréhension des relations entre les nombres, ces calculs mathématiques deviendront automatiques pour votre enfant. Cependant, il n’est pas nécessaire de mémoriser immédiatement, et cela peut attendre que l'enfant ait acquis plus d'expérience avec les quantités et les relations entre les nombres."
 
 #. type=data_list
 msgctxt "data_list"
