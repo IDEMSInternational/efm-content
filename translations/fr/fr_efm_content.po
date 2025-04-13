@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-13 17:06\n"
+"PO-Revision-Date: 2025-04-13 18:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8013,6 +8013,457 @@ msgstr ""
 "**Comment jouer :** Chaque joueur reçoit deux cartes face cachée. Ensuite, chaque joueur retourne une carte et décide si cette carte représentera les dizaines ou les unités. Une fois la décision prise, la carte restante de chaque joueur est retournée et utilisée pour compléter l’autre place.\n"
 "\n"
 "**Comment gagner :** Le joueur qui a formé le plus grand nombre gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "CIBLER LES O ET LES X"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"**How to play:** Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. \n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**La préparation :** Utilisez un jeu de cartes dont les cartes illustrées ont été retirées. Remplissez un plateau de morpion avec des nombres allant de 1 à 20 tirés au hasard. Utilisez une fourchette plus large si vous souhaitez inclure la multiplication.\n"
+"\n"
+"**Comment jouer :** Distribuez 6 cartes à chaque joueur et retournez-les toutes en même temps. Pour la première partie, c'est une course entre les deux joueurs : le premier à combiner au moins deux de ses cartes pour obtenir une valeur correspondant à celle d'une case inscrit un X et remplace les cartes utilisées. Ensuite, les joueurs placent à tour de rôle un X ou un O dans une case choisie en fonction de la valeur qu'ils peuvent associer – les cartes utilisées sont remplacées par de nouvelles. Si aucune correspondance n'est possible, le joueur perd son tour et peut choisir deux cartes à remplacer par de nouvelles.\n"
+"\n"
+"**Comment gagner :** Le premier joueur à obtenir trois cases d'affilée gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "TERMINATOR 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Add & Sub"
+msgstr "Plus de Jeux pour l’addition/soustraction"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and a board with three rows of five squares numbered from 1 to 15.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn.\n"
+"\n"
+"**How to win:** The winner is the one with the most claimed numbers after a fixed number of turns."
+msgstr ""
+"**La préparation :** Utilisez trois dés et un plateau de jeu comportant trois rangées de cinq cases numérotées de 1 à 15.\n"
+"\n"
+"**Comment jouer :** Un joueur lance les dés et utilise l'addition et la soustraction pour combiner les trois nombres afin de correspondre à l'un des nombres du tableau. Le nombre correspondant est rayé et réclamé. Si un joueur ne trouve pas de correspondance, l'autre joueur a la possibilité de l’utiliser et de réclamer le résultat – dans tous les cas, le tour suivant revient à l’autre joueur.\n"
+"\n"
+"**Comment gagner :** Le joueur qui a réclamé le plus grand nombre de cases après un nombre fixe de tours gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr "Une version plus petite utiliserait deux dés avec les chiffres de 1 à 10, et une version plus grande utiliserait quatre dés avec les chiffres de 1 à 20."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC TRIANGLES"
+msgstr "TRIANGLES MAGIQUES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Place the numbers 1 to 6 in a triangle of six circles with three circles on a side, so each side has the same sum."
+msgstr "**Le défi :** Placer les chiffres de 1 à 6 dans un triangle de six cercles, avec trois cercles sur chaque côté, de manière à ce que chaque côté ait la même somme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are really two challenges – find which sums work and how to get those sums. Let your child play with this to figure out which sums work, but if frustration wins out, the sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys this puzzle, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23."
+msgstr ""
+"Il y a deux défis à relever : trouver les sommes possibles et déterminer comment les atteindre. Laissez votre enfant explorer ce jeu pour découvrir les sommes qui fonctionnent, mais si la frustration s'installe, les sommes possibles sont 9, 10, 11 et 12.\n"
+"\n"
+"Si votre enfant aime ce puzzle, il peut aussi essayer avec des triangles plus grands. Pour un triangle à neuf cercles, avec quatre cercles sur chaque côté, les sommes possibles sont 17, 19, 20, 21 et 23."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC DESIGNS"
+msgstr "CRÉATIONS MAGIQUES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"From left to right, the diagrams above are for puzzles (2), (4), (8), and (9). The answers are in the Stage 4 Bonus Material file.\n"
+"\n"
+"1. The numbers 1 to 4 – a '+' shape with no circles in common.\n"
+"\n"
+"2. The numbers 1 to 5 – a '+' shape with one circle in common in the middle.\n"
+"\n"
+"3. The numbers 1 to 7 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"4. The numbers 1 to 9 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"5. The numbers 1 to 5 – an 'L' shape with one common circle in the corner.\n"
+"\n"
+"6. The numbers 1 to 8 – a '+' sign with no circles in common.\n"
+"\n"
+"7. The numbers 1 to 9 – a '+' sign with one circle in common in the middle.\n"
+"\n"
+"8. The numbers 1 to 12 – a 'star' shape, with 6 directions of lines of 4 circles.\n"
+"\n"
+"9. The numbers 1 to 7 – an 'H' shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. The five possible lines of 3 are connected. Hint: The sum is 12."
+msgstr ""
+"**Le défi :** Placer les nombres dans les cercles de manière à ce que chaque ligne droite de cercles connectés ait la même somme.\n"
+"\n"
+"De gauche à droite, les diagrammes ci-dessous correspondent aux énigmes (2), (4), (8) et (9). Les réponses se trouvent dans le fichier Matériel Bonus de l’Étape 4.\n"
+"\n"
+"1. Les chiffres de 1 à 4 – une forme « + » sans cercles en commun.\n"
+"\n"
+"2. Les chiffres de 1 à 5 – une forme « + » avec un cercle commun au centre.\n"
+"\n"
+"3. Les chiffres de 1 à 7 – une forme d'étoile avec des lignes de 3 cercles, un cercle commun au centre.\n"
+"\n"
+"4. Les chiffres de 1 à 9 – une forme d'étoile avec des lignes de 3 cercles, un cercle commun au centre.\n"
+"\n"
+"5. Les chiffres de 1 à 5 – une forme en « L » avec un cercle commun dans le coin.\n"
+"\n"
+"6. Les chiffres de 1 à 8 – un signe « + » sans cercles en commun.\n"
+"\n"
+"7. Les chiffres de 1 à 9 – un signe « + » avec un cercle commun au centre.\n"
+"\n"
+"8. Les chiffres de 1 à 12 – une forme d'étoile avec 6 directions de lignes de 4 cercles.\n"
+"\n"
+"9. Les chiffres de 1 à 7 forment un « H » : 3 cercles verticalement à gauche, 1 au centre, 3 cercles verticalement à droite. Les cinq lignes possibles de 3 cercles sont reliées entre elles. Indice : la somme est 12."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING 10’S"
+msgstr "LA PRISE DE 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Turn long addition problems into simpler problems by grouping numbers that add up to 10. Instead of adding 3 + 8 + 9 + 4 + 7 + 6 + 2 from left to right, rearrange the terms to put the number bonds for 10 together. This example becomes (3 + 7) + (8 + 2) + (4 + 6) + 9, which is 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Once this is easy, include trickier problems such as 4 + 8 + 9 + 5 + 3, which can be rearranged as (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Make simplifying expressions a game with your child."
+msgstr ""
+"Transformez les problèmes d'addition complexes en problèmes plus simples en regroupant les nombres dont la somme est égale à 10. Par exemple, au lieu d'additionner 3 + 8 + 9 + 4 + 7 + 6 + 2 de gauche à droite, réarrangez les termes pour regrouper les nombres qui s'additionnent pour donner 10. Cet exemple devient ainsi : (3 + 7) + (8 + 2) + (4 + 6) + 9, soit 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Une fois cela maîtrisé, proposez des problèmes plus complexes, comme 4 + 8 + 9 + 5 + 3, qui peut être réarrangé comme suit : (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Transformez la simplification des expressions en jeu avec votre enfant."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER UP"
+msgstr "COUVRIR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This activity combines the approaches of 'What's Missing?' from Stage 2 and 'Shape Sums' of Stage 3. Take a collection of small objects, count them, and spread them out on a surface. Use pieces of paper, cloth, or bowls to cover over one or more groups of the objects. Use the same color paper when covering groups of the same size.\n"
+"\n"
+"**The challenge:** Find out how many objects are in each covered group.\n"
+"\n"
+"**Four Steps:**\n"
+"\n"
+"* Count the number you can see and compare to the total.\n"
+"* Find one way to solve it.\n"
+"* Find other ways to solve it.\n"
+"* Verify your answer(s)."
+msgstr ""
+"**La préparation :** Cette activité combine les approches de « Qu'est-ce qui manque ? » de l'étape 2 et de « Sommes de formes » de l'étape 3. Prenez une collection de petits objets, comptez-les, puis étalez-les sur une surface. Utilisez des morceaux de papier, de tissu ou des bols pour recouvrir un ou plusieurs groupes d'objets. Utilisez du papier de la même couleur pour recouvrir des groupes de même taille.\n"
+"\n"
+"**Le défi :** Trouver combien d'objets se trouvent dans chaque groupe couvert.\n"
+"\n"
+"**Quatre étapes**\n"
+"\n"
+"* Comptez le nombre que vous pouvez voir et comparez avec le nombre total.\n"
+"* Trouvez un moyen de résoudre le problème.\n"
+"* Trouvez d'autres moyens de résoudre le problème.\n"
+"* Vérifiez votre/vos réponse(s)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** As pictured above, suppose you have 18 items and you cover 14 of them with two red pieces of paper. Your child sees the number 18 and that there are 4 uncovered items. They can subtract 18 - 4 and know that 14 pieces are covered. Because the same color is used, the covered items must be equal, so each must be 7, which is half of 14.\n"
+"\n"
+"Here is where the best, and most important, 'step' starts. What other ways are there of discovering that each covered group has 7 items? Your child could count by 2's and see that there are seven 2's as they skip count from 4 to 18. They could break 18 into halves of 9 each and break the 4 into halves of 2 each – then each group of 9 consists of a covered group plus 2 more, so the covered groups are 7 each.\n"
+"\n"
+"Keep exploring and thinking of ways to use all the interesting math relationships!"
+msgstr ""
+"**Exemple :** Comme illustré ci-dessus, supposons que vous ayez 18 objets et que vous en recouvriez 14 avec deux feuilles de papier rouge. Votre enfant voit le nombre 18 et remarque qu'il y a 4 objets non recouverts. Il peut soustraire 18 - 4 et savoir que 14 objets sont recouverts. Étant donné que la même couleur est utilisée, les objets recouverts doivent être égaux, donc chaque groupe doit compter 7 objets, ce qui correspond à la moitié de 14.\n"
+"\n"
+"C'est ici que commence la partie la plus intéressante et la plus importante de l'exercice. Quelles autres méthodes votre enfant pourrait-il utiliser pour déterminer que chaque groupe couvert contient 7 éléments ? Il pourrait compter par 2 et constater qu'il y a sept groupes de 2 lorsqu'il compte par bonds de 4 jusqu'à 18. Il pourrait également diviser 18 en deux groupes de 9, puis diviser les 4 objets non couverts en deux groupes de 2, chaque groupe de 9 comprenant donc un groupe couvert et 2 objets supplémentaires, ce qui montre que les groupes recouverts contiennent 7 objets chacun.\n"
+"\n"
+"Continuez à explorer et à réfléchir à différentes façons d'utiliser toutes les relations mathématiques intéressantes !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2.\n"
+"Although not as obvious, the same is true for multiplication."
+msgstr "Votre enfant est tellement familier avec l'addition qu'il n'est pas surprenant qu'il sache que 2 + 3 est la même chose que 3 + 2. Bien que cela ne soit pas aussi évident, il en va de même pour la multiplication."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 x 4, they also know 4 x 3."
+msgstr ""
+"Cette illustration montre que deux rangées de trois sont équivalentes à trois rangées de deux - il suffit de changer de point de vue !\n"
+"\n"
+"L'ordre dans lequel vous multipliez deux nombres n'a pas d'importance : vous obtiendrez le même résultat dans les deux cas !\n"
+"\n"
+"Ce qui est formidable, c'est que cette observation signifie que votre enfant n'a besoin de maîtriser que la moitié des faits de multiplication. Par exemple, une fois que votre enfant sait que 3 x 4 = 12, il saura aussi que 4 x 3 = 12."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING IS MULTIPLICATION"
+msgstr "LE COMPTAGE PAR BONDS EST AUSSI UNE MULTIPLICATION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"All that skip counting practice your child did paid off in getting much better at addition and subtraction. It also will be a big help in getting started with multiplication. Skip counting by 5's makes them particularly quick to learn.\n"
+"\n"
+"Although skip counting is not the fastest way to find a result, it is reliable. To find 7 x 3 either skip count by 3’s seven times or skip count by 7’s three times.\n"
+"\n"
+"Your child will eventually memorize these facts, but skip counting is handy for now."
+msgstr ""
+"Tous les exercices de comptage par bonds que votre enfant a effectués ont porté leurs fruits et ont renforcé ses compétences en addition et en soustraction. Cela l'aidera également à aborder la multiplication. Le comptage par bonds de 5 est particulièrement rapide à apprendre.\n"
+"\n"
+"Bien que le comptage par bonds ne soit pas toujours la méthode la plus rapide pour trouver un résultat, il est fiable. Pour trouver 7 x 3, il faut soit compter sept fois par 3, soit compter trois fois par 7.\n"
+"\n"
+"Votre enfant finira par mémoriser ces faits, mais pour l'instant, le comptage par bonds reste un outil utile."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 3 AND 4"
+msgstr "MULTIPLICATION PAR 3 ET 4"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Mental Math"
+msgstr "Plus de calcul mental – Multiplication"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For someone good at adding, multiplying by 3 and 4 can be quick and easy.\n"
+"\n"
+"Multiplying a number by 3 is adding the number to double the number. So, 3 x 6 is 6 more than double 6, which is 6 + 12 = 18.\n"
+"\n"
+"Four times a number is doubling a number twice. So, 4 x 7 is 2 x (2 x 7), which is 14 + 14 = 28."
+msgstr ""
+"Pour un enfant qui sait additionner, multiplier par 3 et par 4 peut être rapide et facile.\n"
+"\n"
+"Multiplier un nombre par 3 revient à ajouter ce nombre à son double. Par exemple, 3 x 6 équivaut à 6 + 12 = 18.\n"
+"\n"
+"Multiplier un nombre par 4 revient à doubler ce nombre deux fois. Par exemple, 4 x 7 équivaut à \\\\ 2 x (2 x 7), soit 14 + 14 = 28."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "SOMME CARRÉE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**La préparation :** Commencez avec une grille carrée de 3 x 3 où des sommes cibles sont données pour chaque ligne et chaque colonne. Certains des chiffres de 1 à 9 sont déjà placés dans la grille."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**Le défi :** Placez les chiffres restants dans la grille de manière à ce que les sommes des lignes et des colonnes correspondent aux valeurs cibles.\n"
+"\n"
+"**Comment créer :** Pour réaliser ce type de puzzle, commencez par placer des morceaux de papier portant les chiffres de 1 à 9 dans une grille de 3 x 3. \n"
+"\n"
+"Pour chaque ligne et chaque colonne, inscrivez la somme à droite ou en dessous. Ensuite, retirez quelques chiffres de la grille. Enfin, remettez à votre enfant les morceaux de papier sur lesquels figurent les chiffres que vous avez enlevés et demandez-lui : « Où étaient-ils ? »"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "Une variante qui permet de réduire les sommes est d'utiliser chiffres de 0 à 8. Une variante plus difficile consiste à faire la même chose avec les chiffres de 1 à 12 dans une grille de 3 x 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "PYRAMIDE D'ADDITION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**La préparation :** Une pyramide de 10 nombres disposés en 4 rangées est donnée avec un nombre cible."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**Le défi :** Trouver un chemin à travers la pyramide en utilisant un chiffre de chaque rangée de façon à ce que la somme des chiffres soit égale au chiffre cible. Les chiffres du chemin doivent être reliés entre eux.\n"
+"\n"
+"**Example :** La réponse à cette énigme est 5 → 4 → 1 → 7.\n"
+"\n"
+"**Comment créer :** Créez l'un de ces puzzles en inscrivant les nombres qui forment le chemin, puis notez la somme de ces nombres. Remplissez ensuite les chiffres-leurres restants dans la pyramide."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "SOMME DIFFÉRENCE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**Comment jouer :** Une personne énonce deux nombres, l'un représentant une somme et l'autre une différence, et l'autre personne doit trouver les deux nombres d'origine ayant cette somme et cette différence. Par exemple, si une personne dite que la somme est 12 et la différence est 6, l'autre personne doit répondre que les nombres d'origine sont 3 et 9.\n"
+"\n"
+"**Inversez les rôles :** Étant donné la simplicité de la création de ces questions, cette activité est idéale pour permettre à votre enfant de poser les questions lui-même. Toutes les combinaisons de chiffres pour la somme et la différence ne donneront pas des réponses raisonnables. Cependant, si vous commencez avec deux nombres et que vous donnez-leur somme et leur différence, vous êtes assuré d'obtenir une réponse correcte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "NUMÉROS TOXIQUES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**La préparation :** Retirez les cartes illustrées d’un jeu de cartes (vous pouvez utiliser les dames comme des zéros si vous le souhaitez). Avant de commencer, convenez d’un ensemble de « nombres toxiques » pour cette manche. Ces nombres peuvent être n’importe quel ensemble de nombres avec lesquels vous voulez que votre enfant s’entraîne ou se familiarise. Voici quelques exemples :\n"
+"\n"
+"* Les nombres pairs (2, 4, 6, 8, 10, 12)\n"
+"* Les nombres impairs (1, 3, 5, 7, 9, 11)\n"
+"* Les carrés parfaits (1, 4, 9, 16, 25)\n"
+"* Les nombres premiers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* Les multiples d'un nombre, tels que les multiples de 3\n"
+"\n"
+"**Comment jouer :** Distribuez trois cartes à chaque joueur. Le premier joueur se défausse d’un nombre qui n’est pas un nombre toxique et le remplace par une carte de la pioche. Le joueur suivant doit se défausser d’un nombre de manière à ce que la somme des deux premiers nombres ne soit pas un nombre toxique, puis il remplace la carte défaussée. Le joueur suivant doit jouer de manière à ce que la somme des trois cartes ne soit pas un nombre toxique, et ainsi de suite.\n"
+"\n"
+"**Comment gagner :** Le premier joueur qui ne peut pas se défaire d’une carte légale perd la partie et est éliminé."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "Ce jeu fonctionne tout aussi bien avec plus de deux joueurs."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "Laissez votre enfant explorer et réfléchir à ces activités. Ne vous pressez pas. L'intérêt réside dans le fait de jouer et de découvrir de beaux motifs. Ces activités comportent des aspects mathématiques plus profonds, mais ces idées peuvent attendre que votre enfant soit un peu plus âgé."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "PÉTALES DE FLEURS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**La question :** Dans un jardin particulier, il y a deux sortes de fleurs. L'une a 4 pétales, et l'autre en a 7. On a demandé à un enfant de cueillir des fleurs de manière à ce que le nombre total de pétales soit 13. Est-ce possible ? Et pour 15 pétales ? Pour quels nombres de pétales est-ce possible ? Pour les nombres possibles, peut-on procéder de plusieurs façons ? Par exemple, 32 pétales peuvent être obtenus avec quatre 7 et un 4, et aussi avec huit 4.\n"
+"\n"
+"**Variations :** En modifiant les nombres, il existe de nombreux exemples à explorer. Pour certaines paires de nombres, il existe un point où tous les nombres de pétales sont possibles, alors que pour d'autres, ce point n'existe pas. Par exemple, pour 4 et 7, tous les nombres à partir de 18 sont possibles. En revanche, pour 3 et 6, il n'y a pas de point à partir duquel tous les nombres sont possibles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "L'ESCALADE DES MARCHES – COMBIEN DE FAÇONS ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**The question :** Supposons que votre enfant aime monter les marches deux par deux parfois, et une par une d’autres fois. Si votre enfant doit monter un certain nombre de marches, combien de façons peut-il le faire ?\n"
+"\n"
+"Par exemple, pour 0 marche, il n'y a qu'une seule façon : rester debout. Pour 1 marche, il n'y a également qu'une seule façon. Pour 2 marches, il peut soit faire un double pas, soit faire deux pas simples, il y a donc deux façons différentes.\n"
+"\n"
+"Réfléchissez attentivement à plusieurs exemples, puis établissez un tableau des résultats. Quand il y a beaucoup d’informations, un tableau peut être très utile. Le début du tableau ressemble à ceci :"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "Après avoir observé ces nombres, votre enfant remarquera peut-être que chaque paire de nombres additionnée donne le nombre suivant. Pourquoi cela se produit-il ? Ces nombres sont appelés les nombres de Fibonacci."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "BALANCE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "Faire en sorte que cela Compte"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"Une balance est un appareil qui permet de déterminer lorsque deux objets ont le même poids. Elle est généralement fournie avec un ensemble de poids utilisés pour peser des objets. Voici quelques enquêtes intéressantes que vous pouvez réaliser si vous limitez les poids que vous pouvez utiliser.\n"
+"\n"
+"**Question 1 :** Si vous n'avez que des poids de 4 unités et de 7 unités, alors les objets que vous pouvez peser exactement sont les mêmes que ceux que vous avez trouvés dans l'enquête sur les pétales de fleurs."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**Question 2 :** Quels objets pouvez-vous peser exactement si les poids sont placés de part et d'autre de la balance ?\n"
+"\n"
+"**Question 3 :** Comment les réponses à ces deux questions changent-elles si, au lieu d'utiliser des poids de taille 4 et 7, vous utilisez 3 et 8 ? Ou peut-être utilisez-vous 4 et 6 ou 8 et 12 ?\n"
+"\n"
+"**Question 4 :** Que se passe-t-il si vous avez un poids pour chacun des poids dans une progression par doublement de 1, 2, 4, 8 et 16 ? De combien de façons pouvez-vous peser quelque chose qui pèse 13 ? Est-ce que cela change les choses si vous permettez d'utiliser les poids des deux côtés de la balance ? Quel est le poids maximal que vous pouvez mesurer ? Cette situation est liée au système de numération binaire.\n"
+"\n"
+"**Question 5 :** Que se passe-t-il si vous utilisez des poids uniques dans la progression par triplement de 1, 3, 9 et 27 ? Quels objets pouvez-vous peser si vous permettez ces poids des deux côtés ?\n"
+"\n"
+"**Question 6 :** Que se passe-t-il si les poids sont des nombres de Fibonacci ? Existe-t-il plus d'une manière de peser certains objets ? Trouvez une restriction sur les poids de Fibonacci de manière à ce qu'il n'y ait qu'une seule façon d'obtenir chaque poids."
 
 #. type=data_list
 msgctxt "data_list"
