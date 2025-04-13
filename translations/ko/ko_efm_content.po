@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-08 00:06\n"
+"PO-Revision-Date: 2025-04-13 21:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -868,4 +868,75 @@ msgstr "여러분은 고양이를 기르는 사람을 알고 있나요? 그들�
 msgctxt "data_list"
 msgid "Do you think nine cats is too many?"
 msgstr "아홉 마리의 고양이는 너무 많다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "수염, 귀, 다리, 눈, 그리고 꼬리를 같이 세어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "몇개가 같고, 몇개가 다른가요? 또 뭐가 가장 크고, 뭐가 가장 작을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "어떤 동물이 빨간색이고 어떤 동물이 노란색인가요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"고양이와 개는 한집에 살고 있습니다.\n"
+"\n"
+"집에는 문이 있습니다.\n"
+"\n"
+"집에는 지붕도 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "고양이와 개는 둥근 집에 살아요. 여러분의 집도 둥근가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "그림에 있는 다른 둥근 것들을 가리켜 보아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "이 집에는 몇 개의 방이 있는것 같나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"고양이와 개는 공이 있습니다.\n"
+"\n"
+"공은 빨간색, 녹색 그리고 파란색 이네요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "공의 색깔의 개수를 같이 세어보아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "공에 있는 색깔 중 고양이와 개의 색깔이 아닌것은 무엇인가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "공처럼 무늬가 있는 것을 여러분 주변에서 본 적 있나요?"
 
