@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-13 03:52\n"
+"PO-Revision-Date: 2025-04-13 04:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7338,6 +7338,242 @@ msgstr ""
 "**Le défi :** Compléter les chiffres manquants dans les formes et à l'intérieur des régions.\n"
 "\n"
 "**Comment créer :** Créez ces puzzles en faisant un diagramme de cercles et peut-être de carrés. Ensuite, remplissez les formes avec des chiffres et complétez les régions avec la somme des chiffres qui les entourent. Enfin, supprimez certains chiffres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – ADDITION AND SUBTRACTION"
+msgstr "GUERRE - ADDITION ET SOUSTRACTION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead.\n"
+"\n"
+"**How to play:** Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes.\n"
+"\n"
+"**How to win:** The winner is the player who has the most cards."
+msgstr ""
+"**La préparation :** Séparez uniformément un jeu de cartes mélangées dont les faces ont été retirées. Si vous le souhaitez, vous pouvez utiliser des dominos à la place.\n"
+"\n"
+"**Comment jouer :** Les deux joueurs retournent leurs deux premières cartes et les additionnent. Le joueur qui obtient la somme la plus élevée gagne les quatre cartes. Si les sommes sont égales, les deux prochaines paires de cartes sont additionnées et le gagnant récupère les huit cartes. Ce jeu peut être joué en une seule fois ou en plusieurs fois.\n"
+"\n"
+"**Comment gagner :** Le gagnant est le joueur qui a le plus de cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr "Pour ajouter de la variété, jouez en utilisant la différence entre les deux cartes. Vous pouvez également ajouter trois cartes à la fois. Une autre option consiste à désigner une personne comme Pair et l'autre comme Impair. Dans ce cas, chaque joueur retourne une carte, et la somme paire ou impaire détermine qui reçoit les cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET GIN RUMMY"
+msgstr "CIBLE GIN RAMI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds and Fact Families"
+msgstr "Liens entre les Nombres et Familles de Fait"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target.\n"
+"\n"
+"**How to play:** During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card.\n"
+"\n"
+"**How to win:** When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”"
+msgstr ""
+"**La préparation :** Séparez uniformément un jeu de cartes mélangées dont les faces ont été retirées. Si vous le souhaitez, vous pouvez utiliser des dominos à la place.\n"
+"\n"
+"**Comment jouer :** Les deux joueurs retournent leurs deux premières cartes et les additionnent. Le joueur qui obtient la somme la plus élevée gagne les quatre cartes. Si les sommes sont égales, les deux prochaines paires de cartes sont additionnées et le gagnant récupère les huit cartes. Ce jeu peut être joué en une seule fois ou en plusieurs fois.\n"
+"\n"
+"**Comment gagner :** Le gagnant est le joueur qui a le plus de cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "La différence peut être utilisée avec des paires de cartes au lieu de l'addition. Dans ce cas, chaque joueur reçoit un nombre pair de cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "CARTES FLASH"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"La simplicité des cartes flash pour s'exercer en mathématiques les rend tentantes. Cependant, elles sont souvent mal utilisées par des personnes bien intentionnées et peuvent contribuer au rejet des maths. En plus des effets négatifs d’un entraînement trop intensif, leur utilisation empêche d'apprendre les relations essentielles entre les nombres. N’hésitez pas à utiliser les cartes flash pour un entraînement ciblé sur un petit nombre de faits, mais veillez à ce que cette pratique reste limitée et détendue. \n"
+"\n"
+"Cette page et la suivante présentent des méthodes qui encouragent une compréhension structurelle utile et bien plus intéressante pour votre enfant. Ces méthodes devraient être utilisées jusqu'à ce que les faits deviennent automatiques."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "RÉVISION DES COMPÉTENCES EN ADDITION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"Pour réaliser les activités de cette page, votre enfant doit savoir effectuer mentalement les opérations suivantes :\n"
+"\n"
+"* Additionner et soustraire 0, 1, 2 (et éventuellement 3).\n"
+"* L'addition des doubles et des presque-doubles\n"
+"* Connaître les relations entre les nombres qui font 10\n"
+"* Ajouter 10 aux nombres à un chiffre.\n"
+"\n"
+"Si votre enfant a des difficultés avec l'une de ces compétences, c'est le moment idéal pour s'entraîner davantage."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "UTILISATION DE LA COMPENSATION EN ADDITION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"La compensation est une technique puissante qui facilite le calcul mental. Lorsqu’on additionne deux nombres, on peut obtenir la même somme en déplaçant une partie d’un nombre vers l’autre. Ajouter 8 ou 9 devient plus simple grâce à cette méthode. Par exemple : 6 + 9 peut être transformé en 5 + 10 en déplaçant 1 du 6 vers le 9. De même, 4 + 8 devient 2 + 10.\n"
+"\n"
+"Utilisez la compensation des doubles et des presque-doubles pour faciliter les autres opérations mathématiques : 3 + 5, 3 + 6, 4 + 7 et 5 + 7. Par exemple, en utilisant la compensation, 5 + 7 est la même chose que 6 + 6.\n"
+"\n"
+"**Plusieurs stratégies possibles :** Certains faits mathématiques peuvent être exécutés de plusieurs façons. Encouragez votre enfant à explorer plusieurs approches. Par exemple, 5 + 7 peut être vu comme 6 + 6, mais aussi comme 2 + 10. Ce type de jeu mathématique favorise une compréhension durable et approfondie des nombres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "RÉVISION DES COMPÉTENCES EN SOUSTRACTION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"Avant d’aborder ces exercices, assurez-vous que votre enfant maîtrise bien les compétences suivantes :\n"
+"\n"
+"* Additionner et soustraire 0, 1, 2 (et éventuellement 3)\n"
+"* Soustraire des nombres proches (écart de 1 ou 2) \n"
+"* Connaître les compléments à 10 et comprendre comment ils simplifient la soustraction à partir de 10 \n"
+"* Soustraire 10 d'un nombre compris entre 11 et 19"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "UTILISATION DE 10 COMME POINT DE TRANSITION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"Pour les soustractions impliquant des nombres supérieurs à 10, comme 13 - 8, il est utile de décomposer l’opération en deux étapes en utilisant 10 comme point de transition. La distance entre 13 et 8 peut être vue comme la somme de la distance entre 13 et 10 et celle entre 10 et 8. Ainsi, 13 - 8 devient (13 - 10) + (10 - 8) = 3+ 2= 5.\n"
+"\n"
+"Cette méthode allège considérablement la charge mentale en divisant l'opération en deux étapes plus faciles. De même, soustraire 10 d’un nombre entre 10 et 20 est une compétence simple et essentielle. L'apprentissage des compléments à 10 facilite cette compréhension."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "COMPENSATION EN SOUSTRACTION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "Calcul mental - Addition et Soustraction à un Chiffre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"La compensation consiste à ajouter ou soustraire la même quantité aux deux nombres, ce qui préserve la différence entre eux.\n"
+"\n"
+"Par exemple, dans 13 - 8, ajoutez 2 aux deux nombres pour transformer l’opération en 15 - 10, ce qui est plus facile à calculer.\n"
+"\n"
+"De même, les soustractions à un chiffre peuvent être simplifiées ainsi : 7 - 3 peut être transformé en (7 + 3) - (3 + 3) = 10 - 6 = 4. Ce type d’astuce permet aux enfants de visualiser les nombres différemment et de rendre le calcul mental plus intuitif."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "NE PAS DÉPASSER"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**La configuration :** Utilisez 5 dés et 4 jets.\n"
+"\n"
+"**Comment jouer :** Lors du premier jet, choisissez de sauver entre 0 et 5 dés. Une fois qu’un dé est sauvé, il ne peut plus être modifié. Répétez ce processus pour le deuxième et troisième jet. Au dernier lancer, tous les dés sont conservés. Un score inférieur ou égal à 20 est valide, tandis qu’un score supérieur à 20 donne un score de 0.\n"
+"\n"
+"**Comment gagner :** Vous pouvez jouer un ou plusieurs tours. Le joueur avec le score total le plus élevé gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "Modifiez le score cible (20 par défaut), le nombre de dés et le nombre de lancers pour s’adapter à l’âge des joueurs. Par exemple, jouez avec un objectif de 12 et 3 dés pour un niveau plus facile."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "SAUT D'ÎLE - COMPENSATION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "Addition à un chiffre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "Ces puzzles montrent comment l’utilisation de la compensation permet de résoudre plus facilement les problèmes d’addition."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**Le défi :** Trouver un chemin qui relie toutes les îles ayant le même résultat. Deux îles peuvent être reliées seulement si leurs nombres diffèrent de 1 - L’un des nombres doit être augmenté de 1 et l’autre diminué de 1.\n"
+"\n"
+"Par exemple, 5 + 8 peut être relié à 6 + 7. Seules certaines îles font partie du chemin. Dans l’exemple, le chemin commence en bas à gauche et se termine en haut à droite.\n"
+"\n"
+"**Comment créer le puzzle :** Dessinez une dizaine de cercles vides avec quelques connexions aléatoires. Identifiez un chemin clair reliant un bord de la carte à l’autre. Remplissez le chemin avec des opérations où les nombres diffèrent de 1. Ajoutez d’autres opérations similaires dans les îles voisines, mais avec des résultats différents."
 
 #. type=data_list
 msgctxt "data_list"
