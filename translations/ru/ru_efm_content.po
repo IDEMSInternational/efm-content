@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-14 21:07\n"
+"PO-Revision-Date: 2025-04-14 22:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6356,6 +6356,32 @@ msgstr ""
 "Эрду побежала за наха — палочкой для мешания, которая также использовалась в качестве тотема. Она отдала её маме. Эрюм принес головной убор своей мамы, чтобы она его надела. Это всегда помогало ей вжиться в образ.\n"
 "\n"
 "Они тихо сели, чтобы послушать историю, которую они слышали уже много-много раз. Уду дунула в свисток, давая понять маме, что пора начинать. История началась."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have special clothes or objects that you use for particular events like story telling?"
+msgstr "Есть ли у тебя какие-либо вещи или предметы для каких-то особенных событий, например, для рассказывания историй?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Having a set of things, or particular places, associated with a type of event helps create a sense of shared occasion. Describe some special events, such as birthday parties, when you wear special clothes or do particular activities."
+msgstr "Наличие набора вещей или определенных мест, связанных с каким-либо события, помогает создать ощущение особого момента или общего праздника. Опиши какие-нибудь особые события, как например — дни рождения, когда ты надеваешь специальную одежду или делаешь что-то особенное."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The frame on the wall is a rectangle, but not the rug on the floor. An oval is a circle that has been stretched or shrunken in one direction. What do you think, is this rug a perfect circle or is it an oval?"
+msgstr "Рама на стене — прямоугольник, но ковер на полу не является прямоугольником. Овал — это круг, который был растянут или сплющен в одном направлении. Думаешь ли ты, что ковер на полу — овал или круг?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"\"Once, the rainbow was a magical river. It was hidden inside the green woods of Mbadede. Because it had healing powers, it was guarded.\n"
+"\n"
+"If you were sick, you drank the water. The rainbow was always happy to share. Bit it didn't like badly behaved people.\""
+msgstr ""
+"“Однажды, радуга была волшебной рекой. Она была спрятана в лесу Мбадеде. Из-за того, что у нее были целебные способности, она была под охраной”.\n"
+"\n"
+"“Если кто-то болел — он или она пил или пила воду. Радуга всегда была рада поделиться. Но ей не нравились люди, которые плохо себя вели”."
 
 #. type=data_list
 msgctxt "data_list"
