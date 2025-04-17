@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-17 21:18\n"
+"PO-Revision-Date: 2025-04-17 22:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6925,6 +6925,130 @@ msgstr ""
 "Сделайте абстрактные рисунки, соединяя точки с одинаковыми номерами на противоположных сторон.\n"
 "\n"
 "Другой способ – расставить несколько точек, например, 9, равномерно по кругу. Поэкспериментируйте с созданием различных узоров, соединяя точки по порядку, через одну точку или каждую третью точку."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE"
+msgstr "ТРЕНИОРОВКА ПАМЯТИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Select two or four sets of Number Cards and remove numbers above your child’s comfort level. Place the cards face down in a 3 by 3 grid, with the remaining cards put in a draw pile."
+msgstr "**Подготовка:** Возьмите несколько наборов карт с числами с которами ваш ребенок знаком. Разложите карты лицом вниз в сетке 3 на 3, а оставшиеся карты поместите в стопку для вытягивания."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Take turns flipping two cards face-up. If the cards match, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards don’t match, the player flips the cards back over and ends their turn."
+msgstr "**Правила:** По очереди переворачивайте по две карты лицом вверх. Если карты совпадают, игрок забирает их себе, заменяет двумя картами из стопки и продолжает свой ход. Если карты не совпадают, игрок переворачивает карты обратно и заканчивает свой ход."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The game ends when the last pair is taken. The player with the most cards wins."
+msgstr "**Условия победы:** Игра заканчивается, когда все карты на руках. Побеждает игрок с наибольшим количеством карт."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow at most one match per turn.\n"
+"• Use a target sum larger than the largest card. Two cards match if their sum is the target."
+msgstr ""
+"* Не более одного совпадения за ход.\n"
+"* Используйте цифры. Выберите цель. Две карты считаются совпадающими, если их сумма равна цели."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO! WITH CARDS"
+msgstr "БИНГО"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Play this with Number Cards, or if there are many players, with numbered regular playing cards."
+msgstr "**Подготовка:** Используйте карточки с числами, если игроков много подойдут обычные игральные карты."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Reserve two suits worth of cards for a draw pile, and divide the remaining cards among the players. Each player randomly selects 16 cards to place in a 4 by 4 grid face up in front of them."
+msgstr "**Правила:** Отложите две масти карт, оставшиеся карты разделите между игроками. Каждый игрок случайным образом выбирает 16 карт, чтобы разложить их лицом вверх в сетке 4 на 4 перед собой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take a card from the draw pile and call it out. Each player may turn over one card from their grid that matches the number drawn. If a player has more than one card that matches, the player must choose which one to turn over.\n"
+"\n"
+"**How to win:** The first player to get four cards flipped over in a row horizontally, vertically, or diagonally wins the game and calls out “Bingo!”"
+msgstr ""
+"Возьмите карту из стопки и объявите ее номер. Каждый игрок может перевернуть одну карту из своей сетки, которая совпадает с названным номером. Игрок может воспользоваться только одной картой.\n"
+"\n"
+"**Условие Победы:** Первый игрок, который перевернет четыре карты подряд горизонтально, вертикально или по диагонали, выигрывает игру и кричит \"Бинго!”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 10"
+msgstr "Цифры до 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEALING BONES"
+msgstr "КОСТИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Place all dominoes (bones) face up between the players. For a turn, a player rolls two dice. If the domino that matches these dice is available, the player claims it and moves it to their pile."
+msgstr "**Правила:** Разложите все домино лицевой стороной вверх перед игроками. Игрок бросает два кубика. Если домино, соответствующее этим кубикам, доступно, игрок забирает его и перемещает в свою стопку."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** For two players, the first player with ten dominoes wins. For more than two players, the first player with six dominoes wins.\n"
+"\n"
+"**Variation:** Claimed dominoes can still be stolen by other players."
+msgstr ""
+"**Условие победы:** Если игрока два выигрывает тот кто соберет 10 домино. Если игроков больше, выигрывает первый, кто соберет шесть домино.\n"
+"\n"
+"**Вариации:** Захваченные домино все еще могут быть украдены другими игроками."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOMINOES"
+msgstr "ДОМИНО"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Domino Games"
+msgstr "Домино"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many variations to this ancient game – discuss the rules before you start!\n"
+"\n"
+"**The setup.** Mix up all tiles (bones) face down – this is called the boneyard. Take seven tiles each for two players, and five tiles each for three or four players. The player with the highest double starts by putting it on the table. If no one has a double, start the game over."
+msgstr ""
+"В этой древней игре существует множество вариантов — обсудите правила перед началом!\n"
+"\n"
+"**Подготовка:** Перемешайте кости лицевой стороной вниз — это называется костяной двор. Возьмите по семь костей для двух игроков и по пять костей для трех или четырех игроков. Игрок с самой высокой парой начинает, положив её на стол. Если нет двойки ни у одного игрока, начните игру заново."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play.** A turn consists of placing a tile that matches one of the available ends of the string of dominoes (place double dominoes crosswise to the previous domino). If the player has no matching tile, the player is “blocked,” and there are two possible rules to use: 1) the player’s turn is over, or 2) the player keeps drawing tiles until there is a match (one version restricts this to a single draw whether or not there is a match). If the boneyard is emptied before there is a move, play passes to the next player on the right.\n"
+"\n"
+"**How to win:** The game ends when a player runs out of bones, or when all players are blocked. The winner is the player with the lowest total of dots on their tiles (which is 0 if they have used up all their tiles)."
+msgstr ""
+"**Правила.** Ход состоит в том, чтобы положить кость, которая совпадает с одним из доступных концов цепочки домино. Если у игрока нет подходящей плитки, игрок считается \"заблокированным\", и можно использовать одно из двух правил: 1) ход игрока заканчивается, или 2) игрок продолжает вытягивать плитки, пока не найдет совпадение. Если кладбище опустеет до того, как появится ход, игра переходит к следующему игроку по часовой стрелке.\n"
+"\n"
+"**Условие победы:** Игра заканчивается, когда игрок избавляется от всех плиток или когда все игроки заблокированы. Побеждает игрок с наименьшим количеством точек на плитках."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Scoring options:** The winner’s score can be calculated in two ways. The traditional way is to use the sum of the dots on all the other players’ tiles. Rounds are played until a player reaches 50 or 100. For little ones, a better scoring system is to let the winner have the score which is the count of all the other players’ tiles.\n"
+"\n"
+"**Matching options:** When your child starts adding, change the rule for matching – two tiles match if their numbers add up to six (or nine if using a larger range of dominoes)."
+msgstr ""
+"**Набор балов:** Победителя можно вычислить двумя способами. Традиционный способ — использовать сумму точек на плитках всех остальных игроков. Раунды играются до тех пор, пока один из игроков не наберет 50 или 100 очков. Для маленьких детей более подходящая система подсчета очков — позволить победителю получить очки, равные количеству плиток всех остальных игроков.\n"
+"\n"
+"**Вариации:** Когда ваш ребенок научится складывать, измените правило совпадения: две плитки считаются совпадающими, если их числа в сумме дают шесть (или девять, если используется более широкий диапазон домино)."
 
 #. type=data_list
 msgctxt "data_list"
