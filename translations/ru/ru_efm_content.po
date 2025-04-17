@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-17 16:38\n"
+"PO-Revision-Date: 2025-04-17 20:19\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6713,6 +6713,11 @@ msgstr "Эта активность для нескольких человек. 
 msgctxt "data_list"
 msgid "Unknown Shapes"
 msgstr "Открываем Фигуры"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 2 – I CAN COUNT TO 5!"
+msgstr "2-ОЙ ЭТАП – Я СЧИТАЮ ДО 5!"
 
 #. type=data_list
 msgctxt "data_list"
