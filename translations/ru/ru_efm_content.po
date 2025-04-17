@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-17 15:38\n"
+"PO-Revision-Date: 2025-04-17 16:38\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6161,6 +6161,25 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
+"Player 1: “I see something that has a large blue circle.” \n"
+"\n"
+"Player 2: \"Is it that bicycle wheel?\"\n"
+"\n"
+"Player 1: \"No. It is in the middle of a wall.\"\n"
+"\n"
+"Player 2: “I see it! It’s the clock!”"
+msgstr ""
+"Игрок 1: “Я вижу что-то с большим синим кругом.”\n"
+"\n"
+"Игрок 2: \"Колесо велосипеда?\"\n"
+"\n"
+"Игрок 1: \"Нет, эта вещь висит на стене\"\n"
+"\n"
+"Игрок 2: “Я понял! Это часы!”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
 "Take turns with your child in the two roles. Being able to give good clues is just as important as discovering an object from some clues.\n"
 "\n"
 "Start with simple shapes, add size and color, and then add shapes inside of shapes or other arrangements. Add in information about its position relative to other objects."
@@ -6283,6 +6302,417 @@ msgstr "Описание Объектов"
 msgctxt "data_list"
 msgid "Patterns are everywhere! See how many you can make with your child."
 msgstr "Закономерность повсюду! Сколько вы сможете найти вместе с вашим ребенком."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pattern types"
+msgstr "Типы закономерностей"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some characteristics that can be used by themselves or mixed together: \n"
+"\n"
+"• Movement patterns: stepping, jumping, waving, nodding\n"
+"• Sound patterns: clapping, knee slapping, tongue clicking, stamping\n"
+"• Loudness patterns: soft, medium, loud\n"
+"• Visual patterns: color, shape, size"
+msgstr ""
+"Вот некоторые закономерности, которые можно использовать отдельно или комбинировать:\n"
+"\n"
+"* В движении тела: ходить, прыгать, махать, кивать\n"
+"* В звуках: хлопать, цокать, печатать\n"
+"* В громкости: тихий, средний, громкий\n"
+"* во внешнем виде: цвет, форма, размер"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player one: makes a pattern and challenges the other person to repeat it. (Step, clap, jump)\n"
+"\n"
+"Player two: can repeat and eventually add to the pattern, challenging player one to repeat it. (Step, clap, jump, touch their nose)\n"
+"As you get better, challenge each other to repeat longer and longer patterns from memory.\n"
+"\n"
+"You can use a pattern as a secret code for getting through a passageway. You can also make necklaces with your child by taking string and threading on beads or bits of food to create repeating patterns. Walking hand in hand, you can use squeeze patterns (short short long, etc.).\n"
+"\n"
+"**Puzzles:** For older children, create puzzles by drawing a pattern of shapes on paper. One person establishes a pattern and then leaves gaps in the sequence for the other to fill in."
+msgstr ""
+"Игрок 1: создает закономерность и вызывает другого игрока повторить его действия. (Шаг, хлопок, прыжок)\n"
+"\n"
+"Игрок 2: должен повторить и добавить новый элемент, первый игрок должен повторить с новым элементом. (Шаг, хлопок, прыжок, коснуться носа)\n"
+"\n"
+"Со временем увеличивайте количество элементов для повторения.\n"
+"\n"
+"Вы можете использовать эти последовательности как секретный код для прохода в комнаты. Также можно сделать ожерелья с вашим ребенком, нанизывая бусинки или кусочки еды на нитку, с повторяющейся очередностью. Держась за руки, вы можете с разной чистотой и длительностью сжимать руку ребенка (короткий короткий длинный и т. д.).\n"
+"\n"
+"**Головоломки:** Для детей по старше сделайте пазлы, нарисовав последовательность фигур на бумаге. Оставьте пропуски в последовательности, чтобы их можно было заполнить."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER HUNT"
+msgstr "ПОИСК ЦИФР"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Go hunting:** Pick a number, say 2. Challenge your child to go on a treasure hunt to find as many ways as possible that 2 shows up around you. It may show up as the numeral 2 on a wall, sign, or building. It may show up as two of something, such as two chairs, two dishes, or two cups, as it does in this illustration."
+msgstr "**Поиск:** Выберите число, например, 2. Попросите вашего ребенка найти как можно больше способов, как число 2 встречается вокруг вас. Это может быть цифра 2 на стене, знаке или здании. Это может быть количество предметов, таких как два стула, две тарелки или две чашки, как показано на этой иллюстрации."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you like, you can make this into a contest by seeing who can find the most of whatever number you are looking for."
+msgstr "Если посчитаете нужным, можете превратить это в соревнование, кто сможет найти больше всего объектов с нужным числом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER GOBBLER"
+msgstr "ПОГЛОТИТЕЛЬ ЧИСЕЛ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 5"
+msgstr "Счет до 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Make a 21-piece triangle with some food item. Put 1 piece in the top row, 2 pieces in the next row, and 6 pieces in the last."
+msgstr "**Подготовка:** Сделайте треугольник из 21-го предмета еды. Положите 1 предмет в первый ряд, 2 во второй ряд и так далее до 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Take turns rolling a die. Each time the count of a roll matches a row that is still in the triangle, the player gets to remove that row and either eat it (yum) or put it in their personal pile.\n"
+"\n"
+"**How to win:** Beginning players can do a 1-to-1 match of the dots on the die with the food pieces in a row. The player with the bigger pile of food wins! To determine the winner, do a 1-to-1 match of the two piles to see whose pile is larger."
+msgstr ""
+"**Правила:** По очереди бросайте кубик. Каждый раз, когда число на кубике совпадает с рядом, который еще есть в треугольнике, игрок может убрать этот ряд и либо съесть его (ням-ням), либо положить в свою личную стопку.\n"
+"\n"
+"**Условия победы:** Игрок с самой большой кучкой еды выигрывает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
+msgstr "Изменяйте размер треугольника в соответствии с диапазоном чисел, с которым ваш ребенок знаком."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE MORE ONE LESS"
+msgstr "БОЛЬШЕ-МЕНЬШЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
+msgstr "По мере того как понимание первых чисел растет, задавайте ребенку вопросы о “больше” или “меньше”. Например, не говоря о том, сколько предметов есть в данный момент, спросите: “Хочешь еще один?” или “Хочешь на один меньше?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n"
+"\n"
+"**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
+msgstr ""
+"**Количество и Изменение:** Постепенно начните подчеркивать текущее количество и как оно меняется. Вместе считайте количество предметов, например, ломтики яблока на тарелке. Подведите итог, сказав, что на тарелке два ломтика яблока, и спросите, хочет ли ваш ребенок еще один ломтик или, возможно, на один меньше. Если количество изменится, в конце спросите, сколько ломтиков яблока теперь.\n"
+"\n"
+"**На прогулке:** Когда вы гуляете, выбирайте предметы для счета. Например, если перед вами стоят три человека, посчитайте их вместе и спросите, сколько останется, если один уйдет."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Foundations"
+msgstr "Основы"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding 'one more' and 'one less' helps deepen understanding of how numbers sequence, and it also is the foundational skill for beginning addition and subtraction."
+msgstr "Понимание «больше» и «меньше» помогает углубить понимание последовательности чисел, а также является основой для изучения сложения и вычитания."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "IN THE OTHER HAND"
+msgstr "В ДРУГОЙ РУКЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a bowl of small pieces of food."
+msgstr "**Подготовка:** Начните с тарелки, наполненной любой исчесляемой едой на подобе конфет, ягод."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand."
+msgstr "**Правила:** Пусть ваш ребенок вслух посчитает несколько предметов из миски, и передаст их вам. Разделите их между руками и затем протяните обе руки, при этом одна рука должна быть открыта, а другая закрыта. Ваш ребенок теперь вслух посчитает количество предметов в открытой руке и затем выберет, из какой руки «украсть» предметы. Попросите ребенка предсказать, сколько предметов будет у него или сколько предметов останется у вас, прежде чем вы откроете руку."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
+msgstr "**Условия победы:** Украденные предметы становятся частью стопки вашего ребенка, а оставшиеся предметы остаются у вас. Игра продолжается до тех пор, пока миска не опустеет. В конце вы оба выстраиваете свои предметы в ряд, чтобы увидеть, у кого больше."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Introduction**\n"
+"\n"
+"You only need a few materials for these Early Family Math activities, and they are all very inexpensive and easy to get. Here’s a short list:\n"
+"\n"
+"• Five dice\n"
+"• A deck of playing cards\n"
+"• String (optional)\n"
+"• Sidewalk chalk (optional)\n"
+"• Some stiff paper in various colors (optional)\n"
+"\n"
+"**Make Number Cards**\n"
+"\n"
+"Many EFM activities can be played using decks of playing cards. However, using a Number Card deck will help your child practice ideas that will not be emphasized with regular playing cards. Make your own cards using card stock or any thick paper. You can either use the PDF supplied in Resources or draw your own."
+msgstr ""
+"**Введение**\n"
+"\n"
+"Для выполнения занятий вам понадобятся всего лишь несколько материалов, недорогих и широкодоступных. Список:\n"
+"\n"
+"* Игральная кость - 5 штук\n"
+"* Колода Карт\n"
+"* Веревка (по желанию)\n"
+"* Мел (по желанию)\n"
+"* Картон разного цвета (по желанию)\n"
+"\n"
+"**Карточки с числами**\n"
+"\n"
+"Занятия можно проводить с использованием колоды игральных карт. Однако использование специальных карт с числами поможет вашему ребенку практиковать идеи, которые не будут подчёркнуты при использовании обычных игральных карт. Сделайте свои собственные карточки, используя картон или любую плотную бумагу."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE A SHAPE DECK"
+msgstr "КОЛОДА КАРТ С ФИГУРАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few games and puzzles that involve a Shape Deck of 27 cards in the Shape Deck Games page. If you happen to have a set of 81 cards from the game of SET, you can use 27 of those cards that have solid colors as a Shape Deck."
+msgstr "На странице \"Игры с колодой фигур\" есть несколько игр и головоломок, для которых нужна колода из 27 карточек с фигурами. Если у вас есть набор игры СЕТ, вы можете использовать 27 карточек, из этого набора, с однотонными цветами в качестве колоды с фигурами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with some stiff paper such as card stock if you can. Regular paper will work, it’s just not as easy to handle or as durable.\n"
+"\n"
+"Each of the 27 cards of the Shape Deck has three properties: a shape (circle, triangle, or square), a count (one, two, or three) and a color (red, blue, or black). The 27 cards are pictured above. Use the pdf supplied in Resources or draw your own."
+msgstr ""
+"Используйте плотную бумагу, такую как картон, если у вас есть возможность. Простая бумага тоже подойдет, но она не такая удобная в использовании и не особо долговечная.\n"
+"\n"
+"Каждая карточка с фигурами имеет три свойства: форму (круг, треугольник или квадрат), количество (один, два или три) и цвет (красный, синий или черный). Все 27 карточек изображены выше. Используйте PDF-файл, предоставленный в разделе \"Ресурсы\", или нарисуйте карточки самостоятельно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE ON THE WALL"
+msgstr "ЛИНЕЙКА ЧИСЕЛ НА СТЕНЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Materials"
+msgstr "Реквизиты"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place a number line on a wall to let your child see the numbers and how they grow. The number line should start at 0 and go at least to 20, with the numbers increasing as they go to the right. Make it from regular paper and use tick marks and large numbers."
+msgstr "Прикрепите линейку с числами на стену, чтобы ваш ребенок мог видеть числа и их прирост. Числа должны начинаться с 0 и доходить как минимум до 20. Сделайте её из обычной бумаги с отметками и большими цифрами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "YOUR OWN STORE"
+msgstr "ВАШ МАГАЗИНЧИК"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kids love to play store! Create tags with silly prices that are small numbers. If your child hasn't learned the numerals yet, you can use quantities of dots on the tags."
+msgstr "Дети любят играть в магазин! Сделайте ценники используя маленькие числа. Если ваш ребенок ещё не выучил цифры, можно использовать количество точек на ценниках."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put price tags on things in your home (toys, food, books, etc.) Use pieces of paper that have '1' marked on them as pretend money to spend on things in the store.\n"
+"\n"
+"After each 'purchase,' have your child count out the number of bills to pay for it and then count out how much money is left."
+msgstr ""
+"Прикрепите ценники к предметам в вашем доме (игрушкам, продуктам, книгам и т. д.). Используйте кусочки бумаги с цифрой '1', чтобы они играли роль денег, которые можно тратить на товары в магазине.\n"
+"\n"
+"После каждой \"покупки\" пусть ваш ребенок сосчитает количество купюр для оплаты, а затем подсчитает, сколько денег у него осталось."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOPSCOTCH"
+msgstr "КЛАССИКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 5"
+msgstr "Числа до 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game of hopscotch provides great counting practice, both forward and backward. Copy this design, or use a simpler one. Use chalk if outside, or masking or painter's tape if inside."
+msgstr "Игра в классики отлично помогает в практике счёта, как вперёд, так и назад. Скопируйте этот дизайн или используйте более простой. Используйте мел, если играете на улице, или малярный скотч, если в помещении."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"1. Throw a marker into the first square. If it lands on a line, or outside the square, you lose your turn and you pass the marker to the next player.\n"
+"\n"
+"2. Hop on one foot into the first empty square, and then every subsequent empty square. Skip the one your marker is on.\n"
+"\n"
+"3. At the pairs (4-5 and 7-8), jump with both feet.\n"
+"\n"
+"4. At 10, hop with both feet, turn around, and head back toward the start."
+msgstr ""
+"1. Бросьте маркер или камешек в первую клетку. Если он приземляется на линию или за пределами клетки, вы теряете ход и передаете ход следующему игроку.\n"
+"\n"
+"2. Прыгайте одной ногой на одиночные клетки.\n"
+"\n"
+"3. На парные клетки (4-5 и 7-8), прыгайте двумя ногами.\n"
+"\n"
+"4. На 10-ой клетке,, прыгайте двумя ногами, разворачивайтесь и прыгайте назад к началу."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. When you reach the marked square again, pick up the marker—on one foot!—and keep going.\n"
+"\n"
+"6. If you finished without any mistakes, pass the marker to the next player. On your next turn, throw the marker to the next number.\n"
+"\n"
+"7. If you fall, jump outside the lines, or miss a square or the marker, you lose your turn and must repeat the same number on your next turn. Whoever reaches 10 first, wins."
+msgstr ""
+"5. Возвращаясь назад когда достигните клетки с камнем, поднимите его и продолжайте движение.\n"
+"\n"
+"6. Если вы завершили без ошибок, на вашем следующем ходу бросьте маркер на следующее число.\n"
+"\n"
+"7. Если вы упадете, прыгнете за пределы линий, пропустите клетку или маркер, вы теряете ход и должны повторить то же число на следующем ходу. Выигрывает тот кто достегает 10 первым."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simpler variations"
+msgstr "Упрощение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger children, relax many of the rules and replace hopping with stepping. Also, use a jumping pattern with fewer squares, perhaps as simple as having the numbers from1to5infivesquaresinarow."
+msgstr "Для детей по младше смягчите многие правила и замените прыжки на шаги. Также используйте более простую схему с меньшим количеством клеток, например, числа от 1 до 5 в ряд."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING IN CIRCLES"
+msgstr "НАУКУ К КРУГУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**A circle for each property:** Create large circles on the ground using Hula Hoops, string, or draw them with sidewalk chalk. Use a collection of objects and have each circle represent a property of some of the objects. Possible properties are: has four legs, is bigger than a doll, has some red coloring. The challenge for your child is to put everything that has the property in the circle and everything without the property outside the circle."
+msgstr "**Круг для каждого свойства:** Организуйте большие круги на земле, используя обручи, верёвки или нарисуйте их мелом. Используйте разные предметы и пусть каждый круг представляет собой общее свойство некоторых из них. Возможные свойства: четыре ноги, больше чем кукла, красного цвета. Задача вашего ребенка — поместить все предметы, обладающие одним свойством, в круг, а все остальные предметы оставить за пределами круга."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two circles:** Start by using one circle to get your child used to the idea. When you change to two circles, make them partially overlap, and choose the properties so that some objects have both properties.\n"
+"\n"
+"**Example:** For example, if you have a box of blocks, the two properties might be having a round shape and being wooden. Your child should tell you how they are deciding to place each object."
+msgstr ""
+"**Два Круга:** Начните с одного круга, чтобы ваш ребенок привык к этой идее. Когда перейдете к двум кругам, выберите свойства так, чтобы некоторые предметы имели оба свойства.\n"
+"\n"
+"**Пример:** Например, если у вас есть коробка с кубиками, два свойства могут быть: красный цвет и сделаны из дерева. Ваш ребенок должен объяснить, как он решает, куда разместить каждый предмет."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reverse this activity by placing objects in the circles and challenging your child to identify what property goes with each circle."
+msgstr "Внесите изменение: разместите объекты в кругах и предложите вашему ребенку определить, какое свойство соответствует каждому кругу."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SAME AND DIFFERENT"
+msgstr "СХОЖИЕ И РАЗНЫЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Choose two items that are somewhat similar. How are they similar? How are they different? Allow your child lots of freedom to come up with unusual reasons. Sometimes let your child pick the two items to challenge you to come up with the similarities and differences.\n"
+"\n"
+"**Example:** Pick a spoon and a fork. They are similar because you eat with them and they are both kept in the kitchen. They are different because one is pointy and one is round."
+msgstr ""
+"**Правила:** Выберите два предмета, которые немного похожи. Чем они похожи? Чем они отличаются? Позвольте вашему ребенку проявлять креативность и находить необычные причины. Давайте вашему ребенку возможность выбрать два предмета, чтобы бы вы могли найти сходства и различия.\n"
+"\n"
+"**Пример:** К примеру возьмем ложку и вилку. Они похожи тем, что ини чать сервиза и их хранят на кухне. Различие в форме."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation is to choose an item and ask which things in the room are similar to it and which things are very different from it."
+msgstr "Выберите предмет и спросите, какие вещи в комнате похожи на него, а какие отличаются."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE OF THESE IS NOT LIKE THE OTHERS"
+msgstr "ОДИН ЛИШНИЙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use a set of four items or drawings where at least one of the four is the odd one out. Challenge your child to identify one that is not like the others and to explain why. Accept any reason that makes sense; your child may have an unusual reason."
+msgstr "Используйте набор из четырех предметов или рисунков, хотя бы один из них должен отличатся от остальных. Попросите вашего ребенка определить, какой из предметов не похож на другие, и объяснить почему. Примите любое логичное объяснение; ваш ребенок может предложить необычное решение."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example – Shapes:** Suppose the four items are a red triangle, a red square with a hole, a small red square, and solid blue square."
+msgstr "**Пример – Фигуры:** Предположим, что четыре предмета — это красный треугольник, красный квадрат с отверстием, маленький красный квадрат и синий квадрат."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas."
+msgstr "Красный треугольник — единственный, который не является квадратом. Красный квадрат с отверстием — единственная фигура с отверстием. Синий квадрат — единственный, который не красного цвета. Маленький красный квадрат значительно меньше остальных. Не всегда бывает больше одного правильного ответа, но всегда будьте открыты к неожиданным идеям."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DESCRIBING SCENES"
+msgstr "ОБРИСОВКА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a simple barrier between the two players so they can’t see each other’s work. Another option is to work back to back. Each person has a piece of paper and the same set of colored pencils, crayons, or pens.\n"
+"\n"
+"One person draws shapes (such as circles, triangles, squares, and rectangles) in colors and groups in distinctive positions on their paper. That person then gives directions for the other person to follow to make the identical drawing.\n"
+"\n"
+"At the end, the barrier is removed and the two drawings are compared (usually with lots of laughter). The players compare ideas on which spoken directions worked and which did not."
+msgstr ""
+"**Подготовка:** Создайте простую перегородку между двумя игроками, чтобы они не могли видеть рисунки друг друга. Другой вариант — работать спиной к спине. У каждого есть лист бумаги и одинаковый набор цветных карандашей, мелков или ручек.\n"
+"\n"
+"Один игрок рисует фигуры (например, круги, треугольники, квадраты и прямоугольники) разными цветами и группируя в уникальных позициях на своей бумаге. Этот игрок затем дает инструкции другому игроку, чтобы тот повторил идентичный рисунок.\n"
+"\n"
+"В конце преграда убирается, и два рисунка сравниваются (обычно с множеством смеха). Игроки обсуждают, какие устные инструкции сработали, а какие нет."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can be a 3D activity if each player has the same set of stackable items (such as Lego bricks). In this case, one player makes a stack in some interesting way and then gives a sequence of directions to the other player."
+msgstr "Это можно сделать в 3D-формате, для этого нужен набор предметов которые можно складывать друг на друга (например, деталей LEGO). В этом случае один игрок строит башню, а затем дает последовательную инструкцию другому игроку."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHICH SHAPE AM I?"
+msgstr "КАКАЯ Я ФИГУРА?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Have a collection of small shapes, drawings of shapes on cards, or names of shapes on cards.\n"
+"\n"
+"Stick a shape or card on each person’s forehead. Ask yes-or-no questions about your own shape until you guess what you are."
+msgstr ""
+"Карточки с рисунками фигур или их названиями.\n"
+"\n"
+"Прикрепите карточку на лоб каждого игрока. Задавайте \"да\" или \"нет\" вопросы о своей фигуре, пока не угадаете, что это за фигура."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHO IS IT?"
+msgstr "УГАДАЙ КТО?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
+msgstr "Эта активность для нескольких человек. Ведущий тайно выбирает одного человека из группы. Игроки задают вопросы, такие как: \"Этот человек в футболке с треугольником?\" или \"У этого человека волосы длиннее 30 см?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unknown Shapes"
+msgstr "Открываем Фигуры"
 
 #. type=data_list
 msgctxt "data_list"
