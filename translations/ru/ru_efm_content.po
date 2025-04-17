@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-17 05:08\n"
+"PO-Revision-Date: 2025-04-17 15:38\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6268,6 +6268,21 @@ msgstr ""
 "**Версия 2:** Угадчик задает вопросы с ответами «да» или «нет», пока не угадает.\n"
 "\n"
 "**Условия победы:** Получите ответ за наименьшее количество вопросов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PATTERNS"
+msgstr "ЗАКОНОМЕРНОСТИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Descriptions"
+msgstr "Описание Объектов"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Patterns are everywhere! See how many you can make with your child."
+msgstr "Закономерность повсюду! Сколько вы сможете найти вместе с вашим ребенком."
 
 #. type=data_list
 msgctxt "data_list"
