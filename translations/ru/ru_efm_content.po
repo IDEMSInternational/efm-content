@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-17 22:17\n"
+"PO-Revision-Date: 2025-04-17 23:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7049,6 +7049,41 @@ msgstr ""
 "**Набор балов:** Победителя можно вычислить двумя способами. Традиционный способ — использовать сумму точек на плитках всех остальных игроков. Раунды играются до тех пор, пока один из игроков не наберет 50 или 100 очков. Для маленьких детей более подходящая система подсчета очков — позволить победителю получить очки, равные количеству плиток всех остальных игроков.\n"
 "\n"
 "**Вариации:** Когда ваш ребенок научится складывать, измените правило совпадения: две плитки считаются совпадающими, если их числа в сумме дают шесть (или девять, если используется более широкий диапазон домино)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "В ДИАПАЗОНЕ 1 ИЛИ 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**Подготовка:** Создайте стопку карт с числами с которым ваш ребенок легко справляется. Разделите карты поровну между двумя игроками и разложите их лицом вниз."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**Правила:** Игроки по очереди кладут по одной карте на стопку в середине между ними. Если карта на одну единицу больше, такая же или на одну единицу меньше предыдущей карты, первый игрок, который скажет \"на одну больше\", \"такая же\" или \"на одну меньше\", выигрывает все карты в текущей стопке.\n"
+"\n"
+"**Условия победы:** Побеждает тот, у кого больше карт в стопке, когда вы заканчиваете игру."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* Используйте варианты \"на два больше\" и \"на два меньше\"\n"
+"* Используйте сумму таргетную, например 10. Будьте первыми, кто скажет, что верхние две карты в стопке в сумме дают таргетную сумму."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "Цифры в Близи"
 
 #. type=data_list
 msgctxt "data_list"
