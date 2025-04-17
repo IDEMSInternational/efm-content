@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-17 04:06\n"
+"PO-Revision-Date: 2025-04-17 05:08\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6168,6 +6168,106 @@ msgstr ""
 "Меняйтесь ролями с вашим ребенком. Умение давать хорошие подсказки так же важно, как и умение находить объект по подсказкам.\n"
 "\n"
 "Начните с простых форм, добавляйте размеры и цвета, а затем включите формы внутри форм и другие комбинации. Говорите о положении объекта относительно других предметов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATE A JIGSAW PUZZLE"
+msgstr "СДЕЛАЙТЕ ПАЗЛ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a jigsaw puzzle together for your child to play with.\n"
+"\n"
+"Either use a box that already has a picture on it, such as a cereal or product box, or have your child paint or draw on a piece of cardboard or stiff paper.\n"
+"\n"
+"Cut the cardboard or paper into large pieces and keep all the pieces. \n"
+"\n"
+"You now have your own personal jigsaw puzzle!"
+msgstr ""
+"Сделайте пазл для вашего ребенка.\n"
+"\n"
+"Вы можете воспользоваться коробкой с уже имеющимся изображением, например, коробку из-под хлопьев или продуктов. Так же можете попросить вашего ребенка нарисовать и раскрасить картон.\n"
+"\n"
+"Разрежьте картон на крупные кусочки.\n"
+"\n"
+"Теперь у вас есть личный пазл!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COLORED TILINGS"
+msgstr "ЦВЕТНАЯ МОЗАЙКА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Create a set of “tiles” from cardboard or stiff paper. Use the patterns in the EFM Printables PDF, or download the patterns from a source on the internet. Use one source for all the shapes so that they fit well together. For each shape, use just one or two colors, such as red squares and blue triangles – that will help your child pick up the pattern of which shapes are which, and it will make the patterns more interesting."
+msgstr "**Инструкция:**. Создайте набор «плиток» из картона или бумаги повышенной плотности. Используйте узоры из PDF-файла EFM Printables или скачайте узоры из интернета. Ограничьтесь одним источником, чтобы они подходили друг к другу. Ограничьте цветовую гамму одним или двумя цветами на каждую отделённую фигуру, например, красные квадраты и синие треугольники — это поможет вашему ребенку лучше запомнить, какие формы какие, и сделает узоры более интересными."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Watch your child make patterns fitting the tiles together. Name the shapes and colors as they go.\n"
+"\n"
+"With older children, talk about patterns in the tiling that repeat. Also, talk about symmetries in the overall design. Some designs have one side that is the reflection of the other side, and that is called mirror symmetry."
+msgstr ""
+"Наблюдайте за работой вашего ребенка пока он создает узоры, соединяя плитки. Называйте формы и цвета по мере того, как он работает.\n"
+"\n"
+"С детьми постарше обсудите узоры в мозаике, которые повторяются. Также поговорите о симметрии во всем дизайне. Некоторые дизайны имеют одну сторону, которая является отражением другой стороны, и это называется **зеркальной симметрией**."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child has made a few designs, start pointing out patterns in the tiled floors and buildings that you see. Brickwork or woodwork often have interesting patterns in them."
+msgstr "После того как ваш ребенок создаст несколько дизайнов, обращайте его внимание на узоры в плиточных полах и зданиях, которые вы видите. Кирпичная кладка или деревянные изделия часто имеют интересные узоры."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LAUNDRY SORTING"
+msgstr "СОРТИРОВКА БЕЛЬЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Laundry sorting is a great way to discuss properties that make things the same or different."
+msgstr "Сортировка белья — отличный способ обсудить свойства, которые делают вещи похожими или различными."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Dirty clothes:** Perhaps the clothes need to be sorted by whites, bright colors, and dark colors. Perhaps some clothes need delicate handling, or they are particularly dirty. Perhaps one pile is too big to wash as one group. All of these characterstics are things to be observed, described, and discussed.\n"
+"\n"
+"**Clean clothes:** You may want to sort into piles by whose clothes they are. Some clothes may be bigger than others. Pairing up socks can be particularly interesting – matching colors, patterns, and sizes."
+msgstr ""
+"**Грязные вещи:** Отсортировать вещи на белые цветные и черные. Вещи требующие деликатную стирку или особо грязные вещи. Разделить вещи на несколько стирок. Все это характеристики — которые можно наблюдать, описывать и обсуждать.\n"
+"\n"
+"**Чистые вещи:** Вы можете сортировать вещи в зависимости от того, чья это одежда. Некоторые вещи могут быть больше других. Соединять носки по парам может быть особенно интересным — сопоставлять их по цвету, узору и размеру."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "OBJECT HUNT"
+msgstr "ПОИСК ПРЕДМЕТОВ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make a math game of searching for objects around the house or outside. Use the game to practice concepts that your child is learning, such as color, size (large, medium, small), weight (heavy, light), quantity, and relationship (inside, on top of, below)."
+msgstr "Игра, в которой нужно искать объекты в доме или на улице. Играйте, чтобы практиковать концепции, которые ваш ребенок изучает, такие, как цвет, размер (большой, средний, маленький), вес (тяжелый, легкий), количество и положение (внутри, сверху, снизу)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two versions of this game. Both versions involve a Puzzler, who thinks of an object to find, and a Guesser, who tries to guess what the object based on the information from the Puzzler.\n"
+"\n"
+"**Version 1:** The Puzzler starts describing an object, and the Guesser tries to guess what it is. \n"
+"\n"
+"**Version 2:** The Guesser asks yes/no questions of the Puzzler until the Guesser guesses what the object is.\n"
+"\n"
+"**How to win:** Guess what the object is in as few steps as possible."
+msgstr ""
+"**Правила:** Существует две версии этой игры. В обеих версиях есть \"Загадчик\", который загадывает предмет. И \"Угадчик\", который пытается угадать предмет, опираясь на информации от Загадчика.\n"
+"\n"
+"**Версия 1:** Загадчик начинает описывать предмет, а Угадчик пытается угадать, что это.\n"
+"\n"
+"**Версия 2:** Угадчик задает вопросы с ответами «да» или «нет», пока не угадает.\n"
+"\n"
+"**Условия победы:** Получите ответ за наименьшее количество вопросов."
 
 #. type=data_list
 msgctxt "data_list"
