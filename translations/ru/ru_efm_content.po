@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-18 03:54\n"
+"PO-Revision-Date: 2025-04-18 04:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7801,6 +7801,130 @@ msgstr "ВЫЧЕТ НА ПАЛЬЦАХ ДО 10-ТИ"
 msgctxt "data_list"
 msgid "Finger Math"
 msgstr "Математика на Пальцах"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "Существует две ментальные модели для вычитания забрать или разница. Ваш ребенок должен быть комфортен с обеими моделями. Вот 8 - 5, рассчитанное двумя способами:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "**Забрать:** Думайте о 8 - 5 как о том, что осталось после того, как вы начали с 8 вещей и убрали 5 из них. Начните с поднятых 8 пальцев. Затем считайте вслух от 0 до 5, и для каждого числа после 0 убирайте один палец. Когда вы дойдете до 5, у вас останется три поднятых пальца."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"**Остаток** Эта модель рассматривает 8 - 5 как разницу или расстояние между двумя числами. Начните с 5 поднятых пальцев. Затем считайте поднимаемая другие пальцы, и когда у вас будет 8 поднятых пальцев, разница в 3 будет найдена.\n"
+"\n"
+"Этот метод использует метод досчитывания, чтобы найти число, которое нужно добавить к 5, чтобы получить 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "Смешивайте задачи, где число вычитается само из себя, и где вычитается 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n"
+"\n"
+"**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n"
+"\n"
+"**Example:** The Puzzler thinks of 11. The discussion could go like this:\n"
+"\n"
+"• Puzzler: Stripes is a number between 0 and 15.\n"
+"• Questioner: How does Stripes compare to 8?\n"
+"• Puzzler: Stripes is bigger than 8.\n"
+"• Questioner: How does Stripes compare to 12? \n"
+"• Puzzler: Stripes is less than 12.\n"
+"• Questioner: How does Stripes compare to 10? \n"
+"• Puzzler: Stripes is bigger than 10.\n"
+"• Questioner: Is your number 11?\n"
+"• Puzzler: Yes, congratulations!"
+msgstr ""
+"**Подготовка:** Есть два человека Загадчик, который загадывает число, и Угадчик, который пытается выяснить это число.\n"
+"\n"
+"**Правила:** Чтобы начать, Загадчик говорит: “Чебурашка это число от 0 до 12”. Угадчик затем задает вопросы в форме “Где Чебурашка по сравнению с 4?” Загадчик отвечает, что Чебурашка меньше, равно или больше 4.\n"
+"\n"
+"**Пример:** Загадчик загадывает 11. Обсуждение может пройти следующим образом:\n"
+"\n"
+"* Загадчик: Чебурашка между 0 и 15.\n"
+"* Угадчик: Где Чебурашка по сравнению с 8?\n"
+"* Загадчик: Больше 8.\n"
+"* Угадчик: Где Чебурашка по сравнению с 12?\n"
+"* Загадчик: Меньше 12.\n"
+"* Угадчик: Где Чебурашка по сравнению с 10?\n"
+"* Загадчик: Больше 10.\n"
+"* Угадчик: 11?\n"
+"* Загадчик: Да, поздравляю!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n"
+"\n"
+"As your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”"
+msgstr ""
+"Превратите это в игру, подсчитывая вопросы. После всех ходов выигрывает игрок, задавший меньшее вопросов.\n"
+"\n"
+"По мере развития математических навыков вашего ребенка используйте другие виды вопросов, такие как “Чебурашка четное число?” или “Чебурашка простое число?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ESTIMATION GAME"
+msgstr "ИГРА В ОЦЕНКУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n"
+"\n"
+"Force yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest."
+msgstr ""
+"Развивайте представление о количестве, играйте кто сможет сделать лучшую оценку количества людей, стоящих в очереди.\n"
+"\n"
+"Заставьте себя быстро оценить количество, не считая. После того как все сделают свои оценки, посчитайте и наградите того, кто оказался ближе всего."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "ПЯТНАШКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "Цифры в Порядке"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid."
+msgstr "**Подготовка:** Начните с пустой таблицы 4 x 4, образованной 5 горизонтальными и вертикальными линиями. Используйте набор из 15 листов бумаги размером с квадраты сетки и пронумеруйте листы бумаги от 1 до 15. Пазл начинается с того, что кто-то размещает листы бумаги на сетке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"**Цель:** Целью головоломки является расположение листов бумаги в порядке, оставляя только нижний правый угол сетки пустым. Чтобы добиться этого, лист бумаги можно переместить, если он соседствует с пустой ячейкой в этом случае его можно сдвинуть на это место. В зависимости от того, как человек установит головоломку, она может быть решаемой или нет.\n"
+"\n"
+"**Как сделать:** Чтобы создать эти головоломки, у вас есть два варианта. Первый разместить квадраты случайным образом, в этом случае у вас есть шанс 50 на 50 того что позиция будет нерешаемой. Или, вы можете начать с размещения листов бумаги в конечном положении, а затем перемещать листки бумаги. Когда вы закончите, вы можете быть уверены, что головоломка решаема."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Different sizes"
+msgstr "Размеры"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr "Если таблица 4x4 слишком сложна для, начните с чего-то по меньше. Таблица может быть размером 2x2 или больше. Количество пронумерованных листов бумаги всегда будет на один меньше количества ячеек в таблице. Например, в таблице 2x3 используйте карточки с номерами от 1 до 5."
 
 #. type=data_list
 msgctxt "data_list"
