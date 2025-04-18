@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-18 02:54\n"
+"PO-Revision-Date: 2025-04-18 03:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7635,6 +7635,172 @@ msgstr ""
 "**Правила:** Первому игроку раздайте две карты лицом вверх и третью карту лицом вниз между ними. Игрок решает сделать ставку от 0 до 3 фишек на то, что третья карта будет между двумя картами. Если игрок прав он получает свои фишки назад и это же количество от другого игрока. Если игрок не прав, его ставка идет к второму игроку.\n"
 "\n"
 "**Условие победы:** Вы можете сыграть пять раундов или до тех пор, пока один из игроков не останется без фишек. Игрок с наибольшим количеством фишек в конце выигрывает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SUDOKU"
+msgstr "СУДОКУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These are similar to the Shape Sudokus, only now they use numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper."
+msgstr ""
+"**Подготовка:** Это похоже на Судыку с фигурами, только теперь используются числа (или количество точек). Чтобы избежать стирания, используйте нумерованную бумагу (или с точками).\n"
+"\n"
+"Для головоломки 4 на 4 каждая строка и столбец должны содержать числа от 1 до 4 по одному разу. Создайте эти головоломки для вашего ребенка, начав с завершенной головоломки и убрав некоторые кусочки бумаги."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Variations:** For variety, use irregularly-sized subregions – these are called Jigsaw Sudoku puzzles. You can also create puzzles of larger size (two 5 by 5 puzzles are shown)."
+msgstr "**Dfhbfwbb:** Для разнообразия подключите подрегионы такие головоломки называются Jigsaw Sudoku. Вы также можете создавать головоломки большего размера (например, две головоломки 5 на 5). "
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU – COMPARING"
+msgstr "СУДОКУ НА СВЕРКУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship.\n"
+"\n"
+"**Hungry alligator:** Tell a child who has never seen a comparison symbol, >, that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number.\n"
+"\n"
+"**Solving strategy:** First look for where the smallest and largest numbers are."
+msgstr ""
+"Эти головоломки начинаются с тех же правил, что и обычный Судоку. Но если между двумя ячейками есть знак меньше или больше, то числа в ячейках должны соответствовать этому отношению.\n"
+"\n"
+"**Голодный крокодил:** Скажите ребенку, который никогда не видел знак сравнения, >, что большее число находится с той стороны, где шире символ. Некоторые люди говорят, что этот символ это голодный крокодил, который всегда хочет, чтобы его пасть указывала в сторону большего числа.\n"
+"\n"
+"**Способы решения:** Сначала найдите, где находятся самые маленькие и самые большие числа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n"
+"\n"
+"**Puzzle creation:** Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to get them started."
+msgstr ""
+"По мере того, как ваш ребенок становится более уверенным, усложняйте головоломки, оставляя больше неравенств без символов.\n"
+"\n"
+"**Создание головоломок:** Создайте эти головоломки, используя готовую Судоку. Разместите знаки больше и меньше на пустой сетке. Если ваш ребенок застрянет, добавьте несколько чисел, чтобы помочь ему начать."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE ME A LIAR"
+msgstr "ВЫВЕСТИ НА ЧИСТУЮ ВОДУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Someone makes a statement and the other players attempt to show that the statement maker is lying. The goal is to come up with a counterexample that shows that the statement is not always true.\n"
+"\n"
+"**Always true:** One type of statement is saying something is always true. Examples are:\n"
+"\n"
+"• All trucks have four wheels\n"
+"• All rectangles are squares\n"
+"• All birds can fly\n"
+"\n"
+"**If -> then:** Another type of statement is of the form “if then”. Examples are:\n"
+"\n"
+"• If today is Monday, then it is a school day\n"
+"• If I don’t eat for three hours, then I am hungry\n"
+"• If a person is taller than someone, then they are older"
+msgstr ""
+"Кто-то делает заявление, и другие игроки пытаются доказать, что говорящий лжет. Цель состоит в том, чтобы привести контрпример, который покажет, что это утверждение не всегда верно.\n"
+"\n"
+"**Прямая зависимость:** Один из видов утверждения это то что всегда верно. Примеры:\n"
+"\n"
+"* У всех грузовиков 4 шины\n"
+"* Все четырех угольные фигуры квадраты\n"
+"* Все птицы умеют летать\n"
+"\n"
+"**Если -> то:** Другой вид утверждения форма “если….то”. Примеры:\n"
+"\n"
+"* Если сегодня понедельник, значит, это учебный день.\n"
+"* Если я не ел три часа, значит, я голоден.\n"
+"* Если человек выше другого, значит, он старше."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CODEBREAKER"
+msgstr "ДЕШИФРОВЩИК"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being Logical"
+msgstr "Подключить Логику"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
+msgstr "Подготовка:} Шифровщик создают код, а другой игрок становится Дешифровщиком. Предположим, что код состоит из трех позиций, каждая из которых может быть от 1 до 5. Примером такого кода может быть 321."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code."
+msgstr "**Дешифр:** Дешифровщик пытается угадать код, а Шифровщик говорит, насколько близок этот ответ. Например, если Дешифровщик угадывает 131, Шифровщик может сказать, что одна позиция абсолютно верна, а в другой позиции стоит правильное число, но на неправильном месте. Игра продолжается, пока Дешифровщик не разгадает код."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "**Условие победы:** Количество попыток это счет Дешифровщика. Побеждает тот, у кого самый низкий счет."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Add challenge by having a maximum number of questions that are allowed.\n"
+"• Allow or disallow repeated numbers in the code.\n"
+"• Use shorter or longer lengths for the code.\n"
+"• Use a narrower or wider range of numbers for each place of the code."
+msgstr ""
+"* Усложните установив максимальное количество разрешенных вопросов.\n"
+"* Разрешите или запретите повторяющиеся числа в коде.\n"
+"* Укоротите или удлините код.\n"
+"* Меняйте диапазон чисел в коде."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "СЧЕТ НА ПАЛЬЦАХ ДО 10-ТИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "Мы будем использовать 4 + 2, чтобы продемонстрировать два метода."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**Метод 1:** Используйте этот метод, если оба числа 5 или меньше. Поднимите 4 пальца на одной руке и 2 пальца на другой. Сведите две руки вместе. Ваш ребенок видит, что 4 и 2 вместе становятся 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**Метод 2:** Используйте метод “досчитывания” от одного из чисел, чтобы достичь любой суммы до 10.\n"
+"\n"
+"**Пример:** Чтобы сложить 4 и 2, поднимите 4 пальца на одной руке и считайте вслух от 0 до 2. Для каждого произнесенного числа после 0 поднимайте еще один палец. Когда вы дойдете до 2, должно быть поднято 6 пальцев.\n"
+"\n"
+"Этот метод позволяет складывать числа больше 5. Ваш ребенок поймет, что легче начинать с большего количества поднятых пальцев и досчитывать, используя меньшее число."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "ВЫЧЕТ НА ПАЛЬЦАХ ДО 10-ТИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "Математика на Пальцах"
 
 #. type=data_list
 msgctxt "data_list"
