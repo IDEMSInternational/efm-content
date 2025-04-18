@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-04-18 00:54\n"
+"PO-Revision-Date: 2025-04-18 01:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7150,6 +7150,303 @@ msgstr ""
 msgctxt "data_list"
 msgid "Comparing"
 msgstr "Сравнение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is an introductory version of a fun game we will revisit again soon.\n"
+"\n"
+"**How to play:** There are two people: the Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (for example). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number.\n"
+"\n"
+"**Use cards:** With younger children, play this game with counting cards from 0 to 8 placed face up. Hide a star under one of the cards. After each guess, the Questioner turns over all the eliminated cards until the star is discovered."
+msgstr ""
+"Это вводная версия увлекательной игры, к которой мы вернемся в ближайшее время.\n"
+"\n"
+"**Правила:** Есть два человека: Загадчик думает о числе, а угадчик его находит. Загадчик объявляет: «Я думаю о числе от 0 до 8». Затем угадчик задает вопросы наподобие: «Как ваше число соотносится к 3?» Загадчик отвечает, что число меньше, равно или больше этого числа.\n"
+"\n"
+"**Используйте карты:** С младшими детьми играйте в эту игру с карточками с числами от 0 до 8, рубашкой вверх. Спрячьте звезду под одной из карт. После каждого предположения Угадчик переворачивает все исключенные карты, пока звезда не будет найдена."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** The game pictured above uses cards with a target of 5.\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. \n"
+"Question: How does your number compare to 3? \n"
+"Puzzler: My number is larger than 3.\n"
+"Question: How does your number compare to 6? \n"
+"Puzzler: My number is smaller than 6.\n"
+"Question: How does your number compare to 5? \n"
+"Puzzler: Well done! My number is equal to 5."
+msgstr ""
+"**Примеры:** Игра с целью 5:\n"
+"\n"
+"Загадчик: Я думаю о числе от 0 до 8.\n"
+"Угадчик: Это число больше или иеньше 3?\n"
+"Загадчик: Больше 3.\n"
+"Угадчик: Это число больше или меньше 6?\n"
+"Загадчик: Меньше 6.\n"
+"Угадчик: Это число 5?\n"
+"Загадчик: Молодец! Правильный ответ 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "Дайте вашему ребенку небольшое количество предметов и вместе с ним посчитайте их все. Затем выберите другое число, пусть ребенок отделит нужное количество."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "Попросите вашего ребенка взять какоето количество предметов из исходной группы. Это поможет ему понять насколько одно число больше или меньше другого."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "Сначала выберайте числа которые меньше или равно общему количеству. Позже, используйте слишком большие числа, это даст возможность потренироваться в подсчете количества, а также проверить, насколько запрос правелен."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "НЕВИДИМЫЕ ДЕЙСТВИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**В Начле:** Попросите ребенка посчитать небольшое количество предметов и положить их в коробку."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**Затем:** Попросите его показать столько же пальцев, сколько предметов в коробке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**В конце:** Покажите вашему ребенку, что вы добавляете (или убираете) один или два предмета в коробку, и спросите: Сколько предметов теперь в коробке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "Со временем вы можете добавлять или убирать больше двух предметов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "МОРСКОЙ БОЙ В СТРОЧКЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**Подготовка:** У каждого игрока есть две числовые линии одна для их кораблей и одна для их предположений. Эти числовые линии идут от 0 до 12 (или выше в зависимости до скольки может считать ваш ребенок). Разместите фишки(корабли) на двух числах."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**Правила:** После подготовки игроки по очереди называют предполагаемые числа. Когда один из игроков делает предположение, другой игрок говорит, насколько близко оно было к ближайшей цели.\n"
+"\n"
+"**Условие победы:** Первый кто найдет все цели, выигрывает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* Используйте более широкий диапазон чисел.\n"
+"* Ответ на предположение может быть диапазоном расстояний, а не точным значением. Например: ближайший корабль находится на расстоянии 1 или 2.\n"
+"* Используйте корабли разной длины."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "ЧЕГО НЕ ХВАТАЕТ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "Больше-Меньше"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "Посчитайте небольшое количество мелких предметов с вашим ребенком. Затем спрячьте несколько из них, пока ваш ребенок не смотрит. Когда ваш ребенок вернется, спросите, сколько предметов спрятано."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**Пример:** Предположим, у вас на столе 6 изюминок. Попросите вашего ребенка отвернуться и убурите 2 из них. Когда ваш ребенок обернется, укажите на 4 видимые изюминки и спросите, сколько изюминок под чашкой, если всего их 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "Размышления"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "Один из способов для вашего ребенка определить это — использовать метод \"досчета\" от 4 до 6. Ваш ребенок начнет с 0 поднятых пальцев и будет поднимать один палец за раз, чтобы в итоге получить 2 поднятых пальца. Аналогично, ваш ребенок может сделать почти то же самое, \"считая назад\" от 6 до 4. Понимание того, что 4 плюс 2 равно 6, связано с тем, что, убрав 2 из 6, получается 4. Это отличная практика для полного осваения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "ИГРА НА СООТВЕТСТВИЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr "Карточки с фигурами обладают 3-мя признаками: Фигура (круг, треугольник, квадрат); Количетсво (1, 2, 3); Цвет (красный, синий, черный)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**Подготовка:** Раздайте по пять карт каждому игроку. Остальные карты положите лицом вниз в колоду для добора. Игроки по очереди кладут карту на стопку - новая карта должна совпадать с двумя признаками предыдущей карты. Еслиу вас нету подходящей карты, возьмите карту из колоды для добора и закончите свой ход.\n"
+"\n"
+"**Условие победы:** Первый человек, который избавится от всех своих карт, выигрывает. Если колода для добора закончится, победителем становится игрок с наименьшим количеством карт на руках."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* Упростите игру, требуя совпадения только одного признака с предыдущей картой.\n"
+"* Разрешите игроку класть больше одной карты за ход, если каждая карта является законным продолжением предыдущей карты."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "ПАЗЛ НА СООТВЕТСТВИЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "Выберите карту. В нашем примере это карта с двумя синими кругами. Создайте последовательность из 4–8 карт, которые можно легально сыграть — каждая карта должна совпадать с двумя признаками с предыдущей картой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"Отделите начальную карту а остальные перемешайте для головоломки.\n"
+"\n"
+"**Цель:** Возьмите перемешанные карты и расположите их в последовательности допустимых ходов, начиная с начальной карты."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"**Подготовка:** Сделайте сетку для игры в крестики-нолики, достаточно большую, чтобы разместить карточку в каждой клетке. Разместите вокруг поля 8 карт с формами, у которых по два признака из каждой категории. Например, выберите 8 карт, которые являются либо треугольниками, либо квадратами, имеют одну или две фигуры и красные или синие.\n"
+"\n"
+"**Правила:** Игроки по очереди выбирают неиспользованную карту, которую их противник должен поместить на поле. Карты на поле могут быть использованы любым из игроков, чтобы получить три в ряд."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**Условие победы:** Побеждает игрок, который размещает первым три карты в ряд с хотя бы одним общим свойством! Если все карты сыграны, но победителя нет, игра заканчивается вничью."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "Упростите игру и добавьте элемент удачи, положив карты лицом вниз в колоду для добора."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "СУДОКУ ФИГУРНАЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "Фигурные Игры"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**Подготовка:** Используйте по четыре фишки каждого из четырех разных типов. Например, используйте разноцветные жевательные мишки. Мы использовали оранжевые треугольники, синие квадраты, красные круги и фиолетовые ромбы.\n"
+"\n"
+"**Организация:** Создайте головоломоку, начиная с решения - это будет узор из фишек, где в каждом ряду и столбце будет по одной фишке каждого типа, и по одной фишке каждого типа в каждом квадрате 2 на 2 в сетке. Когда у вас будет \"решение\", уберите некоторые фишки и поместите их в стопку сбоку.\n"
+"\n"
+"**Цель:** Дайте головоломку вашему ребенку, чтобы он разобрался, как вернуть фишки, которые были убраны."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "Состовление пазла:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "Вот несколько простых стратегий для создания головоломок: уберите одну фишку из каждого ряда; уберите все фишки одного типа и по одной фишке из остальных типов; или уберите один целый ряд и один целый столбец."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "ЛОВКОСТЬ РУК – СЛОЖЕНИЯ И ВЫЧИТАНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "Это фокус для практики сложения и вычитания. Выполняйте его достаточно медленно, чтобы ваш ребенок имел возможность понять, что происходит."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**Сложение:** Выберите два числа, которые в сумме дают 5 или меньше. Посчитайте количество поднятых пальцев на левой руке, допустим, 3. Теперь посчитайте количество поднятых пальцев на правой руке, допустим, 1. Сложите руки вместе и, волшебным образом, пальцы с правой руки переносятся на левую – теперь на левой руке поднято 4 пальца. Магия!\n"
+"\n"
+"В кратце 3 пальца плюс еще 1 палец получается 4 пальца. Та-да!\n"
+"\n"
+"**Для вычитания:** Поднимите несколько пальцев на левой руке, допустим, 4. Пусть правая рука \"заберет\" пальцы, скажем, 2 из них. Волшебным образом, на левой и правой руке останется по 2. Подведите итог, сказав, что 4 минус 2 даёт 2, или скажите, что вы разделили 4 на две части, которые составляют 2 и 2. Такое описание подчёркивает концепцию связей чисел, где пары чисел в сумме дают заданное количество."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "Важно"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* Сложение: Пусть на одной руке не будет поднятых пальцев, и покажите, что ничего не меняется при добавлении 0.\n"
+"* Вычитание: Вычитайте до нуля, чтобы не осталось ни одного пальца, и иногда вычитайте 0 пальцев, чтобы показать, что ничего не меняется."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "Математика На пальцах"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**На пальцах:** Покажите несколько пальцев на одной или обеих руках и пусть ваш ребенок определит общее количество."
 
 #. type=data_list
 msgctxt "data_list"
