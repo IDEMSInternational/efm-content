@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-13 22:15\n"
+"PO-Revision-Date: 2025-04-18 17:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2317,4 +2317,9 @@ msgstr ""
 "왼쪽은 고양이입니다.\n"
 "\n"
 "오른쪽은 개입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In my village lives Mister Kio. Mister Kio has a cat called Safi."
+msgstr "제 마을에는 기오씨가 살아요. 기오씨는 사피라는 고양이를 키운답니다."
 
