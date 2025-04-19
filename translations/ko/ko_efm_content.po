@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-19 12:34\n"
+"PO-Revision-Date: 2025-04-19 13:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -312,6 +312,742 @@ msgstr "여러분은 누군가에게 거짓말을 해본적이 있나요? 만약
 msgctxt "data_list"
 msgid "Count the number of difficult moments in Akadeli's day. All turned out well in the end. Life can be full of surprises!"
 msgstr "하루동안 아카델리에게 몇번의 위기가 왔는지 세어보세요. 그러나 결국엔 좋은 일이 일어났습니다. 이처럼, 삶은 놀라운 일들로 가득하답니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Long ago, in a town call Sunland, lived a girl with very long legs. Aku was her name."
+msgstr "옛날에 선랜드라는 마을에 매우 긴 다리를 가진 아쿠라는 이름의 소녀가 살았습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatched roof can help keep a house cool or warm. From the distance, those roofs look like triangles."
+msgstr "그림에는 초가지붕으로 된 세 개의 둥근 집이 있습니다. 초가지붕은 보통 살아있는 풀과 죽은 풀의 혼합으로 되어있습니다. 초가집은 집을 시원하게 그리고 따뜻하게 유지시켜줍니다. 멀리서 보면 그 지붕들은 삼각형같이 보입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some reasons why these houses with thatched roofs are round."
+msgstr "왜 초가집의 지붕은 둥근지 몇 가지 이유를 생각해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice Aku's face and the position of her arms. We can learn a lot about how someone is feeling by their body position. What do you think she is feeling?"
+msgstr "아쿠의 얼굴과 손의 위치를 보세요. 우리는 사람의 몸 동작으로 그들이 어떤 생각을 하고 있는지 알 수 있습니다. 여러분은 아쿠가 어떤 기분이라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Aku wondered about a lot of things.\n"
+"\n"
+"Sometimes Aku's father, Ataa Ankra, a fisherman, let her go to the river with him to fish in his canoe. While Aku fished with her father, she wondered why the sun always looked at her from the sky.\n"
+"\n"
+"Sometimes Aku helped her mother, A'anua, to cook. Aku wondered why palm oil looked red in calabash but yellow in yam pottage."
+msgstr ""
+"아쿠는 많은 것들을 궁금해 합니다.\n"
+"\n"
+"가끔 어부인 아쿠의 아버지, 아따 엔크라는 그의 카누에서 고기를 잡으러 아쿠를 강에 같이 데리고 갔습니다. 아쿠가 아빠와 같이 고기를 잡는 동안 아쿠는 왜 해는 하늘에서 아쿠의 머리 위에서 내려보고 있는지 궁금했습니다.\n"
+"\n"
+"아쿠는 가끔 엄마, 아누아가 음식을 만드는 것을 도와주었습니다. 아쿠는 왜 야자기름이 카바시에서는 빨간색이고 참마 포타주에는 노란색으로 보이는지 궁금했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being curious and asking questions is an important way we learn new things. What are some things you are curious about right now?"
+msgstr "어떤것에 궁금증을 가지고 질문을 하는 것은 우리가 새로운 것들을 배우는데 아주 중요한 것입니다. 여러분은 지금 무언가에 대해 궁금한것이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Aku feels a special connection to the sun. Some people feel a connection to the moon or a star. Do you notice things about the sun, such as where it is in the morning or evening?"
+msgstr "아쿠는 해와의 특별한 관계가 있다고 느낍니다. 어떤 사람들은 해나 별에 대해서 특별한 관계를 느낍니다. 여러분은 해의 아침과 저녁에 위치가 어떻게 바뀌는지 본 적이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One thing about the sun is what happens when it shines through rain. This creates a beautiful arc, which is part of a circle, in the sky. Can you name the colors of the rainbow?"
+msgstr "내리는 비 사이로 햇빛이 비칠때 해에게는 신기한 일이 생깁니다. 이때는 원형의 부분인 아름다운 호의 모양을 하늘에서 만듭니다. 여러분은 무지개의 색깔들을 말해 볼 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"And Aku wondered why Oti, her brother, and the other boys would not let her play football (soccer) with them. Once, Aku asked the boys why. They only laughed and told her to go and play with the girls.\n"
+"\n"
+"The girls too would not play with Aku. \"Your legs are too long,\" they always said.\n"
+"\n"
+"Aku was left lonely. She had no one to share her many thoughts with."
+msgstr ""
+"그리고 아쿠는 오빠, 오티아이와 남자아이들이 왜 그녀가 그들과 축구를 하지 못하게 하는지 궁금했습니다. 어느 하루는 아쿠가 남자아이들에게 물어보았습니다. 그들은 그냥 웃어 넘기며 아쿠에게 다른 여자아이들에게 가서 같이 놀라고 말했습니다.\n"
+"\n"
+"그렇지만 여자아이들도 아쿠와 놀지 않았습니다. “너의 다리는 너무 길어.\" 여자아이들은 말했습니다.\n"
+"\n"
+"아쿠는 외로워졌습니다. 아쿠에게는 아무도 자신의 생각을 같이 나눌 수 있는 사람이 없었습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is football (soccer) a game that only boys can play? Are there any sports that only boys or only girls can play?"
+msgstr "축구는 여자아이들만이 할 수 있는 놀이입니까? 남자아이들만 혹은 여자아이들만이 할 수 있는 운동경기가 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at matching colors in the clothes in this picture. Are there any colors that don't have a match?"
+msgstr "그림에서 같은 색깔의 옷을 맞춰보세요? 아무것과도 맞지 않는 색깔이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many time people get excluded from a group because there are different in some way. Did you ever see someone excluded like this? It's a mean thing to do!"
+msgstr "사람들은 종종 그들이 다른 사람들과 다르다는 이유로 그룹에서 예외되는 경우가 있습니다. 여러분은 어떤 사람이 따돌림을 당하는것을 본 적이 있나요? 그것은 정말 심술궂은 일입니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"But Aku soon became friends with the sun.\n"
+"\n"
+"She looked forward to seeing the sun every morning when she woke up. The cocks crowed to announce sunrise. Aku loved to dance in the early morning sun, her shadow dancing with her. The tweeting of birds made the cock crow music sweeter.\n"
+"\n"
+"Then sun filled Aku with happiness. The sun made Aku smile a lot."
+msgstr ""
+"그런데 아쿠는 해와 곧 친구가 되었습니다.\n"
+"\n"
+"아쿠는 매일 아침 일어나면 해를 만나는 것을 기대했습니다. 수탉은 해가 뜬 것을 알려주기 위해 아침마다 울었습니다. 아쿠는 이른 아침 햇빛과 함께 춤을 추는 것을 좋아했습니다. 아쿠의 그림자도 아쿠와 함께 춤을 추었습니다. 새들의 지저귀는 소리는 수탉의 우는 소리를 더욱 달콤하게 했습니다.\n"
+"\n"
+"그러면 해는 아쿠에게 행복을 담아주었습니다. 해는 아쿠를 자주 미소짓게 했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Birds often chirp and roosters crow right before the sun rises. Have you noticed special morning sounds when you wake up early?"
+msgstr "해가 떠오르기 전에 종종 새는 지저귀고 수탉이 웁니다. 여러분은 아침 일찍 잠에서 깨어나면 특별한 아침의 소리를 들어본 적이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the shadows that the sun makes on this page and many of the other pages."
+msgstr "여기 그림과 다른 장에서 해가 만들어내는 그림자를 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sun creates longer shadows in the morning and late afternoon, and very short shadows at midday. Have you played with your own shadow as it copies you and follows you?"
+msgstr "해는 아침과 늦은 오후에는 더 긴 그림자를 만들고 정오에는 아주 짧은 그림자를 만듭니다. 여러분은 여러분을 따라다니는 그림자와 놀아 본 적이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"But one day, the sun did not rise. Aku waited for the cocks to crow. They did not. The birds too did not tweet.\n"
+"\n"
+"And without the sun in Sunland, people could not go about their daily activities. Farmers could not go to tend their crops. And the sky was grey and sad. Ataa Ankra could not go fishing. Children too could not prepare for school. And women could not go to the market to haggle over the prices of soap and kerosene.\n"
+"\n"
+"Aku missed all these. She missed the cock crows and bird tweets too. And she missed the sunrise more."
+msgstr ""
+"그런데 어느 날, 해가 뜨지 않았습니다. 아쿠는 수탉이 울때를 기다리고 있었습니다. 그렇지만 아무 소리도 들리지 않았습니다. 새 또한 지저귀지 않았습니다.\n"
+"\n"
+"그리고 해가 없는 선랜드에서 사람들은 그들의 하루 일상을 시작할 수 없었습니다. 농부들은 그들의 곡물들을 돌볼수가 없었습니다. 그리고 하늘은 어둑어둑하며 슬펐습니다. 아쿠의 아버지는 고기를 잡으러 갈 수가 없었습니다. 아이들도 학교에 갈 준비를 할 수가 없었습니다. 그리고 아주머니들도 가게에 가서 비누와 둥유의 가격을 흥정할수 없었습니다.\n"
+"\n"
+"아쿠는 그 모든것이 그리웠습니다. 아쿠는 수탉이 우는 것과 새가 지저귀는 것이 그리웠습니다. 그리고 아쿠는 해가 뜨는것이 더욱 그리웠습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides, like this page. How many rectangles can you find in this picture?"
+msgstr "사각형은 그림에서와 같이 네 개의 똑바른 면을 가지고 있는 도형입니다. 그림에서 여러분은 몇 개의 사각형을 찾을 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If it is dark when you get up, what kinds of things can you do without the sun in the sky?"
+msgstr "만약에 여러분이 아침에 일어났을때 하늘에 해가 뜨지 않아서 밖이 어둡다면 여러분은 어떤 것들을 할 수있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you didn't see the sun one dark morning, what would you think?"
+msgstr "여러분이 어두운 아침에 해를 볼 수 없다면 어떤 생각이 드나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Everyone wanted to know where the sun went. \"Maybe the sun is dead,\" some people said. \"The sun has travelled,\" said others.\n"
+"\n"
+"Aku disagreed, \"No, the sun is not dead. And the sun has not travelled. Or it would have first told me.\"\n"
+"\n"
+"Some people chuckled at what Aku said. She continued anyway, \"I tell the truth. The sun is my friend. The sun is not dead. It is only —\". But no one would hear anymore. Everyone forgot about the sun. They laughed hard at Aku. The children laughed too. The children's laughter pained Aku the most."
+msgstr ""
+"모든 사람들은 해가 어디로 갔는지 알고 싶었습니다. “아마 해는 죽었을거야.\" 어떤 사람들은 말했습니다. “해가 여행을 갔을거야.\" 또 어떤 사람들은 말했습니다.\n"
+"\n"
+"“아니야, 해는 죽지 않았어. 그리고 해는 아무데도 가지 않았어. 만약 그랬다면 해는 나한테 먼저 말했을거야.\" 아쿠는 그들과 동의하지 않았습니다.\n"
+"\n"
+"몇 사람들은 아쿠가 하는 말에 낄낄 걸렸습니다. 그렇지만 아쿠는 계속 얘기하였습니다. “진짜야. 해는 나의 친구야. 해는 죽지 않았어. 다만 —\". 그렇지만 아무도 더이상 듣지 않았습니다. 모든 사람들은 해에 대해 잊어 버렸습니다. 그들은 아쿠를 크게 비웃었습니다. 아이들도 마찬가지였습니다. 아이들의 비웃음이 아쿠에게는 가장 힘들었습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are 6 children in this picture. How many of their limbs (arms and legs) can you see?"
+msgstr "그림에는 여섯명의 아이들이 있습니다. 몇 개의 팔과 다리를 볼 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count by 4's six times to count how many limbs these 6 children have. You can also skip count by 6's four times to get this same number. Why does that work?"
+msgstr "4 단위로 건너뛰어 세기를 여섯 번 반복해 여섯명의 아이들의 팔다리를 세어 보세요. 여러분은 6 단위로 건너뛰어 세기를 네 번 반복해도 같은 합계를 가질 수 있습니다. 왜 그럴까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many more limbs do they have than the number you can see?"
+msgstr "여러분이 건너뛰어 세어본 숫자는 그림에서 볼 수 있는 팔 다리보다 얼마나 더 많나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Sad like the sky, Aku hastened into her house.\n"
+"\n"
+"On the way, she accidentally kicked her brother's football. The ball rolled into the kitchen. There was a calabash of palm oil in a corner of the kitchen. The ball hit the calabash. The calabash was toppled.\n"
+"\n"
+"The palm oil on it spilled. The palm oil soiled the ball."
+msgstr ""
+"슬픈 하늘처럼 아쿠는 집안으로 황급히 들어갔습니다.\n"
+"\n"
+"들어가면서 아쿠는 오빠의 축구공을 실수로 찼습니다. 공은 부엌으로 굴러갔습니다. 부엌 한 구석에는 야자기름이 담긴 카바시가 있었습니다. 공은 카바시를 쳤습니다. 그리고 카바시가 엎질러졌습니다.\n"
+"\n"
+"야자기름이 쏟아졌습니다. 야자기름은 공을 더럽혔습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think Aku's brother will do when he sees that his ball has oil all over it?"
+msgstr "여러분은 아쿠의 오빠가 야자기름이 묻어 더러워진 공을 보면 어떻게 할 거라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The calabash is the bowl that was holding the oil. How did all that oil fit in that calabash?"
+msgstr "카바시는 기름을 담은 그릇입니다. 어떻게 그 많은 기름이 카바시에 들어갈수가 있을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you ever spill a small glass of water or milk and watch it spread out on the floor? A little bit can cover a lot of floor!"
+msgstr "여러분은 물이나 우유가 든 컵을 바닥에 엎지른 적이 있나요? 조그만 양의 물이나 우유는 바닥에 많이 엎질러 질수 있습니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n"
+"\n"
+"Before he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n"
+"\n"
+"Oti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball."
+msgstr ""
+"오빠, 오티아이가 친구와 함께 공을 가지러 집 안으로 들어왔습니다. 오빠는 야자기름이 엎지러진 카바시를 보았습니다. 더러워진 축구공도 보았습니다.\n"
+"\n"
+"오빠가 엄마에게 달려가 아쿠가 한 짓을 말하기 전에 아쿠는 공을 집어들고 달아났습니다. 남자아이들은 아쿠의 뒤를 따랐습니다. 그들 모두 아쿠의 엄마를 집 밖에서 만났습니다. 엄마는 아쿠가 공을 들고 있는 것을 보았습니다. 아쿠의 엄마가 아쿠를 불러 꾸짖기도 전에 아쿠는 엄마를 지나 달려갔습니다.\n"
+"\n"
+"오빠, 엄마 그리고 선랜드의 모든 사람들은 아쿠가 달아나는 것을 쳐다보았습니다. 그들은 아쿠가 더러워진 공을 가지고 무엇을 할 것인지 궁금했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many ten-year olds can run a mile in ten minutes. Aku is extra fast. How many minutes do you think it takes her to run a mile? 2 minutes? 5 minutes? 8 minutes?"
+msgstr "많은 10살의 아이들은 10분에 1.6 킬로미터를 달릴수 있습니다. 아쿠는 그보다 더 빨리 달릴수 있습니다. 여러분은 아쿠가 1.6 킬로미터를 몇 분만에 달릴 수 있다고 생각하나요? 2분? 5분? 8분?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What about Aku allows her to run so fast?"
+msgstr "아쿠는 어떻게 그렇게 빨리 달릴 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sun is gone, people are laughing at Aku, and Aku has a dirty ball. How do you think the story will resolve all these problems?"
+msgstr "해는 사라지고 사람들은 아쿠를 비웃고 아쿠는 더러워진 공을 가지고 있습니다. 여러분은 이 모든 문제들이 이야기에서 어떻게 풀릴거라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Aku stopped when she got to the middle of the town square. She put the ball on the ground.\n"
+"\n"
+"With a mighty swing of her hands and a swift pull of one long leg behind the other, Aku kicked the ball. The ball turned round on the ground, spinning towards the edge of the town square. It hit the roots of the palm tree at one end of the town square."
+msgstr ""
+"아쿠는 마을 광장 한가운데에 와서 멈췄습니다. 아쿠는 공을 땅에 놓았습니다.\n"
+"\n"
+"팔을 힘껏 휘두르고 긴 한 발을 뒤로 재빨리 당기며 아쿠는 공을 찼습니다. 공은 땅에서 회전하며 마을 광장의 끝으로 향했습니다. 공은 마을 광장 끝에 있는 야자나무의 뿌리에 부딪쳤습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What in the picture tells you that the ball is flying fast?"
+msgstr "그림에서 여러분은 공이 빨리 날아가는것을 어떻게 알 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is the path of the ball curved instead of straight?"
+msgstr "왜 공은 직선이 아닌 곡선으로 날아갔을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Aku need to swing her hands to kick the ball hard? Notice how many other parts of your body are involved with action of just one part."
+msgstr "왜 아쿠는 공을 힘차게 차기위해 양팔을 휘둘렀을까요? 신체의 한 부분의 동작을 위해 얼마나 많은 다른 곳의 신체부분이 같이 움직이는지 보이나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball shot into the sad sky. With mouths opened wide, the people of Sunland gazed after the flying ball. The ball flew beyond the clouds, beyond the gaze of the eyes.\n"
+"\n"
+"Everything was still. All was quiet.\n"
+"\n"
+"Suddenly, the sky cleared. The clouds became white, round and fluffy. Then a big ball came from behind the clouds. The ball was bright. And it was red and yellow like palm oil. The ball was the sun. Aku's sun.\n"
+"\n"
+"Everything stirred. The quietness left."
+msgstr ""
+"공은 슬픈 하늘로 날아 올라갔습니다. 선랜드 사람들은 입을 다물지 못하며 날아가는 공을 바라보았습니다. 공은 구름 너머로 사람들의 시선밖으로 날아갔습니다.\n"
+"\n"
+"모든 것이 멈추었습니다. 모든 것이 조용했습니다.\n"
+"\n"
+"갑자기 하늘이 밝아졌습니다. 구름은 하얗게 변하고 둥그렇게 부풀어 올랐습니다. 그리고 나서 공은 구름 너머로부터 나왔습니다. 공은 빛났습니다. 그리고 공은 야자 기름과 같이 빨갛고 노란색이었습니다. 공은 해가 되었습니다. 아쿠의 해!\n"
+"\n"
+"모든것들이 꿈틀거렸습니다. 고요함은 사라졌습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different colors of clothes do you see here? Which colors of the rainbow are missing?"
+msgstr "여러분은 몇 가지 다른 색깔의 옷이 보이나요? 무지개에서 어떤 색이 빠졌나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do the colors of the clothes you are wearing match any of these clothes?"
+msgstr "여러분이 입고 있는 옷 색깔은 그림에서 보이는 색과 같은 색이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding what is the same and what is different is an important way we understand the things in our world."
+msgstr "사물에 대해 같은점과 다른점을 찾아보는 것은 세상을 이해하는데 중요한 방법이 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Soon, everyone was rushing home to prepare for their daily activities.\n"
+"\n"
+"Ataa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market."
+msgstr ""
+"곧바로 모든 사람들은 집으로 서둘러 가서 그들의 하루 일과를 준비하였습니다.\n"
+"\n"
+"아쿠의 아버지는 그의 물고기 물통을 찾았습니다. 농부들은 그들의 괭이를 들었습니다. 아이들은 몸을 씻고 학교에 갈 준비를 했습니다. 아주머니들은 그들의 겉옷 끝에 돈을 묶었습니다. 아주머니들은 대야와 물통을 들고 시장으로 서둘러 갔습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is dangerous to look at the sun, but we can still notice its changes. Depending on the weather and the time of day, the sun can look glowing yellow, hot white, orange, and even brown."
+msgstr "해를 쳐다보는 것은 위험한 일이지만 우리는 여전히 해가 변하는 것을 알 수 있습니다. 날씨와 시간에 따라 해는 빛나는 노란색이나 뜨거운 하얀색, 주황색, 그리고 갈색으로도 보입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you do during the day that you can't do at night?"
+msgstr "여러분은 밤에는 할 수 없지만 낮에는 할수 있는 일이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentioned farmers working, people going to market, and children going to school. What other adult things only happen when the sun is out?"
+msgstr "이야기는 농부가 일을 나가고 사람들이 시장에 가며 아이들이 학교에 가는 것을 얘기합니다. 해가 있을때 어른들이 할 수있는 다른 어떤것들이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sun returned to Sunland. Aku made it. A new day began ..."
+msgstr "해는 선랜드로 돌아왔습니다. 아쿠가 그것을 가능하게 했습니다. 새로운 날이 시작했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Aku kick the ball into the sky? Did she do it to make the sun come out, or did she do it for some other reason?"
+msgstr "왜 아쿠는 공을 하늘을 향해 찼나요? 아쿠는 해가 나오게 하기 위해 그렇게 했을까요 아니면 다른 이유가 있었을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sun was Aku's only friend. She paid the sun a lot of attention, and the sun stayed with her without making fun of her long legs. Which things do you think make friendships work?"
+msgstr "해는 아쿠의 유일한 친구였습니다. 아쿠는 해에게 많은 관심을 주었고 해는 아쿠의 긴 다리를 놀리지 않고 아쿠옆에 있었습니다. 여러분은 친구와의 우정이 지속되기 위해 무엇을 하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes, when some experience bothers two friends, it can get between them so they can't see each other. Has that happened to you with one of your friends? Did you find a way to fix things?"
+msgstr "가끔 두 친구사이에 무언가 언짢은 일이 생기고 그것이 두 사이를 분열시킵니다. 여러분과 여러분의 친구사이에 그런적이 있었나요? 여러분은 그것을 해결할 방법은 찾았나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Once upon a time on a little farm near a little village."
+msgstr "아주 옛날에 작은 마을 가까이에 있는 조그마한 농장이 있었습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Farms can grow crops and raise animals, such as chickens. What are some things on a farm that you are curious about?"
+msgstr "농장은 농작물을 기를수 있고 닭과 같은 동물을 키울수 있습니다. 여러분은 농장에 대해 어떤것이 궁금한가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are some groups of three things here. What do you see?"
+msgstr "여기에는 3가지로 쌍을 이루는 몇 가지 그룹이 있습니다. 여러분은 무엇이 보이나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the different things these chickens are doing?"
+msgstr "여기 있는 닭은 무엇을 하고 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There lived a little chicken called Daisy."
+msgstr "농장에는 데이지라고 불리는 병아리가 살았습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the claws that Daisy has on each leg and all together."
+msgstr "데이지의 발에 있는 갈고리 발톱을 세어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy's claws spread out to help her balance. How long can you balance on one leg?"
+msgstr "데이지의 갈고리 발톱은 데이지가 중심을 잡을 수 있게 쫙 펴져 있습니다. 여러분은 얼마나 오랫동안 한 발로 서서 중심을 잡을 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you balance on one leg long enough to count to five? To ten?"
+msgstr "여러분은 다섯까지 셀 동안 한 발로 서 있을수 있나요? 아니면 십까지 셀 동안 서 있을수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"When I grow up, I want to fly high, high into the sky,\" Daisy said."
+msgstr "“내가 크면 난 하늘로 멀리 멀리 날아가고 싶어.\" 데이지가 말했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the circles on their faces. Don't forget to count the pupils in the middle of the eyes."
+msgstr "병아리들의 얼굴에 있는 모든 원형을 세어보세요. 눈안에 있는 눈동자도 잊지말고 세어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that the other chickens are not as happy as Daisy?"
+msgstr "여러분은 다른 병아리들은 데이지만큼 행복하지 않는걸 어떻게 알 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are these other chicken's thinking?"
+msgstr "다른 병아리들은 무슨 생각을 하고 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But all the other chickens laughed at her."
+msgstr "그렇지만 모든 병아리들은 데이지를 비웃었습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their eyes are now closed. We close our eyes when we are asleep and at other times. Why are these chicken's eyes closed?"
+msgstr "병아리들의 눈은 감겨져 있습니다. 우리들은 잠을 잘때나 무언가를 할때 눈을 감습니다. 왜 이 병아리들의 눈은 감겨 있을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people laugh AT other people, and sometimes they laugh WITH other people. What is the difference?"
+msgstr "어떤 때에 사람들은 다른 사람을 비웃을때가 있고 어떤 때에 사람들은 다른 사람들과 함께 웃을때가 있습니다. 무엇이 다른가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the shape of the big cloud looks like their mouths?"
+msgstr "여러분은 큰 구름이 두 병아리의 입 모양과 비슷하다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"You are so weird,\" they said. \"We won't play with you anymore.\""
+msgstr "“넌 정말 이상하구나!\" 다른 병아리들이 말했습니다. “우린 너와 더 이상 놀지 않을거야.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now that their mouths have changed, do you think the cloud changed shape too?"
+msgstr "이제 병아리들의 입 모양이 달라졌습니다. 여러분은 구름의 모양도 바뀌었다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you use your mouth to copy the shape of each chicken's mouth? Can you guess and copy the sound each chicken is making?"
+msgstr "여러분은 각 병아리들의 입모양을 따라 해 볼수 있나요? 여러분은 각 병아리가 만들어 내는 소리를 생각해 보고 따라해 볼수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are they calling Daisy a mean name?"
+msgstr "왜 다른 병아리들은 데이지에게 심술궂게 대한다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Daisy, we can all flap our wings, but it's very difficult for chickens to fly,\" Mama told her."
+msgstr "“데이지, 우리는 날개를 펄럭거릴수는 있지만 나는것은 정말 어려운 것이란다.\" 엄마 닭이 데이지에게 말했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discuss what is similar about Daisy and her mother, and how they look different from the other chickens."
+msgstr "데이지와 데이지 엄마의 무엇이 비슷하고 무엇이 다른 닭과 다른지 서로 얘기해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Daisy's mother doing to help Daisy feel better?"
+msgstr "데이지의 엄마는 데이지의 기분이 나아지게 하기 위해 무엇을 하고 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes we feel better when someone pats us or holds our hand. Have you ever tried to help a friend feel better with a friendly touch?"
+msgstr "가끔 우리는 다른사람이 등을 두드려 주거나 손을 잡아 주면 기분이 나아집니다. 여러분은 친구의 기분이 나아지게 하기 위해 안아주거나 손을 잡아 준 적이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy wouldn't give up. Every day she practiced by herself, flapping her wings. Flap, flap, flap, she would flap her wings but she couldn't lift off the ground."
+msgstr "데이지는 포기하지 않았습니다. 데이지는 매일 날개를 펄럭이며 혼자 연습을 했습니다. 펄럭, 펄럭, 펄럭, 데이지는 날개를 펄럭거려 보지만 땅에서 조금도 떠오르지 않았습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So far, this is a sad story for Daisy. Make up your own ending. Is it a happy or sad ending?"
+msgstr "여기까지는 데이지에게는 슬픈 이야기입니다. 여러분만의 이야기 끝을 만들어 보세요. 행복하게 끝나나요 아니면 슬프게 끝나나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Daisy too heavy to fly? Think of something that is as heavy as Daisy looks. Do you think that thing is too heavy to fly?"
+msgstr "데이지가 날아가기에는 너무 무거운가요? 데이지만큼 무거운 것들을 생각해 보세요. 여러분은 그것들도 날아가기에는 너무 무겁다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides and corners like the corners of this page. Although they are slanted, find and point to the many rectangles on this page."
+msgstr "사각형은 네 면이 똑바른 면을 가지고 있고 이 페이지의 모서리와 같은 도형입니다. 비록 기울어져 있지만 그림에서 사각형을 모두 찾아보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "While she practiced, she imagined herself flying high into the sky and looking at the chickens below. She imagined herself flying past the sparrows and past the swallows. \"Wow!\" The birds would say, \"A chicken that can fly!\""
+msgstr "데이지는 연습을 하는 동안 자신이 하늘 높이 날아올라서 땅에 있는 닭들을 내려다 보는 상상을 해 봅니다. 데이지는 참새와 제비를 지나치며 날라가는 자신을 상상해 봅니다. “와! 저 닭은 날수 있네!” 새들은 그렇게 말할것입니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the birds in this picture. Don't forget the ones on the ground."
+msgstr "그림에 있는 모든 새들을 세어보세요. 땅에 있는 새도 잊지마세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What effect is caused by having some of the birds drawn so small?"
+msgstr "몇 마리의 새를 아주 작게 그리면 어떤 효과가 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe a memory of looking at something big that was far away and looked tiny."
+msgstr "멀리서 보면 큰 것들이 아주 작게 보였던 기억이 있으면 말해보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So flap, flap, flap, every day Daisy would flap her wings."
+msgstr "그래서 데이지는 매일 펄럭, 펄럭, 펄럭 자신의 날개를 펄럭였습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the little lines coming from Daisy showing her squawking."
+msgstr "데이지가 꽥꽥거릴때 나오는 작은 선들을 같이 세어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy has too many red speckles to count, but you can count together the groups of speckles all over her body."
+msgstr "데이지는 하나씩 세기에는 너무 많은 빨간 얼룩을 가지고 있지만 여러분은 몸에 있는 빨간 얼룩을 하나로 묶어 셀 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy looks surprised. What do you think will happen next?"
+msgstr "데이지가 놀라워 하는 표정입니다. 여러분은 다음에 무슨 일이 일어날 것이라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She would lift off the ground but fall down again."
+msgstr "데이지는 땅에서 떠올랐지만 다시 떨어집니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How high do you think she got? A grownup is often 5 to 6 feet tall -- do you think she got that high?"
+msgstr "여러분은 데이지가 얼만큼 높이 올라갔다고 생각하나요? 어른들의 키는 보통 150-180 센티미터의 키를 가지고 있습니다. 여러분은 데이지가 그렇게 높이 올라갔다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many lines are there above her and below her? When you combine them, how many are there in all?"
+msgstr "데이지의 위 아래에는 몇 개의 선들이 있나요? 그 선들을 합치면 모두 몇 개인가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do the lines below her show?"
+msgstr "데이지 밑에 있는 선은 무엇을 보여주고 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"I'm never going to fly!\" Daisy cried to Mama. \"The others are right.\""
+msgstr "“난 절대 날지 못할거에요!\" 데이지가 엄마 닭에게 울먹였습니다. “다른 병아리들이 한 말이 맞아요.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some times when you got discouraged like Daisy."
+msgstr "여러분이 데이지처럼 무언가에 실망했을때가 있었는지 말해보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy is trying the same thing over and over. Is she showing strong will or is she being stubbornly foolish?"
+msgstr "데이지는 같은 일을 계속 반복해서 해 봅니다. 데이지는 의지가 강한걸까요 아니면 바보처럼 고집이 센 걸까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What new ideas might Daisy try to figure out how to fly?"
+msgstr "데이지가 날 수 있는 새로운 방법이 있을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Daisy, you are different from the other chickens. They don't want to fly but you do! You can do it.\" Mama said."
+msgstr "“데이지야, 넌 다른 병아리들과는 다르단다. 그들은 날기를 원치 않지만 너는 날고 싶어하잖니! 넌 할 수 있어.\" 엄마 닭이 말했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from Daisy's face that she is getting a new idea?"
+msgstr "데이지의 얼굴에서 데이지가 다른 방법을 생각해 낸 것을 어떻게 알 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of a problem you solved by coming up with a new way to do it after the old way kept failing."
+msgstr "여러분은 그 전의 방법으로 실패한것을 새로운 방법을 생각해내어 문제을 풀어본 적이 있는지 생각해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy's body is made up of pairs of things, such as her eyes, and single things, such as her tail. Name all the pairs you can and then all the singles you can."
+msgstr "데이지의 몸은 눈과 같이 짝으로 된 것들과 꼬리와 같이 하나로 되어 있습니다. 짝으로 된 것들과 하나로 되어 있는 것들을 세어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The following day Daisy climbed to the top of the chicken coop and flap, flap, flap, she flapped her wings. She flew into the air and flapped her wings and flapped her wings and flapped her wings and ..."
+msgstr "다음날 데이지는 닭장위로 올라가 날개를 펄럭, 펄럭, 펄럭, 펄럭였습니다. 데이지는 공중으로 날아가 계속 날개를 펄럭였습니다. 펄럭, 펄럭, 펄럭..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are lots of straight lines here. Some are vertical -- they go up and down. Some are horizontal -- they go side to side. Find some vertical and horizontal lines where you are."
+msgstr "그림에는 많은 똑바른 선들이 있습니다. 어떤것들은 위 아래로 된 수직선입니다. 어떤것들은 양 옆으로 된 평행선입니다. 여러분이 있는 곳에서 수직선과 평행선을 찾아보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do the curved lines next to Daisy's body indicate?"
+msgstr "데이지의 몸 옆에 있는 곡선은 무엇을 말해 주나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy's face is very expressive. What does her face show this time?"
+msgstr "데이지의 얼굴에는 표정이 풍부합니다. 데이지의 얼굴은 무엇을 말해 주고 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAM!"
+msgstr "꽈당!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is Daisy feeling right now?"
+msgstr "데이지는 지금 기분이 어떤가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the other chicken doing?"
+msgstr "다른 닭은 무엇을 하고 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A kind and thoughtful chicken might go over and console and cheer Daisy up. Why isn't this chicken doing that?"
+msgstr "착하고 생각이 깊은 닭은 데이지를 위로하고 기운을 북돋아 해주기 위해 다가갈 것입니다. 왜 이 병아리는 그렇게 하지 않을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The other chickens laughed out loud. \"Ha ha ha! We told you! Chickens can't fly!\""
+msgstr "다른 닭들은 크게 웃었습니다. “하하하! 우리가 말했잖아! 닭은 날 수가 없어!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There is one thick vertical line in this picture. Do you see any other vertical or horizontal lines?"
+msgstr "그림에는 두꺼운 수직선이 있습니다. 여러분은 다른 수직선과 평행선을 볼 수가 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the laughing chicken walking or running? How can you tell?"
+msgstr "웃고 있는 닭은 걷고 있나요 아니면 달리고 있나요? 어떻게 알 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Daisy will give up after this bad fall? When you have a failure, is it hard for you to keep trying?"
+msgstr "여러분은 데이지가 떨어지고나서 포기할 거라고 생각하나요? 무엇가를 실패하고 나면 계속 노력해 보는 것이 어렵나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But the next day Daisy climbed even higher, right up to the top of the hut. Flap, flap, flap, Daisy flapped her wings."
+msgstr "그렇지만 다음날 데이지는 집 위로 더 높이 올라갔습니다. 펄럭, 펄럭, 펄럭 데이지는 날개를 펄럭였습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy is determined. Can you think of a time when you kept trying even after several failures?"
+msgstr "데이지는 단호합니다. 여러분은 여러번 실패하고 나서도 계속해서 노력해 보았던 적이 있었나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy is trying to solve her problem. What have been some of her new ideas for this problem?"
+msgstr "데이지는 자신의 문제를 해결하려고 노력하고 있습니다. 문제에 대한 데이지의 새로운 방법은 무엇인가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did they show Daisy twice in this picture? Why does Daisy look big and the other chickens look so small?"
+msgstr "왜 그림에서 데이지를 두 번이나 보여주었을까요? 왜 한 쪽의 데이지는 크게 보이고 다른 쪽의 데이지는 작게 보일까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She flew into the air and flapped her wings and flapped her wings and flapped her wings and ..."
+msgstr "데이지는 공중에 날아올라 날개를 계속 펄럭였습니다. 펄럭, 펄럭, 펄럭..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At last, Daisy is successful! How does that make you feel? It feels good to share the successes of others."
+msgstr "마침내 데이지는 성공했습니다! 여러분은 어떤 기분인가요? 다른사람과 자신의 성공을 같이 나누는것은 정말 기분 좋은 일입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from the drawing that she is flying upward?"
+msgstr "여러분은 데이지가 위로 날라 오르고 있는 것을 그림에서 어떻게 알 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the movement lines drawn around her body. How are the movement lines in this picture different from the ones on the last page?"
+msgstr "데이지 몸 주위에 움직이는 것을 보여주는 선을 보세요. 그림에서 보이는 선은 앞 장에서 보았던 선들과 무엇이 다른가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She kept flying! The wind beneath her wings grew stronger and she flew higher and higher! The sparrows and the swallows said, \"Amazing! A flying chicken!\""
+msgstr "데이지는 계속 날고 있습니다! 데이지의 날개는 점점 강해지고 더 높이 날아가고 있습니다! “대단하다! 날아다니는 저 닭을 봐!\" 참새와 제비는 말했습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does Daisy's flying body look different from the other birds in the sky?"
+msgstr "데이지의 날으는 몸은 하늘에 있는 다른 새들과 무엇이 다른가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is Daisy feeling now that all of her hard work has paid off?"
+msgstr "모든 노력이 결실을 맺은 데이지의 기분은 어떨까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the other chickens thinking now?"
+msgstr "다른 닭들은 지금 어떤 생각을 하고 있을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And the other chickens wanted to be just like her."
+msgstr "그리고 다른 닭들도 데이지와 같이 날고 싶었습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use your arms to copy the positions of the wings of these chickens."
+msgstr "여러분의 팔을 여기에 있는 닭의 자세와 같이 따라해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are these chickens feeling now that Daisy is successful?"
+msgstr "데이지가 성공하고 난 후에 다른 닭들은 어떤 기분일까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the other chickens will learn to fly someday?"
+msgstr "여러분은 다른 닭들도 언젠가는 날 수 있을거라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They said, \"Oh Daisy, you're amazing!\""
+msgstr "“와! 데이지, 넌 참 대단하다!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What happens next in Daisy's story after this book?"
+msgstr "이 책 이후로 데이지의 이야기는 어떻게 될거라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever wished that you could fly?"
+msgstr "여러분도 하늘을 날 수 있게 바래 본 적이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where would you go if you could fly? What would you like to look at if you could get way up in the sky above it?"
+msgstr "여러분이 날 수 있다면 어디로 가고 싶은가요? 하늘 높이 날아갈 수 있다면 여러분은 무엇을 보고 싶나요?"
 
 #. type=data_list
 msgctxt "data_list"
