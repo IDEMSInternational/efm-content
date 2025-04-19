@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-19 04:03\n"
+"PO-Revision-Date: 2025-04-19 05:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3733,6 +3733,11 @@ msgstr "이야기는 7까지 세기와 단어와의 관계, 그리고 도형이 
 msgctxt "data_list"
 msgid "Where Is My Cat?"
 msgstr "나의 고양이는 어디에 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
+msgstr "이야기는 5까지 세기, 단어와의 관계, 색깔. 연습 단어: 5까지의 숫자, 밑, 위에, 뒤, 옆, 안쪽, 바깥쪽, 색깔, 똑바른, 그리고 곡진."
 
 #. type=data_list
 msgctxt "data_list"
