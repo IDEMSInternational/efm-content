@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-20 05:03\n"
+"PO-Revision-Date: 2025-04-20 18:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8859,6 +8859,86 @@ msgstr "여러분은 친구와의 우정이 깨지게 된 일이 있었나요?"
 msgctxt "data_list"
 msgid "Do you think Tortoise and Hyena will return to being friends someday?"
 msgstr "여러분은 거북이와 하이에나가 언젠가 다시 친구가 될거라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I wonder if there's another me somewhere in the world."
+msgstr "난 세상 어디에 또 다른 내가 있는지 궁금해."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think -- is there another animal just like this one somewhere in the world?"
+msgstr "여러분은 어떻게 생각하세요 - 세상 어디에 우리 주인공과 같은 다른 동물이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think there's another person just like you?"
+msgstr "여러분은 여러분과 똑같은 다른 사람이 있다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five trees in this picture. If you take away the one by itself on one side, how many trees are there on the other side? What is one less than five?"
+msgstr "그림에는 다섯 개의 나무가 있습니다. 여러분이 그 중에 하나를 한쪽으로 가져 간다면 다른 쪽에는 몇 개의 나무들이 남아있나요? 5보다 하나 더 적은 숫자는 무엇인가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who looks the same."
+msgstr "나와 똑같이 생기고."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you look in a mirror or in water, the image is almost the same as how you look. How is it different and how is it the same?"
+msgstr "여러분이 거울이나 물을 보면 여러분의 모습과 거의 같습니다. 어떤것이 다르고 어떤것이 같나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Something that has one side that is the mirror image of the other side is called symmetric, or even mirror symmetric. Do you see some things around you that are symmetric?"
+msgstr "한 쪽의 모습이 다른 쪽의 모습과 거울을 보는 것처럼 같은 모습을 하면 대칭이라고 부릅니다. 여러분 주변에서 대칭인것을 볼수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People's faces are very close to being symmetric. Do you notice anything on one side of your face that is a little different than the other side? Perhaps your hair?"
+msgstr "사람들의 얼굴은 거의 대칭인 경우가 많습니다. 여러분은 한쪽 얼굴이 다른쪽과 조금 다른것을 발견할수록 있나요? 아마도 여러분의 머리카락인가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And talks the same."
+msgstr "그리고 나와 똑같이 얘기하고."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This animal is listening to its echo across a canyon. Have you heard an echo of your voice?"
+msgstr "여기의 동물은 깊은 협곡너머 들리는 메아리를 듣고 있습니다. 여러분은 자신의 목소리의 메아리를 들은적이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An echo for your voice is like looking in a mirror for your image. Does an echo sound exactly like you, or can you tell the difference?"
+msgstr "여러분 목소리의 메아리는 거울에 비친 여러분의 모습과 비슷합니다. 메아리는 여러분과 똑같나요 아니면 다른점이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hearing an echo is similar to hearing a recording of your voice. Do you think recordings of your voice sound like what you hear in your head when you talk?"
+msgstr "메아리를 듣는 것은 여러분의 목소리를 녹음해서 듣는 것과 비슷합니다. 여러분의 녹음한 목소리는 여러분이 얘기할때 머리에서 듣는 소리와 비슷하다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And even has my curls."
+msgstr "그리고 나같은 꼬불한 꼬리를 가지고 있고."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hippos and mice may have curly tails, but that does not make them the same as our friend. How many things need to be the same for two animals to be the same?"
+msgstr "아마 하마와 쥐는 꼬불한 꼬리를 가지고 있겠지만 그것이 여기 있는 우리 주인공과 같다고 할수는 없습니다. 두 동물이 똑같기 위해서는 몇 가지 똑같은 것들이 필요한가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some ways that the hippo and the mouse are different than our friend."
+msgstr "하마와 쥐가 우리 주인공과 어떻게 다른지 묘사해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick someone you know and describe some ways you are similar to them and some ways you are different."
+msgstr "여러분이 아는 어떤 사람을 생각해 보고 여러분과 어떤것이 비슷하고 어떤것이 다른지 묘사해 보세요."
 
 #. type=data_list
 msgctxt "data_list"
