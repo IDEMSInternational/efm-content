@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-21 13:05\n"
+"PO-Revision-Date: 2025-04-21 14:08\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -467,6 +467,151 @@ msgstr "만약 여러분이 무더운 날에 길을 잃어 버렸다면 서늘�
 msgctxt "data_list"
 msgid "People have many kinds of dreams. Some are scary, some are fun, some seem ridiculous, and some seem very real. What kinds of dreams do you have?"
 msgstr "사람들은 다양한 꿈을 꿉니다. 어떤것은 무섭고 어떤것은 재미있으며 또 어떤것은 말도 안되거나 아주 현실적이기도 합니다. 여러분은 어떤 종류의 꿈을 꾸나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As they go up, most of these branches split into two branches. So, 1 branch becomes 2, and those become 4, and so on. How high can you keep doubling before it gets to be too big a number?"
+msgstr "나무가 자라면서 거의 모든 나뭇가지는 두 개의 가지로 갈라집니다. 그래서 하나는 둘이 되고 또 넷이 되고 그렇게 계속 갈라집니다. 여러분은 어떤 숫자까지 두배로 셀 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is what Akai dreamed. She was lying on her special mat. A woman who looked like her grandmother was watching over her. The old woman smiled and gave her a bowl of camel milk. Just when Akai stretched out her hand to take the milk, she woke up."
+msgstr "이것이 아카이가 꾼 꿈입니다. 아카이는 자신의 특별한 돗자리에 누워 있었습니다. 아카이의 할머니와 비슷하게 생긴 여자가 아카이를 내려다 보고 있었습니다. 나이많은 여자는 미소지으며 아카이에게 낙타의 우유를 건네 주었습니다. 아카이는 잠에서 깼습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you can receive a message from a dream, or are they meaningless? What do you think this dream was trying to tell Akai?"
+msgstr "여러분은 꿈이 어떤 신호를 보낸다고 생각하나요 아니면 아무 뜻도 없다고 생각하나요? 여러분은 이 꿈이 아카이에게 무엇을 말하려고 한다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the circles of color centered just in front of grandmother's face. When circles have a common center they are called concentric circles."
+msgstr "할머니 얼굴 앞에 있는 원형모양의 색깔이 보이나요? 원형의 안에 중심점이 있을때 우리는 그것을 동심원이라고 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors are repeated in her clothing and jewelry, and which appear only once?"
+msgstr "할머니의 옷과 장신구는 어떤 색깔이 반복되어있고 어떤 색이 한 번만 쓰였나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai opened her eyes slowly. When she looked up, she saw a small blue bird on a branch above her."
+msgstr "아카이는 자신의 눈을 천천히 떴습니다. 아카이가 위를 올려보았을때 아카이는 나뭇가지위에 앉아있는 작은 파랑새를 보았습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes writers use special things in stories as symbols. Do you think the blue bird symbolizes something special in this story, or is it just a blue bird with no special meaning?"
+msgstr "가끔 작가는 특별한 물건을 이야기의 상징으로 사용합니다. 여러분은 이야기의 파랑새는 특별한것을 상징한다고 생각하나요 아니면 그냥 흔한 파랑새라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two pages ago we saw that same tree, but there are a few differences between the two pictures of the tree. How many differences can you find?"
+msgstr "앞 장의 그림에서 우리는 같은 나무를 보았지만 이 두 나무는 몇 가지가 다릅니다. 여러분은 몇 개의 다른점을 찾을수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai and the bird are looking at each other. If they could talk to each other, what would they say?"
+msgstr "아카이와 파랑새는 서로를 쳐다보고 있습니다. 만약 그 둘이 서로 이야기를 한다면 무슨 이야기를 할 것 같은가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Akai got up, the small blue bird flapped its wings and led the way for Akai. She followed the bird."
+msgstr "아카이가 일어났을때, 파랑새는 날개를 펄럭이며 아카이에게 길을 안내했습니다. 아카이는 새를 따라갔습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Birds can be fast and hard to follow. Have you ever tried to follow a wild animal to see where it was going?"
+msgstr "새는 아주 빨리 날을수 있고 따라가는 것이 쉽지 않습니다. 여러분은 야생 동물이 어디로 가는지 뒤를 따라가 본 적이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you were lost in a dangerous place, would you trust your safety to an unusual animal? Akai is being very trusting."
+msgstr "만약 여러분이 위험한 곳에서 길을 잃어버렸다면 여러분은 낯선 동물에게 여러분의 안전을 맡길수 있나요? 아카이는 잘 믿는것 같습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think this will turn out? Will the bird lead Akai to safety or will she get even more lost following this silly bird?"
+msgstr "여러분은 이야기가 어떻게 될 것이라고 생각하나요? 파랑새가 아카이를 안전한 곳으로 데리고 갈 것이라고 생각하나요 아니면 아카이는 어리석은 새 때문에 더 길을 잃을 것이라고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai came to a place where the path went in two directions. The blue bird dropped a piece of a mat that was like Akai's own mat."
+msgstr "아카이는 길이 두 방향으로 갈리는 곳에 왔습니다. 파랑새는 아카이의 돗자리와 비슷한 돗자리 조각을 떨어뜨렸습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dropping a piece of mat is quite an unusual thing for any bird to do. Maybe trusting this bird is not such a bad idea after all. What do you think?"
+msgstr "돗자리의 조각을 떨어뜨리는 것은 보통새가 하기에는 드문일입니다. 이 파랑새를 믿은것은 그렇게 나쁜일이었나 봅니다. 여러분은 어떻게 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We didn't see that piece of mat in any other pictures of the bird. Where did that piece of mat come from and how did the bird get it?"
+msgstr "우리는 돗자리의 조각을 새가 있던 어느 그림에서도 본 적이 없습니다. 여러분은 그 돗자리의 조각이 어디서 나왔으며 파랑새가 어떻게 가지게 되었다고 생각하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at Akai's face. What does her expression tell you about how she is feeling?"
+msgstr "아카이의 얼굴을 보세요. 아카이의 표정에서 아카이가 어떻게 느끼는지 알 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Picking up the piece of mat, Akai saw footprints that she knew were her mother's. Soon she saw the shallow well from where they fetched water."
+msgstr "돗자리의 조각을 주워 보니 아카이는 거기에 아카이 엄마의 발자국이 있는 것을 보았습니다. 조만간 아카이는 엄마와 자신이 물을 길렀던 얕은 우물을 보았습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's good she trusted that strange bird. She ended up being taken to safety by following her instincts and trusting the bird."
+msgstr "아카이가 낯선 새를 믿은것은 잘한 일이었습니다. 아카이는 자신의 직감과 새를 믿어서 자신을 안전한 곳으로 안내해 갔습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever had to trust something or someone in an unusual situation? You have to be very careful about the people you choose to trust."
+msgstr "여러분은 낯선 환경에서 어떤 물건이나 어떤 사람을 믿어야 했던 적이 있나요? 여러분은 여러분이 믿기로 한 사람에 대해 아주 조심해야 할 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know what anyone else's footprints look like? When you live where it is important to be able to follow paths, do you suppose you get good at recognizing tracks made by various people and animals?"
+msgstr "여러분은 다른사람의 발자국이 어떻게 생겼는지 알 수있나요? 길을 따라가는 것이 중요한 곳에서 여러분이 산다면 다양한 사람이나 동물의 발자국을 알아보는 것은 아주 중요할수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai's family sang and danced to welcome her home. They made a feast to celebrate their child's safe return."
+msgstr "아카이의 가족은 아카이가 집에 돌아온것을 환영하기 위해 노래를 부르고 춤을 추었습니다. 그들은 아카이가 무사히 집에 돌아온것을 축하하기위해 잔치를 벌였습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at how happy they all are with Akai's safe return. How can you tell that they are happy?"
+msgstr "아카이가 안전하게 돌아온것을 기뻐하는 사람들을 보세요. 여러분은 그들이 행복하다는 것을 어떻게 알 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their clothes have beautiful colors and patterns. Which of these do you like the most?"
+msgstr "그들의 옷은 아름다운 색깔과 문양으로 되어있습니다. 여러분은 어떤것이 제일 좋은가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai likes to go barefoot a lot, while many of the other people in this story wear sandals. Which do you prefer?"
+msgstr "이야기에 나오는 많은 사람들이 샌들을 신었지만 아카이는 맨발로 다니는 것을 좋아합니다. 여러분은 어떤것이 좋은가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai sat on her special mat and enjoyed eating some delicious food."
+msgstr "아카이는 특별한 돗자리에 앉아 맛있는 음식을 먹었습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At the end of a scary day, she looks very happy. After a disturbing incident, it can be wonderful to be back in a familiar and safe place."
+msgstr "무서운 날의 끝에 아카이는 행복해 보입니다. 불안한 일이 생긴 후에, 안전하고 익숙한 곳으로 돌아온것은 아주 기쁜일입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a favorite place where you feel particularly safe and comfortable?"
+msgstr "여러분은 특별히 안전하게 느끼거나 편하게 느껴지는 곳이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does her happiness come from her mat or from herself?"
+msgstr "아카이의 행복은 아카이의 돗자리에서 온다고 생각하나요 아니면 아카이 자신에서 온다고 생각하나요?"
 
 #. type=data_list
 msgctxt "data_list"
