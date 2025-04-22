@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-22 12:49\n"
+"PO-Revision-Date: 2025-04-22 13:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6253,6 +6253,210 @@ msgstr "여러분이 음악을 들을 때, 박자를 만드는 악기에 귀기�
 msgctxt "data_list"
 msgid "STAGE 1 – I CAN HEAR YOU!"
 msgstr "1 단계 - 너의 말을 들을수 있어!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 Introduction"
+msgstr "1 단계 – 소개"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What a wonderful time watching your young child learn about the world! They are little sponges observing everything going on around them and they can hear you! They play and experiment constantly, making sense of the world and learning how to crawl, walk, talk, and interact with all that they are experiencing.\n"
+"\n"
+"Mathematics is a natural part of this world they are learning about. No matter what your experiences and feelings about math, this is your chance to make mathematics a playful and fun activity that your family does together.\n"
+"\n"
+"For now, the main mathematical activity to do together will be exposing your child constantly to mathematical language and ideas. This is mostly just a matter of verbalizing what is going on in your head already. Counting things out loud as you work with them and naming items that your child plays with is what gets everything rolling.\n"
+"\n"
+"Have fun! This is an amazing time for your family!"
+msgstr ""
+"당신의 아이가 세상에 대해 배우는 것을 보는 것은 정말 놀라운 시간입니다! 아이들은 주변에서 일어나는 모든 것을 관찰하는 작은 스폰지와 같고 그들은 여러분의 말을 들을수 있습니다! 아이들은 끊임없이 놀고 세상을 이해하고 기어다니고, 걷고, 말하며 경험하는 모든것의 상호작용으로 배웁니다.\n"
+"\n"
+"수학은 그들이 배우고 있는 이 세상의 자연스러운 부분입니다. 수학에 대한 여러분의 경험과 감정이 무엇이든, 이것은 수학을 가족이 함께하는 장난스럽고 재미있는 활동으로 만들수 있는 기회입니다.\n"
+"\n"
+"지금은, 함께 하는 대부분의 수학 활동은 아이를 끊임없이 수학적 언어와 아이디어를 보여주는 것입니다. 이것은 대부분 당신의 머리속에서 이미 일어나고 있는 일을 말로 표현하는 것일 뿐입니다. 당신이 아이들과 수학을 하는 동안 소리내어 수를 세고 아이가 놀고 있는 것들의 이름을 말해보는 것이 모든것을 시작하는 시작점이 됩니다.\n"
+"\n"
+"재미있는 시간을 보내세요! 이것은 가족과 함께 하는 즐거운 시간이 될 것입니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Have fun with math together! This is the most important thing. \n"
+"* Verbalize math - You do math all the time in your head – include your child by saying those thoughts out loud to your child all the time. \n"
+"* Point and describe - When you talk about something, point to it and then talk about it. If your child is ready, ask questions about it. \n"
+"* Expose - Your child is learning by being exposed to things. Your child will probably not un- derstand things initially, but by frequent exposure your child will pick up on the patterns and learn what is going on. \n"
+"* Count everything out loud. Count up and down. Include 0 sometimes. \n"
+"* Objects have properties that can be named, described, compared, and discussed. Those properties lead to discoveries of natural and human-made patterns."
+msgstr ""
+"* 수학을 함께 즐기세요! 이것은 가장 중요한 것입니다.\n"
+"* 수학을 말해보세요 - 당신과 아이는 머릿속에서 수학을 항상 하고 있습니다 - 당신은 아이들에게 항상 머릿속에 있는 생각을 말로 표현합니다.\n"
+"* 가리키고 설명해보세요 - 당신이 무언가에 대해 이야기할때 그것을 가리키고 그런 다음 그것에 관해 이야기해보세요. 당신의 아이가 준비가 되면 그것에 대해서 질문해 보세요.\n"
+"* 접해 보세요 - 당신의 아이는 물체을 접해보면서 배웁니다. 당신의 아이는 아마도 처음에는 이해하지 못하겠지만 여러번 접해 보면서 패턴을 보고 어떤일이 일어나는지를 배웁니다.\n"
+"* 모든것을 소리내어 세어보세요. 가끔 0으로 시작해서 세어보거나 거꾸로 세어보세요.\n"
+"* 물체는 이름을 붙이고 설명하고 비교하며 토론할수 있는 특징을 가지고 있습니다. 그런 특징은 자연적인 패턴과 인위적인 패턴을 발견할수 있게 인도합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – GENERAL"
+msgstr "큰소리로 수학 - 일반"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Exposure:** During these early ages, it is all about exposure! Your child is being exposed to a wide array of experiences and is discovering patterns in everything they sense. While exposing your child to the world, expose them to math words and ideas and let them see how enjoyable it can be to play with math together.\n"
+"\n"
+"**Start early:** Start this even before your child seems to understand what you're saying. Your child is a sponge who is getting more from your words than you realize."
+msgstr ""
+"**접해 보세요:** 아이들이 어릴때는 모든것을 접해보는것이 중요합니다! 당신의 아이는 다양한 경험을 하고 그들이 느끼는 모든 것에서 패턴을 발견합니다. 아이들이 세상을 접할때 수학단어와 아이디어를 접해보고 함께 수학을 가지고 노는 것이 얼마나 즐거운지 보게 하세요.\n"
+"\n"
+"**일찍 시작하세요:** 당신의 아이가 당신이 하는 말을 이해하는 것처럼 보이기 전에도 시작하세요. 아이는 당신이 깨닫는 것보다 당신의 말에서 더 많은 것을 얻는 스폰지와 같습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Point, describe and ask:** Point at things your child interacts with and describe them with words involving numbers, shapes, and colors. If you are dealing with a small set of things, count them out loud to your child. When your child is old enough, point to and ask questions about the things around them."
+msgstr "**가리키고 설명하고 물어보세요:** 아이가 경험하고 있는 것을 가리키고 숫자, 모양 그리고 색상을 포함하는 단어로 설명해보세요. 만약 작은 물건 세트이면 아이와 함께 큰소리로 세어보세요. 아이가 나이가 더 들면 가리켜 보고 주변의 것들에 대해 물어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many facets of Math Talk"
+msgstr "수학의 대화에 관한 많은 측면"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There is much more math to talk about than just numbers.\n"
+" • Describe things. Talk about sizes, colors, textures, shapes, softness, wetness, hot- ness, brightness, and more. Naming and describing properties is essential for comparing them and discovering patterns. \n"
+"• Use comparison words. Bigger, smaller, tallest, widest, more, less, same, ... \n"
+"• Use position words. Over, under, between, near, far, above, ... \n"
+"• Talk about patterns and sequences in space and time. Refer to the order of things as first, second, third, and last. Talk about what just happened, what is about to happen, and things happening today. Talk about patterns in designs you see. \n"
+"• Count things out loud and say numbers to refer to quantities. \n"
+"• Talk about adding or taking away one or two things from a collection. \n"
+"• Use measurement words. Use words like inch, centimeter, foot, meter, mile, kilometer, cup, liter, quart, and more to refer to the sizes of things."
+msgstr ""
+"수학에는 숫자뿐만 아니라 더 많은 것에 대해 이야기할수 있습니다.\n"
+"* 물건에 대해 설명하세요. 크기, 색상, 결, 모양, 부드러움, 축축함, 뜨거움, 밝기 그리고 더 많은 것에 대해 이야기해보세요. 물건의 이름을 붙이고 그 특징을 설명하는 것은 그것들을 비교하고 패턴을 발견하는데 아주 중요합니다.\n"
+"* 비교하는 단어를 사용하세요. 더 큰, 더 작은, 더 큰, 더 넓은, 더, 더 적게, 같은, …\n"
+"* 위치에 관한 단어를 사용하세요. 너머, 밑에, 사이, 가까운, 먼, 위에, …\n"
+"* 장소와 시간의 순서와 패턴에 대해 이야기해 보세요. 첫째, 두번째, 세번째, 그리고 마지막과 같은 물건의 순서를 참조해 보세요. 방금 무슨일이 있었는지, 곧 무슨일이 있을것인지, 오늘 일어난 일에 대해서 이야기해 보세요. 당신이 본 디자인의 패턴에 대해서 이야기해 보세요.\n"
+"* 소리내서 세어보고 수량을 참조하는 숫자를 말해보세요.\n"
+"* 덧셈 또는 수집해 놓은 것중에 한 두가지를 가져가 보세요.\n"
+"* 측정 단어를 사용해 보세요. 인치, 센티미터, 미터, 마일, 킬로미터, 컵, 리터, 4분의 1과 같은 물건의 크기를 참조하는 단어를 사용해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**This is all math:** These different ways of describing things and their relationships is talking about math! Building up this vocabulary and concepts will help your child develop mathematically, and it will also give a big boost to helping your child read and talk about the world."
+msgstr "**이것이 모두 수학입니다.** 물건과 그것의 관계에 대해 다른 방법으로 설명하는 것이 수학에 대해 이야기 하는 것입니다. 어휘와 개념을 쌓는 것은 아이가 수학적으로 발전하는데 도움이 될 것이며 또한 아이가 세상에 대해 읽고 이야기할 수 있도록 돕는데 큰 도움이 될 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – STORYTIME"
+msgstr "큰 소리로 수학 – 동화시간"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**It's cozy:** Storytime is a wonderful chance to do a bit of math with your child in a cozy setting. This builds up happy associations with math for you and your child.\n"
+"\n"
+"**Discuss as you read:** As you read a story with your child, talk about things in the pictures and in the story. If there is a big yellow sun, point to the sun and say: “The sun is round and it is yellow. The wall of this room is also yellow. Point to something round in this room.”"
+msgstr ""
+"**이것은 아늑합니다:** 동화시간은 아늑한 환경에서 아이와 약간의 수학을 할 수 있는 좋은 기회입니다. 이것은 당신과 아이를 위한 수학과의 행복한 관계를 만듭니다.\n"
+"\n"
+"**읽으면서 토론해 보세요:** 아이와 함께 동화를 읽을때, 그림과 이야기에 있는 것들에 대해 야야기 해보세요. 만약에 큰 노란 태양이 있다면, 해를 가리키며 이렇게 말해보세요: “해는 둥글고 노란색이야. 이 방의 벽도 노란색이야. 이 방에서 둥근 무언가를 가리켜 보세요.”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As your child gets older, count together, such as the yellow flower petals in this picture, or ask your child to point to things you describe. In addition to discussing the characters in the story, discuss all the things you would if you were seeing these things in the world around you."
+msgstr "아이가 나이가 들면, 그림에 있는 노란 꽃잎을 같이 세어보거나 당신이 묘사하는 것을 가리켜보게 아이에게 물어보세요. 이야기에 있는 주인공에 대해 토론하는것과 함께 당신 주변 세계에서 이러한 것들을 보고 있다면 당신이 할 수 있는 모든 것에 대해 토론해보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EFM Storybooks"
+msgstr "EFM (가족과 하는 놀이수학) 동화책"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EFM provides free picture storybooks as PDFs. Each book has suggested comments or questions to use while reading. Use these same math discussion ideas in your day-to-day activities with your child."
+msgstr "EFM (가족과 하는 놀이수학)은 무료 그림 동화책을 PDF로 제공합니다. 각 책은 읽는 동안 사용할 의견이나 질문을 제시하고 있습니다. 아이와의 일상적인 활동에서 이 같은 수학 토론 아이디어를 사용해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – HOME ROUTINES"
+msgstr "큰 소리로 수학 – 집에서의 일상"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Doing laundry:** When doing laundry, sort by similarities and differences – colors and sizes\n"
+"\n"
+"**Cleaning up an area:** Which things belong together and why? If you have a box, does it go into, under, over, or inside something else? Do things that are the same shape go together? Is there a special place for round things or triangular things? Which toys belong together?\n"
+"\n"
+"**Going to sleep and getting up:** Both of these situations lend themselves to discussing doing things in sequence, and practicing words like first, second, third, last, and next. Where do dirty clothes go? How do you decide which clothes you should wear together when you get dressed?"
+msgstr ""
+"**빨래하기:** 빨래를 할때 유사한것과 다른것으로 나눠보세요 - 색상과 크기.\n"
+"\n"
+"**청소하기:** 어떤 것들이 함께 속하고 그 이유는 무엇일까요? 만약 당신이 상자를 가지고 있다면 그것은 안으로, 아래로, 위로 들어가나요 아니면 다른 무언가 안에 들어가나요? 같은 모양의 것들이 함께 가나요? 둥근 물건이나 삼각형의 물건을 위한 특별한 장소가 있나요? 어떤 장난감이 함께 속해 있나요?\n"
+"\n"
+"**자고 일어나기:** 이 두가지 상황 모두 순서대로 일을 논의하고, 첫 번째, 두번째, 세 번째, 마지막, 다음과 같은 단어를 연습하는데 적합합니다. 더러운 옷은 어디로 가나요? 옷을 입을 때 어떤 옷을 함께 입어야 할지 어떻게 결정하나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – MEALTIME"
+msgstr "큰 소리로 수학 – 식사시간"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Cooking:** As you follow a recipe or prepare some food, involve your child in counting out or measuring the ingredients, and talk about the sequence of steps. If they are not ready to do the steps themselves, have them 'oversee' your work.\n"
+"\n"
+"**Table setting and clearing:** When setting the table, count how many people there will be, and then discuss which things (plate, fork, glass) each person will need. Do some people need different glasses for different drinks?\n"
+"\n"
+"When you put the food out, how do you figure out how much food to provide? If you have six pieces of fruit for three people, how many should each person get to share it fairly?\n"
+"\n"
+"When you clean up, are there some things that get cleaned in a different way than others? How can you tell when a lid matches a pot or pan? Which kinds of things get put away in which places?\n"
+"\n"
+"**Putting graceries away:** When putting away groceries, talk about the types of things that go together. Which things need refrigeration? Where do the cans go? Where is there space for the big box? Use lots of relation words such as above, under, around, and between."
+msgstr ""
+"**요리:** 조리법을 따르거나 음식을 준비할 때 아이가 숫자를 세어보게 하거나 재료를 측정하고 조리순서에 대해 이야기해 보세요. 아이들이 준비가 되어있지 않다면 요리하는 동안 ‘감독’하게 해보세요.\n"
+"\n"
+"**식탁을 차리고 치우기:** 식탁을 차릴때, 몇 명인지 세어보고 그런 다음 각자에게 어떤 물건 (접시, 포크, 유리잔)이 필요한지 이야기해 보세요. 어떤 사람들은 다른 음료마다 다른 유리잔이 필요한가요?\n"
+"\n"
+"음식을 내놓을 때 얼마나 많은 음식을 내놓아야 하는지 어떻게 알 수 있나요? 만약에 세사람을 위해 과일 여섯개를 공평하게 나눠먹으려면 한사람이 몇 개를 받아야 할까요?\n"
+"\n"
+"청소를 할때, 남들과 다른 방법으로 청소되는 것들이 있나요? 뚜껑이 냄비나 팬과 일치하는지 어떻게 알 수 있나요? 어떤 종류의 물건이 어떤 장소로 넣어지나요?\n"
+"\n"
+"**식료품 넣어두기:** 식료품을 넣어둘때 어떤 종류의 것들이 함께 넣어질수 있는지 이야기해 보세요. 냉장보관이 필요한 물건은 무엇인가요? 캔은 어디로 가나요? 큰 박스가 들어갈 장소는 어디인가요? 위, 아래, 주변, 사이등의 관계 단어를 많이 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – PLAYTIME"
+msgstr "큰 소리로 수학 – 놀이시간"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"While playing at home or in a park, there is much mathematics to point out and describe.\n"
+"\n"
+"**In the playground:** Count the children, the number of swings, the number of steps, or anything else. Comment about where there is more of one thing than another."
+msgstr ""
+"집이나 공원에서 놀때 가리키고 설명할수 있는 수학이 아주 많습니다.\n"
+"\n"
+"**놀이터에서:** 아이들의 수, 그네의 수, 계단의 수 또는 다른 것들의 숫자를 세어보세요. 어디에 다른 것보다 더 많은 것이 있는지 이야기해 주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**On the swings:** Pushing your child on the swings is a perfect opportunity to count with your child. With each push, count “1, 2, 3, 4, 5.” After your child starts learning how to count to 5, counting down from 5 is also a good idea. Start or end at 0 sometimes."
+msgstr "**그네에서:** 아이를 그네에서 밀어주는 것은 아이와 숫자를 셀 수있는 아주 좋은 시간입니다. 한 번씩 밀어줄때마다 “1, 2, 3, 4, 5.” 세어보세요. 아이가 5까지 세는 법을 배우기 시작한 후에는 5에서 거꾸로 세어보는 것도 좋은 생각입니다. 가끔 0에서 시작하거나 끝나기도 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Point out the circles, curves, straight lines, triangles, and rectangles in the play area. Talk about how some things are over, under, between, or on top of other things.\n"
+"\n"
+"**At home:** Compare sizes when building with toys or blocks – Which tower is the tallest; Can you make two towers the same height? Describe and compare the sizes, numbers, colors of your toys, animals in pictures, or things you can see outside. If you are making a jigsaw puzzle, describe the shape and color of the piece you need."
+msgstr ""
+"놀이터에 있는 원형, 곡선, 직선, 삼각형 그리고 사각형의 것들을 가리켜 보세요. 어떤 물체는 위에, 아래, 사이에, 또는 어떤것들 위에 있는지 이야기해 보세요.\n"
+"\n"
+"**집에서:** 장난감이나 블럭으로 건물을 지을 때 크기를 비교해보세요. 어느 타워가 가장 높은가요? 두 개의 타워를 같은 높이로 만들수 있나요? 크기, 숫자, 장난감의 색상, 사진 속의 동물, 밖에서 볼 수 있는 것들을 설명하고 비교해 보세요. 퍼즐을 만든다면 필요한 조각의 모양과 색상을 설명해 보세요."
 
 #. type=data_list
 msgctxt "data_list"
