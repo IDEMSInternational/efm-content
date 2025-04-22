@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-22 19:05\n"
+"PO-Revision-Date: 2025-04-22 21:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6877,6 +6877,16 @@ msgstr ""
 "**숫자 카드 만들기**\n"
 "\n"
 "많은 ‘가족과 하는 놀이 수학’ 활동은 카드 한 벌을 사용할 수 있습니다. 하지만, 숫자 카드를 사용하면 아이가 일반 카드 놀이로 강조되지 않을 아이디어를 연습하는 데 도움이 됩니다. 카드 종이나 두꺼운 종이를 사용하여 자신만의 카드를 만들어 보세요. 참고에 있는 PDF를 사용하거나 직접 그릴 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE A SHAPE DECK"
+msgstr "모형 카드 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few games and puzzles that involve a Shape Deck of 27 cards in the Shape Deck Games page. If you happen to have a set of 81 cards from the game of SET, you can use 27 of those cards that have solid colors as a Shape Deck."
+msgstr "모형 카드 게임 페이지에 27장의 카드로 구성된 모형 카드를 포함하는 몇 가지 게임과 퍼즐이 있습니다. 세트 게임에서 81장의 카드 세트를 가지고 있다면, 단색의 카드 27장을 모형 카드로 사용할 수 있습니다."
 
 #. type=data_list
 msgctxt "data_list"
