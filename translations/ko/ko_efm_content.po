@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-22 18:07\n"
+"PO-Revision-Date: 2025-04-22 19:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6493,6 +6493,390 @@ msgstr "당신이 찾는 습관을 들이면 당신이 찾고 이야기할 수 �
 msgctxt "data_list"
 msgid "MATH OUT LOUD – SHOPPING"
 msgstr "큰 소리로 수학 – 쇼핑"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Math Out Loud"
+msgstr "큰 소리로 수학"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many things to count or describe when you shop in a store."
+msgstr "당신이 가게에서 쇼핑을 할때도 숫자를 세고 설명할 수 있는것이 많이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Counting:** Talk about how many apples you need, and count them out as you pick them out. Count the people in line in front of you, and compare that to the length of the other lines."
+msgstr "**세기:** 사과가 몇 개 필요한지 이야기해 보고 고르면서 세어보세요. 당신 앞에 서 있는 사람의 수를 세어보고 다른 줄의 길이와 비교해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Shapes:** Point out the shapes of fruit or pictures on food boxes. Talk about how some things come in boxes, and other things come in round bottles.\n"
+"\n"
+"You might need something on a high shelf, or something on a low shelf. There is so much to describe and compare!"
+msgstr ""
+"**도형:** 음식 상자에 있는 과일이나 그림의 모양을 가리켜 보세요. 어떤 것들은 상자에 들어있고 어떤 것들은 둥근 병에 들어 있는지 이야기해 보세요.\n"
+"\n"
+"높은 선반에 물건이 필요할 수도 있고, 낮은 선반에 물건이 필요할 수도 있습니다. 설명하고 비교할수 있는 것들이 너무 많이 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES INSIDE SHAPES"
+msgstr "모형안의 모형s"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help your child explore the physical relationships between shapes by providing an environment rich in opportunities to experiment."
+msgstr "실험할 수 있는 기회가 풍부한 환경을 제공하여 아이가 모형 간의 물리적인 관계를 탐구하도록 도와주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Start with any box – perhaps a cereal box or cardboard shipping box. Cut holes with different shapes (square, circle, triangle, long rectangle) in the box. Watch your child experiment with fitting toys and other objects through the holes."
+msgstr "**만드는 방법:** 시리얼 상자나 판지등 어떤 상자로든 시작해 보세요. 다양한 모양 (정사각형, 원형, 삼각형, 긴 직사각형)으로 상자에 구멍을 내세요. 아이가 모양이 맞는 장난감이나 다른 모형을 구멍에 넣는 실험을 지켜보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add different colors to outline the holes (e.g. red triangle, blue circle, yellow square). Reinforce the names by saying the name of the shape of the hole when your child puts the toy through it."
+msgstr "구멍의 윤곽선에 다양한 색상을 더해보세요 (예: 빨간 삼각형, 파란 원형, 노란 정사각형). 아이가 장난감을 구멍에 넣을때 구멍에 있는 모양의 이름을 말하게 시켜보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE HUNT"
+msgstr "모형 사냥"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This game is similar to I Spy. It can be played anywhere and at any time.\n"
+"\n"
+"**The setup:** One person sees a shape, and then gives clues about the object's description and position to the other person."
+msgstr ""
+"이 게임은 “아이 스파이 보드북” 게임과 유사합니다. 이 게임은 언제 어디서나 할 수 있습니다.\n"
+"\n"
+"**설정:** 한 사람이 모양을 본 다음 물건의 모양과 위치에 대해 상대방에게 단서를 줍니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player 1: “I see something that has a large blue circle.” \n"
+"\n"
+"Player 2: \"Is it that bicycle wheel?\"\n"
+"\n"
+"Player 1: \"No. It is in the middle of a wall.\"\n"
+"\n"
+"Player 2: “I see it! It’s the clock!”"
+msgstr ""
+"플레이어 1: “난 크고 파란 원형이 보여.”\n"
+"\n"
+"플레이어 2: “자전거 바퀴를 말하니?”\n"
+"\n"
+"플레이어 1: “아니. 그건 벽의 한 가운데에 있어.”\n"
+"\n"
+"플레이어 2: “알았어! 그건 시계야!”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take turns with your child in the two roles. Being able to give good clues is just as important as discovering an object from some clues.\n"
+"\n"
+"Start with simple shapes, add size and color, and then add shapes inside of shapes or other arrangements. Add in information about its position relative to other objects."
+msgstr ""
+"아이와 함께 두가지 역할을 번갈아 해보세요. 좋은 단서를 줄 수 있다는 것은 몇 가지 단서에서 물건을 발견하는 것만큼 중요합니다.\n"
+"\n"
+"간단한 도형으로 시작해서 크기와 색상을 추가한 다음 모형안에 모형을 추가하거나 다른 순서로 바꿔보세요. 다른 물건의 관련한 위치에 대한 정보를 추가해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATE A JIGSAW PUZZLE"
+msgstr "직소 퍼즐 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a jigsaw puzzle together for your child to play with.\n"
+"\n"
+"Either use a box that already has a picture on it, such as a cereal or product box, or have your child paint or draw on a piece of cardboard or stiff paper.\n"
+"\n"
+"Cut the cardboard or paper into large pieces and keep all the pieces. \n"
+"\n"
+"You now have your own personal jigsaw puzzle!"
+msgstr ""
+"아이와 함께 할 수 있는 직소 퍼즐을 만들어 보세요.\n"
+"\n"
+"시리얼 박스와 같이 이미 그림이 있는 상자를 사용하거나 판지나 뻣뻣한 종이에 아이가 그림을 그리거나 색칠을 하게 해보세요.\n"
+"\n"
+"판지나 종이를 큰 조각으로 자르고 모든 조각들을 가지고 있으세요.\n"
+"\n"
+"이제 당신만의 직소 퍼즐이 생겼습니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COLORED TILINGS"
+msgstr "색칠된 타일"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Create a set of “tiles” from cardboard or stiff paper. Use the patterns in the EFM Printables PDF, or download the patterns from a source on the internet. Use one source for all the shapes so that they fit well together. For each shape, use just one or two colors, such as red squares and blue triangles – that will help your child pick up the pattern of which shapes are which, and it will make the patterns more interesting."
+msgstr "**만드는 방법:** 판지나 뻣뻣한 종이로 ‘타일’세트를 만듭니다. 가족과 하는 기초수학에 있는 PDF나 인터넷 자료에 있는 패턴을 다운로드하세요. 한 자료에 있는 모든 모형을 사용하면 모든 것들이 서로 잘 맞을것입니다. 아이가 모양의 패턴을 익히는데 도움이 될수 있도록 한 모형에 빨간 정사각형과 파란 삼각형과 같이 한두가지 색상만 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Watch your child make patterns fitting the tiles together. Name the shapes and colors as they go.\n"
+"\n"
+"With older children, talk about patterns in the tiling that repeat. Also, talk about symmetries in the overall design. Some designs have one side that is the reflection of the other side, and that is called mirror symmetry."
+msgstr ""
+"아이가 타일을 서로 맞춰 패턴을 만드는 것을 지켜보세요. 맞추는 동안 모양과 색상의 이름을 말해보세요.\n"
+"\n"
+"아이가 타일을 서로 맞춰 패턴을 만드는 것을 지켜보세요. 맞추는 동안 모양과 색상의 이름을 말해보세요. 나이가 든 아이들과는 반복되는 타일 패턴에 대해 이야기해 보세요. 또한 전반적인 디자인의 대칭에 대해 이야기해 보세요. 일부 디자인에는 한 면이 거울 대칭 이라고 불리는 반대쪽이 반사되는 디자인이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child has made a few designs, start pointing out patterns in the tiled floors and buildings that you see. Brickwork or woodwork often have interesting patterns in them."
+msgstr "아이가 몇 가지 디자인을 만든 후에는 바닥의 타일과 보이는 건물들의 패턴을 가리켜 보기 시작하세요. 벽돌 세공이나 목공에는 종종 흥미로운 패턴이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LAUNDRY SORTING"
+msgstr "세탁물 분류"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Laundry sorting is a great way to discuss properties that make things the same or different."
+msgstr "세탁물 분류는 같은것과 다른것들을 만드는 물건의 특징을 토론하기에 아주 좋은 방법입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Dirty clothes:** Perhaps the clothes need to be sorted by whites, bright colors, and dark colors. Perhaps some clothes need delicate handling, or they are particularly dirty. Perhaps one pile is too big to wash as one group. All of these characterstics are things to be observed, described, and discussed.\n"
+"\n"
+"**Clean clothes:** You may want to sort into piles by whose clothes they are. Some clothes may be bigger than others. Pairing up socks can be particularly interesting – matching colors, patterns, and sizes."
+msgstr ""
+"**더러운 옷들:** 아마도 옷은 흰색, 밝은색 그리고 어두운 색으로 분류되어야 할 것입니다. 어떤 옷은 특히 더러울 수록 조심해서 다뤄야 할 것입니다. 아마도 한 더미가 너무 커서 한 그룹으로 세탁할수 없을 것입니다. 이 모든 특징은 관찰하고 설명하며 논의할수 있는 것입니다.\n"
+"\n"
+"**깨끗한 옷들:** 누구의 옷인지에 따라 옷더미를 분류하고 싶을 수도 있습니다. 어떤 옷은 다른 사람보다 더 클 수도 있습니다. 양말을 색상, 패턴, 그리고 크기로 짝을 맞추는 것은 특히 흥미로울수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "OBJECT HUNT"
+msgstr "물건 사냥하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make a math game of searching for objects around the house or outside. Use the game to practice concepts that your child is learning, such as color, size (large, medium, small), weight (heavy, light), quantity, and relationship (inside, on top of, below)."
+msgstr "집 주변이나 밖에 있는 물건을 찾는 수학게임을 만들어 보세요. 게임으로 색상, 크기 (대형, 중형, 소형), 무게 (무거움, 가벼움), 양, 관계 (내부, 위, 아래) 등의 개념을 아이가 연습하게 하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two versions of this game. Both versions involve a Puzzler, who thinks of an object to find, and a Guesser, who tries to guess what the object based on the information from the Puzzler.\n"
+"\n"
+"**Version 1:** The Puzzler starts describing an object, and the Guesser tries to guess what it is. \n"
+"\n"
+"**Version 2:** The Guesser asks yes/no questions of the Puzzler until the Guesser guesses what the object is.\n"
+"\n"
+"**How to win:** Guess what the object is in as few steps as possible."
+msgstr ""
+"**게임 방법:** 이 게임에는 두가지 보기가 있습니다. 두 보기에는 찾을 물건을 생각하는 퍼즐러와 주어진 정보로 물건이 무엇인지 추측하는 추측자가 포함되어 있습니다.\n"
+"\n"
+"**보기 1:** 퍼즐러는 물건을 설명하기 시작하고 추측자는 그것이 무엇인지 추측합니다.\n"
+"\n"
+"**보기 2:** 추측자는 예/아니오 질문을 그 물건이 무엇인지 짐작할때까지 퍼즐러에게 물어봅니다.\n"
+"\n"
+"**이기는 방법:** 가장 적은 질문으로 물건을 추측해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PATTERNS"
+msgstr "패턴"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Descriptions"
+msgstr "물건 설명하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Patterns are everywhere! See how many you can make with your child."
+msgstr "패턴은 사방에 있어요! 아이와 함께 몇 개를 만들수 있는지 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pattern types"
+msgstr "패턴의 종류"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some characteristics that can be used by themselves or mixed together: \n"
+"\n"
+"• Movement patterns: stepping, jumping, waving, nodding\n"
+"• Sound patterns: clapping, knee slapping, tongue clicking, stamping\n"
+"• Loudness patterns: soft, medium, loud\n"
+"• Visual patterns: color, shape, size"
+msgstr ""
+"다음은 단독으로 사용하거나 함께 사용할수 있는 몇 가지 특징입니다.\n"
+"\n"
+"* 움직임 패턴: 걷기, 뛰기, 손 흔들기, 고개 끄덕이기\n"
+"* 소리 패턴: 박수 치기, 무릎 치기, 혀 차기, 발 구르기\n"
+"* 음량 패턴: 약함, 중간, 큼\n"
+"* 시각적 패턴: 색상, 모양, 크기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player one: makes a pattern and challenges the other person to repeat it. (Step, clap, jump)\n"
+"\n"
+"Player two: can repeat and eventually add to the pattern, challenging player one to repeat it. (Step, clap, jump, touch their nose)\n"
+"As you get better, challenge each other to repeat longer and longer patterns from memory.\n"
+"\n"
+"You can use a pattern as a secret code for getting through a passageway. You can also make necklaces with your child by taking string and threading on beads or bits of food to create repeating patterns. Walking hand in hand, you can use squeeze patterns (short short long, etc.).\n"
+"\n"
+"**Puzzles:** For older children, create puzzles by drawing a pattern of shapes on paper. One person establishes a pattern and then leaves gaps in the sequence for the other to fill in."
+msgstr ""
+"플레이어 1: 패턴을 만들고 상대방이 따라하게 도전시켜 보세요. (걷기, 박수 치기, 뛰기)\n"
+"\n"
+"플레이어 2: 따라하고 패턴을 하나 더 추가해서 상대방이 따라하게 도전시켜 보세요. (걷기, 박수 치기, 뛰기, 코 만지기)\n"
+"\n"
+"잘 하게 되면 기억을 통해 점점 더 긴 패턴을 반복하도록 서로 도전해 보세요.\n"
+"\n"
+"패턴은 통로를 통과하기 위한 비밀 코드로 사용할수 있습니다. 또한 끈을 잡고 구슬이나 음식 조각을 꿰어 아이와 함께 목걸이를 만들어 보세요. 손을 잡고 걸으면서 손을 꽉 쥐는 패턴 (짧게 짧게 길게, 등등)을 사용할 수 있습니다.\n"
+"\n"
+"**퍼즐:** 나이가 든 아이의 경우, 종이에 모형의 패턴을 그려 퍼즐을 만듭니다. 한 사람은 패턴을 만든다음 다른 사람이 채울 수 있도록 순서에 공백을 남겨 둡니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER HUNT"
+msgstr "숫자 사냥"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Go hunting:** Pick a number, say 2. Challenge your child to go on a treasure hunt to find as many ways as possible that 2 shows up around you. It may show up as the numeral 2 on a wall, sign, or building. It may show up as two of something, such as two chairs, two dishes, or two cups, as it does in this illustration."
+msgstr "**사냥 가기:** 가령 2라는 숫자를 고르세요. 아이가 보물 찾기를 가서 2가 주변에 나타나는 가능한 많은 방법을 찾도록 도전시켜 보세요. 그것은 벽, 표지판 또는 건물에 있는 숫자 2로 나타날 수 있습니다. 그것은 그림에서와 같이 두 개의 의자, 두 개의 접시 또는 두 개의 컵과 같은 두 개의 무언가로 나타날수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you like, you can make this into a contest by seeing who can find the most of whatever number you are looking for."
+msgstr "원한다면, 누가 가장 많이 특정한 숫자의 무언가를 찾는지 시합을 할 수도 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER GOBBLER"
+msgstr "숫자 도깨비"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 5"
+msgstr "5까지 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Make a 21-piece triangle with some food item. Put 1 piece in the top row, 2 pieces in the next row, and 6 pieces in the last."
+msgstr "**설정:** 먹는 음식으로 21조각의 삼각형을 만드세요. 맨 윗줄에 1개, 다음 줄에 2개, 마지막 줄에 6개를 넣으세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Take turns rolling a die. Each time the count of a roll matches a row that is still in the triangle, the player gets to remove that row and either eat it (yum) or put it in their personal pile.\n"
+"\n"
+"**How to win:** Beginning players can do a 1-to-1 match of the dots on the die with the food pieces in a row. The player with the bigger pile of food wins! To determine the winner, do a 1-to-1 match of the two piles to see whose pile is larger."
+msgstr ""
+"**게임 방법:** 번갈아 가며 주사위를 굴리세요. 던진 수가 삼각형에 있는 줄과 일치할 때마다, 플레이어는 그 줄을 제거하고 그것을 먹거나 개인 더미에 넣어 줍니다.\n"
+"\n"
+"**이기는 방법:** 처음해 보는 플레이어는 음식 조각으로 주사위의 점들을 일대일로 일치시킬 수 있습니다. 더 큰 음식 더미를 가진 사람이 이깁니다! 승자를 결정하려면, 두개의 더미를 일대일로 일치시켜 누구의 더미가 더 큰지 결정하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
+msgstr "아이가 편안하게 할 수 있는 숫자의 범위에 맞게 더미의 크기를 다르게 하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE MORE ONE LESS"
+msgstr "하나 더 한 덜"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
+msgstr "처음 몇 개의 숫자에 대한 이해가 높아지면, 아이에게 ‘하나 더’ 또는 ‘하나 덜’에 대해 질문해 보세요. 예를 들어, 현재 얼마나 많은 품목이 있는지 이야기하지 않고, “하나 더 줄까?” 아니면 “하나 덜 줄까?”라고 물어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n"
+"\n"
+"**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
+msgstr ""
+"**수량과 변화:** 천천히, 현재의 수량과 그것이 어떻게 변하는지 강조하기 시작해 보세요. 접시에 사과 두 조각과 같은 항목의 수를 함께 세어보세요. 사과 조각이 두 개 있다고 요약하고, 아이가 사과 조각을 하나 더 원하는지 아니면 하나 덜 원하는지 물어보세요. 양이 바뀌면, 지금 얼마나 많은 사과 조각이 있는지 물어보세요.\n"
+"\n"
+"**돌아다니기:** 마찬가지로, 당신이 돌아다닐때, 셀 것을 고르세요. 당신 앞에 세 명이 줄을 서 있다고 가정해 보세요. 그것들을 함께 세어보고 한명이 떠나고 한명이 적을 때 몇 명이 있는지 물어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Foundations"
+msgstr "기초"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding 'one more' and 'one less' helps deepen understanding of how numbers sequence, and it also is the foundational skill for beginning addition and subtraction."
+msgstr "‘하나 더’와 ‘하나 덜’을 이해하는 것은 숫자 순서에 대한 이해를 심화시키는데 도움이 되며, 덧셈과 뺄셈을 시작하는 기본 기술이기도 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "IN THE OTHER HAND"
+msgstr "다른 손"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a bowl of small pieces of food."
+msgstr "**설정:** 작은 과자 한 그릇으로 시작하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand."
+msgstr "**방법:** 아이가 그릇에서 가령 5개의 과자를 크게 세고 당신에게 주게 합니다. 이 과자를 아이가 보지 않게 손으로 나눈 다음 한 손은 열고 다른 손은 닫고 두 손을 내밀세요. 아이는 이제 열린 손에 있는 과자를 소리내어 세고 어떤 손을 “훔칠‘지 선택합니다. 손을 열기 전에 아이가 얼마나 많은 과자가 도난당할지 짐작하게 해보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
+msgstr "**이기는 방법:** 도난당한 과자는 아이의 더미 일부가 되며, 남은 과자는 보관합니다. 놀이는 그릇이 비어 있을 때까지 필요한 만큼 계속합니다. 마지막에, 누가 더 많이 가지고 있는지 과자를 나란히 줄 세워서 봅니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "숫자 카드 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Introduction**\n"
+"\n"
+"You only need a few materials for these Early Family Math activities, and they are all very inexpensive and easy to get. Here’s a short list:\n"
+"\n"
+"• Five dice\n"
+"• A deck of playing cards\n"
+"• String (optional)\n"
+"• Sidewalk chalk (optional)\n"
+"• Some stiff paper in various colors (optional)\n"
+"\n"
+"**Make Number Cards**\n"
+"\n"
+"Many EFM activities can be played using decks of playing cards. However, using a Number Card deck will help your child practice ideas that will not be emphasized with regular playing cards. Make your own cards using card stock or any thick paper. You can either use the PDF supplied in Resources or draw your own."
+msgstr ""
+"**소개**\n"
+"\n"
+"가족과 하는 놀이 수학을 위해 몇 가지 자료만 있으면 되고 모두 매우 저렴하고 구하기 쉽습니다. 여기에 짧은 목록이 있습니다:\n"
+"\n"
+"* 주사위 다섯 개\n"
+"* 카드 한 벌\n"
+"* 줄 (선택 사항)\n"
+"* 보도 분필 (선택 사항)\n"
+"* 다양한 색상의 뻣뻣한 종이 (선택 사항)\n"
+"\n"
+"**숫자 카드 만들기**\n"
+"\n"
+"많은 ‘가족과 하는 놀이 수학’ 활동은 카드 한 벌을 사용할 수 있습니다. 하지만, 숫자 카드를 사용하면 아이가 일반 카드 놀이로 강조되지 않을 아이디어를 연습하는 데 도움이 됩니다. 카드 종이나 두꺼운 종이를 사용하여 자신만의 카드를 만들어 보세요. 참고에 있는 PDF를 사용하거나 직접 그릴 수 있습니다."
 
 #. type=data_list
 msgctxt "data_list"
