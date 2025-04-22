@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-21 22:27\n"
+"PO-Revision-Date: 2025-04-22 12:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6248,6 +6248,11 @@ msgstr "박수로 듀엣을 만들어 보세요. 한명이 먼저 박수를 치�
 msgctxt "data_list"
 msgid "When you hear music, listen for the instruments that create the beat."
 msgstr "여러분이 음악을 들을 때, 박자를 만드는 악기에 귀기울여 들어보아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 1 – I CAN HEAR YOU!"
+msgstr "1 단계 - 너의 말을 들을수 있어!"
 
 #. type=data_list
 msgctxt "data_list"
