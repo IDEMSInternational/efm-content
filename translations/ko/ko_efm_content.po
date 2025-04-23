@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-22 22:14\n"
+"PO-Revision-Date: 2025-04-23 04:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7111,6 +7111,26 @@ msgstr "누구인가요?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "이것은 몇몇 사람들을 위한 활동입니다. 리더는 비밀리에 그룹에서 한 사람을 뽑습니다. 비밀의 인물을 좁히기 위해, 플레이어는 “이 사람은 앞면에 삼각형이 있는 셔츠를 입고 있나요?”와 같은 질문을 합니다. 또는 “이 사람의 머리카락 길이가 12인치 이상인가요?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 2 – I CAN COUNT TO 5!"
+msgstr "2 단계 - 난 5까지 셀 수 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Introduction"
+msgstr "2 단계 – 소개"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Introduction"
+msgstr "4 단계 – 소개"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Introduction"
+msgstr "5 단계 – 소개"
 
 #. type=data_list
 msgctxt "data_list"
