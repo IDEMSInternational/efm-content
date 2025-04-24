@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-24 13:02\n"
+"PO-Revision-Date: 2025-04-24 13:58\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8180,6 +8180,95 @@ msgstr "논리적인 것"
 msgctxt "data_list"
 msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
 msgstr "**설정:** 암호 전문가는 암호를 만들고, 상대방은 해독자가 됩니다. 암호는 각각 1에서 5까지 될 수 있는 세 가지 자리가 있다고 가정해 보세요. 그러한 암호의 예는 321일 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code."
+msgstr "**암호를 깨기:** 해독자는 암호를 추측하고 암호 전문가는 추측이 얼마나 가까운지 말합니다. 예를 들어, 해독자가 131을 추측한다면, 암호 전문가는 한 자리는 정확히 옳았고 다른 한 자리는 정확한 숫자를 가지고 있지만 잘못된 자리에 있다고 말합니다. 해독자가 암호를 알아낼 때까지 계속 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "**이기는 방법:** 추측하는 숫자는 해독자의 점수입니다. 가장 낮은 점수가 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Add challenge by having a maximum number of questions that are allowed.\n"
+"• Allow or disallow repeated numbers in the code.\n"
+"• Use shorter or longer lengths for the code.\n"
+"• Use a narrower or wider range of numbers for each place of the code."
+msgstr ""
+"* 허용된 최대 수의 질문을 통해 도전을 추가하세요.\n"
+"* 암호에서 반복되는 숫자를 허용하거나 허용하지 않습니다.\n"
+"* 암호를 더 짧게 또는 더 길게 만들어 보세요.\n"
+"* 암호의 각 자리에 더 좁거나 더 넓은 범위의 숫자를 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "10까지 손가락 덧셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "이것을 위한 두 가지 방법을 보여주기 위해 4 + 2를 사용할 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**방법 1:** 두 숫자가 모두 5 이하인 경우 이 방법을 사용하세요. 한 손에는 손가락 4개, 다른 손에는 손가락 2개를 올려 놓으세요. 두 손을 같이 모아보세요 - 짜잔! 아이는 4와 2가 합쳐진 것이 6이 되는 것을 볼 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**방법 2:** 숫자중 하나에서 “계산”을 사용하여 최대 10의 합계에 도달해 보세요.\n"
+"\n"
+"**예:** 4와 2을 더하기 위해서 한 손은 4개의 손가락을 올리고 0에서 2까지 크게 세세요. 0이후의 말로 나오는 숫자에 대해, 손가락을 하나 더 올리세요. 2에 도달하면, 6개의 손가락이 올려져 있어야 합니다.\n"
+"\n"
+"이 방법은 5보다 큰 숫자를 추가할 수 있게 해줍니다. 아이는 더 많은 수의 손가락을 들고 더 적은 숫자를 사용하여 숫자를 세는 것이 더 쉽다는 것을 깨닫게 될 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "10까지 손가락 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "손가락 수학"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "여기에는 뺄셈을 위한 두 가지 방법이 있습니다 - “가져가기” 또는 “차이“. 아이는 두 가지 방법 모두에 익숙해져야 합니다. 여기에 8 - 5가 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "**가져가기 (왼쪽):** 8개의 물건 중 5개를 가져간 후에 남은 것으로 8 -5를 생각해 보세요. 다음으로, 0에서 5까지 큰 소리로 세고, 0 이후의 각 숫자마다 한 손가락을 내려 놓으세요. 5에 도달하면 세 개의 손가락이 남을 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"**차이 (오른쪽):** 이 방법은 8 -5를 두 숫자 사이의 차이 또는 거리를 찾는 것입니다. 5개의 손가락을 들고 시작하세요. 그런 다음 들어올리는 새 손가락을 세고, 8개의 손가락이 들어올렸을 때 3개의 차이가 세어질 것입니다.\n"
+"\n"
+"이 방법은 “계산” 덧셈 방법을 사용하여 8을 얻기 위해 5에 추가할 숫자를 찾습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "숫자가 그 자체에서 뺀 문제와 0을 뺀 문제를 섞으세요."
 
 #. type=data_list
 msgctxt "data_list"
