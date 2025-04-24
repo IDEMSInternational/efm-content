@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-24 22:16\n"
+"PO-Revision-Date: 2025-04-24 23:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8426,6 +8426,80 @@ msgstr "도형의 합계"
 msgctxt "data_list"
 msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
 msgstr "**도전:** 사라진 원을 채워서 모든 원형은 바로 아래에 있는 모든 원과 그것에 연결되어 있는 원들의 합계가 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"가장 쉬운 퍼즐에는 대부분의 원이 채워져 있습니다. 나이가 든 아이들의 경우는 더 많은 숫자와 더 영리한 해법이 있는 변형이 있습니다.\n"
+"\n"
+"**반복되는 숫자들:** 한 가지 방법은 반복되는 숫자에는 원이 아닌 모양을 사용하는 것입니다. 원형에 있는 값이 다른 원이나 모형의 값과 중복될 수 있지만 원형이 아닌 모양의 값은 같은 모양의 모든 곳의 값과 일치해야만 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"예를 들어, 모든 정사각형은 동일한 값을 갖습니다. 일치하는 모양을 사용하여 쌍둥이 더하기, 유사한 쌍둥이 더하기, 이등분을 연습합니다 - 첫 번째 예는 문제를 푸는 사람이 8의 절반인 숫자를 찾도록 합니다.\n"
+"\n"
+"**만드는 방법:** 완전히 채워진 도형으로 시작하여 퍼즐을 만드세요. 그런 다음 일부 숫자를 제거합니다. 퍼즐에 반복되는 숫자가 있는 경우 정사각형, 삼각형, 또는 원형을 대신하는 다른 모양을 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MYSTERY CHANGE"
+msgstr "의문의 변화"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fact Families"
+msgstr "숫자 가족"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**게임 방법:** 아이에게 적은 수의 물건을 세어보도록 하세요. 아이가 시선을 돌리는 동안, 물건의 수를 바꿉니다. 아이가 다시 보면, 어떤 변화를 주었는지 물어보세요. 아이가 일어난 일이라고 생각하는 것을 재현하여 자신의 이론을 시험해 볼 수 있습니다.\n"
+"\n"
+"**변형** 이것이 쉬어지면, 아이들이 더욱 창의적으로 대답할도록 할 수 있습니다. 예를 들어, 4가 6이 된다면, 4를 두 배 늘린 다음 2를 빼는 것이 답일 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTRODUCING 10’S"
+msgstr "10단위의 소개"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. Before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The games on the next pages are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next Stage."
+msgstr ""
+"열 손가락 너머의 세계에 오신 것을 환영합니다! 여기에는 발견할 수 있는 놀라운 것들이 있습니다. 10부터 20까지의 다음 숫자 그룹은 아이가 이미 알고 있는 숫자보다 10이 더 많습니다. 이것이 쉬워지기 전에, 당신의 아이는 열하나, 열둘, 열셋 같은 이상한 이름들을 정복해야 합니다.\n"
+"\n"
+"다음 페이지의 게임은 6과 16과 같은 숫자의 쌍을 연결하는 숫자인 10의 역할을 강조하도록 설계되었습니다. 이 게임은 또한 16은 10 더하기 6이라는 생각을 강조합니다. 자릿값을 사용하여 숫자를 분해하는 이러한 관점은 아이가 다음 단계에서 100까지 셀수록 더욱 중요해집니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING NUMBER CARDS 1 TO 20"
+msgstr "0에서 20까지의 숫자 카드 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
+msgstr "아직 가지고 있지 않다면, 0에서 20까지 확장된 숫자 카드를 만드세요. 한 벌의 카드는 일반 숫자이고, 다른 한 벌의 카드는 0에서 20까지 0 + (0 to 9), 10 + (0 to 9), 그리고 20 + 0와 같이 확장된 형태의 숫자를 가지고 또 다른 한 벌은 10 프레임을 사용합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO WITH 10"
+msgstr "10의 빙고"
 
 #. type=data_list
 msgctxt "data_list"
