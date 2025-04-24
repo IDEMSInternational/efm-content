@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-24 03:26\n"
+"PO-Revision-Date: 2025-04-24 04:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7604,6 +7604,479 @@ msgstr ""
 "답변자: 나의 숫자는 6보다는 더 작아요.\n"
 "질문자: 숫자는 5와 어떻게 비교되나요?\n"
 "답변자: 잘 했어요! 나의 숫자는 5와 같아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "끼워 넣기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "아이에게 작은 물체의 작은 숫자, 가령 7를 주고 함께 세어보세요. 목표 숫자, 가령 5를 고르세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "가능하다면, 아이에게 일곱 개의 물체로 구성된 원래 그룹에서 다섯 개의 물체를 꺼내도록 시켜보세요. 이것은 당신의 아이가 숫자의 상대적인 크기와 그들이 서로 얼마나 크거나 작은지 배우는 데 도움이 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "처음에는, 목표 숫자는 총 숫자보다 작거나 같아야 합니다. 나중에, 너무 큰 숫자를 주는 것은 수량의 상대적인 크기에 대한 연습을 제공할 뿐만 아니라 시키는 것이 합리적인지 확인하는 연습을 하게 해줍니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "보이지 않는 덧셈과 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**첫번째:** 아이가 작은 수의 물건을 세어보게 하고 그것들을 상자에 넣도록 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**다음:** 아이에게 상자에 있는 물건과 같은 수의 손가락을 들어보게 하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**마지막으로:** 아이에게 상자에 하나 또는 두 개의 물건을 더하고 (또는 빼고) 있다는 것을 보여주고, ‘지금 상자 안에 몇 개의 물건이 있어요?“라고 물어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "이것이 너무 쉬워지면, 두 개 이상의 물건을 더하거나 뺄수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "숫자 줄 전함"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**설정:** 각 플레이어는 두 개의 숫자 줄을 가집니다 - 하나는 전함을 위한 것이고 다른 하나는 추측을 위한 것입니다. 이 숫자 줄은 0에서 12까지 갑니다 (또는 아이가 더 많이 셀 수 있다면 더 높은 숫자까지 갑니다). 서로 볼 수 없게 하고, 각 플레이어는 전함 숫자 줄에 전함이 될 두 개의 숫자에 토큰을 놓습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**게임 방법:** 설정 후, 플레이어들은 번갈아 가며 숫자를 추측합니다. 플레이어가 추측할 때, 상대방은 추측이 가장 가까운 목표에 얼마나 가까웠는지 말합니다 - 추측자는 두 번째 숫자 줄에 그 정보를 표시합니다.\n"
+"\n"
+"**이기는 방법:** 목표에 도착하는 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* 더 넓은 범위의 숫자를 사용하세요.\n"
+"* 추측에 대한 반응은 정확한 양이 아닌 거리의 범위일 수 있습니다. 예: “가장 가까운 배는 1 또는 2로 떨어져 있어.”\n"
+"* 길이가 두 개 또는 세 개의 공간이 있는 선박을 가지고 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "무엇이 없어졌나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "더 크고 더 작은 숫자들"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "작은 것들의 적은 숫자를 세어보세요. 아이가 딴 곳을 볼때, 몇 개를 숨기세요. 아이가 다시 돌아보면, 몇 개가 숨겨져 있는지 물어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**예:** 테이블에 건포도 6개가 있다고 가정해 봐요. 아이가 딴 곳을 보게 하고 그 중 2개를 그릇으로 덮으세요. 아기가 다시 돌아보면, 눈에 보이는 건포도 4개를 세고 총 6개가 있다면 그릇 아래에 얼마나 많은 건포도가 있는지 물어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "추리"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "아이가 이것을 알아내는 한 가지 방법은 4에서 6까지 “계산”을 하는 것입니다 - 아이가 4, 5, 6을 셀 때, 0개의 손가락으로 시작하여 한 번에 한 손가락을 들어 올려 2개의 손가락에 도달하게 하세요. 마찬가지로, 아이는 6에서 4까지 “거꾸로 세기”로 거의 같은 것을 할 수 있습니다. 4 더하기 2가 6이 되는 것은 6에서 2를 빼는 것과 함께 묶여 있다는 것을 보는 것은 숫자가족을 이해하는데 좋은 연습입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "기능 매칭 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr "모양 카드에는 세 가지 특성이 있습니다: 모양 (원형, 삼각형, 정사각형); 세기 (하나, 둘, 셋); 색상 (빨간색, 파란색, 검은색)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**설정:** 각 플레이어에게 다섯 장의 카드를 나눠주세요. 남은 카드를 뽑기 더미에 뒤집어 놓으세요. 새로운 스택을 시작하기 위해 뽑기 더미의 제일 위의 카드를 앞면으로 돌려주세요. 번갈아 가며 스택에 카드를 놓으세요 - 새 카드는 제일 위의 카드와 두 가지 기능이 일치해야 합니다. 본인의 차례에서 카드를 놓을수 없다면, 뽑기 더미에서 카드를 뽑고 차례를 끝내세요.\n"
+"\n"
+"**이기는 방법:** 카드가 다 떨어지는 첫 번째 사람이 이깁니다. 뽑기 더미가 다 떨어지면, 손에 카드가 가장 적은 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* 제일 위의 카드와 하나의 특성만 일치하여 게임을 단순화하세요.\n"
+"* 각 카드가 합법적인 플레이면 한 플레이어가 한 차례에 하나 이상의 카드를 이전 카드 위에 놓을 수 있도록 허용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "기능 매칭 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "시작 카드로 모양 카드를 선택하세요. 예를 들어, 이것은 두 개의 파란색 원이 있는 카드입니다. 합법적으로 플레이할 수 있는 4-8장의 카드 순서를 만드세요 - 각 카드는 이전 카드와 두 가지 기능을 공유해야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"사용하지 않는 카드를 제쳐두고, 시작 카드를 분리하고, 퍼즐 카드를 섞으세요.\n"
+"\n"
+"**도전:** 섞인 카드를 가지고 시작 카드위에 일련의 법적 움직임에 배치하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "세 쌍둥이"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"설정:} 각 사각형에 모양 카드를 보관할 수 있을 만큼 큰 틱-택-토 격자를 만드세요. 각 특성이 두 개가 있는 모양 카드 8개를 판자 주변에 놓으세요.\n"
+"\n"
+"**게임 방법:** 플레이어는 번갈아 가며 상대가 판자에 놓을 사용하지 않은 카드를 고릅니다. 판자에 있는 카드는 세 장을 연속으로 얻기 위해 어느 플레이에서나 사용할 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**이기는 방법:** 적어도 하나의 공통 특성과 함께 연속으로 3장의 카드를 완성하는 카드를 놓는 사람이 이깁니다! 만약 모든 카드가 이기는 사람 없이 돌아간다면, 그것은 동점 게임입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "카드를 뽑기 더미에 앞면으로 놓고 각 플레이어가 제일 위에 있는 카드를 가져가도록 함으로써 게임을 단순화하고 행운의 요소를 더합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "모양 스도쿠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "모양 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**설정:** 네 가지의 각각 다른 유형을 가진 네 개의 토큰을 사용하세요. 예를 들어, 다른 색깔의 곰 제리를 사용하세요. 우리는 주황색 삼각형, 파란색 사각형, 빨간색 원형, 보라색 다이아몬드를 사용했습니다.\n"
+"\n"
+"**만드는 방법:** 답변으로 시작하여 이 퍼즐 중 하나를 만드세요 - 이것은 각 행과 열에 각 종류 중 하나, 그리고 각 2x2 격자의 모서리에 각 종류 중 하나가 있는 토큰 패턴이 될 것입니다. \\\\ “답변”이 있으면, 토큰 중 일부를 꺼내서 옆에 더미에 놓으세요.\n"
+"\n"
+"**도전:** 사용된 토큰을 되돌리는 방법을 알아내기 위해 아이에게 퍼즐을 주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "퍼즐을 만드는 전략"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "퍼즐을 만들기 위한 몇 가지 간단한 전략이 있습니다: 각 행에서 하나의 토큰을 제거하세요; 한 종류의 토큰과 다른 토큰을 모두 제거하세요; 또는 전체 행과 열을 제거하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "마법의 손 - 덧셈과 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "이것은 덧셈과 뺄셈을 연습하기 위한 마술입니다. 아이가 무슨 일이 일어나고 있는지 볼 수 있도록 이것을 충분히 천천히 하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**덧셈:** 더해서 5 이하가 되는 두 개의 숫자를 선택하세요. 왼손에 올린 손가락 수를 가령 3이라고 하고 세어 보세요. 오른손에 올려진 손가락 수를 가령 1이라고 하고 세어 보세요. 두 손을 모으고 짜잔 - 오른손의 손가락이 왼쪽으로 옮겨집니다 - 이제 4개의 손가락이 들려있습니다. 마술!\n"
+"\n"
+"‘3개의 손가락과 1개의 손가락이 4개의 손가락을 만들었어요. 짜잔!’ 이라고 말함으로써 요약하세요.\n"
+"\n"
+"**뺄셈:** 왼손으로 손가락 몇 개 가령 4개를 들어보세요. 오른손을 뻗어 손가락 몇 개 가령 1개를 잡습니다. 왼손에 3개의 손가락을 올리고 오른손에 1개의 손가락을 올라갈 것입니다. 4에서 1을 가져가면 3이 된다고 요약하거나, 4를 3과 1의 두 조각으로 깨뜨렸다고 말하세요. 이 표현은 주어진 합계에 합산되는 숫자 ‘합집합’의 개념을 강조합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "중요한 특별한 경우"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* 덧셈: 한쪽 또는 양쪽 손이 0개의 손가락을 올리고 0을 추가할 때 아무 변화가 없다는 것을 보여주세요.\n"
+"* 뺄셈: 아무것도 남지 않도록 모든 손가락을 빼고, 때로는 아무것도 변하지 않았다는 것을 보여주기 위해 아무 손가락도 빼지 않습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "빠른 숫자놀이"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "손가락 수학의 시작"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"아이가 물건의 수를 쉽고 빠르게 인식할 수 있도록 도와주세요. 두 가지 방법으로 연습하세요.\n"
+"\n"
+"**10개의 프레임을 사용하기:** 10개의 프레임이 있는 숫자 카드를 사용하세요. 무작위로 카드를 선택하고 아이가 수량을 인식할 수 있는지 장난스럽게 확인하세요. 다양성을 주기 위해, 아이가 가끔 당신에게 퀴즈를 내보도록 하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**손가락 사용하기:** 한 손 또는 양손에 손가락을 보여주고 아이가 총 수를 인식하도록 하세요. 다섯 개 이상의 숫자에 두 손을 사용할 때, 두 손 중에 하나는 다섯 개의 손가락을 들어 올려야 합니다 - 그렇게 하면 열 개의 프레임처럼 보입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "대칭 모양 자르기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions."
+msgstr "키리감은 종이 조각을 접어서 디자인을 만드는 예술입니다. 접힌 상태에서 종이를 자르세요.접힌 부분이 한 번 이상일수도 있고 접힌 부분이 서로 다른 방향으로 만들어질 수도 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other."
+msgstr "종이를 한 번 접고 자르면 한쪽은 다른 쪽의 거울 이미지이거나 반대편의 반사 디자인이 완성됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ideas to explore"
+msgstr "탐색할 아이디어"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Experiment with cutting out faces, lamps, or geometric shapes.\n"
+"• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n"
+"• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape."
+msgstr ""
+"* 얼굴, 램프 또는 기하학적 모양을 잘라내어 실험해 보세요.\n"
+"* 교차하는 두 번 접기를 사용하여 두 방향의 거울 이미지가 있는 디자인을 만듭니다. 이것은 꽃과 같은 디자인을 쉽게 만들 수 있습니다.\n"
+"* 다양한 접기와 자르기를 시도해 보세요. 동일한 두번 접기부터 시작하여 마지막 예에서와 같이 눈송이 디자인을 만들어 보세요. 그런 다음, 접힌 종이를 3등분으로 나누는 접기를 두 번 더 사용합니다.\n"
+"* 거꾸로 작업하여 게임을 만들어 보세요 - 종이에 대칭적인 모양을 그리고 접힌 종이를 잘라내어 같은 모양을 만들도록 서로 도전해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "모양을 찾기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "그림"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
+"\n"
+"**How to play:** Players take turns putting their tokens on points where the lines cross in the grid."
+msgstr ""
+"**설정:** 다섯개의 수평선과 수직선을 사용하여 빈 5x5 격자를 만듭니다.\n"
+"\n"
+"**게임 방법:** 플레이어는 차례대로 자신의 토큰을 격자의 교차하는 선 위에 놓습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The first player with four tokens on the corners of a square of any size wins."
+msgstr "**이기는 방법:** 어떤 크기이던지 사각형 모서리에 4개의 토큰을 가진 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow squares with diagonal sides (pictured above).\n"
+"• Use grids larger than 5 by 5."
+msgstr ""
+"* 대각선 면이 있는 정사각형을 허용합니다.\n"
+"* 5x5보다 더 큰 격자를 사용합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAG STORIES – ADD AND SUBTRACT"
+msgstr "주머니 이야기 - 덧셈과 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”"
+msgstr "**주머니에 대한 이야기:** 당신과 아이는 각각 몇 가지 물건이 들어있는 주머니를 가지고 있는 척합니다. 한 사람은 다음과 같은 이야기를 만듭니다: “너의 주머니에는 건포도 3개가 있고 난 그것보다 1개가 더 있어. 난 몇 개를 가지고 있을까?” 아이가 편안해지면 아이가 가끔 질문을 하게 하세요 - 이것은 종종 아이들에게 매우 즐거운 일입니다. 특히 당신이 종종 “실수”를 하는 경우에는 더욱 그렇습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n"
+"\n"
+"**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”"
+msgstr ""
+"**복잡성 더하기:** 이러한 이야기는 경험을 통해 더욱 정교해질 수 있습니다. 예를 들어, 이야기는 “나는 너보다 쿠키가 2개 적고 우리는 6개를 가지고 있어. 넌 몇 개의 쿠키를 가지고 있니?” 또 다른 예는 다음과 같습니다. “넌 나보다 두 배나 많은 사탕을 가지고 있어. 우리는 함께 9개의 사탕을 가지고 있어. 넌 몇 개의 사탕을 가지고 있니?”\n"
+"\n"
+"**다른 줄거리:** 주머니와 음식 조각의 사용하는 것은 두마리 (또는 더 이상) 종류의 물고기가 담긴 어항이나 아이가 좋아하는 다른 것들을 사용하세요. 어항일 경우 다음과 같은 이야기를 만들수 있습니다. “어항에는 일곱 마리의 물고기가 있고 테트라보가 금붕어가 한 마리 더 많아요. 금붕어는 몇 마리가 있나요?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH STORIES"
+msgstr "수학 이야기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "숫자 이야기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories are a fun way to add interest to calculations. Here are two examples of such stories:"
+msgstr "이야기는 계산에 흥미를 더하는 재미있는 방법입니다. 다음은 그러한 이야기의 두 가지 예입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n"
+"\n"
+"**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?"
+msgstr ""
+"**의자:** 방안에는 네 개의 의자가 있습니다. 처음에는 두 명이었지만 그 다음에는 세 명이 더 나옵니다. 다들 앉을 수 있나요? 이것은 단순히 2+3은 4보다 큰지 물어보는 것보다 더 흥미롭습니다.\n"
+"\n"
+"**아이스 크림:** 두 명의 친구와 나는 아이스크림을 먹고 있습니다. 나는 내가 받은 것보다 한 스쿠프 더 많이 각 친구에게 줄것입니다. 만약 10 스쿠프가 있다면 난 몇 스쿠프를 가질 수 있을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions."
+msgstr "음식이나 동물등 아이가 관심을 가질 만한 주제를 선택하세요. 아이가 더 잘하게 되면, 일부 이야기는 다소 모호하게 만들어서 아이가 더 많이 분석하고 명확한 질문을 하는 방법을 배우게 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variable names"
+msgstr "숫자에게 재미있는 이름 지어주기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
+msgstr "활동에서 누락된 숫자에 재미있는 이름을 사용하여 변수 이름에 대해 아이디어를 소개합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – 1 MORE/LESS"
+msgstr "집에서 나가기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this."
+msgstr "**설정:** 1부터 10까지의 숫자가 있는 카드 한 벌을 사용합니다. 같이 사용하는 종이에 상자나 0부터 11까지 숫자가 매겨진 간단한 그림을 그립니다. 순서를 알아내는 연습을 하기위해서는 종이위에 상자들을 순서대로 놓치 마세요. 각 플레이어는 다른 플레이어와 구별되는 7개의 다른 토큰을 가집니다 - 다양한 색상을 사용하는 것도 한 가지 방법입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to place all their tokens wins."
+msgstr ""
+"**게임 방법:** 차례에 따라 플레이어는 카드를 선택하고 토큰을 다른 플레이어의 토큰이 3개 이상이 있지 않은 집에 놓습니다. 집에 상대방의 토큰이 한 개 또는 두 개가 있으면 해당 토큰을 상대방에게 돌려주며 “내 집에서 나가세요.”라고 말합니다.\n"
+"\n"
+"**이기는 방법:** 모든 토큰을 먼저 배치한 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n"
+"• Use a smaller or larger range of Number Cards and boxes.\n"
+"• Allow moves to houses that are 2 numbers more or less."
+msgstr ""
+"* 숫자를 배울 준비가 되지 않은 아이의 경우, 숫자 카드와 점이 표시된 상자를 사용하세요.\n"
+"* 더 작거나 더 큰 범위의 숫자 카드와 상자를 사용하세요.\n"
+"* 2보다 더 많거나 적은 숫자의 집에 옮길 수 있게 허용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE IN-BETWEEN GAME"
+msgstr "중간적인 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "순서"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens."
+msgstr "**설정:** 0에서 10까지의 카드 한 세트를 사용하세요. 숫자 카드나 퀸은 0이고 에이스는 1인 카드를 사용하세요. 각 플레이어는 또한 20개의 토큰을 가집니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n"
+"\n"
+"**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins."
+msgstr ""
+"**게임 방법:** 차례인 플레이어에게 두장은 앞면이 위로 향하고 세 번째 카드는 뒷면이 아래로 향하게 카드를 나눠줍니다. 플레이어는 두 카드 사이에 있는 세 번째 카드에 0에서 3개의 토큰을 베팅하기로 결정합니다. 플레이어가 옳다면 플레이어는 다른 플레이어로부터 그만큼의 토큰을 얻습니다. 플레이어가 틀린 경우, 그 만큼의 토큰을 상대방에게 줍니다.\n"
+"\n"
+"**이기는 방법:** 5라운드를 하거나 한 플레이어의 토큰이 부족할 때까지 계속 할 수 있습니다. 가장 많은 토큰을 얻는 사람이 이깁니다."
 
 #. type=data_list
 msgctxt "data_list"
