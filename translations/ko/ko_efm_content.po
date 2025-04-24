@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-24 16:56\n"
+"PO-Revision-Date: 2025-04-24 16:58\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8364,6 +8364,16 @@ msgstr "다른 크기들"
 msgctxt "data_list"
 msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
 msgstr "4x4 격자가 초보자에게 너무 어렵다면, 더 작은 것부터 시작하세요. 격자는 작게는 2x2 또는 아이가 원하는 만큼 크게 만들수 있습니다. 숫자가 적힌 종이는 언제나 격자의 크기보다 하나 더 작게 합니다. 예를 들어, 2x3 격자는 1에서 5의 카드를 사용합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 3 – I CAN COUNT TO 10!"
+msgstr "3 단계 - 난 10까지 셀 수 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Introduction"
+msgstr "3 단계 – 소개"
 
 #. type=data_list
 msgctxt "data_list"
