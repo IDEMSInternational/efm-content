@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-25 00:16\n"
+"PO-Revision-Date: 2025-04-25 04:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8738,6 +8738,81 @@ msgstr ""
 "20으로 끝나는 2단위를 위아래로 건너 뛰어 세어보세요.\n"
 "\n"
 "처음에는, 0이나 20에서 시작하지만, 결국에는 아무 숫자에서나 시작하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM GROUPS"
+msgstr "합계 그룹"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use a rectangular grid of numbers with a target sum of your choosing between 5 and 12."
+msgstr "5에서 12사이에서 원하는 목표 합계를 갖는 직사각형 숫자 격자를 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find groups of two or three numbers that add up to the target and share sides. When complete, the entire puzzle will be made up of identified groups. Use tokens, such as different types of food items, to identify each group within the puzzle.\n"
+"\n"
+"**Puzzle creation:** Create these puzzles by starting with an empty grid and working your way around the grid using pairs and triples that add up to the target sum. It’s more fun if the puzzle has just one solution, but it's okay if it doesn't."
+msgstr ""
+"**도전:** 목표까지 더하고 같은 면을 공유하는 2 또는 3개로 된 그룹을 찾습니다. 다 끝이 나면, 식별된 그룹으로 구성된 퍼즐이 만들어 집니다. 퍼즐안에 있는 각각의 그룹을 식별하기 위해 다른 유형의 음식과 같은 토큰을 사용합니다.\n"
+"\n"
+"**퍼즐 만들기:** 빈 격자에서 시작하여 두 배와 세 배를 더해서 목표 합계까지 도달하는 퍼즐을 만들어 보세요. 퍼즐이 단 한 가지의 답이 있으면 더 재미있지만 그렇지 않아도 괜찮습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH WITH SUMS"
+msgstr "합계와 낚시가기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Using a target sum that your child is comfortable with, remove cards at or above that target from the Number Card deck. If there are more than two players and you have restricted the numbers significantly, you may need to use several decks.\n"
+"\n"
+"**How to play:** Play starts by dealing 5 cards to each player. Put the remaining cards in a common draw pile. Players take turns “fishing” for cards whose number will sum to the target sum with cards they already have.\n"
+"\n"
+"For example, a player might ask a player, “Do you have any 4’s?” If that player has some 4’s, they are handed over and the original player gets another turn. However, if that player does not have any 4’s, then the player says “Go Fish!” and a card is drawn from the draw pile. If the drawn card matches with a card they have, the player may have another turn; otherwise, the turn is over and play continues to the left. When a player has a pair of cards that sum to the total, the player puts that pair on the table in front of them.\n"
+"\n"
+"**How to win:** The game is over when all cards are in pairs. The player with the most pairs wins."
+msgstr ""
+"**설정:** 숫자 카드에서 해당 목표보다 더 많은 카드를 제거하고 아이가 편안하게 느끼는 목표 합계를 사용하세요. 두 사람이상일 경우 숫자가 상당히 제한되어 있으면 한 벌 이상의 숫자카드를 사용해야 할 수 있습니다.\n"
+"\n"
+"**게임 방법:** 각 플레어어에게 5장의 카드를 나누어 주는 것으로 시작됩니다. 남은 카드를 모두가 쓰는 뽑기 더미에 넣어보세요. 플레이어는 가지고 있는 카드에 목표 합계를 계산할 수 있는 카드 “낚시”를 번갈아 가며 합니다.\n"
+"\n"
+"예를 들어, 플레이어는 상대방에게 “4가 있나요?” 라고 물을 수 있습니다. 상대방이 4를 가지고 있으면, 그들은 카드를 넘겨주고 플레이어는 또 다른 차례를 얻습니다. 하지만 상대방이 4가 없으면 그 사람은 “낚시 가!”라고 말하고 뽑기 더미에서 카드 한 장을 뽑습니다. 만약에 뽑은 카드가 가지고 있는 카드와 일치하면 플레이어는 또 다른 차례를 가질 수 있습니다; 그렇지 않으면, 차례는 끝나고 왼쪽에 있는 사람이 계속합니다. 플레이어가 합이 목표 합계와 같은 한 쌍을 가지고 있을때, 해당 쌍을 자신 앞의 테이블에 놓습니다.\n"
+"\n"
+"**이기는 방법:** 모든 카드가 쌍으로 짝을 이루면 게임이 끝납니다. 가장 많은 짝을 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create some variety, allow players to use more than two cards to create a group of cards that sum to the target sum. Another possibility is to say that two cards match when their difference is a specified target difference."
+msgstr "다양성을 만들려면, 플레이어가 두 개 이상의 사용하여 그 합계가 목표 합계가 될 수 있게 카드 그룹을 만들 수 있도록 허용합니다. 또 다른 가능성은 두 카드의 차이가 지정된 목표 차이와 일치한다고 말하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHICH NUMBER AM I"
+msgstr "난 어떤 숫자일까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Depending on whether there are one or two children playing, there are two ways to play.\n"
+"\n"
+"**Two children:** Each child draws a card and places it on their forehead facing out without seeing it. You announce the sum of the cards and the children are challenged to figure out their own card by looking at the other child’s card.\n"
+"\n"
+"**Adult with one child:** Create several pairs of cards in advance where each pair of cards has the same total known to all. The unused cards are moved to the side. Pick up one random pair of cards, place the cards on your foreheads, and figure out each card by looking at the other person’s card."
+msgstr ""
+"한 명인지 두 명의 아이인지에 따라 두 가지 놀이 방법이 있습니다.\n"
+"\n"
+"**두 명의 아이들:** 각 아이는 카드를 보지 않고 뽑아서 앞면이 보이게 이마에 올려 놓습니다. 당신은 합계를 발표하고 아이들은 상대방의 카드를 보고 자신의 카드의 숫자를 찾아내야 합니다.\n"
+"\n"
+"**어른과 아이 한 명:** 한 쌍의 카드가 모두에게 알려진 동일한 합계를 가진 여러 쌍의 카드를 미리 만듭니다. 사용하지 않은 카드는 옆으로 옮깁니다. 무작위로 한 쌍의 카드를 뽑아 이마에 놓고 상대방의 카드를 보면서 각 카드를 알아냅니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHOPSTICKS HAND GAME"
+msgstr "젓가락 손 게임"
 
 #. type=data_list
 msgctxt "data_list"
