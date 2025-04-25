@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-25 04:15\n"
+"PO-Revision-Date: 2025-04-25 05:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8813,6 +8813,574 @@ msgstr ""
 msgctxt "data_list"
 msgid "CHOPSTICKS HAND GAME"
 msgstr "젓가락 손 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** All players start with one finger raised on each hand.\n"
+"\n"
+"**How to play:** During a turn, a player has the choice of either “attacking” or “splitting.”\n"
+"\n"
+"**Attacking:** To attack, a player takes a live hand and attacks a live hand of an opponent. The result is that the opponent's hand has the sum of the two hands and the attacking player’s hand is unchanged. If a hand ends up with exactly five fingers, it is dead. If the hand has over five fingers, its count is either reduced by five (in one set of rules) or is dead (an alternate set of rules).\n"
+"\n"
+"**Splitting:** To split, a player bangs their hands together and redistributes the fingers between the two hands. A split may not reverse the two finger counts.\n"
+"\n"
+"**How to win:** A player wins when both hands of everyone else are dead. In one variation, the first player to have two dead hands wins."
+msgstr ""
+"**설정:** 모든 플레이어는 양손에 손가락 하나씩을 들고 시작합니다.\n"
+"\n"
+"**게임 방법:** 차례동안, 플레이어는 “공격” 또는 “분할”을 선택할 수 있습니다.\n"
+"\n"
+"**공격:** 공격하려면, 플레이언가 실제 손을 잡고 상대방의 실제 손을 공격합니다. 상대방의 손은 두 손의 합계를 가지고 공격한 사람의 손은 변하지 않는 결과를 가지는 것입니다. 손이 정확히 5개의 손가락으로 끝나면 그 손은 죽은 것입니다. 만약 손이 5개로 줄어들거나 (한 규칙 세트에서) 죽으면 (대체 세트의 규칙) 5개 이상의 손가락이 됩니다.\n"
+"\n"
+"**분할:** 분할하려면, 플레이어가 두 손을 서로 부딪치고 두 손 사이에 손가락을 재분배합니다. 분할을 두 손가락 수를 반대로 할 수 없습니다.\n"
+"\n"
+"**이기는 방법:** 다른 모든 사람의 양 손이 모두 죽으면 이깁니다. 한 가지 변형에서는 두 개의 죽은 손을 가진 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING UP"
+msgstr "올라가기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
+msgstr "**설정:** 각 플레이어는 4 -10개의 계단을 (나이든 플레이어는 더 많은 계단을) 그립니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a two-digit number using cards numbered from 0 to 9. Determine the tens digit by selecting from cards 0 and 1, and then determine the ones digit by selecting from all the cards. If possible, the player must place this number on their steps.\n"
+"\n"
+"**How to win:** The first player to fill their steps in increasing order from bottom to top wins. Make it easier by allowing neighboring steps to have the same value."
+msgstr ""
+"**게임 방법:** 0에서 9까지의 숫자 카드를 사용하여 두 자리 숫자의 카드를 만듭니다. 0과 1를 선택하여 10의 자리를 결정하고 모든 카드 중에서 선택하여 한 자리 숫자를 정합니다. 가능하다면, 플레이어는 반드시 그 숫자를 계단에 올려놓아야만 합니다.\n"
+"\n"
+"**이기는 방법:** 아래에서 위로 순서대로 계단을 먼저 채우는 사람이 이깁니다. 인접한 계단이 같은 값을 갖도록 허용하여 더 쉽게 만듭니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATING ORDER"
+msgstr "순서를 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order in the House"
+msgstr "집 안의 순서"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a deck of Number Cards that goes from 0 to 40 (higher with more players). Deal ten cards to each player (as few as four for younger players). The dealt cards are placed in front of each player in the order dealt. The remaining cards are placed face down in a draw pile. Place the top card face up as the first card in a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile."
+msgstr ""
+"**설정:** 0에서 40으로 (플레어어가 많을수록 더 높아짐) 시작하는 숫자 카드 한 벌로 시작합니다. 각 플레이어에게 10장의 카드를 나누어 줍니다 (어린 아이들의 경우 4장 정도). 나누어진 카드는 배치된 순서대로 각 플레이어 앞에 놓습니다. 나머지의 카드는 뽑기 더미에 카드 뒷면이 아래로 향하게 놓습니다. 폐기 더미의 첫 번째 카드는 앞면이 보이게 놓습니다.\n"
+"\n"
+"**게임 방법:** 차례 동안, 플레이어는 폐기 더미에 있는 맨 위 카드 또는 플레이어 앞에 있는 카드를 대체할 때 쓰는 뽑기 카드에서 선택하고 대체한 카드는 폐기 더미 위에 앞면이 보이도록 놓습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The goal of the game is to get the cards in inreasing order from left to right."
+msgstr "**이기는 방법:** 게임의 목표는 카드를 왼쪽에서 오른쪽으로 증가하는 순서로 카드를 가지는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring variations"
+msgstr "득점 변형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr "순서대로 카드를 가장 먼저 가져오는 사람이 이기는 게임을 할 수 있습니다. 또는 각 라운드에 포인트 방식을 사용할 수 있습니다. 이 방식에서는 승자는 15점을 받습니다. 상대방은 가장 낮은 카드부터 시작하여 가지고 있는 모든 카드에 대해 1점을 받습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLOSEST TO 10"
+msgstr "10에서 가장 가깝다"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards from 1 to 10. Choose a target sum, say 10.\n"
+"\n"
+"**How to play:** Each round starts by dealing five cards face down on the table. One player randomly chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given, face up, to the other player to choose two cards to get close to the target.\n"
+"\n"
+"**Scoring:** The player whose result is closest to the target from either side wins a point. Have a number line handy to use for discussions about which result is closer to the target sum."
+msgstr ""
+"**설정:** 1에서 10까지의 카드 한 벌을 사용하세요. 목표 합계 (예: 10)를 선택하세요.\n"
+"\n"
+"**게임 방법:** 각 라운드는 5장의 카드를 테이블 위에 뒷면이 보이도록 놓는 것으로 시작됩니다. 플레이어는 그 카드 중 3장을 무작위로 선택하여 뒤집습니다. 그 3장 중에 두 장의 카드를 합하여 목표에 가장 가깝게 만듭니다. 사용하지 않은 카드 3장은 앞면을 보여 상대방이 목표에 가까운 두 장의 카드를 선택하게 합니다.\n"
+"\n"
+"**득점:** 양쪽에서 목표에 가장 가까운 결과를 얻은 플레이어가 점수를 얻습니다. 어느 결과가 목표 합계에 더 가까운지에 대한 토론에 사용하기 편리한 수직선을 준비하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you use subtraction instead of addition, use a lower target number, say 4."
+msgstr "덧셈 대신 뺄셈을 사용하는 경우, 더 낮은 목표 숫자(예: 4)를 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ZOO RESCUE"
+msgstr "동물원 구출"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Small Adding and Subtracting"
+msgstr "작은 덧셈과 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+"\n"
+"**How to play:** During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box.\n"
+"\n"
+"**How to win:** The first player to rescue all their tokens wins.\n"
+"\n"
+"**Strategy:** An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others – you can discuss ideas about why this is."
+msgstr ""
+"**설정:** 주사위 2개 또는 1에서 6까지의 숫자 카드를 사용합니다. 각 플레이어는 6개의 토큰을 가집니다 - 동물 토큰이 이 게임에 딱 맞습니다. 각 플레이어는 또한 0에서 5까지의 숫자 상자가 적힌 종이를 가집니다. 각자는 6개의 토큰을 어디에 넣을지 결정합니다 - 한 상자에 한 개 이상의 토큰을 넣어도 괜찮습니다.\n"
+"\n"
+"**게임 방법:** 플레이어의 차례에는 주사위를 굴리거나 두 장의 카드를 뽑아서 두 개의 숫자를 만들고 그 숫자의 차이가 사용됩니다. 플레이어는 그 상자에 하나의 토큰이 있다면 자신의 토큰 중 하나를 해제할 수 있습니다.\n"
+"\n"
+"**이기는 방법:** 모든 토큰을 먼저 구출한 사람이 이깁니다.\n"
+"\n"
+"**전략:** 이 게임의 중요한 부분은 시작하기 위해 토큰을 놓을 좋은 상자를 선택하는 것입니다. 연습을 통해 아이는 어떤 상자가 다른 상자보다 더 많이 나타날 가능성이 있다는 것을 깨닫게 될 것입니다 - 왜 그런지에 대해 아이디어를 토론할 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9."
+msgstr "1에서 10까지의 숫자가 적힌 카드를 사용하고 0에서 9까지의 숫자가 적힌 상자 10개를 준비하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOT POTATO WITH SUMS"
+msgstr "합계와 뜨거운 감자"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a regular deck of playing cards, have a target number of 5, and remove all cards above the target, except for one card – the 'hot potato,' which can be anything else, such as a Joker or face card. Deal the entire remaining deck to all players – it’s okay if some players get one more card than others.\n"
+"\n"
+"**How to play:** All players start by placing on the table from their hands 5’s and any pairs that add up to 5. On your turn, you can pick a random card from any other player’s hand (a simpler rule is that it is always the player on your right). If this new card gives you a pair of cards that add up to the target sum, place the pair on the table; otherwise, keep the card in your hand. Play then moves to the next player on your right.\n"
+"\n"
+"**How to win:** When play ends, the player holding the hot potato loses. Alternatively, you can play that the first player to run out of cards wins."
+msgstr ""
+"**설정:** 일반 카드 한 벌을 사용하고 목표 숫자 5를 가지고 그 목표 숫자 이상은 조커또는 페이스 카드와 같이 “뜨거운 감자”일 수 있는 카드 한장을 제외하고 모두 제거합니다. 남은 전체 카드를 모든 플레이어에게 나눠줍니다 - 플레이어는 상대방보다 카드를 한 장 더 많이 받더라도 괜찮습니다.\n"
+"\n"
+"**게임 방법:** 모든 플레이어는 자신의 카드에서 모든 쌍이 5에 더해지는 카드를 놓습니다. 자신의 차례에 다른 플레이어의 손에서 (더 간단한 규칙은 항상 자신의 오른쪽에 있는 사람입니다) 무작위로 카드를 선택할 수 있습니다. 만약 새 카드가 목표 합계에 더해지는 한 쌍의 카드이면 그 쌍을 케이블 위에 놓습니다; 그렇지 않으면 카드를 자신이 가지고 있습니다. 그런 다음 오른쪽에 있는 다음 사람으로 차례가 이동합니다.\n"
+"\n"
+"**이기는 방법:** 플레이가 끝나면, 뜨거운 감자를 들고 있는 사람이 패배합니다. 다른 방법은 카드를 먼저 다 쓴 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child’s adding skills improve, use larger target numbers up to 10. \n"
+"\n"
+"Varying the target number will provide practice with the various number bonds."
+msgstr ""
+"아이의 덧셈 능령이 향상됨에 따라, 10까지의 더 큰 목표 숫자를 사용하세요.\n"
+"\n"
+"목표 숫자를 다양하게 하는 것은 다양한 합집합의 연습을 제공합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMMON SUMS"
+msgstr "공통 합계"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds"
+msgstr "합집합"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Collect the data:** Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in order in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token(s) will win and why?\n"
+"* Which tokens do well and which ones do poorly?\n"
+"* Which token is the worst?\n"
+"* How will the winners change if the row lengths are made shorter or longer?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"**데이터 수집하기:** 12줄의 종이를 만드세요. 각 행에 8개의 정사각형을 넣으세요.맨 왼쪽 열에는 1에서 12까지의 숫자가 차례로 써진 정사각형이 있습니다. 12개 숫자 각각에 토큰 1개를 놓습니다. 주사위 한 쌍을 굴리기 시작하세요. 매번 굴린 후에는, 주사위의 합을 오른쪽으로 한 칸만큼 나타내는 토큰을 움직입니다. 각 토큰의 목표는 먼저 오른쪽 페이지로 제일 먼저 이동하는 것입니다.\n"
+"\n"
+"아이가 조사할 몇 가지 질문을 생각해 보게 합니다. 몇 가지 자연스러운 질문은 다음과 같습니다:\n"
+"\n"
+"* 어떤 토큰이 이기며 그 이유는 무엇일까요?\n"
+"* 어떤 토큰이 잘 되고 어떤 토큰이 잘 되지 않나요?\n"
+"* 어떤 토큰이 제일 나쁜가요?\n"
+"* 행의 길이가 더 짧거나 길어지면 이기는 사람이 어떻게 바뀌나요?\n"
+"\n"
+"아이에게 이런한 질문에 대한 답에 대한 자신의 생각을 설명하고 조사해 보도록 하세요. 그리고 나서 실험을 통해 아이디어를 얻습니다.\n"
+"\n"
+"라운드가 시작되기 전에 어떤 토큰이 이길것인지 추측하여 여기에 경쟁 요소를 추가하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"이 페이지의 퍼즐은 모두 정사각형 격자의 숫자가 각 행과 열에 정확히 한 번 나타나도록 채워진다는 기본 스도쿠 규칙을 가지고 있습니다.\n"
+"\n"
+"완전히 채워진 퍼즐로 시작하고, 많은 숫자 또는 모든 숫자를 제거하고, 소구역과 그 유형이 퍼즐에 대한 적절한 추가 정보를 만들어 이 퍼즐을 만드세요.\n"
+"\n"
+"공간을 아끼기 위해, 여기의 보기들은 모두 4x4입니다. 더 큰 퍼즐을 직접 만들거나 인터넷에서 더 큰 보기를 찾을 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "짝수 - 홀수 스도쿠 그리고 점스도쿠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "이 퍼즐에는 숫자가 2x2로 표시된 각 소구역에 정확히 한 번 발생해야 한다는 추가적인 제한이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**짝수 - 홀수 스도쿠:** 짝수의 정사각형은 회색으로 칠해져 있습니다.\n"
+"\n"
+"**점 스도쿠:** 칸 사이의 빈 점은 숫자가 하나 떨어져 있다는 것을 의미합니다; 채워진 점은 한 숫자가 다른 숫자의 절반이라는 것을 의미합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "섬도쿠, 디프도쿠, 섬디프도쿠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "일반적인 스도쿠 규칙 외에도, 이 퍼즐은 목표 숫자가 소구역으로 나뉩니다. 일반적인 스도쿠와 달리, 소구역에서 숫자를 반복할수 있습니다. 소구역에 정사각형이 하나만 있다면, 목표 숫자는 그 정사각형의 값이 될 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**섬도쿠:** 소구역안에 합계가 목표 숫자입니다.\n"
+"\n"
+"**디프도쿠:** 소구역은 하나 또는 두개의 정사각형을 가집니다. 두 제곱의 경우, 숫자의 차이가 목표 숫자입니다.\n"
+"\n"
+"**섬디프도쿠:** 소구역은 합계 또는 차이를 나타내기 위해 “+” 또는 “-”로 표시됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "4x4를 위해 일반적인 1에서 4 대신 다른 숫자 그룹을 사용하세요. 예를 들어, 1, 3, 5, 7을 사용하세요. 이렇게 한다면, 퍼즐 위에 사용할 숫자를 나열하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "상자 닫기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**설정:** 각 플레이어는 종이에 1에서 9까지의 숫자를 연속으로 씁니다.\n"
+"\n"
+"**게임 방법:** 차례를 시작하기 위해, 플레이어는 두 개의 주사위의 합을 찾습니다. 아직 지워지지 않은 숫자만 사용하여, 플레이어는 그 합계에 합산되는 하나 이상의 숫자 그룹을 지웁니다. 이것을 할 수 없다면, 아무것도 바뀌지 않습니다. 플레이어는 미리 하나의 주사기만 사용하기로 결정할 수 있습니다.\n"
+"\n"
+"**이기는 방법:** 모든 숫자를 다 지우는 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "이 게임을 다양하게 하는 한 가지 방법은 10 또는 12로 가는 것과 같은 더 넓은 범위의 숫자를 사용하는 것입니다. 또 다른 방법은 각 플레이어에게 한 번의 차례를 주는 것입니다 - 차례는 플레이어가 더 이상 할 수 없을때까지 계속 주사위를 굴립니다. 결국, 플레이어의 득점은 지워지지 않은 숫자의 합계입니다. 가장 낮은 점수를 받은 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "타격 맞추기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "합계 조합"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**설정:** 카드 한 벌에서, 얼굴 카드와 아이들이 편한 것보다 더 큰 숫자를 제거합니다. 카드를 섞고 사용할 다섯 장의 카드와 목표인 여섯 번째 카드를 뒤집으세요. 남은 카드는 카드가 제거되면서 채워질 수 있게 뽑기 더미로 남겨둡니다.\n"
+"\n"
+"**게임 방법:** 차례동안, 플레이어가 다섯 장의 카드 중 두 장의 합계 또는 차이를 여섯 번째와 같게 사용할 수 있다면, 플레이어는 세 장의 카드를 모두 받고 뽑기 더미에서 대체합니다. 플레이어가 실패하면, 새로운 여섯 번째 카드를 뒤집고 다음 플레이어로 넘어갑니다.\n"
+"\n"
+"**이기는 방법:** 게임이 끝날 때 가장 많은 카드를 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "당신이 사용할 수 있는 몇 가지 변형이 있습니다. 플레이어가 두 장 대신 세 장의 카드를 사용하여 여섯 번째 카드를 더할 수 있습니다. 여섯 번째까지 더하기 위해 원하는 수의 카드를 사용할 수 도 있습니다. 또 다른 변형은 원하는 수의 카드와 덧셈과 뺄셈을 섞는 것을 허용하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "몇 가지의 방법이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"선택과 관련된 무언가를 하는 방법의 수를 세는 것은 몇 가지 흥미로운 조사로 이어질 수 있습니다. 여기 몇 가지 가능성이 있습니다 - 아이와 함께 더 많은 방법을 생각하는 좋은 시간이 되세요.\n"
+"\n"
+"**조사 1:** 빨간색과 파란색으로만 그리는데, 모자, 눈, 망토로 괴물을 몇 가지 방법으로 그릴 수 있을까요? 세 가지 색상을 사용하거나 각 색상을 한 번만 사용할 수 있다면 어떻게 바뀔까요?\n"
+"\n"
+"**조사 2:** 당신은 5개의 똑같은 사탕을 가지고 있습니다. 빨간색 2개와 파란색 3개가 있도록 몇 가지 방법으로 색칠할 수 있나요?\n"
+"\n"
+"**조사 3:** 작은 숫자 세트를 사용하여 합계를 얻는 모든 방법을 찾아보세요. 순서를 생각하지 않고 해보세요. 예를 들어, 1과 2를 사용하는 경우, 1+1+1+1 = 2+1+1 = 2+2 와 같이 순서를 생각하지 않고 4를 얻는 방법, 그리고 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 와 같이 순서를 생각하고 4를 얻는 방법이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "내가 어떻게 만들수 있을까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "내가 방법을 세어볼께"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"한 사람은 다른 사람에게 목표 숫자를 주고 그 숫자를 얻기 위해 덧셈 및/또는 뺄셈의 다른 방법을 생각해 내도록 도전해 보세요. 목표가 3이라면, 1 +2로 시작할 수 있지만, 1 + 5 - 3이 될 수 있습니다.\n"
+"\n"
+"더 어렵게 만들기 위해 제한을 더해보세요. 예를 들어, 4보다 작은 숫자를 허용하지 않거나, 4보다 작은 숫자만 허용할 수 있습니다.\n"
+"\n"
+"다음과 같이 질문을 함으로써 이것을 조사로 바꿀 수 있습니다: 1과 2만 더한다면 5를 얻는 방법은 몇 가지인가요?\n"
+"\n"
+"아이가 더 많은 수학을 배우면서, 두 배와 반 나누기와 같은 추가 기술을 추가할 수 있습니다. 예를 들어, 5는 2의 두 배와 1를 더한 숫자이며 두 개의 10에서 세 개의 5를 뺀것과 같습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "숫자 스크램블"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**설정:** 두 개의 목표 숫자를 만들기 위해 한 개의 주사위를 두번 굴리세요 - 첫 번째 굴린것은 10자리가 되고 두 번째 굴린것은 1자리가 될 것입니다. 다섯 개의 주사위를 굴려 숫자를 만드세요.\n"
+"\n"
+"**도전:** 목표 숫자에 가능한 한 가깝게 덧셈, 뺄셈, 그리고 두 자리 숫자를 사용하세요 - 점수는 그것들이 얼마나 가까운지입니다.\n"
+"\n"
+"**이기는 방법:** 각 라운드에서 승자를 가질 수도 있고, 여러 라운드에서 점수를 더하고 가장 낮은 점수를 가진 전체 승자를 가질 수도 있습니다. 물론, 도전만을 위해 할 수 있고 점수는 생각하지 않을 수도 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**보기 1:** 다음과 같은 결과: 4, 4, 3, 1, 3 과 22. 첫 번째 플레이어는 4 + 4 + 3 + 1 + 3 = 15를 얻습니다; 다음 플레이어는 14 + 4 + 3 + 3 = 24를 얻습니다; 그리고 다른 플레이어는 34 - 14 + 3 = 23를 얻습니다.\n"
+"\n"
+"**보기 2:** 다음과 같은 결과: 1, 2, 5, 6, 4 과 63. 첫 번째 플레이어는 65 - 4 + 2 + 1 = 64와 가깝게 얻습니다. 또 다른 플레이어는 정확히 56 + 4 + 2 + 1 = 63를 얻습니다. 세 번째 플레이어는 52 + 6 + 4 + 1 = 63도 얻을수 있다고 말합니다. 왜 어떤 문제는 많은 해법이 있는지 이야기를 나누어 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "어느 쪽이든"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "조각을 같이 조립하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"플레이어들은 목표에 동의합니다. 유용한 목표는 10이지만, 다른 숫자도 괜찮습니다.\n"
+"\n"
+"각 플레이어는 페이스 카드가 없는 한 벌에서 다섯 장의 카드를 받습니다. 그런 다음 플레이어는 카드의 덧셈과 뺄셈의 조합을 사용하여 목표를 달성하거나 가능한 한 목표에 가까워질 수 있는 한 많은 방법을 찾습니다.\n"
+"\n"
+"전체 그룹이 총합계를 달성하기 위한 방법을 공동으로 생각해 낼 수 있는 다섯 장의 카드를 받는 그룹 활동으로 이것을 해보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "피라미드 혼자하는 여러가지 놀이"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**설정:** 가령 목표 숫자가 10이면, 그 위의 카드를 제거하세요. 6줄로 21장의 카드 피라미드를 만드세요. 피라미드에 카드를 앞면으로 놓고, 각 아래 줄은 그 위의 줄의 반쯤 중복되게 합니다. 나머지 카드들은 뽑기 더미를 만드세요.\n"
+"\n"
+"**게임 방법:** 목표 숫자에 합산되는 발견된 카드 그룹을 수집하고 옆으로 옮기세요. 이 그룹은 뽑기 더미나 폐기 더미의 상단 카드를 포함할 수 있습니다. 아무것도 일치하지 않는다면, 상단 뽑기 더미 카드를 폐기 더미로 옮기세요.\n"
+"\n"
+"**도전:** 모든 카드의 피라미드를 비우세요. 뽑기 더미가 비었을때 게임은 끝이 납니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**낮은 목표:** 10개 미만의 목표를 사용하는 경우, 피라미드 크기를 한두 줄로 줄여서 충분히 큰 뽑기 더미를 만드세요. 예를 들어, 8개의 목표를 위해 5줄에 15장의 카드를 사용하세요.\n"
+"\n"
+"**뺄셈 사용하기:** 덧셈을 사용하는 대신, 뺄셈을 사용하세요. 최대 10개의 카드를 사용하는 경우, 좋은 목표 숫자는 5입니다 - 차이가 5인 카드 쌍을 제거하세요. ‘5’를 가지고 있을 때, 당신은 그것을 제거하거나 10과 짝을 이룰 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "차이 피라미드"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "혼자 하는 여러가지 놀이 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**도전:** 도전은 피라미드에서 1에서 6까지의 숫자를 넣는 것입니다. 맨 위 줄에 한 장의 카드, 두 번째 줄에 두 장의 카드, 세 번째 줄에 세 장의 카드를 넣는 것입니다. 여기서 각 숫자는 바로 아래에 있는 두 숫자의 차이입니다.\n"
+"\n"
+"아이가 시간을 들여서 이것을 가지고 놀게 하세요. 아마도, 그냥 노는 것만으로도, 그들은 해결책으로 나타날 것입니다. 하지만, 아이가 불안해한다면, 여기에 도움이 되는 두 가지 팁이 있습니다. 6은 어떤 숫자 쌍의 차이일 수 없기 때문에 맨 아래 줄에 있어야 합니다. 마찬가지로, 5는 맨 아래 줄이나 6과 1 위의 중간 줄에 있어야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "연관된 도전"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "만약 아이가 이것을 쉽게 할 수 있다고 생각한다면, 얼마나 많은 방법으로 할 수 있는지 알아내도록 도전시켜 보세요. 두 가지 해결책이 다르다는 것이 무엇을 의미하는지 이야기 해보세요 - 한 해결책이 거울 이미지라면, 다른 것으로 간주되어야 할까요? 또 다른 도전은 4단계 차이 피라미드에 1에서 10까지 숫자를 넣는 더 어려운 퍼즐을 푸는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "전략 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "전략 게임을 하는 것은 아이가 많은 추론, 계획 및 문제 해결 기술을 갖추는 데 도움이 될 것입니다. 틱-택-토, 9명의 모리스, 여우와 거위, 다라, 4 연결하기, 만카라, 책커, 고, 체스와 같은 여기에서 다루기에는 너무 많은 수십 개의 게임이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "타파탄"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "**설정:** 로타, 아홉개의 홀, 3명의 모리스와 같이 이것과 비슷한 많은 게임이 있습니다. 이 게임에서는 격자에 3개의 수평선과 3개의 수직선으로 연결된 9개의 포인트가 있습니다. 각 플레이어는 가지고 놀 수 있는 세 개의 동일한 토큰을 가지고 있습니다. 이 게임의 목표는 한 줄에 세 개의 토큰을 넣는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**게임 방법:** 놀이에는 두 단계가 있습니다. 첫 번째 ‘장소’ 단계에서, 플레이어는 번갈아 가며 빈 지점에 한 번에 하나씩 토큰을 배치합니다. 토큰을 배치한 후, 두 번째 ‘움직임’ 단계가 시작됩니다. 이 단계에서, 플레이어는 번갈아 가며 인접한 지점을 비우기 위해 움직입니다. 다른 규칙은 토큰이 인접한 지점뿐만 아니라 모든 빈 지점으로 이동할 수 있다는 것입니다.\n"
+"\n"
+"**이기는 방법:** 한 플레이어가 이기거나 같은 위치가 세 번 일어나면 무승부 게임이 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "점과 상자"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "전략 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**설정:** 이 만족스러운 게임은 직사각형의 점 격자 (예: 3x4)로 시작됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**게임 방법:** 차례가 돌아가는 동안, 플레이어는 결합되지 않은 두 개의 인접한 점을 연결하는 수평선이나 수직선을 그립니다. 1x1의 새 줄이 완성되면 플레이어는 점수를 얻고 다른 선을 그립니다.\n"
+"\n"
+"**이기는 방법:** 더 이상 선을 그릴 수 없을때, 대부분의 점수를 가진 사람이 이깁니다. 점수를 추적하는 쉬운 방법은 얻은 각 상자 안에 첫 머리 글자를 적는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "전통적으로 작은 정사각형으로 할 수 있지만 그리기가 더 어려운 삼각형이나 육각형 패턴의 점으로 할 수도 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 4 – I CAN COUNT TO 20!"
+msgstr "4 단계 - 난 20까지 셀 수 있어요!"
 
 #. type=data_list
 msgctxt "data_list"
