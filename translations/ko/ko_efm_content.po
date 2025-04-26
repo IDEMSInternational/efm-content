@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-26 21:45\n"
+"PO-Revision-Date: 2025-04-26 22:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10235,6 +10235,464 @@ msgstr ""
 "**게임 방법:** 각 플레이어에게 두 장의 카드를 뒤집어서 나눠줍니다. 그런 다음, 각 플레이어는 카드를 한 장씩 뒤집습니다. 그리고 그 카드가 10단위일지 1단위일지 결정합니다. 결정한 후, 각 플레이어의 남은 카드를 뒤집어 남은 자리를 채우는 데 사용합니다.\n"
 "\n"
 "**이기는 방법:** 더 큰 숫자를 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "O와 X의 표적"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"**How to play:** Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. \n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**설정:** 그림 카드가 제거된 카드 한 벌을 사용하세요. 1에서 20까지의 무작위로 생성된 숫자로 틱택토 판을 채우세요. 곱셈을 포함하려면 더 넓은 범위를 사용하세요.\n"
+"\n"
+"**게임 방법:** 각 플레이어에게 6장의 카드를 나눠주고 동시에 뒤집으세요. 첫 번째 플레이의 경우, 그것은 두 플레이어 사이의 경주입니다. 사각형 중 하나와 일치하도록 두 개 이상의 카드를 합친 첫 번째 플레이어는 거기에 X를 넣고 사용한 카드를 대체합니다. 그 후, 플레이어는 번갈아 가며 일치할 수 있는 값을 선택한 사각형에 X 또는 O를 넣습니다 – 시합에 사용된 카드는 뽑기 더미에서 새로운 카드로 대체됩니다. 시합이 이루어지지 않으면, 차례를 잃고 새로운 카드로 대체할 두 장의 카드를 선택할 수 있습니다.\n"
+"\n"
+"**이기는 방법:** 3번 연속으로 얻은 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "터미네이터 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Add & Sub"
+msgstr "덧셈을 위한 추가 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and a board with three rows of five squares numbered from 1 to 15.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn.\n"
+"\n"
+"**How to win:** The winner is the one with the most claimed numbers after a fixed number of turns."
+msgstr ""
+"**설정:** 세 개의 주사위와 1에서 15까지 숫자가 매겨진 다섯 개의 정사각형 세 줄의 판을 사용합니다.\n"
+"\n"
+"**게임 방법:** 플레이어는 주사위를 굴리고 덧셈과 뺄셈을 사용하여 세 개의 숫자를 결합하여 판의 숫자 중 하나와 일치시킵니다. 일치하는 숫자는 지워지고 자신의 것이 됩니다. 플레이어가 일치하는 것을 찾을 수 없다면, 다른 플레이어는 숫자를 사용하고 결과를 가질 수 있는 기회를 얻습니다 - 어쨌든, 다른 플레이어는 다음 차례를 얻습니다.\n"
+"\n"
+"**이기는 방법:** 고정된 차례 후에 가져간 숫자가 가장 많은 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr "더 작은 보기는 1에서 10까지의 숫자가 있는 두 개의 주사위를 사용할 것이고, 더 큰 보기는 4개의 주사위와 1에서 20까지의 숫자를 사용할 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC TRIANGLES"
+msgstr "마법 삼각형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Place the numbers 1 to 6 in a triangle of six circles with three circles on a side, so each side has the same sum."
+msgstr "**도전:** 한 면에 세 개의 원이 있는 여섯 개 원의 삼각형에 숫자 1에서 6을 넣어 각 면이 같은 합계가 되게 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are really two challenges – find which sums work and how to get those sums. Let your child play with this to figure out which sums work, but if frustration wins out, the sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys this puzzle, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23."
+msgstr ""
+"실제로 두 가지 도전이 있습니다 – 어떤 합계가 효과가 있고 그 합계를 얻는 방법을 찾는 것입니다. 아이가 어떤 합계가 효과가 있는지 혼자 놀며 알아갈 수 있지만, 아이가 찾는 것을 힘들어 하면 합계는 9, 10, 11, 12입니다.\n"
+"\n"
+"만약 아이가 이 퍼즐을 좋아한다면, 이것은 더 큰 삼각형에서도 할 수 있습니다. 측면에 네 개의 원이 있는 아홉 개의 원이 있는 삼각형의 경우, 가능한 합계는 17, 19, 20, 21, 23입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC DESIGNS"
+msgstr "마법 도안"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"From left to right, the diagrams above are for puzzles (2), (4), (8), and (9). The answers are in the Stage 4 Bonus Material file.\n"
+"\n"
+"1. The numbers 1 to 4 – a '+' shape with no circles in common.\n"
+"\n"
+"2. The numbers 1 to 5 – a '+' shape with one circle in common in the middle.\n"
+"\n"
+"3. The numbers 1 to 7 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"4. The numbers 1 to 9 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"5. The numbers 1 to 5 – an 'L' shape with one common circle in the corner.\n"
+"\n"
+"6. The numbers 1 to 8 – a '+' sign with no circles in common.\n"
+"\n"
+"7. The numbers 1 to 9 – a '+' sign with one circle in common in the middle.\n"
+"\n"
+"8. The numbers 1 to 12 – a 'star' shape, with 6 directions of lines of 4 circles.\n"
+"\n"
+"9. The numbers 1 to 7 – an 'H' shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. The five possible lines of 3 are connected. Hint: The sum is 12."
+msgstr ""
+"연결된 원의 모든 직선이 같은 합계를 가지도록 원에 숫자를 넣으세요.\n"
+"\n"
+"왼쪽에서 오른쪽으로, 위의 도형은 퍼즐 (2), (4), (8), 그리고 (9)를 위한 것입니다. 답은 4단계 보너스 자료 파일에 있습니다.\n"
+"\n"
+"1. 1에서 4까지의 숫자– 공통점이 없는 원은 '+' 모양.\n"
+"\n"
+"2. 1에서 5까지의 숫자 – 가운데에 공통점이 있는 원은 '+' 모양.\n"
+"\n"
+"3. 1에서 7까지의 숫자 – 3개의 원이 있는 ‘별' 모양; 가운데에 공통점이 있는 원.\n"
+"\n"
+"4. 1에서 9까지의 숫자 – 3개의 원이 있는 ‘별' 모양; 가운데에 공통점이 있는 원.\n"
+"\n"
+"5. 1에서 5까지의 숫자 – 모서리에 한 개의 공통점이 있는 원은 'L' 모양.\n"
+"\n"
+"6. 1에서 8까지의 숫자 – 공통점이 없는 원은 '+' 기호.\n"
+"\n"
+"7. 1에서 9까지의 숫자 – 가운데에 공통점이 있는 한 개의 원은 '+' 기호.\n"
+"\n"
+"8. 1에서 12까지의 숫자 – 네 개의 원에 여섯 개 방향의 선이 있는 것은 ‘별' 모양.\n"
+"\n"
+"9. 1에서 7까지의 숫자 – 'H' 모양 - 왼쪽에 수직으로 3개, 중앙에 1개, 오른쪽에 수직으로 3개. 세 개의 가능한 다섯 개의 선이 연결되어 있습니다. 힌트: 합계는 12입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING 10’S"
+msgstr "10단위 잡기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Turn long addition problems into simpler problems by grouping numbers that add up to 10. Instead of adding 3 + 8 + 9 + 4 + 7 + 6 + 2 from left to right, rearrange the terms to put the number bonds for 10 together. This example becomes (3 + 7) + (8 + 2) + (4 + 6) + 9, which is 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Once this is easy, include trickier problems such as 4 + 8 + 9 + 5 + 3, which can be rearranged as (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Make simplifying expressions a game with your child."
+msgstr ""
+"10까지 더하는 숫자를 그룹화하여 긴 덧셈 문제를 더 간단한 문제로 바꾸세요. 3 + 8 + 9 + 4 + 7 + 6 + 2를 왼쪽에서 오른쪽으로 더하는 대신, 조건을 재정렬하여 10의 합집합을 함께 넣으세요. 여기의 예는 (3 + 7) + (8 + 2) + (4 + 6) + 9, 즉 10 + 10 + 10 + 9 = 39가 됩니다.\n"
+"\n"
+"이것이 쉬워지면, 4 + 8 + 9 + 5 +3과 같은 더 까다로운 문제를 포함하세요. (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29로 재배열될 수 있습니다. 아이와 함께 표현을 단순화해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER UP"
+msgstr "덮기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This activity combines the approaches of 'What's Missing?' from Stage 2 and 'Shape Sums' of Stage 3. Take a collection of small objects, count them, and spread them out on a surface. Use pieces of paper, cloth, or bowls to cover over one or more groups of the objects. Use the same color paper when covering groups of the same size.\n"
+"\n"
+"**The challenge:** Find out how many objects are in each covered group.\n"
+"\n"
+"**Four Steps:**\n"
+"\n"
+"* Count the number you can see and compare to the total.\n"
+"* Find one way to solve it.\n"
+"* Find other ways to solve it.\n"
+"* Verify your answer(s)."
+msgstr ""
+"**설정:** 이 활동은 2단계와 3단계의 ‘모양 합계’에서의 ‘무엇이 없나요?’의 접근 방식을 결합합니다. 작은 물건들을 모아서 세고, 평평한 곳위에 펼치세요. 종이, 천 또는 그릇을 사용하여 하나 이상의 물체 그룹을 덮으세요. 같은 크기의 그룹을 덮을 때 같은 색의 종이를 사용하세요.\n"
+"\n"
+"**도전:** 덮힌 각 그룹에 얼마나 많은 물건이 있는지 알아보세요.\n"
+"\n"
+"**네 단계**\n"
+"\n"
+"* 볼 수 있는 숫자를 세고 합계와 비교해 보세요.\n"
+"* 그것을 해결할 한 가지 방법을 찾으세요.\n"
+"* 그것을 해결할 다른 방법을 찾으세요.\n"
+"* 답을 확인하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** As pictured above, suppose you have 18 items and you cover 14 of them with two red pieces of paper. Your child sees the number 18 and that there are 4 uncovered items. They can subtract 18 - 4 and know that 14 pieces are covered. Because the same color is used, the covered items must be equal, so each must be 7, which is half of 14.\n"
+"\n"
+"Here is where the best, and most important, 'step' starts. What other ways are there of discovering that each covered group has 7 items? Your child could count by 2's and see that there are seven 2's as they skip count from 4 to 18. They could break 18 into halves of 9 each and break the 4 into halves of 2 each – then each group of 9 consists of a covered group plus 2 more, so the covered groups are 7 each.\n"
+"\n"
+"Keep exploring and thinking of ways to use all the interesting math relationships!"
+msgstr ""
+"**보기:** 위의 그림과 같이, 18개의 물건이 있고 그 중 14개를 빨간 종이 두 장으로 덮었다고 가정해 봅시다. 아이는 숫자 18을 보고 4개의 덮여 있지 않은 4개의 물건을 보게 됩니다. 아이는 18 - 4를 빼고 14개의 물건이 덮여 있는 것을 알고 있습니다. 같은 색이 사용되기 때문에, 덮인 물건은 같아야 하므로, 각각은 14의 절반인 7이어야 합니다.\n"
+"\n"
+"여기서 가장 좋고 중요한 ‘단계’가 시작됩니다. 덮인 그룹이 7개의 물건을 가지고 있다는 것을 발견하는 다른 방법은 무엇인가요? 아이는 2로 셀수 있고 4에서 18로 셀 때 7개의 2가 있다는 것을 알 수 있습니다. 아이는 18개를 각각 9개의 반으로 나누고 4를 각각 2개의 반으로 나누면 9개의 각 그룹은 덮인 그룹과 2개로 구성되어 있으므로, 덮인 그룹을 각각 7개인 것을 알 수 있습니다.\n"
+"\n"
+"모든 흥미로운 수학 관계를 사용하는 방법을 계속 탐구하고 생각하세요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2.\n"
+"Although not as obvious, the same is true for multiplication."
+msgstr "당신의 아이는 덧셈에 너무 익숙해서 2 + 3이 3 +2와 같다는 것을 아는 것은 놀라운 일이 아닙니다. 분명하지는 않지만, 곱셈도 마찬가지입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 x 4, they also know 4 x 3."
+msgstr ""
+"이 그림은 두 개의 세 줄과 세 개의 두 줄이 같다는 것을 보여줍니다 – 당신은 단지 당신의 관점을 바꾸고 있습니다!\n"
+"\n"
+"어떤 순서로 두 숫자를 곱하든 상관없습니다 – 어느 쪽이든 같은 답을 얻을 수 있습니다!\n"
+"\n"
+"이 멋진 관찰은 당신의 아이가 곱셈의 절반 정도만 숙달하면 된다는 의미입니다 – 일단 아이가 3 x4를 알게 되면, 그들은 또한 4 x3을 알게 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING IS MULTIPLICATION"
+msgstr "건너뛰어 세기는 곱셈이다"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"All that skip counting practice your child did paid off in getting much better at addition and subtraction. It also will be a big help in getting started with multiplication. Skip counting by 5's makes them particularly quick to learn.\n"
+"\n"
+"Although skip counting is not the fastest way to find a result, it is reliable. To find 7 x 3 either skip count by 3’s seven times or skip count by 7’s three times.\n"
+"\n"
+"Your child will eventually memorize these facts, but skip counting is handy for now."
+msgstr ""
+"아이가 했던 모든 건너뛰어 세기 연습은 덧셈과 뺄셈을 훨씬 더 잘하기 위한 결실을 맺었습니다. 그것은 또한 곱셈을 시작하는 데 큰 도움이 될 것입니다. 5로 건너뛰어 세기를 하면 특히 빠르게 배울 수 있습니다.\n"
+"\n"
+"건너뛰어 세기는 결과를 찾는 가장 빠른 방법은 아니지만, 신뢰할 수 있습니다. 7 x 3을 찾으려면 3을 7번 건너뛰어 세거나 7을 3번 건너뛰어 셀 수 있습니다.\n"
+"\n"
+"아이는 결국 이 사실을 외울 것이지만, 지금은 건너뛰어 세기가 편리합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 3 AND 4"
+msgstr "3과 4로 곱하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Mental Math"
+msgstr "추가 암산 – 곱셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For someone good at adding, multiplying by 3 and 4 can be quick and easy.\n"
+"\n"
+"Multiplying a number by 3 is adding the number to double the number. So, 3 x 6 is 6 more than double 6, which is 6 + 12 = 18.\n"
+"\n"
+"Four times a number is doubling a number twice. So, 4 x 7 is 2 x (2 x 7), which is 14 + 14 = 28."
+msgstr ""
+"덧셈을 잘하는 사람의 경우, 3과 4를 곱하는 것은 빠르고 쉬울 수 있습니다.\n"
+"\n"
+"숫자에 3을 곱하는 것은 숫자를 두 배로 더하는 것입니다. 그래서, 3 x 6은 6을 두 배하는 것보다 6이 더 많은 6 + 12 = 18이 됩니다.\n"
+"\n"
+"숫자를 네 배하는 것은 숫자를 두 번 두 배하는 것입니다. 그래서 4 x 7은 2 x (2 x 7)이 되고 그것은 14 + 14 = 28이 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "합계 정사각형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**설정:** 각 행과 열에 대한 목표 합계가 있는 3x3 정사각형 격자로 시작하세요. 1에서 9까지의 숫자 중 일부는 이미 격자에 배치되어 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**도전:** 행과 열의 합계가 목표 값이 될 수 있도록 나머지 숫자를 격자에 넣으세요.\n"
+"\n"
+"**만드는 방법:** 이 퍼즐 중 하나를 만들려면, 3x3 격자에 1에서 9까지의 숫자가 있는 종이 조각을 넣는 것으로 시작하세요.\n"
+"\n"
+"각 행과 열에 대해, 오른쪽이나 아래에 합계를 쓰세요. 그런 다음, 격자에서 일부 숫자를 제거하세요. 마지막으로, 당신이 제거한 숫자가 있는 종이 조각을 아이에게 건네주고 “이것은 어디에 있었나요?”라고 물어보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "합계를 더 작게 유지하는 한 가지 변형은 대신 0에서 8까지의 숫자를 사용하는 것입니다. 더 어려운 변형은 3x4격자에서 숫자 1에서 12까지 같은 것을 하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "덧셈 피라미드"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**설정:** 4줄에 배치된 10개 숫자의 피라미드는 목표 숫자와 함께 주어집니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**도전:** 숫자의 합이 목표 숫자가 될 수 있도록 각 줄에서 하나의 숫자를 사용하여 피라미드를 통과하는 길을 찾으세요. 길의 숫자는 서로 연결되어야 합니다.\n"
+"\n"
+"**보기:** 이 퍼즐의 답은 5 –> 4 –> 1 –>7입니다.\n"
+"\n"
+"**만드는 방법:** 길을 만들고 싶은 숫자를 채워서 이 퍼즐 중 하나를 만들고, 그 숫자의 합을 기록하세요. 그런 다음 피라미드에 남은 미끼 숫자를 채우세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "합계 차이"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**게임 방법:** 한 사람은 두 개의 숫자, 하나의 합계, 그리고 다른 하나는 차이라고 말하고, 다른 사람은 합계와 차이가 있는 원래의 두 숫자를 찾는 도전을 합니다. 예를 들면, 한 사람은 합계가 12이고 차이가 6이라고 말하면, 다른 사람은 원래 숫자가 3과 9라고 말합니다.\n"
+"\n"
+"**역할 바꾸기:** 이러한 질문을 만드는 것은 정말 쉽기 때문에 이것은 아이가 질문자가 되도록 하는 것에 좋은 활동입니다. 모든 합계와 차이에 대한 모든 조합이 합리적인 답을 만들지는 않을 것입니다. 그러나 두 개의 숫자로 시작한 다음 그것의 합계와 차이를 말하면 답을 보장합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "독약 숫자"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**설정:** 그림 카드를 제거합니다 (원하는 경우 퀸을 0으로 사용할 수 있습니다). 시작하기 전에 라운드에 “독약” 숫자 세트에 동의합니다. 독약 숫자는 아이가 연습하기를 원하거나 더 익숙해지기를 원하는 숫자의 세트가 될 수 있습니다.\n"
+"\n"
+"몇 가지 예는 다음과 같습니다: \n"
+"\n"
+"* 짝수 (2, 4, 6, 8, 10, 12)\n"
+"* 홀수 (1, 3, 5, 7, 9, 11)\n"
+"* 제곱수(1, 4, 9, 16, 25)\n"
+"* 소수(2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* 숫자의 배수, 가령 3의 배수\n"
+"\n"
+"**게임 방법:** 각 플레이어에게 3장의 카드를 나누어 줍니다. 첫 번째 플레이어는 독약 숫자가 아닌 숫자를 버리고 뽑기 더미에서 교체합니다. 다음 플레이어는 처음 두 숫자카드의 합이 독약 숫자가 되지 않게 숫자를 버리고 뽑기 더미에서 교체합니다. 다음 플레이어는 다음 세 장의 카드의 합이 독약 숫자가 않게 플레이하고 같은 식으로 돌아갑니다.\n"
+"\n"
+"**이기는 방법:** 합법적인 카드를 버릴 수 없는 첫 번째 사람이 지고 탈락합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "이 게임은 두 명 이상의 사람도 동일하게 잘 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "아이가 이러한 조사를 가지고 놀고 생각하게 하세요. 서두르지 마세요. 중요한 것은 놀면서 아름다운 패턴을 발견하는 것입니다. 이러한 활동에는 좀 더 깊은 수학이 있지만 이러한 아이디어는 아이가 더 클 때까지 기다릴 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "꽃잎"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**질문:** 어느 특이한 정원에는 두 종류의 꽃이 피었습니다. 하나는 꽃잎이 4장이고, 다른 종류의 꽃잎은 7장이 있습니다. 한 어린이에게 꽃 몇 개를 따도록 부탁했고 꽃잎의 모두 13장이 되었습니다. 할 수 있을까요? 꽃잎 15장은 어떤가요? 몇 장의 꽃잎이 가능한가요? 가능한 숫자의 경우, 여러 가지 방법이 있을 수 있을까요? 예를 들어, 꽃잎 32장은 7의 네 개, 한 개의 4, 그리고 또 4의 여덟개입니다.\n"
+"\n"
+"**변형:** 숫자를 다양하게 바꾸면 여러가지 예를 들어 볼 수 있습니다. 일부 쌍의 경우 숫자가 많으면 모든 꽃잎 수를 가질 수 있는 지점이 오고 다른 쌍의 경우에는 그런 지점이 없습니다. 4와 7의 경우, 18부터 모든 숫자가 가능합니다. 3과 6의 경우, 모든 숫자가 발생한 이후에는 지점이 없습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "올라가는 계단 – 몇 가지 방법이 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**질문:** 아이가 때로는 한 번에 두 계단씩 밟고, 다른 때는 한 번에 한 계단씩 밟는 것을 좋아한다고 가정해 보세요. 아이가 몇 계단 더 올라가면, 몇 가지 방법으로 올라갈 수 있을까요?\n"
+"\n"
+"예를 들어, 0계단에는 한 가지 방법만 있습니다 - 거기에 서 있는 것입니다. 1계단은 한 가지 방법이 있습니다. 2계단은 두 계단을 한 번에 가는 경우 또는 한 계단씩 두 번 가는 두 가지 방법이 있습니다.\n"
+"\n"
+"많은 예를 신중하게 생각한 다음 결과표로 만드세요. 정보가 많을 때는, 표를 만드는 것은 종종 도움이 됩니다. 표의 시작은 다음과 같습니다:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "이 숫자들을 본 후, 아이는 각 숫자의 쌍의 합은 다음 숫자로 더해지는 것을 알아차릴 것입니다. 왜 이런 일이 일어날까요? 이 숫자를 피보나치 숫자라고 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "저울대"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "같이 세어봐요"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"저울대는 두 물체의 무게가 같은지를 알려주는 장치입니다. 저울은 보통 물체의 무게를 측정하는 데 사용하는 분동 세트와 함께 제공됩니다. 여기에는 사용이 허용된 가중치를 제한하면 당신이 할 수 있는 몇 가지 흥미로운 조사가 있습니다.\n"
+"\n"
+"**질문 1:** 가중치가 4단위와 7단위만 있다면, 당신이 꽃잎 조사에서 발견한 것과 정확히 똑같은 무게추를 달 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**질문 2:** 무게추가 저울의 양쪽에 있다면 어떤 물건의 무게를 정확히 잴 수 있나요?\n"
+"\n"
+"**질문 3:** 무게추를 4와 7 대신에 3과 8을 사용한다면 두 개의 질문은 어떻게 바뀌나요? 또는 4와 6 또는 8과 12를 사용할 수 있나요?\n"
+"\n"
+"**질문 4:** 각 무게추를 1, 2, 4, 8, 그리고 16의 두 배로 진행한다면 어떻게 되나요? 무게가 13인 물체의 무게를 재는 방법은 몇 가지입니까? 양쪽에 무게추를 허용하면 상황이 바뀌나요? 당신이 할 수 있는 가장 큰 무게는 얼마인가요? 이 상황은 이진수 체계와 관련이 있습니다.\n"
+"\n"
+"**질문 5:** 단일 무게추를 1, 3, 9, 그리고 27의 세 배로 진행한다면 어떻게 되나요? 양쪽에 무게추를 허용한다면 어떤 무게를 달 수 있을까요?\n"
+"\n"
+"**질문 6:** 무게추가 피보나치 숫자이면 어떻게 되나요? 무게를 측정하는 한 가지 이상의 방법이 있나요? 각 무게를 얻는 유일한 방법이 있는 피보나치 무게추에 대한 제한 사항을 찾아보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "5 단계 - 난 100까지 셀 수 있어요!"
 
 #. type=data_list
 msgctxt "data_list"
