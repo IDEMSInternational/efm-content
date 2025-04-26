@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-26 18:45\n"
+"PO-Revision-Date: 2025-04-26 20:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10145,6 +10145,51 @@ msgstr ""
 "* 목표 차이를 사용합니다. 두 카드의 차이가 목표이면 두 카드가 일치합니다.\n"
 "* 덧셈이나 뺄셈 문제가 있는 카드에 답이 있는 카드를 사용하세요 - 카드는 문제가 답과 일치하면 카드가 일치합니다.\n"
 "* 확장된 형식을 사용합니다. 0에서 99까지 20개의 숫자를 선택합니다. 그 숫자를 종이에 적으세요. 또한 종이에 각 숫자의 확장된 형식을 적습니다. 예를 들어, 53은 50 + 3, 30은 30 + 0, 그리고7은 0 + 7을 만듭니다. 20장의 카드 두 벌을 섞습니다. 일반 숫자가 확장된 형식과 짝이 되면 두 장의 카드가 일치합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "가장 가까운 것 가지기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**설정:** 종이에 숫자 5, 10, 25, 그리고 50을 수직으로 씁니다. 5의 양 면에 하나의 빈 칸을 두고 다른 숫자의 양 면에는 두 개의 빈 칸을 두세요. 한 플레이어는 왼쪽의 빈 칸을 채우고 다른 플레이어는 다른 쪽을 채웁니다. 또한 플레이어는 숫자가 무시 될 때 사용할 수 있는 한 개의 추가 빈 칸을 가집니다.\n"
+"\n"
+"**게임 방법:** 0에서 9까지의 숫자 카드 한 벌로 시작합니다. 무작위로 카드를 선택하고 사용한 후에는 다시 제자리에 둡니다. 두 플레이어 모두 해당 숫자를 아직 채워지지 않은 빈 칸 어딘가에 사용해야 합니다. 모든 빈 칸이 채워지면 플레이어의 값은 각각의 목표 숫자와 비교됩니다. 각 목표에 가장 가까운 플레이어가 점수를 얻고 두 플레이어가 똑같이 가까우면 두 사람 모두 점수를 가집니다.\n"
+"\n"
+"**이기는 방법:** 가장 많은 점수를 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "다른 목표 숫자 세트를 사용하여 이 게임을 다양하게 합니다. 각 플레이어의 모든 목표 숫자가 아닌 것을 합산하여 게임의 점수를 주는 게임을 선택할 수 있습니다. 이를 위해서는 플레이어는 점수가 가장 작은 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "전쟁 – 두 자릿수 비교"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**설정:** 앞면 카드와 10자리의 카드를 제거한 카드 한 벌을 섞은 후 두 플레이어 사이에 균등하게 나눕니다.\n"
+"\n"
+"**게임 방법:** 각 플레이어는 두 장의 카드를 뒤집어 두 자리 숫자를 만들도록 나란히 놓습니다. 더 큰 숫자를 가진 플레이어가 4장 카드를 모두 가져갑니다. 동점이면 각 플레이어는 카드 2장을 더 뒤집어서 이긴 사람이 카드 8장을 모두 가져가는 방식입니다.\n"
+"\n"
+"**이기는 방법:** 카드가 한 번 이상 돌고 난 후 가장 많은 카드를 가진 사람이 이깁니다."
 
 #. type=data_list
 msgctxt "data_list"
