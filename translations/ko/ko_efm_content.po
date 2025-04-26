@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-26 04:23\n"
+"PO-Revision-Date: 2025-04-26 05:21\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9916,6 +9916,118 @@ msgstr ""
 "**도전:** 각 유형의 퍼즐이 작동하도록 누락된 숫자를 채우세요.\n"
 "\n"
 "**만드는 방법:** 고리 없이 퍼즐을 만드는 것은 쉽습니다. 사각형과 삼각형을 번갈아 가며 그리세요. 그런 다음, 한 쪽 끝에서 시작하여 맨 끝까지 가는 숫자를 넣으세요. 끝나면, 숫자 중 일부를 제거하세요. 고리로 이 퍼즐을 만드는 방법에 대한 아이디어는 보너스 자료를 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "건너뛰어 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"아이는 이미 0에서 20사이의 2, 5, 10단위를 건너뛰기 세기를 연습했습니다. 어떤 숫자이든, 어떤 숫자로 시작하든, 어느 방향으로든 건너뛰어 세는 연습을 시작하세요.\n"
+"\n"
+"위 **그리고 아래로** 건너뛰어 세면 모든 산술 연산과 자리수 (5 또는 10단위로 건너뛰어 셀때)에 도움이 됩니다. 건너뛰어 세기의 까다로운 부분은 10자리가 바뀔 때이므로, 그것에 집중하세요. 이것은 당신이 여행중이거나 한가한 시간이 있을 때 할 수 있는 편리한 활동입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "목표를 위한 짧은 단계"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**게임 방법:** 1에서 9까지 두 장의 카드를 사용하여 2자리 시작 숫자를 만드세요 - 첫 번째 카드는 10자리를 주고 다른 카드는 1자리를 줍니다. 그 숫자부터 시작하여, 각각 1 또는 10인 5개의 점프를 사용하세요. 목표는 가능한 한 50에 가까워지는 것이고, 점수는 50의 차이입니다. 몇 라운드 후 가장 낮은 총 점수가 이깁니다.\n"
+"\n"
+"**100 차트:** 어린 아이들은 100개의 차트를 참조함으로써 이익을 얻습니다. 그 차트를 사용하면 10까지 올라가거나 내려갈 때 자리수를 강조할 것입니다.\n"
+"\n"
+"**변형:** 1, 2 또는 10의 단계 또는 1, 2, 5 또는 10의 단계를 허용하여 이 게임을 변경할 수 있습니다. 또한, 때때로 50 이외의 목표 숫자를 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "섬 뛰기 – 건너뛰어 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "건너뛰어 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "섬 (원)은 다리 (선)로 연결되어 있으며, 건너뛰어 세기로 연결됩니다. 몇몇 섬에는 숫자가 있고, 다른 섬들은 공백으로 시작합니다. 퍼즐 위에는 시작 숫자, 끝 숫자, 건너뛰기 금액이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**도전:** 누락된 숫자를 채우고 길을 찾으세요.\n"
+"\n"
+"당신은 또한 계단 퍼즐을 만들기 위해 바닥에 숫자와 빈칸을 놓을 수 있습니다.\n"
+"\n"
+"건너뛰어 세기 활동과 마찬가지로, 건너뛰기 양의 배수인 숫자뿐만 아니라 다양한 숫자로 시작하여 앞으로 또는 뒤로 가는 것을 연습할 수 있는 퍼즐을 만드세요.\n"
+"\n"
+"**만드는 방법:** 섬을 먼저 만들고, 건너뛰어 세기의 숫자를 채우고, 섬을 맞는 순서로 연결한 다음, 퍼즐을 만드는 데 도움이 되는 추가 연결을 더하여 퍼즐을 만드세요. 아이에게 주는 경우에는, 알아낼 수 있도록 충분한 숫자를 남겨둔 몇 가지 숫자만을 제거하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "깍기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**설정:** 1에서 어떤 숫자로 (예: 20) 가는 숫자 줄로 시작하세요.\n"
+"\n"
+"**게임 방법:** 차례 동안, 두 개의 숫자와 결과를 선택하고, 그 중 어느 것도 지워지지 않고, 그 숫자를 포함하는 덧셈 또는 뺄셈 방정식을 적으세요. 방정식의 두 숫자는 지워지고, 결과는 동그라미로 쳐집니다. 다음 플레이어는 그 결과를 두 숫자 중 하나로 사용해야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**이기는 방법:** 만약 경쟁하는 놀이라면, 이기는 사람은 합법적인 움직임을 가진 마지막 사람입니다. 그것은 또한 손대지 않은 숫자가 얼마나 적은지 보기 위해 협력적으로 할 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "고치기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "이것은 목표 합계로 완전히 채워진 4x4 숫자 격자로 시작됩니다. 대체 경우는 각 행과 열에 대해 개별 대상 합계를 사용합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**도전:** 모든 행과 열의 나머지 숫자의 합이 목표가 되도록 제거할 항목을 찾으세요.\n"
+"\n"
+"**만드는 방법:** 목표 합계에 합한 숫자의 쌍이나 세 배의 숫자를 넣어 이 퍼즐을 만드세요. 그런 다음, 남은 공간을 미끼 숫자로 채우세요."
 
 #. type=data_list
 msgctxt "data_list"
