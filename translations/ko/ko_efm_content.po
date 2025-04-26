@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-26 05:21\n"
+"PO-Revision-Date: 2025-04-26 17:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10028,6 +10028,86 @@ msgstr ""
 "**도전:** 모든 행과 열의 나머지 숫자의 합이 목표가 되도록 제거할 항목을 찾으세요.\n"
 "\n"
 "**만드는 방법:** 목표 합계에 합한 숫자의 쌍이나 세 배의 숫자를 넣어 이 퍼즐을 만드세요. 그런 다음, 남은 공간을 미끼 숫자로 채우세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "접는 확장된 형식"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "이것은 10단위와 1단위로 두 자리 숫자가 어떻게 형성되는지 확인할 수 있는 물리적인 방법을 줍니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "숫자카드 4장이 나란히 딱 맞는 종이를 준비합니다. 종이에 다음을 표시합니다: 빈칸 - “0” - “+” - 빈칸. “+” 기호 양쪽에 세로로 접힌 부분이 있습니다. 종이 클립 두 개의 빈칸에 숫자를 넣습니다. 2 와 3를 사용할 경우 접으면 23처럼 보이지만 펼치면 20 + 3이 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "난 숫자를 생각하고 있어요"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"한 플레이어는 0에서 99사이의 숫자를 생각합니다. 다른 플레이어는 10단위와 1단위에 대한 질문을 함으로써 숫자를 알아냅니다.\n"
+"\n"
+"숫자가 23이라고 가정해 봅니다. 플레이어는 10단위가 1단위보다 크거나 같은지 물어 볼 수 있습니다 – 이것은 23이 아닙니다. 플레이어는 두자리 숫자의 합이 8보다 작은지 물을 수 있습니다 – 이것은 23입니다. 그러면 플레이어는 10단위의 두 배가 1단위보다 큰지 물울 수 있습니다 – 그렇습니다. 이 때 숫자는 23또는 34여야 합니다. 숫자의 합이 6보다 작은지 묻는 것으로 끝을 맺을 수 있습니다.\n"
+"\n"
+"질문의 유형은 플레이어가 동의하는 모든 것이 될 수 있지만, 10단위와 1단위의 숫자를 포함하는 것이 가장 좋습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "한자리수와 십자리수로 섬 뛰기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "확장된 형식과 자리수"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "몇 개의 숫자가 채워진 직사각형 격자가 주어집니다. 남은 숫자를 채워넣어서 같은 면을 공유하는 두 숫자의 차이가 한 곳에서 차이가 나고 그 곳의 차이는 1입니다 (0에서 9사이를 포함). 어떤 숫자도 두 번 이상 사용할 수 없습니다. 100차트를 사용하면 초보 해결사에게 도움를 줄 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**만드는 방법:** 빈 격자를 가져와 숫자를 반복하지 않고 숫자를 채웁니다. 다음, 숫자 중 일부를 제거합니다. 이 예에서 빨간색 숫자는 누락된 숫자입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "수학 틱 택 토"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**설정:** 틱-택-토 판과 1에서 9까지의 숫자가 적힌 토큰을 사용하세요. 한 플레이어는 홀수이고 상대방은 짝수를 가집니다.\n"
+"\n"
+"**게임 방법:** 플레이어는 차례로 토큰을 배치하고 홀수 플레이어가 먼저 갑니다. 첫 번째 합계가 15인 연속 3개를 완료한 사람이 이깁니다. 한 가지 변형은 계속해서 모든 것을 채우고, 모든 정사각형을 채우고, 어떤 플레이어가 가장 많은 15점을 얻는 것입니다.\n"
+"\n"
+"관련된 게임은 공격수와 수비수가 있는 것입니다. 공격자가 먼저 가고 (첫 번째 움직임은 가운데에 있는 5가 있을 수 없습니다) 15를 얻으려고 시도하고 수비수는 공격자를 막으려고 노력합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "기억력 도전 복습"
 
 #. type=data_list
 msgctxt "data_list"
