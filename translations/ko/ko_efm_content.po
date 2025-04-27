@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 13:35\n"
+"PO-Revision-Date: 2025-04-27 14:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11872,6 +11872,525 @@ msgstr "**설정:** 그림과 같이 작성된 공유된 종이를 사용하세�
 msgctxt "data_list"
 msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
 msgstr "**게임 방법:** 첫 번째 플레이어는 1-9 정사각형에서 1에서 9까지의 모든 숫자로 토큰을 옮깁니다. 두 번째 플레이어는 1-9 정사각형 중 하나에 또 다른 토큰을 넣고 6 x 6 판에서 곱을 가집니다. 그 때부터, 각 플레이어는 두 개의 토큰 중 하나를 이동하고 곱을 가집니다 (할 수 있다면)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**이기는 방법:** 연속으로 3개의 정사각형을 가진 첫 번째 사람이 이깁니다.\n"
+"\n"
+"**변형:** 아이가 곱을 식별하는 더 나은 연습을 할 수 있도록 곱의 숫자를 섞으세요. 또한, 더 넓은 범위를 가진 더 큰 보드의 디자인은 5 단계 보너스 자료를 참조하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "곱으로 섬 뛰기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "곱셈과 배수"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"이 퍼즐에는 다리 (선)로 연결된 섬 (원과 정사각형)이 있습니다. 정사각형의 양쪽에 두 개의 원이 있다면, 정사각형은 두 원의 곱을 담고 있습니다.\n"
+"\n"
+"**도전:** 누락된 숫자를 채우세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**만드는 방법:** 원을 채운 다음, 정사각형을 채우고, 마지막으로 아이에게 주기 전에 숫자 중 일부를 제거하여 이 퍼즐을 만듭니다.\n"
+"\n"
+"곱셈을 연습하는 것 외에도, 이 퍼즐들은 공통 약수를 연습하도록 구조화 될 수 있습니다. 첫 번째 퍼즐에서, 14와 21을 나누는 1을 제외한 유일한 숫자는 7이므로, 하단 원의 숫자입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "이웃들 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**설정:** 3개의 주사위와 1에서 64까지 8 x 8의 숫자판을 사용하세요.\n"
+"\n"
+"**게임 방법:** 플레이어는 주사위를 굴리고 덧셈, 뺄셈, 곱셈, 나눗셈을 사용하여 판에 표시되지 않은 숫자를 만듭니다. 플레이어는 이 정사각형을 표시하고 정사각형에 대해 1점과 대각선을 포함하여 닿는 각 표시된 사각형에 대해 1점을 더 받습니다. 플레이어가 할 수 없다면, 할 수 있는 것을 찾은 다른 플레이어는 그 점수를 가질 수 있습니다.\n"
+"\n"
+"**이기는 방법:** 5개 이상의 라운드 후에 가장 큰 점수를 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "일부 게임 방법은 네 번째 주사위를 사용하고, 더 작거나 큰 판을 사용하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "모바일 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**설정:** 당신은 몇 가지 부착 지점이 있는 모바일을 위한 몇 가지 무게와 디자인을 받습니다. 도전은 부착 지점당 최대 하나의 무게를 넣어 모바일이 모든 팔을 따라 균형을 잡을 수 있도록 하는 것입니다. 줄이 무중력이라고 가정해 보세요. 모바일의 각 팔은 균형이 필요한 레버이므로, 이 퍼즐은 이 단계에서 초기에 주어진 레버 균형 퍼즐의 확장입니다 - 시작하기 전에 퍼즐을 연습해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**간단한 보기:** 공중에 있는 레버일 뿐인 가장 간단한 모바일로 시작하세요. 균형을 맞추기 위해 이 모바일에서 1에서 4까지의 가중치를 두는 해법이 있습니다. 이것은 2 x 4 + 1 x 2 = 4 x 1 + 3 x2이기 때문에 가능합니다.\n"
+"\n"
+"**더 복잡한 보기:** 상단 줄의 각 면의 균형을 맞추기 위해 아래의 가중치의 합계를 사용하세요 (1 + 3) x 3 = (4 + 2) x 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "더 많은 예시와 모바일에 대한 더 긴 토론을 위해 5 단계 보너스 자료로 가세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "제한된 계산기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "덧셈, 뺄셈, 그리고 곱하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**설정:** 계산기가 심하게 고장났고 계산기에서 결과를 내야 한다고 가정해 봐요. 이것은 여유가 있을 때마다 말로 하기 쉽습니다. 여기 당신이 시작할 수 있는 몇 가지 예가 있습니다.\n"
+"\n"
+"**보기:** +, -, x 그리고 /가 있는 계산기가 있지만 작동하는 숫자 키가 4만 있다고 가정해 봐요. 21을 얻을 수 있을까요? 그렇다면, 필요한 가장 적은 단계는 무엇인가요? 최대 4번을 사용할 수 있다고 가정해 봐요 - 어떤 숫자를 생성할 수 있나요? 당신이 4를 정확히 네 번 사용해야 한다고 가정해 봐요. 다른 단일 키를 가지고 해 보고 다른 결과를 만들어 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**보기:** 계산기가 4 또는 7만 더할 수 있다고 가정해 봐요. 어떤 숫자를 만들 수 있나요?\n"
+"\n"
+"**보기:** 계산기가 4 또는 7만 있다고 가정하지만, 이제 더하고 뺄 수 있습니다. 어떤 추가 숫자를 제안할 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"이것들은 우리가 팬 균형과 같은 다른 설정에서 이전에 보았던 것과 같은 활동입니다.\n"
+"\n"
+"**보기:** 키가 1개만 있고 더하거나 두 배로만 할 수 있다고 가정해 봅니다. 예를 들어, 2 x (2 x 1) + 1은 5가 됩니다. 어떤 다른 숫자를 만들 수 있나요?\n"
+"\n"
+"**보기:** 재미있는 도전은 4의 도전입니다. 모든 작업이 작동하는 4개의 키만 있는 계산기가 있다고 가정해 봅니다. 1부터 시작하여, 계산기 작업에서 정확히 네 개의 4를 사용하여 한다면 몇 개의 숫자를 만들 수 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "인수 잡기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**설정:** 1에서 24까지 4 x 6 숫자 격자가 있는 판을 사용합니다.\n"
+"\n"
+"**게임 방법:** 차례에, 플레이어는 밝혀지지 않은 숫자를 선택하고 적어도 하나의 인수가 밝혀집니다 – 플레이어는 선택한 숫자를 얻고 다른 플레이어는 밝혀지지 않은 인수의 일부 또는 전부를 얻습니다 (수에 대한 선택). 합법한 숫자가 남지 않을 때까지 번갈아 하세요.\n"
+"\n"
+"**이기는 방법:** 플레이어는 그들의 숫자를 합산하고 더 높은 합계가 이깁니다.\n"
+"\n"
+"**세금 징수원 놀이:** 이것은 세금 징수원라고 불리는 혼자하는 놀이퍼즐로도 할 수 있습니다. 한 명의 플레이어가 각 숫자를 선택하고 세금 징수원은 사용 가능한 모든 인수를 얻습니다. 플레이어가 더 이상 합법적인 움직임이 없을 때까지 계속합니다. 그 시점에서, 세금 징수원은 남은 숫자를 받습니다. 목표는 가능한 큰 합계를 갖는 것입니다 – 가능할 때 세금 징수원보다 더 큽니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "플레이어의 숫자 범위를 설정합니다. 1에서 12 또는 1에서 60까지 높을 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "튀는 당구공"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "인수와 배수"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "네 모서리 각각에 주머니가 있는 당구대를 상상해 봅니다. 공이 테이블 옆면에서 튀어나올 때, 그것은 들어온 것과 같은 각도로 튀어나옵니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"이 조사는 질문을 살펴봅니다: 만약 우리가 한 모퉁이에서 45도 각도로 공을 쏘면, 그것은 어디에서 멈출까요?\n"
+"\n"
+"답은 테이블의 크기에 달려 있습니다. 이것은 3 x 4 테이블에서 일어나는 일입니다.\n"
+"\n"
+"여러 가지 크기의 테이블에서 당구를 해보면, 아이에게 새로운 크기에 대한 답을 미리 예측하도록 도전시켜 보세요. 왼쪽 하단 모서리에서 시작하여, 어느 모퉁이가 먼저 맞고 얼마나 많은 바운스가 걸릴까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "두 배 또는 아무것도 없기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**설정:** 플레이어는 비밀리에 20보다 크고 121보다 작은 5개의 특징있는 숫자를 선택하여 게임을 시작합니다. 모든 선택이 이루어진 후, 그것들은 모두가 볼 수 있는 곳에 쓰여집니다.\n"
+"\n"
+"**게임 방법:** 숫자 카드나 다른 장치를 사용하여, 1에서 21까지의 임의의 숫자가 생성됩니다. 그 숫자는 누군가의 숫자가 처음으로 맞거나 숫자가 120보다 커질 때까지 반복적으로 두 배가 됩니다.\n"
+"\n"
+"**이기는 방법:** 다섯 개의 숫자를 모두 맞은 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "숫자를 선택하기 위한 전략"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "46가 같은 숫자를 고르는 것은 나쁜 생각입니다. 그것은 1에서 20사이의 숫자의 2배가 아닙니다. 그것은 결코 맞지 않을 것입니다. 32와 같은 2의 인수가 많은 일부 숫자는 더 많은 시작 숫자가 그들에게 도달할 수 있기 때문에 타격을 입을 가능성이 더 높습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "숫자를 두 배로 늘리는 대신 매번 세 배로 늘릴 수 있습니다. 그것을 두 배로 늘리고 매번 1개를 더할 수 있습니다. 어린 플레이어의 경우, 60이 아닌 10이상의 숫자를 선택하고, 1에서 10까지의 임의의 숫자를 선택하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "인수와의 전쟁"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "인수 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**설정:** 1에서 25까지 두 세트의 카드를 가지고 있습니다.\n"
+"\n"
+"**게임 방법:** 이 카드로 표준 전쟁 게임을 하세요. 이제 이기는 사람은 더 많은 인수를 가진 카드입니다. 예를 들어, 12는 16을 이깁니다. 왜냐하면, 12는 6개의 인수 (1, 2, 3, 4, 6, 12)을 가지고 있고 16은 5개의 인수 (1, 2, 4, 8, 16)을 가지고 있지 때문입니다. 우승 카드를 가진 사람은 카드를 획득하기 위한 인수를 올바르게 나열한 수 있어야 합니다. 그렇지 않으면, 카드는 각 플레이어의 뽑기 더미로 다시 섞여집니다. 표준 전쟁과 마찬가지로, 동점이 있을 때, 다음 카드가 넘겨지고 이기는 사람은 모든 카드를 받습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "당신은 더 적은 수의 인수가 이기는 것으로 할 수 있습니다. 모든 인수가 아닌 소인수의 합계를 셀 수 있습니다. 소수의 거듭 제곱 (소수의 거듭제곱의 숫자)이 다른 숫자를 능가하는 것을 할 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "화산을 건너기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**설정:** 회색으로 칠한 네 개의 가장자리에 36개의 사각형이 있는 100개의 차트를 사용하세요. 그림 카드를 제거한 카드 놀이를 사용하거나 1에서 10까지 숫자 카드를 사용하세요.\n"
+"\n"
+"**게임 방법:** 차례로, 1을 고르면 홀수를 가질 수 있습니다. 다른 숫자를 고르면, 아무 배수를 가질 수 있습니다. 만약 당신이 숫자를 가진다면, 상대방은 그것을 가질 수 없습니다. 목표는 어느 방향으로든 한쪽 가장자리에서 반대쪽 가장자리로 경로를 만드는 것입니다. 당시의 길 순서대로 사각형을 정사각형을 가질 필요가 없습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "대각선 연결이 괜찮거나 괜찮지 않다고 할 수 있습니다. 또 다른 방법은 그림 카드를 포함하는 것입니다 – 이것들 중 하나를 받으면, 어느 사람의 경로에 포함될 수 없는 막힌 정사각형에 넣을 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "체커 수학"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "곱셈 보드 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**설정:** 이 게임은 체커에서 가볍게 영감을 받았습니다. 각 플레이어는 10개의 카운터를 가지고 있습니다. 카운터는 1에서 10까지의 숫자가 매겨지며, “10” 카운터는 10과 11로 표시되어 있습니다. 카운터는 100차트의 끝 행에서 시작합니다 - 한 플레이어는 1에서 10의 정사각형에 있고 다른 플레이어는 91에서 100의 정사각형에 있습니다.\n"
+"\n"
+"**게임 방법:** 처음에, 카운터는 그들이 선택한 마커 숫자의 배수로 한 행만 “앞으로” 이동할 수 있습니다. 1에서 10으로 시작하는 플레이어의 경우, 앞으로는 더 큰 숫자를 의미하고, 91에서 100으로 시작하는 플레이어의 경우, 앞으로는 더 작은 숫자를 의미합니다. 카운터가 전반적으로 완성되면, 그것은 왕이 되고 그 후 한 줄 앞으로 또는 뒤로 이동할 수 있습니다. 상대방의 조각은 그것에 놓으며 가져갑니다. 플레이어의 조각은 같은 플레이어의 다른 조각과 두배로 늘릴 수 없습니다.\n"
+"\n"
+"**이기는 방법:** 당신은 상대방의 모든 조각을 가져가서 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "변형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "어린 플레이어의 경우, 처음 6개의 행을 사용하도록 보드를 줄입니다 – 숫자는 1에서 60까지입니다. 아직 모든 배수를 모르는 아이는 건너뛰어 세기를 사용하여 움직임을 알아낼 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "곱셈 빙고"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**설정:** 각 플레이어는 가능한 곱셈 곱인 4 x 4개의 숫자 격자로 시작합니다 – 이 숫자는 무작위로 나누어지거나 플레이어가 신중하게 선택할 수 있습니다.\n"
+"\n"
+"**게임 방법:** 우선, 두 장의 카드가 돌려지고 테이블 위에 앞면이 보이게 얹습니다. 만약 어느 플레이어가 그 두 숫자의 곱을 가지고 있다면, 그들은 그것을 덮습니다. 그때부터, 플레이어는 번갈아 가며 뽑기 더미에서 상단 카드를 가져가서 두 카드 중 어느 것을 교체할 지 선택합니다. 곱과 일치하는 모든 플레이어들이 그것을 덮습니다.\n"
+"\n"
+"**이기는 방법:** 연속으로 4를 얻은 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "교차하는 곱"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "흥미로운 곱"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"이 곱셈 퍼즐은 숫자 1에서 6을 정확히 한 번 포함하는 3 x 3이거나, 숫자 1에서 8을 정확히 한 번 포함하는 4 x 4입니다.\n"
+"\n"
+"**도전:** 각 행과 각 열에 대해 두 개의 숫자인 정사각형을 채워서 행의 숫자의 곱은 맨 왼쪽에 표시된 숫자이고 열의 숫자의 곱은 열 위에 표시된 숫자입니다. 일부 행이나 열은 표시되지 않을 수 있습니다. 그렇다면, 그 행이나 열의 곱에 대한 제약이 없습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**해결 보기:** 두 숫자를 식별할 수 있는 열과 행을 찾아 이 퍼즐을 해결하세요. 30열에는 5와 6이 있어야 하고, 10열에는 2와 5가 있어야 합니다. 다음으로, 12열은 3과 4가 있어야 하고 4행은 1과 4가 있어야 합니다. 나머지는 빨리 따라옵니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"이 퍼즐의 5행에는 1과 5가 있어야 하고, 21행에는 3과 7이 있어야 하며, 32행에는 4와 8이 있어야 하며, 맨 윗줄에는 2와 6이 있습니다. 7열에는 1과 7이 있고, 40열에는 5와 8이 있고, 18열에는 3과 6이 있고, 두 번째 열에는 2와 4가 있습니다. 해결책을 위해 이것을 모으세요.\n"
+"\n"
+"**만드는 방법:** 이 퍼즐의 경우와 마찬가지로, 어른은 먼저 퍼즐 내부의 숫자를 채우고 곱을 적은 다음, 모든 내부 숫자를 제거하여 만들 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of These is Not Like the Others"
+msgstr "이들 중 하나는 다른 것과 다릅니다"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This activity has your child looking at four things and deciding which three share a property that the fourth one does not. The following is a quick list of examples together with explanations. Children often have a fresh way of looking at things and it is well worth listening to them to see if their reasoning is novel yet sound.\n"
+"\n"
+"There are several ways to present these four items to your child. The easiest for you is to simply say the list. If the items are easy to draw, you can draw them. If the items are hard to draw, you may be able to find photos or drawings in ads or magazines that you can cut out and select from. You may be able to use a single photo with lots of content and point out four things in the photo.\n"
+"\n"
+"For activities like this, once your child has practiced this for a while and has a solid idea of the activity, it is good to reverse your roles - your child will learn a lot by creating examples for you to solve. As before, their reasoning may be very different from yours, so listen carefully."
+msgstr ""
+"이 활동에서는 아이가 네 가지를 보고 어떤 세 가지가 네 번째 것과 공유하지 않는 속성을 공유하는지 결정하게 합니다. 다음은 설명과 함께 간단한 예제 목록입니다. 아이들은 종종 사물을 보는 새로운 방식을 가지고 있으며 그들의 추론이 참신하면서도 건전한지 알아보기 위해 그들의 말을 들을 가치가 있습니다.\n"
+"\n"
+"이 네 가지 항목을 아이에게 제시하는 방법에는 여러 가지가 있습니다. 가장 쉬운 방법은 단순히 목록을 말하는 것입니다. 항목이 그리기 쉬운 경우 그릴 수 있습니다. 그리기 어려운 항목의 경우 광고나 잡지에서 잘라서 선택할 수 있는 사진이나 그림을 찾을 수 있습니다. 내용이 많은 한 장의 사진을 사용하고 사진에서 네 가지를 지적할 수 있습니다.\n"
+"\n"
+"이와 같은 활동의 경우 아이가 한동안 이것을 연습하고 활동에 대한 확실한 아이디어를 갖게 되면 역할을 바꾸는 것이 좋습니다. 아이는 어른이 해결해야 할 예를 만들어 많은 것을 배울 것입니다. 이전과 마찬가지로 그들의 추론은 당신의 추론과 매우 다를 수 있으므로 주의 깊게 들어야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Groups of Four"
+msgstr "4인 그룹"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"다음은 시작하는 데 도움이 되는 몇 가지 예입니다.\n"
+"\n"
+"* 토끼, 개, 나비, 베개 - 처음 세 개는 살아 있고 베개는 살아 있지 않습니다.\n"
+"* 바나나, 치즈, 망치, 당근 - 망치는 당신이 먹을 수 없는 유일한 것입니다.\n"
+"* 치즈, 신발, 코트, 셔츠 - 치즈는 당신이 입을 수 없는 유일한 것입니다.\n"
+"* 빨간색 삼각형, 구멍이 있는 빨간색 사각형, 녹색 사각형, 구멍이 없는 빨간색 사각형 - 처음 세 개 중 하나가 홀수일 수 있습니다. 빨간색 삼각형은 사각형이 아닌 유일한 삼각형입니다. 구멍이 있는 빨간색 사각형은 단단하지 않은 유일한 사각형입니다. 녹색 사각형은 빨간색이 아닌 유일한 사각형입니다.\n"
+"* 개, 고양이, 사자, 금붕어 - 사자는 목록에서 나쁜 애완동물이 될 수 있는 유일한 동물입니다. 또한 다른 동물들보다 상당히 큽니다. 또는 세 마리는 다리가 네 개이고 물고기는 물에 산다.\n"
+"* 장미 덤불, 참나무, 단풍나무, 소나무 - 장미 덤불은 유일하게 나무가 아닙니다.\n"
+"벤치, 테이블, 소파, 스툴 - 테이블은 당신이 앉지 않는 유일한 것입니다. 또는 소파 만 부드럽습니다.\n"
+"* 짖고, 경적을 울리고, 무지개, 딸깍 - 무지개는 소리가 아닌 유일한 것입니다.\n"
+"* 양말, 바지, 칫솔, 모자 - 칫솔은 당신이 착용하지 않을 유일한 것입니다.\n"
+"* 의자, 우산, 소파, 스툴 - 우산은 당신이 앉고 싶지 않은 유일한 것입니다.\n"
+"* 개미, 돼지, 거미, 메뚜기 - 돼지만이 작은 벌레가 아니다.\n"
+"\n"
+"단어 대신 사진으로도 할 수 있습니다. 광고, 잡지 및 그 밖의 모든 것에서 사진을 잘라내는 습관을 들여 사진으로 게임을 할 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "섬 뛰기 – 계산 하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "이 퍼즐에는 종이에 그려진 다리(선)로 연결된 섬(원)에 번호가 매겨져 있습니다. 문제는 섬들을 순서대로 연결하는 길을 찾는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest versions have all the numbers filled in and the numbers go from 1 to the number of islands. You can vary this activity by starting at some number other than 1 and by leaving out some of the numbers.\n"
+"\n"
+"Puzzles with all the numbers are straightforward once your child is confident with counting. Those beginning puzzles are good counting practice and are also good for building up confidence in puzzle solving. The more challenging puzzles are the ones with numbers left out.\n"
+"\n"
+"Ease your child into these harder puzzles by leaving out just a few numbers and slowly move to leaving out more."
+msgstr ""
+"가장 쉬운 버전은 모든 숫자가 채워져 있고 숫자는 1에서 섬의 ​​수까지입니다. 1이 아닌 숫자에서 시작하고 일부 숫자를 생략하여 이 활동을 다양화할 수 있습니다.\n"
+"\n"
+"모든 숫자가 포함된 퍼즐은 아이가 숫자 세기에 자신이 있다면 간단합니다. 이러한 시작 퍼즐은 좋은 계산 연습이며 퍼즐 해결에 대한 자신감을 키우는 데에도 좋습니다. 더 어려운 퍼즐은 숫자가 빠진 퍼즐입니다.\n"
+"\n"
+"숫자 몇 ​​개만 빼서 아이가 더 어려운 퍼즐에 쉽게 빠져들게 하고 천천히 더 많이 생략해 보도록 하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The first of these two puzzles has every other number left out. This makes it relatively easy to fill in the missing numbers. 1 must attach to 0 and 2, and there is only one place for that. 3 must attach to 2 and 4, and with 1 filled in there is only one remaining place for the 3. 5 must go in the remaining place between 4 and 6.\n"
+"\n"
+"The second puzzle is a little bit harder. 3 must attach to 2 and 4, so there is only one place for it. 5 must attach to 4, so there is only one place for it now. 6 must attach to the 5. Finally, 0 must go in the remaining spot."
+msgstr ""
+"이 두 퍼즐 중 첫 번째 퍼즐에는 나머지 숫자가 모두 빠져 있습니다. 이렇게 하면 누락된 숫자를 비교적 쉽게 채울 수 있습니다. 1은 0과 2에 붙어야 하는데 거기에는 딱 한 자리밖에 없다. 3은 2와 4에 붙여야 하고, 1을 채우면 3은 한 자리만 남습니다. 5는 4와 6 사이의 나머지 자리에 들어가야 합니다.\n"
+"\n"
+"두 번째 퍼즐은 조금 더 어렵습니다. 3은 2와 4에 붙여야 하므로 한 자리만 있습니다. 5는 4에 붙여야 하므로 지금은 한 곳만 있습니다. 6은 5에 붙여야 합니다. 마지막으로 0은 나머지 자리에 들어가야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
+msgstr "퍼즐을 더 어렵게 만들기 위해 1을 제거하고 일부 다리를 제거할 수 있습니다. 다양하게 변형하여 재미있게 놀고 아이도 그 중 일부를 디자인하게 하십시오."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "대칭 모양 자르기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "종이를 접고 종이가 접힌 상태에서 잘라서 디자인을 만듭니다. 이것을 키리가미라고 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Fold"
+msgstr "한 번 접기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "종이를 한 번 접고 자르면 한쪽이 다른 쪽의 거울 이미지가 되는 디자인이 만들어집니다. 얼굴, 램프 또는 기하학적 모양을 잘라내어 실험해 보십시오. 별과 나무를 한겹으로 제작한 모습은 왼쪽, 펼친 종이는 오른쪽 모습입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Folds"
+msgstr "두 배"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "종이를 한 번 접고 반대 방향으로 한 번 더 접으면 두 줄의 거울상이 있는 도형이 된다. 이렇게 하면 꽃과 같은 디자인을 쉽게 만들 수 있습니다. 왼쪽 그림은 종이를 두 번 접은 후 파란색 부분을 남기고 자른 것이고, 오른쪽 그림은 종이를 펼친 모습입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three Folds"
+msgstr "세 개의 접기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "다양한 접기와 자르기를 시도해보세요. 이 도형은 두 번 접은 종이를 가져와 이전 접힌 부분의 모서리를 통해 대각선으로 한 번 더 접음으로써 만들어졌습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Snowflakes"
+msgstr "눈송이"
 
 #. type=data_list
 msgctxt "data_list"
