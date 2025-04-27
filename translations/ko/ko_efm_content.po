@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 14:35\n"
+"PO-Revision-Date: 2025-04-27 15:31\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12391,6 +12391,445 @@ msgstr "다양한 접기와 자르기를 시도해보세요. 이 도형은 두 �
 msgctxt "data_list"
 msgid "Snowflakes"
 msgstr "눈송이"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a sequence of folds for creating 6-point snowflakes. Though it takes a few steps, don’t be put off by them - with a little practice they become quick and easy. \n"
+"\n"
+"Start by taking a standard sheet of paper and folding at one of the corners so the sides marked A and B meet. Leave the fold in place and cut along the line marked C.\n"
+"\n"
+"Take the triangle produced and fold it in half so that sides AB and C overlap.\n"
+"\n"
+"Put a temporary fold in this triangle and use the fold to mark the middle of side ABC. Undo the temporary fold.\n"
+"\n"
+"Make a fold over F. When you fold over F, you will be looking to have G placed so that G breaks the angle in half. \n"
+"\n"
+"Fold along G - do this fold underneath so that this new folded piece is underneath the other paper.\n"
+"\n"
+"Although not strictly necessary, it is a good idea to slice off the top of this figure. Otherwise, you might be tempted to use the region above the red dotted line without realizing that there isn’t paper on all levels.\n"
+"\n"
+"Lastly, fold this triangle in half. At last you are all set to do the cutting of your design!\n"
+"\n"
+"Have fun experimenting with many different combinations of cuts and colors!"
+msgstr ""
+"이것은 6포인트 눈송이를 만들기 위한 일련의 접기입니다. 몇 가지 단계가 필요하지만 미루지 마십시오. 약간의 연습으로 빠르고 쉬워집니다.\n"
+"\n"
+"A와 B로 표시된 면이 만나도록 표준 용지 한 장을 모서리 중 하나에서 접는 것으로 시작합니다. 접은 부분은 그대로 두고 C라고 표시된 선을 따라 자릅니다.\n"
+"\n"
+"만든 삼각형을 가져다가 변 AB와 C가 겹치도록 반으로 접습니다.\n"
+"\n"
+"이 삼각형에 임시 접기를 넣고 접기를 사용하여 변 ABC의 가운데를 표시합니다. 임시 접기를 취소합니다.\n"
+"\n"
+"F를 접으세요. F를 접을 때 G가 각도를 반으로 나누도록 G를 배치하는 것을 볼 수 있습니다.\n"
+"\n"
+"G를 따라 접기 - 새로 접은 부분이 다른 종이 아래에 오도록 아래에서 접습니다.\n"
+"\n"
+"반드시 필요한 것은 아니지만 이 그림의 상단을 잘라내는 것이 좋습니다. 그렇지 않으면 모든 레벨에 종이가 없다는 사실을 깨닫지 못한 채 빨간색 점선 위의 영역을 사용하고 싶은 유혹을 느낄 수 있습니다.\n"
+"\n"
+"마지막으로 이 삼각형을 반으로 접습니다. 마침내 디자인을 자를 준비가 모두 끝났습니다!\n"
+"\n"
+"컷과 색상의 다양한 조합으로 재미있는 실험을 해보세요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "1과 2로 건너 뛰기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Game Rules"
+msgstr "게임 규칙"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"10이라고 하는 대상 번호가 선택됩니다. 아이가 먼저 할 것인지 두 번째 할 것인지 선택하게 하십시오. 총계는 0에서 시작합니다. 자기 차례동안 사람은 현재 총계에 1 또는 2를 더하기로 선택합니다. 목표에 먼저 도달한 사람이 이깁니다.\n"
+"\n"
+"이 게임은 뺄셈으로도 할 수 있습니다. 이 버전에서 시작 총계는 목표에서 시작하며 이 예에서는 10입니다. 주어진 차례에서 플레이어는 1 또는 2를 뺄지 선택합니다. 0에 도달하는 첫 번째 사람이 승리합니다.\n"
+"\n"
+"또 다른 변형은 이기는 대신 플레이어가 강제로 목표 수를 초과하거나 지는 것입니다. 플레이어가 매 턴마다 1, 2 또는 3을 더하거나 빼도록 허용하면 어떻게 되는지 실험해 볼 수도 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding the Game"
+msgstr "게임 이해"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"아무 것도 분석하지 않고 이 게임을 하는 것은 즐겁고 1과 2를 더하거나 빼는 좋은 연습을 제공합니다. 우리는 그것을 그대로 둘 수 있습니다. 그러나 이것은 또한 아이가 준비되었을 때 아이에게 보여줄 수 있는 두 가지 문제 해결 기술의 좋은 예입니다. 1) 더 간단한 예에서 배우기, 2) 패턴 찾기.\n"
+"\n"
+"이러한 방식으로 모든 버전을 연구할 수 있습니다. 하나를 봅시다. 10부터 빼서 0이 되는 사람이 이깁니다. 이 게임의 어려운 부분은 10이 0에서 너무 멀다는 것입니다. 따라서 더 간단한 버전을 살펴보겠습니다. 아이들에게 이것을 하라고 할 때, 그들은 종종 5세나 6세부터 시작하라고 제안합니다. 1세부터 시작하는 것이 그들에게는 터무니없게 보이지만 실제로는 그것이 아이들이 해야 할 일입니다! 종종 가능한 한 간단하게 시작하는 것이 가장 좋습니다. 즉, 1부터 시작하는 것입니다. 당신의 이동이고 카운트가 1이면 당신이 이깁니다. 다음 몇 가지를 해보세요. 카운트가 2이면 이깁니다. 카운트가 3이면 진 게임입니다. 1을 빼든 2를 빼든 상대에게 승리 위치를 제공합니다. 카운트가 4이면 1을 빼서 상대를 패배 위치에 놓기 때문에 승리하게 됩니다. 이런 식으로 계속해서 결과 표를 작성합니다.\n"
+"\n"
+"1안에 – 2안에 – 3엘 – 4안에 – 5안에 – 6엘 – 7안에 – 8안에 – 9엘 – 10안에"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"이 표는 3의 반복 패턴이 있음을 분명히 보여줍니다. 10에서 시작할 때 먼저 가서 1을 빼고 싶을 것입니다. 이것에 대해 만족스러운 것은 일단 문제의 더 간단한 버전을 보기로 결정하면, 빠르고 쉬운 분석 - 까다로운 분석이 필요하지 않습니다. 이제 당신은 이 게임의 마스터이며 숫자에 관계없이 무엇을 시작해야 하는지 알고 있습니다! 이 기본 게임의 모든 버전은 분석하기 쉽습니다.\n"
+"\n"
+"하지만 마지막 질문이 하나 있습니다. 3이 반복되는 이유는 무엇입니까? 한 플레이어가 3의 배수인 지는 숫자에 고정되면 그 이후의 모든 이동 쌍은 3이 되도록 만들 수 있습니다. 지는 플레이어가 1을 빼면 다른 플레이어는 2를 빼고 지는 플레이어가 2를 빼면 다른 플레이어는 1을 뺍니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connect The Dots"
+msgstr "점들을 연결하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Everyday Scenes With Dots"
+msgstr "일상의 풍경을 점으로 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
+msgstr "번호가 매겨진 점들을 연결하여 재미있는 그림을 완성하세요. 한 가지 방법은 간단한 그림, 예를 들어 집에 대해 몇 개의 직선을 제거하고 번호가 매겨진 점으로 대체하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Geometric Patterns With Angles"
+msgstr "각도로 기하학적 패턴 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make abstract drawings by connecting points with the same number along opposite sides of an angle. The numbers may not be needed - if so, feel free to omit them - this will make the finished designs a little less cluttered. You can add variety to these by having your child draw with colors. There are lots of amazing examples of this to be found under the category of String Art on the Internet. This circle drawing was made by moving ahead by one dot on one side of the line segment and ahead by two dots on the other side."
+msgstr "각도의 반대쪽을 따라 같은 번호의 점을 연결하여 추상화를 만듭니다. 숫자는 필요하지 않을 수 있습니다. 그렇다면 생략해도 됩니다. 이렇게 하면 완성된 디자인이 조금 덜 어수선해집니다. 아이가 색상으로 그림을 그리게 함으로써 여기에 다양성을 더할 수 있습니다. 인터넷의 “줄로 하는 아트” 범주에서 찾을 수 있는 놀라운 예가 많이 있습니다. 이 원 그림은 선분의 한쪽에서 한 점 앞으로 이동하고 다른 쪽에서 두 점 앞으로 이동하여 만들어졌습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Patterns With Circles"
+msgstr "원으로 패턴 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a special case of the last idea. Put some dots, say 8 or 9, evenly spaced on a circle. Your child can play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot. To make it easier to do different experiments, use push pins in a piece of cardboard or wood and then use string between the push pins.\n"
+"\n"
+"If your child is intrigued by the patterns that are produced, you can look at questions such as: For a circle with 8 dots, why is only one string needed to skip by 1, 3, 5, or 7, but 2 or 4 strings are needed for skipping 2, 4, or 6. Similarly, for a circle with 9 dots, why is only one string needed to skip by 1, 2, 4, 5, 7, or 8, but 3 strings are needed for 3 and 6? It’s too young to understand the idea that 2, 4, and 6 have a factor in common with 8, and 3 and 6 have a factor in common in 9 - however, seeing the patterns may plant the seeds for later ideas."
+msgstr ""
+"이것은 마지막 아이디어의 특별한 경우입니다. 8 또는 9와 같이 원에 일정한 간격으로 몇 개의 점을 배치합니다. 아이는 점을 순서대로 연결하거나 두 번째 점 또는 세 번째 점마다 연결하여 다양한 패턴을 만드는 놀이를 할 수 있습니다. 다른 실험을 더 쉽게 하려면 판지나 나무 조각에 압정을 사용하고 압정 사이에 끈을 사용하십시오.\n"
+"\n"
+"아이가 생성된 패턴에 흥미를 느끼는 경우 다음과 같은 질문을 볼 수 있습니다. 8개의 점이 있는 원의 경우 1, 3, 5 또는 7을 건너뛰는 데 하나의 문자열만 필요한데 왜 2 또는 4개의 줄은 2, 4, 6의 건너뛰기가 필요합니까? 마찬가지로 9개의 점이 있는 원의 경우 1, 2, 4, 5, 7 또는 8을 건너뛰려면 한 줄만 필요한데 3과 6을 건너뛰려면 3개의 줄이 필요한 이유는 무엇입니까? 2, 4, 6이 8과 공통 요소를 가지고 있고 3과 6이 9에서 공통 요소를 가지고 있다는 생각을 이해하기에는 너무 어립니다. 그러나 패턴을 보는 것은 나중에 아이디어를 위한 씨앗을 심을 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Sudoku"
+msgstr "모양 스도쿠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is your child’s first math puzzle, and that’s pretty cool! It also means you should take it very slowly so your child has lots of success and fun, and very little frustration.\n"
+"\n"
+"The rules for these 4 by 4 Sudokus are very simple. There are four different types of tokens. There should be one of each kind of token in each row, column, and 2 by 2 corner of the puzzle. Use moveable pieces so that it is easy for your child to experiment in finding solutions.\n"
+"\n"
+"The first puzzles you make should just have one token missing from each row. Once your child understands and figures out those puzzles, you can move to trickier ones, but do not be in a hurry.\n"
+"\n"
+"The easiest way to create these puzzles is to start with a finished Sudoku and remove some of the tokens. To help you to do that, there are a number of finished Sudokus supplied below. After those finished examples, there is a list of methods you can use to create puzzles from a finished puzzle."
+msgstr ""
+"이것은 아이의 첫 번째 수학 퍼즐이며 꽤 멋집니다! 그것은 또한 아이가 많은 성공과 재미를 느끼고 좌절감을 거의 느끼지 않도록 매우 천천히 해야 한다는 것을 의미합니다.\n"
+"\n"
+"이 4 x 4 스도쿠의 규칙은 매우 간단합니다. 네 가지 유형의 토큰이 있습니다. 퍼즐의 각 행, 열 및 2x2 모서리에 각 종류의 토큰이 하나씩 있어야 합니다. 움직일 수 있는 조각을 사용하여 아이가 해결책을 찾는 실험을 쉽게 하십시오.\n"
+"\n"
+"당신이 만드는 첫 번째 퍼즐은 각 행에서 누락된 토큰이 하나만 있어야 합니다. 아이가 이러한 퍼즐을 이해하고 파악하면 더 까다로운 퍼즐로 이동할 수 있지만 서두르지 마십시오.\n"
+"\n"
+"이러한 퍼즐을 만드는 가장 쉬운 방법은 완성된 스도쿠로 시작하여 일부 토큰을 제거하는 것입니다. 그렇게 하는 데 도움이 되도록 아래에 제공되는 완성된 스도쿠가 많이 있습니다. 완성된 예제 다음에 완성된 퍼즐에서 퍼즐을 만드는 데 사용할 수 있는 방법 목록이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finished Sudokus"
+msgstr "완료된 스도쿠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before giving you a collection of finished Sudokus, there is one thing to note. You can take any one of these and create 23 more of them simply by interchanging token types - for example, you can take a finished puzzle and create a “new” one by swapping the circles and triangles and swapping the diamonds and squares. \n"
+"\n"
+"The examples below are distinctly different from each other and cannot be made from each other by doing interchanges. You can create more examples from these by doing such interchanges if you like."
+msgstr ""
+"완성된 스도쿠 컬렉션을 제공하기 전에 한 가지 주의할 사항이 있습니다. 토큰 유형을 교환하는 것만으로 이 중 하나를 선택하고 23개를 더 만들 수 있습니다. 예를 들어 완성된 퍼즐에서 원과 삼각형을 교체하고 다이아몬드와 사각형을 교체하여 \"새\" 퍼즐을 만들 수 있습니다.\n"
+"\n"
+"아래 예는 서로 명백히 다르며 교환을 통해 서로 만들 수 없습니다. 원하는 경우 이러한 교환을 수행하여 더 많은 예제를 만들 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Methods for Creating Sudokus From Solved Ones"
+msgstr "해결된 스도쿠에서 스도쿠를 만드는 방법"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Once you have a finished Sudoku, you can use any of the following strategies to create a puzzle that has a unique solution. Generally speaking, the more tokens you remove, the harder the puzzle will be.\n"
+"\n"
+"* Remove a single token from each row or from each column.\n"
+"* Remove a single token from each 2 by 2 corner.\n"
+"* Remove all of one kind of token from the entire puzzle.\n"
+"* Remove all tokens from one 2 by 2 corner.\n"
+"* Remove one entire row and one entire column.\n"
+"* Remove all of one kind of token and one each of the other kinds of tokens.\n"
+"* Remove all tokens from two 2 by 2 opposite corners.\n"
+"* Remove all tokens from two 2 by 2 opposite corners and 1 token each from the other two corners.\n"
+"\n"
+"Of course, these are not the only methods you can use. They are just supplied here as sure-fire general methods that will quickly create puzzles."
+msgstr ""
+"완성된 스도쿠가 있으면 다음 전략 중 하나를 사용하여 고유한 솔루션이 있는 퍼즐을 만들 수 있습니다. 일반적으로 토큰을 많이 제거할수록 퍼즐이 더 어려워집니다.\n"
+"\n"
+"* 각 행 또는 각 열에서 단일 토큰을 제거합니다.\n"
+"* 각 2x2 모서리에서 단일 토큰을 제거합니다.\n"
+"* 전체 퍼즐에서 한 종류의 토큰을 모두 제거합니다.\n"
+"* 하나의 2x2 코너에서 모든 토큰을 제거합니다.\n"
+"* 하나의 전체 행과 하나의 전체 열을 제거합니다.\n"
+"* 한 종류의 토큰을 모두 제거하고 다른 종류의 토큰을 각각 하나씩 제거합니다.\n"
+"* 두 개의 2 x 2 반대쪽 모서리에서 모든 토큰을 제거합니다.\n"
+"* 2 x 2의 반대쪽 모서리 2개에서 모든 토큰을 제거하고 다른 두 모서리에서 각각 토큰 1개를 제거합니다.\n"
+"\n"
+"물론 이러한 방법만 사용할 수 있는 것은 아닙니다. 퍼즐을 신속하게 생성하는 확실한 일반적인 방법으로 여기에서 제공됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sudoku With Jigsaws"
+msgstr "퍼즐 패턴이 있는 숫자 스도쿠"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is similar to the Shape Sudoku puzzles, only now it uses numbers. If your child is not ready to recognize numerals yet, you can use quantities of dots instead. To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once.\n"
+"\n"
+"Create these puzzles for your child by starting with a completed puzzle with moveable pieces of numbered paper and then removing some of the pieces of paper."
+msgstr ""
+"이것은 모양 스도쿠 퍼즐과 비슷하지만 지금은 숫자만 사용합니다. 아이가 아직 숫자를 인식할 준비가 되지 않았다면 점의 수를 대신 사용할 수 있습니다. 지우는 것을 방지하려면 번호가 매겨진(또는 점이 있는) 종이 쪽지를 사용하여 퍼즐을 푸세요.\n"
+"\n"
+"4x4 퍼즐의 경우 각 행과 열에 1부터 4까지의 숫자가 하나씩 있습니다. 또한 표시된 각 하위 영역에는 1에서 4까지의 숫자가 한 번씩 있습니다.\n"
+"\n"
+"움직일 수 있는 번호가 매겨진 종이 조각으로 완성된 퍼즐로 시작한 다음 종이 조각 일부를 제거하여 아이를 위해 이러한 퍼즐을 만듭니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4 by 4 Puzzles"
+msgstr "4x4 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The 4 by 4 puzzles with subregions that are the 2 by 2 corners are exactly the same as the Shape Sudoku puzzles given before. You can go back to that page in these Resources to see solved versions of those puzzles. To create a numbered version of them, replace each colored shape by a number. For example, red circles could be 1, orange triangles 2, purple diamonds 3, and blue squares 4."
+msgstr "2x2 모서리인 하위 영역이 있는 4x4 퍼즐은 이전에 제공된 도형 스도쿠 퍼즐과 정확히 동일합니다. 이 참고물의 해당 페이지로 돌아가서 해당 퍼즐의 해결된 버전을 볼 수 있습니다. 번호가 매겨진 버전을 만들려면 각 색상 모양을 숫자로 바꿉니다. 예를 들어 빨간색 원은 1, 주황색 삼각형은 2, 보라색 다이아몬드는 3, 파란색 사각형은 4일 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5 by 5 Puzzles"
+msgstr "5x5 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are too many of these puzzles to come anywhere close to showing all the possible jigsaw geometries. These are here just to suggest what is possible. Your child may enjoy finding different ways of carving up a 5 by 5 square into pieces that have 5 small squares. \n"
+"\n"
+"Pieces that consist of 5 little squares are called “pentominoes.” Making shapes with pentominoes can be lots of fun. Maybe cut out some pentomino shapes out of stiff thick colored paper and see what designs you can make!"
+msgstr ""
+"가능한 모든 직소 기하학을 보여주기에는 너무 많은 퍼즐이 있습니다. 이들은 가능한 것을 제안하기 위해 여기에 있습니다. 당신의 아이는 5 x 5 정사각형을 5개의 작은 정사각형이 있는 조각으로 조각내는 다양한 방법을 찾는 것을 즐길 수 있습니다.\n"
+"\n"
+"5개의 작은 사각형으로 구성된 조각을 \"펜도미노\"라고 합니다. 펜도미노로 모양을 만드는 것은 정말 재미있을 수 있습니다. 뻣뻣하고 두꺼운 색종이에서 펜도미노 모양을 오려서 어떤 디자인을 만들 수 있는지 알아보세요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6 by 6 Puzzles"
+msgstr "6x6 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Okay, you are getting the idea. There are a lot of these! Here are just a few 6 by 6 puzzles to give you some ideas for what is possible. As always, play around with your child with these puzzle pieces and numbers. Perhaps design a few of these together."
+msgstr "좋아요, 당신은 아이디어를 얻고 있습니다. 이것들이 많이 있습니다! 다음은 가능한 것에 대한 몇 가지 아이디어를 제공하는 몇 가지 6x6 퍼즐입니다. 언제나 그렇듯이 이 퍼즐 조각과 숫자를 가지고 아이와 함께 놀아보세요. 아마도 이들 중 몇 가지를 함께 디자인할 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Greater Than Sudoku"
+msgstr "스도쿠보다 큼"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship. \n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
+msgstr ""
+"“스도쿠보다 큼” 퍼즐은 일반 스도쿠와 동일한 규칙으로 시작합니다. 각 숫자는 각 행, 열 및 하위 영역에 정확히 한 번씩 나타납니다. 또한 두 셀 사이에 보다 작음 또는 보다 큼 기호가 있는 경우 칸의 숫자는 해당 관계를 따라야 합니다.\n"
+"\n"
+"완성된 스도쿠 퍼즐을 사용하여 이러한 퍼즐을 만드십시오. 이 참고물의 초기에 제공된 모든 예제 숫자 스도쿠 직소 퍼즐은 이러한 퍼즐을 만드는 데 유용합니다. 동일한 기하학의 빈 격자에 보다 큼 및 보다 작음 기호를 넣으십시오. 모든 숫자를 생략하고 모든 부등식(보다 작거나 큼)을 입력하면 일반적으로 퍼즐을 풀기가 상당히 쉽습니다. 아이에게 유용한 전략은 가장 작은 숫자와 가장 큰 숫자가 어디로 가야 하는지 먼저 찾는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your child is first learning how to do these puzzles, put in all the inequalities and some of the numbers. Gradually, start omitting more of the numbers and some of the inequalities."
+msgstr "아이가 이 퍼즐을 푸는 방법을 처음 배울 때 모든 부등식과 일부 숫자를 넣으십시오. 점차적으로 더 많은 숫자와 부등식을 생략하기 시작하십시오."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make Me a Liar"
+msgstr "나를 거짓말쟁이로 만들어요"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone makes an absolute statement and the other players attempt to show that the person is lying. This is done by finding an example that breaks the statement."
+msgstr "누군가가 절대적인 진술을 하고 다른 플레이어는 그 사람이 거짓말을 하고 있음을 보여주려고 합니다. 이는 진술을 깨뜨리는 예를 찾아 수행됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simple Statements That Are Almost Always True"
+msgstr "거의 항상 사실인 간단한 진술"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One type of statement to use is saying that something is always true. Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* All trucks have four wheels. - Large trucks often have 6, 10 or more wheels.\n"
+"* All rectangles are squares. - Rectangles need not have all their sides the same length.\n"
+"* All birds can fly. - Ostriches, emus, and kiwis are birds that cannot fly.\n"
+"* The moon is only visible at night. - The moon is often visible during the day.\n"
+"* All shapes have straight sides. - A circle does not have a straight side.\n"
+"* All playgrounds have swing sets. - Some playgrounds don’t have swing sets.\n"
+"* All rooms have chairs. Bedrooms and bathrooms often don’t have a chair."
+msgstr ""
+"사용할 진술의 한 유형은 무언가가 항상 사실이라고 말하는 것입니다. 다음은 거짓말인 이유에 대한 간단한 설명과 함께 몇 가지 예입니다.\n"
+"\n"
+"* 모든 트럭에는 네 개의 바퀴가 있습니다. – 대형 트럭에는 종종 6개, 10개 또는 그 이상의 바퀴가 있습니다.\n"
+"* 모든 직사각형은 정사각형입니다. – 직사각형은 모든 변의 길이가 같을 필요가 없습니다.\n"
+"* 모든 새는 날 수 있습니다. – 타조, 에뮤, 키위는 날지 못하는 새입니다.\n"
+"* 달은 밤에만 보입니다. – 낮에는 달이 자주 보입니다.\n"
+"* 모든 도형에는 직선이 있습니다. – 원에는 직선이 없습니다.\n"
+"* 모든 놀이터에는 그네 세트가 있습니다. – 일부 놀이터에는 그네 세트가 없습니다.\n"
+"* 모든 객실에는 의자가 있습니다. – 침실과 욕실에는 종종 의자가 없습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If-Then Statements That Are Almost Always True"
+msgstr "“만약” - “그러면” 거의 항상 참인 진술"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Another type of statement is of the form “if __, then ___ .” Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* If today is Monday, then it is a school day. - Some Mondays are holidays and some Mondays occur during the summer.\n"
+"* If I don’t eat for three hours, then I am hungry. - Most people can sleep for more than three hours and not wake up hungry.\n"
+"* If a person is taller than someone, then they are older. - Children often grow up to be taller than their parents.\n"
+"* If the sun is shining, it is a warm day. - Winter days can be sunny and cold.\n"
+"* If someone is late, something bad must have happened to them. - Sometimes people are late through carelessness or reasons beyond their control (traffic, bad weather, car trouble)."
+msgstr ""
+"또 다른 유형의 진술은 “만약__, 그러면___\" 형식입니다. 다음은 거짓말인 이유에 대한 간단한 설명과 함께 몇 가지 예입니다.\n"
+"\n"
+"* 오늘이 월요일이면 학교 가는 날입니다. – 일부 월요일은 공휴일이며 일부 월요일은 여름에 있습니다.\n"
+"* 3시간 동안 먹지 않으면 배가 고파요. – 대부분의 사람들은 3시간 이상 잠을 자고 배고프지 않습니다.\n"
+"* 사람이 다른 사람보다 키가 크면 나이가 많습니다. – 아이들은 종종 부모보다 키가 커집니다.\n"
+"* 태양이 빛나면 따뜻한 날입니다. – 겨울날은 화창하고 추울 수 있습니다.\n"
+"* 누군가 늦었다면 그들에게 나쁜 일이 일어났을 것입니다. – 때때로 사람들은 부주의나 자신이 통제할 수 없는 이유(교통, 악천후, 자동차 문제)로 인해 지각합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15-Sliding Puzzle"
+msgstr "15-슬라이딩 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle Description"
+msgstr "퍼즐 설명"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The classic version of this puzzle starts with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid. The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"A 4 x 4 grid is too hard for a beginner, so start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr ""
+"이 퍼즐의 원래 경우는 5개의 수평선과 수직선으로 구성된 4 x 4의 빈 사각형 격자로 시작합니다. 격자 사각형 크기의 종이 15장을 사용하고 종이 조각에 1부터 15까지 번호를 매깁니다. 퍼즐은 누군가 종이 조각을 격자 위에 놓는 것으로 시작됩니다. 퍼즐의 목적은 격자의 오른쪽 아래 모서리만 비어 있는 상태에서 종이 조각을 순서대로 맞추는 것입니다. 이를 달성하기 위해 빈 사각형에 인접한 종이 조각을 이동할 수 있습니다. 이 경우 해당 공간으로 밀어 넣을 수 있습니다. 사람이 퍼즐을 어떻게 맞추느냐에 따라 퍼즐을 풀 수도 있고 풀지 못할 수도 있습니다.\n"
+"\n"
+"4 x 4 격자는 초보자에게 너무 어려우므로 더 작은 것으로 시작하십시오. 격자는 2 x 2만큼 작을 수도 있고 아이가 원하는 만큼 클 수도 있습니다. 번호가 매겨진 종이 조각의 수는 항상 격자 크기보다 하나 적습니다. 예를 들어, 2 x 3 격자에서 1에서 5까지의 카드를 사용합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr "이러한 퍼즐을 만들려면 두 가지 방법이 있습니다. 첫 번째는 사각형을 무작위로 배치하는 것입니다. 이 경우 위치를 해결할 수 있는 확률은 50/50입니다. 또는 종이 조각을 최종 위치에 놓은 다음 일련의 합법적인 이동을 통해 종이를 이동할 수 있습니다. 모든 작업이 완료되면 퍼즐을 풀 수 있음이 보장됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving the Puzzle"
+msgstr "퍼즐 풀기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The main reason for a child to play with this puzzle is to have fun moving pieces around until they accidentally solve it and also to practice getting numbers in order. Despite that simple goal, you may start to wonder about deeper ideas in the puzzle.\n"
+"\n"
+"A frequent theme of problem solving is to learn from simpler problems or examples. So, let’s do that.\n"
+"\n"
+"The smallest example is 2 by 2. For this size, it is clear that the rows will end up being either 1 2; 3 0 or 1 3; 2 0.\n"
+"\n"
+"The next smallest is 2 by 3. Start this by getting the 1 and 4 in the left column. Once this is done, your puzzle will look like 1 _ _; 4 _ _ . Finish off the last four squares as you would the 2 by 2 case.\n"
+"\n"
+"The 2 by 4 puzzle is done similarly. Start by putting 1 and 5 in the left column. Next, put the 2 and 6 in the second left column without disturbing the 1 and 4. Finally finish off the last 2 by 2.\n"
+"\n"
+"At this point, the pattern for attacking puzzles with 2 rows is clear. What to do with more than 2 rows? Suppose you have 3 rows. Start the solution by getting the top row correctly laid out. After that, leave the top row undisturbed and use your ability to solve a puzzle with 2 rows.\n"
+"\n"
+"Similarly, if there are 4 rows, do the top row first, the second row next (without disturbing the top row), and finish off the last 2 rows as before."
+msgstr ""
+"아이가 이 퍼즐을 가지고 노는 주된 이유는 실수로 퍼즐을 풀 때까지 조각을 재미있게 움직이고 숫자를 순서대로 맞추는 연습을 하기 위해서입니다. 그 간단한 목표에도 불구하고 퍼즐의 더 깊은 방법에 대해 궁금해하기 시작할 수 있습니다.\n"
+"\n"
+"문제 해결의 빈번한 주제는 더 간단한 문제나 예에서 배우는 것입니다. 자, 그렇게 합시다.\n"
+"\n"
+"가장 작은 예는 2 x 2입니다. 이 크기의 경우 행이 1 2가 되는 것이 분명합니다. 30 또는 13; 2 0.\n"
+"\n"
+"다음으로 가장 작은 것은 2 x 3입니다. 왼쪽 열에서 1과 4를 가져와 시작합니다. 이 작업이 완료되면 퍼즐은 1 _ _처럼 보일 것입니다. 4 _ _ . 2 x 2 경우처럼 마지막 4개의 사각형을 마무리합니다.\n"
+"\n"
+"2x4 퍼즐도 비슷하게 수행됩니다. 왼쪽 열에 1과 5를 입력하여 시작합니다. 다음으로 1과 4를 방해하지 않고 두 번째 왼쪽 열에 2와 6을 넣습니다. 마지막으로 마지막 2를 2로 마무리합니다.\n"
+"\n"
+"이 시점에서 2줄 공격 퍼즐의 패턴은 명확하다. 행이 2개 이상인 경우 어떻게 해야 합니까? 3개의 행이 있다고 가정합니다. 맨 위 행을 올바르게 배치하여 해결방법을 시작하십시오. 그런 다음 맨 윗줄은 그대로 두고 자신의 능력을 사용하여 2줄로 된 퍼즐을 풀어보세요.\n"
+"\n"
+"마찬가지로 4개의 행이 있는 경우 맨 위 행을 먼저 수행하고 두 번째 행을 다음에 수행하고(맨 위 행을 방해하지 않고) 이전과 같이 마지막 2행을 마무리합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is This Puzzle Solvable?"
+msgstr "이 퍼즐은 풀 수 있습니까?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Okay, you have a simple method for solving the puzzle. The next question is: How can I just look at the puzzle and know whether it is solvable or not?\n"
+"\n"
+"To make describing the answer as simple as possible, do a few quick moves, if needed, to place the empty square in the bottom row. Next, make a list of the rows in one long list - the first row is listed first, the second row is listed second, and so on with the last row listed last. Omit the empty square when you list the last row.\n"
+"\n"
+"Take this long list and count the number of inversions in it. When a number earlier in the list is larger than a number later in the list, this is called an inversion. If the number of inversions is an even number, then the puzzle is solvable. If it is an odd number, it is not.\n"
+"\n"
+"As an example, take the 3 by 3 puzzle at the start of this discussion. Start by moving the 4 up to the second row. Then the list is: 6 1 2 4 8 5 3 7. There are 10 inversions in this list: 6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7, and 5 3. There are an even number of inversions, so the puzzle is solvable.\n"
+"\n"
+"Why does this rule work? I won’t drag you through a detailed analysis. The key idea is to keep track of the number of inversions every time you make a move. It turns out that, if you adjust for the hole being in the last row, the number of inversions must always change by an even number after any move. Consequently, if the number of inversions starts as an odd number, it can never get down to 0 inversions."
+msgstr ""
+"자, 퍼즐을 푸는 간단한 방법이 있습니다. 다음 질문은 퍼즐을 보고 해결할 수 있는지 여부를 어떻게 알 수 있습니까?\n"
+"\n"
+"답변을 가능한 한 간단하게 설명하려면 필요한 경우 몇 가지 빠른 동작을 수행하여 맨 아래 행에 빈 사각형을 배치합니다. 다음으로 하나의 긴 목록에 행 목록을 만듭니다. 첫 번째 행이 먼저 나열되고 두 번째 행이 두 번째로 나열되는 식으로 마지막 행이 마지막으로 나열됩니다. 마지막 행을 나열할 때 빈 사각형을 생략하십시오.\n"
+"\n"
+"이 긴 목록을 가지고 반전의 수를 세십시오. 목록의 앞자리 숫자가 뒷자리 숫자보다 큰 경우를 반전이라고 합니다. 반전 횟수가 짝수이면 퍼즐을 풀 수 있습니다. 홀수이면 풀린것이 아닙니다.\n"
+"\n"
+"예를 들어, 이 토론의 시작 부분에 있는 3x3 퍼즐을 살펴보십시오. 4를 두 번째 행으로 이동하여 시작합니다. 그러면 목록은 6 1 2 4 8 5 3 7입니다. 이 목록에는 10개의 반전이 있습니다: 6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7 및 5 3. 짝수의 반전이 있으므로 퍼즐을 풀 수 있습니다.\n"
+"\n"
+"이 규칙이 작동하는 이유는 무엇입니까? 나는 상세한 분석을 통해 당신을 끌지 않을 것입니다. 핵심 방법은 이동할 때마다 반전 횟수를 추적하는 것입니다. 홀이 마지막 행에 있도록 조정하면 반전 횟수는 이동 후 항상 짝수만큼 변경되어야 합니다. 따라서 반전 횟수가 홀수로 시작하면 반전 횟수가 0이 될 수 없습니다."
 
 #. type=data_list
 msgctxt "data_list"
