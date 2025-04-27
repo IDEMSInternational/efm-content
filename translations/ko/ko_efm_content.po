@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 04:45\n"
+"PO-Revision-Date: 2025-04-27 05:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11231,6 +11231,533 @@ msgstr "혼합 연산"
 msgctxt "data_list"
 msgid "**Levers:** Use the lever principle to practice multiplication and addition. The principle says that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
 msgstr "**지렛대:** 지렛대 원리를 사용하여 곱셈과 덧셈을 연습해 보세요. 그 원리는 지렛대의 한쪽에 있는 질량에 의해 가해지는 힘은 피벗 포인트인 지렛대로부터의 거리를 곱한 질량과 같다고 말합니다. 여러 질량의 한쪽 힘은 총력을 주기 위해 합산됩니다. 지렛대가 균형을 이루려면 양쪽이 총 힘은 같아야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Examples:** You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be distances 5 and 3, but it can also be 10 and 6, or even larger answers like 15 and 9.\n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? What if the two weights are on different sides of the lever? This question continues the questions on the Make It Count page at the end of Stage 4."
+msgstr ""
+"**보기:** 당신은 지점의 반대편에 넣을 3단위 무게와 5단위 무게가 있습니다. 그들은 어디에서 균형을 잡아야 하나요? 이것에 대한 답은 5와 3의 거리일 수 있지만, 10과 6 또는 15와 9와 같은 더 큰 답이 될 수도 있습니다.\n"
+"\n"
+"지렛대의 한쪽에 넣을 3단위와 5단위 무게가 있다면, 다른 쪽의 어느 거리에 어떤 무게를 놓을 수 있나요? 두 개의 무게가 지렛대의 다른 측면에 있다면 어떨까요? 이 질문은 4 단계가 끝날 때 ‘같이 세어봐요’의 질문을 계속합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BEEP"
+msgstr "삐삐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Put the players in a circle. Start by identifying a group of numbers to use for a round of the game. Choose any group of numbers that would be fun or that provide practice with a concept. Some standard choice are:\n"
+"\n"
+"* odd numbers or even numbers\n"
+"* multiples of 3 (or some other number)\n"
+"* multiples of 3 together with multiples of 7\n"
+"* multiples of 3 that are not multiples of 5\n"
+"* multiples of 3 together with numbers that have the digit 3 in them \n"
+"* prime numbers\n"
+"\n"
+"**How to play:** Going around the circle, the players take turns saying the numbers starting at 1. When a player has a number in the group, they must say 'beep' instead of the number. If a player fails to say beep, or says beep for an incorrect number, they’re out.\n"
+"\n"
+"**How to win:** The last player remaining in wins!"
+msgstr ""
+"**설정:** 플렝이어들을 원 안에 넣으세요. 게임 라운드에 사용할 숫자 그룹을 식별하는 것으로 시작하세요. 재미있거나 개념과 함께 연습을 제공하는 숫자 그룹을 선택하세요. 몇 가지 표준 선택은 다음과 같습니다:\n"
+"\n"
+"* 홀수 또는 짝수\n"
+"* 3의 배수 (또는 다른 숫자)\n"
+"* 7의 배수와 함께 3의 배수\n"
+"* 5의 배수가 아닌 3의 배수\n"
+"* 숫자 3이 있는 숫자와 함께 3의 배수\n"
+"* 소수\n"
+"\n"
+"**게임 방법:** 원을 돌면서, 플레이어들은 번갈아 가며 1부터 시작하는 숫자를 말합니다. 플레이어가 그룹에 숫자가 있을 때, 그들은 숫자 대신 “삐삐”라고 말해야 합니다. 플레이어가 삐삐를 말하지 않거나, 잘못된 숫자로 삐삐를 말하면, 그들은 원 밖으로 나갑니다.\n"
+"\n"
+"**이기는 방법:** 마지막에 남는 사람이 이깁니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 IN A ROW"
+msgstr "3번 연속으로"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9, or use four sets of Number Cards from 0 to 9. Use a 4 by 5 grid on a paper with 20 spaces randomly filled out with multiples of 5 and 10. Have a set of tokens for each player.\n"
+"\n"
+"**How to play:** Select a random card and put your token on that number times 5 or 10 - your choice. Once occupied, the other player cannot move there.\n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**설정:** Q (0), A (1), 그리고 2-9가 있는 카드 한벌을 사용하거나 0에서 9까지 네 세트의 숫자카드를 사용합니다. 5와 10의 배수로 무작위로 채워진 20개의 공백이 있는 종이에 4x5격자를 사용합니다. 각 플레이어를 위한 토큰세트를 가지세요.\n"
+"\n"
+"**게임 방법:** 무작위 카드를 선택하고 그 숫자에 5 또는 10을 넣으세요 - 당신의 선택. 일단 점령되면, 다른 플레이어는 그 곳으로 이동할 수 없습니다.\n"
+"\n"
+"**이기는 방법:** 3번 연속으로 얻은 첫 번째 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The numbers 5 and 10 can be replaced by other pairs such as 2 and 4, or 3 and 6. These pairings help with practicing doubling strategies for multiplication. For example, if the player does not know 6 × 7, they can double 3 × 7."
+msgstr "숫자 5와 10은 2와 4 또는 3과 6과 같은 다른 쌍으로 대체될 수 있습니다. 이 짝은 곱셈을 위한 두 배 전략을 연습하는데 도움이 됩니다. 예를 들어, 플레이어가 6 x 7을 모른다면, 그들은 3 x 7을 두 배로 늘릴 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – MULTIPLICATION"
+msgstr "전쟁 – 곱셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck and split it evenly between two players. To give more focused practice, remove the A’s and 10’s as well.\n"
+"\n"
+"**How to play:** Each player turns over two cards, multiplies them, and the player with the larger product wins those four cards. If the products are equal, two more cards are turned over and the winner gets to keep all eight cards.\n"
+"\n"
+"**How to win:** The player with the most cards after playing for a set time is the winner."
+msgstr ""
+"**설정:** 카드에서 그림 카드를 제거하고 두 플레이어에게 균등하게 나누세요. 더 집중적인 연습을 하려면, A와 10단위도 제거하세요.\n"
+"\n"
+"**게임 방법:** 각 플레이어는 두 장의 카드를 뒤집고, 곱하고, 더 큰 곱을 가진 플레이어는 그 네 장의 카드를 이깁니다. 곱이 같으면, 두 장의 카드가 더 넘겨지고 승자는 여덟 장의 카드를 모두 가질 수 있습니다.\n"
+"\n"
+"**이기는 방법:** 정해진 시간 동안 플레이한 후 가장 많은 카드를 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TURNING THE TABLES"
+msgstr "곱셈표를 돌리기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Tables"
+msgstr "곱셈과 곱셈표"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Filling in a standard multiplication table is boring, and children quickly realize they can fill it using repeated addition rather than multiplication. To really practice multiplication, as well as practicing problem solving and factoring, create a mixed-up multiplication table.\n"
+"\n"
+"**How to create:** Make these tables by moving the rows and columns around, and then leaving out most of the headings and entries in the middle.\n"
+"\n"
+"**Example:** Here is an example using headings of 2 through 9:"
+msgstr ""
+"표준 곱셈표를 채우는 것은 지루하며, 아이들은 곱셈보다는 반복적인 덧셈을 사용하여 채울 수 있다는 것을 빨리 깨닫습니다. 문제 해결과 인수 분해를 연습할 뿐만 아니라 곱셈을 실제로 연습하려면, 혼합된 곱셈표를 만드세요.\n"
+"\n"
+"**만드는 방법:** 행과 열을 이동한 다음, 중간에 대부분의 제목과 항목을 남겨두고 이 곱셈표를 만드세요.\n"
+"\n"
+"**보기:** 다음은 2부터 9까지의 제목을 사용합니다:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to solve:** Start with the distinctive entries.\n"
+"\n"
+"The 20 forces its row to be multiplying by 4, and then the 36 makes its column be 9.\n"
+"\n"
+"The 49 forces its column and row to be multiplying by 7. The 9 forces its column and row to be multiplying by 3."
+msgstr ""
+"**해결 방법:** 독특한 항목부터 시작하세요.\n"
+"\n"
+"20은 그 행에 4를 곱하도록 만들고, 그런 다음 36은 열을 9로 만듭니다.\n"
+"\n"
+"49는 열과 행에 7을 곱하도록 만듭니다. 9는 열과 행에 3을 곱하도록 만듭니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue the detective work in this way and fill in the entries as the headings are discovered."
+msgstr "이런 식으로 추리 작업을 계속하고 제목이 발견되면 항목을 채우세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Level of difficulty:** Increase or decrease the difficulty by leaving out more or less of the numbers. In this example, the '5' in the 5 column could have been left out – there must be a factor of 5 in 20, and that factor cannot come from 20's row because there is a 36 in that row.\n"
+"\n"
+"**Your child can make them:** Challenge your child to make one of these puzzles for you. A lot of good thought can go into creating one of these!"
+msgstr ""
+"**난이도:** 숫자를 더 많거나 적게 빼서 난이도를 늘리거나 줄이세요. 이 보기에서, 5 열의 ‘5’는 제외될 수 있습니다. 20에 5의 인수가 있어야 하며, 그 행에 36이 있기 때문에 그 인수는 20의 행에서 나올 수 없습니다.\n"
+"\n"
+"**아이가 만들 수 있어요:** 아이에게 당신을 위해 이 퍼즐 중 하나를 만들도록 도전시켜 보세요. 이것들 중 하나를 만드는 데 많은 좋은 생각이 들어갈 수 있습니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "RECTANGLE AREA"
+msgstr "소개"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The area of a rectangle is its length times its width. That dry statement can be made tangible to your child in at least two ways."
+msgstr "직사각형의 면적은 길이와 너비입니다. 그 건조한 사실은 적어도 두 가지 방법으로 아이에게 가시화될 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The first way uses rectangles broken into an array of squares. The second uses number shapes to see how a quantity, such as 12, can be placed into an array – 3 by 4, 2 by 6, or 1 by 12. Playing with rectangle areas gives us an arena to play around with multiplication and factoring!"
+msgstr "첫 번째는 정사각형 배열로 나누어진 직사각형을 사용합니다. 두 번째는 숫자 모양을 사용하여 12와 같은 수량이 어떻게 배열에 배치될 수 있는지 볼 수 있습니다 – 3 x 4, 2 x 6, 또는 1 x 12. 직사각형 면적을 가지고 노는 것은 우리에게 곱셈과 인수분해를 가지고 놀 수 있는 경기장을 제공합니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES REVISITED"
+msgstr "숫자 모양 복습하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area"
+msgstr "직사각형 면적"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a large collection of small objects, such as raisins. For each number, investigate which rectangles and other shapes you can make with that many objects.\n"
+"\n"
+"**Rectangles:** The sides of rectangles are values that evenly divide the number and multiply together to give the number. Making rectangles is a direct way to experience divisibility."
+msgstr ""
+"건포도와 같은 작은 물건들의 큰 모음으로 시작하세요. 각 숫자로 그 많은 물체가 만들 수 있는 직사각형과 다른 모양을 조사해보세요.\n"
+"\n"
+"**직사각형:** 직사각형의 측면은 숫자를 고르게 나누고 숫자를 주기 위해 함께 곱하는 값입니다. 직사각형을 만드는 것은 분열성을 경험하는 직접적인 방법입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Unit, prime, composite:** 1 is a unit, and can only be made with a 1 by 1 rectangle. The numbers, such as 5, that only have flat rectangles, are called primes. Numbers that are not a unit or a prime are called composite because they are composed of primes being multiplied together, such as 12 = 2 × 2 × 3. Numbers, such as 9, are called squares because one of their rectangles is a square – one rectangle for 9 is the 3 by 3 square."
+msgstr "**단위, 소수, 합성수:** 1은 단위이며, 1 x1 직사각형으로만 만들 수 있습니다. 평평한 직사각형만 있는 5와 같은 숫자는 소수라고 불립니다. 단위나 소수가 아닌 숫자는 12 = 2 x 2 x 3과 같이 함께 곱해지는 소수로 구성되어 있지 때문에 합성수라고 불립니다. 9와 같은 숫자는 직사각형 중 하나가 정사각형이기 때문에 정사각형이라고 불립니다 – 9의 한 직사각형은 3 x 3 정사각형입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Trapezoidal numbers:** There are other shapes that are fun to investigate. For example, which numbers are trapezoidal? These are the numbers that can be represented as stair steps (where each level changes its length by 1)? If you include triangular numbers in this group, the answer is surprising – it is all numbers that are not a power of 2!"
+msgstr "**사다리꼴 숫자:** 더 알아보기에 재미있는 다른 모양이 있습니다. 예를 들어, 어떤 숫자가 사다리꼴인가요? 이것들은 계단으로 나타낼 수 있는 숫자입니다 (각 레벨의 길이가 1로 바뀌는 곳). 이 그룹에 삼각형 숫자를 포함시키면, 대답은 놀랍습니다 – 2의 거듭 제곱이 아닌 모든 숫자입니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PADDOCK GAME"
+msgstr "목장 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player gets a piece of graph paper.\n"
+"\n"
+"**How to play:** For a player’s turn, use two playing cards from 1 to 10 to determine the dimensions of a rectangle. If a player’s paper has room, the rectangle may be placed anywhere its interior does not overlap with an existing rectangle. Once placed, its interior is lightly shaded and its area and dimensions are written on it. If there is no room, the turn is skipped.\n"
+"\n"
+"**How to win:** The player with the largest total wins."
+msgstr ""
+"**설정:** 각 플레이어는 그래프 종이 한 장을 받습니다.\n"
+"\n"
+"**게임 방법:** 플레이어의 차례를 위해, 1에서 10까지 두 장의 카드를 사용하여 직사각형의 치수를 결정합니다. 플레이어의 종이에 공간이 있다면, 직사각형은 내부가 기존 직사각형과 겹치지 않는 곳에 배치 될 수 있습니다. 일단 배치되면, 내부는 가볍게 음영 처리되고 그 면적과 치수가 그 위에 쓰여 있습니다. 공간이 없다면, 차례를 건너뜁니다.\n"
+"\n"
+"**이기는 방법:** 가장 큰 합계를 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For a normal piece of graph paper, this can be a long game – reduce the time by using half the paper or limiting the number of turns."
+msgstr "일반적인 그래프 종이의 경우, 이것은 긴 게임이 될 수 있습니다 – 종이의 절반을 사용하거나 차례의 횟수를 제한하여 시간을 줄이세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIVIDE UP THE BOX"
+msgstr "상자 나누기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area Games"
+msgstr "직사각형 면적 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** A rectangle, 4 by 4 or larger, with numbers in some of its squares, is to be divided into smaller rectangles. Each number must end up in a separate rectangle whose area is that number."
+msgstr "**도전:** 일부 사각형에 숫자가 있는 4 x 4이상의 직사각형은 더 작은 직사각형으로 나누어야 합니다. 각 숫자는 면적이 이 숫자인 별도의 직사각형으로 끝나야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Out of the sight of your child, create these puzzles by first filling in the big rectangle with smaller rectangles. Next, place the area in each rectangle. Lastly, give your child the big rectangle with only the numbers."
+msgstr "**만드는 방법:** 아이가 보지 않을 때, 먼저 큰 직사각형을 작은 직사각형으로 채워서 이 퍼즐을 만든 다음, 각 직사각형에 면적을 배치하세요. 마지막으로, 아이에게 숫자만 있는 큰 직사각형을 주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving strategies"
+msgstr "해결 전략"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To solve these puzzles, look first at areas that are prime numbers – their shapes are tightly constrained.\n"
+"\n"
+"Next, consider regions that are boxed in. In this puzzle the upper “4” must relate to the upper left 2 by 2 square. Also, the upper right corner must be used in a vertical 3 by 1 rectangle."
+msgstr ""
+"이 퍼즐을 풀려면, 소수인 면적을 먼저 보세요 – 모양은 좁게 제한되어 있습니다.\n"
+"\n"
+"다음으로, 둘러싸여 있는 지역을 고려합니다. 이 퍼즐에서 상단 “4”는 왼쪽 상단 2 x 2 정사각형과 관련이 있어야 합니다. 또한, 오른쪽 상단 모서리는 수직 3 x 1 직사각형으로 사용해야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A DEFINITION AND A RULE"
+msgstr "정의와 규칙"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The definition:** Just as 4 × 2 is a quick way to write 2 + 2 + 2 + 2, so 2<sup>4</sup> is a quick way to write 2 × 2 × 2 × 2. It’s much easier to say and understand the phrase “two to the fourth,” than to say “two times two times ... “\n"
+"\n"
+"**Special names:** The second power, 4<sup>2</sup> for example, can be said **four squared,** and the third power, 4<sup>3</sup> for example, can be said **four cubed.**\n"
+"\n"
+"**The rule:** When powers of the same number are multiplied, a simple rule governs how to simplify the result – add the powers. For example, if you do 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, we have two fours multiplied by three fours, so the result is five fours being multiplied.\n"
+"\n"
+"**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
+msgstr ""
+"**정의:** $4 \\times 2$ 가 $2 + 2 + 2 + 2$ 를 쓰는 빠른 방법인 것처럼, $2^4$ 는 $2 \\times 2 \\times 2 \\times 2$ 를 쓰는 빠른 방법입니다. “2 곱하기 2 곱하기…”라고 말하는 것보다 “2의 네 번 곱하기”라는 문구를 말하고 이해하는 것이 훨씬 쉽습니다.\n"
+"\n"
+"**특별한 이름:** 예를 들어 두 거듭 제곱인 $4^2$ 는 ‘4 제곱’이라고 말할 수 있고, 세 거듭 제곱인 $4^3$ 은 ‘4 세제곱’이라고 말할 수 있습니다.\n"
+"\n"
+"**규칙:** 같은 수의 거듭 제곱이 곱해지면, 간단한 규칙은 결과를 단순화하는 방법을 지배합니다 – 거듭 제곱을 추가합니다. 예를 들어, $4^2 \\times 4^3 = (4 \\times 4) \\times (4 \\times 4 \\times 4) = 4^5$ 를 한다면, 우리는 두 개의 4에 세 개의 4를 곱한 것이므로, 결과는 다섯 개의 4를 곱한 것입니다.\n"
+"\n"
+"**주의 사항:** 지수를 추가하는 이 규칙은 같은 숫자가 거듭 제곱으로 가져갈 때만 작동한다는 점에 유의하세요 – $3^2 \\times 5^3$ 을 쉽게 단순화할 수 없습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "오래된 덧셈 활동 다시하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "거듭 제곱 느끼기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**퍼즐과 게임 다시하기:** 거듭 제곱이 배가 될 때 거듭 제곱이 더해지기 때문에, 덧셈과 관련된 우리의 오래된 게임과 퍼즐은 거듭 제곱인 숫자를 곱하는 것을 연습하는데 사용될 수 있습니다. 이러한 오래된 덧셈 활동의 몇 가지 예는 다음과 같습니다: 3 단계 - 모양 합계와 합계 그룹; 4 단계 - 둘러싸인 합, 덧셈 삼각형, 그리고 고치기."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr ""
+"왼쪽에는 3 단계의 두 가지 예가 있습니다 – 모양 합계.\n"
+"\n"
+"오른쪽에는 덧셈 대신 곱셈을 사용하는 모양 곱에 대한 동일한 보기가 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "거듭 제곱으로 작업하는 것은 일상적이고 원래의 덧셈 문제만큼 쉬워질 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "아이가 이러한 문제를 즐기고 추가적인 도전을 원한다면, 하나 이상의 숫자를 거듭 제곱으로 사용하는 것을 시작해 보세요. 예를 들어, (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) 를 곱하면 4의 거듭 제곱과 3의 거듭 제곱에 규칙을 별도로 적용하고 4<sup>7</sup> × 3<sup>5</sup> 의 결과를 얻을 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "인수 나무"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "소인수 분해 발견"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "인수 나무의 모델은 이전 거듭 제곱 느끼기 페이지의 모양 곱의 확장입니다. 인수 나무를 만드는 목표는 숫자를 소인수로 줄이는 것입니다. 인수 나무를 구성하는 과정에서 숫자에 대해 많은 것을 배울 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr ""
+"**보기:** 가령 54라는 숫자에서 시작해 보세요. 이것은 여러 가지 방법으로 분해될 수 있습니다. 한 가지 방법은 9 x 6, 다른 방법은 18 x 3, 그리고 또 다른 방법은 3 x 3 x6입니다. 각 곱셈은 인수 나무에서 시작합니다.\n"
+"\n"
+"이 나무들 각각은 궁극적으로 잎에 있는 같은 소수를 만들어 냅니다. 각각의 경우에 우리는 2 x 3 x 3 x 3으로 끝나지만, 거기에 도달하는 다른 방법을 보세요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "질문"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"이와 같은 몇 가지 예를 한 후, 아이는 자연스럽게 몇 가지 질문을 하기 시작할 수 있습니다.\n"
+"\n"
+"* 왜 어떤 나무는 다른 나무보다 단위가 더 많나요?\n"
+"* 왜 어떤 나무는 다른 나무보다 더 넓은가요?\n"
+"* 왜 나뭇잎은 항상 소수에서 멈추나요?\n"
+"* 왜 나뭇잎은 항상 같은 소수의 목록을 가지나요, 아마도 재배열과 함께 일까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "소인수 분해 연습"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "여행하거나 시간이 있을 때 순서대로 소수 인수분해를 해보세요. 이것은 또한 거듭 제곱에 대해 이야기하는 연습이 됩니다. 소인수 분해를 쉽게 아는 것은 분수를 연습하는 것에 도움이 될 것입니다. 이것으로 즐거운 시간을 보내고 아이를 편안한 수준 이상으로 밀어붙이지 마세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "외우는 방법"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"외우는 것은 다음과 같습니다:\n"
+"\n"
+"1. 단위\n"
+"2. 소수\n"
+"3. 소수\n"
+"4. 2 제곱\n"
+"5. 소수\n"
+"6. 2 x 3\n"
+"7. 소수\n"
+"8. 2 세제곱\n"
+"9. 3 제곱\n"
+"10. 2 x 5\n"
+"11. 소수\n"
+"12. 2 제곱 x 3\n"
+"13. 소수\n"
+"14. 2 x 7\n"
+"15. 3 x 5\n"
+"16. 2 네제곱\n"
+"17. 소수\n"
+"18. 2 x 3 세곱\n"
+"19. 소수\n"
+"20. 2 제곱 x 5\n"
+"21. 3 x 7\n"
+"22. 2 x 11\n"
+"23. 소수\n"
+"24. 2 세제곱 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "곱 피라미드"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "소수의 인수 분해"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"이 퍼즐은 4 단계에서 볼 수 있는 덧셈 피라미드의 곱셈 보기입니다. 목표 숫자와 숫자 피라미드가 제공됩니다.\n"
+"\n"
+"**도전:** 도전은 피라미드 아래로 연결된 숫자의 경로를 찾아 선택한 숫자의 곱이 목표가 되도록 하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"이 피라미드에서 목표는 36이고 빨간 선은 맞는 경로를 보여주고 있습니다.\n"
+"\n"
+"목표의 소수 인수분해를 하는 것으로 시작하면 이 퍼즐이 더 쉽습니다. $36 = 2 \\times 2 \\times 3 \\times 3$ 이기 때문에, 이러한 소인수는 경로를 따라 선택되어야 하며, 이는 검색을 안내하는 데 도움이 됩니다.\n"
+"\n"
+"소수 인수분해에 대해 알면 이러한 퍼즐을 훨씬 쉽게 만들수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100번의 웃음"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**설정:** Q (0), A (1), 그리고 2-9가 있는 카드 한 벌을 사용하세요. 목표 숫자를 100으로 설정하세요. 네 개의 무작위 카드가 순서대로 선택되어 함께 공유하는 자원인 두 자리 숫자 한 쌍을 만드는 데 사용합니다.\n"
+"\n"
+"**게임 방법:** 각 플레이어는 14장의 무작위 카드를 앞면으로 향하게 됩니다. 플레이어는 차례를 번갈아 돌아갑니다. 차례 동안, 플레이어는 정확히 두 장의 카드를 사용하여 네 장의 카드 중 두 장 위에 올려야 합니다. 현재 두 개의 두 자리 숫자가 목표에 합산되면 플레이어는 1점을 얻습니다. 게임의 이름은 목표 숫자를 얻는데 성공할 때마다 웃는 플레이어의 선택적 행동에서 만들어 집니다.\n"
+"\n"
+"**이기는 방법:** 카드가 모두 사용되면, 가장 많은 점수를 가진 플레이어가 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* 100의 목표를 갖는 것은 10에 대한 합집합을 연습하는 데 유용합니다. 그러나, 다른 목표는 다양성을 제공하고 다른 합집합으로 연습하는데 유용합니다.\n"
+"* 플레이어에게 14장 이하 또는 그 이상의 카드를 줍니다.\n"
+"* 더 작은 목표 숫자와 함께 뺄셈을 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "목표에 도달하는 다섯 장 카드 뽑기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "덧셈과 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**설정:** 가령 100과 같은 목표 숫자 고르기.\n"
+"\n"
+"**게임 방법:** 각 플레이어는 0에서 9까지 무작위로 다섯 장의 카드를 고릅니다. 두 개의 두 단위 숫자는 이 숫자로 만들어 졌고, 다섯 번째 카드는 사용되지 않습니다. 두 개의 숫자가 더해지고 목표에 가장 가까운 플레이어가 그 라운드에서 점수를 얻습니다.\n"
+"\n"
+"**이기는 방법:** 고정된 수의 라운드가 이긴 후 가장 많은 점수를 가진 사람이 이깁니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "한 가지 방법은 세 자리 숫자, 목표 숫자 1000을 사용하는 것이며, 각 플레이어는 일곱 장의 카드를 받습니다. 또 다른 방법은 더 작은 목표 숫자로 뺄셈을 사용하는 것입니다."
 
 #. type=data_list
 msgctxt "data_list"
