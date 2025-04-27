@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-26 23:45\n"
+"PO-Revision-Date: 2025-04-27 00:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10952,6 +10952,89 @@ msgstr ""
 msgctxt "data_list"
 msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
 msgstr "**문자 대체 퍼즐:** 이 사라진 숫자 퍼즐은 간단한 변수를 사용하는 데 이해할 수 있는 디딤돌을 형성합니다. 이 퍼즐에 익숙해진 후, 아이는 뒷부분에 설명된 문자 대체 퍼즐을 할 준비가 될 것입니다.**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING MULTIPLICATION CARDS"
+msgstr "곱셈 카드 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Options:** One option is to include 3 × 4 and not include 4 × 3. This has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3.\n"
+"\n"
+"For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
+msgstr ""
+"**방법:** 한 가지 방법은 3x4를 포함하고 4x3을 포함하지 않는 것입니다. 이것은 4명의 3개 그룹을 보는 것은 3명의 4개 그룹을 보는 것과 다르다는 단점이 있습니다.\n"
+"\n"
+"배열 카드의 경우, 아이가 건너뛰어 세기를 연습할 수 있도록 한쪽 또는 양쪽을 따라 건너뛰어 세기 숫자를 넣으세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "표현 카드의 경우, 각 숫자를 숫자의 소인수 분해 기호로 바꾸세요. 이것은 두 숫자를 곱할때 소인수 분해가 어떻게 맞는지 더 쉽게 알 수 있게 해줍니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "곱 공개"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "곱셈 카드와 곱셈표"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Use a blank table with 4 product rows and columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers, possibly with duplication, from 2 to 9. Fill in the table out of sight of your child, and then flip over or cover the numbers.\n"
+"\n"
+"**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
+msgstr ""
+"**만드는 방법:** 4개 곱의 행과 열이 있는 빈 곱셈표를 사용하세요. 또한 상단과 왼쪽에 네 개의 누락된 숫자 그룹이 있습니다 – 이들은 2에서 9까지 중복될 수 있는 숫자 중 일부를 가지며, 아이가 보지 않을때 곱셈표를 채운 다음 숫자를 뒤집거나 덮으세요.\n"
+"\n"
+"**도전:** 아이는 16개의 곱 항목 중 최대 10개까지 한 번에 하나씩 공개하도록 요청할 수 있습니다. 목표는 차례가 다 끝나기 전에 상단과 왼쪽의 항목을 찾는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
+msgstr "**보기:** 이 보기에서 모든 카드가 뒤집혔다고 상상해 보세요. 만약 아이가 63 이하가 있는 카드를 뒤집기로 선택했다면, 그들은 그것이 7과 9에서 왔다는 것을 알게 될 것입니다. 63과 같은 행이나 열에 있는 다른 카드를 뒤집으면 7과 9가 어디에 있는지 보여줄 것입니다. 아이가 뒤집은 두 번째 카드가 56이라고 가정해 봅시다. 세 번째 열은 7이어야 하고, 두 번째 줄은 9이고 세 번째 줄은 8이어야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER FACTORS AND MULTIPLES"
+msgstr "인수와 배수 덮기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Have a board of numbers from 1 to 24. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens."
+msgstr "**설정:** 1에서 24까지의 숫자판이 있습니다. 두 종류의 토큰이 있습니다 – “마지막 이동”을 위해 놓아둔 한 개의 토큰과 다른 토큰 더미."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** The first player gets to pick any number and cover it with the last move token. After that, a player replaces the last move token with the other type of token and moves the last move token to any number that is a factor or multiple of the number from the last move.\n"
+"\n"
+"**How to win:** The losing player is the one forced to cover the number 1.\n"
+"\n"
+"**Example:** This board shows the middle of a game that started 10 -> 5 -> 15 -> 3."
+msgstr ""
+"**게임 방법:** 첫 번째 플레이어는 어떤 숫자든 선택하고 마지막 이동 토큰으로 덮을 수 있습니다. 그 후, 플레이어는 마지막 이동 토큰을 다른 유형의 토큰과 다시 배치하고 마지막 이동 토큰을 마지막 이동 숫자의 인수 또는 배수인 숫자로 이동합니다.\n"
+"\n"
+"**이기는 방법:** 지는 사람은 1번을 덮도록 강요된 사람입니다.\n"
+"\n"
+"**보기:** 이 판은 10 -> 5 -> 15 ->3으로 시작된 게임의 중간을 보여줍니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As children get better at this game, they will discover rules they need to follow governing reasonable first moves. The most basic rule is that the first move cannot be on a prime number in the upper half of the numbers.\n"
+"\n"
+"Adjust the range of numbers to the skill level of the players – 1 to 30, 1 to 48, or 1 to 60."
+msgstr ""
+"아이들이 이 게임을 잘 하게 되면, 그들은 합리적인 첫 번째 움직임을 관리하는 데 필요한 규칙을 발견할 것입니다. 가장 기본적인 규칙은 첫 번째 움직임이 위쪽 절반에 있는 소수에 있을 수 없다는 것입니다.\n"
+"\n"
+"플레이어의 기술 수준에 따라 숫자 범위를 조정하세요 – 1에서 30, 1에서 48, 또는 1에서 60."
 
 #. type=data_list
 msgctxt "data_list"
