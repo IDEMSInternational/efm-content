@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 18:27\n"
+"PO-Revision-Date: 2025-04-27 19:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13494,6 +13494,535 @@ msgstr ""
 "8 3 10 9, 6 1 10 8, 8 1 10 6\n"
 "\n"
 "크기가 15, 21 이상인 피라미드는 진정으로 열심히 하는 사람에게 맡겨집니다. 행운을 빕니다!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Enclosed Sums"
+msgstr "동봉된 합계"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes  that border it. Similar to Shape Sums puzzles, circles may have any value, and the value for a non-circular shape must be the same as any other shape of the same type. For example, all squares must have the same value and all hexagons would have the same value. You can optionally add the rule that different non-circular shapes must have different values - for example, that squares and hexagons must have different values.\n"
+"\n"
+"The puzzle for your child is to figure out the numbers in the shapes and regions that are not supplied."
+msgstr ""
+"이 퍼즐은 선으로 연결된 모양을 가지고 있습니다. 둘러싸인 각 영역에는 경계를 이루는 모양의 합계인. 이 퍼즐은 선으로 연결된 모양을 가지고 있습니다. 둘러싸인 각 영역에는 경계를 이루는 모양의 합계인 숫자가 있습니다. 모양 합 퍼즐과 유사하게 원은 임의의 값을 가질 수 있으며 원형이 아닌 모양의 값은 동일한 유형의 다른 모양과 동일해야 합니다. 예를 들어, 모든 정사각형은 동일한 값을 가져야 하고 모든 육각형은 동일한 값을 가져야 합니다. 다른 비원형 모양은 다른 값을 가져야 한다는 규칙을 선택적으로 추가할 수 있습니다. 예를 들어 정사각형과 육각형은 다른 값을 가져야 합니다.\n"
+"\n"
+"아이를 위한 퍼즐은 제공되지 않은 모양과 영역의 숫자를 알아내는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Create these puzzles by making a diagram of circles and maybe some other shapes. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers.\n"
+"\n"
+"As with Shape Sums puzzles in Chapter 3, start with simple puzzles with just one or two numbers missing and slowly progress to puzzles with more numbers missing, more enclosed regions next to each other, and more use of values in non-circular regions."
+msgstr ""
+"원과 다른 모양의 도형을 만들어 이 퍼즐을 만드세요. 다음으로, 모든 숫자를 숫자로 채우고 경계 영역을 둘러싸는 숫자의 합으로 채우세요. 마지막으로 일부 숫자를 제거합니다.\n"
+"\n"
+"3장의 모양 합 퍼즐과 마찬가지로 하나 또는 두 개의 숫자가 누락된 간단한 퍼즐로 시작하여 더 많은 숫자가 누락되고, 서로 인접한 영역이 더 많고, 비원형 영역에서 값을 더 많이 사용하는 퍼즐로 천천히 진행합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Compensation"
+msgstr "섬 건너 뛰기 — 보상"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"덧셈에 대한 보상을 사용하면 덧셈 문제를 훨씬 쉽게 해결할 수 있습니다. 해결하는 방법은 추가되는 숫자 중 하나에서 양을 빼서 다른 숫자에 주는 것입니다. 결과는 동일하게 유지되지만 숫자 중 하나는 풀기가 더 쉬워집니다.\n"
+"\n"
+"예를 들어 7 + 8을 더할 때 7에서 2를 빼서 8에 주면 문제는 5 + 10이 됩니다. 또는 8에서 3을 빼서 7에 주면 문제가 됩니다. 10 + 5가 됩니다. 숫자 중 하나를 10의 배수로 만들 수 있을 때마다 훨씬 더 간단한 문제가 발생합니다.\n"
+"\n"
+"이 퍼즐은 보상을 사용하여 새로운 문제를 만드는 연습을 제공합니다. 문제에 대한 도전은 모든 섬을 동일한 답으로 연결하는 경로를 찾는 것입니다. 문제의 번호가 1만큼 다른 경우에만 두 개의 섬을 연결하는 것이 규칙입니다. 일부 섬만 갈 수 있는 길이 있을 것입니다.\n"
+"\n"
+"연결이 있는 약 10개의 섬으로 시작하여 이 퍼즐을 만드십시오. 섬의 한쪽 가장자리에서 다른 쪽 가장자리까지의 갈 수 있는 길을 식별합니다. 그 경로를 따라 서로 다른 문제를 하나씩 넣으십시오. 아마도 10을 더하는 것과 관련된 문제로 시작한 다음 변형을 만들어 보세요. 길에 가까운 섬에서는 답이 다른 작은 변화에 문제를 둡니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "이 퍼즐의 어려운 정도를 다양하게 하는 것은 별로 도움이 되지 않습니다. 잘못된 경로를 도입하면 도전보다는 혼란을 초래할 수 있으므로 일반적으로 나쁜 생각입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "뺄셈 삼각형 및 덧셈 삼각형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles"
+msgstr "뺄셈 삼각형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "뺄셈 삼각형퍼즐에는 측면을 공유하는 삼각형과 사각형이 있습니다. 삼각형의 변에는 항상 정확히 두 개의 정사각형이 있고 나머지 면에는 삼각형이 있거나 비어 있습니다. 삼각형의 수는 인접한 두 정사각형의 차이입니다. 문제는 누락된 숫자를 제공하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Constructing Puzzles** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, put in numbers starting at one end, and then work your way to the far end. When you are done, remove some of the numbers. Making puzzles with loops or more complicated interactions is trickier; however, the effort pays off with some challenging puzzles!\n"
+"\n"
+"When your child gets very comfortable with these, they may want to take a turn creating some new puzzles of their own. They should have fun and learn a lot by figuring out how the numbers fit together.\n"
+"\n"
+"**Strategies for Solving** The places to do first are any triangles between two filled in squares. Another easy case is a square next to a filled triangle that has a smaller filled square next to it - in this case, because we are not working with negative numbers, there is only one choice for filling in the empty square. The most common case is a square that has two possible values looking in one direction, and two other possibilities looking in the other direction - there is usually only one number that overlaps in those possibilities."
+msgstr ""
+"**퍼즐만들기:** 고리 없이 퍼즐을 만드는 것은 쉽습니다. 정사각형과 삼각형을 번갈아 가며 그리고 한쪽 끝에서 시작하여 숫자를 입력한 다음 맨 끝까지 만듭니다. 완료되면 일부 숫자를 제거하세요. 고리 또는 더 복잡한 상호 작용으로 퍼즐을 만드는 것은 더 까다롭습니다. 그러나 노력은 몇 가지 도전적인 퍼즐로 보답합니다!\n"
+"\n"
+"아이가 이러한 문제에 매우 익숙해지면 자신의 새로운 퍼즐을 차례대로 만들어보고 싶어할 수 있습니다. 그들은 숫자가 어떻게 어울리는지 알아내면서 재미있고 많이 배워야 합니다.\n"
+"\n"
+"**해결 전략:** 먼저 할 곳은 사각형으로 채워진 두 삼각형 사이의 삼각형입니다. 또 다른 쉬운 경우는 채워진 삼각형 옆에 작은 사각형이 있고 옆에 더 작은 채워진 사각형이 있는 경우입니다. 이 경우에는 음수로 작업하지 않기 때문에 빈 사각형을 채울 수 있는 방법은 하나뿐입니다. 가장 일반적인 경우는 한 방향을 바라보는 두 개의 가능한 값과 다른 방향을 바라보는 두 개의 다른 가능성이 있는 정사각형입니다. 일반적으로 이러한 가능성에서 겹치는 숫자는 하나뿐입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some examples with lots of interconnections."
+msgstr "다음은 상호 연결이 많은 몇 가지 예입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles"
+msgstr "덧셈 삼각형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles puzzles are just like DiffTriangles only they use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors. Make these puzzles using methods similar to DiffTriangles. SumTriangles puzzles are typically simpler to solve than DiffTriangles."
+msgstr "덧셈 삼각형 퍼즐은 뺄셈 대신 덧셈을 사용하는 뺄셈 삼각형과 같습니다. 삼각형의 값은 두 개 또는 세 개의 정사각형 이웃의 합계입니다. 뺄셈 삼각형과 유사한 방법을 사용하여 이러한 퍼즐을 만드십시오. 덧셈 삼각형 퍼즐은 일반적으로 뺄셈 삼각형보다 해결하기가 더 간단합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Skip Counting"
+msgstr "섬 건너 뛰기 — 건너뛰기 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have islands (circles) connected by bridges (lines). In this version of Island Hopping, the connections are made by skip counting. Some of the islands have numbers written on them and some will start off blank. Above the puzzle is the starting number, ending number, and the skip amount. The challenge is to fill in the missing numbers and find the path. You can also place the numbers and blanks on pieces of paper on the floor to make a stepping puzzle."
+msgstr "이 퍼즐에는 다리(선)로 연결된 섬(원)이 있습니다. 이 섬 건너 뛰기 경우에서는 건너 뛰어 세기로 연결이 이루어집니다. 일부 섬에는 숫자가 적혀 있고 일부는 공백으로 시작합니다. 퍼즐 위에는 시작 번호, 끝 번호, 건너뛰기 금액이 있습니다. 과제는 누락된 숫자를 채우고 경로를 찾는 것입니다. 바닥에 있는 종이 조각에 숫자와 공백을 놓아 계단 퍼즐을 만들 수도 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount. \n"
+"\n"
+"Creating these puzzles is the same as creating the Island Hopping - Counting puzzles from early in Chapter 2. Make the islands first, fill in the skip counting numbers, connect those islands in the correct order, and then add some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out.\n"
+"\n"
+"You can revisit the puzzle construction strategies described in the Bonus Material for Chapter 2 for Island Hopping - Counting. Also, if you still have any of those puzzles, it is very easy to convert one of those puzzles to one of these. Take the following puzzle from Chapter 2. It involves counting from 0 to 6. The red numbers are the ones that would normally be left out when the puzzle is given to your child. To convert it to a puzzle that starts at 3 and skip counts by 2, simply multiply all the numbers by 2 and then add 3 to them (leaving out the red ones, of course)."
+msgstr ""
+"건너뛰기 계산 활동과 마찬가지로 건너뛰는 양의 배수인 숫자뿐만 아니라 다양한 숫자에서 시작하여 앞으로 또는 뒤로가는 연습을 위한 퍼즐을 만드세요.\n"
+"\n"
+"이 퍼즐을 만드는 것은 2장 초반의 섬 건너 뛰기 - 세기 퍼즐을 만드는 것과 동일합니다. 먼저 섬을 만들고 건너뛰기 숫자를 입력하고 해당 섬을 올바른 순서로 연결한 다음 몇 가지 추가 연결을 추가하여 만드는 데 도움이 됩니다. 아이에게 제공하는 경우에는 여전히 알아낼 수 있도록 숫자를 충분히 남겨두고 일부 숫자를 제거하세요.\n"
+"\n"
+"2장 보너스 자료의 섬 건너 뛰기 - 세기에 설명된 퍼즐 구성 전략을 다시 볼 수 있습니다. 또한 해당 퍼즐이 아직 남아 있는 경우 해당 퍼즐 중 하나를 이들 중 하나로 변환하는 것은 매우 쉽습니다. 2장에서 다음 퍼즐을 가져오세요. 0에서 6까지 세는 것과 관련이 있습니다. 빨간색 숫자는 일반적으로 아이에게 퍼즐을 줄 때 빠지는 숫자입니다. 3에서 시작하고 세기를 2로 건너뛰는 퍼즐로 변환하려면 아래 표와 같이 모든 숫자에 2를 곱한 다음 3을 더하면 됩니다. 그런 다음 원래 번호를 새 번호로 바꿉니다(물론 빨간색은 제외)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fix It"
+msgstr "수정 하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 4 by 4 grid of numbers with a target sum. The challenge is to find entries to remove so that the sum of the remaining numbers in every row and column is the target. An alternative version uses individual target sums for each row and column.\n"
+"\n"
+"Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers. You can make these trickier by having alternative pairs or triples of numbers that partially work. If your child is enjoying these, but finding them too easy, you can always make larger ones that are 4 by 5, 5 by 5, or even larger.\n"
+"\n"
+"Red stars have been added here to show which entries would be removed to make the puzzles work."
+msgstr ""
+"목표 합계가 있는 4x4 숫자 격자로 시작합니다. 문제는 모든 행과 열에 있는 나머지 숫자의 합계가 목표가 되도록 제거할 항목을 찾는 것입니다. 대체 보기는 각 행과 열에 대해 개별 목표 합계를 사용합니다.\n"
+"\n"
+"목표 합계에 합해지는 숫자의 쌍 또는 삼중을 넣어 이 퍼즐을 만드십시오. 그런 다음 나머지 공간을 미끼 번호로 채우십시오. 부분적으로 작동하는 대체 쌍 또는 세 개의 숫자를 사용하여 이러한 작업을 더 복잡하게 만들 수 있습니다. 아이가 이것을 즐기고 있지만 너무 쉽게 찾은 경우 4 x 5, 5 x 5 또는 그보다 더 큰 크기를 언제든지 만들 수 있습니다.\n"
+"\n"
+"빨간색 별이 여기에 추가되어 퍼즐이 작동하도록 하기 위해 제거될 항목을 보여줍니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are two puzzles using individual target sums for the rows and columns."
+msgstr "다음은 행과 열에 대한 개별 목표 합계를 사용하는 두 가지 퍼즐입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping by Ones and Tens"
+msgstr "1단위와 10단위로 섬 건너 뛰기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A rectangular grid of numbers is given with some of the numbers filled in. The challenge is to fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once in the entire grid. Referencing a 100-Chart may be helpful for beginning solvers.\n"
+"\n"
+"Make this puzzle by taking an empty grid and filling it with numbers, with no number repeated. Next, remove some of the numbers, making sure that it is not too hard for your child. In these examples, the red numbers are the missing ones."
+msgstr ""
+"숫자의 일부가 채워진 직사각형 격자가 제공됩니다. 문제는 나머지 숫자를 채우는 것입니다. 따라서 한 면을 공유하는 두 숫자는 한 곳에서만 다르며, 그 자리에 있는 숫자의 차이는 1입니다(0과 9 사이의 이동 포함). 전체 격자에서 숫자를 두 번 이상 사용할 수 없습니다. 100-도표를 참조하면 처음으로 하는 아이들에게 도움이 될 수 있습니다.\n"
+"\n"
+"빈 격자를 선택하고 숫자를 반복하지 않고 숫자로 채워서 이 퍼즐을 만드세요. 다음으로, 숫자 중 일부를 제거하여 아이에게 너무 어렵지 않은지 확인하십시오. 이 예에서 빨간색 숫자는 누락된 숫자입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using only one-digit and two-digit numbers, there is not a lot of trickiness that can be introduced. However, they are great practice for thinking about place value. One wrinkle that may surprise your child are transitions such as 95 to 5 to 15 or 11 to 10 to 0 to 9 - they may not realize there is a 0 in the tens place for single-digit numbers and they may be surprised by 0 and 9 being connected.\n"
+"\n"
+"Grids are a natural way to present these problems. However, the puzzles can also be represented in the same way as other Island Hopping puzzles using circles, and this representation allows for some additional freedom in creating puzzles."
+msgstr ""
+"한 자리, 두 자리 숫자만 사용하면 도입할 수 있는 복잡함에 많지 않습니다. 그러나 그들은 장소 가치에 대해 생각하기 위한 훌륭한 연습입니다. 아이를 놀라게 할 수 있는 주름 중 하나는 95에서 5에서 15로 또는 11에서 10에서 0에서 9와 같은 전환입니다. 한 자리 숫자의 십 자리에 0이 있다는 것을 깨닫지 못하고 0과 9 연결 중입니다.\n"
+"\n"
+"격자는 이러한 문제를 나타내는 자연스러운 방법입니다. 그러나 퍼즐은 원을 사용하여 다른 섬 건너 뛰기 퍼즐과 같은 방식으로 나타낼 수도 있으며 이러한 표현을 통해 퍼즐을 만드는 데 있어 추가적인 자유를 얻을 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Shape Puzzles"
+msgstr "솔리테어 모양 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Triangles"
+msgstr "마술 삼각형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a triangle of six circles with three circles on a side. In the circles, use each of the numbers from 1 to 6 once so that each side of the triangle has the same sum. This involves two challenges - finding out which sums will work and then figuring out how to get those sums. It is better to let your child play with this to figure out which sums are possible, but if frustration wins out, the possible sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys figuring this out, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23.\n"
+"\n"
+"As with so many of the puzzles for this age group, the main reason to have your child play with this is to encourage having fun exploring how numbers interact with each other and to practice number facts. They do not yet have the math or reasoning skills to be systematic with their exploration. However, these puzzles can be explored more deeply, and here are some ideas to dig into if you or an older child are interested.\n"
+"\n"
+"Let SUM represent the sum of one side of the triangle. If you add up the three sides of the triangle, the total will be 3 x SUM. However, the total of the three sides will also be the sum of all the numbers plus one extra copy for each corner of the triangle. Let C-SUM be the sum of the values in the three corners. We end up with the relationship that 3 x SUM = (Total of all the numbers) + C-SUM."
+msgstr ""
+"한 면에 3개의 원형이 있는 6개의 원형이 있는 삼각형을 만드십시오. 원에서 삼각형의 각 변의 합이 같도록 1부터 6까지의 숫자를 한 번씩 사용합니다. 여기에는 두 가지 문제가 포함됩니다. 즉, 어떤 합계가 효과가 있는지 찾은 다음 해당 합계를 얻는 방법을 찾는 것입니다. 어떤 합이 가능한지 알아내기 위해 아이가 이것을 가지고 놀게 하는 것이 더 좋지만, 어려우면 가능한 합은 9, 10, 11, 12입니다.\n"
+"\n"
+"아이가 이것을 계산하는 것을 즐긴다면 다음을 수행할 수 있습니다. 더 큰 삼각형도 마찬가지입니다. 한 면에 4개의 원형이 있는 9개의 원형이 있는 삼각형의 경우 가능한 합은 17, 19, 20, 21, 23입니다.\n"
+"\n"
+"이 연령대의 많은 퍼즐과 마찬가지로 아이가 이 퍼즐을 가지고 놀게 하는 주된 이유는 숫자가 서로 어떻게 상호 작용하는지 탐구하고 숫자 사실을 연습하는 재미를 장려하는 것입니다. 그들은 아직 탐구를 체계적으로 할 수 있는 수학이나 추론 능력이 없습니다. 그러나 이러한 퍼즐은 더 깊이 탐구할 수 있으며, 여기에 여러분과 나이가 더 많은 어린이가 관심이 있다면 파고들 수 있는 몇 가지 아이디어가 있습니다.\n"
+"\n"
+"합계는 삼각형의 한 변의 합을 나타냅니다. 삼각형의 세 변을 더하면 합계는 3 x 합계가 됩니다. 그러나 세 변의 합계는 모든 숫자의 합과 삼각형의 각 모서리에 대한 추가 1개를 더한 것입니다. C-합계를 세 모서리에 있는 값의 합이라고 합니다. 우리는 3 x 합계 = (모든 숫자의 합계) + C-합계의 관계로 끝납니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6-Circle Puzzle"
+msgstr "6개의 원형 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Apply this to the triangle with six circles. The sum of all the numbers is the sum of the numbers from one to six, which is 21. So the equation becomes 3 x SUM = 21 + C-SUM The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 4 + 5 + 6 = 15. So, 3 x SUM is between 21 + 6 = 27 and 21 + 15 = 36. This forces SUM to be 9, 10, 11, 12. Note also that C-SUM = 3 x SUM - 21, which is handy for finding the corners.\n"
+"\n"
+"Another thing to notice is the symmetry of the possible values. What is causing this symmetry is that for every solution, there is another solution created by subtracting all the numbers from 7 (or from 10 for the nine circle puzzle). A little calculating will show that this symmetry takes a puzzle with sum SUM and creates a new one with sum (21 - SUM) (or 40 - SUM for the nine circle puzzle).\n"
+"\n"
+"The last thing to notice before we dig in with actual numbers is that for any solution for the three corners, we can assume that they are in increasing order going around clockwise, with the smallest number at the top. If they are not in that configuration to begin with, you can rotate or flip the diagram until they are.\n"
+"\n"
+"All these observations save a tremendous amount of work. We only need to look at SUM equal to 9 and 10, and we only need to have the corners in increasing order. If SUM is 9, then C-SUM = 3 x 9 - 21 = 6, so the trio is 1, 2, and 3. If SUM is 10, then a + b + c = 3 x 10 - 21 = 9. This leaves two possibilities - either corner values of 1, 2, and 6, or 1, 3, and 5. A quick trial rules out 1, 2, and 6 as a possibility.\n"
+"\n"
+"After much work, we have the solutions for SUM being 9 and 10 for the six circle puzzle. Remember that you can get the solutions for SUM being 11 and 12 by subtracting all the entries from 7."
+msgstr ""
+"이것을 6개의 원형이 있는 삼각형에 적용합니다. 모든 숫자의 합은 1에서 6까지의 숫자의 합, 즉 21입니다. 따라서 방정식은 3 x 합계= 21 + C-합계가 됩니다. 가장 작은 C-합계는 1 + 2 + 3 = 6입니다. 그리고 가장 큰 것은 4 + 5 + 6 = 15입니다. 따라서 3 x 합계는 21 + 6 = 27과 21 + 15 = 36 사이입니다. 이것은 합계가 9, 10, 11, 12가 되도록 합니다. C-합계 = 3 x 합계 - 21로 모서리를 찾는 데 편리합니다.\n"
+"\n"
+"주목해야 할 또 다른 사항은 가능한 값의 대칭입니다. 이 대칭을 일으키는 원인은 모든 해결점에 대해 7(또는 9개의 원 퍼즐의 경우 10)에서 모든 숫자를 빼서 생성된 또 다른 해결점이 있다는 것입니다. 약간 계산하면 이 대칭이 합이 합계인 퍼즐을 가져와서 합(21 -합계)(또는 40 - 9개의 원 퍼즐의 경우 합계)이 있는 새 퍼즐을 생성한다는 것을 알 수 있습니다.\n"
+"\n"
+"실제 숫자를 파헤치기 전에 마지막으로 주의해야 할 점은 세 모서리에 대한 해결점에 대해 가장 작은 숫자가 맨 위에 있는 시계 방향으로 증가하는 순서로 가정할 수 있다는 것입니다. 처음부터 해당 구성이 아닌 경우 구성될 때까지 도형을 회전하거나 뒤집을 수 있습니다.\n"
+"\n"
+"이러한 모든 관찰은 엄청난 양의 작업을 절약합니다. 9와 10과 같은 합계만 볼 필요가 있으며 모서리가 오름차순으로 있으면 됩니다. 합계가 9이면 C-합계 = 3 x 9 - 21 = 6이므로 셋으로 된 짝은 1, 2, 3입니다. 합계가 10이면 a + b + c = 3 x 10 - 21 = 9입니다. 1, 2, 6의 모서리 값 또는 1, 3, 5의 두 가지 가능성이 있습니다. 빠른 시도는 1, 2, 6을 가능성에서 배제합니다.\n"
+"\n"
+"많은 작업 끝에 6개의 원 퍼즐의 합계가 9와 10인 해결을 얻었습니다. 7.9에서 모든 항목을 빼서 합계가 11과 12가 되는 해를 얻을 수 있음을 기억하십시오"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9-Circle Puzzle"
+msgstr "원형 퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use the same approach for the 9 circle puzzle. The sum of the numbers from 1 to 9 is 45. Hence, 3 x SUM = 45 + C-SUM. The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 7 + 8 + 9 = 24. So 3 x SUM is between 45 + 6 = 51 and 45 + 24 = 69, which forces SUM to be between 17 and 23. Taking a solution and subtracting all the entries from 10 gives the following SUM pairings: 17 - 23, 18 - 22, 19 - 21, and 20 - 20. So, solutions are only needed for 17, 18, 19, and 20. The corresponding values for C-SUM are 6, 9, 12, and 15. \n"
+"\n"
+"* SUM = 17 and C-SUM = 6. For this, the corners must be 1, 2, 3, and it works.\n"
+"* SUM = 18 and C-SUM = 9. For this, the corners must be either 1, 2, 6 or 1, 3, 5. Neither works.\n"
+"* SUM = 19 and C-SUM = 12. There are quite a few possibilities for the corners, but the only combinations that work are 1, 4, 7 and 2, 3, 7.\n"
+"* SUM = 20 and C-SUM = 15. There are too many combinations for the corners, and many of them work. Two that work are 1, 5, 9 and 2, 5, 8."
+msgstr ""
+"9개의 원형 퍼즐에 대해 같은 접근 방식을 사용합니다. 1에서 9까지의 숫자의 합은 45입니다. 따라서 3 x 합계 = 45 + C-합계입니다. 가장 작은 C-합계는 1 + 2 + 3 = 6이고 가장 큰 C-합계는 7 + 8 + 9 = 24입니다. 따라서 3 x 합계는 45 + 6 = 51과 45 + 24 = 69 사이입니다. 합계가 17과 23 사이가 되도록 합니다. 해결된 숫자를 가지고 10에서 모든 항목을 빼면 다음과 같은 합계 쌍이 생성됩니다. 17 - 23, 18 - 22, 19 - 21, 20 - 20. 따라서 해결은 17, 18, 19 및 20만 필요합니다. C-합계에 해당하는 값은 6, 9, 12 및 15입니다.\n"
+"\n"
+"* 합계 = 17 및 C-합계 = 6입니다. 이를 위해 모서리는 1, 2, 3이어야 합니다. 이것은 작동합니다.\n"
+"* 합계 = 18 및 C-합계 = 9. 이를 위해 모서리는 1, 2, 6 또는 1, 3, 5여야 합니다. 둘 다 작동하지 않습니다.\n"
+"* 합계 = 19 및 C-합계 = 12. 모서리에 대한 가능성이 꽤 있지만 작동하는 유일한 조합은 1, 4, 7 및 2, 3, 7입니다.\n"
+"* 합계 = 20 및 C-합계 = 15입니다. 모서리에 너무 많은 조합이 있으며 대부분이 작동합니다. 작동하는 두 가지는 1, 5, 9 및 2, 5, 8입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Designs"
+msgstr "마술 디자인"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Similar to Magic Triangles, these have circles connected in a geometric pattern and an associated group of numbers. Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"The analysis of these puzzles is similar to what was done for Magic Triangles. Let SUM be the common sum that all the rows share. Let c be the value of the middle circle, for puzzles that have one. The general strategy will be to add up all the rows and investigate the relationship that is revealed. Note also that, just as for Magic Triangles, a new solution can be created by subtracting all the entries from one more than the largest number.\n"
+"\n"
+"1. The numbers from 1 to 4 are in a plus sign shape with no circles in common. The numbers 1 to 4 add up to 10, and this is split evenly between the two directions. So SUM = 5 and the answer is easy."
+msgstr ""
+"마술의 삼각형과 같이, 이것은 기하학적인 무늬와 그것에 관련된 숫자들을 연결하는 원형이 있습니다. 연결된 원의 모든 직선의 합계가 같도록 원 안에 숫자를 넣으십시오.\n"
+"\n"
+"이 퍼즐의 분석은 마술의 삼각형에서 수행된 것과 유사합니다. 모든 행이 공유하는 공통 합계를 합계라고 합니다. c를 가운데 원이 있는 퍼즐의 경우 가운데 원의 값이라고 합시다. 일반적인 전략은 모든 행을 추가하고 드러난 관계를 조사하는 것입니다. 또한 마술의 삼각형의 경우와 마찬가지로 가장 큰 수보다 하나 더 많은 항목에서 모든 항목을 빼서 새 해결점을 만들 수 있습니다.\n"
+"\n"
+"1. 1부터 4까지의 숫자는 공통된 원이 없는 더하기 기호 모양입니다. 1에서 4까지의 숫자를 더하면 10이 되며, 이는 두 방향으로 균등하게 나뉩니다. 따라서 합계 = 5이고 답은 쉽습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2. The numbers from 1 to 5 are in a plus sign with one circle in common in the middle. The numbers 1 to 5 add up to 15. Adding up the two directions gives 2 x SUM = 15 + c. Because 15 + c must be even, c can be 1, 3, and 5. Get the solution for c = 5 (SUM = 10) from the c = 1 solution by subtracting all the numbers from 6."
+msgstr "2. 1에서 5까지의 숫자는 더하기 기호 안에 있고 가운데에 하나의 원이 공통적으로 있습니다. 1에서 5까지의 숫자를 더하면 15가 됩니다. 두 방향을 더하면 2 x 합계 = 15 + c가 됩니다. 15 + c는 짝수여야 하므로 c는 1, 3, 5가 될 수 있습니다. 6에서 모든 숫자를 빼서 c = 1 해결숫자에서 c = 5(SUM = 10)에 대한 해결숫자를 구합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3. The numbers from 1 to 7 are in lines of 3 circles with one common circle in the middle. Adding up the three directions gives 3 x SUM = 28 + 2 x c. Because 3 evenly divides 28 + 2 x c, this forces c to be 1, 4, or 7. The solutions for c = 1 and 4 are given."
+msgstr "3. 1에서 숫자 ~ 7은 중간에 하나의 공통 원이 있는 3개의 원의 라인에 있습니다. 세 방향을 더하면 3 x 합계 = 28 + 2 x c가 됩니다. 3은 28 + 2 xc를 균등하게 나누기 때문에 c는 1, 4 또는 7이 됩니다. c = 1 및 4에 대한 해결숫자가 제공됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4. The numbers from 1 to 9 are in lines of 3 circles with one common circle in the middle. Adding up the four directions gives 4 x SUM = 45 + 3 x c. Because 4 evenly divides 45 + 3 x c, this forces c = 1, 5, or 9."
+msgstr "4. 1에서 9까지의 숫자는 가운데에 하나의 공통 원을 포함하는 3개의 원으로 구성됩니다. 네 방향을 더하면 4 x 합계 = 45 + 3 x c가 됩니다. 4는 45 + 3 xc를 균등하게 나누기 때문에 c = 1, 5 또는 9가 됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. The numbers from 1 to 5 are placed in an L shape with one circle in common in the corner. This is really the same as problem #2, so the solutions are essentially the same.\n"
+"\n"
+"6. The numbers from 1 to 8 are in a plus sign with no circles in common. The two directions evenly split 36, the sum of all the numbers, so SUM = 18. There are many ways to solve this by splitting the set of numbers into two groups that add up to 18. One solution is 1, 2, 7, 8 and 3, 4, 5, 6, and another is 1, 3, 6, 8 and 2, 4, 5, 7.\n"
+"\n"
+"7. The numbers from 1 to 9 are in a plus sign with one circle in common in the middle. Adding up the two directions gives 2 X SUM = 45 + c, so c = 1, 3, 5, 7, and 9. Solutions for c = 1, 3, and 5 are given."
+msgstr ""
+"5. 1에서 5까지의 숫자는 모서리에 하나의 원이 공통으로 있는 L자 모양으로 배치됩니다. 이것은 실제로 문제 #2와 동일하므로 해결숫자는 본질적으로 동일합니다.\n"
+"\n"
+"6. 1에서 8까지의 숫자는 더하기 기호 안에 있고 공통 원이 없습니다. 두 방향은 모든 숫자의 합인 36을 균등하게 나눕니다. 따라서 합계 = 18입니다. 숫자 집합을 두 그룹으로 나누어 최대 18이 되는 두 그룹으로 이 문제를 푸는 방법에는 여러 가지가 있습니다. 한 가지 해결숫자는 1, 2, 7, 8과 3, 4, 5, 6, 다른 하나는 1, 3, 6, 8과 2, 4, 5, 7입니다.\n"
+"\n"
+"7. 1에서 9까지의 숫자는 더하기 기호 안에 있고 중간에 하나의 원이 공통적으로 있습니다. 두 방향을 더하면 2 X 합계 = 45 + c가 되므로 c = 1, 3, 5, 7, 9가 됩니다. c = 1, 3, 5에 대한 해가 제공됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "8. The numbers from 1 to 12 are in a star shape. This has 6 directions of lines of 4 circles. This one is much harder than the others. If you add up all the directions, every number will be involved twice. The numbers from 1 to 12 add up to 78. Thus we have 6 x SUM = 2 x 78, which means SUM = 26 (as given in the hint). A solution is given below. As always, another solution can be obtained by subtracting all the entries from 13."
+msgstr "8. 1부터 12까지의 숫자는 별 모양입니다. 이것은 4개의 원으로 이루어진 6개의 방향을 가지고 있습니다. 이것은 다른 것보다 훨씬 어렵습니다. 모든 방향을 더하면 모든 숫자가 두 번 포함됩니다. 1에서 12까지의 숫자를 더하면 78이 됩니다. 따라서 6 x 합계 = 2 x 78이 됩니다. 이는 합계 = 26을 의미합니다(힌트에 나와 있음). 해결숫자가 아래에 나와 있습니다. 항상 그렇듯이 13에서 모든 항목을 빼면 다른 해결숫자를 얻을 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9. The numbers from 1 to 7 are in an H shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. There are 5 possible lines of 3 connected circles. If the 5 directions are added up, all the circles will be used twice, with the exception of the center which is used three times. Adding up the five directions gives 5 x SUM = 2 x 28 + c. Because 5 evenly divides 56 + c, this forces c = 4, and in that case SUM = 12 (as given in the hint). Note that neither 2 nor 3 can be on the same side as the 1, and this leads to the following solution."
+msgstr "9. 1에서 7까지의 숫자는 H 모양입니다. 왼쪽에 세로로 3, 가운데에 1, 오른쪽에 세로로 3입니다. 3개의 연결된 원으로 구성된 5개의 가능한 선이 있습니다. 5개의 방향을 더하면 세 번 사용되는 중심을 제외하고 모든 원이 두 번 사용됩니다. 다섯 방향을 더하면 5 x 합계 = 2 x 28 + c가 됩니다. 5는 56 + c를 균등하게 나누기 때문에 c = 4가 되고 이 경우 합계 = 12가 됩니다(힌트에 제공된 대로). 2도 3도 1과 같은 면에 있을 수 없으며 이는 다음 해결숫자로 이어집니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Square"
+msgstr "합계 정사각형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 3 by 3 grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid. For the numbers that are not yet placed, the challenge is to place them to make the row and column sums be the target values.\n"
+"\n"
+"To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid. For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper you removed to your child and ask “where were these?” Because these are so easy to create, they are great puzzles for your child to create for you to solve.\n"
+"\n"
+"One variation that keeps the sums a little smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid, or even 1 to 16 in a 4 by 4 grid."
+msgstr ""
+"각 행과 열에 대한 목표 합이 있는 3 x 3 격자로 시작합니다. 1에서 9까지의 숫자 중 일부는 이미 격자에 배치되어 있습니다. 아직 배치되지 않은 숫자의 경우 행과 열 합계가 목표 값이 되도록 배치하는 것이 과제입니다.\n"
+"\n"
+"이 퍼즐 중 하나를 만들려면 1부터 9까지의 숫자가 적힌 종이 조각을 3 x 3 격자에 놓습니다. 각 행과 열에 대해 합계를 오른쪽 또는 아래에 쓰십시오. 그런 다음 격자에서 일부 숫자를 제거합니다. 마지막으로 제거한 종이 조각을 아이에게 건네며 \"이것들은 어디에 있었나요?\"라고 묻는다. 이것들은 만들기가 매우 쉽기 때문에 당신이 풀기 위해 당신의 아이가 만들 수 있는 훌륭한 퍼즐입니다.\n"
+"\n"
+"합계를 조금 더 작게 유지하는 한 가지 변형은 0에서 8 사이의 숫자를 대신 사용하는 것입니다. 더 어려운 변형은 3 x 4 격자에서 1에서 12까지 또는 4 x 4 격자에서 1에서 16까지의 숫자로 동일한 작업을 수행하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making the original filled in puzzle is easy enough. As mentioned above, just put in all the numbers and write down the sums. The challenge for the puzzle maker is to remove just the right amount of information so that the puzzle is challenging but not too hard."
+msgstr "퍼즐로 채워진 원본을 만드는 것은 충분히 쉽습니다. 위에서 언급했듯이 모든 숫자를 입력하고 합계를 기록하십시오. 퍼즐 제작자의 과제는 퍼즐이 어렵지만 너무 어렵지 않도록 적절한 양의 정보를 제거하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategies for Solving and Creating"
+msgstr "해결 및 생성 전략"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start by filling in squares that are the single missing numbers in a row or column. The leftmost of these three puzzles is pretty easy to solve because, after the 5 and the 7 are filled in, then the 3 and 2 are easy to solve, and then lastly the 8 will be easy- solving each singleton creates new singletons that are easy to calculate.\n"
+"\n"
+"Easy to calculate puzzles are good practice for your child, so don’t worry about making all the puzzles tricky.\n"
+"\n"
+"The middle puzzle is a bit harder. There are no singletons. A good strategy for these is to look for rows or columns that have particularly large or small missing sums - these will have relatively few choices to choose from. The bottom row and the rightmost column are good places to start for this puzzle. The missing numbers in the bottom row add up to 16, so they must be 7 and 9. The 9 cannot go in the column with the 6 (the sum would be too big for that column), so that places the 7 and 9. The rest follows as in the previous puzzle.\n"
+"\n"
+"In the rightmost puzzle, two of the side numbers are left out. Once your child realizes that the side numbers add up to 45, which is the sum of the numbers from 1 to 9, it is easy to fill in a single missing side number."
+msgstr ""
+"행이나 열에서 누락된 단일 숫자인 사각형을 채우는 것으로 시작합니다. 이 세 가지 퍼즐 중 가장 왼쪽은 풀기 매우 쉽습니다. 5와 7이 채워진 다음에는 3과 2가 풀기 쉽고, 마지막으로 8은 풀기 쉬울 것이기 때문입니다. 각 한 장 패의 수는 계산하기 쉬운 새로운 한 장 패의 수를 생성하기 때문입니다.\n"
+"\n"
+"계산하기 쉬운 퍼즐은 아이에게 좋은 습관이므로 모든 퍼즐을 까다롭게 만드는 것에 대해 걱정하지 마십시오.\n"
+"\n"
+"중간 퍼즐은 조금 더 어렵습니다. 한 장 패의 수는 없습니다. 이에 대한 좋은 전략은 특히 크거나 작은 누락 합계가 있는 행이나 열을 찾는 것입니다. 이는 선택할 수 있는 선택 항목이 상대적으로 적습니다. 맨 아래 행과 맨 오른쪽 열은 이 퍼즐을 시작하기에 좋은 위치입니다. 맨 아래 행의 누락된 숫자는 최대 16이 되므로 7과 9가 되어야 합니다. 9는 6이 있는 열에 들어갈 수 없으므로(합은 해당 열에 비해 너무 큼) 7과 9를 배치합니다. 나머지는 이전 퍼즐과 동일합니다.\n"
+"\n"
+"가장 오른쪽 퍼즐에서 두 개의 측면 번호가 생략됩니다. 1부터 9까지의 숫자의 합인 45를 아이가 알게 되면 누락된 한 면을 쉽게 채울 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition Pyramid"
+msgstr "덧셈 피라미드"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A pyramid of 10 numbers placed in 4 rows is given with a target number. The challenge is to find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must touch each other.\n"
+"\n"
+"Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid. The number of possible paths through the pyramid doubles with the addition of each row, so making larger pyramids is a way to challenge a child who finds the 10-number puzzle  easy. For a child who finds a 10-number puzzle hard, start with 6-number puzzles until they become easy and quick to solve."
+msgstr ""
+"10개의 숫자가 4줄로된 피라미드에 목표 숫자가 주어집니다. 문제는 숫자의 합이 목표 숫자가 되도록 각 행에서 하나의 숫자를 사용하여 피라미드를 통과하는 경로를 찾는 것입니다. 경로의 숫자는 서로 닿아야 합니다.\n"
+"\n"
+"길을 만들고자 하는 숫자를 채워서 이 퍼즐 중 하나를 만들고 그 숫자의 합을 기록하세요. 그런 다음 피라미드의 나머지 미끼 번호를 입력합니다. 피라미드를 통과할 수 있는 경로의 수는 각 행을 추가할 때 두 배로 증가하므로 더 큰 피라미드를 만드는 것은 10개 숫자 퍼즐을 쉽게 찾는 아이에게 도전하는 방법입니다. 10자리 퍼즐을 어려워하는 아이의 경우 6자리 퍼즐부터 시작하여 쉽고 빠르게 풀 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For larger puzzles, it can be a challenge for the puzzle maker to ensure that there is only one correct path through the pyramid. Don’t concern yourself too much with that. Even though it’s nice if there is only one path, your child will enjoy showing you that there is more than one way to solve it."
+msgstr "더 큰 퍼즐의 경우 퍼즐 제작자가 피라미드를 통과하는 올바른 경로가 하나만 있는지 확인하는 것이 어려울 수 있습니다. 그것에 대해 너무 걱정하지 마십시오. 길은 하나뿐이면 좋겠지만, 아이는 그것을 해결하는 방법이 여러 가지 있다는 것을 보여주는 것을 좋아할 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Investigations"
+msgstr "조사"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Flower Petals"
+msgstr "꽃잎"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In a magical garden there are two kinds of flowers. One has 4 petals and the other has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could it be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"By trying many pairs of numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur.\n"
+"\n"
+"What is the pattern and what creates that pattern? Those are often questions that come up, and it is where many interesting things happen. \n"
+"\n"
+"It’s easiest to see what happens when some number evenly divides both numbers. Take 3 and 6 for example. Think of these numbers as 1 x 3 and 2 x 3. When you add these numbers together, you will always get some number of 3’s. There is no way to add 3’s and 6’s together to get 10, because 10 is not a multiple of 3.\n"
+"\n"
+"When 1 is the only number that evenly divides both numbers, there will always come a point where every number can be attained. For 4 and 7, that number is 18. To find that number, subtract 1 from each of the numbers in the pair and multiply those new numbers together. In this case, that gives 3 x 6 = 18. Another interesting facet of this situation is that exactly half of the numbers below 18 will be reachable. Why this works takes some math a bit too sophisticated for a young child; however, it is fun to play with these calculations and your child’s experiences with these patterns may suddenly click into place much later on."
+msgstr ""
+"마법의 정원에는 두 종류의 꽃이 있습니다. 하나는 꽃잎이 4개이고 다른 하나는 꽃잎이 7개입니다. 한 아이에게 꽃잎의 총 개수가 13개가 되도록 꽃을 따려고 했습니다. 할 수 있을까요? 꽃잎은 15개? 몇 개의 꽃잎이 가능한가요? 가능한 숫자의 경우 여러 가지 방법으로 수행할 수 있습니까? 예를 들어, 32개의 꽃잎은 4개의 7과 1개의 4이며 8개의 4도 있습니다.\n"
+"\n"
+"여러 쌍의 숫자를 시도함으로써 가지고 놀 수 있는 많은 예가 있습니다. 어떤 숫자 쌍의 경우 모든 수의 꽃잎이 가능한 지점이 있고 다른 숫자 쌍의 경우 그러한 점이 없습니다. 4와 7의 경우 18부터 모든 숫자가 가능합니다. 3과 6의 경우 모든 숫자가 나오는 지점이 없습니다.\n"
+"\n"
+"패턴이란 무엇이며 그 패턴을 만드는 것은 무엇입니까? 그러한 질문이 자주 제기되며, 그곳에서 많은 흥미로운 일이 발생합니다.\n"
+"\n"
+"어떤 숫자가 두 숫자를 균등하게 나눌 때 어떤 일이 일어나는지 보는 것이 가장 쉽습니다. 3과 6을 예로 들어보자. 이 숫자를 1 x 3 및 2 x 3으로 생각하십시오. 이 숫자를 함께 추가하면 항상 3의 숫자를 얻게 됩니다. 10은 3의 배수가 아니기 때문에 3과 6을 더해서 10을 얻을 수 있는 방법은 없습니다.\n"
+"\n"
+"1이 두 숫자를 균등하게 나누는 유일한 숫자일 때 항상 모든 숫자를 얻을 수 있는 지점이 올 것입니다. 4와 7의 경우 그 숫자는 18입니다. 그 숫자를 찾으려면 쌍의 각 숫자에서 1을 빼고 새 숫자를 곱하십시오. 이 경우 3 x 6 = 18이 됩니다. 이 상황의 또 다른 흥미로운 측면은 18 미만의 숫자 중 정확히 절반에 도달할 수 있다는 것입니다. 이것이 작동하는 이유는 어린 아이에게 너무 정교한 수학이 필요한 이유입니다. 그러나 이러한 계산을 가지고 노는 것은 재미있고 이러한 패턴에 대한 아이의 경험은 훨씬 나중에 갑자기 제자리에 고정될 수 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Climbing Steps – How Many Ways?"
+msgstr "등반 단계 — 얼마나 많은 방법"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose your child likes to take steps two at a time sometimes, but one at a time other times. If your child wants to go up some steps, a natural question is: How many ways can this be done?\n"
+"For example, for 0 steps there is just one way - you just stand there. For 1 step there is one way - you take a single step. For two steps, you can either take one double step or two single steps. \n"
+"\n"
+"Your child should carefully count many cases of this and make a table of the results. When there is lots of information, a table often helps organize the information and allow patterns to stand out. The table would look like this (okay, going beyond 6 may require too much patience, but here are the numbers):\n"
+"\n"
+"1 - 1 - 2 - 3 - 5 - 8 - 13 - 21 - 34 - 55\n"
+"\n"
+"After looking at these numbers, your child may notice that each pair of consecutive numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers. The rule for creating the official Fibonacci Numbers is that each number is the sum of the previous two. This also happens for the steps. Hmmm ...\n"
+"\n"
+"Let’s look closely at one example - say 5 steps. The 8 possibilities are: 1+1+1+1+1, 1+1+2+1, 1+2+1+1, 2+1+1+1, 2+2+1, 1+1+1+2, 1+2+2, and 2+1+2. The first 5 possibilities use 1 for the last move, and the last 3 possibilities use 2 for the last move. That explains it - you can go up 5 steps by either going up 4 steps and taking 1 more step, or by going up 3 steps and going up 2 more steps. The number of ways of going up 5 steps is exactly equal to the sum of the number of ways of going up 4 steps plus the number of ways of going up 3 steps.\n"
+"\n"
+"Patterns are often understood by patiently going through examples, organizing the data, looking closely at the data, and digging for explanations of why things happen the way they do. This is a good habit to develop in your child."
+msgstr ""
+"여러분의 아이가 때때로 한 번에 두 단계를 하기를 좋아하지만 다른 때에는 한 단계씩 가는 것을 좋아한다고 가정해 보십시오. 아이가 몇 단계 더 올라가고 싶어하는 경우 자연스러운 질문은 다음과 같습니다. 얼마나 많은 방법으로 이를 수행할 수 있습니까?\n"
+"\n"
+"예를 들어, 0 단계의 경우 한 가지 방법이 있습니다. 그냥 서 있기만 하면 됩니다. 1 단계에는 한 가지 방법이 있습니다. 단일 단계를 수행하십시오. 두 단계의 경우 한 단계의 이중 단계 또는 두 개의 단일 단계를 수행할 수 있습니다.\n"
+"\n"
+"아이는 이에 대한 많은 경우를 주의 깊게 세고 결과를 표로 만들어야 합니다. 정보가 많을 때 표는 정보를 정리하고 패턴을 눈에 띄게 하는 데 도움이 됩니다. 표는 다음과 같을 것입니다(예, 6을 넘으면 너무 많은 인내가 필요할 수 있지만 여기에 숫자가 있습니다):\n"
+"\n"
+"1 - 1 - 2 - 3 - 5 - 8 - 13 - 21 - 34 - 55\n"
+"\n"
+"이 숫자를 본 후 , 당신의 아이는 연속된 숫자의 각 쌍이 다음 숫자가 되는 것을 알아차릴 수 있습니다. 왜 이런 일이 발생합니까? 이러한 수를 피보나치 수라고 합니다. 공식 피보나치 수를 만드는 규칙은 각 숫자가 이전 두 수의 합이라는 것입니다. 이것은 단계에서도 발생합니다. 흠 ...\n"
+"\n"
+"한 가지 예를 자세히 살펴보겠습니다. 예를 들어 5단계라고 가정해 보겠습니다. 8가지 가능성: 1+1+1+1+1, 1+1+2+1, 1+2+1+1, 2+1+1+1, 2+2+1, 1+1+1 +2, 1+2+2 및 2+1+2. 처음 5개 가능성은 마지막 이동에 1을 사용하고 마지막 3개 가능성은 마지막 이동에 2를 사용합니다. 4단계 올라가서 1단계 더 올라가거나 3단계 올라가서 2단계 더 올라가면 5단계 올라갈 수 있습니다. 5계단을 오르는 길의 수는 4계단을 오르는 길의 수와 3계단을 오르는 길의 수를 더한 것과 정확히 같습니다.\n"
+"\n"
+"패턴은 참을성 있게 예제를 살펴보고, 자료를 구성하고, 자료를 자세히 살펴보고, 일이 왜 그런 식으로 일어나는지에 대한 설명을 파헤쳐 보면 이해됩니다. 이것은 아이에게 좋은 습관입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Balance Scale"
+msgstr "저울"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a simple device for telling when two things have exactly the same weight. The scale is usually supplied with a set of weights that are used to measure the weight of other objects. There are many interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**One Kind of Weight** Suppose you have lots of weights, but they are all the same - say, 5 units. Then the only things you can weigh exactly are objects that are a multiple of 5 (just like skip counting by 5).\n"
+"\n"
+"**Two Kinds of Weights - One Side** Suppose you have lots of weights that are either 4 units or 7 units and you only use them on one side of the balance. The things you can weigh are the same numbers you found in the flower petal investigation. For 4 and 7, starting at 18 units you can weigh everything exactly. If the weights are 4 units and 6 units, you can only weigh even numbers starting with 4.\n"
+"\n"
+"**Two Kinds of Weights - Both Sides** After doing the investigation with two kinds of weights on one side, your child might be surprised if you ask them to weigh a 3-unit item, or even a 1-unit item, with 4’s and 7’s. The trick is to put some weights on one side and other weights on the other side. For example, verify an item weighs 3 units by putting it with a 4-unit weight and see that it balances with a 7-unit weight. Similarly, verify an item weighs 1 unit by putting it with a 7-unit weight and see that it balances with two 4-unit weights.\n"
+"\n"
+"There is an important math theorem called Bezout’s Theorem hidden in this investigation. Your child doesn’t need to know about that theorem at this point, but isn’t it cool that a young child can be playing around with advanced mathematics!\n"
+"\n"
+"**Doubling Weights** What happens if you have one weight each for each of the weights in the doubling progression 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? What is the largest weight you can measure? \n"
+"\n"
+"After some investigation, you will find that you can weigh everything up to one less than double the highest weight - in this case that is 31. Also, each item you can weigh can only be weighed in one way - for example, 13 = 1 + 4 + 8, and there is no other way to do it. Pretty cool! This situation is related to the binary number system.\n"
+"\n"
+"Fibonacci Weights: What happens if the weights are in the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction that would cause there to be only one way for each weight.\n"
+"\n"
+"Suppose you have one each for the weights 1, 1, 2, 3, 5, 8, and 13. With this, 10 = 2 + 3 + 5 = 2 + 8 = 1 + 1 + 3 + 5 = 1 + 1 + 8. What is causing the duplication is that the Fibonacci rule creates more than one way to write the Fibonacci numbers in terms of themselves - for example, 2 = 1 + 1 and 8 = 5 + 3. The way to fix this problem is to insist that you cannot use two Fibonacci numbers that are neighbors of each other in the sequence. When you add that restriction, the only way to get 10 is 2 + 8."
+msgstr ""
+"저울은 두 물체의 무게가 정확히 같은 경우를 알려주는 간단한 장치입니다. 저울은 일반적으로 다른 물체의 무게를 측정하는 데 사용되는 무게 세트와 함께 제공됩니다. 사용하도록 허용된 가중치를 제한하면 수행할 수 있는 흥미로운 조사가 많이 있습니다.\n"
+"\n"
+"**한 종류의 무게:** 많은 가중치가 있지만 모두 동일하다고 가정합니다(예: 5개 단위). 그러면 정확히 무게를 잴 수 있는 것은 5의 배수인 물체뿐입니다.\n"
+"\n"
+"**두 종류의 무게 — 한 면:** 4단위 또는 7단위인 무게추가 많이 있고 저울의 한 면에서만 사용한다고 가정합니다. 당신이 잴 수 있는 것은 꽃잎 조사에서 발견한 것과 같은 숫자입니다. 4와 7의 경우 18개부터 시작하여 모든 것을 정확하게 계량할 수 있습니다. 무게추가 4개, 6개일 경우 4부터 시작하는 짝수개까지만 무게를 잴 수 있습니다.\n"
+"\n"
+"**두 종류의 무게 - 양면:** 한쪽에 두 가지 무게추를 놓고 조사를 한 후 물어보면 아이가 깜짝 놀라기도 합니다. 4와 7을 사용하여 3단위 품목 또는 1단위 품목의 무게를 측정합니다. 트릭은 한쪽에 무게를 놓고 다른쪽에 다른 무게를 두는 것입니다. 예를 들어, 항목의 무게가 4단위인지 확인하고 7단위 중량과 균형을 이루는지 확인합니다. 마찬가지로, 7단위 중량을 넣어 1단위 중량을 확인하고 2개의 4단위 중량으로 균형을 이루는지 확인합니다.\n"
+"\n"
+"이 조사에는 비자우트의 정리라는 중요한 수학 정리가 숨겨져 있습니다. 당신의 아이는 이 시점에서 그 정리에 대해 알 필요가 없지만, 어린 아이가 고급 수학을 가지고 놀 수 있다는 것이 멋지지 않습니까!\n"
+"\n"
+"**2배의 가중치:** 1, 2, 4, 8, 16의 두 배 진행에서 각 가중치에 대해 각각 하나의 가중치가 있는 경우 어떻게 됩니까? 무게가 13인 것을 몇 가지 방법으로 잴 수 있습니까? 측정할 수 있는 가장 큰 무게는 무엇입니까?\n"
+"\n"
+"약간의 조사 후에, 당신은 당신이 가장 높은 무게의 두 배 미만인 모든 것의 무게를 잴 수 있다는 것을 알게 될 것입니다. 이 경우에는 31입니다. 또한 당신이 무게를 잴 수 있는 각 품목은 한 방향으로만 무게를 잴 수 있습니다(예: 13 = 1 + 4 + 8), 그리고 다른 방법은 없습니다. 정말 멋집니다! 이 상황은 이진수 시스템과 관련이 있습니다.\n"
+"\n"
+"**피보나치 가중치:** 가중치가 피보나치 수에 있으면 어떻게 됩니까? 무게를 재는 방법이 한 가지 이상 있습니까? 각 가중치에 대해 한 가지 방법만 있게 하는 제한을 찾으세요.\n"
+"\n"
+"가중치 1, 1, 2, 3, 5, 8, 13에 대해 각각 하나씩 있다고 가정합니다. 이것으로 10 = 2 + 3 + 5 = 2 + 8 = 1 + 1 + 3 + 5 = 1 + 1 + 8. 중복을 일으키는 원인은 피보나치 규칙이 피보나치 수를 자체적으로 작성하는 두 가지 이상의 방법을 생성하기 때문입니다(예: 2 = 1 + 1 및 8 = 5 + 3). 이 문제를 해결하는 방법은 다음과 같습니다. 순서에서 서로 이웃인 두 개의 피보나치 수를 사용할 수 없다고 주장합니다. 그 제한을 추가하면 10을 얻는 유일한 방법은 2 + 8입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With Factors"
+msgstr "인수와 건너 뛰기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Start with any number, say 20. Let the child decide whether to go first or second. During their turn, a player may subtract any divisor of the current number from the number. The player forced to 0 loses."
+msgstr "20과 같이 임의의 숫자로 시작합니다. 아이가 먼저 갈 것인지 아니면 두 번째로 갈 것인지 결정하게 하세요. 자신의 차례 동안 플레이어는 숫자에서 현재 숫자의 제수를 뺄 수 있습니다. 강제로 0이 된 플레이어는 패배합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As usual, a good strategy for learning about this game is to look at a simpler version of the game, which in this case means starting with very small numbers. If it is your turn and you are faced with each of these numbers, here is what will happen: 1 - lose, 2 - win, 3 - lose, 4 - win, 5 - lose, 6 - win, 7 lose, and 8 win. By now the pattern is clear - if it is your move and you have an odd number, then you will lose; if you have an even number, then you will win.\n"
+"\n"
+"Finding the winning strategy is a big step, but let’s go deeper. Why does this work? What are the properties of odd and even numbers that create this situation? Set this question before your child and give them a lot of time to think about it and experiment with it - there is no hurry, and this process of wrestling with a question is invaluable and should not be short circuited.\n"
+"\n"
+"Some experimentation with small numbers quickly reveals what is going on. If you have an odd number, all of the divisors are odd, so when you subtract any divisor the result is an even number. Consequently, odd numbers on one turn always lead to an even number on the next turn. Even numbers always have both odd and even numbers for divisors. So, the situation is not quite the same. However, if you have an even number, your goal is to give your opponent an odd number, and there is an easy way to do that - select the divisor 1 and subtract it!"
+msgstr ""
+"평소와 같이 이 게임에 대해 배우기 위한 좋은 전략은 게임의 더 간단한 보기를 살펴보는 것입니다. 이 경우에는 매우 작은 숫자부터 시작해야 합니다. 당신의 차례이고 이 숫자들 각각에 직면하면 다음과 같은 일이 발생합니다: 1 - 패배, 2 - 승리, 3 - 패배, 4 - 승리, 5 - 패배, 6 - 승리, 7 패배, 8 이기다. 이제 패턴이 명확해집니다. 당신의 움직임이고 홀수라면 패배하게 될 것입니다. 당신이 짝수라면, 당신은 이길 것입니다.\n"
+"\n"
+"승리 전략을 찾는 것은 큰 단계이지만 더 깊이 들어가 보겠습니다. 이것이 작동하는 이유는 무엇입니까? 이 상황을 만드는 홀수와 짝수의 속성은 무엇입니까? 이 질문을 아이 앞에 두고 그것에 대해 생각하고 실험할 수 있는 많은 시간을 주십시오. 서두르지 마세요. 질문과 씨름하는 이 과정은 매우 중요하며 단락되지 않아야 합니다.\n"
+"\n"
+"작은 숫자로 몇 가지 실험을 해보면 무슨 일이 일어나고 있는지 빠르게 알 수 있습니다. 홀수인 경우 제수는 모두 홀수이므로 제수를 빼면 결과가 짝수가 됩니다. 결과적으로, 한 차례의 홀수는 항상 다음 차례의 짝수로 이어집니다. 짝수는 약수에 대해 항상 홀수와 짝수를 모두 갖습니다. 따라서 상황은 완전히 동일하지 않습니다. 그러나 짝수인 경우 상대방에게 홀수를 주는 것이 목표이며 이를 수행하는 쉬운 방법이 있습니다. 제수 1을 선택하고 빼십시오!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sieve of Eratosthenes"
+msgstr "에라토스테네스의 체"
 
 #. type=data_list
 msgctxt "data_list"
