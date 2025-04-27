@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 00:45\n"
+"PO-Revision-Date: 2025-04-27 02:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11035,6 +11035,34 @@ msgstr ""
 "아이들이 이 게임을 잘 하게 되면, 그들은 합리적인 첫 번째 움직임을 관리하는 데 필요한 규칙을 발견할 것입니다. 가장 기본적인 규칙은 첫 번째 움직임이 위쪽 절반에 있는 소수에 있을 수 없다는 것입니다.\n"
 "\n"
 "플레이어의 기술 수준에 따라 숫자 범위를 조정하세요 – 1에서 30, 1에서 48, 또는 1에서 60."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH FACTORS"
+msgstr "인수와 건너뛰기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with any number, say 20. Let your child decide whether to go first or second. How to play: During their turn, a player may subtract any divisor of the current number from the number. For example, starting at 20, the first player can subtract 1, 2, 4, 5, or 10 for their first move.\n"
+"\n"
+"**How to win:** The player forced to 0 loses."
+msgstr ""
+"**설정:** 무작위 숫자로 (예: 20) 시작합니다. 아이가 먼저 갈지 다음에 갈지 결정하게 하세요.\n"
+"\n"
+"**게임 방법:** 그들의 차례 동안, 플레이어는 숫자에서 현재 숫자의 제수를 뺄 수 있습니다. 예를 들어, 20에서 시작하면 첫 번째 플레이어는 첫 번째 이동을 위해 1, 2, 4, 5, 또는 10을 뺄 수 있습니다.\n"
+"\n"
+"**이기는 방법:** 강제로 0으로 가는 사람이 지는 게임입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy"
+msgstr "전략"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for always winning - once they discover it, see if they can explain why it works."
+msgstr "아이가 게임에 익숙해지면, 항상 이기기 위한 놀랍도록 간단한 전략을 찾도록 격려하세요 - 일단 아기가 그것을 발견하면, 그것이 왜 그렇게 되는지 설명할 수 있는지 보세요."
 
 #. type=data_list
 msgctxt "data_list"
