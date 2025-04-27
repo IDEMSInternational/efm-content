@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 05:45\n"
+"PO-Revision-Date: 2025-04-27 13:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11758,6 +11758,120 @@ msgstr ""
 msgctxt "data_list"
 msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
 msgstr "한 가지 방법은 세 자리 숫자, 목표 숫자 1000을 사용하는 것이며, 각 플레이어는 일곱 장의 카드를 받습니다. 또 다른 방법은 더 작은 목표 숫자로 뺄셈을 사용하는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "문자 대체"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "문자 대체"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**설정:** 이 퍼즐에서, 한 자리 숫자는 문자로 대체됩니다. 언뜻 보기에, 이 퍼즐들은 이 단계의 초기부터 ‘누락된 숫자’ 퍼즐과 같은 것 같습니다. 그러나, 문자의 사용은 문제 해결을 위한 더 흥미로운 기회를 제공합니다. 아이가 누락된 숫자 퍼즐에 익숙하다면, 이 퍼즐로 전환합니다.\n"
+"\n"
+"이 퍼즐에서 문자를 사용하는 것은 세 가지 규칙을 따릅니다:\n"
+"\n"
+"* 주어진 문자는 항상 0에서 9까지 같은 숫자입니다.\n"
+"* 숫자의 가장 왼쪽에 있는 숫자는 절대 0이 되지 않습니다.\n"
+"* 다른 문자는 다른 숫자여야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**만드는 방법:** 일반적인 덧셈 또는 뺄셈 문제를 가지고 하나 이상의 숫자를 바꿉니다. 같은 숫자를 바꿀 때 같은 문자를 사용합니다. 이 예에서, 6은 두 곳 모두에서 ‘A’로 대체됩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**특별한 퍼즐:** 이러한 유형의 퍼즐의 상황은 흥미로운 문제 해결을 가능하게 합니다. 이것들은 디자인하는데 시간이 걸리지만 결과는 재미있는 퍼즐이 됩니다.\n"
+"\n"
+"문자의 값은 퍼즐에서 퍼즐로 옮겨지지 않는다는 것을 주목합니다. 이 첫 번째 퍼즐에서 1의 값을 가진 ‘B’는 두 번째 퍼즐에서 4의 값을 가지고 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "모양으로 구역 채우기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"8 x 8 체스판과 1 x 2 타일 모음이 있다고 가정해 봅니다. 이 1 x 2 타일 중 32개로 체스판을 정확히 덮는 방법을 찾는 것은 충분히 간단합니다.\n"
+"\n"
+"**모서리 제거하기:** 체스판에서 정사각형을 제거하는 것부터 시작합니다. 체스판의 한 모서리를 다시 움직이면, 타일이 짝수의 정사각형을 덮을 것이기 때문에 더 이상 타일로 체스판을 덮을 수 없다는 것을 즉시 알 수 있으며, 이제 63개의 정사각형이 있습니다. 좋아요, 남은 정사각형의 짝수를 만들기 위해 두 모서리를 제거합니다 – 지금 덮을 수 있나요? 답은 당신이 어떤 두 모서리를 제거하느냐에 달려 있습니다. 왜 일까요? 더 이상 모서리를 제거하는 것을 제한하지 않으면 어떻게 되나요?\n"
+"\n"
+"**더 작은 보기에서 배우기:** 이와 같은 질문을 다룰 때 중요한 교훈 중 하나는 더 작은 문제에서 배우는 것입니다. 먼저 4 x 4 또는 6x 6 판에서 이 질문들을 시도해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "보드를 채우기 위해 다른 모양을 사용하여 넓혀 가세요. 1 x 3개의 타일이나 L 모양 3개의 사각형을 채우면서 놀아보세요. 이것들로 어떤 패턴과 규칙을 발견하나요? 어떤 다른 모양이 흥미로울까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "정사각형으로 정사각형 채우기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "모양안의 모양"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**도전:** 어떤 방법으로 정사각형을 다른 정사각형으로 채울 수 있나요? 정사각형이 모두 같은 크기일 필요는 없나요? 질문은: 가능한 모든 정사각형의 숫자는 무엇인가요? 가능한 사람들을 위해, 그것을 하는 방법을 설명하는 쉬운 방법이 있나요?\n"
+"\n"
+"당신의 아이가 답을 얻기 위해 서두르지 않고 며칠 동안 그것을 가지고 놀게 하세요. 여기 6이 어떻게 가능한지 보여주는 도형이 있습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr "1 x 1, 2 x 2, 그리고 3 x 3과 같은 특정 크기의 정사각형만 허용하면 어떻게 되나요? 같은 모양의 그림으로 다른 그림을 채우면 어떻게 되나요? 예를 들어, 일반 삼각형 (모든 면이 같은 길이의 삼각형)인 숫자를 사용하세요. 이런 식으로 조사하는 것이 흥미로운 그림은 무엇인가요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "곱 게임"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**설정:** 그림과 같이 작성된 공유된 종이를 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**게임 방법:** 첫 번째 플레이어는 1-9 정사각형에서 1에서 9까지의 모든 숫자로 토큰을 옮깁니다. 두 번째 플레이어는 1-9 정사각형 중 하나에 또 다른 토큰을 넣고 6 x 6 판에서 곱을 가집니다. 그 때부터, 각 플레이어는 두 개의 토큰 중 하나를 이동하고 곱을 가집니다 (할 수 있다면)."
 
 #. type=data_list
 msgctxt "data_list"
