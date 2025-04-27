@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 03:23\n"
+"PO-Revision-Date: 2025-04-27 04:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11200,6 +11200,37 @@ msgstr ""
 "9 = (2 + 7) × (5 − 2 × 2)\n"
 "\n"
 "의 방정식을 취한 다음 괄호를 제거하세요. 그건 그렇게 간단합니다! 아이가 편한 연산과 숫자를 사용하세요. 더 간단한 퍼즐을 만들기 위해 더 짧은 표현과 더 적은 괄호를 사용하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SECRET OPS"
+msgstr "비밀 연산"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Near the end of Stage 4, the Sum Difference activity had one person think of two numbers and then challenge the other person to find the numbers by telling them the sum and difference of the numbers. Secret Ops uses the same idea, only now the challenger can use any two operations, such as multiplying and subtracting.\n"
+"\n"
+"**Examples:** The challenger might say “Which two numbers have a product of 12 and a difference of 4?” You can extend this to three numbers, if you like - “Which three numbers have a product of 12 and a sum of 8?”"
+msgstr ""
+"4 단계가 끝날 무렵, 합계 차이 활동은 한 사람이 두 숫자를 생각한 다음 다른 사람에게 숫자의 합계와 차이를 말함으로써 숫자를 찾도록 도전합니다. 비밀 연산은 같은 아이디어를 사용하며, 이제 도전자는 곱셈과 뺄셈과 같은 두 가지 연산을 사용할 수 있습니다.\n"
+"\n"
+"도전자는 “어떤 두 숫자가 12의 곱과 4의 차이를 가지고 있나요?”라고 말할수 있습니다. 원한다면 이것을 세 개의 숫자로 확장할 수 있습니다 - “어떤 세 개의 숫자가 12의 곱과 8의 합을 가지고 있나요?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LEVER BALANCE"
+msgstr "지렛대 균형"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mixed Operations"
+msgstr "혼합 연산"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Levers:** Use the lever principle to practice multiplication and addition. The principle says that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
+msgstr "**지렛대:** 지렛대 원리를 사용하여 곱셈과 덧셈을 연습해 보세요. 그 원리는 지렛대의 한쪽에 있는 질량에 의해 가해지는 힘은 피벗 포인트인 지렛대로부터의 거리를 곱한 질량과 같다고 말합니다. 여러 질량의 한쪽 힘은 총력을 주기 위해 합산됩니다. 지렛대가 균형을 이루려면 양쪽이 총 힘은 같아야 합니다."
 
 #. type=data_list
 msgctxt "data_list"
