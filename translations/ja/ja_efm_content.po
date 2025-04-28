@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-09 00:08\n"
+"PO-Revision-Date: 2025-04-28 02:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -868,4 +868,49 @@ msgstr "誰か猫を飼っている人を知っているかな？ その人は�
 msgctxt "data_list"
 msgid "Do you think nine cats is too many?"
 msgstr "9匹の猫は多すぎると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "一緒に、ひげ、耳、足、目、しっぽを数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "どれが同じ数で、どれが違う数で、どれが一番大きくて、どれが一番小さいかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "どっちの動物が赤色かな、どっちが黄色かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"ネコとイヌは家に住んでいるよ\n"
+"\n"
+"家にはドアがあるよ。\n"
+"\n"
+"屋根もあるよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "ネコとイヌは丸い家に住んでいる。 君の家は丸いかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "絵の中にある、他の丸いものを指さそう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "家にはいくつの部屋があると思う？"
 
