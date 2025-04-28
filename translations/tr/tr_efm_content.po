@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-12-20 00:15\n"
+"PO-Revision-Date: 2025-04-28 21:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6252,7 +6252,12 @@ msgstr "Müzik dinlerken, ritmi oluşturan enstrümanlara kulak verin."
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 1 – I CAN HEAR YOU!"
-msgstr "AŞAMA 1- SENI DUYABILIYORUM!"
+msgstr "1. AŞAMA — SENI ANLAYABILIYORUM!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 Introduction"
+msgstr "1. Aşama — Giriş"
 
 #. type=data_list
 msgctxt "data_list"
