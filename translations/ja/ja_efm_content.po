@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-28 12:07\n"
+"PO-Revision-Date: 2025-04-28 13:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2372,4 +2372,1110 @@ msgstr "正方形とはこのページのように4つの辺が等しい形の�
 msgctxt "data_list"
 msgid "Do you have tiles where you live? If so, what shape are they?"
 msgstr "あなたが住んでいる場所にはタイルがありますか？もしあれば、どんな形ですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi like being a house watcher?"
+msgstr "サフィは留守番が好きですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the neighbor's dog comes close, Safi scares him away."
+msgstr "近所の犬が近づくと、サフィは犬を追い払います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is trying to scare the dog?"
+msgstr "サフィが犬を怖がらせようとしているのはどうして分かりますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the circles of colors and name the colors. Those circles aren't really in the house."
+msgstr "色のついた円を指さして色の名前を言ってください。これらの円は家の中にあるものではありません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Circles that share the same central point are called \"concentric.\""
+msgstr "中心点が同じ円を「同心円」と呼びます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog runs away."
+msgstr "犬は走って逃げ出します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the dog feeling?"
+msgstr "犬は何を感じていますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is bigger, the cat or the dog?"
+msgstr "猫と犬のどちらの方が大きいですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These bands of color going from yellow to orange give a sense of motion. Compare this to the concentric circles on the previous page."
+msgstr "色の帯が黄色からオレンジに変わることで、動いている様子が伝わりますね。前のページの同心円と比べてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When a neighbor knocks at the door, Safi is ready to scratch."
+msgstr "お隣さんがドアをノックすると、サフィは引っ搔こうとします。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is being scary? Is the neighbor scared?"
+msgstr "サフィが怖がらせようとしているのはどうして分かりますか？お隣さんは怖がっていますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the neighbor need to be scared away, or is Safi doing too much?"
+msgstr "お隣さんを追い払う必要はありますか？それともサフィはやり過ぎですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name different things in this picture that are in a group of 2, 3, or 4."
+msgstr "この絵の中で、2、3、4つのグループになっている様々なものを指さして名前を言ってみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor turns and runs away."
+msgstr "お隣さんは引き返し、走って逃げ出します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at the neighbor's clothes, what is her favorite color?"
+msgstr "お隣さんの服を見てください。彼女の好きな色は何色ですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite color?"
+msgstr "あなたの好きな色は何色ですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor is frightened by Safi. Have you ever been frightened by a cat or other small animal?"
+msgstr "お隣さんはサフィに怯えています。あなたはこれまでに猫や他の小動物に怯えたことはありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Safi is hungry, she closes the door."
+msgstr "サフィはお腹がすいたら、ドアを閉めます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi should just close the door as soon as Mr. Kio leaves."
+msgstr "サフィはキオさんが出かけたらすぐにドアを閉めるべきです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is little Safi big enough to close that big door?"
+msgstr "体の小さなサフィはあの大きなドアを開けられるほど大きいのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After the door closes, will Safi be able to reach the handle and open it?"
+msgstr "ドアが閉まった後に、サフィはドアの取っ手に手を伸ばして開けることができるのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi eats her food."
+msgstr "サフィは自分の餌を食べます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the straight and curved lines in this picture."
+msgstr "この絵にある直線と曲線を指さしてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi look happy to be eating? Do you like to eat your food?"
+msgstr "サフィは楽しそうに食べていますか？あなたはご飯を食べるのが好きですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you wait to eat if you were left with a plate of food you liked?"
+msgstr "あなたの好きな食べ物がお皿に残っていたら、食べるのを待ちますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Afterwards, Safi jumps onto the sofa and sleeps, \"Purr! Purr! Purr!\""
+msgstr "その後、サフィはソファに飛び乗り「ゴロゴロ！ゴロゴロ！ゴロゴロ！」とのどを鳴らして眠ります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people feel sleepy after eating and sometimes it gives them fresh energy. What does it do to you?"
+msgstr "人はご飯を食べた後に、眠くなることもあれば新鮮なエネルギーをもらうこともあります。あなたはどうですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Safi dreaming? If so, what do you think Safi is dreaming about?"
+msgstr "サフィは夢を見ていますか？もしそうなら、サフィはどんな夢を見ていると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the things you dream about?"
+msgstr "あなたが見る夢にはどんなものがありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio returns, Safi stretches happily and welcomes him home."
+msgstr "キオさんが家に帰ると、サフィは嬉しそうに伸びをして、彼の帰りを喜んで迎えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the beautiful circle inside the orange square."
+msgstr "オレンジの正方形の中にある綺麗な円を指さしてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have some circles and squares where you are?"
+msgstr "あなたがいる場所には円や正方形がありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point together at the white circles Safi has on her back and belly."
+msgstr "サフィの背中とお腹にある白い円を一緒に指さしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mister Kio and Safi sit down, and each of them reads the newspaper."
+msgstr "キオさんとサフィは座り、それぞれ新聞を読みます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is warm and cozy. Do cats read the newspaper?"
+msgstr "暖かくて居心地がいいですね。猫というのは新聞を読むのですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides with corners like this page. Point at the rectangles you see in this picture and around you."
+msgstr "長方形はこのページのように、角のある、4つのまっすぐな辺を持つ形です。この絵の中とあなたの周りにある長方形を指さしてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
+msgstr "ほとんどの新聞は長方形のような形をしています。キオさんの新聞は変わった形をしていますね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rainbow has seven colors."
+msgstr "虹は7色あるよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the colors of the rainbow."
+msgstr "一緒に虹の色を数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a rainbow after it rains? Sometimes, you can even see a double rainbow if you're lucky!"
+msgstr "雨上がりの虹を見たことがある？運が良ければ二重の虹が見えることもあるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out that her dress and the background on this page go through many of the same colors as the rainbow."
+msgstr "彼女のドレスとこのページの背景が、虹と同じ色を沢山使っていることに注目しよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The first color is red."
+msgstr "1番目の色は赤色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does the color red make you feel? Red is often thought of as an active, high energy color."
+msgstr "君は赤色を見てどう感じる？赤色は活動的でエネルギーの高い色と思われることが多いよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes red is an angry color. People may say they \"see red\" when they are angry."
+msgstr "赤色は時に怒りの色である。人は怒ると「赤が見える」と言うかもしれない。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often paint things red or choose red things because of the color's high energy. Have you seen cars that are red?"
+msgstr "その色のエネルギーの高さから、人はよく物を赤く塗ったり、赤い物を選んだりする。赤い車を見たことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kewyu is wearing a red shirt."
+msgstr "キューイは赤いシャツを着ている。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any red clothes?"
+msgstr "君は赤い服を持っている？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any red flowers near where you live?"
+msgstr "家の近くに赤い花が咲いている？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of people in this picture."
+msgstr "この絵にいる人の数を一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The second color is orange."
+msgstr "2番目の色はオレンジ色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does orange feel compared to red? It is still high energy, but perhaps a bit less so."
+msgstr "オレンジ色は赤色と比べてどう感じる？エネルギーが強いことに変わりはないが、おそらくそれほどではないだろう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks all alone in the middle of all that orange with her hands stretched out like that."
+msgstr "彼女はオレンジ色の真ん中で、両手をあんなに伸ばして、ひとりぼっちに見える。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An orange is a fruit named after its color. Can you think of other orange things around you?"
+msgstr "果物のオレンジはその色から名付けられた。君の身の回りで、オレンジ色のものを思い浮かべることができる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is an orange. What else can you see that is the color orange?"
+msgstr "これはオレンジだよ。他にオレンジ色のものは何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat and fish are orange. Have you seen an orange cat or fish before?"
+msgstr "猫と魚はオレンジ色だ。オレンジ色の猫や魚を見たことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sphere is a ball -- round in all directions. Is an orange a sphere?"
+msgstr "球体とは、四方八方に丸い球のこと。オレンジは球体かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the fish bowl different from a sphere?"
+msgstr "金魚鉢は球体とどう違う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The third color is yellow."
+msgstr "3番目の色は黄色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up something that she is pointing at."
+msgstr "彼女が指さしているものを想像してみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks excited about what is coming next. I bet it is something yellow!"
+msgstr "彼女は次に何が来るのかワクワクしているようだ。きっと黄色い何かだろう！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How has her dress changed from earlier pictures? Hint: It is now broken up into two sections."
+msgstr "彼女のドレスは以前の絵とどう違う？ヒント：2つに分かれているよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The yolk of an egg is yellow. What else can you see that is the color yellow?"
+msgstr "卵の黄身は黄色い。他に黄色いものは何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that she is hungry?"
+msgstr "どうして彼女はお腹が空いているとわかるの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She has a yellow sunflower on her table. Do you have flowers around you sometimes when you eat?"
+msgstr "彼女はテーブルの上に黄色いヒマワリを置いている。君は食事をするとき、周りに花を飾ることがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name something in the sky that is yellow."
+msgstr "空にある黄色いものを挙げてみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fourth color is green."
+msgstr "4番目の色は緑色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does green feel to you? This green is a lot calmer than the red, orange, or yellow."
+msgstr "緑色は君にとってどんな色かな？この緑色は赤色、オレンジ色、黄色よりもずっと落ち着いている。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name some things that are green -- they are all around you!"
+msgstr "緑色のものをいくつか挙げてみよう。それらは君の周りにあるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Green comes in many different types. How many types of green can you name?"
+msgstr "緑には様々な種類がある。君は何種類の緑を挙げることができる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Our banana garden is green."
+msgstr "我が家のバナナ畑は緑色だよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the animals you see on this page -- look carefully!"
+msgstr "このページに出てくる動物を指さして数えよう。よく見よう！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out the yellow greens, lime greens, bright greens, and dark greens on this page."
+msgstr "このページの黄緑、ライム緑、明るい緑、濃い緑に注目しよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A lot of trees are brown and green. Brown is not one of the main colors of the rainbow. Where does it show up in the rainbow?"
+msgstr "多くの木は茶色と緑色だ。茶色は虹の主要な色の一つではない。虹のどこに出てくるの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fifth color is blue."
+msgstr "5番目の色は青色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks so happy in the middle of all that blue. Does blue make you feel happy?"
+msgstr "青一色の中で、彼女はとても幸せそう。青色は君を幸せな気分にさせる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people say they feel blue when they are sad. Does blue seem like a sad color to you?"
+msgstr "悲しいときに青を感じるという人がいる。君にとって青は悲しい色に見える？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sky and water are usually blue, but it is not common in plants. Have you seen flowers that are blue?"
+msgstr "空や水はたいてい青いが、植物ではあまり見られない。青い花を見たことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sky is blue."
+msgstr "空は青い。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bodies of water, such as oceans, seas, lakes, and rivers, are often blue."
+msgstr "海、湖、川などの水域は青色であることが多い。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to these birds and clouds and count them together."
+msgstr "鳥や雲を指さして、一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which are there more of -- clouds or birds?"
+msgstr "雲と鳥、どちらが多い？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sixth color is indigo."
+msgstr "6番目の色は藍色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Flowers are sometimes indigo. Have you seen flowers whose color is close to being indigo?"
+msgstr "花には藍色がある。藍色に近い色の花を見たことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes her hands are stretched out wide. Having hands on hips often shows defiance and strength."
+msgstr "彼女は時に両手を大きく広げる。腰に手を当てることは、よく反抗心や強さを示す。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Indigo is very powerful. How do you feel if you stare at this big square of indigo?"
+msgstr "藍色はとてもパワフルだ。この大きな正方形の藍色を見つめたら、どう感じる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These berries are the color indigo."
+msgstr "これらの実は藍色だ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buttons or snaps on her jacket."
+msgstr "上着のボタンやスナップを一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you like to eat some of those berries? Do you think you could eat all of them?"
+msgstr "そのベリーを少し食べてみたい？全部食べられると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of the largest number you can. Does she have more berries than that number?"
+msgstr "できるだけ大きな数を考えてみよう。彼女はその数より多くの実を持っているかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The seventh color is violet."
+msgstr "7番目の色はスミレ色。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Violet is a very intense color. Is it too intense for you, or do you enjoy how intense it is?"
+msgstr "スミレ色はとても強烈な色だ。君にとって強烈すぎるかな、それともその強烈さを楽しめるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now she has her arms crossed. Crossed arms can indicate being closed off from others."
+msgstr "今、彼女は腕を組んでいる。腕を組むことは、他人から心を閉ざしていることを示す。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People tell us a lot without saying any words. Sometimes people do that with an expression on their face, and sometimes they do it with the way they hold their body."
+msgstr "人は言葉を発せずとも、私たちに多くを語る。時には表情で、時には体の持ち方で。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My dress is violet. Violet is my favorite color! What is your favorite color?"
+msgstr "私のドレスはスミレ色。スミレ色は好きな色なの。君の好きな色は？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the flowers she is next to are violet flowers -- they are named after their color."
+msgstr "彼女の隣にある花がスミレの花であることに注目しよう。色にちなんで名付けられた。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks very happy wearing a dress with her favorite color. Do you have clothes that are in your favorite color?"
+msgstr "彼女は好きな色の服を着ていて、とても幸せそう。君は好きな色の服を持っている？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors make you happy? Are there colors you don't like?"
+msgstr "ハッピーになれる色は何色？嫌いな色は何色？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know the seven colors of the rainbow?"
+msgstr "虹の7色を知っている？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you remember what each color is?"
+msgstr "それぞれの色が何色か覚えている？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people use the fake name Roy G. Biv to remind them of the order of the seven colors of the rainbow."
+msgstr "紫色とスミレ色の違いが分かる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Brown is not one of the main colors of the rainbow. Are there other colors you know that are not one of the seven?"
+msgstr "茶色は虹の主要な色の一つではない。虹の7色以外で君が知っている色はある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is going to drink water."
+msgstr "１頭のぞうが水を飲もうとしています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the elephants, the tusks, the feet, the eyes, and the tails."
+msgstr "ぞう、牙、足、目、しっぽの数を数えましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which items are there the most of and which are there the least of?"
+msgstr "どのアイテムが一番多くありますか？また、一番少ないのはどれですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think the elephant is about to do?"
+msgstr "ぞうは何をしようとしていると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are going to drink water."
+msgstr "２頭のきりんが水を飲もうとしています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each giraffe has four feet. Count the number of giraffes and the number of feet."
+msgstr "きりんはそれぞれ４本の足があります。きりんの数と足の本数を数えましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The giraffes are very tall. They must bend way down to get to the water."
+msgstr "きりんはとても背が高いです。水に到達するには身を屈めなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are one more animal than one elephant. What is one more animal than two animals?"
+msgstr "２頭のきりんは１頭のぞうより１頭多いです。２頭より１頭多いのは何頭でしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes and four birds are also going to drink water."
+msgstr "３頭のバッファローと４羽の鳥も水を飲もうとしています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buffaloes, the birds, the horns, and the tails."
+msgstr "バッファロー、鳥、角、しっぽの数を数えましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When there is one source of water, all the thirsty animals come to that one place. If a lion wants to hunt animals, this is a good place to find them!"
+msgstr "１つの水飲み場あるとき、喉の渇いたすべての動物たちはその１つの場所に集まります。もしライオンが動物を捕まえたいならば、ここが動物たちを見つけるのに良い場所です！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes is one less animal than four animals. What is one less animal than three animals?"
+msgstr "３頭のバッファローは４羽の鳥より１頭少ないです。３頭より１頭少ないのは何頭でしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Five antelopes and six warthogs are walking to the water."
+msgstr "５頭のレイヨウと６頭のイボイノシシが水に向かって歩いています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the antelopes and the warthogs. How many of the warthogs are babies?"
+msgstr "レイヨウとイボイノシシの数を数えましょう。イボイノシシのうち何頭が赤ちゃんでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the antelopes are looking around rather than looking at each other. The pack stays safe by having some of them looking for danger!"
+msgstr "何頭かのレイヨウはお互いを見つめるのでなく、周りを見回しています。何頭かが危険を見つけることによって、群れは安全になります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of antelopes and warthogs, which are there more of and which are there less of?"
+msgstr "レイヨウとイボイノシシでは、どちらが多く、どちらが少ないでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Seven zebras are running to the water."
+msgstr "７頭のシマウマが水に向かって走っています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the zebras and the trees."
+msgstr "シマウマと木の数を数えましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that the zebras have been running? They must be very thirsty to be running to the water!"
+msgstr "シマウマが走ってきたことをどうやって伝えますか？彼らは、水に向かって走るほど喉が渇いていたに違いありません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try counting the black stripes on some of the zebras. Do some zebras have more stripes than others?"
+msgstr "シマウマの黒い縞模様を数えてみてください。他のシマウマより縞模様が多いシマウマもいますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eight frogs and nine fish are swimming in the water."
+msgstr "８匹のカエルと９匹の魚が水の中を泳いでいます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the frogs and the fish. Can you count that high?"
+msgstr "カエルと魚の数を数えましょう。そんなに数えられますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are packed very tightly together. Do you think they feel crowded or do they like having the company?"
+msgstr "彼らはみんなぎゅっと詰まっています。彼らは狭いと感じていると思いますか？それとも、一緒にいるのが好きだと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is one more than eight frogs? What is one less than nine fish?"
+msgstr "８匹のカエルより１匹多いのは何匹でしょうか？９匹より１匹少ないのは何匹でしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different kinds of animals can you count?"
+msgstr "様々な種類の動物を何種類数えることができますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One lion roars. He also wants to drink. Who is afraid of the lion?"
+msgstr "１匹のライオンが雄叫びをあげます。ライオンはまた水も飲みたいです。誰がそのライオンを怖がりますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the lions, warthogs, birds, zebras, antelopes, giraffes, water buffaloes, and elephants. That's a lot of counting!"
+msgstr "ライオン、イボイノシシ、鳥、シマウマ、レイヨウ、キリン、水牛、ぞうの数を数えましょう。たくさん数えられるものがありますね！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most of the animals start to run away from the lion. Which animals will stay?"
+msgstr "ほとんどの動物はライオンから逃げ始めました。どの動物が残っているでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is drinking water with the lion."
+msgstr "１匹のぞうがライオンと一緒に水を飲んでいます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The elephant, birds, fish, and frogs did not run away."
+msgstr "ぞう、鳥、魚、カエルは、逃げませんでした。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you run away from a lion?"
+msgstr "あなたはライオンから逃げますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would it be fun to go for a swim in this watering hole?"
+msgstr "この水飲み場に泳ぎに行くのは楽しいでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Izinzawu family was a happy family. The children learned cooking, gardening, and hunting from their parents."
+msgstr "イザンザウ家は幸せな家族だった。子供たちは両親から料理、園芸、狩猟を学んだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do plants need watering?"
+msgstr "どうして植物には水やりが必要なの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name the colors in this picture."
+msgstr "この絵の中で使われている色を指さして名前を言おう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the green colors in this picture similar and how are they different?"
+msgstr "この絵で使われている緑色はどのように似ていて、どのように違う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At dinner time every day, they talked about what they had done that day."
+msgstr "毎日夕食時に、彼らはその日にしたことについて話した。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. The tablecloth has a checkerboard design with lots of squares. Find some squares in a pattern where you are."
+msgstr "正方形とは、このページのように4つの辺が等しい形のこと。テーブルクロスは、正方形がたくさん並んだチェック模様になっている。君のいる場所で、正方形の模様を見つけよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name the shapes you see in this picture."
+msgstr "この絵の中で見つけられる形は何かな。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This family talks about their day at dinner. What do you talk about when you eat dinner?"
+msgstr "この家族は夕食時にその日のことを話す。君は夕食の時、どんな話をする？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father usually warned the children not to go deep into the forest. He told the family about a strange creature that lived in the forest. \"This creature is like two of us put together!\""
+msgstr "父親は普段から、子供たちに森の奥に行かないようにと注意していた。父親は家族に、森に住む不思議な生き物の話をした。「この生き物は私たち2人を合わせたようなものだ！」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe what you think the father's \"strange creature\" might look like."
+msgstr "父親が言う「不思議な生き物」はどんな姿をしていると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the different patterns you see in this picture?"
+msgstr "この絵にはどんな模様があるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the bowls on this page different from the bowls on the last page?"
+msgstr "このページのお椀は前のページのお椀とどう違う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, the girls were playing at the river. Suddenly, from behind a tree, there was a strange creature! The creature had two eyes, two ears, two arms, and two legs."
+msgstr "ある日、女の子たちは川で遊んでいた。突然、木の陰から不思議な生き物が現れた！その生き物は目が2つ、耳が2つ、腕が2本、足が2本あった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the \"strange creature\" look like what you imagined?"
+msgstr "その「不思議な生き物」は、君が想像していた通りかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the number of children in this picture."
+msgstr "この絵にいる子供たちを指さして数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shaking with fear, they ran to tell their brothers about what they had seen. But the boys didn't believe them. \"The girls are being silly!\" they said."
+msgstr "恐怖に震えながら、女の子たちは兄弟たちに見たことを伝えに走った。しかし兄弟たちは信じなかった。「女の子たちはふざけている！」と彼らは言った。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four children and four heads. How many legs do you see? How many arms do you see? Is that surprising?"
+msgstr "子供が4人、頭が4つ。足は何本見える？腕は何本見える？それに驚いた？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more girls or boys in this picture?"
+msgstr "この絵には女の子と男の子のどちらが多い？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their mouths and eyebrows. What do their faces tell you about what these children are thinking and feeling?"
+msgstr "子供たちの口と眉を見てみよう。子どもたちの表情から、彼らは何を考え、何を感じているのか分かる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eventually, curiosity got the better of the boys. They followed the girls to the river to see this strange creature for themselves."
+msgstr "やがて、男の子たちは好奇心に負けた。自分たちの目でこの不思議な生き物を見ようと、女の子たちの後を追って川へ向かった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from their size in the picture that the girls are far away and the boys are nearby?"
+msgstr "この絵に描かれている子供たちの大きさから、女の子たちが遠くにいて男の子たちが近くにいることがどうやって分かる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the girls far away behind some bushes?"
+msgstr "どうして女の子たちは茂みの奥にいるの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The grass, bushes, and trees are different shades of green. Are there different shades of some color where you are?"
+msgstr "草、茂み、木々の緑の濃さが違う。君のいる場所にも、濃淡の異なる色がある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They searched and searched, but all they could see was the tall grass and trees.\n"
+"\n"
+"Suddenly, they heard a noise, and looked up."
+msgstr ""
+"探しても探しても、見えるのは背の高い草や木だけだった。\n"
+"\n"
+"すると突然、物音がしたので見上げた。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think made that noise above them?"
+msgstr "あの音は何だと思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of things make noises above our heads?"
+msgstr "私たちの頭上で音を立てるのはどんなものだろう？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That is really tall grass! What part of their bodies does the grass reach up to?"
+msgstr "本当に背の高い草だ！彼らの体のどの部分まで草が伸びているのだろう？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Up on a tree swung the strangest creature they had ever seen. It had two arms, two hands, two legs and two feet. Instead of one each, like them."
+msgstr "木に登ったその生き物は、見たこともないような不思議なものだった。その生き物は2本の手と2本の足を持っていた。彼らのように1本ずつではなく。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many arms, legs, hands, and eyes does each member of the family have?"
+msgstr "彼らの家族にはそれぞれ何本の腕、足、手、目がある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you assume the unseen side of each family member had another arm, leg, hand, and eye, just like the side you could see?"
+msgstr "君は、この家族1人1人の見えない側にも、見えている側と同じように腕や足、手、目があると思い込んでいなかった？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you see only one side of something, it is easy to assume the other side looks the same -- that it is the mirror reflection of what you can see."
+msgstr "何かの片面しか見ていないとき、もう片面も同じように見えると思いがちだ。それは、君が見ているものを鏡に映したようなものなのだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The frightened children ran home to call their parents. Soon the whole family was at the river to see the creature."
+msgstr "怯えた子供たちは家に逃げ帰り、両親を呼んだ。間もなく、家族全員がその生き物を見るために川に集まった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of arms in this picture. If each person had two arms, how many arms would there be?"
+msgstr "この絵の中にある腕の数を数えよう。1人につき2本の腕があるとしたら、何本の腕があるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Arms and legs are called limbs. How many limbs does this family have?"
+msgstr "腕と足は手足と呼ばれる。この家族には何本の手足がある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice that the grass was tall, but now it is short? Did someone cut the grass?"
+msgstr "草が伸びていたのに、今は短いことに気づいた？誰かが草を刈ったの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Don't hurt me! the creature said, as it hid behind the tree. Now the family could only see the creature's one foot, one leg, one hand, one arm and one eye."
+msgstr "「ぼくを傷つけないで！」と生き物は木の陰に隠れながら言った。今、家族にはその生き物の片方の足、片方の手、片方の腕、片方の目しか見えなかった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature is hiding behind a tree. Where are some places you like to hide?"
+msgstr "その生き物は木の陰に隠れている。君はどこに隠れるのが好き？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the creature is halfway behind the tree, it looks just like each of the family members. Why is that?"
+msgstr "その生き物が木の陰に半分隠れると、それぞれの家族にそっくり。なぜだろう？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature feels \"outnumbered.\" How many people are in the family and how many creatures are there? Which is more and which is less?"
+msgstr "その生き物は「多勢に無勢だ」と感じている。家族は何人いて、生き物は何人いる？どちらが多く、どちらが少ない？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I am just like you, continued the creature. \"The only difference is that I was made with two of almost everything.\""
+msgstr "「ぼくは君たちと同じ。」とその生き物は続けていった。「唯一の違いは、ほとんどすべてのものにおいて、ぼくは2つ持っていることだよ。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which body parts do you have two of and which do you have one of?"
+msgstr "君の体で2つあるものと、1つしかないものは何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For the body parts you have one of, are they on the sides or the middle line of your body?"
+msgstr "君が1つだけ持っている体の部位は、体の側面にあるかな、それとも中央にあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of someone you know. List three ways they are similar to you and three ways that they are different."
+msgstr "君の知り合いを思い浮かべてみよう。君と似ている点を3つ、違う点を3つ挙げてみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So this was how the Izanzawu family discovered that it was not a creature to be scared of. It was simply a different form of them."
+msgstr "こうしてイザンザウ一家は、その生き物が恐ろしいものではないことを知った。それは単に彼らと異なる姿だったのだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature has a striped shirt with two colors and everyone else's shirt has just one. Why did the writer do that?"
+msgstr "その生き物は2色の縞模様のシャツを着ているのに、他の人のシャツは1色しかない。作家はなぜそんなことをしたのだろう？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are six people in the Izanzawu family. When you add one more for the \"creature,\" how many people are there?"
+msgstr "イザンザウ家は6人。さらに「生き物」を1人加えると何人になる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
+msgstr "この7人を身長順に並べ、背の低い人を左、高い人を右にすると、どのような順番になる？この順番を服の色を使って説明しよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drum has always been an important musical instrument in our community. We love drums!\n"
+"\n"
+"We have drums of different sizes: big, medium-sized, and small."
+msgstr ""
+"ドラムは、私たちのコミュニティでずっと重要な楽器だよ。私たちはドラムが大好き！\n"
+"\n"
+"異なるサイズのドラムがあるね。大きいのと中くらいの、そして小さいの。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of things that have the same shape with different sizes. Perhaps one big and one small, or three with big, medium, and small."
+msgstr "同じ形で、異なるサイズがあるものを考えてみて。大きいもの1つと小さいもの1つや、大、中、小の3サイズがあるものなど。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of stories about three things. Some examples are: The Three Little Pigs and Goldilocks."
+msgstr "3つのものに関するお話を考えてみよう。3匹の子ブタやゴルディロックスと3匹のクマが例だよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever beat on a drum? Which of these three would you choose?"
+msgstr "ドラムをたたいたことはある？この3つのドラムからどれを選ぶ？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We play drums using beaters, or with our fingers.\n"
+"\n"
+"We play drums for various reasons: We play drums with songs and dances, for feasts, and in bad times."
+msgstr ""
+"ドラムを棒や指で演奏するよ。\n"
+"\n"
+"ドラムは様々な場面で演奏されるんだ。歌やダンスに合わせたり、お祝いのときやよくないことがあるときにも演奏される。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People use drums to make rhythms. Make up your own rhythm and count it. For example:  (clapping for each number) \"1, 2, pause, 3, 1, 2, pause 3.\""
+msgstr "人はリズムを作るのにドラムを使うね。自分のリズムを作り出してそれを数えよう。例えば、(数字のところで手拍子して)「1、2、休み、3、1、2、休み、3」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you suppose a beater sounds different than using fingers?"
+msgstr "棒でたたくと、指でたたくのとどのように音が違うと思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does the small drum sound different than the large one?"
+msgstr "小さいドラムは、大きいドラムとどのように音がちがうかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Drums enrich songs and make people want to dance. Drums make ceremonies colorful.\n"
+"\n"
+"We play drums during ceremonies for marriage and child naming. We play drums when celebrating a new harvest or a twin birth."
+msgstr ""
+"ドラムは歌を豊かにして、人々を踊りたくさせるね。それに儀式を華やかにしてくれる。 \n"
+"\n"
+"結婚式や子供の命名式でドラムを演奏するよ。収穫祭や双子の誕生を祝うときもドラムが演奏される。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People are wearing special wedding clothes. Count together the people wearing orange."
+msgstr "人々は結婚式のための特別な服を着ているね。オレンジ色を着ている人を一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color are the drummers wearing?"
+msgstr "ドラム奏者はどの色を着ているかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the people at the wedding. Can you count that high?"
+msgstr "結婚式にいる全ての人を数えよう。大きな数まで数えられるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We sound drums to announce grief and call people when death occurs."
+msgstr "誰かが亡くなったとき、深い悲しみを表したり、人々をよぶのにドラムを鳴らす。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does sad drumming sound like? Can you make a soft, sad rhythm with your hands?"
+msgstr "ドラムの悲しい演奏はどんな音色かな？自分の手を使って、やわらかくて悲しいリズムを作れるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many kinds of drumming, such as soft background rhythms or fast loud rhythms. Which kinds of drumming have you heard?"
+msgstr "ドラムには色んな演奏があるよ。例えば、おだやかな伴奏のリズムや速くて大きな音のリズムなど。どのようなドラムの演奏を聞いたことがあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does a drumbeat make you want to dance?"
+msgstr "ドラムのビートでダンスしたくなる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We sound drums to call people to clean wells, clear roads, or to build a hut for a needy old person.\n"
+"\n"
+"We sound drums to call people when cattle are stolen in our village."
+msgstr ""
+"井戸の掃除や道路整備のとき、または貧しいお年寄りに小屋を建てるときに人をよぶのに、ドラムを鳴らすよ。\n"
+"\n"
+"村で牛が盗まれたときに人をよぶのにも、ドラムを鳴らすんだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where you live, what sound or method do people use to call people together for food, school, or special events?"
+msgstr "きみの住む所では、食事や学校、特別な行事などで人をよび集めるときに、どんな音や方法を使っているかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you rather beat the drum or do the work?"
+msgstr "ドラムをたたく方がいい？それとも何かに取り組んでいる方がいい？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of tools people are using in this picture."
+msgstr "この絵で使われている道具の数を一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We sound drums to gather for meetings at our chief's palace."
+msgstr "首長のおやしきでの集会に集まるためにドラムを鳴らす。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is something in this picture that shows this is a special place?"
+msgstr "この絵の中の何を見て、この場所が特別であることが分かる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many people are gathering in this picture?"
+msgstr "この絵では、何人の人々が集まっているかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you think the chief will sit?"
+msgstr "首長はどこに座ると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Drums call people to go to church for prayers on Sundays and other prayer days.\n"
+"\n"
+"We also play drums to enrich songs when singing in churches."
+msgstr ""
+"日曜日や他のお祈りの日、教会にお祈りに行くようドラムで人々によびかける。\n"
+"\n"
+"教会で歌を歌うときにも、ドラムを鳴らして歌をよりよくする。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Items made from wood come from trees. Which items in this picture are made of wood?"
+msgstr "木製のものは木からできているね。この絵の中で、木でできているものはどれかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which things are made of wood where you are?"
+msgstr "きみのいる場所では、どんなものが木でできているかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are straps on the drums in each picture. Why are the straps useful?"
+msgstr "どの絵でもドラムにはひもが付いているね。どうしてひもが役に立つのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The big drum sounds, \"An a bul mba, an a bul mba, an a bul mba-mba-mba-mba bul.\"\n"
+"\n"
+"The small drums sing in their high pitches, \"Tindiri, tindiri tindiri ti.\"\n"
+"\n"
+"Together they chorus, \"Tindiri mba, tindiri mba, tindiri mba-mba-mba-mba, tindiri ti!\""
+msgstr ""
+"大きなドラムは、「アナブルンバ、アナブルンバ、アナブルンバ　ンバ　ンバ　ンバ　ブル」と鳴る。\n"
+"\n"
+"小さいドラムは高い音で、「ティンディリ、ティンディリ、ティンディリ、ティ」と歌うんだ。\n"
+"\n"
+"2つ一緒に、「ティンディリ　ンバ、ティンディリ　ンバ、ティンディリ　ンバ　ンバ　ンバ　ンバ　ティンディリ　ティ！」と合唱する。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A duet is when two intruments are played together. Have you sung duets with your family or friends?"
+msgstr "2つの楽器が一緒に演奏されると、デュエットになるね。家族や友達とデュエットで歌ったことはあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a clapping duet. One person starts with a clapping pattern, and then the other person creates a clapping pattern that goes well with it."
+msgstr "手拍子でデュエットをしてみよう。一人がある手拍子のパターンを始めて、もう一人がそれに合う手拍子のパターンを作ってみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you hear music, listen for the instruments that create the beat."
+msgstr "音楽を聞くときに、拍子を作っている楽器を聴こう。"
 
