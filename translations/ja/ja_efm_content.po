@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-28 05:45\n"
+"PO-Revision-Date: 2025-04-28 12:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2317,4 +2317,59 @@ msgstr ""
 "この子はネコ。\n"
 "\n"
 "この子はイヌ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In my village lives Mister Kio. Mister Kio has a cat called Safi."
+msgstr "私の村にはキオさんが住んでいます。キオさんはサフィという猫を飼っています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out and name each of the strong colors on this page."
+msgstr "このページで使われている強い色をそれぞれ指さして色の名前を言ってください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which has the least number of legs -- the table, Mr. Kio, or Safi?"
+msgstr "テーブル、キオさん、サフィのうち、足の数が最も少ないのはどれですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of Safi's legs can you see? How many can't you see?"
+msgstr "サフィの足は何本見えますか？何本隠れていますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio goes to work, he leaves the door open."
+msgstr "キオさんはドアを開けたまま、仕事に行きます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are the two things that used to be hanging on the pegs by the door?"
+msgstr "以前、ドアの横の壁掛けにかかっていた2つのものはどこにありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that Safi looks happy when Mr. Kio leaves?"
+msgstr "キオさんが出かけるときに、サフィが嬉しそうな顔をしているのに気づきましたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is odd that  Mr. Kio leaves the door open when he leaves."
+msgstr "キオさんが出かけるときに、ドアを開けたままにしているのはおかしいですね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi sits in the doorway to watch over the house."
+msgstr "サフィは玄関に座って家を見守ります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. This floor is tiled with square tiles."
+msgstr "正方形とはこのページのように4つの辺が等しい形のことです。この床は正方形のタイルが貼られています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have tiles where you live? If so, what shape are they?"
+msgstr "あなたが住んでいる場所にはタイルがありますか？もしあれば、どんな形ですか？"
 
