@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-28 02:43\n"
+"PO-Revision-Date: 2025-04-28 03:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -913,4 +913,312 @@ msgstr "絵の中にある、他の丸いものを指さそう。"
 msgctxt "data_list"
 msgid "How many rooms does their house seem to have?"
 msgstr "家にはいくつの部屋があると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"ネコとイヌはボールを持っているよ。\n"
+"\n"
+"赤色、青色、緑色のボールだよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "ボールの色の数を一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "ネコやイヌの色ではないボールの色はどれかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "君がいる場所に、このボールのような縞模様のものはあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog.\n"
+"\n"
+"Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Cat.\n"
+"\n"
+"Cat catches the ball."
+msgstr ""
+"ネコとイヌはボールで遊んでいるよ。\n"
+"\n"
+"ネコはイヌにボールを投げる。\n"
+"\n"
+"イヌがボールを捕る。\n"
+"\n"
+"イヌがネコにボールを投げる。\n"
+"\n"
+"ネコがボールを捕る。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times did they throw the ball?"
+msgstr "彼らは何回ボールを投げたかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like playing with balls? Do you throw them, catch them, or kick them?"
+msgstr "君はボール遊びが好きかな？ 投げたり、捕ったり、蹴ったりする？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can real cats and dogs play catch with a ball? How can they play with balls?"
+msgstr "本物のネコとイヌはキャッチボールができるかな？ どうやってボールで遊べるのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat throws the ball very high.\n"
+"\n"
+"Oh! Oh!"
+msgstr ""
+"そしてネコはとても高いボールを投げた。\n"
+"\n"
+"おや！おや！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Dog. How much higher than Dog did Cat throw it?"
+msgstr "ボールはイヌより高い。 ネコはイヌよりどのくらい高く投げたのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat mean to do that? How can you tell from Cat's face?"
+msgstr "ネコはそんなつもりで投げたの？ ネコの顔を見れば分かるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball sometimes not go where you want it when you play catch?"
+msgstr "キャッチボールをするとき、ボールが思い通りにいかないことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball is on the roof.\n"
+"\n"
+"The ball is on the roof of the house."
+msgstr ""
+"ボールは屋根の上にある。\n"
+"\n"
+"家の屋根の上にある。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The roof is slanted. Does the ball look like it would roll off the roof?"
+msgstr "屋根が斜めになっている。 ボールが屋根から転がり落ちるように見える？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are Cat and Dog?"
+msgstr "ネコとイヌはどこにいるの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the shape of the ball and the house similar and how are they different?"
+msgstr "ボールの形と家の形はどのように似ていて、どのように違うかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog can see the ball.\n"
+"\n"
+"Cat and Dog cannot get to the ball.\n"
+"\n"
+"How will they get the ball down?"
+msgstr ""
+"ネコとイヌにはボールが見える。\n"
+"\n"
+"ネコとイヌはボールに近づけない。\n"
+"\n"
+"どうやったらボールを下に落とせるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is too high for Cat and Dog to reach. How will they solve this problem?"
+msgstr "ネコとイヌにはボールが高すぎて届かない。 どうやってこの問題を解決するのだろう？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What can you do to get something that is too high? Would you ask for help?"
+msgstr "高すぎるものを手に入れるにはどうしたらいい？ 君なら助けを求める？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball look bigger than it did when they were throwing it?"
+msgstr "ボールは、投げていた時よりも大きく見えるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog are sad.\n"
+"\n"
+"They want to find something tall to reach the ball.\n"
+"\n"
+"Then Elephant comes by."
+msgstr ""
+"ネコとイヌは悲しんでいる。\n"
+"\n"
+"彼らはボールに届く高さのあるものを見つけたがっている。\n"
+"\n"
+"そこにゾウがやってきた。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog are crying. Is their crying helping them solve their problem?"
+msgstr "ネコとイヌが泣いているよ。泣くことで問題を解決できるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the big animals, birds, and trees in the picture."
+msgstr "絵の中の大きな動物、鳥、木を一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can Elephant help them? Is the elephant tall?"
+msgstr "ゾウはどうやって彼らを助けるのかな？ ゾウは背が高い？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant is big.\n"
+"\n"
+"Elephant can see the ball.\n"
+"\n"
+"Elephant can get to the ball.\n"
+"\n"
+"Elephant gets the ball from the roof.\n"
+"\n"
+"Elephant takes the ball from the roof of the house."
+msgstr ""
+"ゾウは大きい。\n"
+"\n"
+"ゾウにはボールが見える。\n"
+"\n"
+"ゾウはボールに近づける。\n"
+"\n"
+"ゾウは屋根からボールを取る。\n"
+"\n"
+"家の屋根からボールを取る。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Elephant. How does Elephant reach the ball?"
+msgstr "ボールはゾウより高い。 ゾウはどうやってボールに届くのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The animals are all standing on two of their four legs. Have you seen animals do this?"
+msgstr "動物たちはみんな、4本の足のうち2本で立っている。 動物がこんなことをするのを見たことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What other animals stand on two legs?"
+msgstr "他に2本足で立つ動物は何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant gives the ball to Cat and Dog.\n"
+"\n"
+"Cat and Dog smile. Elephant smiles.\n"
+"\n"
+"Cat and Dog and Elephant smile."
+msgstr ""
+"ゾウがネコとイヌにボールを渡した。\n"
+"\n"
+"ネコとイヌは笑顔になった。ゾウも笑顔になった。\n"
+"\n"
+"ネコとイヌとゾウはみんなニコニコしている。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who has the longest nose? Why does an elephant need such a long nose?"
+msgstr "誰の鼻が一番長いかな？ どうしてゾウはあんなに長い鼻が必要なのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these animals is the biggest and which is the smallest?"
+msgstr "どの動物が一番大きくて、どの動物が一番小さいか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is Elephant different and how is Elephant similar to Cat and Dog? What does Elephant have that they don't?"
+msgstr "ゾウはネコやイヌとどう違い、どう似ているのかな？ ゾウが持っていて、彼らにないものは何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog and Elephant play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog. Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Elephant. Elephant catches the ball.\n"
+"\n"
+"Elephant throws the ball to Cat. Cat catches the ball."
+msgstr ""
+"ネコとイヌとゾウはボールで遊ぶ。\n"
+"\n"
+"ネコがイヌにボールを投げる。イヌがボールを捕る。\n"
+"\n"
+"イヌがゾウにボールを投げる。ゾウがボールを捕る。\n"
+"\n"
+"ゾウがネコにボールを投げる。ネコがボールを捕る。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of throws and the number of catches. Are they the same number?"
+msgstr "投げた数と捕った数を数えてみよう。 同じ数になるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did each animal throw and each animal catch?"
+msgstr "それぞれの動物が投げ、それぞれの動物が捕ったのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are good at taking turns. Are you good at taking turns?"
+msgstr "彼らは交代が上手だね。 君は交代が得意？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye Elephant."
+msgstr ""
+"ばいばい、ネコ。\n"
+"\n"
+"ばいばい、イヌ。\n"
+"\n"
+"ばいばい、ゾウ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of animals waving."
+msgstr "手を振っている動物の数を数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more animals or balls? By how much?"
+msgstr "動物とボール、どちらの方が多いかな？どれくらい多いかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With fewer balls than animals, the animals must be good at sharing."
+msgstr "ボールの数は動物より少ないので、動物たちは一緒に使うのが上手に違いない。"
 
