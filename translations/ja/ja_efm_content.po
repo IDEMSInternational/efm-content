@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-28 04:45\n"
+"PO-Revision-Date: 2025-04-28 05:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1905,4 +1905,416 @@ msgstr "ここには3匹の動物がいる。トカゲの赤ちゃんを取り�
 msgctxt "data_list"
 msgid "What are some round shapes you see in this picture?"
 msgstr "この絵の中にある丸い形のものは何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the animals together and describe their colors."
+msgstr "一緒に動物を数えて、体の色を説明しよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has shorter ears? Which one has longer ears?"
+msgstr "どっちの耳が短い？どっちの耳が長い？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has short whiskers? Which one has long whiskers?"
+msgstr "どっちのひげが短い？どっちのひげが長い？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is night. It is dark.\n"
+"\n"
+"It is cold. It is very cold."
+msgstr ""
+"夜だ。暗い。\n"
+"\n"
+"寒い。とても寒い。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their house is round. Do you live in a round building?"
+msgstr "彼らの家は丸い。あなたは丸い建物に住んでいる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the trees together."
+msgstr "一緒に木を数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A full moon forms a complete circle. A moon that is a partial circle like this is called a crescent moon."
+msgstr "満月は完全な円の形だ。このように、部分的に円の形をした月は三日月と呼ばれる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For Dog it is too cold."
+msgstr "イヌにとっては寒すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What shows you that Dog is cold?"
+msgstr "イヌが寒がっていることを示すものは何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A light blue color is often used to show something cold. Does seeing blue make you feel cold?"
+msgstr "水色はよく冷たいものを表すのに使われる。君は青を見ると寒く感じる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On cold nights, even outdoor animals can use help with the cold."
+msgstr "寒い夜には、屋外の動物たちも寒さをしのぐのに助けを必要とする。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog underwear.\n"
+"\n"
+"One pair of underwear is dirty. One pair of underwear is clean."
+msgstr ""
+"ネコはイヌに下着をあげる。\n"
+"\n"
+"1組の下着は汚れている。もう1組の下着はきれいだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this choice of underwear very helpful?"
+msgstr "下着をあげることは助けになるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it silly that Cat offers underwear that is dirty?"
+msgstr "ネコが汚れた下着をあげるのは愚かなことかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why isn't Cat cold?"
+msgstr "どうしてネコは寒くないの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog takes the clean underwear. But it is still too cold."
+msgstr "イヌはきれいな下着を選んだ。でも、まだ寒すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together how much clothing Dog has. Dog is cold and needs more."
+msgstr "イヌが着ている服を一緒に数えよう。イヌは寒いのでもっと必要。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Remember a time when you were cold and how hard it was to get warm."
+msgstr "君が、寒くて暖かくなるのが大変だったときのことを思い出そう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are Dog's arms crossed in front?"
+msgstr "どうしてイヌは腕を前で組んでいるの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat gives Dog shirts. One shirt is big. One shirt is small."
+msgstr "ネコがイヌにシャツをあげる。1枚のシャツは大きい。もう1枚のシャツは小さい。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is offering a shirt that is much too small helpful?"
+msgstr "小さすぎるシャツをあげることは助けになるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Cat trying to help, or is Cat just having some fun?"
+msgstr "ネコは助けようとしているのかな、それとも楽しんでいるだけなのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of Cat's paws has more visible claws?"
+msgstr "ネコの前足のどっちの爪の方が目立つ？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog takes the big shirt. But it is still too cold."
+msgstr "イヌは大きいシャツを選んだ。でも、まだ寒すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the pieces of clothing Dog has. Is it enough?"
+msgstr "イヌが着ている服を一緒に数えよう。これで十分かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like a piece of paper with four equal sides. Compare the round moon with the square window."
+msgstr "正方形は、4つの等しい辺を持つ紙のような形だ。丸い月と四角い窓を見比べてみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a round window?"
+msgstr "君は丸い窓を見たことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog pants.\n"
+"\n"
+"One pair of pants is long. One pair of pants is short."
+msgstr ""
+"ネコはイヌにズボンをあげる。\n"
+"\n"
+"1組のズボンは長い。もう1組のズボンは短い。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many pieces of clothing does Cat offer each time?"
+msgstr "ネコは毎回何着の服をあげている？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you are cold, do you want to wear shorts?"
+msgstr "寒いときに短パンを履きたくなる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will happen with Dog's tail? Do these pants have a hole for Dog's tail?"
+msgstr "イヌのしっぽはどうなる？このズボンにはイヌのしっぽを通す穴がある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog takes the long pair of pants. But it is still too cold."
+msgstr "イヌは長いズボンを選んだ。でも、まだ寒すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each time, Dog gets one more piece of clothing. How many pieces does Dog have on now?"
+msgstr "毎回、イヌは服を1枚ずつ増やす。今、イヌはいくつ着ているかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many pieces will Dog need?"
+msgstr "イヌは何枚の服が必要？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think there is any way Dog will get warm?"
+msgstr "イヌが暖かくなる方法があると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog vests. One vest is wet, one vest is dry.\n"
+"\n"
+"Dog takes the dry vest, but it is still too cold."
+msgstr ""
+"ネコはイヌにベストをあげる。片方のベストは濡れていて、もう片方のベストは乾いている。\n"
+"\n"
+"イヌは乾いたベストを選んだけど、まだ寒すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does having something wet on make you feel warmer or colder?"
+msgstr "濡れたものを着ていると、暖かく感じるかな？それとも、寒く感じるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog had three pieces of clothing on. The vest is one more. How many does that make?"
+msgstr "イヌは3着の服を着ていた。それにベストがもう1着。これで何着になる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With the vest, Dog has four pieces of clothing. Before he put the vest on, he had one less. How many was that?"
+msgstr "イヌは、ベストを含めて4着の服を持っている。ベストを着る前は1着少なかった。前は何着だったのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog jackets. One jacket is thick, one jacket is thin.\n"
+"\n"
+"Dog takes the thick jacket, but it is still too cold."
+msgstr ""
+"ネコはイヌにジャケットをあげる。片方のジャケットは厚くて、もう片方のジャケットは薄い。\n"
+"\n"
+"イヌは厚いジャケットを選んだけど、まだ寒すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Thicker clothing helps you keep heat in and stay warmer."
+msgstr "厚手の服は熱を逃がさず、より暖かく過ごせる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the color of the jacket look odd with Dog's other clothes?"
+msgstr "ジャケットの色は、イヌの他の服に合うかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog now has one more than four. How many is that?"
+msgstr "イヌは今4着よりも1着多く着ている。これで何着になるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog hats. One hat is high, one hat is low.\n"
+"\n"
+"Dog takes the high hat, but it is still too cold."
+msgstr ""
+"ネコはイヌに帽子をあげる。片方の帽子は高くて、もう片方の帽子は低い。\n"
+"\n"
+"イヌは高い帽子を選んだけど、まだ寒すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the short hat and the tall hat."
+msgstr "低い帽子と高い帽子を指さそう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does it matter which hat Dog chooses? Is one hat warmer than the other?"
+msgstr "イヌがどちらの帽子を選ぶかは重要かな？一方の帽子の方が暖かいのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any hats? If so, do you like to wear them?"
+msgstr "君は帽子を持っている？もしあれば、それをかぶるのが好き？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat gives Dog shoes.\n"
+"\n"
+"One pair of shoes is new, one pair of shoes is old."
+msgstr ""
+"ネコはイヌに靴をあげる。\n"
+"\n"
+"1組の靴は新しくて、もう1組の靴は古い。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To give someone a choice, how many things do you need? Would having one thing be enough for a choice?"
+msgstr "誰かに選択肢を与えるためには、いくつ必要かな？選択肢を与えるには、1つあれば十分かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A person can be baffled if you give them too many things to choose from."
+msgstr "あまりに多くの選択肢を与えると、人は困惑してしまう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog is still cold. Why are Dog's choices not helping?"
+msgstr "イヌはまだ寒い。どうしてイヌの選択は役に立たないのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dogs takes the new shoes, and then ...\n"
+"\n"
+"It is not too cold for Dog."
+msgstr ""
+"イヌが新しい靴を手にすると、、、\n"
+"\n"
+"イヌはもう寒くない。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What changed outside the window?"
+msgstr "窓の外で何が変わったかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why isn't Dog cold any more? Did his clothes help make him warm?"
+msgstr "どうしてイヌは寒くないの？服を着たことで暖かくなったの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is the moon and what is that on the horizon in the window?"
+msgstr "月はどこにあり、窓の地平線にあるのは何だろう？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The night is over.\n"
+"\n"
+"The moon goes. The sun comes."
+msgstr ""
+"夜が終わった。\n"
+"\n"
+"月は去る。太陽が来る。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the palm trees together."
+msgstr "ヤシの木を一緒に数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the round, yellow sun. Is the moon always gone when the sun comes up?"
+msgstr "丸くて黄色い太陽を指さそう。太陽が昇るとき、月はいつも消えているの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the moon always visible at night?"
+msgstr "月はいつも夜に見えるの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is day. It is light. It is warm. It is very warm.\n"
+"\n"
+"For Dog it is too warm."
+msgstr ""
+"昼だ。明るい。暖かい。とても暖かい。\n"
+"\n"
+"イヌには暖かすぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "List all the pieces of clothing Dog has on."
+msgstr "イヌが着ている服をすべて挙げよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Dog doing with his right hand? What motion do you use to try to cool off?"
+msgstr "犬は右手で何をしているの？君はどんな動きで涼もうとする？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are Dog's clothes finally making him warm, or too warm?"
+msgstr "イヌは服を着てようやく暖かくなったのかな？それとも暖かすぎるのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye hot Dog."
+msgstr ""
+"ばいばいネコ。\n"
+"\n"
+"ばいばいイヌ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count Cat's whiskers. How many whiskers does Dog have?"
+msgstr "ネコのひげを数えよう。イヌのひげは何本？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who has more whiskers -- Cat or Dog? They have the same number, but Dog's whiskers are small."
+msgstr "ネコとイヌ、ひげが多いのはどっち？同じ数だけど、イヌのひげは小さい。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In the end, how many pieces of clothing does Dog have? Too many!"
+msgstr "結局、イヌは何着の服を着ているんだ？多すぎる！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is Cat.\n"
+"\n"
+"This is Dog."
+msgstr ""
+"この子はネコ。\n"
+"\n"
+"この子はイヌ。"
 
