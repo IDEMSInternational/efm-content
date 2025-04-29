@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-29 17:52\n"
+"PO-Revision-Date: 2025-04-29 18:51\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3728,6 +3728,11 @@ msgstr "このお話は7までの数え方、関係を表す言葉、そして�
 msgctxt "data_list"
 msgid "Where Is My Cat?"
 msgstr "私の猫はどこですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
+msgstr "このお話は５までの数え方、関係を表す言葉、色が登場します。練習する単語：5までの数字、下、上、超える、後ろ、隣、内側、外側、色の名前、まっすぐ、曲がる。"
 
 #. type=data_list
 msgctxt "data_list"
