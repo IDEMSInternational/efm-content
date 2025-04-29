@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-29 18:51\n"
+"PO-Revision-Date: 2025-04-29 21:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3533,6 +3533,11 @@ msgstr "このお話には、速さの描写、色、6までの数え方が含�
 msgctxt "data_list"
 msgid "Cat and Dog and the Egg"
 msgstr "ネコとイヌ そしてタマゴ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, comparing, colors, and shapes. Practice words: round, above, below, similar, round, kite, different, bigger, and longer."
+msgstr "このお話には、5までの数え方、比較、色、形が含まれています。 練習単語：丸い、上、下、似ている、丸い、凧、違う、より大きい、より長い。"
 
 #. type=data_list
 msgctxt "data_list"
