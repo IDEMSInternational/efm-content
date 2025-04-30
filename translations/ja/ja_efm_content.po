@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-30 22:29\n"
+"PO-Revision-Date: 2025-04-30 23:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5373,6 +5373,301 @@ msgstr "ゾウを見たことはある？ この絵のゾウみたいだった�
 msgctxt "data_list"
 msgid "There are two patches of hair on this elephant. Do elephants actually have hair like this?"
 msgstr "このゾウには、毛が生えているところが2か所あるね。本当のゾウにも、こんな毛が生えているのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But a long time ago, the elephant's nose was short and fat. Like a shoe in the middle of its face."
+msgstr "でもずっと昔、ゾウの鼻は短くて太かった。まるで、顔の真ん中にくつがあるみたいに。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants have 5 toes on each foot. How many toes in total? One way to figure this out is to skip count by 5's -- 5, 10, 15, 20."
+msgstr "ゾウはそれぞれのあしに5本の指があるよ。ぜんぶ合わせると何本の指になるかな？ 解き方の1つは、5、10、15、20というように5とびで数えることだね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants have large ears and can hear sounds up to six miles away."
+msgstr "ゾウには大きな耳があって、6マイル (約9,66km) はなれたところの音まで聞こえるよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants also use their ears to keep cool."
+msgstr "ゾウの耳は体を冷やすのにも使われるんだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day a baby elephant was born. She was curious about everything. She had a question for every animal."
+msgstr "ある日、赤ちゃんゾウが生まれたよ。そのゾウは何でも知りたがった。どの動物にも聞きたいことがあったんだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even numbers are numbers that can be split evenly in two. Odd numbers can't. The elephant has 2 eyes, 2 ears, and four legs -- all even numbers."
+msgstr "偶数は2つに均等にわけられる数だね。奇数はそのようにわけられないよ。ゾウには目が2つ、耳が2つ、足が4本あって、これらはすべて偶数だね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Find some things in this picture that there are an odd number of."
+msgstr "この絵の中で、数が奇数であるものを探してみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that all the body parts that there are an odd number of are in the middle of the elephant's body."
+msgstr "ゾウの部位で奇数のものは、体や顔の真ん中にあることに注目してね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Giraffe. \"Why do you have a long neck?\" she asked."
+msgstr "キリンについて知りたくなった。「どうして首が長いの？」と聞いたよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count the Giraffe's dark spots, or are there too many to count?"
+msgstr "キリンの黒い模様を数えられる？ それとも数えるには多すぎる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No two giraffe's have the same pattern of dark spots!"
+msgstr "どのキリンにもそれぞれ違った模様があるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think it takes a giraffe a long time to swallow its food because it has such a long neck?"
+msgstr "長い首のせいで、食べ物を飲みこむのにとても時間がかかると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Rhino. \"Why does your horn have a sharp point?\""
+msgstr "サイについて知りたくなった。「どうして角の先がとがっているの？」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rhino can run about half as fast as a car on a highway."
+msgstr "高速道路を走る車の約半分の速さで、サイは走ることができるよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rhino can run three times faster than a person, so don't try to run away from one!"
+msgstr "サイは人間よりも3倍速く走れるよ。だから、サイから走ってにげようとしないでね！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The elephant was curious about the rhino. Are you? What would you like to ask the rhino?"
+msgstr "ゾウはサイに興味があるね。きみはどうかな？ サイに何を聞いてみたい？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Hippo. \"Why do you have red eyes?\" she asked."
+msgstr "カバについて知りたくなった。「どうして目が赤いの？」と聞いたよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hippos can fill up on grass and then not eat for three weeks! How many days is that? Hint: Skip count by 7's."
+msgstr "カバは草でおなかをいっぱいにしてから、3週間食べないでいられるよ！ 3週間は何日分かな？ ヒント: 7とびで数える"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long can you go without eating?"
+msgstr "きみは、どのくらいの間食べないでいられる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Every animal we've seen has a bit of hair at the end of its tail. They are all mammals, and mammals have hair! Even the bowhead whale has hair on its lips, chin, snout, and behind its blowhole."
+msgstr "これまで見てきた動物はみんな、しっぽの先に毛があるね。この動物たちはすべてほ乳類だよ。ほ乳類には毛があるね！ ホッキョククジラだって、くちびる、あごや鼻、それからふん気こうの後ろに毛があるよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And she was VERY curious about Crocodile. \"What does Crocodile eat for dinner?\" she asked."
+msgstr "そして、クロコダイルについてすごく知りたくなった！「クロコダイルは晩ごはんに何を食べるの？」と聞いたよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many teeth can you see? If it has the same number of teeth on the other side of its mouth, how many would that be all together?"
+msgstr "歯は何本見えるかな？ 口の反対側にも同じ数の歯があるとしたら、みんなでいくつになるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think is on his dinner plate under the cover?"
+msgstr "ふたを取ると、何がお皿の上にのっていると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which is more and which is less: Crocodile's teeth or the bumps on Crocodile's tail?"
+msgstr "どちらの数が多くて、どちらの数が少ないかな？ クロコダイルの歯、それともしっぽのギザギザ？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Never ask a question like that!\" said her mother. Then she walked off, frowning."
+msgstr "「そんなこと聞かないで！」とお母さんは言ったよ。しかめっ面をして、歩いていっちゃった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many groups of things in this picture, such as groups of ears, eyes, and eyelashes. How many different groups can you find?"
+msgstr "この絵では、耳や目、まつ毛などのたくさんの仲間わけができるね。きみは、いくつ違うグループを見つけられるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the mother say not to ask such a question?"
+msgstr "どうしてお母さんはそんな質問をしないでと言ったのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the eyelashes on both elephants by skip counting by 3's. What would you skip count by to count their feet?"
+msgstr "両方のゾウのまつ毛を3とびで数えよう。足はいくつのとび数えで数えたらいいかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Quickly Crow flew down to baby elephant. \"Follow me to the river. There you will see what Crocodile eats for dinner,\" squawked Crow."
+msgstr "すぐにカラスが飛びおりて、「川までついて来て。そうしたら、クロコダイルが晩ごはんに何を食べるかわかるよ。」と鳴いた。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Crow wants to help, or is Crow going to play a trick on Baby Elephant?"
+msgstr "カラスは赤ちゃんゾウを助けたいのだと思う？ それともだまそうとしているのだと思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you follow Crow?"
+msgstr "きみならカラスについていく？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For each of the numbers from one to four, find a group in this picture with that many things in it."
+msgstr "1つだけのものから4つあるものの中で、どのグループにあてはまるものが1番多いか見てみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So the baby elephant followed Crow down to the river."
+msgstr "それで、赤ちゃんゾウは川までカラスについていったよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The yellow path looks narrower in the distance. Things far away often look smaller."
+msgstr "黄色の道は、遠いところではせまくなっているね。遠くはなれたものが小さく見えることはよくあるよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How would you describe the look on Baby Elephant's face?"
+msgstr "赤ちゃんゾウの表情をどんなふうに説明する？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine if you had four feet to control to walk like Baby Elephant. Would it be easier or harder than walking on two feet?"
+msgstr "赤ちゃんゾウのように4本の足を使って歩くと想像してみて。2本の足で歩くより簡単かな？ それとも難しいかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She pushed through the reeds and stood on the bank. She looked into the water. Where was Crocodile?"
+msgstr "草をおしわけて土手に立った。水の中をのぞきこんだよ。クロコダイルはどこなの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are the same things on each side of baby elephant. This is called mirror symmetry, or simply symmetry."
+msgstr "赤ちゃんゾウの両横に同じものがあるね。これは鏡面対称、または対称であるというよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Faces often have mirror symmetry. The flower on baby elephant's face breaks the mirror symmetry of her face."
+msgstr "顔は鏡面対称であることが多いよ。赤ちゃんゾウについている花は、顔の鏡面対称をくずしているね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With mirror symmetry, body parts not on the midline show up in pairs -- for example, two ears, two eyes, and two arms. Because of this, there will be an even number of them."
+msgstr "鏡面対称では、真ん中の線上にないものはペアになっているよ。例えば、2つの耳、2つの目、2本のうでなど。だから、それらは偶数になるね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
+msgstr "「こんにちは」川の土手ちかくの石が言った。「こんにちは」赤ちゃんゾウも言った。「クロコダイルが晩ごはんに何を食べるか教えてくれる？」と聞いたよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Baby Elephant talking to a stone or to Crocodile?"
+msgstr "赤ちゃんゾウは石、それともクロコダイルに話しているの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is it useful to a crocodile to have its eyes stick up above the water when the rest of its body is below the water?"
+msgstr "赤ちゃんゾウは石、それともクロコダイルに話しているの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the circles in this picture. Some parts of some of the circles are blocked from view."
+msgstr "この絵の中で、円をすべて数えよう。ある部分が何かで見えなくなっている円もあるね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
+msgstr "「かがんでごらん。そうしたら教えてあげる。」と石が言った。「もっと下だよ、もっと下だよ。」と石が言った。だから赤ちゃんゾウはもっと下にかがんだよ。それからもっともっと下に。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Uh oh! Why does Crocodile want Baby Elephant to get closer?"
+msgstr "おっと、 どうしてクロコダイルは赤ちゃんゾウにもっと近づいて欲しいのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can the crocodile eat Baby Elephant? Baby Elephant is much bigger than crocodile."
+msgstr "クロコダイルは赤ちゃんゾウを食べられるのかな？赤ちゃんゾウはクロコダイルよりももっと大きいよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then suddenly, \"Snap!\" Baby Elephant's nose was caught in Crocodile's jaws. \"Crocodile will eat YOU for dinner!\" squawked Crow, and flew away."
+msgstr "それからとつぜん、「パチン！」とクロコダイルのあごが赤ちゃんゾウの鼻をつかまえた。「クロコダイルは晩ごはんに『きみ』を食べるのさ！」ガーと鳴いて、カラスは飛びさった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Crow tricked Baby Elephant. Can you think of any stories where someone played a trick on someone else?"
+msgstr "カラスは赤ちゃんゾウをだましたんだね。だれかがだましたお話を何か思いつくかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of a time when someone tricked you?"
+msgstr "だれかにだまされたことはあった？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you noticed the ground Baby Elephant stands on keeps changing color? Which colors have been used so far?"
+msgstr "ゾウの下の地面の色が変わっていっていることに気がついた？ これまで何色が使われたのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baby Elephant sat back on her strong legs and pulled. She pulled, and pulled. But Crocodile did not let go of her nose."
+msgstr "赤ちゃんゾウは、強い足ですわって後ろに引っぱった。引っぱって、さらに引っぱった。それでもクロコダイルは鼻をはなさなかった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Baby Elephant feeling right now?"
+msgstr "赤ちゃんゾウは、今どんな気持ちかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Crocodile feeling right now?"
+msgstr "クロコダイルは、今どんな気持ちかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baby Elephant's nose was described as a shoe in the middle of its face at the start of the story. What does it look like now?"
+msgstr "お話の始めでは、赤ちゃんゾウの鼻は顔の真ん中にあるくつのようだと表していたね。今はどんなふうに見える？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baby Elephant's nose stretched, and stretched, and stretched. Then, \"Thud!\" she fell on her back."
+msgstr "赤ちゃんゾウの鼻はのばされて、のばされて、もっとのばされた。それから、「ドスン！」と後ろにたおれた。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever lost your balance and flipped over with a \"Thud\"?"
+msgstr "バランスがとれなくなって、「ドスン」とひっくり返ったことはあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the lines that curl and swerve in the picture. What are they telling us?"
+msgstr "この絵の中の丸い線や曲がりくねった線を見てね。それらは何を伝えているのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and count all the extra lines added to the picture."
+msgstr "描き足されたそれらの線を、指でさして数えてみよう。"
 
 #. type=data_list
 msgctxt "data_list"
