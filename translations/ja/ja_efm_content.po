@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-04-30 15:00\n"
+"PO-Revision-Date: 2025-04-30 22:29\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5353,6 +5353,26 @@ msgstr "イザンザウ家は6人。さらに「生き物」を1人加えると�
 msgctxt "data_list"
 msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
 msgstr "この7人を身長順に並べ、背の低い人を左、高い人を右にすると、どのような順番になる？この順番を服の色を使って説明しよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Everyone knows that the elephant has a very long nose."
+msgstr "ゾウの鼻がとっても長いのは誰でも知っているね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants live in many places in Africa and Asia. What are some things you know about elephants?"
+msgstr "ゾウはアフリカとアジアに多く住んでいるよ。ゾウについて知っていることは何かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen an elephant? If so, did it look like this?"
+msgstr "ゾウを見たことはある？ この絵のゾウみたいだった？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two patches of hair on this elephant. Do elephants actually have hair like this?"
+msgstr "このゾウには、毛が生えているところが2か所あるね。本当のゾウにも、こんな毛が生えているのかな？"
 
 #. type=data_list
 msgctxt "data_list"
