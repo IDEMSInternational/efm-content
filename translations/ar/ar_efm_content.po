@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-09 22:14\n"
+"PO-Revision-Date: 2025-05-02 21:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7055,8 +7055,90 @@ msgstr "المثلث الأحمر هو العنصر الوحيد غير المر
 
 #. type=data_list
 msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "لا يتشابه أياً منها مع بعضهم"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Start with a group of four things with the following property: for each one of the things, the remaining three things have something in common that is not shared by the fourth.\n"
+"\n"
+"Challenge each other to find groups with this property. Be flexible and allow for any reasonable explanation that seems to work.\n"
+"\n"
+"**Example.** The first item is a triangle, while the others are squares. The second has a hole, while the others are solid. The third is a lot smaller than the others. The fourth is blue, while the others are red."
+msgstr ""
+"**هيكل اللعبة** إبدأ بمجموعة مؤلفة من أربع أشياء ذات الخصائص التالية: يجب أن تشترك كل ثلاثة أشياء بميزة لا توجد في الشيء الرابع. \n"
+"\n"
+"تحدوا بعضكم البعض لتجدوا مجموعات بالمواصفات هذه. تحلوا بالمرونة وأتيحوا الفرصة لأي تفسير منطقي.\n"
+"\n"
+"**مثال.** الغرض الأول مثلث، بينما من الممكن أن تكون بقية الأشياء على شكل مربع. الميزة الثانية هي وجود ثقب في واحد من الأشياء \n"
+"على عكس البقية. \n"
+"والميزة الثالثة مدى صغر حجم الأشياء. الشيء الرابع ملون بالأزرق بينما تتمتع بقية الأشياء بلون أحمر."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "البحث عن الكنز!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Make a stack of scavenger hunt cards in advance. The players can play individually or in small groups of two to three.\n"
+"\n"
+"Each card will describe a thing to find. It may be a specific thing, \"A stop sign,\" or it may be a description involving all sorts of descriptions and properties. Here are some examples that you might want to use individually or in combinations:\n"
+"\n"
+"* Colors\n"
+"* Size (bigger than a hand, smaller than a car)\n"
+"* Shapes (circle, triangle, square, ball, box)\n"
+"* Group size (two things together, three together, ...)\n"
+"* Patterns (A B A B ...)\n"
+"* Numbers\n"
+"* Position (under, over, on top of, next to)\n"
+"* Texture (smooth, rough, bumpy, pointy)\n"
+"* Uses (for writing, for sitting, ...)\n"
+"\n"
+"**How to play.** Randomly distribute three cards to each player or group of players. Their goal is to be the first to find things for each of their cards."
+msgstr ""
+"**هيكل اللعبة** قم بصناعة مجموعة من بطاقات البحث عن الكنز مسبقاً. يمكن للاعبين اللعب بشكل فردي أو في مجموعات صغيرة مؤلفة من شخصين لثلاثة.\n"
+"\n"
+"يجب إيجاد الشيء الموصوف في كل بطاقة قد يكون شيئاً معين، \"كإشارة التوقف\"، أو قد تتضمن البطاقة وصفاً يتضمن كل أنواع الخصائص\n"
+" والمميزات. إليك بعض الأمثلة التي قد تود إستخدامها سواءً بشكل فردي أو جماعي:\n"
+"\n"
+"* ألوان\n"
+"* الحجم (أكبر من كف اليد، أصغر من سيارة)\n"
+"* الشكل (دائرة، مربع، مثلث، على شكل كرة أو صندوق)\n"
+"* حجم المجموعة (شيئين مع بعضهما أو ثلاثة أشياء...)\n"
+"* أنماط (أ ب أ ب ...)\n"
+"* أرقام\n"
+"* موضعها (تحت، على، فوق، بجانب، ...)\n"
+"* ملمسها (ناعم، قاسي، مدبب، وعر)\n"
+"* إستخداماته: (للكتابة، للجلوس، ...)\n"
+"\n"
+"**كيفية اللعب.** وزع ثلاثة بطاقات عشوائية لكل لاعب أو مجموعة من اللاعبين. الهدف هو أن تكون أول من يجد الأشياء المطابقة لكل\n"
+"بطاقاتهم."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TREASURE MAP"
+msgstr "خريطة الكنز"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Object Properties"
 msgstr "خصائص الأشياء"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Decide on an interesting place for the treasure. It can be just the place, or you could put some silly thing there that your child will enjoy finding.  \n"
+"\n"
+"The \"map\" can be done in one of two ways. It can be a drawing of the area with interesting landmarks drawn in, and with an \"X\" marks the spot where the treasure is. Or, it can be a series of directions that must be followed to get to the treasure. The directions can be as simple as \"face the clock and go forward 9 steps,\" or they can be descriptions similar to those in the Scavenger Hunt activity \"face something blue and round, then walk toward a group of three red things until you are next to something to sit on.\""
+msgstr ""
+"**هيكل اللعبة** إتفقوا على مكان مثير للإهتمام ليوضع الكنز فيه. من الممكن أن تختاروا المكان فقط، أو يمكنكم أن تضعوا شيئاً صغيراً\n"
+"يثير إهتمام طفلكم.\n"
+"\n"
+"يمكنكم رسم الخريطة بطريقتين. يمكنكم رسم المنطقة ووضع علامات مميزة مع علامة X في البقعة التي يتواجد فيها الكنز. أو يمكن أن ترسم مجموعة من الإتجاهات التي يجب إتباعها حتى تصل للكنز. يمكن للإتجاهات أن تكون بغاية البساطة مثل: \"أمام الساعة،\n"
+" امشِ تسع خطوات للأمام. أو يمكن أن تكون مماثلة لنشاط البحث عن الكنز \"أمام شيء لونه أزرق ومدور، إمشِ بإتجاه مجموعة مؤلفة من ثلاثة أشياء حمراء حتى تكون بجانب شيء تستطيع الجلوس عليه\"."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7108,6 +7190,11 @@ msgstr "من هو؟"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "هذا نشاط لعدة أشخاص. يختار القائد شخصًا واحدًا سراً في المجموعة. لتحديد الشخص السري، يطرح اللاعبون أسئلة مثل، ”هل يرتدي هذا الشخص قميصًا به مثلث في المقدمة؟“ أو ”هل يبلغ طول شعر هذا الشخص أكثر من ١٢ بوصة؟“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "لمن هذا الشكل بأي حال"
 
 #. type=data_list
 msgctxt "data_list"
