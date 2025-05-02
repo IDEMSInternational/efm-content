@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-05-02 22:56\n"
+"PO-Revision-Date: 2025-05-02 23:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26163,6 +26163,81 @@ msgstr "البدايات"
 
 #. type=template
 msgctxt "template"
+msgid "Games"
+msgstr "الألعاب"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "الألغاز"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "التحقيقات"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "فردياً"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "الموضوع"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**المراحل**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**المواد الإضافية**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "المواد الإضافية - الأنشطة"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "لا مماثل"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "لوحة الأنشطة"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "لوحة القصص"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**خطوة لتعليم الرياضيات**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**القصص**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**الأنشطة**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "المرحلة"
+
+#. type=template
+msgctxt "template"
 msgid "Before Talking"
 msgstr "قبل الحديث"
 
@@ -26234,4 +26309,260 @@ msgstr "مواضيع وكلمات الرياضيات"
 msgctxt "template"
 msgid "**Adult Readers**"
 msgstr "القراء الكبار"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "البداية"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "المتوسط"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "المتقدم"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**قصص البداية**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**القصص المتوسطة**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**القصص المتقدمة**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "نص القصة"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "القراءة الأولى"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "القراءة الثانية"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "القراءة الثالثة"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "أهلاً!"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "كتاب القصص"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "الأنشطة"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "خطوات تعلم الرياضيات"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "مواعيد اللعب"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "يتم المزامنة"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "يتم المزامنة.."
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "نسخ"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "تم النسخ!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "تاريخ آخر مزامنة: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "لم تتم المزامنة في هذا الجهاز."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "المزامنة الآن"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "المواد الإضافية"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "تحتوي بعض من هذه الأنشطة تحتوي موارداً إضافية مع أمثلة وشرح أكثر. يمكنك إلقاء النظر عليها هنا أو في نهاية صفحة الأنشطة المطابقة."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "تحتوي كل مرحلة على مجموعة من ألعاب المرح والألغاز والأنشطة والتحقيقات لتستمتع بها عائلتك."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "المراحل"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "تصف كل مرحلة المعايير الأساسية التي يجب أن يتمتع بها طفلك حتى يبدأ بالمرحلة تلك. على سبيل المثال، إذا كان بمقدرة طفلك العد لل١٠ وكان يعرف معنى هذه الأرقام، إذاً إبدأ بالمرحلة ٣. الموارد المتاحة في المرحال مصممة بناءً على التقدم التعليمي حتى تتراكم المعرفة بناءً على الأقسام السابقة."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "رجاءً إختر الأنشطة التي تفضلها."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "رجاءًً إختر ما إذا أردت أن تعرض نشاطات المرحلة بشكل فردي أو بناءً على الموضوع."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "كل مرحلة من التعليم تقسم إلى عشر خطوات أساسية. تصف كل خطوة ما يتعلمه طفلك، ما يمكنك فعله لتساعد طفلك أثناء تعلمه هذا، وكيفية إرتباط الخطوات مع بعضها البعض."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "كل لاعب لديه عشر مواعيد مع عائلته ليستمتع مع مجموعة من العائلات الأخرى. يقترح كل موعد قصصاً وأنشطةً ليستمتع بها بشكل جماعي أثناء الموعد. تتطابق المواعيد مع خطوات تعلم الرياضيات العشرة لكل مرحلة. الروابط المتاحة توفر وصولاً سهلاً ومباشراً لكل من هذه الموارد."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "تعد القراءة مع طفلك تجربةً رائعة! هذه القصص مخصصة ليقرأها شخص بالغ لطفل. إضافة التعليقات الرياضية والأسئلة لقراءتك يساعد في تنمية مدارك الطفل الرياضية ويخلق نوع من الإرتباط القوي ما بين الرياضيات وهذه التجربة الدافئة السعيدة."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "رجاءً إختر نوع القصص التي أن تختار منها."
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "كتب قصص البداية"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "تحدث مع طفلك قبل أن يستطيع الكلام أو فهم الكلمات حتى. قم بالإشارة وسمي وصف الأشياء التي رتاها مثل الأشكال والألوان والمقارنات والكميات. عندما يبدأ طفلك بفهم الكلام، إسأل عن الشيء ودع طفلك يؤشر عليه. عندما يبدأ طفلك بفهم وقول الكلمات، قم بدمج هذه الأشياء عن طريق طرح أسئلة بسيطة."
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "كتب القصص المتوسطة"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "تعد هذه القصص أكثر طولاً نسبياً، وأكثر تعقيدأ وتتضمن أفكار أكثر تعقيداً. سيكون طفلك قادراً على الكلام والتفكير بمنطقية حول أشياء أكثر في العالم من حوله."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "كتب القصص المتقدمة"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "تكون القصص أكثر تفصيلاً وتعقيداً هنا. تتضمن الرياضيات أرقاماً أكبر ومفاهيماً أكثر تعقيداً. وصف الأشياء بتضمن تفاصيلاً أكبر."
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "أهلاًً وسهلاً!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "إستمتع بالقراءة واللعب في آنٍ واحد! الطريقة الأفضل للتعلم وتجربة الرياضيات بطريقة مرحة وإجتماعية. صنعت منظمة Early Family Math أربعة أنواع من المواد لتستمتع بها عائلتك معاً."
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "كتب القصص"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "خصصت هذه القصص ليقرأها شخص بالغ للطفل. تتضمن تعليقات رياضية وأسئلة موجهة في كل صفحة. تساعد طفلك رياضياً وتخلق نوعاً من الإرتباط الإيجابي ما بين الرياضيات وتجربة القراءة السعيدة الدافئة معاً!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "الأنشطة"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "صممت الألعاب التعليمية المتسلسلة هذه من ألعاب الرياضيات والألغاز والأنشطة والتحقيقات حتى تستمتع العائلة بها بأكملها، وتوفر الكثير من الوقت الممتع للعائلة بينما يتعلم الطفل كل الرياضيات التي يحتاجها للمدرسة."
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "خطوات تعلم الرياضيات"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "هل تسائلت يوماً ما هية بداية خطوات تعليم الرياضيات، وكيف من الممكن ربطها مع بعضها البعض؟ إليك وصف مختصر لخطوات تعلم الرياضيات العشرة التي سيمر بها طفلة مع مروره بكل مرحلة من المراحل الخمسة."
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "مواعيد اللعب"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "تجمعوا مع العائلات الأخرى وأحظوا بموعد للعب مخلوط بالرياضيات. هناك إقتراحات مخصصة لهذا النوع من الأنشطة لتستمتع بها العائلات من قصص وألعاب وألغاز."
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "المساعدة"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "إذا أردت أن ترى هذه المقدمة مجدداً، عليك بالضغط على إشارة الإستفهام."
 
