@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-05-03 13:33\n"
+"PO-Revision-Date: 2025-05-03 14:30\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11231,6 +11231,66 @@ msgstr "В верхней группе четыре собаки, а в нижн
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many tails do three monkeys have?"
+msgstr "Сколько хвостов у трёх обезьян?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count the tails, eyes, and feet. How many tails do you count?"
+msgstr "Давайте посчитаем хвосты, глаза, и ноги. Сколько хвостов ты посчитал?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you count the eyes two at a time, two for each monkey, or would you count them three at a time, which is doubling the number of monkeys?"
+msgstr "Считаешь ли ты глаза по два за раз, по два для каждой обезьяны, или по три за раз, что удваивает количество обезьян?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You have many choices for skip counting their feet. What are your choices and which one would you choose to use?"
+msgstr "У тебя есть много вариантов, как посчитать их ноги с пропусками. Какие у тебя выборы, и какой из них бы ты выбрал?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many eyes do six cats have?"
+msgstr "Сколько глаз у шести кошек?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Wow, these cats are a bit creepy! Did you skip count the eyes by 2's or 6's?"
+msgstr "Вау, эти кошки немного жуткие! Ты пропустил счёт глаз по 2 или 6?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many whiskers does each cat have? Can you count high enough to skip count all the whiskers?"
+msgstr "Сколько усов у каждой кошки? Можешь ли ты считать достаточно высоко, чтобы посчитать с пропусками все усы?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you skip count high enough to count all the feet?"
+msgstr "Ты можешь посчитать с пропусками настолько высоко чтобы пересчитать все лапы?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs does one worm have?"
+msgstr "Сколько ног у одного червяка?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count all those legs, or is it too tricky to see or too high to count?"
+msgstr "Можешь ли ты считать все эти ноги, или их слишком сложно увидеть, или слишком высоко чтобы посчитать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other things that are just too many to count."
+msgstr "Подумай о других вещах, которых слишком много чтобы посчитать."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer."
+msgstr "Считать с пропусками может быть очень весело, потому что это позволяет найти ответ гораздо быстрее, чем счёт по 1. Также интересно узнать разные размеры шагов, которые дают один и тот же ответ."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Mod the toad was tired of living in water."
 msgstr "Жаба Мод устала жить в воде."
 
@@ -11468,6 +11528,471 @@ msgstr "Ты когда-нибудь видел лягушку или жабу? 
 msgctxt "data_list"
 msgid "Have you ever gone to a pond, river, or lake to explore water life?"
 msgstr "Ты когда-нибудь ходил в пруду, реки, или озёру, чтобы исследовать водную жизнь?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A long time ago, there was a greedy hyena."
+msgstr "Давным-давно жила-была жадная гиена."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These houses seem very smoky. How many houses do you see in Hyena's village?"
+msgstr "Эти дома кажутся очень задымлёнными. Сколько домов ты видишь в деревне Гиены?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each house is round with round roof going up to a point. Each roof is in the shape of a cone. Do you see any cone-shaped things around you?"
+msgstr "Каждый дом круглый, с круглой крышей поднимающийся к вершине. Каждая крыша имеет форму конуса. Видишь ли ты какие-либо предметы вокруг тебя в форме конуса?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the toes on each of Hyena's legs. Hyenas have the same number of toes on all their legs -- is that what the picture shows?"
+msgstr "Посчитай пальцы на каждой ноге у Гиены. У Гиен одинаковое количество пальцев на всех ногах -- это то что показано на картинке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There was also Tortoise. Hyena and Tortoise were friends."
+msgstr "Там также была Черепаха. Гиена и Черепаха были друзьями."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many houses are in Tortoise's village? How many houses are in the two villages combined?"
+msgstr "Сколько домов в деревне Черепахи? Сколько домов в двух деревнях вместе?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which village has more houses, or are they equal?"
+msgstr "В какой деревне больше домов или их одинаковое количество?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is different about the roofs in Tortoise/s village compared to Hyena's village? Why do you suppose that is?"
+msgstr "Чем крыши в деревне Черепахи отличаются от крыш в деревне Гиены? Почему ты думаешь это так?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena told Tortoise, \"Let us search for honey.\""
+msgstr "Гиена сказал Черепахе, «Давай искать мёд.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Compare the drawing of the houses with the first page. Whose house are they in front of?"
+msgstr "Сравни рисунок домов с первой страницы. Перед чьим домом они находятся?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena and Tortoise seem like unlikely friends. What do you think will happen to their friendship by the end of the story?"
+msgstr "Гиена и Черепаха кажутся маловероятными друзьями. Как ты думаешь, что произойдёт с их дружбой к концу истории?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have friends that are different from you? Do your differences help make your friendship weaker or stronger?"
+msgstr "У тебя есть друзья которые отличаются от тебя? Помогает ли ваши различия делать вашу дружбу сильнее или слабее?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena ran fast. Tortoise followed slowly. He was afraid."
+msgstr "Гиена быстро бежал. Черепаха медленно последовал. Он боялся."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These animals travel at very different speeds. Have you gone for a walk with someone who is a lot faster or slower than you? How did the two of you work out having two different speeds?"
+msgstr "Эти животные передвигаются с очень разной скоростью. Ты гулял когда-нибудь с кем-то, кто намного быстрее или медленнее тебя? Как вы двое справились с тем что у вас две разные скорости?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Real hyenas and tortoises don't look like these two. What are the differences? Those differences will be important later in the story!"
+msgstr "Настоящие гиены и черепахи не выглядят так как эти двое. В чем различия? Эти различия будут важны позже в истории!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise is looking backward. What is Tortoise looking for?"
+msgstr "Черепаха смотрит назад. Что ищет Черепаха?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They crossed a river. They got wet."
+msgstr "Они пересекли реку. Они промокли."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy."
+msgstr "«Они промокли» кажется как преуменьшение того как они выглядят на картинке. Гиены отличные пловцы, поэтому удивительно что Гиена выглядит такой несчастной."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like swimming? Have you ever gone swimming in rivers or other natural bodies of water?"
+msgstr "Тебе нравится плавать? Ты когда-нибудь плавал в реках или других естественных водоёмах?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which direction do you think the water is flowing? How can you tell?"
+msgstr "Как ты думаешь, в каком направлении течёт вода? Как ты можешь догадаться?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then they saw beehives. Hyena ran to the hives."
+msgstr "Затем они увидели ульи. Гиена побежал к ульям."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a lot of hives in those trees. Sometimes a swarm will fly around looking for a new home. Have you ever seen a swarm of bees?"
+msgstr "На этих деревьях много ульев. Иногда рой летает в поисках нового дома. Ты когда-нибудь видел рой пчёл?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like bees or are you afraid of them? What are some things you are afraid of?"
+msgstr "Тебе нравится пчёлы или ты их боишься? Какие некоторые вещи которых ты боишься?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena is pictured with four toes on his front legs and three toes on his back legs. How many more fingers do you have on your arms? How many more toes do you have on your legs?"
+msgstr "Гиена изображена с четырьмя пальцами на передних лапах и тремя пальцами на задних лапах. На сколько больше пальцев у тебя на руках? На сколько больше пальцев у тебя на ногах?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena told Tortoise, \"Climb up and get the beehive.\""
+msgstr "Гиена сказал Черепахе, «Поднимись и возьми улей.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is difficult to imagine Tortoise climbing a tree. Why would Hyena be a better tree climber than Tortoise?"
+msgstr "Очень трудно представить черепаху взбирающиеся на дерево. Почему Гиена лучше лазит по деревьям чем Черепаха?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Hyena tell Tortoise to climb up and get the beehive?"
+msgstr "Почему Гиена сказал Черепахе забраться наверх и достать улей?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A hexagon is a shape with six straight sides. If the sides are all the same length, it is called a regular hexagon. Each of the little cells in a beehive is a regular hexagon. Do you know of any designs around you that are made of hexagons?"
+msgstr "Шестиугольник - это фигура с шестью прямыми сторонами. Если все стороны одинаковой длины, это называется правильным шестиугольником. Каждый из маленьких ячеек в улье представляет собой правильный шестиугольник. Знаешь ли ты какие-нибудь дизайны вокруг себя которые сделаны из шестиугольников?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise climbed slowly. Hyena was angry. He shouted at Tortoise."
+msgstr "Черепаха медленно поднимался. Гиена был злой. Он крикнул на Черепаху."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why was Hyena shouting? Did Hyena's shouting help Tortoise climb the tree?"
+msgstr "Почему Гиена кричал? Помог ли крик Гиены Черепахи собраться на дерево?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you ever get angry and start shouting? Did your shouting help make the situation better?"
+msgstr "Ты когда-нибудь злишься и начинаешь кричать? Помог ли твой крик улучшить ситуацию?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tiles that are regular hexagons fit together to make beautiful tile floors and walls. Tiles in the shape of squares (shapes with four equal straight sides and square corners) fit together well too. Describe any other tiling patterns on floors or walls that you have seen."
+msgstr "Плитки которые имеют форму правильных шестиугольников, укладываются вместе образуя красивые плиточные полы и стены. Плитка в форме квадратов (фигура с четырьмя равными прямыми сторонами и прямыми углами) тоже хорошо укладываются. Опиши любые другие узоры укладки плитки на полах или стенах которые ты видел."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise touched the beehive. Bees swarmed in the air."
+msgstr "Черепаха коснулась улья. Пчёлы роились в воздухе."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why was Tortoise safe from the bees and Hyena was not?"
+msgstr "Почему Черепаха была в безопасности от пчёл, а Гиена нет?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An estimate is an educated guess when there are too many things to count easily. What is your estimate of how many bees there are?"
+msgstr "Оценка - это обоснованное предположение, когда вещей слишком много чтобы их легко посчитать. Какова твоя оценка на количество пчёл?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do your best to count the bees. How far off was your quick estimate?"
+msgstr "Посчитай как можно лучше всех пчёл. Насколько ошибочной оказалась твоя быстрая оценка?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise fell. The beehive fell on him. Hyena licked the honey."
+msgstr "Черепаха упал. Улья упала на него. Гиена лизал мёд."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena was so focused on the honey that he didn't help Tortoise. Can you think of a time you were so focused on one thing that you completely forgot something else you should have done?"
+msgstr "Гиена был так сосредоточен на мёде, что не помог Черепахи. Ты можешь вспомнить случай, когда ты был настолько сосредоточен на чём-то одном, что совершенно забыл о чём-то другом что тебе нужно было сделать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena should have helped his friend. Is Hyena a very good friend?"
+msgstr "Гиена должен был помочь своему другу. Гиена очень хороший друг?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this page shows more or fewer bees than on the last page?"
+msgstr "Тебе кажется что на этой странице пчёл больше или меньше чем на предыдущий?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bees stung Hyena. He ran. The bees followed him."
+msgstr "Пчёлы ужалили Гиену. Он бежал. Они следовали за ним."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the bees chase and sting Hyena?"
+msgstr "Почему пчёлы следовали и жалили Гиену?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A beehive is the home for the bees. Is it okay for people to take honey from beehives, or should we leave their homes untouched?"
+msgstr "Улей - это дом для пчёл. Можно ли людям брать мёд из ульев или нам следует оставить их дома нетронутыми?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever tried to outrun a bee or some other stinging insect? Were you able to do it?"
+msgstr "Ты когда-нибудь пытался убежать от пчелы или другого жалящего насекомого? Смог ли ты это сделать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena ran into the river. The bees still followed him."
+msgstr "Гиена кинулся в реку. Пчёлы следовали за ним."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the Hyena go into the river? Did it work?"
+msgstr "Почему Гиена пошёл в реку? Сработало ли это?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bees can't go into the water, but Hyena can't stay under the water for long. What do you think Hyena should do?"
+msgstr "Пчёлы не могут зайти в воду, а Гиена не может долго оставаться под водой. Что ты думаешь должен сделать Гиена?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Poor Hyena must be miserable. Have you ever had a bee sting or some other kind of sting? If so, did it hurt a lot?"
+msgstr "Бедный Гиена, должен быть несчастным. Тебя когда-нибудь жалила пчела или что-то другое? Если да, то было очень больно?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The beehive and the honey dried on Tortoise's back."
+msgstr "Улей и мёд засохли на спине у Черепахи."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "All the bees went after Hyena and left Tortoise alone."
+msgstr "Все пчёлы набросились на Гиену и оставили Черепаху одну."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise looks pretty safe sitting quietly under that layer of drying honey. Do you have a quiet place where you feel safe and peaceful? Perhaps it is a place no one else knows about."
+msgstr "Черепаха выглядит в полной безопасности, спокойно сидя под слоем высыхающего мёда. Есть ли у тебя тихое место, где ты чувствуешь себя в безопасности и мире? Возможно это место о котором больше никто не знает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does his face tell you about how he is feeling?"
+msgstr "Что его лицо говорит тебе о том что он чувствует?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise got a shell to protect himself. He went home."
+msgstr "Черепаха обзавелся панцирем чтобы защитить себя. Он пошёл домой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The honey dried on Tortoise in a beautiful pattern. Can you think of some interesting natural patterns around you?"
+msgstr "Мёд засох на Черепахе в красивом узоре. Можешь ли ты придумать какие-нибудь интересные природные узоры вокруг тебя?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People also make a lot of patterns when they build things. Tiles are often laid out to make interesting designs. Do you see any any tiling patterns near you?"
+msgstr "Люди тоже создают много узоров, когда что-то строят. Плитку часто выкладывают так чтобы получился интересный узор. Видишь ли ты какие-нибудь плиточные узоры рядом с тобой?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think -- how easy is it to sit in that chair with a big shell on your back?"
+msgstr "Как ты думаешь -- как легко сидеть в этом кресле с большой ракушкой на спине?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The stings caused patches on Hyena's body."
+msgstr "Укусы оставили пятна на теле Гиены."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now Hyena has lots of spots on him, just like hyenas we see today."
+msgstr "Теперь у Гиены много пятен, как у многих Гиен которых мы видим сегодня."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make a quick estimate how many spots he has and then try to count them. How close was your estimate?"
+msgstr "Быстро оцени сколько у него пятен а затем попробуй их посчитать. На сколько близко была твоя оценка?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making quick estimates is a fun game two people can play. Whose estimate will be the closest?"
+msgstr "Быстрые оценки - это увлекательная игра в которую могут играть двое. Чья оценка будет наиболее близка?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise and Hyena are no longer friends."
+msgstr "Черепаха и Гиена больше не друзья."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise and Hyena always seemed like unlikely friends. What happened in the story that caused them to stop being friends?"
+msgstr "Черепаха и Гиена всегда казались неподходящими друзьями. Что случилось в истории, из-за чего они перестали быть друзьями?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever had something that caused you to stop being friends with someone?"
+msgstr "Было ли у тебя когда-нибудь что-то что заставило тебя пригрозить дружбу с кем-то?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Tortoise and Hyena will return to being friends someday?"
+msgstr "Ты думаешь что Черепаха и Гиена когда-нибудь снова будут друзьями?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I love forests!"
+msgstr "Я люблю леса!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some great things about forests?"
+msgstr "Что хорошего есть в лесах?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many types of places. For example, there are deserts, hills, beaches, canyons, mesas, and mountain slopes. What are some of your favorite places?"
+msgstr "Есть много типов мест. На пример есть пустыни, холмы, пляжи, каньоны, столовые горы, и горные склоны. Какие твои самые любимые места?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of the trees in this picture can you count? Can you count that high?"
+msgstr "Сколько деревьев ты можешь посчитать на этой картинке? Ты можешь считать так высоко?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Last week I went to Kibale forest."
+msgstr "На прошлой неделе я сходила в лес Кибале."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kibale National Park is a rain forest in Western Uganda near the center of Africa. It is a sanctuary for a large variety of primates, wildlife, and vegetation."
+msgstr "Национальный Парк Кибале это тропический лес в западной Уганде, недалеко от центра Африки. Это заповедник для большого разнообразия приматов, диких животных, и растений."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there parks or natural areas that you like to visit?"
+msgstr "Есть ли парки или природные зоны которые тебе нравятся посещать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which do you find more interesting to see: plants and trees or lots of animals?"
+msgstr "Что тебе кажется интереснее увидеть: растения и деревья или множество животных?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw many trees. I saw Fig, Muvule, Palm, and Ebony trees."
+msgstr "Я видела много деревьев. Я видела Фиговые деревья, Мувуле, Пальм, и Эбеновые деревья."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This picture shows plains with mountains in the distance. Do you think a mixture of living areas will be good for creating a mixture of plants and animals for the park?"
+msgstr "Эта картинка показывает равнины с горами вдалеке. Как ты думаешь будет ли сочетание живых зон полезным для создания смеси растений и животных в парке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentions four types of trees in the park. Do you see four types in this picture?"
+msgstr "История упоминает четыре вида деревьев в парке. Ты видишь четыре вида на этой картинке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many types of trees can you think of near where you live?"
+msgstr "Сколько видов деревьев ты можешь вспомнить рядом с тем где ты живёшь?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw chimpanzees, baboons, and monkeys."
+msgstr "Я видела шимпанзе, бабуинов, и обезьян."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These adult animals are sitting in pairs, which makes them easy to count by 2's - 2, 4, 6. Adding in one more baby makes 7!"
+msgstr "Эти взрослые животные сидят по парам, что позволяет легко их посчитать по 2 - 2, 4, 6. Добавляем ещё одного ребёнка и получаем 7!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One more than the 6 adults is 7. If you take away the one baby, how many is one less than 7?"
+msgstr "На один больше чем 6 взрослых, будет 7. Если убрать одного ребёнка, насколько будет один меньше 7?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this mixture of animals would naturally be together like this, or did the artist take some liberties with the picture?"
+msgstr "Как ты думаешь, это смесь животных могла бы быть вместе в естественном виде, или художник допустил некоторую вольность с картинкой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw different birds. I saw crested cranes, eagles, and owls."
+msgstr "Я видела разные птицы. Я видела хохлатых журавлей, орлов, и сов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What about this picture -- do you think these birds would all be together like this?"
+msgstr "А как насчёт этой картинки -- Тебе кажется что эти птицы будут все вместе, вот так?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four birds and one fish. How many animals is that all together? How many is one more than four?"
+msgstr "Есть четыре птицы и одна рыба. Сколько всего животных вместе? Насколько будет один больше четырёх?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentions three types of birds and shows us four birds. Do you think two of these birds are of the same type? If so, which two?"
+msgstr "История упоминает три вида птиц и показывает нам четыре птицы. Тебе кажется что две из этих птиц один и тот же виду? Если да, то какие два?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I laughed when I saw a big elephant with a little tail."
+msgstr "Я засмеялась, когда увидела большого слона с маленьким хвостом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think such a large animal has such a little tail?"
+msgstr "Почему ты думаешь у такого большого животного такой маленький хвост?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The parts the elephant has two of (ears, tusks, pairs of legs, and eyes) are on opposite sides of its body, and the parts it has one of (mouth, tail, and trunk) are in the middle of its body. Are all animals like this?"
+msgstr "Части слона которые состоят из двух частей (уши, бивни, пары ног, и глаза) находятся на противоположных сторонах его тела, и части которых он имеет один (рот, хвост, и туловище) посередине его тела. Все ли животные такие?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of an animal that doesn't have its parts  arranged about a middle line?"
+msgstr "Ты можешь вспомнить животного у которого части тела не расположены вокруг средней линии?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw so many different animals, birds, and plants."
+msgstr "Я видела так много разных животных, птиц, и растений."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe the animals by where they are in the picture -- some are in the air, the trees, the water, and in the grass."
+msgstr "Опиши животных по месту их нахождения на картинке -- некоторые в воздухе, на деревьях, в воде, и в траве."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count each group and then count them all together -- do you get the same result?"
+msgstr "Посчитай каждую группу, а потом посчитай их все вместе -- ты получаешь один и тот же результат?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which group has the most animals in it? Which has the least?"
+msgstr "В какой группе больше всего животных? А в какой меньше всего?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kibale forest is a good place to visit. I love forests! Do you?"
+msgstr "Лес Кибале хорошее место для посещения. Я люблю леса! А ты?"
 
 #. type=data_list
 msgctxt "data_list"
