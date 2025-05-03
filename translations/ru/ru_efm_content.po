@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-05-03 15:34\n"
+"PO-Revision-Date: 2025-05-03 16:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13146,17 +13146,359 @@ msgid ""
 "Chief Short and Round began, \"This is the worst news ever. I have lost my spring horn.\" \n"
 "\n"
 "The villagers whispered to each other, \"Oh no!\" Chief Short and Round continued talking, \"If I don't find my spring horn then I can't blow my spring horn! And we can't start the springtime party if I can't blow my spring horn. And spring won't come if we don't have a springtime party.\""
-msgstr "Короткий и Круглый началВождь, «Это худшая новость на свете. Я потерял свой весенний рог.» Жители деревни шептали друг другу, «Ой нет!» Короткий и Круглый Вождь продолжил говорить, «Если я не найду свой весенний рог, то я не могу в него дуть! И мы не сможем начать весенний праздник, если я не могу подуть в свой весенний рог. И весна не наступит если мы не устроим весенний праздник.»"
+msgstr "Короткий и Круглый Вождь начал, «Это худшая новость на свете. Я потерял свой весенний рог.» Жители деревни шептали друг другу, «Ой нет!» Короткий и Круглый Вождь продолжил говорить, «Если я не найду свой весенний рог, то я не могу в него дуть! И мы не сможем начать весенний праздник, если я не могу подуть в свой весенний рог. И весна не наступит если мы не устроим весенний праздник.»"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Many of these people have very colorful clothes. What are your favorite colors to wear to a party?"
-msgstr "У многих из этих людей очень яркая одежда. Какие цвета тебе больше всего нравятся одевать на праздник. Ты когда-нибудь уже ждал праздник с нетерпением, а потом беспокоился что он может не состояться?"
+msgstr "У многих из этих людей очень яркая одежда. Какие цвета тебе больше всего нравятся одевать на праздник?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever looked forward to a party and then worried that it might not happen?"
+msgstr "Ты когда-нибудь уже ждал праздник с нетерпением, а потом беспокоился что он может не состояться?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "There are many beautiful polygons on these clothes! There are patterns with squares (polygons with four equal sides and four square corners), and some with hexagons. Notice how the hexagons on the back of the shirt are made of six triangles in a lively pattern!"
 msgstr "На этой одежде много красивых многоугольников! Есть узоры с квадратами (многоугольники с четырьмя равными сторонами и четырьмя прямыми углами), и некоторые с шестиугольниками. Заметь, что шестиугольники на спине футболки состоят из шести треугольников, образуя яркий узор!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Little Square Jojo stepped into the circle and lifted up his hand. \"I will find your spring horn, Chief Short and Round.\" \"Good, good,\" said the chief with a smile. \"You can start looking in the last place I visited this morning. Go to Tata Rectangle's house. I remember having my horn with me there.\""
+msgstr "Маленький Квадратный Джоджо шагнул в круг и поднял руку. «Я найду твой весенний рог, Короткий и Круглый Вождь.» «Хорошо, хорошо,» сказал вождь улыбаясь. «Ты можешь начать искать в последнем месте где я был сегодня утром. Иди в дом Прямоугольника Таты. Я помню что у меня был там с собой рог.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does Little Square Jojo deserve his name?"
+msgstr "Почему Маленький Квадратный Джоджо заслуживает своего имени?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many circles in this picture. How many circles can you find?"
+msgstr "На этой картинке много кругов. Сколько кругов ты можешь найти?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many squares are there on Jojo's clothes? That is a very tricky question because there are squares of different sizes on his clothes -- some of the squares are made up of smaller squares!"
+msgstr "Сколько кругов на одежде у Джоджо? Это очень сложный вопрос, потому что у него на одежде есть квадраты разных размеров-- Некоторые квадраты состоят из меньших квадратов!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Tata Rectangle was happy to see Jojo. He opened his door and welcomed Jojo inside. \"I remember seeing Chief Short and Round earlier this morning,\" said Tata Rectangle, \"but I don't think he had his spring horn with him.\" \n"
+"\n"
+"Little Square Jojo looked under Tata Rectangle's bed and behind his books. He even looked into his fridge. But Jojo couldn't find the spring horn anywhere."
+msgstr "Прямоугольник Тата был рад увидеть Джоджо. Он открыл свою дверь и пригласил Джоджо войти. «Я помнил что видел Короткого и Круглого Вождя раньше этим утром,» сказал Прямоугольник Тата, «Но я не думаю что у него был с собой его весенний рог.» Маленький Квадратный Джоджо посмотрел под кроватей Прямоугольника Тата и сзади его книжек. Он даже посмотрел в его холодильнике. Но Джоджо нигде не мог найти весенний рог."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle has four straight sides with corners like the corners of this page. A square is always a rectangle, but rectangles are not always squares. What would make a rectangle not be a square?"
+msgstr "Прямоугольник имеет четыре прямые стороны с углами, подобными углам этой страницы. Квадрат всегда является прямоугольником, но прямоугольники не всегда являются квадратами. Что может сделать прямоугольник не квадратным?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there any rectangles that are squares in this picture?"
+msgstr "Если на этой картинке прямоугольники, которые являются квадратами?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which objects in this room are rectangles? There are rectangles everywhere on this page! Point to as many rectangles as you can."
+msgstr "Какие предметы в этой комнате являются прямоугольниками? На этой странице повсюду прямоугольники! Укажи на как можно большее количество прямоугольников."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Go and see if Mama Triangle has the spring horn, said Tata Rectangle. \"Chief Short and Round visited her before he came to see me.\" \"Thank you, Tata,\" said Jojo as he waved goodbye.\n"
+"\n"
+"Mama Triangle's house is about three kilometers from here, thought Jojo. That is a far distance to walk. I will stop at my house along the way and have a rest."
+msgstr ""
+"«Иди и посмотри, есть ли у Мамы Треугольника весенний рог,» сказал Прямоугольник Тата. «Короткий и Круглый Вождь навестил её перед тем как он пришёл ко мне.» «Спасибо, Тата,» сказал Джоджо, махая рукой на прощание.\n"
+"\n"
+"Дом Мамы Треугольника примерно в три километрах отсюда, подумал Джоджо. Это далековато чтобы идти пешком. По дороге я остановлюсь у себя дома и отдохну."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the tallest things in this picture? Have you ever seen a person almost as tall as a house?"
+msgstr "Какие предметы на этой картинке самые высокие? Ты когда-нибудь видел человека ростом подобным с домом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo is going for a long 3km (about two miles) walk. What is the farthest you have ever walked?"
+msgstr "Джоджо Идёт на длинную 3 км (около двух миль) прогулку. Каково самое большое расстояние которое ты когда-нибудь ходил?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you ever walk a long, long time? How many minutes was that walk? 10? 20? 60? more?"
+msgstr "Ты когда-нибудь долго-долго ходил пешком? Сколько минут была эта прогулка? 10? 20? 60? больше?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo was hot and tired by the time he reached his house. He went inside to open his freezer and pour a glass of cold water with ice blocks. \"I must be half the way to Mama Triangle's house,\" he said. \"I hope she has the chief's horn.\"\n"
+"\n"
+"Then Jojo had an idea. \"I can visit Dudu Diamond. Her house is only half a kilometer from here and it's on the way."
+msgstr ""
+"Маленький Квадратный Джоджо был жарким и уставшим к тому времени как он добрался до дома. Он вошёл в дом чтобы открыть морозильник и налить стакан холодной воды с кубиками льда. «Я должен быть уже на полпути к дому Мамы Треугольника,» он сказал. «Я надеюсь что у неё есть рог вождя.»\n"
+"\n"
+"И тут у Джоджо возникла идея. «Я могу посетить Дуду Ромб. Её дом всего в полукилометре отсюда, и он по пути.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On this floor, you can hop from one square to another square of the same color. Choose one color with your finger and hop around that room."
+msgstr "На этом полу ты можешь перепрыгивать с одного квадрата на другой квадрат такого же цвета. Выбери один цвет пальцем и прыгай по этой комнате."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a pattern on the floor where you are? Do you ever hop around a room trying to stay on just one color?"
+msgstr "Есть ли узор на полу там где ты сейчас? Ты когда-нибудь прыгал по комнате пытаясь остаться на одном цвете?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo has walked half way of his 3 km (2 mi) walk. How far has he walked?"
+msgstr "Джоджо прошёл половину своего 3 км (2 мили) пути. Как далеко он прошёл?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond was cleaning her house when Jojo arrived. Her earrings were making a lovely tinkling sound as she worked. \n"
+"\n"
+"\"Hello, Jojo,\" she said. \"What are you doing today?\" \"I am on my way to Mama Triangle's house to find the chief's spring horn,\" said Little Square Jojo. \"That's nice of you,\" said Dudu. \"I am happy to come with you. How much further do you have to go?\""
+msgstr "Дуду Ромб убиралась в доме, когда пришёл Джоджо. Её серьги сдавали приятные звенящий звук пока она работала. «Привет, Джоджо,» она сказала. «Что ты сегодня делаешь?» «Я по пути в дом Мамы Треугольника, чтобы найти весенний рог вождя,» сказал Маленький Квадратный Джоджо. «Это мило с твоей стороны,» сказала Дуду. «Я рада с тобой пойти. Сколько тебе ещё предстоит пройти?»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another name for a diamond is a rhombus. A rhombus is a quadrilateral with four equal sides. A square is always a rhombus, but not every rhombus is a square. Point to some diamonds in this picture that aren't squares."
+msgstr "Другое название ромбовидной формы - ромб. Ромб - это четырёхугольник с четырьмя равными сторонами. Квадрат всегда является ромбом, но не каждый ромб является квадратом. Укажи на этой картинке некоторые ромбы которые не являются квадратами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room is full of diamond shapes. What shape are the diamond windows if you turn them on their side? Jojo should feel right at home with those windows!"
+msgstr "Эта комната полна ромбовидных фигур. Какую форму имеют ромбовидные окна если их повернуть на бок? Джорджо должен чувствовать себя как дома с этими окнами!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room has many pairs of things. Which pairs do you see?"
+msgstr "В этой комнате есть много пар вещей. Какие пары ты видишь?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo scratched his head. \"Let's see. Mama Triangle's house was three kilometers away from where I started. I walked about half the way to get to my house, that's one and a half kilometers. Then I walked another half a kilometer to get to your house. That makes 2 kilometers. So we only have one more kilometer to go!\" \n"
+"\n"
+"\"That's not so far then!\" smiled Dudu. \"I'll pack some things to take with.\""
+msgstr "Маленький Квадратный Джоджо почесал голову. «Посмотрим. Дом Мамы Треугольника находился в трёх километров от того места где я начал. Я прошёл примерно половину пути до своего дома, это полтора километра. Потом я прошёл ещё полкилометра чтобы добраться до твоего дома. Это получается 2 километра. И так нам осталось пройти всего один километр!» «Значит это не так уж и далеко!» Улыбнулась Дуду. «Я соберу с собой некоторые вещи.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo added 1 1/2 km plus 1/2 km to get 2 km. He subtracted 2 km from 3 km to get 1 km."
+msgstr "Джоджо добавул 1 1/2 км плюс 1/2 км чтобы получить 2 км. Он отнял 2 км от 3 км чтобы получить 1 км."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another way is: He had 1 1/2 km to go and he walked 1/2 km, so there was only 1 km left."
+msgstr "Другой способ это: Ему осталось пройти 1 1/2 км и он прошёл 1/2 км, Так что остался всего лишь 1 км."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yet another way: Think of 3 km as 6 half kms. When he did half of 6 of those, that meant he did 3 halves and had 3 halves to go. When he did another half km, then he only had 2 halves left. It's a fun puzzle to find different ways to calculate the same thing!"
+msgstr "И другой способ: Думай о 3 км как половина 6 км. Когда он сделал половину из 6 из этих, это значит что он сделал 3 половины и ему осталось ещё 3 половины. Когда он ещё сделал половину км, тогда у него осталось только две половины. Это забавная головоломка найти разные способы вычисления одного и того же!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond and Little Square Jojo walked until they reached the bottom of a tall mountain. \"Mama Triangle's house is right up there at the top,\" said Dudu.\n"
+"\n"
+"\"Let's stop for a while and have a rest. You can have the sandwich I packed.\" Jojo cut the sandwich into four smaller pieces. \"Here, let's share the sandwich, you have two pieces and I'll have two.\""
+msgstr ""
+"Ромб Дуду и Маленький Квадратный Джоджо шли пока не достигли подножия высокой горы. «Дома Мамы Треугольника находятся прямо там на самом верху,» сказала Дуду.\n"
+"\n"
+"«Давай остановимся на немного и отдохнём. Ты можешь съесть бутерброд который я упаковала.» Джоджо разрезал бутерброд на четыре части поменьше. «На, давай разделим бутерброд, тебе две части и мне две.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We can't see the top of the mountain. What do you think the shape is of the part we can't see?"
+msgstr "Мы не видим вершину горы. Как ты думаешь какова форма той части которую мы не видим?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some different ways to cut a sandwich into four parts. Which shapes can you make that way?"
+msgstr "Подумай о несколько разных способов чтобы разрезать бутерброд на четыре части. Какие фигуры можно сделать с таким образом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A round shape that comes to a point is called a cone. The mountain next to them is in the shape of a cone. Find some other cones in this picture."
+msgstr "Круглая форма сходящаяся к точке называется конусом. Гора рядом с ними имеет форму конуса. Найди другие конусы на этой картинке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Soon Dudu Diamond and Little Square Jojo were half the way up the mountain. Things were very different there.\n"
+"\n"
+"\"Look,\" said Jojo. \"That's the strangest spider I've ever seen.\" \"Wow,\" said Dudu. \"It has spun a beautiful web. Let's count the sides. One, two, three, four, five, and six! That makes it a hexagon then!\""
+msgstr ""
+"Вскоре Ромб Дуду и Маленький Квадратный Джоджо были на полпути к вершине горы. Там всё было совсем по-другому.\n"
+"\n"
+"«Смотри,» сказал Джоджо. «Это самый странный паук которого я когда-либо видел.» «Вау,» сказала Дуду. «Он сплёл прекрасную паутину. Давай посчитаем стороны. Один, два, три, четыре, пять, и шесть! Тогда это делает его шестиугольником!»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of any other hexagons you see or know about? Are there any where you are right now? Perhaps there are some hexagons on a bathroom floor?"
+msgstr "Ты можешь вспомнить какие-либо другие шестиугольники которые ты видишь или о которых знаешь? Если лу их где ты сейчас находишься? Возможно на полу в ванной есть какие-то шестиугольники?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know any stories or songs about spiders?"
+msgstr "Ты знаешь какие-нибудь истории или песни о пауков?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spiders make webs in trees, in holes in the ground, and even across water. Where have you seen spider webs where you live? Why do spiders make webs?"
+msgstr "Пауки плетут паутину на деревьях, в норах в земле и даже поперёк воды. Где ты видел паутину там где ты живёшь? Почему пауки делают паутины?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After climbing over a very big rock, Little Square Jojo and Dudu Diamond finally arrived at Mama Triangle's house. They were high up now and felt a bit dizzy.\n"
+"\n"
+"\"Hello, you two,\" said Mama Triangle with a smile. \"I am so happy to have visitors. Most of the time I'm all alone here on the top of my mountain. Come inside and sit down at my table."
+msgstr ""
+"Перебравшись через очень большой камень, Маленький Квадратный Джоджо и Ромб Дуду наконец-то добрались до дома Мамы Треугольника. Они были очень высоко и почувствовали лёгкое головокружение.\n"
+"\n"
+"«Привет, вы двое,» сказала Мама Треугольник с улыбкой. «Я так рада видеть гостей. Большую часть времени я здесь, на вершины своей горы совсем одна. Заходите и садитесь за мой стол.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mama Triangle knows where the Chief's spring horn is? Do you think they wasted their time coming to the top of the mountain?"
+msgstr "Ты думаешь что Мама Треугольник знает где находится весенний рог Вождя? Думаешь они зря потратили время поднявшись на вершину горы?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a great many polygons in this picture and they are of many types. Point at some polygons and name their types."
+msgstr "На этой картинке очень моного многоугольников и они бывают разных типов. Укажи на несколько многоугольников и назови их типы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few shapes that are not polygons. These shapes have at least one side that is curved and not straight. Can you find them?"
+msgstr "Есть несколько фигур, которые не являются многоугольниками. У этих фигур по крайней мере одна сторона изогнута, а не прямая. Ты можешь их найти?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle, said Jojo after catching his breath, \"We've come to find Chief Short and Round's spring horn. Tata Rectangle said that the chief visited you this morning.\" \"Yes, that is correct,\" said Mama Triangle. \"The chief came to ask me to help prepare for the springtime party. But he didn't leave his spring horn here.\" \"Oh no,\" said Jojo sadly, \"We've come all this way for nothing!\""
+msgstr "«Мама Треугольник,» сказал Джоджо отдышавшись, «Мы пришли чтобы найти весенний рог Короткого и Круглого Вождя. Прямоугольник Тата сказал что вождь посетил вас сегодня утром.» «Да, это правильно,\" сказала Мама Треугольник. «Вождь пришёл ко мне с просьбой помочь подготовиться к весеннему празднику. Но он здесь не оставил свой весенний рог.» «Ой нет,» сказал Джоджо грустно, «Мы проделали весь этот путь зря!»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think they went all that way for nothing? They may not know where the horn is, but they have learned a lot during their travels."
+msgstr "Ты думаешь что они зря проделали весь этот путь? Они может быть не знают где находится рог, но они многому научились во время своих путешествий."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes, finding out what something can't be can be almost as valuable as finding out what it is. Useful information comes in many forms!"
+msgstr "Иногда выяснение того чем что-то не может быть, может быть почти столь же ценным как выяснение того чем оно является. Полезная информация может быть представлена во многих формах!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next in the story? Create an ending for how this story turns out. Do they find the horn, and if so, how do they find it?"
+msgstr "Что ты думаешь случится дальше в этой истории? Придумай концовку, как эта история закончится. Нашли ли они рок, и если да, то как они его нашли?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle held Jojo's hand as she led him outside. \"Don't worry Jojo,\" she said. \"Chief Short and Round didn't leave his spring horn here, but I know where it is. That chief can be such a silly thing!\" Mama Triangle, Little Square Jojo and Dudu Diamond all ran down the mountain and in no time at all they were safely at the bottom."
+msgstr "Мама Треугольник держала Джоджо за руку, когда выводила его на улицу. «Не волнуйся Джоджо,» она скзала. «Короткий и Круглый Вождь не оставил здесь свой весенний рог, но я знаю где он. Этот вождь может быть таким глупым!» Мама Треугольник, Маленький Квадрат Джоджо и Ромб Дуду Все побежали вниз по горе и в мгновение благополучно оказались внизу."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a lot of triangles in this picture! Can you count them all, or is it higher than you can count?"
+msgstr "На этой картинке много треугольников! Можешь ли ты их всех посчитать, или их больше чем ты можешь посчитать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why were they able to go down the mountain so much more quickly than when they went up?"
+msgstr "Почему они смогли спуститься с горы намного быстрее чем когда они поднимались?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oddly enough, going down a steep hill can be harder than going up. Has this happened to you?"
+msgstr "Как ни странно, но спуск по крутому склону может оказаться сложнее чем подъём. Это случалось с тобой?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It was evening by the time they reached Chief Short and Round's house. Mama Triangle knocked on the door and when it was opened everyone rushed inside.\n"
+"\n"
+"\"Hello,\" said Chief Short and Round, blinking sleepily. \"Did you find my spring horn? Will we be able to have the springtime party?\" Little Square Jojo felt very bad and shook his head."
+msgstr ""
+"К тому времени как они добрались до дома Короткого и Круглого Вождя, уже наступил вечер. Мама Треугольник постучала в дверь и когда она открылась все бросились внутрь.\n"
+"\n"
+"«Здравствуйте,» Сказал Короткий и Круглый Вождь, сонно моргая. «Ты нашёл мой весенний рог? Сможем ли мы устроить весенний праздник?» Маленький Квадратный Джоджо почувствовал себя очень плохо и покачал головой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief's room is round and is filled with round things. Point at and count as many circles as you can."
+msgstr "Комната вождя круглая и заполнена круглыми вещами. Укажи на круги и посчитай Как много больше их."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The circles in the rug have the same center. Circles that share a common center are called concentric circles. Do you see any concentric circles where you are?"
+msgstr "Круги на ковре имеют один и тот же центр. Окружности имеющие общий центр называется концентрическими кругами. Ты видишь концентрические круги там где ты?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief is wearing his pajamas. What do you think his bedtime is? What is your bedtime?"
+msgstr "Боже одет в свою пижаму. Как ты думаешь когда он ложится спать? В какое время ты ложишься спать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Jojo looked for your spring horn all day, said Mama Triangle. \"It is not his fault that he didn't find it. It is your fault, Chief Short and Round. Don't you remember?\" Mama Triangle pointed at the chief. \"You are wearing your spring horn on your head!\"\n"
+"\n"
+"Chief Short and Round gasped, \"Oh my, I remember it now. I was so hot from climbing up that mountain that I put my horn on my head.\""
+msgstr ""
+"«Джоджо искал твой весенний рог весь день,» сказала Мама Треугольник. «Это не его вина что он не нашёл его. Это твоя вина. Короткий и Круглый Вождь. Разве ты не помнишь?» Мама Треугольник указала на вождя. «Ты носишь свой весенний рог на голове!»\n"
+"\n"
+"Вождь короткие и круглые ахнул, «О боже, а теперь я вспомнил. Мне было так жарко от восхождения на эту гору, что я надел свой рог на голову.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think the Chief felt when he realized the horn was on his head?"
+msgstr "Как ты думаешь почувствовал себя вождь когда понял что рог у него на голове?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long in this story has the horn been on his head?"
+msgstr "Как долго в этой истории рог был на его голове?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a story about a time when you thought you lost something and then found out it was in an obvious place all along."
+msgstr "Расскажи историю о случае когда ты думал что что-то потеряла, а потом обнаружил что всё это время оно лежало на видном месте."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I am so embarrassed, said Chief Short and Round as he took his spring horn off his head. Then he passed it to Little Square Jojo. \"You have done all the hard work, Jojo. You should blow the horn.\"\n"
+"\n"
+"Little Square Jojo smiled. He lifted up the horn and gave a loud blow. \"Now we can have the springtime party!\" All was well in the Village of Many Shapes."
+msgstr ""
+"«Мне так стыдно,» сказал Короткий и Круглый Вождь снимая с головы свой весенний рог. Затем он передал его Маленькому Квадратному Джоджо. «Ты проделал всю тяжёлую работу, Джоджо. Тебе следует дуть в рог.»\n"
+"\n"
+"Маленький Квадратный Джоджо улыбнулся. Он поднял рог и громко дунул. «Теперь мы можем устроить весенний праздник!» Всё было хорошо в Деревне Множества Форм."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unlike real snowflakes, the snowflakes in this sky come in many, very different shapes. Point to a few and describe them."
+msgstr "В отличие от настоящих снежинок, снежинки в этом небе бывают самых разных форм. Укажи на некоторые и опиши их."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo did a great job of problem solving. He thought about the problem, he discussed ideas with others, and he persisted even when he was having trouble solving the problem."
+msgstr "Джоджо отлично справился с решением проблемы. Он подумал о проблеме, обсудил идеи с другими и проявлял упорство, даже когда у него возникали трудности с решением проблемы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a fun story, real or make believe, of a time when someone was searching all over for something for a long time and then finally found it."
+msgstr "Расскажи забавную историю, реальную или выдуманную, о том как кто-то долго что-то искал и наконец-то нашёл."
 
 #. type=data_list
 msgctxt "data_list"
@@ -13317,6 +13659,286 @@ msgstr "Чего животные ждут?"
 msgctxt "data_list"
 msgid "How many animals are waiting for their food?"
 msgstr "Сколько животных ждут свою еду?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One night Grandpa was tucking me in. His hands were soft and his hair was thin."
+msgstr "Однажды ночью дедушка укладывал меня спать. Его руки были мягкими и его волосы были тонкими."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two words rhyme when their endings sound alike. Look for the rhyming words on many of the pages of this story. For this page, \"in\" and \"thin\" are the rhyming words."
+msgstr "Два слова рифмуются когда их окончания звучат одинаково. Ищи рифмующиеся слова на многих страницах этой истории. Для этой страницы, «мягкими» и «тонкими» рифмующиеся слова."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other words that rhyme with in and thin. (fin, din, kin, tin, win, bin, grin)"
+msgstr "Придумай другие слова, которые рифмуются с «мягкими» и «тонкими». (короткими, высокими, широкими, подобнами,)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting things in pairs can be fun. However, not everything can be paired up. There are five buttons on Grandpa's coat, and no matter how you pair them up there will be one left over -- that's because five is an odd number!"
+msgstr "Распределять вещи по парам может быть увлекательным занятием. Однако, они всё можно объединить в пары. На дедушкином пальто есть пять пуговиц, и как бы ты их не распределял по парам, одна всё равно останется -- это потому что пять нечётное число!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I'm going to tell you a special story, about a girl named Lory Dory."
+msgstr "«Я расскажу тебе особенную историю о девочке по имени Лори Дори.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hearing someone tell you a story is a special treat. Someone is reading this story to you right now. How does it make you feel?"
+msgstr "Слушать как кто-то рассказывает тебе история - это особое удовольствие. Кто-то читает тебе эту историю прямо сейчас. Какие чувства это у тебя вызывает?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When lines are lined up and go in exactly the same direction they are called parallel lines. The artist has drawn this room in a style with almost no parallel lines. Point out some parallel lines where you are right now."
+msgstr "Когда линия выстроены в линии которые идут в одном направлении они называются параллельными линиями. Художник нарисовал эту комнату в стиле в котором почти нет параллельных линий. Укажи на несколько параллельных линий где ты сейчас находишься."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the rhyming words on this page?"
+msgstr "Какие слова рифмуются на этой странице?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You couldn't see Lory Dory at all because she was born invisible."
+msgstr "Лори Дори вообще невозможно было увидеть потому что она родилась невидимая."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think it feels to be invisible? You could go places and no one would know you were there. Would you like to be invisible?"
+msgstr "Как ты думаешь каково это быть невидимым? Ты мог бы пойти куда угодно и никто бы не знал что ты там был. Тебе бы хотелось быть невидимым?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you are invisible and you put clothes on, are the clothes invisible too?"
+msgstr "Если ты невидимый и оденешь одежду, то становится ли одежда невидимой тоже?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where is Lory Dory in this picture? How can you tell?"
+msgstr "Где Лори Дори на этой картинке? Как ты это можешь заметить?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You'd only see Lory when rain hit her head."
+msgstr "Лоре можно увидеть только тогда когда дождь бьёт её в голову."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you see a shape by seeing an empty space in a picture, that is called \"negative space.\" You can tell where Lory is by seeing the negative space where there is no rain."
+msgstr "Когда ты видишь форму глядя на пустое место на картинке, это называется «негативное пространство.» Ты можешь определить где находится Лори, увидев негативное пространство где нет дождя."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The rain lines in this picture are lined up. Those lines are parallel lines."
+msgstr "Линии дождя на этой картинке выстроены в линии. Эти линии параллельные."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look for parallel lines around you. Most of them will probably be horizontal lines (going side to side) or vertical lines (going up and down). Are there any other parallel lines around you?"
+msgstr "Ищи параллельные линии вокруг себя. Многие из них вероятно будут горизонтальными линиями (идя из стороны в сторону) или вертикальные линии (идя наверх и вниз). Есть ли ещё какие-нибудь параллельные линии вокруг тебя?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Or when she was curled under blankets in bed."
+msgstr "Или когда она свернулась калачиком под одеялом в постели."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The artist took many liberties with this drawing. There are extra squiggles that aren't really there. What else is extra in the picture? (the big red area)"
+msgstr "Художник допустил много вольностей в этом рисунке. Есть дополнительные закорючки которых на самом деле нет. Что ещё личного на картинке? (большое красное пространство)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the artist put in those extra things?"
+msgstr "Зачем художник поместил эти дополнительные вещи?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the easiest part of Lory to see in this picture?"
+msgstr "Какую часть Лори легче всего увидеть на этой картинке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory was left out of all the kids' games. They teased her and they called her names."
+msgstr "Лоре была исключена из всех детских игр. Они дразнили её и называли её именами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We can see Lory in this picture by her negative space and her eyes."
+msgstr "Мы можем увидеть Лори на этой картинке по её негативному пространству и глазами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you suppose her eyelashes are visible when the rest of her is not?"
+msgstr "Как ты думаешь, почему её ресницы видны когда остальная её часть не видна?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often make fun of someone who is different in some way. Have you ever been made fun for this reason? Have you made fun of someone for this reason? Why do you think people do this?"
+msgstr "Люди часто высмеивают тех кто чем-то отличается от других. Тебя когда-нибудь дразнили по этой причине? А ты когда-нибудь дразнил кого-то по этой причине? Как ты думаешь, почему люди это делают?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look, it's Lory. The Imaginary Friend! She's not like us, she's just pretend!"
+msgstr "«Смотри, это Лори. Невидимый друг! Она не такая как мы, она просто воображаемая!»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The umbrellas are divided into areas that are triangles. Triangles are shapes with three straight sides. Do you see any triangles where you are?"
+msgstr "Зонтики разделены на части, представляющие собой треугольники. Треугольники - это фигура с тремя прямыми сторонами. Видишь ли ты какие-нибудь треугольники там где ты находишься?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Triangles are stronger than four-sided shapes. It is much harder to bend triangles and make them lose their shape. Why do you suppose that is?"
+msgstr "Треугольники прочнее четырёхсторонных фигур. Гораздо сложнее согнуть треугольники и заставить их потерять форму. Как ты думаешь, почему это?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That child is about to throw a snowball. Balls are also called spheres. Spheres roll well and are fun to kick and play with. Do you have any spheres around you?"
+msgstr "Этот ребёнок собирается бросить снежок. Шары также называют сферами. Сферы хорошо катятся, их приятно пинать и играть с ними. Есть ли сферы вокруг тебя?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day at school, a boy wanted to know: \"How do you look? I only see you in snow.\""
+msgstr "Однажды в школе мальчик захотел узнать: «Как ты выглядишь? Я только вижу тебя в снегу.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What did the boy mean when he said \"I only see you in snow.\"? Where is Lory in this picture?"
+msgstr "Что имел в виду мальчик когда сказал «Я только вижу тебя в снегу.»? Где Лори на этой картинке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The lines on the boy's shirt go in two directions. The two directions meet each other in the same way as the edges of this page do. Lines that meet this way are said to be perpendicular to each other."
+msgstr "Линии на футболки мальчика идут в двух направлениях. Эти два направления встречаются с друг другом также как встречаются края этой страницы. Линии которые встречаются таким образом называется перпендикулярными друг другу."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out some perpendicular lines where you are. There will probably be a lot of them! Horizontal and vertical lines are usually perpendicular to each other."
+msgstr "Укажи несколько перпендикулярных линий где ты находишься. Их наверное будет много! Горизонтальные и вертикальные линии обычно перпендикулярно друг другу."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you paint yourself? Lory knew that she could. But not in the same way the boy thought she would."
+msgstr "«Можешь ли ты себя нарисовать?» Лори знала что она могла. Но не так, как думал мальчик."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It often happens that someone will mean something different when they say something than what the person hearing it understands. Has that happened to you recently?"
+msgstr "Часто случается так что когда кто-то что-то говорит он имеет в виду не то что понимает слышающий. Случалось ли это с тобой в последнее время?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What did the boy mean by \"paint yourself\" and what do you think Lory is going to do?"
+msgstr "Что имел в виду мальчик с «нарисуй себя» и что ты думаешь Лори собирается сделать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A partial circle is called an arc. There are at least five arcs on this page -- can you find them all? Can you find more than five?"
+msgstr "Частичная окружность называется дугой. На этой странице есть по крайней мере пять дуг -- ты можешь их все найти? Ты можешь найти больше пяти?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory painted her body with all that she loved from the world all around and the sky above."
+msgstr "Лори раскрасила своё тело всем что она любила из окружающего мира и неба над ним."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The expression \"wearing your feelings on your sleeve\" refers to showing the world how you feel. Do you keep your feelings to yourself or do you show them to the world?"
+msgstr "Выражение «носить свои чувства на рукаве» означает показать миру что ты чувствуешь. Держишь ли ты свои чувства при себе или показываешь их миру?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory is showing the world all the things she loves. She is wearing her thoughts all over her body!"
+msgstr "Лори показывает миру всё что она любит. Она носит свои мысли по всему телу!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is inside each of us is invisible to the world until we tell the world. Which things that you love would you like to share with the world?"
+msgstr "То что находится внутри каждого из нас, невидимо для мира пока мы сами не расскажем об этом. Какими вещами которые ты любишь, ты бы хотел поделиться с миром?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She painted herself every day with such pride, to bring out the person who she was inside."
+msgstr "Она рисовала себя каждый день с такой гордостью, чтобы показать какой она была внутри."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color did she use for her right foot and which one for her left foot?"
+msgstr "Какой цвет она использовала для правой ноги, а какой для левой?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Using paint is a bit messy, but it is one way to show her mark on the world. There are many ways we leave marks on the world without using paint. Can you think of a few?"
+msgstr "Использование краски немного неаккуратное занятие, но это один из способов оставить свой след в мире. Есть много способов оставить след в мире, не используя краску. Можешь ли ты вспомнить некоторые?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can count the toe prints one by one, or you can count them by 5's. Skip counting is often a quick way to count a bunch of things! How many toe prints are there?"
+msgstr "Ты можешь посчитать отпечатки пальцев ног по одному или по 5. Счёт с пропусками часто является быстрым способом посчитать кучу вещей! Сколько здесь отпечатков пальцев ног?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I know I'm invisible and hard to see. So I painted these pictures to show the real me."
+msgstr "«Я знаю что я невидимая и меня трудно увидеть. Поэтому я нарисовала эти картинки чтобы показать себя настоящей.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different things can you see on her that Lory likes?"
+msgstr "Сколько разных вещей которые нравятся Лори ты можешь увидеть на ней?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How well does this share who Lory is?"
+msgstr "На сколько хорошо это передаёт кто такая Лори?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which things would be hard to share this way?"
+msgstr "Какими вещами было бы трудно поделиться таким образом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\""
+msgstr "«Ты что выдумываешь дедушка? Эта история настоящая?» «Лори настоящая -- настоящая как и я, настоящая как и ты.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story may not be real, but it has a real message. What is the message?"
+msgstr "История может быть и не настоящая, но в ней есть реальное послание. Какое послание?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How well do you think people see the invisible things inside you?"
+msgstr "Как ты думаешь насколько хорошо люди видят невидимые вещи внутри тебя?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there something inside you that you would want to keep invisible?"
+msgstr "Если внутри тебя что-то что ты хотел бы сохранить невидимым?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Grandpa had left me, I can't quite be sure, but I think I saw Lory just outside my door."
+msgstr "Когда дедушка ушёл от меня, я не могу сказать наверняка, но мне кажется я увидел Лори прямо за дверью."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think? Do \"sure\" and \"door\" rhyme?"
+msgstr "Как ты думаешь? А «конечно» и «дверь» рифмуются?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?"
+msgstr "Вернись и посмотри на все пары рифмующихся слов. Ты можешь найти ещё несколько слов которые в паре?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some kinds of poems use rhyming words. Have you ever written a poem?"
+msgstr "В некоторых видах стихах используются рифмующиеся слова. Ты когда-нибудь писал стихотворение?"
 
 #. type=data_list
 msgctxt "data_list"
