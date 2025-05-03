@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-05-03 03:55\n"
+"PO-Revision-Date: 2025-05-03 04:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4540,7 +4540,7 @@ msgstr ""
 "\n"
 "Брови представляют собой две линии.\n"
 "\n"
-"ау, это идеально!"
+"Вау, это идеально!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4681,7 +4681,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "In which ways does this picture have mirror symmetry and in which ways does it fail?"
-msgstr "Чем эта картинка обладает зеркальные симметрии, а в чём она нарушена?"
+msgstr "Чем эта картинка обладает зеркальной симметрией, а в чём она нарушена?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5653,6 +5653,403 @@ msgstr "Семья Изинзаву есть шесть человек. Когд
 msgctxt "data_list"
 msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
 msgstr "Если расположить этих семь человек по росту, поставив с самого низкого слева, а самого высокого справа, каков будет порядок? Пиши этот порядок, используя цвет их одежды."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Everyone knows that the elephant has a very long nose."
+msgstr "Все знают, что у слона очень длинный нос."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants live in many places in Africa and Asia. What are some things you know about elephants?"
+msgstr ""
+"Все знают, что у слона очень длинный нос.}\n"
+"{Слоны живут во многих местах Африки и Азии. Какие некоторые вещи которые ты знаешь о слонах?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen an elephant? If so, did it look like this?"
+msgstr "Ты когда-нибудь видел слона? Если да, то как он выглядел?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two patches of hair on this elephant. Do elephants actually have hair like this?"
+msgstr "У этого слона две клочья шерсти. Действительно ли у слонов такая шерсть?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But a long time ago, the elephant's nose was short and fat. Like a shoe in the middle of its face."
+msgstr "Но давным-давно, нос слона был коротким и толстым. Как ботинок посреди его лица."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants have 5 toes on each foot. How many toes in total? One way to figure this out is to skip count by 5's -- 5, 10, 15, 20."
+msgstr "У слонов по 5 пальцев на каждой ноге. Сколько всего пальцев получается вместе? Один из способов чтобы это понять, это считать по пяти -- 5, 10, 15, 20."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants have large ears and can hear sounds up to six miles away."
+msgstr "У слонов большие уши, и они могут слышать звуки на расстоянии до шести миль."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Elephants also use their ears to keep cool."
+msgstr "Слоны также используют свои уши чтобы сохранять прохладу."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day a baby elephant was born. She was curious about everything. She had a question for every animal."
+msgstr "Однажды родился Слонёнок. Ей было интересно всё. У неё был вопрос к каждому животному."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even numbers are numbers that can be split evenly in two. Odd numbers can't. The elephant has 2 eyes, 2 ears, and four legs -- all even numbers."
+msgstr "Чётные числы - это числы которые можно разделить поровну на две части. Нечётные числы нельзя. У слона 2 глаза, 2 уха, и четыре ноги-- все чётные числы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Find some things in this picture that there are an odd number of."
+msgstr "Найди на этой картинке предметы которых нечётное количество."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that all the body parts that there are an odd number of are in the middle of the elephant's body."
+msgstr "Обрати внимание, что все части тела которых нечётнoе количество, находится в середине тела слона."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Giraffe. \"Why do you have a long neck?\" she asked."
+msgstr "Ей было любопытно узнать о жирафе. «Почему у тебя длинная шея?» она спросила."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count the Giraffe's dark spots, or are there too many to count?"
+msgstr "Можешь ли ты посчитать тёмные пятна на жирафе, или их слишком много чтобы посчитать?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No two giraffe's have the same pattern of dark spots!"
+msgstr "У двух жирафов нет одинакового рисунка тёмных пятен!}"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think it takes a giraffe a long time to swallow its food because it has such a long neck?"
+msgstr "Как ты думаешь, жирафу требуется много времени, чтобы проглотить пищу потому что у него такая длинная шея?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Rhino. \"Why does your horn have a sharp point?\""
+msgstr "Ей было любопытно узнать о носорога. «Почему у твоего рога острый кончик?»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rhino can run about half as fast as a car on a highway."
+msgstr "Носорог может бежать по шоссе примерно вполовину быстрее автомобиля."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rhino can run three times faster than a person, so don't try to run away from one!"
+msgstr "Носорог может бежать в три раза быстрее человека, поэтому не пытайся убежать от него!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The elephant was curious about the rhino. Are you? What would you like to ask the rhino?"
+msgstr "Слон заинтересовался носорогом. А ты? О чём бы ты хотел спросить носорога?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She was curious about Hippo. \"Why do you have red eyes?\" she asked."
+msgstr "Ей было любопытно узнать о Бегемоте. «Почему у тебя красные глаза?» она спросила."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hippos can fill up on grass and then not eat for three weeks! How many days is that? Hint: Skip count by 7's."
+msgstr "Бегемоты могут насытиться травой, а потом не есть три недели! Сколько это дней? Подсказка: считай по семи."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long can you go without eating?"
+msgstr "Как долго ты можешь не есть?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Every animal we've seen has a bit of hair at the end of its tail. They are all mammals, and mammals have hair! Even the bowhead whale has hair on its lips, chin, snout, and behind its blowhole."
+msgstr "У каждого животного которого мы видели, на конце хвоста есть немного шерсти. Они все млекопитающие, а у млекопитающих есть шерсть! Даже у гренландского кита есть шерсть на губах, подбородки, морде, и задыхалом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And she was VERY curious about Crocodile. \"What does Crocodile eat for dinner?\" she asked."
+msgstr "И ей было ОЧЕНЬ любопытно узнать о Крокодиле. «Что крокодил ест на ужин?» она спросила."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many teeth can you see? If it has the same number of teeth on the other side of its mouth, how many would that be all together?"
+msgstr "Сколько зубов ты видишь? Сколько бы их было всего вместе, если на другой стороне рта у него такое же количество зубов?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think is on his dinner plate under the cover?"
+msgstr "Как ты думаешь, что у него на тарелке под крышкой?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which is more and which is less: Crocodile's teeth or the bumps on Crocodile's tail?"
+msgstr "Что больше, а что меньше: зубы Крокодила или шишки на хвосте Крокодила?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Never ask a question like that!\" said her mother. Then she walked off, frowning."
+msgstr "«Никогда не задавай такие вопросы!» сказала её мама. Потом она ушла, нахмурившись."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many groups of things in this picture, such as groups of ears, eyes, and eyelashes. How many different groups can you find?"
+msgstr "На этой картинке много групп объектов, например группы ушей, глаз, и ресниц. Сколько разных групп ты можешь найти?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the mother say not to ask such a question?"
+msgstr "Почему мама сказала не задавать такой вопрос?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the eyelashes on both elephants by skip counting by 3's. What would you skip count by to count their feet?"
+msgstr "Посчитай ресницы у обоих слонов считая по 3. По чём бы ты посчитал если считать их ноги?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Quickly Crow flew down to baby elephant. \"Follow me to the river. There you will see what Crocodile eats for dinner,\" squawked Crow."
+msgstr "Быстро Ворона прилетела к слонёнку. «Следуй за мной к реке. Там ты увидишь, что ест Крокодил на ужин,» пропищала Ворона."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Crow wants to help, or is Crow going to play a trick on Baby Elephant?"
+msgstr "Как ты думаешь, Ворона хочет помочь, или Ворона собирается обмануть Слонёнка?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you follow Crow?"
+msgstr "Ты бы последовал за Вороной?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For each of the numbers from one to four, find a group in this picture with that many things in it."
+msgstr "Для каждого числа от 1 до 4 найди на этой картинке группы, в которых содержится такое количество предметов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So the baby elephant followed Crow down to the river."
+msgstr "Итак, Слонёнок последовала за Вороной к реке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The yellow path looks narrower in the distance. Things far away often look smaller."
+msgstr "Жёлтая дорога вдалеке кажется уже. Вещи, расположенные далеко, часто кажутся меньше."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How would you describe the look on Baby Elephant's face?"
+msgstr "Как бы ты описал выражение на мордочки Слонёнка?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine if you had four feet to control to walk like Baby Elephant. Would it be easier or harder than walking on two feet?"
+msgstr "Представь, если бы тебе нужно было контролировать четыре ноги чтобы ходить, как слонёнок. Было бы это легче или труднее, чем ходить на двух ногах?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She pushed through the reeds and stood on the bank. She looked into the water. Where was Crocodile?"
+msgstr "Она пробралась через камыш и остановилась на берегу. Она посмотрела в воду. Где был Крокодил?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are the same things on each side of baby elephant. This is called mirror symmetry, or simply symmetry."
+msgstr "На каждой стороне слонёнка одинаковые вещи. Это называется зеркальной симметрией или просто симметрией."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Faces often have mirror symmetry. The flower on baby elephant's face breaks the mirror symmetry of her face."
+msgstr "Лицы часто имеет зеркальную симметрию. Цветок на морде слонёнка нарушает зеркальную симметрию её лица."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With mirror symmetry, body parts not on the midline show up in pairs -- for example, two ears, two eyes, and two arms. Because of this, there will be an even number of them."
+msgstr "При зеркальной симметрии, части тела не находящиеся на средней линии отображаются парами -- например, два уха, два глаза, и две руки. Из-за этого их будет чётное количество."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
+msgstr "«Привет,» сказал камень возле берега реки. «Привет,» сказала Слонёнок. «Ты можешь мне сказать, что крокодил ест на ужин?» она спросила."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Baby Elephant talking to a stone or to Crocodile?"
+msgstr "Слонёнок разговаривает с камнём или с Крокодилом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is it useful to a crocodile to have its eyes stick up above the water when the rest of its body is below the water?"
+msgstr "Почему Крокодилу полезно держать глаза торчащими над водой, когда остальное часть тела находится под водой?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the circles in this picture. Some parts of some of the circles are blocked from view."
+msgstr "Посчитай все круги на этой картинке. Некоторые части некоторых кругов заблокированы от просмотра."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
+msgstr "«Нагнись вниз и я тебе скажу,» сказал камень. «Ниже, ниже,» сказал камень. И Слонёнок нагнулась всё ниже и ниже."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Uh oh! Why does Crocodile want Baby Elephant to get closer?"
+msgstr "Ой! Почему Крокодил хочет чтобы Слонёнок приблизился?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can the crocodile eat Baby Elephant? Baby Elephant is much bigger than crocodile."
+msgstr "Крокодил может съесть Слонёнка? Слонёнок намного больше крокодила."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then suddenly, \"Snap!\" Baby Elephant's nose was caught in Crocodile's jaws. \"Crocodile will eat YOU for dinner!\" squawked Crow, and flew away."
+msgstr "И вдруг, «Щелчок!» нос Слонёнка застрял в челюстях Крокодила. «Крокодил съест ТЕБЯ на ужин!» Пропищала Ворона и улетела."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Crow tricked Baby Elephant. Can you think of any stories where someone played a trick on someone else?"
+msgstr "Ворона обманула Слонёнка. Ты можешь вспомнить историю, в которой кто-то разыграл кого-то другого?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of a time when someone tricked you?"
+msgstr "Ты можешь вспомнить случай, когда тебя кто-то обманул?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you noticed the ground Baby Elephant stands on keeps changing color? Which colors have been used so far?"
+msgstr "Ты заметил, что земля на которой стоит Слонёнок постоянно меняет цвет? Какие цвета использовались до сих пор?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baby Elephant sat back on her strong legs and pulled. She pulled, and pulled. But Crocodile did not let go of her nose."
+msgstr "Слонёнок откинулась на своих сильных ногах и потянула. Она тянула и тянула. Ну Крокодил не отпускал её нос."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Baby Elephant feeling right now?"
+msgstr "Что Слонёнок сейчас чувствует?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is Crocodile feeling right now?"
+msgstr "Что Крокодил сейчас чувствует?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baby Elephant's nose was described as a shoe in the middle of its face at the start of the story. What does it look like now?"
+msgstr "В начале истории нос Слонёнка описывался как ботинок посередине морды. А теперь как он выглядит?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baby Elephant's nose stretched, and stretched, and stretched. Then, \"Thud!\" she fell on her back."
+msgstr "Но Слонёнка растягивалась, растягивалась, и растягивалась. И потом, «Стук!» она упала на спину."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever lost your balance and flipped over with a \"Thud\"?"
+msgstr "Ты когда-нибудь терял равновесие и упал переворачиваясь со «Стук»?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the lines that curl and swerve in the picture. What are they telling us?"
+msgstr "Заметь на линии, которые закручивается и извиваются на картине. Что они нам говорят?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and count all the extra lines added to the picture."
+msgstr "Укажи и посчитай все дополнительные линии, добавленные к картинке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Crocodile sunk back into the water. He was cross about losing his dinner."
+msgstr "Крокодил снова погрузился в воду. Он был расстроен из-за потери ужина."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this pond big enough for Crocodile, or is it too small?"
+msgstr "Этот пруд достаточно большой для Крокодила, или он слишком маленький?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Crocodile's body curled into a ball so that it fits in the pond?"
+msgstr "Тело Крокодила свернулось в клубок, чтобы поместиться в пруд?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three plants near Crocodile. There is another group of three things that shows us how Crocodile is feeling -- where are they?"
+msgstr "Рядом с Крокодилом три растения. Есть ещё одна группа из трёх вещей, которая показывает нам как чувствует себя Крокодил -- что это?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baby Elephant looked at her nose. It was stretched very long. She could not see where it ended!"
+msgstr "Слонёнок посмотрела на свой нос. Он был растянут очень длинным. Она не могла видеть где он заканчивается!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is Baby Elephant feeling about her nose?"
+msgstr "Что чувствует слонёнок по поводу своего носа?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It can be difficult to accept changes in how you look. Have your looks changed?"
+msgstr "Может быть трудно принять изменения в том, как ты выглядишь. Изменилась ли твоя внешность?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Baby Elephant stands up, do you think her trunk will touch the ground?"
+msgstr "Как ты думаешь, когда слонёнок встанет её нос коснётся земли?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her nose was so long she could pick fruit from high branches."
+msgstr "Её нос был таким длинным, что она могла собирать фрукты с высоких веток."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her nose has turned into a long trunk. An elephant's trunk has lots of muscles and is very strong."
+msgstr "Её нос превратился в длинный хобот. Хобот слона имеет много мышц и очень сильный."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some ways that a long trunk is useful? Do you wish you had one?"
+msgstr "Чем полезен длинный хобот? Хотел ли ты чтобы у тебя был один?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes a change that seemed bad at first turns out to be a good thing. Has something like that happened to you?"
+msgstr "Иногда перемены, которые поначалу казались плохими оказываются хорошими. Это когда-нибудь случалось с тобой?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her nose was so long she could shower her back with water. From that day, all elephants have had long and useful trunks."
+msgstr "Её нос был таким длинным, что она могла ополоснуть спину водой. С того дня у всех слонов появились длинные и полезные хоботы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If all elephants have long trunks after this, did each one have to get their nose stretched by a crocodile?"
+msgstr "Если после этого у всех слонов хоботы стали длинными, то каждому из них пришлось вытягивать нос крокодилом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Baby Elephant should be friends with Crow ever again?"
+msgstr "Как ты думаешь, Слонёнок должна когда-нибудь снова дружить с Вороной?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a story like this that explains how the giraffe got such a long neck."
+msgstr "Придумай подобную историю, объясняющую почему у жирафа такая длинная шея."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8778,6 +9175,248 @@ msgstr "Во время этой истории Фана носила много
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Once upon a time, there was a farmer who had two sons."
+msgstr "Жил-был Фермер, у которого было два сына."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The round thatched roofs of the houses are cone shaped. What other cone shapes do you see in this picture?"
+msgstr "Круглые соломенные крыши домов имеют форму конуса. Какие ещё формы конусов ты видишь на этой картинке?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What other cone shaped things have you seen in your life? (Ice cream cone, fir trees, traffic cone, funnel)"
+msgstr "Какие ещё вещи в твоей жизни выглядят как конус? (Мороженое в вафельном стаканчике, деревье ели, дорожный конус, воронка)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides like this page. Find as many rectangles as you can in this picture."
+msgstr "Прямоугольник - это фигура с четырьмя прямыми сторонами, как на этой странице. Найди на этой картинке как можно больше прямоугольников."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, he called his sons and said, \"I am old and will die soon. But before I die, I want to see you in your own homes. You have one month to each make your own home. I want to see you back here after the month.\""
+msgstr "Однажды, он позвал своих сыновей и сказал, «Я стар и скоро умру. Но прежде чем тем как я умру, я хочу увидеть вас в своих домах. У вас есть один месяц, чтобы каждый обустроил свой дом. Я хочу увидеть вас здесь после месяца опять.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can find out how many feet they have all together by skip counting by 2's three times or skip counting by 3's two times. How many are there?"
+msgstr "Ты можешь узнать сколько у них ног вместе если считать по 2 три раза, или считать по 3 два раза. Сколько получается?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To find out how many limbs (legs and arms) they have, what number would you skip count by? How many limbs are there?"
+msgstr "Чтобы узнать сколько конечностей (ног и рук) у них, по каким числом бы ты посчитал? Сколько конечностей получается?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess why the father has that long stick. Is it because he has trouble walking, or is it to signal that he should get respect as an older person, or perhaps both?"
+msgstr "Угадай, почему у отца такая длинная палка. Это потому что ему трудно ходить, или это сигнал о том что его следует уважать как пожилого человека, или возможно и то и другое?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The two sons rushed out. The first one went to the roadside. He cut down trees and began to build a big compound for himself."
+msgstr "Два сына выбежали. Первый вышел на обочину. Он вырубил деревья и начал строить себе большое поместье."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes you can find faces in the clouds, in the moon, or other places. Do you see the face in the tree?"
+msgstr "Иногда можно видеть лицо в облаках, на луне, или в других местах. Ты видишь лицо на дереве?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a face in the clouds or someplace else when it wasn't really a face?"
+msgstr "А ты когда-нибудь видел лицо в облаках или где-то ещё, когда это на самом деле не было лицом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trees has this son cut down to make these houses?"
+msgstr "Сколько деревьев срубил этот сын, чтобы построить эти дома?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The second one, however, went out and started forming special relationships with other families. He went to different people, and he became like their foster child."
+msgstr "Однако второй вышел и начал формировать особые отношения с другими семьями. Он пошёл к разным людям и стал для них приёмным ребёнком."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This second son is greeting someone in a friendly way with his hands. Copy this hand gesture with the person you are with now."
+msgstr "Этот второй сын дружелюбно приветствует кого-то руками. Скопируй этот жест с человеком который находится с тобой сейчас."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you greet people differently when they are in your family and when they are a friend?"
+msgstr "Как ты по-разному приветствуешь людей, когда они в твоей семье и когда они друзья?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the shadows in this picture. Point to where you think the sun is in the sky. Guess what time of day it is."
+msgstr "Посмотри на тени на этой картинке. Покажи место, где по твоему мнению находится солнце на небе. Угадай какое сейчас время суток."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After a month, the two brothers came back to their father. The father said, \"Well, have you built your homes?\" And both of the brothers said, \"Yes.\""
+msgstr "После месяца, два брата вернулись к отцу. Отец сказал, «Ну, вы построили свои дома?» И оба брата сказали, «Да.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vertical lines go up and down. Although you can't see them all, how many vertical planks in the door do you think there are?"
+msgstr "Вертикальные линии идут вверх и вниз. Хотя ты не можешь видеть их всех, как ты думаешь, сколько вертикальных досок в двери?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Horizontal lines go from side to side. If you add the one horizontal plank to the vertical planks, how many planks are there all together?"
+msgstr "Горизонтальные линии идут из стороны в сторону. Если к вертикальным доскам добавить одну горизонтальную, сколько всего досок получается вместе?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A month can be 28, 29, 30, or 31 days. Do you think someone could make their home in about 30 days? What month of the year is it for you right now?"
+msgstr "В месяце может быть 28, 29, 30, или 31 дней. Как ты думаешь, кто-то может построить свой дом примерно за 30 дней? Какой месяц года для тебя сейчас?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father went with his eldest son. He saw that the son had built many huts. As he walked by each hut, he asked, \"Is there anybody in this hut?\" Each time, the son replied, \"No.\""
+msgstr "Отец пошёл со старшим сыном. Он увидел, что сын построил много хижин. Проходя мимо каждой хижины, он спрашивал, «Есть ли кто-нибудь в этой хижине?» Каждый раз, сын отвечал, «Нет.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There is a new word that the father uses for these buildings. How is a hut different from a home?"
+msgstr "Есть новое слово, которое отец использует для обозначения этих зданий. Чем хижина отличается от дома?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever made a real or pretend hut, house, or fort? What did you use to make it?"
+msgstr "Ты когда-нибудь строил настоящую или воображаемую хижину, дом, или крепость? Что ты использовал, чтобы сделать это?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count how many huts there are in this picture. If there is no one in a hut, how many people is that? (0 – zero)"
+msgstr "Посчитай сколько хижин на этой картинке. Если в хижине никого нет, сколько это человек? (0 – ноль)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father would ask, \"Is there anybody in this hut?\" And the son would reply, \"No.\""
+msgstr "Отец спрашивал, «Есть ли кто-нибудь в этой хижине?» И сын отвечал, «Нет.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the rectangles you can find in this picture."
+msgstr "Посчитай все прямоугольники которые ты можешь найти на этой картинке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A right angle is formed when two lines cross each other like the corner of this page. Horizontal lines form right angles with vertical lines. Point out some right angles in this picture."
+msgstr "Прямой угол образуется, когда две линии пересекают друг друга, как угол этой страницы. Горизонтальные линии образуют прямые углы с вертикальными линиями. Укажи на этой картинке несколько прямых углов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are probably lots of right angles where you are. Can you count them all, or are there too many?"
+msgstr "Там где ты сейчас находишься, вероятно много прямых углов. Ты можешь их всех посчитать, или их слишком много?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father became hungry, but there was no one to serve food to him. He said, \"Let's go home.\" So they went home."
+msgstr "Отец проголодался, но некому было подать ему еду. Он сказал, «Пошли домой.» И они пошли домой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People usually offer visitors something to eat or drink. All these huts are unwelcoming, with nothing to offer to a visitor."
+msgstr "Люди обычно предлагают посетителям что-нибудь поесть или выпить. Все эти хижины неприветливые, и посетителям нечего предложить."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the father has turned his back on his son. What message do you give someone when you turn your back on them?"
+msgstr ""
+"Обрати внимание, что отец отвернулся от сына. Какое послание ты передаешь кому-то, когда поворачиваешься к нему спиной?}\n"
+"{Как ты думаешь, что он чувствует когда отец уходит?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As the father walks away, what do you think he is feeling?"
+msgstr "Как ты думаешь, что он чувствует когда отец уходит?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The second brother took them to the first family he had adopted. He introduced them, \"Here is my father and my brother.\" The family welcomed the men. They slaughtered a sheep and gave them a big feast."
+msgstr "Второй брат отвёз их в первую усыновленную семью. Он представил их, \"Вот мой отец и мой брат.\" Семья приветствовала мужчин. Они зарезали овцу и устроили им большой пир."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This family gave the father a feast! Why did they do that?"
+msgstr "Эта семья устроила отцу пир! Почему они это сделали?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think the father is feeling about this?"
+msgstr "Как ты думаешь, что чувствует по этому поводу отец?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen with the next family they visit?"
+msgstr "Как ты думаешь, что произойдёт со следующей семьёй которую они посетят?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They went to the second family the younger son had adopted. He introduced his father and brother and they were given another feast."
+msgstr "Они пошли во вторую семью, которая усыновила младшего сына. Он представил отца и брата, и им устроили ещё один пир."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice how the people are looking at each other. How are they feeling?"
+msgstr "Обрати внимание, как люди смотрят друг на друга. Как они себя чувствуют?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think the small child and the second son are saying to each other as they meet?"
+msgstr "Как ты думаешь, что говорят друг другу маленький ребёнок и второй сын при встрече?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their clothes have many soft hues. Describe some of the different colors that you see."
+msgstr "Их одежда имеет множество мягких оттенков. Опиши некоторые цвета которые ты видишь."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father and brother were welcomed in all the places where the younger son was adopted. They ate and were satisfied. Then they left for home."
+msgstr "Отца и брата приветствовали во всех местах, где был усыновлён младший сын. Они поели и остались довольными. Потом они ушли домой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the cone-shaped roofs are steeper than others. Why is it helpful to have a steep roof?"
+msgstr "Некоторые крыши в форме конусов намного круче других. Почему полезно иметь крутую крышу?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of any disadvantages of having a steep roof? (It would take more material.)"
+msgstr "Можешь ли ты назвать какие-то недостатки крутой крыши? (Они требуют больше материала.)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What things about the father tell you that he is feeling very tired?"
+msgstr "Что в отце говорит тебе о том что он очень устал?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.\""
+msgstr "Отец сказал, «Вот что я имел в виду когда говорил что ты должен создать себе дом. Дом - это больше чем множество хижин или большого дорогого дома. Это любовь, теплота, и дружба с другими людьми.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A home is not just a roof or walls or doors. In the place where you live, what kinds of things make it a home to you?"
+msgstr "Дом - это не просто крыша, стены, или двери. Какие вещи делает место где ты живёшь домом для тебя?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these three is the tallest and which is the shortest?"
+msgstr "Какой из этих трёх самый высокий, а какой самый низкий?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which do you think is more helpful – to have lots of people who care about you or to have lots of buildings?"
+msgstr "Как ты думаешь, что более полезно – имёть много людей которые заботятся о тебе, или иметь много зданий?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "A father, his son, and their donkey started a long journey.\n"
 "\n"
@@ -8959,6 +9598,52 @@ msgstr "Думаешь ли ты, что ты можешь себя таким �
 msgctxt "data_list"
 msgid "Can you think of a time when you did what you felt was right despite what others thought?"
 msgstr "Можешь ли ты вспомнить случай, когда ты поступил/а так, как считал/а правильным, несмотря на то, что думали другие?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Fati was a little girl who ran like the wind.\n"
+"\n"
+"She loved to laugh, and always tried hard to do as she was told."
+msgstr ""
+"Фати была маленькой девочкой, которая бежала как ветер.\n"
+"\n"
+"Она любила смеяться и всегда старалась сделать то, что ей говорили."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It can be hard sometimes to do what you are told. Are you good at following directions?"
+msgstr "Иногда бывает трудно делать то, что тебе говорят. А ты умеешь следовать инструкциям?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you feel when you don't do as you are told?"
+msgstr "Как ты себя чувствуешь, когда не делаешь то что тебе говорят?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Fati have more, or less,  limbs (arms and legs) than there are ends to her stick?"
+msgstr "У фати больше или меньше конечностей (рук и ног) чем концов у её палки?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, Fati went with her mother and father to look for firewood."
+msgstr "В один день, Фати пошла с матерью и отцом искать дрова."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever tried to balance something on your head the way Fati's mother is doing? What sorts of things do people carry on their heads?"
+msgstr "Ты когда-нибудь пытался балансировать что-то на своей голове, как это делает мать Фати? Какие вещи люди носят на голове?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at Fati's head and shoulders, what do you think she is feeling?"
+msgstr "Глядя на голову и плечи Фати, как ты думаешь что она чувствует?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the people in this picture."
+msgstr "Посчитай вместе людей на этой картинке."
 
 #. type=data_list
 msgctxt "data_list"
