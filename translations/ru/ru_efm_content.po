@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-05-03 05:54\n"
+"PO-Revision-Date: 2025-05-03 13:33\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11128,6 +11128,106 @@ msgstr "Приходилось ли тебе когда-нибудь изо вс
 msgctxt "data_list"
 msgid "How does it feel when you help others?"
 msgstr "Как ты себя чувствуешь когда ты помогаешь другим?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs do two ladybugs have?"
+msgstr "Сколько ног у двух божьих коровок?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting is counting by steps bigger than 1. You can skip count these legs by 6's by counting 6, 12. You can also skip count by 3's using the sides of their bodies 3, 6, 9, 12."
+msgstr "Считать с пропусками - это подсчёт шагами больше чем один. Ты можешь считать с пропусками чтобы посчитать ноги по 6, почитав 6, 12. Ты также можешь считать с пропусками по 3, используя стороны тела 3, 6, 9, 12."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can skip count to 12 in steps of 3 and 6. Can you think of other ways to skip count to 12? Which ways work (1, 2, 3, 4, 6, 12) and which ways don't (5, 7, 8, 9, 10, 11)?"
+msgstr "Ты можешь считать с пропусками до 12 с шагами 3 и 6. Можешь ли ты придумать другие способы чтобы пропустить счёт до 12? Какие способы работают (1, 2, 3, 4, 6, 12) и какие нет (5, 7, 8, 9, 10, 11)?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the dots on each ladybug's back. Have you seen ladybugs around where you live -- did they have more or fewer dots than these?"
+msgstr "Посчитай точки на спинке каждой божьей коровки. Ты видел божьих коровок там где ты живёшь-- у них было больше или меньше точек, чем у этих?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many wings do four birds have?"
+msgstr "Сколько крыльев у четырёх птиц?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting by 2's -- one 2 for each bird."
+msgstr "Считай с пропусками по два -- один 2 для каждой птицы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting the four left wings and then the four right wings. It's fun that you get the same answer whether you skip by 2's or 4's!"
+msgstr "Считай с пропусками чтобы посчитать крылья, посчитав четыре левых крыла, а затем четыре правых крыла. Забавно что получаешь один и тот же ответ независимо от того если ты считаешь по 2 или 4!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If the bird in the sky flies away, how many of the four birds will remain?"
+msgstr "Если птица в небе улетит, сколько птиц из четырёх останется?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns do three rhinos have?"
+msgstr "Сколько рогов у трёх носорогов?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has two horns, a big one and a small one. Skip count their horns by 2's and 3's."
+msgstr "У каждого носорога два рога, один большой и один маленький. Посчитай их рога с пропусками на 2 и 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How would you skip count to find out how many feet they have?"
+msgstr "Как бы ты посчитал с пропусками чтобы узнать сколько у них ног?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has twice as many feet as horns. Take the total number of horns and double that to get the total number of feet."
+msgstr "У каждого носорога ног в два раза больше чем рогов. Возьми общее количество рогов и умножь это вдвое чтобы получить количество ног."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trunks do five elephants have?"
+msgstr "Сколько хоботов у пяти слонов?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count trunks, tails, tusks, and ears. Counting tails and trunks is simple -- what number do you get?"
+msgstr "Давай посчитаем хоботы, хвосты, бивни, и уши. Считать хвосты и бивни просто -- Какое число ты получаешь?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each elephant has two tusks and two ears. Which do you like better -- skip counting these by 2's or by 5's?"
+msgstr "У каждого слона два бивня и два уха. Что тебе нравится лучше -- считать эти по 2 или 5?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four big elephants and one baby elephant. How much is four plus one more?"
+msgstr "Есть четыре больших слона и один слонёнок. Сколько будет четыре плюс ещё один?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many ears do seven dogs have?"
+msgstr "Сколько ушей у семи собак?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you count the ears by 1's, 2's, or 7's?"
+msgstr "Ты посчитал уши по 1,2, или 7?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are 14 ears. We can skip count to 14 by 1's, 2's, and 7's. Are there any other step sizes that work for counting to 14?"
+msgstr "Есть 14 ушей. Мы можем посчитать с пропусками до 14 по 1, 2, и 7. Есть ли другие размеры шагов которые подходят для счета до 14?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four dogs in the top group and three in the bottom. What do you get when put four dogs together with three more?"
+msgstr "В верхней группе четыре собаки, а в нижней три. Что получится, если соединить четырёх собак с ещё тремя?"
 
 #. type=data_list
 msgctxt "data_list"
