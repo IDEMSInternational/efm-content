@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-04 04:24\n"
+"PO-Revision-Date: 2025-05-04 05:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8230,6 +8230,71 @@ msgstr "14この耳があるね。14まで、1つずつでも2とびや7とび�
 
 #. type=data_list
 msgctxt "data_list"
+msgid "There are four dogs in the top group and three in the bottom. What do you get when put four dogs together with three more?"
+msgstr "上のグループには4匹、下のグループには3匹いるね。4匹に3匹増えたら何匹になるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many tails do three monkeys have?"
+msgstr "サル3匹のしっぽは何本あるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count the tails, eyes, and feet. How many tails do you count?"
+msgstr "しっぽ、目、足を数えよう。しっぽは何本になるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you count the eyes two at a time, two for each monkey, or would you count them three at a time, which is doubling the number of monkeys?"
+msgstr "サルごとに2つずつ目を数えるか、それとも、3つずつ数える？それだとサルの数を2倍することになるね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You have many choices for skip counting their feet. What are your choices and which one would you choose to use?"
+msgstr "とび数えで足を数えるには、たくさんのやり方があるね。どんなやり方があって、どれを選ぶ？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many eyes do six cats have?"
+msgstr "ネコ6匹の目はいくつあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Wow, these cats are a bit creepy! Did you skip count the eyes by 2's or 6's?"
+msgstr "わぁ、このネコたちはちょっと気味悪い! 2とび、それとも6とびで目を数えたのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many whiskers does each cat have? Can you count high enough to skip count all the whiskers?"
+msgstr "それぞれのネコのひげは何本かな？全部のひげを数えるのに、とび数えをして大きな数まで数えられる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you skip count high enough to count all the feet?"
+msgstr "全部の足を数えられるくらい大きな数で、とび数えができるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs does one worm have?"
+msgstr "虫の足は何本あるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count all those legs, or is it too tricky to see or too high to count?"
+msgstr "全部の足を数えられる？それとも見えにくいか、数えるには数が大きすぎる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other things that are just too many to count."
+msgstr "数が多すぎて数えられないものを、ほかにも考えてみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer."
+msgstr "1つずつ数えるよりも、とても早く答えが出せるからとび数えは面白いよね。同じ答えになる違う数字でのとび数えを見つけるのも面白いよね。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Mod the toad was tired of living in water."
 msgstr "ヒキガエルのモッドは水の中の生活に飽きていました。"
 
@@ -8467,6 +8532,784 @@ msgstr "カエルやヒキガエルを見たことありますか？どちらか
 msgctxt "data_list"
 msgid "Have you ever gone to a pond, river, or lake to explore water life?"
 msgstr "池や川、湖に行って水の生物を探したことがありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A long time ago, there was a greedy hyena."
+msgstr "むかしむかしあるところに、欲張りなハイエナがいました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These houses seem very smoky. How many houses do you see in Hyena's village?"
+msgstr "これらの家から煙がたくさん出ているように見えます。ハイエナの村にはいくつの家がありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each house is round with round roof going up to a point. Each roof is in the shape of a cone. Do you see any cone-shaped things around you?"
+msgstr "それぞれの家は丸く、屋根の先端まで丸くなっています。それぞれの屋根は円すいの形をしています。あなたのまわりに円すいの形をしたものはありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the toes on each of Hyena's legs. Hyenas have the same number of toes on all their legs -- is that what the picture shows?"
+msgstr "ハイエナのそれぞれの足の指を数えてください。 ハイエナはすべての足に同じ数の指があります―それはこの絵で示していますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There was also Tortoise. Hyena and Tortoise were friends."
+msgstr "カメもいました。ハイエナとカメは友達でした。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many houses are in Tortoise's village? How many houses are in the two villages combined?"
+msgstr "カメの村にはいくつの家がありますか？２つの村を合わせると、家はいくつありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which village has more houses, or are they equal?"
+msgstr "どちらの村がより多くの家がありますか？それとも同じ数ですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is different about the roofs in Tortoise/s village compared to Hyena's village? Why do you suppose that is?"
+msgstr "ハイエナの村と比べて、カメの村の屋根は何が違いますか？それはなぜだと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena told Tortoise, \"Let us search for honey.\""
+msgstr "ハイエナはカメに言いました。「僕たちではちみつを探そう。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Compare the drawing of the houses with the first page. Whose house are they in front of?"
+msgstr "家の絵を最初のページと比べてください。彼らは誰の家の前にいるでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena and Tortoise seem like unlikely friends. What do you think will happen to their friendship by the end of the story?"
+msgstr "ハイエナとカメは友達ではないように見えます。物語の最後で彼らの友情に何が起こると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have friends that are different from you? Do your differences help make your friendship weaker or stronger?"
+msgstr "あなたには自分とは違う友達がいますか？その違いは友情を弱めたり強くしたりしますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena ran fast. Tortoise followed slowly. He was afraid."
+msgstr "ハイエナは速く走りました。カメはゆっくりと後について行きました。カメは怖がっていました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These animals travel at very different speeds. Have you gone for a walk with someone who is a lot faster or slower than you? How did the two of you work out having two different speeds?"
+msgstr "ハイエナとカメはまったく異なる速度で移動します。あなたは自分よりもずっと速い人、それともずっと遅い人と一緒に散歩したことがありますか？あなた達２人はそれぞれ異なる速度でどのようにして上手くいきましたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Real hyenas and tortoises don't look like these two. What are the differences? Those differences will be important later in the story!"
+msgstr "本当のハイエナとカメは、これらの２匹のようには見えません。その違いは何でしょうか？それらの違いは、物語の後半で重要になります！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise is looking backward. What is Tortoise looking for?"
+msgstr "カメは後ろを振り返っています。カメは何を見ているのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They crossed a river. They got wet."
+msgstr "ハイエナとカメは川を渡り、濡れました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy."
+msgstr "「ハイエナとカメは濡れました。」という表現は、絵では控えめな言い方をしているように思えます。ハイエナは泳ぎがとても上手なので、ハイエナがとても辛そうに見えるのは驚くべきことです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like swimming? Have you ever gone swimming in rivers or other natural bodies of water?"
+msgstr "あなたは泳ぐことが好きですか？川やその他の自然の水域で泳いだことがありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which direction do you think the water is flowing? How can you tell?"
+msgstr "水はどの方向に流れていると思いますか？どのようにして分かりますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then they saw beehives. Hyena ran to the hives."
+msgstr "それから、ハイエナとカメはハチの巣を見ました。 ハイエナは巣に向かって走りました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a lot of hives in those trees. Sometimes a swarm will fly around looking for a new home. Have you ever seen a swarm of bees?"
+msgstr "木々にはたくさんの巣があります。時々、新しく住むところを探しにハチの群れが飛び回ることがあります。あなたはハチの群れを見たことがありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like bees or are you afraid of them? What are some things you are afraid of?"
+msgstr "あなたはハチが好きですか？それとも、ハチが怖いですか？あなたが怖いものは何ですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena is pictured with four toes on his front legs and three toes on his back legs. How many more fingers do you have on your arms? How many more toes do you have on your legs?"
+msgstr "ハイエナは前足に４本の指、後ろ足に３本の指の姿が描かれています。あなたの手にはあと何本の指がありますか？あなたの足にはあと何本の指がありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena told Tortoise, \"Climb up and get the beehive.\""
+msgstr "ハイエナはカメに言いました。「登って、ハチの巣を取ってこい。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is difficult to imagine Tortoise climbing a tree. Why would Hyena be a better tree climber than Tortoise?"
+msgstr "カメが木に登ることは想像がしにくいです。なぜハイエナはカメより木登りが上手なのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Hyena tell Tortoise to climb up and get the beehive?"
+msgstr "なぜハイエナはカメに木に登ってハチの巣を取ってくるように言ったのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A hexagon is a shape with six straight sides. If the sides are all the same length, it is called a regular hexagon. Each of the little cells in a beehive is a regular hexagon. Do you know of any designs around you that are made of hexagons?"
+msgstr "六角形は６つの直線の辺を持つ形です。辺がすべて同じ長さの場合、正六角形と言います。ハチの巣の小さな穴はそれぞれ正六角形です。 あなたの身の回りに六角形でできているものはありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise climbed slowly. Hyena was angry. He shouted at Tortoise."
+msgstr "カメはゆっくりと登りました。ハイエナは怒って、カメに叫びました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why was Hyena shouting? Did Hyena's shouting help Tortoise climb the tree?"
+msgstr "なぜハイエナは叫んだのでしょうか？ハイエナの叫び声はカメが木に登ることに役立ちましたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you ever get angry and start shouting? Did your shouting help make the situation better?"
+msgstr "あなたは怒って叫び始めることはありますか？あなたの叫び声は状況を良くするのに役立ちましたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tiles that are regular hexagons fit together to make beautiful tile floors and walls. Tiles in the shape of squares (shapes with four equal straight sides and square corners) fit together well too. Describe any other tiling patterns on floors or walls that you have seen."
+msgstr "正六角形のタイルを組み合わせると、美しいタイルの床と壁ができます。 正方形（４つの等しい直線の辺と直角を持つ形）のタイルもうまく調和します。 あなたが見たことのある床や壁の他のタイルの模様について説明してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise touched the beehive. Bees swarmed in the air."
+msgstr "カメがハチの巣に触れると、ハチが空中に群がりました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why was Tortoise safe from the bees and Hyena was not?"
+msgstr "なぜカメはハチからは安全で、ハイエナは安全ではないのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An estimate is an educated guess when there are too many things to count easily. What is your estimate of how many bees there are?"
+msgstr "簡単に数えられないほど多くのものがある場合、見積もりは知識に基づいた推測になります。 ハチは何匹いると推測しますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do your best to count the bees. How far off was your quick estimate?"
+msgstr "ハチの数を一生懸命に数えてみましょう。あなたの素早い推測とどれくらい外れていましたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise fell. The beehive fell on him. Hyena licked the honey."
+msgstr "カメは木から落ち、ハチの巣はカメの上に落ちました。ハイエナははちみつを舐めました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena was so focused on the honey that he didn't help Tortoise. Can you think of a time you were so focused on one thing that you completely forgot something else you should have done?"
+msgstr "ハイエナははちみつにとても夢中でカメを助けませんでした。あなたは１つのことに夢中になりすぎて、他にやるべきことをすっかり忘れてしまったことはありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena should have helped his friend. Is Hyena a very good friend?"
+msgstr "ハイエナは友達を助けるべきでした。ハイエナはとても良い友達ですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this page shows more or fewer bees than on the last page?"
+msgstr "このページのハチは、前のページのハチよりも数が多いと思いますか？それとも少ないと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bees stung Hyena. He ran. The bees followed him."
+msgstr "ハチがハイエナを刺しました。ハイエナは走りましたが、ハチはハイエナを追いかけました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the bees chase and sting Hyena?"
+msgstr "なぜハチはハイエナを追いかけ、刺したのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A beehive is the home for the bees. Is it okay for people to take honey from beehives, or should we leave their homes untouched?"
+msgstr "ハチの巣はハチのお家です。人間がハチの巣からはちみつを取るのは大丈夫でしょうか？それとも、ハチのお家には触れずにそのままにしておくべきでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever tried to outrun a bee or some other stinging insect? Were you able to do it?"
+msgstr "あなたはこれまでにハチや他の刺す昆虫から逃げようとしたことはありますか？あなたは逃げることができましたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena ran into the river. The bees still followed him."
+msgstr "ハイエナは川に走って行きました。ハチたちはまだハイエナを追いかけていました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the Hyena go into the river? Did it work?"
+msgstr "なぜハイエナは川に入ったのでしょうか？それは上手くいきましたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The bees can't go into the water, but Hyena can't stay under the water for long. What do you think Hyena should do?"
+msgstr "ハチは水の中に入ることはできませんが、ハイエナは長い間、水中にいることができません。あなたはハイエナはどうすべきだと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Poor Hyena must be miserable. Have you ever had a bee sting or some other kind of sting? If so, did it hurt a lot?"
+msgstr "かわいそうなハイエナは惨めなことでしょう。あなたはこれまでにハチや他の種類のものに刺されたことはありますか？もし刺されたことがある場合、とても痛かったですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The beehive and the honey dried on Tortoise's back."
+msgstr "カメの背中にはハチの巣とはちみつが乾いていました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "All the bees went after Hyena and left Tortoise alone."
+msgstr "すべてのハチがハイエナを追いかけ、カメだけが残りました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise looks pretty safe sitting quietly under that layer of drying honey. Do you have a quiet place where you feel safe and peaceful? Perhaps it is a place no one else knows about."
+msgstr "カメは乾いたはちみつの層の下で静かに座っていて、とても安全そうに見えます。あなたには安全で平和に感じられる静かな場所はありますか？もしかしたら、そこは他の人が知らない場所かもしれません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does his face tell you about how he is feeling?"
+msgstr "カメの表情を見て、あなたはカメがどのように感じていると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise got a shell to protect himself. He went home."
+msgstr "カメは身を守るために甲羅を手に入れて、家に帰りました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The honey dried on Tortoise in a beautiful pattern. Can you think of some interesting natural patterns around you?"
+msgstr "はちみつはカメの上で美しい模様で乾きました。あなたのまわりに面白い自然の模様が思い浮かびますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People also make a lot of patterns when they build things. Tiles are often laid out to make interesting designs. Do you see any any tiling patterns near you?"
+msgstr "人々はものを作るときにたくさんの模様を作ります。タイルは面白いデザインを作るためによく配置されます。あなたの近くでタイルの模様はありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think -- how easy is it to sit in that chair with a big shell on your back?"
+msgstr "あなたはどう思いますか？背中に大きな甲羅を背負って椅子に座るのはどれだけ楽でしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The stings caused patches on Hyena's body."
+msgstr "刺されたことで、ハイエナの身体には斑点ができました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now Hyena has lots of spots on him, just like hyenas we see today."
+msgstr "ハイエナには、私たちが今日見ているハイエナと同じように斑点がたくさんあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make a quick estimate how many spots he has and then try to count them. How close was your estimate?"
+msgstr "ハイエナにはいくつの斑点があるかを素早く見積もり、それらを数えてみましょう。あなたの見積もりはどれくらい近かったですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making quick estimates is a fun game two people can play. Whose estimate will be the closest?"
+msgstr "素早く見積もることは２人で楽しんで遊ぶことができるゲームです。誰の見積もりが一番近かったですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise and Hyena are no longer friends."
+msgstr "カメとハイエナはもう友達ではありません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise and Hyena always seemed like unlikely friends. What happened in the story that caused them to stop being friends?"
+msgstr "カメとハイエナは友達にはいつもなりそうにありません。物語で何が起きて、カメとハイエナは友達ではなくなったのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever had something that caused you to stop being friends with someone?"
+msgstr "あなたは誰かと友達でいられなくなる原因となった出来事はありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Tortoise and Hyena will return to being friends someday?"
+msgstr "あなたはカメとハイエナがいつか友達に戻ると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I wonder if there's another me somewhere in the world."
+msgstr "この世界のどこかに、もう一人のぼくはいるのかなぁ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think -- is there another animal just like this one somewhere in the world?"
+msgstr "きみはどう思う？ これと同じような動物が、世界のどこかにいるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think there's another person just like you?"
+msgstr "きみとまったく同じような人間が、ほかにいると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five trees in this picture. If you take away the one by itself on one side, how many trees are there on the other side? What is one less than five?"
+msgstr "この絵には木が5本あるね。もし片側にある木を1本取りさったら、もう片側には何本の木があるかな？ 5から1つ減ると何になる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who looks the same."
+msgstr "同じように見える誰か。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you look in a mirror or in water, the image is almost the same as how you look. How is it different and how is it the same?"
+msgstr "鏡や水面をのぞきこむと、映し出された姿はきみとほとんど同じに見えるね。どのように違っていて、どのように同じなのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Something that has one side that is the mirror image of the other side is called symmetric, or even mirror symmetric. Do you see some things around you that are symmetric?"
+msgstr "片側がもう一方の鏡のようになっているものは、対称、もしくは鏡面対称であるというよ。きみの周りで、何か左右対称のものは見つかるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People's faces are very close to being symmetric. Do you notice anything on one side of your face that is a little different than the other side? Perhaps your hair?"
+msgstr "人々の顔は左右対称にとても近いよ。顔の片側に反対側と違う何かがあるのに気がつくかな？ もしかしてきみのかみの毛かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And talks the same."
+msgstr "そして同じように話す。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This animal is listening to its echo across a canyon. Have you heard an echo of your voice?"
+msgstr "この動物は、深い谷を横切る自分のエコーを聴いているよ。自分の声がこだまするのを聞いたことがあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An echo for your voice is like looking in a mirror for your image. Does an echo sound exactly like you, or can you tell the difference?"
+msgstr "声のエコーは、まるで自分の姿を鏡で見るようなものだね。エコーはきみと全く同じに聞こえるかな？ それとも、違いが分かるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hearing an echo is similar to hearing a recording of your voice. Do you think recordings of your voice sound like what you hear in your head when you talk?"
+msgstr "エコーを聞くのは、自分の声の録音を聞くのに似ているね。録音したきみの声は、話す時に頭の中で聞いているものと同じように聞こえると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And even has my curls."
+msgstr "ぼくと同じカールまである。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hippos and mice may have curly tails, but that does not make them the same as our friend. How many things need to be the same for two animals to be the same?"
+msgstr "カバとネズミは巻き毛のしっぽがあるかもしれないけれど、だからといって私たちの友達と同じではないね。2匹の動物が同じであるためには、いくつのものが同じにならないといけないかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some ways that the hippo and the mouse are different than our friend."
+msgstr "カバとネズミが、私たちの友達とどのように違っているのか説明してみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick someone you know and describe some ways you are similar to them and some ways you are different."
+msgstr "誰か知っている人を選んで、きみと似ているところや違うところを説明してみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone with my eyes my ears."
+msgstr "ぼくと同じ目や耳をもつ誰か。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of other animals that have big ears similar to these?"
+msgstr "これらに似た大きな耳を持つほかの動物は思いつくかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of other animals that have eyelashes like these?"
+msgstr "こんなまつ毛があるほかの動物は思いつくかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This animal has three eyelashes on each side. How many eyelashes is that all together?"
+msgstr "この動物は片側ずつに3本のまつ毛があるね。全部合わせると、何本のまつ毛になるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who even has my laugh."
+msgstr "ぼくと笑い方まで同じだ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you make some animals sounds? Which animals?"
+msgstr "動物の鳴き声ができる？ どの動物かな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you neigh like a horse, oink like a pig, meow like a cat, or bray like a donkey?"
+msgstr "馬みたいにヒヒーン、ブタみたいにブーブー、ネコみたいにニャー、またはロバみたいにオーキーって鳴けるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This animal has exceptionally big teeth. Think of other animals with teeth like these."
+msgstr "この動物はとくべつ大きな歯を持つね。こんな歯があるほかの動物を考えてみて。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who can do what I can do."
+msgstr "ぼくができることはできる誰か。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you feel happy running in a big open space like that?"
+msgstr "そのような大きな広場を走ると、きみはうれしい？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you prefer to run with someone or by yourself?"
+msgstr "誰かと走るほうが好きかな？ それとも一人で走るほうが好き？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the rocks near them. If you take away the two biggest rocks, how many rocks are left?"
+msgstr "動物たちの近くにある岩を全部数えよう。もし2つの大きな岩を取りさったら、いくつの岩が残るかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And can't do what I can't."
+msgstr "ぼくができないことはできない。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the animals having trouble peeling the banana?"
+msgstr "動物たちは、どうしてバナナの皮をむくのにこまっているのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you peel a banana easily?"
+msgstr "きみはバナナの皮をかんたんにむけるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there things, such as fruit or packages, that you have trouble opening?"
+msgstr "フルーツや包みなど、きみがむいたり開けたりしにくいものはあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I've looked and looked everywhere to find another me. I went down to the park and looked behind the trees."
+msgstr "もう一人のぼくを見つけるために、あちこち探し回ったんだ。公園に下りていって、木の後ろを見たよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What animal did he see when he looked behind a tree?"
+msgstr "木の後ろを見たとき、どんな動物が見えたのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did he see an animal just like him when he looked behind the tree?"
+msgstr "木の後ろを見たとき、自分とまったく同じような動物が見えたのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did he see what he was looking for behind the tree?"
+msgstr "木の後ろに、探していたものは見えたのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I looked around, up, and down."
+msgstr "周りを見回して、上を見て、下を見た。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think our friend could ever climb to the top of a tree?"
+msgstr "私たちの友達は、木のてっぺんまで登ったりできると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the bird is surprised to see him there?"
+msgstr "そこにかれがいるのを見て、鳥はびっくりすると思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Has the animal looked everywhere? What are some places that may have been missed?"
+msgstr "その動物はあらゆる場所を探したのかな？ 見なかったかもしれない場所はどこかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At every single face."
+msgstr "1つ1つ、どの顔も。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are three animals on one side of the pond, and one more on the other side. If you put them all together, how many animals are there? What is one more than 3?"
+msgstr "池の片側には3匹、もう片側には1匹の動物がいるね。もし全部合わせたら、動物は何匹になるかな？ 3から1つ増えると何になる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you remove one animal on one side of the pond from the four animals at the pond, how many are left? What is one less than 4?"
+msgstr "もし池にいる4匹から片側の1匹を取りさったら、何匹残るかな？ 4から1つ減ると何になる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Describe how the two facts:\n"
+"3 + 1 = 4 and 4 - 1 = 3\n"
+"are tied together.\n"
+"These two related math facts are called a math fact family. Can you think of another math fact family?"
+msgstr ""
+"2つの計算式、\n"
+"3 + 1 = 4 と 4 - 1 = 3\n"
+"がどのように結びついているか説明しよう。\n"
+"同じ数字をつかったこれらの2つの式は、算数のファクトファミリーとよばれるよ。数字を組み合わせて、ほかのファクトファミリーが考えつくかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I couldn't find another me in any single place."
+msgstr "どの場所でも、もう一人のぼくを見つけられなかった。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think his shadow temporarily fooled him into thinking that there was another animal just like him?"
+msgstr "まったく自分と同じような動物がいるんだって、かげが少しの間だましたと思う？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How much does your shadow look like you?"
+msgstr "きみのかげは、どのくらいきみと似ているかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a shadow that you thought was a person?"
+msgstr "人間だと思ってしまうようなかげを、今まで見たことがある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There's only one me in the world!\n"
+"I'm special, oh it's true!"
+msgstr ""
+"この世界に、ぼくはぼくだけしかいないんだ！\n"
+"\n"
+"ぼくは特別さ。ああ、それは本当なんだ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals can you count in this picture?"
+msgstr "この絵の中で、何匹の動物を数えられる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the ways each animal in this picture is different than our friend."
+msgstr "絵の中のそれぞれの動物が、私たちの友達とどのように違っているか説明してみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the ways each animal is similar to our friend."
+msgstr "それぞれの動物が、私たちの友達とどのように似ているか説明してみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"But not just me, don't you see?\n"
+"There's only one of you!"
+msgstr ""
+"でもぼくだけじゃないよ。分かるよね？\n"
+"\n"
+"きみも一人しかいないんだよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know someone who is very similar to you? How are they similar to you?"
+msgstr "きみにとってもよく似ている誰かを知ってる？ その人たちは、どんなふうにきみと似ているの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Despite the similarities, describe some ways they are different from you."
+msgstr "似ているところとは反対に、その人たちがどのようにきみと違っているか説明してみよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like being the only you that there is?"
+msgstr "きみは自分が一人しかいないことが気に入った？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I love forests!"
+msgstr "森が大好き！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some great things about forests?"
+msgstr "森のすてきなところはどこですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many types of places. For example, there are deserts, hills, beaches, canyons, mesas, and mountain slopes. What are some of your favorite places?"
+msgstr "いろいろな種類の場所があります。例えば、砂漠、丘、海辺、谷や台地、山のしゃ面など。あなたのお気に入りの場所はどこですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of the trees in this picture can you count? Can you count that high?"
+msgstr "この絵の木を何本数えられますか？たくさん数えられますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Last week I went to Kibale forest."
+msgstr "先週キバレの森へ行った。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kibale National Park is a rain forest in Western Uganda near the center of Africa. It is a sanctuary for a large variety of primates, wildlife, and vegetation."
+msgstr "キバレ国立公園は、アフリカ中央に近いウガンダ西部にある熱帯雨林です。たくさんの種類の霊長類、野生動物、そして植物の保護区になっています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there parks or natural areas that you like to visit?"
+msgstr "訪れてみたい公園や自然の場所はありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which do you find more interesting to see: plants and trees or lots of animals?"
+msgstr "どちらを見るのがおもしろいと思いますか？ 植物や木、それともたくさんの動物でしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw many trees. I saw Fig, Muvule, Palm, and Ebony trees."
+msgstr "木をたくさん見た。イチジクやアフリカンチーク、ヤシ、それにコクタンの木を見た。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This picture shows plains with mountains in the distance. Do you think a mixture of living areas will be good for creating a mixture of plants and animals for the park?"
+msgstr "この絵では草原と遠くに山が見えます。いろんな種類の場所が公園にあると、植物や動物が入りまじって暮らすのによいと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentions four types of trees in the park. Do you see four types in this picture?"
+msgstr "4種類の木がお話に出てきました。この絵で木が4種類見えますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many types of trees can you think of near where you live?"
+msgstr "あなたの住む場所の近くで、木の種類はいくつ思いつきますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw chimpanzees, baboons, and monkeys."
+msgstr "チンパンジー、ヒヒ、サルを見た。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These adult animals are sitting in pairs, which makes them easy to count by 2's - 2, 4, 6. Adding in one more baby makes 7!"
+msgstr "大人の動物たちはペアになっているので、2、4、6と2とびで数えやすいです。赤ちゃん1匹を足すと、全部で7になりますね！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One more than the 6 adults is 7. If you take away the one baby, how many is one less than 7?"
+msgstr "大人6匹より1匹多いのは7匹です。赤ちゃん1匹を取りさると、7より1つ少なくなります。それはいくつでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this mixture of animals would naturally be together like this, or did the artist take some liberties with the picture?"
+msgstr "このように自然にいろんな動物たちが一緒にいると思いますか？ それとも画家が少し自由に描いたのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw different birds. I saw crested cranes, eagles, and owls."
+msgstr "いろいろな鳥を見た。カンムリヅル、ワシ、それにフクロウも。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What about this picture -- do you think these birds would all be together like this?"
+msgstr "この絵はどうでしょうか？ 鳥たちはみんなこんなふうに一緒にいると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four birds and one fish. How many animals is that all together? How many is one more than four?"
+msgstr "鳥が4羽と魚が1匹います。全部で動物はいくついますか？ 4より1つ多いといくつになるでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story mentions three types of birds and shows us four birds. Do you think two of these birds are of the same type? If so, which two?"
+msgstr "3種類の鳥がお話に出てきて、絵には鳥が4羽見えます。4羽のうちの2羽は同じ種類の鳥だと思いますか？ もしそうならどの2羽が同じなのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I laughed when I saw a big elephant with a little tail."
+msgstr "小さなしっぽのついた大きなゾウを見て笑った。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think such a large animal has such a little tail?"
+msgstr "どうしてこんなに大きな動物のしっぽが、こんなに小さいのだと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The parts the elephant has two of (ears, tusks, pairs of legs, and eyes) are on opposite sides of its body, and the parts it has one of (mouth, tail, and trunk) are in the middle of its body. Are all animals like this?"
+msgstr "ゾウには2つずつの部位があって (耳、きば、足のペア、目)、それらは体や顔の両横にあります。 1つしかないもの (口、しっぽ、鼻) は体や顔の真ん中にあります。すべての動物がそうなのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of an animal that doesn't have its parts  arranged about a middle line?"
+msgstr "真ん中の線のあたりに、何もついていない動物は思いつきますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I saw so many different animals, birds, and plants."
+msgstr "すごくたくさんの種類の動物や鳥、それに植物を見た。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe the animals by where they are in the picture -- some are in the air, the trees, the water, and in the grass."
+msgstr "この絵で動物たちを場所ごとに説明しましょう。空中にいるものや木にいるもの、水の中にいるものや草のところにいるものなど。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count each group and then count them all together -- do you get the same result?"
+msgstr "グループごとに数を数えたら、次は全部の動物を一緒に数えましょう。同じ結果になりますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which group has the most animals in it? Which has the least?"
+msgstr "どのグループに1番多くの動物がいますか？1番動物が少ないグループはどれでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kibale forest is a good place to visit. I love forests! Do you?"
+msgstr "キバレの森は出かけるのによいところだよ。わたしは森が大好き！あなたはどう？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like to visit forests?"
+msgstr "森を訪れるのが好きですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite place to visit away from where you live?"
+msgstr "住んでいるところからはなれたあなたのお気に入りの場所はどこですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite spot to go to around where you live?"
+msgstr "あなたの住む場所のまわりで、お気に入りのおでかけ先はどこでしょうか？"
 
 #. type=data_list
 msgctxt "data_list"
