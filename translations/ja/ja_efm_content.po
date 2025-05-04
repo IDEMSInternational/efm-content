@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-04 00:05\n"
+"PO-Revision-Date: 2025-05-04 04:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8132,6 +8132,101 @@ msgstr "あなたは、少し無理をしてでも他の誰かやグループを
 msgctxt "data_list"
 msgid "How does it feel when you help others?"
 msgstr "人の役に立つと、どんな気持ちがしますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs do two ladybugs have?"
+msgstr "てんとう虫2匹の足は何本あるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting is counting by steps bigger than 1. You can skip count these legs by 6's by counting 6, 12. You can also skip count by 3's using the sides of their bodies 3, 6, 9, 12."
+msgstr "とび数えは、1よりも大きな数ずつとばして数える数え方だよ。6、12というように、6本ずつとばして足を数えられるね。ほかにも体の側面をつかって、3、6、9、12と数えられるよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can skip count to 12 in steps of 3 and 6. Can you think of other ways to skip count to 12? Which ways work (1, 2, 3, 4, 6, 12) and which ways don't (5, 7, 8, 9, 10, 11)?"
+msgstr "3とび、6とびで12まで数えられるね。12までとび数えができるほかの方法は思いつくかな？どの方法がうまくいって(1, 2, 3, 4, 6, 12)、どの方法がうまくいかないかな(5, 7, 8, 9, 10, 11)？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the dots on each ladybug's back. Have you seen ladybugs around where you live -- did they have more or fewer dots than these?"
+msgstr "てんとう虫の背中の斑点をそれぞれ一緒に数えよう。きみの住む場所の周りで、てんとう虫を見たことがある？そのてんとう虫の斑点はこれよりも多かった？それとも少なかった？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many wings do four birds have?"
+msgstr "鳥4羽の翼は何枚あるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting by 2's -- one 2 for each bird."
+msgstr "2とびで翼を数えよう。1羽につき2枚ずつだね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting the four left wings and then the four right wings. It's fun that you get the same answer whether you skip by 2's or 4's!"
+msgstr "左の翼を4枚、それから右の翼を4枚、とび数えで数えよう。2とびで数えても4とびで数えても、同じ答えになるのは面白いね！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If the bird in the sky flies away, how many of the four birds will remain?"
+msgstr "もし空にいる鳥が飛び去ったら、4羽のうち何羽が残る？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns do three rhinos have?"
+msgstr "サイ3頭の角は何本あるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has two horns, a big one and a small one. Skip count their horns by 2's and 3's."
+msgstr "サイ1頭につき2本の角があるよ。大きいのと小さいのだね。2とびと3とびで角を数えよう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How would you skip count to find out how many feet they have?"
+msgstr "全部で何本の足になるかを調べるには、どのようにとび数えしたらいいかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has twice as many feet as horns. Take the total number of horns and double that to get the total number of feet."
+msgstr "サイ1頭につき、角の2倍の数の足があるよ。角の合計数を2倍して、足の合計数を出そう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trunks do five elephants have?"
+msgstr "ゾウ5頭の鼻はいくつあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count trunks, tails, tusks, and ears. Counting tails and trunks is simple -- what number do you get?"
+msgstr "鼻、しっぽ、きば、耳を数えよう。しっぽと鼻を数えるのは簡単だね。どの数になった？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each elephant has two tusks and two ears. Which do you like better -- skip counting these by 2's or by 5's?"
+msgstr "ゾウ1頭につき2本のきばと2つの耳があるよ。2とびと5とび、どちらで数えるのが好きかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four big elephants and one baby elephant. How much is four plus one more?"
+msgstr "4頭の大きいゾウと1頭の赤ちゃんのゾウがいるね。4頭に1頭増えたら何頭になるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many ears do seven dogs have?"
+msgstr "犬7匹の耳はいくつあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you count the ears by 1's, 2's, or 7's?"
+msgstr "1つずつ、それとも、2とびや7とびで耳を数えたのかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are 14 ears. We can skip count to 14 by 1's, 2's, and 7's. Are there any other step sizes that work for counting to 14?"
+msgstr "14この耳があるね。14まで、1つずつでも2とびや7とびでも数えられるね。14までとび数えができるほかの数はあるかな？"
 
 #. type=data_list
 msgctxt "data_list"
