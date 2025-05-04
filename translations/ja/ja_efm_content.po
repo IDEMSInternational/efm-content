@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-04 05:35\n"
+"PO-Revision-Date: 2025-05-04 14:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9310,6 +9310,203 @@ msgstr "住んでいるところからはなれたあなたのお気に入りの
 msgctxt "data_list"
 msgid "What is your favorite spot to go to around where you live?"
 msgstr "あなたの住む場所のまわりで、お気に入りのおでかけ先はどこでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Today I an not going to school.\n"
+"\n"
+"It is a holiday."
+msgstr ""
+"今日は学校に行きません。\n"
+"\n"
+"休日です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think she will do with her day off from school?"
+msgstr "あなたは彼女が学校を休んだ日は何をするつもりだと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does she like not going to school?"
+msgstr "なぜ彼女は学校に行かないのが好きなのですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she will miss seeing her school friends and teachers?"
+msgstr "あなたは彼女が学校の友達や先生に会えないと思いますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Today I am not going to watch TV.\n"
+"\n"
+"There is no electricity anyway."
+msgstr ""
+"今日はテレビを見ません。\n"
+"\n"
+"ところで電気がつかない。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does she decide to not watch TV?"
+msgstr "なぜ彼女はテレビを見ないことにしたのですか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would you do if you were to plan a special day?"
+msgstr "特別な日の計画を立てるとしたら何をしますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you do during times when your electricity is not working? Do you have special activities for such times?"
+msgstr "電気が止まっているときは何をしますか? こういう時のために特別にすることはありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What am I going to do?\n"
+"\n"
+"Today I am going to listen to my body!"
+msgstr ""
+"私は何をするつもりですか？\n"
+"\n"
+"今日は自分の体の音に耳を傾けてみます！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her hands only have four fingers! Have you seen someone with four fingers on a hand?"
+msgstr "彼女の手には指が 4 本しかありません。 手に 4 本の指しかない人を見たことがありますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is uncommon, but some people are born with six fingers on a hand. How many more fingers is six fingers than what she has?"
+msgstr "珍しいことですが、生まれつき手の指が 6 本ある人もいます。 6 本の指は彼女の指より何本多いですか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you can buy gloves for someone with six fingers?"
+msgstr "指が６本ある人の手袋は買えると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"First I have to be very quiet.\n"
+"\n"
+"So that I can listen to my own body."
+msgstr ""
+"まず、私はとても静かにしなければなりません。\n"
+"\n"
+"自分の体の音を聞くために。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you listened to the sounds your body makes? What are some of them?"
+msgstr "自分の体が発する音に耳を傾けたことがありますか？ それはどんなのですか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you heard your stomach rumbling, grumbling, or gurgling?"
+msgstr "お腹がゴロゴロ、グルグル、ゴロゴロという音を聞いたことがありますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever run hard and heard your pulse pounding in your ears?"
+msgstr "一生懸命走ったときに、鼓動が耳の中で脈打つのを聞いたことはありますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Yes, now I can hear my breath.\n"
+"\n"
+"I breath in and out, in and out."
+msgstr ""
+"はい、息が聞こえるようになりました。\n"
+"\n"
+"息を吸って吐いて、また吸って吐いて。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you stop and listen, can you hear yourself breathing?"
+msgstr "立ち止まって耳を澄ますと、自分の呼吸音が聞こえますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you breathe through your mouth or your nose most of the time?"
+msgstr "ほとんどの場合、口と鼻のどちらで呼吸しますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Watch the time for half a minute and count your breaths. How many were there?"
+msgstr "30 分ほど時間を見て、呼吸を数えてください。 何回でしたか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"And I can make my breath noisier. \n"
+"Ssssssssssss!\n"
+"\n"
+"And softer.\n"
+"Mmmmmmmm."
+msgstr ""
+"そして、私は息を大きくすることができます。\n"
+"スッスッスッスッスッ！\n"
+"\n"
+"そして優しく。\n"
+"うーーん。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is making her toy fly around by blowing on it very hard. When have you blown hard on something?"
+msgstr "彼女はおもちゃに強く息を吹きかけて飛び回らせています。 何かに強く吹きかけたのはいつですか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you blown out candles on a birthday cake or maybe blown on a fire to help it burn?"
+msgstr "誕生日ケーキのろうそくの火を吹き消したり、燃えやすくするために火を吹きかけたりしたことはありますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How old were you at your last birthday?"
+msgstr "前回の誕生日は何歳でしたか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now I can hear my heart beating!\n"
+"\n"
+"Doodom, doodoom, dooo dooom."
+msgstr ""
+"今、私の心臓の鼓動が聞こえます！\n"
+"\n"
+"ドクッ、ドクッ、ドクッ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is not easy to hear your own heart beating. Can you hear yours?"
+msgstr "自分の心臓の鼓動を聞くのは簡単ではありません。 あなたは聞こえますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Put your ear on someone's chest so you can hear their heart beating."
+msgstr "誰かの胸に耳を当てて、心臓の鼓動が聞こえるようにしてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think your heart ever stops beating? Most of your muscles can get tired, but your heart muscle never does!"
+msgstr "心臓の鼓動が止まることはあると思いますか? ほとんどの筋肉は疲労しますが、心筋は疲労しません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Can I make my heart go faster or louder?\n"
+"\n"
+"Yes, by jumping up and down twenty times."
+msgstr ""
+"心臓の鼓動を速くしたり、大きくしたりすることはできますか?\n"
+"\n"
+"はい、20 回上下にジャンプします。"
 
 #. type=data_list
 msgctxt "data_list"
