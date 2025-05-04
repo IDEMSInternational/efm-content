@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-05-02 23:55\n"
+"PO-Revision-Date: 2025-05-04 21:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6837,6 +6837,11 @@ msgstr "**كيف تلعب:** اطلب من طفلك أن يعد بصوت عال�
 msgctxt "data_list"
 msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
 msgstr "**كيف تفوز:** تصبح الأشياء المأخوذة جزءًا من كومة طفلك، وتحتفظ أنت بالأشياء المتبقية. تستمر اللعبة لعدد الجولات المطلوبة حتى يفرغ الوعاء. في النهاية، يقوم كل منكما بترتيب الأشياء الخاصة به بجانب الآخر لمعرفة من لديه المزيد."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "بطاقات الأرقام والمواد"
 
 #. type=data_list
 msgctxt "data_list"
