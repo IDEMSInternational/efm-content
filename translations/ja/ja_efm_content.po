@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-04 17:56\n"
+"PO-Revision-Date: 2025-05-04 18:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9835,6 +9835,263 @@ msgstr ""
 "小さな正方形のジョジョは自宅に着く頃には暑くて疲れていました。彼は家の中に入って冷凍庫を開け、氷と一緒に冷たい水をグラスに注ぎました。「三角形のママのお家まで半分くらいの距離のはず。」と彼は言いました。「三角形のママが村長の角笛を持っているといいな。」\n"
 "\n"
 "すると、ジョジョは思いつきました。「僕はダイヤモンドのデゥデゥを訪ねることができる。彼女のお家はここからわずか半キロのところにあって、途中にある。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On this floor, you can hop from one square to another square of the same color. Choose one color with your finger and hop around that room."
+msgstr "この床では、同じ色の1つの正方形から別の正方形まで跳ぶことができます。指で1つの色を選び、部屋中を跳んでください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a pattern on the floor where you are? Do you ever hop around a room trying to stay on just one color?"
+msgstr "あなたがいるところの床には模様がありますか？あなたは1つの色にとどまるために部屋中を跳びますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo has walked half way of his 3 km (2 mi) walk. How far has he walked?"
+msgstr "ジョジョは3キロメートル（2マイル）の半分を歩きました。彼はどれくらい歩いたでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond was cleaning her house when Jojo arrived. Her earrings were making a lovely tinkling sound as she worked. \n"
+"\n"
+"\"Hello, Jojo,\" she said. \"What are you doing today?\" \"I am on my way to Mama Triangle's house to find the chief's spring horn,\" said Little Square Jojo. \"That's nice of you,\" said Dudu. \"I am happy to come with you. How much further do you have to go?\""
+msgstr "ジョジョが到着したとき、ダイヤモンドのデュデュはお家を掃除していました。掃除をしていたとき、彼女のイヤリングが素敵にチリンチリンと鳴りました。「こんにちは、ジョジョ。」と彼女が言いました。「今日は何をしているの？」「村長の春の角笛を探すために三角形のママのお家に行く途中です。」と小さな正方形のジョジョは言いました。「あなたは親切だね。」とデュデュが言いました。「あなたが来てくれて嬉しい。どれくらい遠くまで行かなければいけないの？」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another name for a diamond is a rhombus. A rhombus is a quadrilateral with four equal sides. A square is always a rhombus, but not every rhombus is a square. Point to some diamonds in this picture that aren't squares."
+msgstr "ダイヤモンドの別名はひし形です。ひし形は4つの辺が等しい四角形です。正方形はいつもひし形ですが、全てのひし形は正方形ではありません。この絵の中で正方形ではないダイヤモンドをいくつか指さしてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room is full of diamond shapes. What shape are the diamond windows if you turn them on their side? Jojo should feel right at home with those windows!"
+msgstr "この部屋はダイヤモンドの形であふれています。ダイヤモンドの窓を横にするとどのような形になるでしょうか？ジョジョはお家でそれらの窓にしっくりくるでしょう！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room has many pairs of things. Which pairs do you see?"
+msgstr "この部屋にはたくさんの組み合わせがあります。どの組み合わせが見えますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo scratched his head. \"Let's see. Mama Triangle's house was three kilometers away from where I started. I walked about half the way to get to my house, that's one and a half kilometers. Then I walked another half a kilometer to get to your house. That makes 2 kilometers. So we only have one more kilometer to go!\" \n"
+"\n"
+"\"That's not so far then!\" smiled Dudu. \"I'll pack some things to take with.\""
+msgstr "小さな正方形のジョジョは頭をかきました。「ええっと。僕が出発した場所から三角形のママのお家までは3キロメートルあったよ。僕は自宅に着くまで約半分歩いたから、1.5キロメートルだ。それから、あなたのお家に着くまで更に0.5キロメートル歩いたよ。2キロメートルだ。だからあと1キロメートルだけ行くだけだよ！」「それならとても遠くないね！」とデュデュは微笑みました。「持って行くものを私がいくつか詰めるね。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo added 1 1/2 km plus 1/2 km to get 2 km. He subtracted 2 km from 3 km to get 1 km."
+msgstr "ジョジョは1 1/2キロメートルに1/2キロメートルを足して2キロメートルになりました。彼は３キロメートルから２キロメートルを引いて１キロメートルになりました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another way is: He had 1 1/2 km to go and he walked 1/2 km, so there was only 1 km left."
+msgstr "別の言い方をすると、彼はすでに1 1/2キロメートル歩き、その後、1/2キロメートル歩いたため、残りは1キロメートルだけです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yet another way: Think of 3 km as 6 half kms. When he did half of 6 of those, that meant he did 3 halves and had 3 halves to go. When he did another half km, then he only had 2 halves left. It's a fun puzzle to find different ways to calculate the same thing!"
+msgstr "さらに別の方法として、3キロメートルを6キロメートルの半分として考えてみましょう。彼は6キロメートルの半分を歩いたとき、半分の3キロメートルを歩いたことになり、3キロメートル歩くことになります。彼がべつに半分のキロメートルを歩いたら、残っているのは2つの半分だけです。同じことを様々な方法で計算するのは楽しい難問です！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond and Little Square Jojo walked until they reached the bottom of a tall mountain. \"Mama Triangle's house is right up there at the top,\" said Dudu.\n"
+"\n"
+"\"Let's stop for a while and have a rest. You can have the sandwich I packed.\" Jojo cut the sandwich into four smaller pieces. \"Here, let's share the sandwich, you have two pieces and I'll have two.\""
+msgstr ""
+"ダイヤモンドのデュデュと小さな正方形のジョジョは高い山のふもとまで歩いて行きました。「三角形のママのお家はちょうど山のてっぺんにあるよ。」とデュデュが言いました。\n"
+"\n"
+"「ちょっと立ち止まって休憩しましょう。私が持って来たサンドウィッチを食べていいですよ。」ジョジョはサンドウィッチを小さく4つに切り分けました。「さぁ、サンドウィッチをシェアしましょう。あなたは２つ、私は２つ。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We can't see the top of the mountain. What do you think the shape is of the part we can't see?"
+msgstr "山の頂上は見ることができません。見えない部分はどのような形をしていると思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some different ways to cut a sandwich into four parts. Which shapes can you make that way?"
+msgstr "サンドウィッチを4つに切る様々な方法を考えてみましょう。その方法ではどのような形を作ることができますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A round shape that comes to a point is called a cone. The mountain next to them is in the shape of a cone. Find some other cones in this picture."
+msgstr "先端がある丸い形を円すいと呼びます。隣りの山も円すいの形をしています。この絵の中で他の円すいをいくつか探してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Soon Dudu Diamond and Little Square Jojo were half the way up the mountain. Things were very different there.\n"
+"\n"
+"\"Look,\" said Jojo. \"That's the strangest spider I've ever seen.\" \"Wow,\" said Dudu. \"It has spun a beautiful web. Let's count the sides. One, two, three, four, five, and six! That makes it a hexagon then!\""
+msgstr ""
+"ダイヤモンドのデュデュと小さな正方形のジョジョは山の半分まで登りました。そこでは状況がまったく異なっていました。\n"
+"\n"
+"「見て。」とジョジョが言いました。「これまで見た中で一番奇妙なクモだよ。」「わぁ。」とデュデュが言いました。「美しい巣を張っているね。辺を数えてみよう。１、２、３、４、５、６！これは六角形になっているね！」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of any other hexagons you see or know about? Are there any where you are right now? Perhaps there are some hexagons on a bathroom floor?"
+msgstr "あなたが見た、あるいは知っている他の六角形が思い浮かびますか？あなたが今いるところに六角形はありますか？もしかしたら、バスルームの床に六角形がいくつかあるかもしれません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know any stories or songs about spiders?"
+msgstr "クモについての物語や歌を知っていますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spiders make webs in trees, in holes in the ground, and even across water. Where have you seen spider webs where you live? Why do spiders make webs?"
+msgstr "クモは木や地面の穴、水の上にも巣を作ります。あなたが住んでいるところでクモを見たことはありますか？クモはなぜ巣を作るのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After climbing over a very big rock, Little Square Jojo and Dudu Diamond finally arrived at Mama Triangle's house. They were high up now and felt a bit dizzy.\n"
+"\n"
+"\"Hello, you two,\" said Mama Triangle with a smile. \"I am so happy to have visitors. Most of the time I'm all alone here on the top of my mountain. Come inside and sit down at my table."
+msgstr ""
+"とても大きな岩を乗りこえて、小さな正方形のジョジョとダイヤモンドのデュデュはついに三角形のママのお家に着きました。彼らは高いところにいたので、少しめまいがしました。\n"
+"\n"
+"「お二人とも、こんにちは。」と三角形のママが笑顔で言いました。「お客さんが来てくれてとても嬉しいです。私はほとんどの時間、山の頂上で一人で過ごしています。中に入って、テーブルに座ってください。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mama Triangle knows where the Chief's spring horn is? Do you think they wasted their time coming to the top of the mountain?"
+msgstr "三角形のママは村長の春の角笛がどこにあるか知っていると思いますか？彼らは山の頂上に来るのに時間を無駄にしたとあなたは思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a great many polygons in this picture and they are of many types. Point at some polygons and name their types."
+msgstr "この絵にはとても多くの多角形があり、たくさんの種類があります。多角形をいくつか指さし、それらの種類の名前を答えてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few shapes that are not polygons. These shapes have at least one side that is curved and not straight. Can you find them?"
+msgstr "多角形ではない形がいくつかあります。これらは少なくとも一つの辺が直線ではなく曲線です。これらを見つけることができますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle, said Jojo after catching his breath, \"We've come to find Chief Short and Round's spring horn. Tata Rectangle said that the chief visited you this morning.\" \"Yes, that is correct,\" said Mama Triangle. \"The chief came to ask me to help prepare for the springtime party. But he didn't leave his spring horn here.\" \"Oh no,\" said Jojo sadly, \"We've come all this way for nothing!\""
+msgstr "ジョジョは息をととのえてから「三角形のママ。」と言いました。「私たちは短い丸い村長の春の角笛を探しに来ました。長方形のタタは、村長があなたを今朝訪ねたと言っていました。」「はい、それは正しいです。」と三角形のママは言いました。「村長は私に春のパーティーの準備を手伝うよう頼みに来ました。でも、彼は春の角笛をここに置いていませんよ。」「なんてこった。」とジョジョは悲しそうに言いました。「僕たちは何も得ずにここまで来てしまったよ！」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think they went all that way for nothing? They may not know where the horn is, but they have learned a lot during their travels."
+msgstr "彼らは何も得ずにここまで来たと思いますか？彼らは角笛がどこにあるかは分かりませんが、旅の途中でたくさんのことを学びました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes, finding out what something can't be can be almost as valuable as finding out what it is. Useful information comes in many forms!"
+msgstr "何がありえないのかを見つけることは、それが何であるかを見つけることと同じくらい時に価値があるものです。有益な情報は様々な形で提供されます！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next in the story? Create an ending for how this story turns out. Do they find the horn, and if so, how do they find it?"
+msgstr "この物語では次に何が起こると思いますか？この物語の結末がどうなっていくか作り出してください。彼らは角笛を見つけるでしょうか？もし見つけた場合、どうやって見つけるでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle held Jojo's hand as she led him outside. \"Don't worry Jojo,\" she said. \"Chief Short and Round didn't leave his spring horn here, but I know where it is. That chief can be such a silly thing!\" Mama Triangle, Little Square Jojo and Dudu Diamond all ran down the mountain and in no time at all they were safely at the bottom."
+msgstr "三角形のママはジョジョの手を握り、外に連れ出しました。「心配しないで、ジョジョ。」と三角形のママは言いました。「短い丸い村長はここに角笛を置き忘れてはいませんが、私はどこにあるか知っています。あの村長は本当におバカなんだから！」三角形のママと小さな正方形のジョジョとダイヤモンドのデュデュは山をかけ下り、あっという間にふもとに無事に着きました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a lot of triangles in this picture! Can you count them all, or is it higher than you can count?"
+msgstr "この絵にはたくさんの三角形があります。全てを数えることができますか？それとも、数えきれないほどありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why were they able to go down the mountain so much more quickly than when they went up?"
+msgstr "彼らはなぜ山を登ったときよりも早く山を降りることができたのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oddly enough, going down a steep hill can be harder than going up. Has this happened to you?"
+msgstr "おかしなことに、急な坂を降りることは登るよりも難しいことがあります。あなたにはこのようなことが起こったことはありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It was evening by the time they reached Chief Short and Round's house. Mama Triangle knocked on the door and when it was opened everyone rushed inside.\n"
+"\n"
+"\"Hello,\" said Chief Short and Round, blinking sleepily. \"Did you find my spring horn? Will we be able to have the springtime party?\" Little Square Jojo felt very bad and shook his head."
+msgstr ""
+"彼らが短い丸い村長の自宅に着いたときは夕方でした。三角形のママがドアをノックして、ドアが開いたとき、皆が急いで中にかけ込みました。\n"
+"\n"
+"「こんにちは。」と、短い丸い村長が眠たそうに瞬きをしながら言いました。「私の春の角笛は見つけたかな？春のパーティーは開くことができるかな？」小さな正方形のジョジョは気分がとても悪くなり、首をふりました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief's room is round and is filled with round things. Point at and count as many circles as you can."
+msgstr "村長の部屋は丸くて、丸いものでいっぱいです。できるだけ多くの円を指さして数えてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The circles in the rug have the same center. Circles that share a common center are called concentric circles. Do you see any concentric circles where you are?"
+msgstr "絨毯の円はどれも中心が同じ位置にあります。共通の中心を持つ円は同心円と呼ばれます。あなたがいるところに同心円は見えますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief is wearing his pajamas. What do you think his bedtime is? What is your bedtime?"
+msgstr "村長はパジャマを着ています。村長の就寝時間は何時だと思いますか？あなたの就寝時間は何時ですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Jojo looked for your spring horn all day, said Mama Triangle. \"It is not his fault that he didn't find it. It is your fault, Chief Short and Round. Don't you remember?\" Mama Triangle pointed at the chief. \"You are wearing your spring horn on your head!\"\n"
+"\n"
+"Chief Short and Round gasped, \"Oh my, I remember it now. I was so hot from climbing up that mountain that I put my horn on my head.\""
+msgstr ""
+"「ジョジョは一日中、あなたの春の角笛を探していました。」と三角形のママが言いました。「彼が見つけられなかったのは彼のせいではありません。あなたのせいです、短い丸い村長。覚えていませんか？」三角形のママは村長を指さしました。「春の角笛があなたの頭にかぶっていますよ！」\n"
+"\n"
+"短い丸い村長はハッと息をのみました。「あぁ今、思い出したよ。あの山を登ったときに暑かったから、頭の上に角笛を乗せたんだよ。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think the Chief felt when he realized the horn was on his head?"
+msgstr "村長は自分の頭の上に角笛があると気付いたとき、どのように感じたと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long in this story has the horn been on his head?"
+msgstr "この物語の中で、短い丸い村長の頭の上に角笛が乗っていた時間はどれくらいですか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a story about a time when you thought you lost something and then found out it was in an obvious place all along."
+msgstr "あなたが何かを失くしたと思い、それが最初からずっと気付きやすい場所にあったことが分かったときの話をしてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I am so embarrassed, said Chief Short and Round as he took his spring horn off his head. Then he passed it to Little Square Jojo. \"You have done all the hard work, Jojo. You should blow the horn.\"\n"
+"\n"
+"Little Square Jojo smiled. He lifted up the horn and gave a loud blow. \"Now we can have the springtime party!\" All was well in the Village of Many Shapes."
+msgstr ""
+"「私はとても恥ずかしい。」と、頭から角笛を外しながら短い丸い村長は言いました。そして、彼は角笛を小さな正方形のジョジョに渡しました。「ジョジョ、あなたは大変な仕事をしてきたね。あなたが角笛を吹くべきだよ。」\n"
+"\n"
+"小さな正方形のジョジョは微笑みました。彼は角笛を持ち上げ、大きな音を出しました。「これで春のパーティーを開くことができるよ！」さまざまな形の村では全てが順調でした。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unlike real snowflakes, the snowflakes in this sky come in many, very different shapes. Point to a few and describe them."
+msgstr "本物の結晶とは違い、絵の中の空の結晶は様々に異なった形をしています。いくつかを指さして、それらを説明してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo did a great job of problem solving. He thought about the problem, he discussed ideas with others, and he persisted even when he was having trouble solving the problem."
+msgstr "ジョジョは問題解決に向けて素晴らしい仕事をしました。彼は問題について考え、他の人たちと一緒にアイディアを話し合い、問題を解決するのが困難なときでさえも粘り強く取り組みました。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a fun story, real or make believe, of a time when someone was searching all over for something for a long time and then finally found it."
+msgstr "誰かが何かを長い間ずっと探していて、それがついに見つかったときの楽しい話（実話でも空想でも）をしてください。"
 
 #. type=data_list
 msgctxt "data_list"
