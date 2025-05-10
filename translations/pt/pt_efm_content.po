@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-05-09 20:19\n"
+"PO-Revision-Date: 2025-05-10 05:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3881,9 +3881,19 @@ msgid ""
 "\n"
 "This is Dog."
 msgstr ""
-"Este é o Gato.\n"
+"Este é Gato.\n"
 "\n"
-"Este é o Cão."
+"Este é Cachorro."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These two are a pair of friends. Point out all the pairs and groups of three you can find in this picture."
+msgstr "Esses dois são um par de amigos. Aponte todos os pares e grupos de três que você conseguir encontrar nesta imagem."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cats and dogs are mammals. Mammals have fur (or hair), they give birth to babies (not eggs), and the mother feeds her baby milk. Can you think of other animals that are mammals (don't forget yourself!)?"
+msgstr "Cães e gatos são mamíferos. Mamíferos têm pelo (ou cabelo), eles dão à luz bebês (não botam ovos) e a mãe amamenta seu bebê. Você consegue pensar em outros animais que são mamíferos? (não esqueça que você também é um mamífero!)"
 
 #. type=data_list
 msgctxt "data_list"
