@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-12 04:15\n"
+"PO-Revision-Date: 2025-05-12 22:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6347,6 +6347,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "**This is all math:** These different ways of describing things and their relationships is talking about math! Building up this vocabulary and concepts will help your child develop mathematically, and it will also give a big boost to helping your child read and talk about the world."
 msgstr "**これはすべて数学です:** 物事やその関係をさまざまな方法で説明することは、算数について話していることになります！この語彙や概念を育てることで、あなたのお子さんが数学的に成長し、世界について読む力や話す力も大いに向上します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – STORYTIME"
+msgstr "算数を声に出して考える – 絵本の読み聞かせ"
 
 #. type=data_list
 msgctxt "data_list"
