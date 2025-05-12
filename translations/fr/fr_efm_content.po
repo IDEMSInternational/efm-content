@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-13 18:13\n"
+"PO-Revision-Date: 2025-05-12 12:48\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7060,6 +7060,76 @@ msgstr "**Exemple – Les Formes :** Supposons que les quatre objets soient un t
 msgctxt "data_list"
 msgid "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas."
 msgstr "Le triangle rouge est le seul à ne pas être carré, le carré rouge troué est le seul à avoir un trou, le carré bleu est le seul à ne pas être rouge et le petit carré rouge est beaucoup plus petit que les autres. Il n'y a pas toujours plus d'une bonne réponse, mais il faut toujours être ouvert aux idées surprenantes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "CHACUN DE CES ELEMENTS NE SONT PAS COMME LES AUTRES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Start with a group of four things with the following property: for each one of the things, the remaining three things have something in common that is not shared by the fourth.\n"
+"\n"
+"Challenge each other to find groups with this property. Be flexible and allow for any reasonable explanation that seems to work.\n"
+"\n"
+"**Example.** The first item is a triangle, while the others are squares. The second has a hole, while the others are solid. The third is a lot smaller than the others. The fourth is blue, while the others are red."
+msgstr ""
+"**La mise en place.** Commencez par un groupe de quatre objets ayant la propriété suivante : pour chacun des objets, les trois objets restants ont quelque chose en commun qui n’est pas partagé par le quatrième.\n"
+"\n"
+"Mettez-vous au défi de trouver des groupes ayant cette propriété. Faites preuve de souplesse et permettez toute explication logique qui semble fonctionner.\n"
+"\n"
+"**Exemple.** Le premier élément est un triangle, les autres sont des carrés. Le deuxième est un vide au milieu, alors que les autres sont solides. Le troisième est beaucoup plus petit que les autres. Le quatrième est bleu, tandis que les autres sont rouges."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "LA CHASSE AU TRESOR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Make a stack of scavenger hunt cards in advance. The players can play individually or in small groups of two to three.\n"
+"\n"
+"Each card will describe a thing to find. It may be a specific thing, \"A stop sign,\" or it may be a description involving all sorts of descriptions and properties. Here are some examples that you might want to use individually or in combinations:\n"
+"\n"
+"* Colors\n"
+"* Size (bigger than a hand, smaller than a car)\n"
+"* Shapes (circle, triangle, square, ball, box)\n"
+"* Group size (two things together, three together, ...)\n"
+"* Patterns (A B A B ...)\n"
+"* Numbers\n"
+"* Position (under, over, on top of, next to)\n"
+"* Texture (smooth, rough, bumpy, pointy)\n"
+"* Uses (for writing, for sitting, ...)\n"
+"\n"
+"**How to play.** Randomly distribute three cards to each player or group of players. Their goal is to be the first to find things for each of their cards."
+msgstr ""
+"**La mise en place.** Préparer à l’avance une pile de cartes de chasse au trésor. Les joueurs peuvent jouer individuellement ou en petits groupes de deux ou de trois.\n"
+"\n"
+"Chaque carte décrit une chose à trouver. Il peut s’agir d’une chose précise. « Un panneau stop », il peut également s’agir d’une description impliquant toutes sortes de descriptions et de propriétés. Voici quelques exemples que vous pouvez utiliser individuellement ou en combinaison :\n"
+"\n"
+"* Couleurs\n"
+"* Taille (plus grande qu’une main, plus petite qu’une voiture)\n"
+"* Formes (cercle, triangle, carré, balle, boite)\n"
+"* Taille du groupe (deux choses ensemble, trois choses ensemble)\n"
+"* Motifs (A B A B …)\n"
+"* Chiffres\n"
+"* Positions (sous, sur, au-dessus de, à côté de)\n"
+"* Texture (lisse, rugueuse, bosselée, pointue)\n"
+"* Utilisation (pour écrire, pour s’assoir, …)\n"
+"\n"
+"**Comment jouer ?** Distribuez au hasard trois cartes à chaque joueur ou à chaque groupe de joueurs. Leur objectif est d’être les premiers à trouver des objets pour chacune de leurs cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TREASURE MAP"
+msgstr "CARTE AU TRESOR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Properties"
+msgstr "Propriété des Objets"
 
 #. type=data_list
 msgctxt "data_list"
