@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-05-12 12:48\n"
+"PO-Revision-Date: 2025-05-12 13:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6845,7 +6845,7 @@ msgstr "**Comment gagner :** Les objets volés sont ajoutés à la pile de votre
 #. type=data_list
 msgctxt "data_list"
 msgid "MATERIALS AND NUMBER CARDS"
-msgstr "FOURNITURES ET CARTES DE NOMBRES"
+msgstr "MATÉRIELS ET CARTES DE CHIFFRES"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7133,6 +7133,17 @@ msgstr "Propriété des Objets"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup.** Decide on an interesting place for the treasure. It can be just the place, or you could put some silly thing there that your child will enjoy finding.  \n"
+"\n"
+"The \"map\" can be done in one of two ways. It can be a drawing of the area with interesting landmarks drawn in, and with an \"X\" marks the spot where the treasure is. Or, it can be a series of directions that must be followed to get to the treasure. The directions can be as simple as \"face the clock and go forward 9 steps,\" or they can be descriptions similar to those in the Scavenger Hunt activity \"face something blue and round, then walk toward a group of three red things until you are next to something to sit on.\""
+msgstr ""
+"**La mise en place.** Décidez d’un endroit intéressant pour le trésor. Il peut s’agir d’un simple endroit, mais vous pouvez aussi y placer des choses amusantes que votre enfant aura plaisir à trouver.\n"
+"\n"
+"La « carte » peut être réalisée d’une ou de deux manières. Il peut s’agir d’un dessin de la région avec des points de repère intéressants, et d’un « X » marquant l’endroit où se trouve le trésor. Il peut aussi s’agir d’une série d’instructions à suivre pour atteindre le trésor."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "DESCRIBING SCENES"
 msgstr "DÉCRIRE DES SCÈNES"
 
@@ -7181,6 +7192,47 @@ msgstr "QUI EST-CE ?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "Il s'agit d'une activité pour plusieurs personnes. Le meneur choisit secrètement une personne dans le groupe. Pour trouver la personne secrète, les joueurs posent des questions telles que : « Cette personne porte-t-elle une chemise avec un triangle sur le devant ? “ ou ” Les cheveux de cette personne sont-ils longs de plus de 30 cm ? »."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "DE QUELLE FORME S’AGIT-IL ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a collection of cards with standards shapes drawn on them. These could be square, circle, triangle, rectangle, parallelogram, pentagon, hexagon, octagon, oval, star, or anything else you child is familiar with. \n"
+"\n"
+"**How to play:** A child can do this by themselves, or with a partner. Give a small random collection of the shape cards to the child or children for them to act out silently. They can use their body parts (but not their fingers) and the ground to do things that suggest the shape. Their goal is to have the other people guess the name of the shape. You can make it competitive by having a time limit and seeing which team can do the most shapes in the allotted time."
+msgstr ""
+"**La mise en place.** Disposez d’une collection de cartes sur lesquelles sont dessinées des formes standard. Il peut s’agir d’un carré, d’un cercle, d’un triangle, d’un rectangle, d’un parallélogramme, d’un pentagone, d’un hexagone, d’un octogone, d’un ovale, d’une étoile ou de tout autre objet familier à votre enfant.\n"
+"\n"
+"**Comment jouer :** Un enfant peut le faire seul ou avec un partenaire. Donnez une petite collection aléatoire de cartes de formes à l’enfant ou aux enfants pour qu’ils jouent en silence. Ils peuvent utiliser les parties de leur corps (mais pas leurs doigts) et le sol pour décrire des choses qui suggèrent la forme. Leur objectif est de faire deviner aux autres le nom de la forme. Vous pouvez rendre le jeu plus compétitif en fixant une limite de temps et en déterminant quelle équipe est capable de réaliser le plus grand nombre de formes dans le temps imparti."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BUILDING WITH SHAPES"
+msgstr "CONSTRUIRE A PARTIR DE FORMES GEOMETRIQUES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unknown Shapes"
+msgstr "Des formes inconnues"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bring together an interesting collection of shapes for your child to play with.\n"
+"\n"
+"The shapes may all be flat polygons, in which case your child can play with making designs and tiling patterns. Explore which shapes fit together nicely and which don't. Name some of the shapes as your child picks them up.\n"
+"\n"
+"They may be things that can be stacked or placed together in interesting ways, such as boxes and cans. If two structures are built, talk about which is taller, wider, or stronger. Which one has more pieces in it? Which pieces are easy to put on top of each other and which ones are not?"
+msgstr ""
+"Rassemblez une collection intéressante de formes géométriques avec lesquelles votre enfant puisse jouer.\n"
+"\n"
+"Les formes peuvent toutes être des polygones plats, avec lesquelles votre enfant peut s’amuser à faire des dessins et des motifs de carrelage, Explorer les formes qui s’emboitent bien et celles qui ne s’emboitent pas. Nommez certaines de ces formes au fur et à mesure que votre enfant les ramasse.\n"
+"\n"
+"Il peut s’agir d’objets qui peuvent être empilés ou placés ensemble de manière intéressante, comme des boites ou des canettes. Si deux structures sont construites, notez celle qui est la plus haute, la plus large ou la plus solide. Laquelle contient le plus de pièces ? Quelles pièces sont faciles à superposer et lesquelles ne le sont pas ?"
 
 #. type=data_list
 msgctxt "data_list"
