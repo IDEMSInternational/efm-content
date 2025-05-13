@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 15:41\n"
+"PO-Revision-Date: 2025-05-13 16:38\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6840,6 +6840,73 @@ msgstr "**遊び方：** お子さんにボールから5個を声に出して数
 msgctxt "data_list"
 msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
 msgstr "**勝つ方法：** 奪った商品はお子さんの山の一部となり、残った品物はあなたが保持します。ボールが空になるまで、必要なラウンド数だけ遊び続けます。最後に、お互いの商品を横に並べて、どちらが多いかを比べましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Introduction**\n"
+"\n"
+"You only need a few materials for these Early Family Math activities, and they are all very inexpensive and easy to get. Here’s a short list:\n"
+"\n"
+"• Five dice\n"
+"• A deck of playing cards\n"
+"• String (optional)\n"
+"• Sidewalk chalk (optional)\n"
+"• Some stiff paper in various colors (optional)\n"
+"\n"
+"**Make Number Cards**\n"
+"\n"
+"Many EFM activities can be played using decks of playing cards. However, using a Number Card deck will help your child practice ideas that will not be emphasized with regular playing cards. Make your own cards using card stock or any thick paper. You can either use the PDF supplied in Resources or draw your own."
+msgstr ""
+"**紹介**\n"
+"\n"
+"Early Family Mathの活動に必要な材料はほんの少しで、どれもとても安価で簡単に手に入ります。以下に簡単なリストを示します：\n"
+"\n"
+"* サイコロ5個\n"
+"* トランプ1組\n"
+"* ひも（任意）\n"
+"* 歩道用チョーク（任意）\n"
+"* 様々な色の堅い紙（任意）\n"
+"\n"
+"**数字カードを作る**\n"
+"\n"
+"EFMの活動の多くは、トランプを使って遊べます。しかし、番号カードデッキを使うことで、普通のトランプでは強調されないアイデアを練習することができます。カードストックや厚紙を使って、オリジナルのカードを作りましょう。リソースにあるPDFを使っても、自分で描いてもかまいません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE A SHAPE DECK"
+msgstr "図形デッキを作る"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few games and puzzles that involve a Shape Deck of 27 cards in the Shape Deck Games page. If you happen to have a set of 81 cards from the game of SET, you can use 27 of those cards that have solid colors as a Shape Deck."
+msgstr "図形デッキゲームのページには、27枚のカードからなる図形デッキを使ったゲームやパズルがいくつかあります。もし、あなたが“SET”というゲームの81枚のカードセットを持っていたら、そのうちの27枚の無地のカードを図形デッキとして使うことができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with some stiff paper such as card stock if you can. Regular paper will work, it’s just not as easy to handle or as durable.\n"
+"\n"
+"Each of the 27 cards of the Shape Deck has three properties: a shape (circle, triangle, or square), a count (one, two, or three) and a color (red, blue, or black). The 27 cards are pictured above. Use the pdf supplied in Resources or draw your own."
+msgstr ""
+"できれば、カード用紙のような厚紙から始めてください。普通の紙でも大丈夫ですが、扱いやすさや耐久性が劣ります。\n"
+"\n"
+"図形デッキの27枚のカードはそれぞれ、形（丸、三角、四角）、数（1、2、3）、色（赤、青、黒）の3つの性質を持っています。27枚のカードは上の絵です。リソースに添付されているPDFを使用するか、自分で描いてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE ON THE WALL"
+msgstr "壁の数直線"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Materials"
+msgstr "材料"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place a number line on a wall to let your child see the numbers and how they grow. The number line should start at 0 and go at least to 20, with the numbers increasing as they go to the right. Make it from regular paper and use tick marks and large numbers."
+msgstr "壁に数直線を貼り付けて、数字がどのように増えていくかをお子さんに見せます。数直線は0から始まり、少なくとも20まで続き、右に行くほど数字が増えていくようにします。普通の紙で作り、目盛りと大きな数字を使います。"
 
 #. type=data_list
 msgctxt "data_list"
