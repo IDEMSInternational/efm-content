@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 04:06\n"
+"PO-Revision-Date: 2025-05-13 05:09\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6545,6 +6545,97 @@ msgstr "穴の周りに異なる色でアウトラインを描きます（例：
 msgctxt "data_list"
 msgid "SHAPE HUNT"
 msgstr "形探し"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This game is similar to I Spy. It can be played anywhere and at any time.\n"
+"\n"
+"**The setup:** One person sees a shape, and then gives clues about the object's description and position to the other person."
+msgstr ""
+"このゲームは\"アイ・スパイ\"に似ています。どこでも、いつでも遊ぶことができます。\n"
+"\n"
+"**準備：** 一人が形を見て、もう一人にその物の説明や位置についてヒントを与えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player 1: “I see something that has a large blue circle.” \n"
+"\n"
+"Player 2: \"Is it that bicycle wheel?\"\n"
+"\n"
+"Player 1: \"No. It is in the middle of a wall.\"\n"
+"\n"
+"Player 2: “I see it! It’s the clock!”"
+msgstr ""
+"プレイヤー 1: \"大きな青い円のようなものが見えます。\"\n"
+"\n"
+"プレイヤー 2: \"それは自転車の車輪ですか？\"\n"
+"\n"
+"プレイヤー 1: \"いいえ。壁の真ん中にあります。\"\n"
+"\n"
+"プレイヤー 2: \"見つけました！それは時計です！\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take turns with your child in the two roles. Being able to give good clues is just as important as discovering an object from some clues.\n"
+"\n"
+"Start with simple shapes, add size and color, and then add shapes inside of shapes or other arrangements. Add in information about its position relative to other objects."
+msgstr ""
+"お子さんと一緒に2つの役割を交互に行いましょう。上手にヒントを与えられるかどうかは、ヒントから物を見つけることと同じくらい重要です。\n"
+"\n"
+"まずは単純な形から始め、大きさや色を加え、形の中に別の形を入れたり、他の配置を加えたりします。また、他の物に対する位置情報も加えてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATE A JIGSAW PUZZLE"
+msgstr "ジグソーパズルの作成"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a jigsaw puzzle together for your child to play with.\n"
+"\n"
+"Either use a box that already has a picture on it, such as a cereal or product box, or have your child paint or draw on a piece of cardboard or stiff paper.\n"
+"\n"
+"Cut the cardboard or paper into large pieces and keep all the pieces. \n"
+"\n"
+"You now have your own personal jigsaw puzzle!"
+msgstr ""
+"一緒にジグソーパズルを作って、お子さんに遊んでもらいましょう。\n"
+"\n"
+"シリアルや商品が描かれた箱を使うか、お子さんに段ボールや厚紙に絵を描かせましょう。\n"
+"\n"
+"その段ボールや紙を大きなピースに切り分け、すべて取っておきましょう。\n"
+"\n"
+"これで自分だけのジグソーパズルが完成です！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COLORED TILINGS"
+msgstr "色付きタイル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Create a set of “tiles” from cardboard or stiff paper. Use the patterns in the EFM Printables PDF, or download the patterns from a source on the internet. Use one source for all the shapes so that they fit well together. For each shape, use just one or two colors, such as red squares and blue triangles – that will help your child pick up the pattern of which shapes are which, and it will make the patterns more interesting."
+msgstr "**作成方法：** 段ボールや厚紙から\"タイル\"のセットを作ります。EFM Printables PDFのパターンを使うか、インターネットの別のソースからパターンをダウンロードします。すべての形がうまく組み合わさるように、1つのソースを使用してください。それぞれの形には、赤の正方形と青の三角形のように、1色か2色だけを使います。そうすることで、お子さんがどの形がどれかを把握しやすくなり、パターンがより興味深くなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Watch your child make patterns fitting the tiles together. Name the shapes and colors as they go.\n"
+"\n"
+"With older children, talk about patterns in the tiling that repeat. Also, talk about symmetries in the overall design. Some designs have one side that is the reflection of the other side, and that is called mirror symmetry."
+msgstr ""
+"お子さんがタイルを組み合わせて模様を作るのを見守りましょう。形や色の名前を言いながら進めていきます。\n"
+"\n"
+"年齢の高いお子さんには、繰り返すパターンについて話します。また、デザイン全体の対称性についても話しましょう。デザインの中には、片面がもう片面の反映になっているものがあります。 – **鏡の対称性**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child has made a few designs, start pointing out patterns in the tiled floors and buildings that you see. Brickwork or woodwork often have interesting patterns in them."
+msgstr "お子さんがいくつかのデザインを作った後は、見かけるタイルの床や建物のパターンを指摘してみましょう。レンガ造りや木工品には、面白い模様があることが多いです。"
 
 #. type=data_list
 msgctxt "data_list"
