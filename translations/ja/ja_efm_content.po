@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 12:47\n"
+"PO-Revision-Date: 2025-05-13 14:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6667,6 +6667,128 @@ msgstr "物を探す活動"
 msgctxt "data_list"
 msgid "Make a math game of searching for objects around the house or outside. Use the game to practice concepts that your child is learning, such as color, size (large, medium, small), weight (heavy, light), quantity, and relationship (inside, on top of, below)."
 msgstr "家の中や外で物を探す数学ゲームを作りましょう。このゲームを通じて、お子さんが学んでいる色、大きさ（大・中・小）、重さ（重い・軽い）、数量、位置関係（中に、上に、下に）について練習します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two versions of this game. Both versions involve a Puzzler, who thinks of an object to find, and a Guesser, who tries to guess what the object based on the information from the Puzzler.\n"
+"\n"
+"**Version 1:** The Puzzler starts describing an object, and the Guesser tries to guess what it is. \n"
+"\n"
+"**Version 2:** The Guesser asks yes/no questions of the Puzzler until the Guesser guesses what the object is.\n"
+"\n"
+"**How to win:** Guess what the object is in as few steps as possible."
+msgstr ""
+"**遊び方：** このゲームには2つのバージョンがあります。どちらのバージョンも、パズラーは探すべき物を考え、推測者はパズラーからの情報をもとに物を推測します。\n"
+"\n"
+"**バージョン 1：** パズラーはある物体の説明を始め、推測者はそれが何かを当てようとします。\n"
+"\n"
+"**バージョン 2：** 推理者は、推理対象が何であるかを当てるまで、イエス/ノーの質問をパズラーに投げかけます。\n"
+"\n"
+"**勝ち方：** できるだけ少ないステップで物が何なのかを当てます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PATTERNS"
+msgstr "パターン"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Descriptions"
+msgstr "対象の説明"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Patterns are everywhere! See how many you can make with your child."
+msgstr "パターンはどこにでもあります！お子さんと一緒にどれだけたくさんのパターンを作れるか見てみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pattern types"
+msgstr "パターンの種類"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some characteristics that can be used by themselves or mixed together: \n"
+"\n"
+"• Movement patterns: stepping, jumping, waving, nodding\n"
+"• Sound patterns: clapping, knee slapping, tongue clicking, stamping\n"
+"• Loudness patterns: soft, medium, loud\n"
+"• Visual patterns: color, shape, size"
+msgstr ""
+"以下は、単独でも混合でも使えるいくつかの特徴です。:\n"
+"\n"
+"* 動きのパターン：ステップ、ジャンプ、手を振る、うなずく\n"
+"* 音のパターン：手拍子、膝を叩く、舌を鳴らす、足踏み\n"
+"* 音量のパターン： 静か、中くらい、うるさい\n"
+"* 視覚のパターン：色、形、大きさ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player one: makes a pattern and challenges the other person to repeat it. (Step, clap, jump)\n"
+"\n"
+"Player two: can repeat and eventually add to the pattern, challenging player one to repeat it. (Step, clap, jump, touch their nose)\n"
+"As you get better, challenge each other to repeat longer and longer patterns from memory.\n"
+"\n"
+"You can use a pattern as a secret code for getting through a passageway. You can also make necklaces with your child by taking string and threading on beads or bits of food to create repeating patterns. Walking hand in hand, you can use squeeze patterns (short short long, etc.).\n"
+"\n"
+"**Puzzles:** For older children, create puzzles by drawing a pattern of shapes on paper. One person establishes a pattern and then leaves gaps in the sequence for the other to fill in."
+msgstr ""
+"プレーヤー1：パターンを作り、相手にそれを繰り返すように要求します。(ステップ、拍手、ジャンプ）\n"
+"\n"
+"プレーヤー2：繰り返すことができ、最終的にはパターンを追加することができるので、プレーヤー1にその繰り返しを要求することができます。(ステップ、拍手、ジャンプ、鼻を触る）上達してきたら、記憶しているパターンをどんどん長く繰り返すことに挑戦し会いましょう。 \n"
+"\n"
+"パターンを、通路を通るための秘密の暗号として使うこともできます。また、紐にビーズや食べ物のかけらを通し、繰り返しのパターンを作ることで、お子さんと一緒にネックレスを作ることもできます。手をつないで歩きながら、押しつぶしパターン（短い　短い　長いなど）を使うこともできます。\n"
+"\n"
+"**パズル:** 年齢の高いお子さん向けには、紙に図形のパターンを描いてパズルを作ります。一人がパターンを作り、その後で他の人が埋めるための空白を残します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER HUNT"
+msgstr "数字探し"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Go hunting:** Pick a number, say 2. Challenge your child to go on a treasure hunt to find as many ways as possible that 2 shows up around you. It may show up as the numeral 2 on a wall, sign, or building. It may show up as two of something, such as two chairs, two dishes, or two cups, as it does in this illustration."
+msgstr "**探しに行く：** 数字を1つ選んでください。お子さんが宝探しに挑戦して、身の回りに\"2\"が現れる方法をできるだけたくさん見つけてください。壁や看板、建物に\"2\"という数字があるかもしれません。このイラストのように、椅子が2つ、食器が2つ、コップが2つなど、何かが2つある場合もあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you like, you can make this into a contest by seeing who can find the most of whatever number you are looking for."
+msgstr "もしよければ、探している数字を誰が最も多く見つけられるか競うコンテストにすることもできます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER GOBBLER"
+msgstr "数字を食べる者"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 5"
+msgstr "5まで数える"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Make a 21-piece triangle with some food item. Put 1 piece in the top row, 2 pieces in the next row, and 6 pieces in the last."
+msgstr "**準備：** ある食べ物で21個の三角形を作ります。一番上の段に1個、次の段に2個、最後の段に6個置きます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Take turns rolling a die. Each time the count of a roll matches a row that is still in the triangle, the player gets to remove that row and either eat it (yum) or put it in their personal pile.\n"
+"\n"
+"**How to win:** Beginning players can do a 1-to-1 match of the dots on the die with the food pieces in a row. The player with the bigger pile of food wins! To determine the winner, do a 1-to-1 match of the two piles to see whose pile is larger."
+msgstr ""
+"**遊び方：** 順番にサイコロを振ります。出た目が三角形の中に残っている列と一致するたびに、プレイヤーはその列を取り除き、食べるか（おいしい）、自分の個人の山に置くか選べます。\n"
+"\n"
+"**勝ち方：** 初心者のプレイヤーは、サイコロの点と食べ物の列を1対1でマッチさせることができます。食べ物の山が大きい方が勝ちです！勝者を決めるには、2つの山を1対1でマッチさせ、どちらの山が大きいかを確認します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
+msgstr "お子さんが慣れ親しんでいる数字の範囲に合わせて、山の大きさを変えてください。"
 
 #. type=data_list
 msgctxt "data_list"
