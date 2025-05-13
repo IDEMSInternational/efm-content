@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 18:35\n"
+"PO-Revision-Date: 2025-05-13 22:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6987,6 +6987,37 @@ msgstr "より簡単なバリエーション"
 msgctxt "data_list"
 msgid "For younger children, relax many of the rules and replace hopping with stepping. Also, use a jumping pattern with fewer squares, perhaps as simple as having the numbers from1to5infivesquaresinarow."
 msgstr "幼いお子さんには、ルールの多くを緩和し、跳ぶ代わりに歩くようにします。また、四角の数を減らし、1から5までの数字を並べた5つの四角を使うなど、より簡単なジャンプパターンを取り入れると良いでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING IN CIRCLES"
+msgstr "円に入る"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**A circle for each property:** Create large circles on the ground using Hula Hoops, string, or draw them with sidewalk chalk. Use a collection of objects and have each circle represent a property of some of the objects. Possible properties are: has four legs, is bigger than a doll, has some red coloring. The challenge for your child is to put everything that has the property in the circle and everything without the property outside the circle."
+msgstr "**各特性ごとに円を作る：** 歩道にフラフープやひもを使い、チョークで地面に大きな円を描きます。物体のコレクションを使い、それぞれの円が物体の特性を表すようにします。例えば、足が4本ある、人形より大きい、赤い色をしている、などです。お子さんの課題は、その特性を持つものはすべて円の中に入れ、その特性を持たないものはすべて円の外に置くことです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two circles:** Start by using one circle to get your child used to the idea. When you change to two circles, make them partially overlap, and choose the properties so that some objects have both properties.\n"
+"\n"
+"**Example:** For example, if you have a box of blocks, the two properties might be having a round shape and being wooden. Your child should tell you how they are deciding to place each object."
+msgstr ""
+"**2つの円：** まずは1つの円を使って、お子さんがこのアイデアに慣れるようにします。2つの円に変えるときは、部分的に重なるようにし、いくつかの物体が両方の特性を持つように特性を選びます。\n"
+"\n"
+"**例：** 例えば、積み木の箱がある場合、丸い形をしていることと、木製であることの2つの特性が考えられます。お子さんには、それぞれの物をどのように配置するか、その理由を説明してもらいます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reverse this activity by placing objects in the circles and challenging your child to identify what property goes with each circle."
+msgstr "この活動を逆にして、物体を円の中に置き、それぞれの円にどのような性質があるのかをお子さまに識別させます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SAME AND DIFFERENT"
+msgstr "同じところと異なるところ"
 
 #. type=data_list
 msgctxt "data_list"
