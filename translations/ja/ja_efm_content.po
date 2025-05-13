@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 05:09\n"
+"PO-Revision-Date: 2025-05-13 12:47\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6636,6 +6636,37 @@ msgstr ""
 msgctxt "data_list"
 msgid "After your child has made a few designs, start pointing out patterns in the tiled floors and buildings that you see. Brickwork or woodwork often have interesting patterns in them."
 msgstr "お子さんがいくつかのデザインを作った後は、見かけるタイルの床や建物のパターンを指摘してみましょう。レンガ造りや木工品には、面白い模様があることが多いです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LAUNDRY SORTING"
+msgstr "洗濯物の仕分け"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Laundry sorting is a great way to discuss properties that make things the same or different."
+msgstr "洗濯物の仕分けは、物が同じか違うかを話し合うのに良い方法です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Dirty clothes:** Perhaps the clothes need to be sorted by whites, bright colors, and dark colors. Perhaps some clothes need delicate handling, or they are particularly dirty. Perhaps one pile is too big to wash as one group. All of these characterstics are things to be observed, described, and discussed.\n"
+"\n"
+"**Clean clothes:** You may want to sort into piles by whose clothes they are. Some clothes may be bigger than others. Pairing up socks can be particularly interesting – matching colors, patterns, and sizes."
+msgstr ""
+"**汚れた衣服：** 衣類は、白、明るい色、暗い色に分類する必要があるかもしれません。デリケートな扱いが必要な衣類や、特に汚れている衣類があるかもしれません。さらに、一つのグループとして洗うには山が大きすぎる場合もあります。これらの特徴はすべて、観察され、説明され、議論することができます。\n"
+"\n"
+"**清潔な衣類：** 誰の衣類かによって、山を分けるのもいいです。中には他のものより大きい衣類もあるでしょう。色や柄、サイズをそろえるなど、靴下をペアにすることは特に面白いです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "OBJECT HUNT"
+msgstr "物を探す活動"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make a math game of searching for objects around the house or outside. Use the game to practice concepts that your child is learning, such as color, size (large, medium, small), weight (heavy, light), quantity, and relationship (inside, on top of, below)."
+msgstr "家の中や外で物を探す数学ゲームを作りましょう。このゲームを通じて、お子さんが学んでいる色、大きさ（大・中・小）、重さ（重い・軽い）、数量、位置関係（中に、上に、下に）について練習します。"
 
 #. type=data_list
 msgctxt "data_list"
