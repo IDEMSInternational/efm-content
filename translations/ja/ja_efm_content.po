@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 00:56\n"
+"PO-Revision-Date: 2025-05-13 04:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6520,6 +6520,31 @@ msgstr ""
 "**図形：** 果物の形や食べ物の箱に描かれた絵を指摘しましょう。箱に入っているものもあれば、丸い瓶に入っているものもあることについて話してください。 \n"
 "\n"
 "高い棚にあるものや、低い棚にあるものが必要かもしれません。説明したり比較したりするものがたくさんあります！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES INSIDE SHAPES"
+msgstr "図形の中の図形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help your child explore the physical relationships between shapes by providing an environment rich in opportunities to experiment."
+msgstr "お子さんが形の物理的な関係を探求できるように、実験する機会が豊富な環境を提供しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Start with any box – perhaps a cereal box or cardboard shipping box. Cut holes with different shapes (square, circle, triangle, long rectangle) in the box. Watch your child experiment with fitting toys and other objects through the holes."
+msgstr "**どのように作るか:** まずは、シリアルの箱や段ボールの配送箱など、どんな箱でも使ってみましょう。 箱にいろいろな形（正方形、円形、三角形、長方形）の穴を開けます。お子さんがその穴におもちゃや他の物を通そうとする様子を見守りましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add different colors to outline the holes (e.g. red triangle, blue circle, yellow square). Reinforce the names by saying the name of the shape of the hole when your child puts the toy through it."
+msgstr "穴の周りに異なる色でアウトラインを描きます（例：赤い三角形、青い円、黄色い四角）。お子さんがおもちゃを穴に通すときに、穴の形の名前を言って名前を強調してあげましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE HUNT"
+msgstr "形探し"
 
 #. type=data_list
 msgctxt "data_list"
