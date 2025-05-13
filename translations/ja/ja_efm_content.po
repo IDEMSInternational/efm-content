@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 14:03\n"
+"PO-Revision-Date: 2025-05-13 15:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6789,6 +6789,57 @@ msgstr ""
 msgctxt "data_list"
 msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
 msgstr "お子さんが慣れ親しんでいる数字の範囲に合わせて、山の大きさを変えてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE MORE ONE LESS"
+msgstr "1つ多い、1つ少ない"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
+msgstr "最初の数個の数を理解するようになったら、お子さんに“1つ多い”　“1つ少ない”という質問をしてみましょう。例えば、現在いくつの商品があるかは話さずに、”もう一つ欲しい？”、”一つ少ない方がいい？”と尋ねます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n"
+"\n"
+"**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
+msgstr ""
+"**数量と変化：** ゆっくりと現在の数量とその変化を強調し始めましょう。一緒に数を数え、たとえば皿の上のリンゴのスライスが2つあるとします。お子さんにリンゴのスライスを1枚増やしたいか、あるいは1枚減らしたいか尋ねます。もし量が変わったら、リンゴのスライスが今いくつあるか聞いて終わりましょう。\n"
+"\n"
+"**歩き回ること：** 同じように、歩いているときにも、数えるべきものを選びます。あなたの前に3人の人が並んでいるとします。一緒に数えて、一人が去って一人少なくなったら何人になるかを尋ねます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Foundations"
+msgstr "基礎"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding 'one more' and 'one less' helps deepen understanding of how numbers sequence, and it also is the foundational skill for beginning addition and subtraction."
+msgstr "“1つ多い”と“1つ少ない”を理解することは、数の並び方の理解を深めるのに役立ち、また足し算や引き算を始めるための基礎的なスキルでもあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "IN THE OTHER HAND"
+msgstr "もう一方の手で"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a bowl of small pieces of food."
+msgstr "**準備：** 小さな食べ物のかけらを入れたボールを用意します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand."
+msgstr "**遊び方：** お子さんにボールから5個を声に出して数えさせ、それをあなたに渡してもらいます。秘密にその商品を両手に分け、片方の手は開き、もう片方は閉じたままにします。お子さんは、開いた手の中の商品を声に出して数え、どちらの手から“奪う”かを選びます。手を開く前に、何個の商品が奪われるかを予測させましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
+msgstr "**勝つ方法：** 奪った商品はお子さんの山の一部となり、残った品物はあなたが保持します。ボールが空になるまで、必要なラウンド数だけ遊び続けます。最後に、お互いの商品を横に並べて、どちらが多いかを比べましょう。"
 
 #. type=data_list
 msgctxt "data_list"
