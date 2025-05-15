@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-15 01:08\n"
+"PO-Revision-Date: 2025-05-15 02:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7219,6 +7219,70 @@ msgstr ""
 "このパズルを物理的なものにするために、連続した数字が書かれた紙切れをくねくねした道になるように床に置きます。子どもたちは一番小さい数字から一番大きい数字までを歩くことでパズルで遊ぶことができます。\n"
 "\n"
 "応用編: 一部の数字を空白にしてみましょう。または、一番大きい数字から一番小さい数字へ進む順番を考えてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRING NUMBER LINE"
+msgstr "数の直線"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to having a paper number line on a wall, create a number line using a piece of string. Tie or clip a section of string between two objects. Use paper clips to attach sliding Number Cards from 0 to 10 along the string in order."
+msgstr "紙に書かれた数の直線を壁に貼るだけでなく、ひもも使って数の直線を作ってみましょう。二つの物の間にひもを結ぶか、クリップで固定し、０から１０の数カードをひもに沿って順番にクリップで止めていきましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to exploring these ideas, you and your child will probably discover many more.\n"
+"\n"
+"• Switch two numbers and have your child find the mistake.\n"
+"• Leave out a number and have your child find which one is missing.\n"
+"• Practice adding. To do 4 + 2, slide over the first 4 numbers and then slide the next 2.\n"
+"• Practice subtracting. To do 6 - 2, slide 6 cards to the left, then slide 2 of those to the right."
+msgstr ""
+"これらのアイデアの他にも、お子さんと一緒に様々な発見があるかもしれません。\n"
+"\n"
+"* 二つの数字を入れ替えて、お子さんがその違いを見つける。\n"
+"* 数字を一つ消して、お子さんがなくなった数字を見つける。\n"
+"* 足し算の練習をする。４＋２の場合、最初の四つの数字を移動させ、次の二つの数字を移動させる。\n"
+"* 引き算の練習をする。６－２の場合、六枚のカードを左にずらし、そのうちの二枚を右にずらす。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH!"
+msgstr "釣りに行こう!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 10"
+msgstr "１０まで数えられるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove cards above the highest number your child is comfortable with. For more than two players, if you have restricted the number range you may need several decks."
+msgstr "**準備:** お子さんが持っている一番大きな数以上の数のカードを取り除く。二人以上で遊ぶ際に数の範囲を制限する場合、いくつかのデッキが必要になるかもしれません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Deal 5 cards to each player and put the other cards face down in a shared draw pile.\n"
+"\n"
+"During a turn, a player “fishes” by asking any player if they have a card matching one of their cards. For example: ‘Jonah, please give me a 4’. If they have it, they hand over the card. If they don’t, they say “Go Fish!” and the player must pick a card from the draw pile."
+msgstr ""
+"遊び方:} 各プレイヤーに5枚ずつカードを配り、他のカードは裏向きで共有の山札に置く。\n"
+"\n"
+"自分の番になったら、プレイヤーは他のプレイヤーに自分と同じカードがあるか聞いて「釣る」。例：「太郎さん、４をください」持っていればそのカードを渡し、持っていなければ「釣りへ行こう！」と言って山札から一枚引く。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Making a book:** When a player has a pair of matching cards, those cards are placed in a “book” in front of them.\n"
+"\n"
+"**How to win:** The game is over after all the cards have been put into books. The player with the most books wins."
+msgstr ""
+"本を作る:} カードを二枚揃えたら、そのカードを「本」の中に入れる。\n"
+"\n"
+"**あがり方:** すべてのカードを本の中に入れたら終了。その時点で一番多くの本を持っている人があがりとなります。"
 
 #. type=data_list
 msgctxt "data_list"
