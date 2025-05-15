@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-15 00:06\n"
+"PO-Revision-Date: 2025-05-15 01:08\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7197,6 +7197,28 @@ msgstr ""
 "数字が書かれた島（丸）を橋（線）で繋いでいくパズルです。\n"
 "\n"
 "**やってみよう:** 島と島を順番に結ぶ道を探しましょう。一番簡単なパズルでは数字が１から島の数まで続きます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Adjust the challenge 1:** Leave out some numbers so your child figures out what is missing and where it belongs.\n"
+"\n"
+"**Adjust the challenge 2:** Instead of starting at 1, design the puzzles to start at 0 or other numbers. (Note the range at the top of the puzzle)."
+msgstr ""
+"**応用１:** 子どもたちがどの数字がなくなっているのか、それがどこに当てはまるのかわかるように、いくつかの数字を消してみましょう。\n"
+"\n"
+"**応用２:** 1から始めるだけでなく、０やほかの数字から始めてみましょう。（パズルの上の範囲にご注意ください）"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a physical puzzle by placing pieces of paper with consecutive numbers on the floor in some twisty path. Your child can solve this puzzle by walking along the path from the smallest to the largest number.\n"
+"\n"
+"Add challenge: Replace some of the numbered pieces with blank ones. Also, have your child to start at the largest number and go downward."
+msgstr ""
+"このパズルを物理的なものにするために、連続した数字が書かれた紙切れをくねくねした道になるように床に置きます。子どもたちは一番小さい数字から一番大きい数字までを歩くことでパズルで遊ぶことができます。\n"
+"\n"
+"応用編: 一部の数字を空白にしてみましょう。または、一番大きい数字から一番小さい数字へ進む順番を考えてみましょう。"
 
 #. type=data_list
 msgctxt "data_list"
