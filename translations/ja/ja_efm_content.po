@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-13 23:17\n"
+"PO-Revision-Date: 2025-05-15 00:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7110,6 +7110,93 @@ msgstr "これは数人で行う活動です。リーダーはグループの中
 msgctxt "data_list"
 msgid "Unknown Shapes"
 msgstr "形の発見"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 2 – I CAN COUNT TO 5!"
+msgstr "ステージ２ー５まで数えられるよ!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Introduction"
+msgstr "ステージ２ – 紹介"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
+"\n"
+"Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
+msgstr ""
+"**これまでのこと**\n"
+"\n"
+"すごい！子どもたちが５まで数えられるようになりました！これらの数字はオウムのようにただ順番が繰り返されているわけではなく、子どもたちがそれだけ数の感覚をつかんでいるということなのです。彼らはもう説明したり話したりするものに対して、特徴を当てはめる準備ができています。そのことによってどれだけ世界への理解が深まることでしょう！\n"
+"\n"
+"子どもたちはより話すようになり、推理や説明も得意になってきます。数学的なことを話し合えるようにもなり、一緒にゲームやパズルで遊ぶこともできます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child will be learning many things in the coming months beyond counting to 10 and above.\n"
+"Here is a quick list of topics that will be covered in this Stage.\n"
+"\n"
+"• Counting forward and backward to 10. Don’t ignore backward counting – it is important for understanding number relationships as well as being an aid for subtraction.\n"
+"• Include 0 in your counting sometimes. Including 0 now makes it a familiar number and keeps it from feeling exotic.\n"
+"• Reasoning with properties and numbers. Understanding properties and reasoning with them is a key part of developing mathematical ability.\n"
+"• Deepening understanding of shapes, especially circles, triangles, and squares. Keep using descriptive shape names as your child interacts with them.\n"
+"• Comparing and ordering numbers. How quantities compare and interact with each other is central to understanding them.\n"
+"• One more, one less, two more, two less. These concepts are relatively easy to pick up, and they will form the basis for addition and subtraction.\n"
+"• Learning to use manipulatives, especially fingers, to understand adding and subtracting. Adding and subtracting 0.\n"
+"• Subtracting a number from itself."
+msgstr ""
+"子どもたちはこれからたった数か月で１０より大きい数を数えるだけでなく、より多くのことを学ぶでしょう。これらはこのステージで学ぶことを簡単にまとめたものです。\n"
+"\n"
+"* １０まで数を増やしたり減らしたりする。引き算の考え方に重要な、数の関係を理解するためにも数を減らしていくことをお忘れなく。\n"
+"* 時々”０”も数の中に入れましょう。今のうちから”０”を取り入れることで身近に感じ、違和感がなくなります。\n"
+"* 性質と数を使って推理する。性質を理解し、それを使って推理することは数学的能力を発達させるために重要な要素です。\n"
+"* 図形について、中でも円・三角形・四角形についての理解を深める。子どもたちがこれらの形に触れるときはその名前を言ってあげましょう。* 数の比較と順序付け。数同士をどう比較し、互いにどう影響するかを考えることは数を理解するうえで中心的な要素です。\n"
+"* １つ多い、１つ少ない、２つ多い、２つ少ない…このような考え方は比較的簡単に身に着けることができ、足し算と引き算の基礎にもなります。\n"
+"* 足し算や引き算を理解するために、指などの物を使うことを学びましょう。０の足し算、引き算\n"
+"* それ自体から数を引くこと。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CONNECT THE DOTS"
+msgstr "点繋ぎ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Complete fun drawings by connecting numbered dots. Make these by taking a simple drawing, removing some straight lines, and replacing them with numbered dots. Connecting the dots in order recreates the original drawing."
+msgstr "**作り方:** 数字の点を繋いでいき、楽しい絵を完成させましょう。単純な絵からいくつか直線を消し、数字の点に置き換えて作ります。その点を繋ぐことで元の絵が完成します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Backwards:** Challenge your child to connect the dots in backwards order.\n"
+"\n"
+"You can also find these kinds of drawings to download from the internet."
+msgstr ""
+"**反対:** 反対の順番で点をつなぐことにも挑戦してみましょう。\n"
+"\n"
+"これらの絵はインターネットからダウンロードすることもできます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COUNTING"
+msgstr "島めぐり – 数え方"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles use numbered islands (circles) connected by bridges (lines).\n"
+"\n"
+"**The challenge:** Find a path that connects the islands in order. The easiest versions have numbers that go from 1 to the number of islands."
+msgstr ""
+"数字が書かれた島（丸）を橋（線）で繋いでいくパズルです。\n"
+"\n"
+"**やってみよう:** 島と島を順番に結ぶ道を探しましょう。一番簡単なパズルでは数字が１から島の数まで続きます。"
 
 #. type=data_list
 msgctxt "data_list"
