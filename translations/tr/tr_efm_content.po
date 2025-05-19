@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-04-29 02:46\n"
+"PO-Revision-Date: 2025-05-19 23:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7114,6 +7114,249 @@ msgstr "O KIŞI KIM?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "Bu aktivite birkaç kişiyle oynanacak bir aktivitedir. Oyunda bir Lider bulunur ve lider, gruptan bir gizli kişi seçer. Ardından, oyuncular, bu gizli kişinin kim olduğunu bulmak için lidere şu tür soruları sorarlar: “Bu kişi, üzerinde üçgen şekli olan bir gömlek mi giyinmiş?” veya “Bu kişinin saçı 30 cm’den uzun mu?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of These is Not Like the Others"
+msgstr "Bir Tanesi Diğerlerinden Farklı"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This activity has your child looking at four things and deciding which three share a property that the fourth one does not. The following is a quick list of examples together with explanations. Children often have a fresh way of looking at things and it is well worth listening to them to see if their reasoning is novel yet sound.\n"
+"\n"
+"There are several ways to present these four items to your child. The easiest for you is to simply say the list. If the items are easy to draw, you can draw them. If the items are hard to draw, you may be able to find photos or drawings in ads or magazines that you can cut out and select from. You may be able to use a single photo with lots of content and point out four things in the photo.\n"
+"\n"
+"For activities like this, once your child has practiced this for a while and has a solid idea of the activity, it is good to reverse your roles - your child will learn a lot by creating examples for you to solve. As before, their reasoning may be very different from yours, so listen carefully."
+msgstr ""
+"Bu etkinlik, çocuğunuzun dört öğeye bakıp, üçünün paylaştığı ve dördüncüsünün paylaşmadığı bir özelliğe karar vermesini sağlar. Aşağıda, açıklamalarıyla birlikte örneklerin kısa bir listesi bulunmaktadır. Çocuklar genellikle olaylara farklı bir bakış açısıyla yaklaşırlar, bu yüzden onların bakış açısının yeni ama mantıklı olup olmadığını görmek için onları dinlemek değerlidir.\n"
+"\n"
+"Bu dört öğeyi çocuğunuza sunmanın birçok yolu vardır. Sizin için en kolay olanı, listeyi basitçe söylemektir. Eğer öğeleri çizmek kolaysa, onları çizebilirsiniz. Çizmek zor ise, dergi veya gazetelerden kesebileceğiniz fotoğraf veya çizimler bulabilirsiniz. Ayrıca, çok fazla içerik içeren tek bir fotoğraf kullanarak, bu fotoğraftan dört öğeyi işaret edebilirsiniz.\n"
+"\n"
+"Bu tür etkinliklerde, çocuğunuz bir süre alıştırma yapıp etkinliğin mantığını iyice kavradığında, rollerinizi değiştirmek iyi bir fikirdir. Çocuğunuz, sizin çözmeniz için örnekler oluşturarak çok şey öğrenecektir. Daha önce olduğu gibi, onların akıl yürütmesi sizinkinden farklı olabilir, bu yüzden onları dikkatlice dinleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Groups of Four"
+msgstr "Dörtlü Gruplar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"Başlamanıza yardımcı olacak birkaç örnek:\n"
+"\n"
+"* Tavşan, köpek, kelebek, yastık – İlk üçü canlı, yastık ise değil.\n"
+"* Muz, peynir, çekiç, havuç – Çekiç, yiyemeyeceğiniz tek şey.\n"
+"* Peynir, ayakkabı, ceket, gömlek – Peynir, giyemeyeceğiniz tek şey.\n"
+"* Kırmızı üçgen, deliği olan kırmızı kare, yeşil kare, deliği olmayan kırmızı kare – İlk üçten herhangi biri farklı olabilir. Kırmızı üçgen, kare olmayan tek şekil. Deliği olan kırmızı kare, katı olmayan tek şekil. Yeşil kare, kırmızı olmayan tek kare.\n"
+"* Köpek, kedi, aslan, japon balığı – Aslan, listedeki kötü bir evcil hayvan olacak tek hayvan. Aynı zamanda diğer hayvanlardan da oldukça büyüktür. Ya da üçü dört ayaklıdır, balık suda yaşar.\n"
+"* Gül çalısı, meşe, akçaağaç, çam - Gül çalısı, ağaç değilir.\n"
+"* Bank, masa, kanepe, tabure – Masa, üzerinde oturamayacağınız tek şeydir. Ya da sadece kanepe yumuşaktır.\n"
+"* Havlama, korna, gökkuşağı, tıkırtı - Gökkuşağı, ses olmayan tek şeydir.\n"
+"* Çorap, pantolon, diş fırçası, şapka – Diş fırçası, giyemeyeceğiniz tek şeydir.\n"
+"* Sandalye, şemsiye, kanepe, tabure – Şemsiye, üzerine oturamak istemeyeceğiniz tek şeydir.\n"
+"* Karıncalar, domuz, örümcekler, çekirgeler – Domuz, küçük böcek olmayan tek şeydir.\n"
+"\n"
+"Bu etkinliği kelimeler yerine resimlerle de yapabilirsiniz. Reklamlardan, dergilerden ve karşınıza çıkan her türlü kaynaktan resimleri kesmeyi alışkanlık haline getirirseniz, resimlerle oyunlar oynayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "Adalar Arası Gezi – Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "Bu bulmacalarda, kağıt üzerine çizilmiş köprülerle (çizgilerle) birbirine bağlanan numaralandırılmış adalardan (dairelerden) oluşur. Amaç, adaları sırasıyla birbirine bağlayan bir yol bulmaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest versions have all the numbers filled in and the numbers go from 1 to the number of islands. You can vary this activity by starting at some number other than 1 and by leaving out some of the numbers.\n"
+"\n"
+"Puzzles with all the numbers are straightforward once your child is confident with counting. Those beginning puzzles are good counting practice and are also good for building up confidence in puzzle solving. The more challenging puzzles are the ones with numbers left out.\n"
+"\n"
+"Ease your child into these harder puzzles by leaving out just a few numbers and slowly move to leaving out more."
+msgstr ""
+"En kolay versiyonlarda tüm sayılar doldurulmuştur ve sayılar 1'den başlıyarak ada sayısına kadar gider. Bu etkinliği 1 dışındaki bir sayıyla başlayarak veya bazı sayıları çıkararak çeşitlendirebilirsiniz.\n"
+"\n"
+"Çocuğunuz sayma konusunda kendine güvendiğinde, tüm sayıların olduğu bulmacalar basittir. Bu başlangıç ​​bulmacaları, iyi bir sayma pratiğidir ve aynı zamanda bulmaca çözme konusunda kendine güven oluşturmak için de iyidir. Daha zor bulmacalar ise, bazı sayıların dışarıda bırakıldığı bulmacalardır.\n"
+"\n"
+"Çocuğunuzu bu zor bulmacalara sadece birkaç sayıyı dışarıda bırakarak ve yavaşça daha fazlasını dışarıda bırakarak alıştırın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The first of these two puzzles has every other number left out. This makes it relatively easy to fill in the missing numbers. 1 must attach to 0 and 2, and there is only one place for that. 3 must attach to 2 and 4, and with 1 filled in there is only one remaining place for the 3. 5 must go in the remaining place between 4 and 6.\n"
+"\n"
+"The second puzzle is a little bit harder. 3 must attach to 2 and 4, so there is only one place for it. 5 must attach to 4, so there is only one place for it now. 6 must attach to the 5. Finally, 0 must go in the remaining spot."
+msgstr ""
+"En kolay versiyonlarda tüm sayılar doldurulmuştur ve sayılar 1'den başlıyarak ada sayısına kadar gider. Bu etkinliği 1 dışındaki bir sayıyla başlayarak veya bazı sayıları çıkararak çeşitlendirebilirsiniz.\n"
+"\n"
+"Çocuğunuz sayma konusunda kendine güvendiğinde, tüm sayıların olduğu bulmacalar basittir. Bu başlangıç ​​bulmacaları, iyi bir sayma pratiğidir ve aynı zamanda bulmaca çözme konusunda kendine güven oluşturmak için de iyidir. Daha zor bulmacalar ise, bazı sayıların dışarıda bırakıldığı bulmacalardır.\n"
+"Çocuğunuzu bu zor bulmacalara sadece birkaç sayıyı dışarıda bırakarak ve yavaşça daha fazlasını dışarıda bırakarak alıştırın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
+msgstr "Bulmacayı daha da zorlaştırmak için 1'i çıkarabilir ve bazı köprüleri kaldırarak oynayabilirsiniz. Farklı versiyonlarla eğlenin ve çocuğunuzun da bazılarını tasarlamasına izin verin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "Simetrik Şekiller Kesme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "Kirigami, bir kağıt parçasını katlayıp, katlı haldeyken keserek desenler oluşturmaya denir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Fold"
+msgstr "Tek Katlama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "Kağıdı bir kez katlayarak kesmek, diğer tarafın ayna yansıması olan bir desen oluşturur. Yüzler, lambalar veya geometrik şekiller keserek denemeler yapın. Yıldız ve ağaç şekilleri, solda tekli katlanma şeklini gösterecek şekilde ve sağda ise açılmış halleri olacak şekilde örnek olarak verilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Folds"
+msgstr "İki Kat"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "Kağıdı bir kez katlayıp, hemen ardından ters yönde bir kez daha katlamak, iki yansıtma çizgisine sahip bir şekil oluşturur. Bu, çicekler gibi desenler oluşturmayı oldukça kolay yapar. Altta, Soldaki şekil, kağıdın iki kez katlanıp sadece mavi kısım kalacak şekilde kesilmiş hali ve sağda ise kağıdın açılmış hali verilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three Folds"
+msgstr "Üç Kat"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "Farklı katlama ve kesme yöntemlerini deneyin. Alttaki şekil, iki kez katlanmış bir kağıdın, önceki kat köşelerinden çapraz odaklı bir kez daha katlanmasıyla oluşturulmuştur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Snowflakes"
+msgstr "Kar Taneleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a sequence of folds for creating 6-point snowflakes. Though it takes a few steps, don’t be put off by them - with a little practice they become quick and easy. \n"
+"\n"
+"Start by taking a standard sheet of paper and folding at one of the corners so the sides marked A and B meet. Leave the fold in place and cut along the line marked C.\n"
+"\n"
+"Take the triangle produced and fold it in half so that sides AB and C overlap.\n"
+"\n"
+"Put a temporary fold in this triangle and use the fold to mark the middle of side ABC. Undo the temporary fold.\n"
+"\n"
+"Make a fold over F. When you fold over F, you will be looking to have G placed so that G breaks the angle in half. \n"
+"\n"
+"Fold along G - do this fold underneath so that this new folded piece is underneath the other paper.\n"
+"\n"
+"Although not strictly necessary, it is a good idea to slice off the top of this figure. Otherwise, you might be tempted to use the region above the red dotted line without realizing that there isn’t paper on all levels.\n"
+"\n"
+"Lastly, fold this triangle in half. At last you are all set to do the cutting of your design!\n"
+"\n"
+"Have fun experimenting with many different combinations of cuts and colors!"
+msgstr ""
+"Bu, 6 kanatlı kar taneleri oluşturmak için bir katlama dizisidir. Birkaç adımı olsa da, bu gözünüzü korkutmasın - biraz pratikle bu adımlar hızlı ve kolay bir hale gelir.\n"
+"\n"
+"Standart boyutta kağıt alarak başlayın ve köşelerinden birini katlayarak A ve B ile işaretlenmiş kenarları birbirlerine doğru katlayın. Katlanmış kısmı bozmayın ve C ile işaretlenmiş çizgi boyunca kağıdı kesin.\n"
+"\n"
+"Oluşturduğunuz üçgeni alın ve AB kenarı ile C noktası üst üste gelecek şekilde ikiye katlayın.\n"
+"\n"
+"Bu üçgene geçici bir katlama yapın ve kat yerini ABC kenarının ortasını işretlemek için kullanın ve sonra geçici katlamayı geri açın.\n"
+"\n"
+"F çizgisi boyunca bir katlama yapın. F üzerinden katlarken, G çizgisinin açıyı ortalayacak şekilde konumlandığından emin olun.\n"
+"\n"
+"G boyunca alttan bir kat daha yapın; böylece bu yeni kat, diğer kağıt katlarının altına yerleşmiş olur.\n"
+"\n"
+"Zorunlu olmasa da, şeklin üst kısmını kesmek iyi bir fikirdir. Aksi takdirde, kırmızı kesikli çizginin üzerindeki kısmı kullanmak isteyebilir ancak kağıt katmanlarının orada olmadığını fark etmeyebilirsiniz.\n"
+"\n"
+"Son olarak, üçgeni bir kez daha ikiye katlayın. Artık tasarımınızı kesmeye hazırsınız!\n"
+"\n"
+"Farklı kesim ve renk kombinasyonlarıyla denemeler yaparken iyi eğlenceler!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "1 ve 2 ile Nim Oyunu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Game Rules"
+msgstr "Oyun Kuralları"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"Hedef bir sayı, örneğin 10, seçilir. Çocuğunuza ilk mi yoksa ikinci mi başlayacağına karar vermesini isteyin. Toplam 0’dan başlar. Oyuncu sırası geldiğinde, mevcut toplamın üzerine 1 veya 2 eklemeyi seçer. Hedef sayıya ilk ulaşan kişi kazanır.\n"
+"\n"
+"Bu oyun çıkarma işlemi ile de oynanabilir. Bu versiyonda, başlangıç toplamı hedef sayıdan başlar, örneğin 10'dan. Oyuncu sırası geldiğinde, 1 veya 2 çıkarmayı seçer. 0'a ilk ulaşan kişi kazanır.\n"
+"\n"
+"Bir başka varyasyon ise, hedef sayıya ulaşmak veya onu aşmak zorunda kalan oyuncunun kaybetmesidir. Ayrıca, her turda oyuncunun 1, 2 veya 3 eklemesine (veya çıkarmasına) izin verirseniz ne olacağını deneyebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding the Game"
+msgstr "Oyunu Anlamak"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"Hiçbir şeyi analiz etmeden, bu oyunu oynamak eğlencelidir ve 1 ve 2'yi toplama veya çıkarma konusunda iyi bir pratik sağlar. Bunu burada da bırakabiliriz. Ancak, çocuğunuz hazır olduğunda ona gösterebileceğiniz iki problem çözme tekniğinin de harika bir örneğidir: 1) daha basit örneklerden öğrenme ve 2) kalıpları arama.\n"
+"\n"
+"Bu oyunların her biri bu şekilde incelenebilir. Birine bakalım: 10'dan başlayarak çıkarma yapıyorsunuz ve 0'a ulaşan kişi kazanıyor. 10'un 0'dan oldukça uzak olması oyunun zor kısmı. O yüzden, daha basit bir versiyona bakalım. Çocuklardan bunu yapmaları istendiğinde, genellikle 5 ya da 6'dan başlamak isterler- 1'den başlamak onlara saçma gelir, ama aslında yapmaları gereken şey tam olarak budur! Genellikle, olabildiğince basit başlamak en iyisidir - bu da 1'den başlamak anlamına gelir.\n"
+"\n"
+"Eğer sırası sizdeyse ve sayı 1 ise, kazanırsınız. Sonraki birkaçını da yapalım. Eğer sayı 2 ise, kazanırsınız. Eğer sayı 3 ise, kaybetmek zorundasınız - ister 1 ister 2 çıkarın, rakibinizi kazanacağı bir duruma sokarsınız. Eğer sayı 4 ise, kazanırsınız çünkü 1 çıkararak rakibinizi kaybetme durumuna sokarsınız. Bu şekilde devam ederek, sonuçların bir tablosunu oluşturabilirsiniz:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"Bu tablo, tekrar eden 3 ‘lük bir desen olduğunu açıkça gösteriyor. 10’dan başladıgınızda, ilk hamleyi yapıp 1 çıkarmayı istemelisiniz. Bu durumun tatmin edici yani, problemi daha basit versiyonlarla incelediğinizde, analizin hızlı ve kolay olmasıdır-karmaşık analiz gerekmez. Artık oyunun ustası oldunuz ve herhangi bir sayıdan başlayarak ne yapmanız gerektiğini biliyorsunuz! Bu basit oyunun herhangi bir versiyonu da analiz etmek de aynı derecede kolaydır.\n"
+"\n"
+"Ama durun, son bir soru kaldı. Neden 3'lük tekrar eden bir desen var? Bir oyuncu, kaybettiren bir sayıya, yani 3'ün katı olan bir sayıya sıkıştığında, sonraki her hamle çifti toplamda 3 olacak şekilde ayarlanabilir—kaybeden oyuncu 1 çıkardığında, diğer oyuncu 2 çıkarır; kaybeden oyuncu 2 çıkardığında ise diğer oyuncu 1 çıkarır."
 
 #. type=data_list
 msgctxt "data_list"
