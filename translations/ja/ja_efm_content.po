@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-15 02:06\n"
+"PO-Revision-Date: 2025-05-20 21:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7283,6 +7283,217 @@ msgstr ""
 "本を作る:} カードを二枚揃えたら、そのカードを「本」の中に入れる。\n"
 "\n"
 "**あがり方:** すべてのカードを本の中に入れたら終了。その時点で一番多くの本を持っている人があがりとなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "ステージ 5 – 私は100まで数えられるよ!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Introduction"
+msgstr "ステージ 5 – 紹介"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child can now count to 100! They can comfortably do mental single-digit addition and subtraction. They can also count or skip count up or down by any number, and tied to that skill is their ability to add or subtract a single-digit number with a double-digit number. They can compare two double-digit numbers, and they have a beginning sense of place value with 10’s and 1’s.\n"
+"\n"
+"As their skip counting is improving, they are also developing skills with multiplying by 2, 3, 4, 5, and 10. The idea of even and odd numbers now makes a lot more sense to them.\n"
+"\n"
+"Extend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
+msgstr ""
+"**あなたはどこにいたの**\n"
+"\n"
+"現在お子さんは100まで数えることができます! 彼らは快適に1桁の足し算と引き算をすることができます。また彼らはどんな数でも上に数えたり下に数えたり、飛ばして数えることができ、そのスキルに関連しているのは、1桁の数字と2桁の数字を足し算または引き算する能力です。彼らは2つの2桁の数字を比較することができ、10の位と1の位に関する位取りの基本的な感覚を持っています。\n"
+"\n"
+"彼らの飛び級数が上達するにつれて、2,3,4,5,と10の掛け算のスキルも身につけていきます。現在、奇数と偶数の数字の考えも彼らはさらに理解しています。\n"
+"\n"
+"以前のステージからこれらの大きな数字の活動を広げる: ステージ 3:図形の合計、さらに増えていく; ステージ 4: 戦争- 2桁の足し算と引き算, 三角形の差と三角形の合計, 修正する, 1の位から10の位で島を渡る,比較の空欄を埋める, 四角形の合計とピラミッドの加算。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New ideas for this stage"
+msgstr "このステージの新たな考え"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 200 – Introduce the 100’s place by looking at the numbers from 100 to 200.\n"
+"* Skip Counting to 100 – This is not new, but it is an important skill to reinforce.\n"
+"* Expanded Form and Place Value – This is a foundational skill, so it will be reinforced further.\n"
+"* Double-digit Addition and Subtraction – Skip counting will help make this seem effortless.\n"
+"* All Single-digit Multiplication – It is time to fill in the missing gaps for 6, 7, 8, and 9.\n"
+"* Rectangle Area is Length x Width – This is an important idea in its own right. This fact will also provide many opportunities for fun games and puzzles involving multiplication and factoring.\n"
+"* Factoring – Your child will learn the beauty of how numbers break apart into factors. 1 is a unit. A number bigger than 1 only divisible by 1 and itself is prime. A number bigger than 1 that is not prime is composite. 3 **squared** is 3 × 3. 3 **cubed** is 3 × 3 × 3. And 3 raised to a power means to multiply 3 by itself that many times - for example, 3 to the fourth is 3 × 3 × 3 × 3.\n"
+"* Factors, Divisors, and Multiples – 3 divides evenly into 12. That makes 3 a factor or divisor of 12, and 12 a multiple of 3. 3 is a common factor of 12 and 15, and 12 is a common multiple of 4 and 6.\n"
+"* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
+"* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
+msgstr ""
+"* 200まで数える – I100から200の数字を見ながら100の位を紹介する。\n"
+"* 100までの飛び級数 – これは新しくないが、強化するために重要。\n"
+"* 展開形と位の価値 – これは基本的なスキルなのでさらに強化される。\n"
+"* 2桁の足し算と引き算 – 飛び級数はこれを簡単に感じさせる助けになります。\n"
+"* すべての1桁掛け算 – これは6,7,8,9の欠けている部分を埋める時です。\n"
+"* 長方形の面積は長さ×幅 – これはそれ自体で重要な考え方です。この真実は掛け算や因数分解に関するゲームやパズルの多くの機会も提供します。\n"
+"* 因数分解 – お子さんは数字がどのように因数に分解されるかという美しさを学びます。 1は単位です。1とその数自身だけで割り切れる数字は素数です。1より大きな数で素数でないものは合成数です。3の2乗は3 × 3です。3の3乗は3 × 3 × 3です。そして、3の累乗は、3をその回数だけ掛け算することを意味します。例えば、3の4乗は3 × 3 × 3 × 3です。\n"
+"* 因数、約数、倍数 – 3は12に均等に分けられます。それにより3は12の因数または約数になり、12は3の倍数となります。3は12と15の共通の因数となり、12は4と6の共通の倍数になります。\n"
+"* 1桁の割り算 – お子さんは掛け算の問題でかけている因数を見つける形で間接的に割り算を学びます。\n"
+"* 掛け算と割り算の数字の家族 – 私たちはこれらの2つの操作の関係を強化します。例、 2 x 5 = 10, 5 x 2 = 10, 10 / 2 = 5, と 10 / 5 = 2 数字の家族から。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MENTAL MULTIPLICATION"
+msgstr "暗算による掛け算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
+msgstr "これらの教育方法は1桁の掛け算を学ぶための体系的な戦略を提供します。お子さんはどんな数でも倍にすること、どんな数でも飛び級数にすること、5や10の掛け算をするのが得意であるべきです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 x 4 = 4 x 3"
+msgstr "3 x 4 = 4 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
+msgstr "お子さんは足し算にとても慣れているので 2 + 3 が 3 + 2と同じだということに驚きません。 明確ではありませんが、掛け算でも同じことが言えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
+msgstr ""
+"このイラストは3つの列が2つ並んでいるのは2つの列が3つ並んでいることと同じです。 – あなたはただ視点を変えるだけです! 2つの数字を掛ける順番がどちらでも同じ答えになります。\n"
+"\n"
+"この素晴らしい発見のおかげで、お子さんは掛け算の事実を半分だけ覚えればよいということになります。– 3 x 4の計算が一度理解できれば, また 4 x 3も分かります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SQUARES"
+msgstr "平方"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
+msgstr "足し算のペアがよく使われるのと同じように、掛け算では平方がよく使われます。これらを学ぶことは、他の掛け算の事実を学ぶためのもう一つの基盤となります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1 MORE OR 1 LESS"
+msgstr "1足すか、1引く"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When combined with the other earlier skills, the strategy of using '1 more' or '1 less' is effective for calculating the remaining multiplication facts. \n"
+"\n"
+"For example, 9 × 7 is one 7 less than 10 × 7. So 9 × 7 = 70 – 7 = 63. This works for all 9’s. \n"
+"\n"
+"Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
+msgstr ""
+"以前に学んだ他のスキルと組み合わせることで、「1つ多い」や「1つ少ない」という戦略は、残りの掛け算の事実を計算するのに効果的です。\n"
+"\n"
+"例、 9 x 7は10 x 7より7少ない。なので 9 x 7 = 70 - 7 = 63となる。これは全ての9の段に共通する。\n"
+"\n"
+"似たように、 3 x 7は7を2倍した数より7多い、なので3 x 7 = 7 + 14 = 21. これは全ての3の段に共通する。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 9"
+msgstr "9の掛け算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Multiplication"
+msgstr "暗算による掛け算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr "9をかけることは最後の戦略でカバーされていますが、それらはそれ自体で学ぶのが楽しいです。もし9の倍数を順番に書いて見ると、10の位の数字が掛け算している数より常に1少なく、また1の位と10の位の数字を足すといつも9になることがわかります！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING 100"
+msgstr "100を作ろう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.”\n"
+"\n"
+"**How to play:** Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total.\n"
+"\n"
+"**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
+msgstr ""
+"**準備:** 各プレイヤーが7行3列の配置の紙を持っています。列は「10の位」、「1の位」、「合計の累積」とマークされています。”\n"
+"\n"
+"**遊び方:** 各プレイヤーの合計の累積は0から始まります。サイコロを振るか、1から9の中でランダムにカードを引きます。各プレイヤーはこの数字を現在の行の「1の位」または「10の位」の列に使うことを選びます。例えば4が出た場合、これは 4か40として使うことができます。選ばれた数字は合計の累積に加算されます。\n"
+"\n"
+"**勝利方法:** プレイヤーはターゲットの100を超えると「バスト」となり負けます。もしどちらのプイレヤーも「バスト」にならなかった場合、100に一番近い人の勝利です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins. \n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"このゲームはたくさんの選択肢があります。:\n"
+"\n"
+"* 異なるターゲットの数字を使う。\n"
+"* 行数を増やしたり減らしたりする。\n"
+"* ターゲットを超えてもバストしない。ターゲットの両側で一番近いプレイヤーが勝ち。\n"
+"* 100の列を追加し、3桁の数字の練習をする。\n"
+"* 引き算の練習をするためにターゲットの数字から始めて0になるまで引いていく。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAKE YOUR CLAIM"
+msgstr "自分の領土を確保する"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value and Addition Games"
+msgstr "位取りと足し算のゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a paper with a number line from 0 to 99 to share.\n"
+"\n"
+"**How to play:** On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line.\n"
+"\n"
+"**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
+msgstr ""
+"**準備:** 0から99までの番号付き数直線が書かれた紙を用意する。\n"
+"\n"
+"**遊び方:** ターンごとに、プレイヤーは0から9までのランダムなカードを2枚使い、その2つの数字の順番を選んで00から99の数字を作り、その数字を自分の側の数直線に置く。\n"
+"\n"
+"**勝利方法:** 相手の数字が間に入っていない状態で、ある範囲に4つの数字を並べた最初のプレイヤーが勝ちとなる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variation"
+msgstr "バリエーション"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game can also be played from 000 to 999."
+msgstr "このゲームは000から999の数字でも遊ぶことができます。"
 
 #. type=data_list
 msgctxt "data_list"
