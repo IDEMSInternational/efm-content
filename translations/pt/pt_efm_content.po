@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-05-20 19:08\n"
+"PO-Revision-Date: 2025-05-20 20:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6360,6 +6360,37 @@ msgstr "Quebra-cabeças 6 por 6"
 msgctxt "data_list"
 msgid "Okay, you are getting the idea. There are a lot of these! Here are just a few 6 by 6 puzzles to give you some ideas for what is possible. As always, play around with your child with these puzzle pieces and numbers. Perhaps design a few of these together."
 msgstr "Certo, você está entendendo a ideia. Existem muitos desses! Aqui estão apenas alguns quebra-cabeças 6 por 6 para dar uma noção do que é possível criar. Como sempre, explore essas peças e números com seu filho de forma divertida. Quem sabe vocês não criam alguns desses juntos?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Greater Than Sudoku"
+msgstr "Maior que o Sudoku"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship. \n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
+msgstr ""
+"Os quebra-cabeças “maiores que o Sudoku” começam com as mesmas regras do Sudoku normal - cada número aparece exatamente uma vez em cada linha, coluna e sub-região. Além disso, se houver um símbolo de “menor que” ou “maior que” entre duas células, os números nessas células devem obedecer a essa relação.\n"
+"\n"
+"Para criar esses quebra-cabeças, comece com um Sudoku completo — todos os exemplos de Sudoku Numérico com padrões de quebra-cabeça apresentados anteriormente nestes recursos serão úteis para isso. Coloque os sinais de maior e menor em uma grade em branco com a mesma geometria. Se você omitir todos os números e colocar apenas as desigualdades (menor que ou maior que), geralmente é relativamente fácil resolver o quebra-cabeça. Uma estratégia útil para seu filho é primeiro identificar onde os menores e maiores números devem estar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your child is first learning how to do these puzzles, put in all the inequalities and some of the numbers. Gradually, start omitting more of the numbers and some of the inequalities."
+msgstr "Quando seu filho estiver começando a aprender a fazer esses quebra-cabeças, coloque todas as desigualdades e alguns dos números. Aos poucos, comece a omitir mais números e algumas das desigualdades."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make Me a Liar"
+msgstr "Me Faça Mentir"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone makes an absolute statement and the other players attempt to show that the person is lying. This is done by finding an example that breaks the statement."
+msgstr "Alguém faz uma afirmação absoluta e os outros jogadores tentam provar que essa pessoa está mentindo. Isso é feito encontrando um exemplo que contradiz a afirmação."
 
 #. type=data_list
 msgctxt "data_list"
