@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-20 01:19\n"
+"PO-Revision-Date: 2025-05-20 02:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8394,6 +8394,384 @@ msgstr ""
 "Bu bulmacaları oluşturmak için önce daireler ve belki de başka şekillerden oluşan bir diyagram çizin. Daha sonra, tüm şekilleri sayılarla doldurun ve sınırlı bölgeleri, onları çevreleyen şekillerin toplamıyla doldurun. Son olarak, bazı sayıları kaldırın.\n"
 "\n"
 "Bölüm 3’teki Şekil Toplamları bulmacalarında olduğu gibi, yalnızca bir veya iki sayının eksik olduğu basit bulmacalarla başlayın ve yavaş yavaş daha fazla sayıların eksik olduğu, birbirine bitişik daha fazla bölgenin bulunduğu ve daire olmayan bölgelerdeki değerlerin daha fazla kullanıldığı bulmacalara doğru ilerleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Compensation"
+msgstr "Ada Atlama - Dengeleme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"Toplama için dengeleme yöntemini kullanmak, toplama işlemlerini çok kolay hale getiren bir yaklaşımdır. Bu yöntemin temel fikri toplanan sayılardan birinden belirli bir miktar alıp diğerine eklemektir - sonuç değişmez, ancak sayılardan biri daha kolay işlenebilir hale gelir.\n"
+"\n"
+"Örneğin, 7 + 8 toplama işlemini yaparken, 7’den 2 alıp 8’e verirsek, işlem 5+10 olur. Alternatif olarak 8’den 3 alıp 7’ye verirsek, işlem 10 + 5 olur. Sayılardan birini 10’un katı yapabildiğiniz her durumda, çok daha basit bir işlem elde edersiniz.\n"
+"\n"
+"Bu bulmacalar dengeleme yöntemini kullanarak yeni problemler oluşturma pratiği sağlar. Amaç, aynı sonuca sahip tüm adaları birbirine bağlayan bir yol bulmaktır. İki adayı yalnızca problemlerindeki sayılar 1 farkla değişiyorsa birleştirmek mümkündür. Yalnızca bazı adalar yol üzerinde olacaktır.\n"
+"\n"
+"Bu bulmacaları yaklaşık on ada ve bağlantılarla başlayarak oluşturun. Adaların bir kenarından diğerine uzanan bir yol belirleyin. Bu yol boyunca, birbirinden yalnızca bir farklılık gösteren problemler yerleştirin - örneğin, 10 eklemeyi içeren bir problemle başlayın ve ardından bunun üzerinden varyasyonlar oluşturun. Yolun yakınındaki adalara, küçük değişiklikler içeren ve farklı cevaplar veren problemler ekleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "Bu bulmacanın zorluk seviyesini değiştirmek için gerçekten yapılabilecek çok az şey var. Yanlış yollar eklemek, muhtemelen zorluktan çok kafa karışıklığına yol açacaktır, ve genellikle kötü bir fikirdir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "Fark Üçgenleri ve Toplam Üçgenleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles"
+msgstr "Fark Üçgenleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "Fark Üçgen bulmacaları kenarlarını paylaşan üçgenler ve kareler içerir. Bir üçgen her zaman iki kenarında kareler bulunur, ve kalan kenarında ise ya bir üçgen ya da bir boşluk vardır. Bir üçgenin içindeki sayı, bitişik iki karenin sayılarının farkıdır. Bu bulmacadaki amaç, eksik sayıları tamamlamaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Constructing Puzzles** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, put in numbers starting at one end, and then work your way to the far end. When you are done, remove some of the numbers. Making puzzles with loops or more complicated interactions is trickier; however, the effort pays off with some challenging puzzles!\n"
+"\n"
+"When your child gets very comfortable with these, they may want to take a turn creating some new puzzles of their own. They should have fun and learn a lot by figuring out how the numbers fit together.\n"
+"\n"
+"**Strategies for Solving** The places to do first are any triangles between two filled in squares. Another easy case is a square next to a filled triangle that has a smaller filled square next to it - in this case, because we are not working with negative numbers, there is only one choice for filling in the empty square. The most common case is a square that has two possible values looking in one direction, and two other possibilities looking in the other direction - there is usually only one number that overlaps in those possibilities."
+msgstr ""
+"**Bulmaca Yapımı:** Döngüsüz bulmacalar yapmak kolaydır. Kareler ve üçgenlerden oluşan bir alternatif dizi çizin, bir uçtan başlayarak sayıları yerleştirin ve ardından diğer uca doğru ilerleyin. Tamamladığınızda, bazı sayıları kaldırın. Döngüler veya daha karmaşık etkileşimler içeren bulmacalar daha zordur; ancak bu çaba, bazı zorlayıcı bulmacalarla karşılığını verir!\n"
+"\n"
+"Çocuğunuz bunlara alıştığında, kendi bulmacalarını oluşturmayı denemek isteyebilir. Sayıların nasıl bir araya geldiğini çözerek hem eğlenecek hem de öğreneceklerdir.\n"
+"\n"
+"**Çözüm Stratejileri:** İlk olarak, iki dolu kare arasında bulunan üçgenlere bakılmalıdır. Bir diğer kolay durum ise, dolu bir üçgenin yanında bulunan ve yanında daha küçük dolu bir kare olan karedir - bu durumda, negatif sayılarla çalışmadığımız için, boş kareyi doldurmak için yalnızca bir seçenek vardır. En yaygın durum ise, bir yönde iki olası değere ve diğer yönde iki farklı olasılığa sahip bir karedir - genellikle bu olasılıklar arasında yalnızca bir sayı örtüşür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some examples with lots of interconnections."
+msgstr "Bakınız birçok bağlantıya sahip bazı örnekler."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles"
+msgstr "Toplam Üçgenleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles puzzles are just like DiffTriangles only they use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors. Make these puzzles using methods similar to DiffTriangles. SumTriangles puzzles are typically simpler to solve than DiffTriangles."
+msgstr "Toplam Üçgen bulmacaları tıpkı Fark Üçgenleri gibidir, ancak çıkarma yerine toplama işlemi kullanılır. Bir üçgenin değeri, iki veya üç kare komşusunun toplamıdır. Bu bulmacaları Fark Üçgenlerine benzer yöntemlerle oluşturabilirsiniz. Toplam Üçgen bulmacaları, genellikle Fark Üçgenlerinden daha kolay çözülür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Skip Counting"
+msgstr "Ada Atlama - Sayı Atlama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have islands (circles) connected by bridges (lines). In this version of Island Hopping, the connections are made by skip counting. Some of the islands have numbers written on them and some will start off blank. Above the puzzle is the starting number, ending number, and the skip amount. The challenge is to fill in the missing numbers and find the path. You can also place the numbers and blanks on pieces of paper on the floor to make a stepping puzzle."
+msgstr "Bu bulmacada, adalar (daireler) köprüler (çizgiler) ile birbirine bağlanmıştır. Ada Atlama’nın bu versiyonunda, bağlantılar sayı atlama yöntemiyle yapılır. Bazı adaların üzerinde sayılar vardır ve bazıları boş başlayacaktır. Bulmacanın üzerinde başlangıç sayısı, bitiş sayısı ve atlama miktarıdır. Amaç, eksik sayıları doldurmak ve yolu bulmaktır. Ek olarak sayıları ve boşlukları yere serilmiş kağıtlara yerleştirerek bir adım bulmacası oluşturabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount. \n"
+"\n"
+"Creating these puzzles is the same as creating the Island Hopping - Counting puzzles from early in Chapter 2. Make the islands first, fill in the skip counting numbers, connect those islands in the correct order, and then add some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out.\n"
+"\n"
+"You can revisit the puzzle construction strategies described in the Bonus Material for Chapter 2 for Island Hopping - Counting. Also, if you still have any of those puzzles, it is very easy to convert one of those puzzles to one of these. Take the following puzzle from Chapter 2. It involves counting from 0 to 6. The red numbers are the ones that would normally be left out when the puzzle is given to your child. To convert it to a puzzle that starts at 3 and skip counts by 2, simply multiply all the numbers by 2 and then add 3 to them (leaving out the red ones, of course)."
+msgstr ""
+"Sayı Atlayarak Sayma etkinliğinde olduğu gibi, yalnızca atlama miktarının katları olan sayılarla değil, çeşitli sayılardan başlayarak ileri veya geri gitme pratiği yapmak için bulmacalar oluşturun. \n"
+"\n"
+"Bu bulmacaları oluşturmak, Bölüm 2’nin başlarında bulunan Ada Atlama - Sayma bulmacalarını oluşturmakla aynıdır. Önce adaları oluşturun, atlama sayılarını doldurun, bu adaları doğru sırayla birbirine bağlayın, ve ardından bir bulmaca oluşturmanıza yardımcı olacak ek bağlantılar ekleyin. Çocuğunuza sunduğunuz versiyonunda, çözülebilecek kadar yeterli sayı bırakarak bazı sayıları çıkarın.\n"
+"\n"
+"Ada Atlama - Sayma için bulmaca oluşturma stratejilerini Bölüm 2 Bonus Materyalinde yeniden gözden geçirebilirsiniz. Ayrıca, hâlâ bu bulmacalardan birine sahipseniz, onlardan birini bu tür bulmacalara dönüştürmek oldukça kolaydır. Bölüm 2’den aşağıdaki bulmacayı ele alın. Bu bulmaca 0’dan 6’ya kadar saymayı içerir. Kırmızı sayılar, bulmaca çocuğunuza verildiğinde normalde boş bırakılan sayılardır. Bunu 3’ten başlayan ve 2’şer atlayarak sayan bir bulmacaya dönüştürmek için, aşağıdaki tabloda belirtildiği gibi tüm sayıları 2 ile çarpıp ardından 3 ekleyin. Sonrasında, orijinal sayıları, kırmızı olanları hariç tutarak, yeni sayılarla yerini değiştirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fix It"
+msgstr "Tamir Et"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 4 by 4 grid of numbers with a target sum. The challenge is to find entries to remove so that the sum of the remaining numbers in every row and column is the target. An alternative version uses individual target sums for each row and column.\n"
+"\n"
+"Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers. You can make these trickier by having alternative pairs or triples of numbers that partially work. If your child is enjoying these, but finding them too easy, you can always make larger ones that are 4 by 5, 5 by 5, or even larger.\n"
+"\n"
+"Red stars have been added here to show which entries would be removed to make the puzzles work."
+msgstr ""
+"Hedef toplamı olan 4’e 4’lük bir sayı ızgarısıyla başlayın. Buradaki amaç, her satır ve sütunda kalan sayıların toplamının hedef toplama eşit olması için hangi sayıların çıkarılacağını bulmaktır. Alternatif bir versiyon, her satır ve sütun için ayrı hedef toplamları kullanılır \n"
+"\n"
+"Bu bulmacaları, hedef toplamı verecek şekilde sayı çiftleri veya üçlüleri yerleştirerek oluşturun. Ardından kalan boşlukları yanıltıcı yem sayılarla doldurun. Bu bulmacıyı daha zor hale getirmek için kısmen işe yarayan alternatif çiftler veya üçlüler ekleyebilirsiniz. Çocuğunuz bu bulmacalardan keyif alıyor fakat çok kolay buluyorsa, 4’e 5, 5’e 5 veya daha büyük versiyonlarını oluşturabilirsiniz.\n"
+"\n"
+"Aşağıda, bulmacaların çalışması için hangi sayıların çıkarılacağını göstermek amacıyla kırmızı yıldızlar eklenmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are two puzzles using individual target sums for the rows and columns."
+msgstr "Aşağıda, satırlar ve sütunlar için ayrı hedef toplamlar kullanılan iki bulmaca verilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping by Ones and Tens"
+msgstr "Ada Atlama - Birler ve Onlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A rectangular grid of numbers is given with some of the numbers filled in. The challenge is to fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once in the entire grid. Referencing a 100-Chart may be helpful for beginning solvers.\n"
+"\n"
+"Make this puzzle by taking an empty grid and filling it with numbers, with no number repeated. Next, remove some of the numbers, making sure that it is not too hard for your child. In these examples, the red numbers are the missing ones."
+msgstr ""
+"Sayılarla dolu bir dikdörtgen ızgara verilir. Buradaki amaç, kenarlarını paylaşan herhangi iki sayının yalnızca tek bir basamakta farklılık gösterdiği ve o basamaktaki rakam farkının 1 (0 ile 9 arasındaki geçiş de dahil) olacak şekilde sayıları doldurmaktır. Tüm ızgarada hiçbir sayı birden fazla kullanılmamalıdır. Başlangıç seviyesindeki çözücüler için 100 Tablosuna başvurmak faydalı olabilir.\n"
+"\n"
+"Bu bulmacayı boş bir ızgarayı sayılarla doldurarak ve hiçbir sayıyı tekrarlamayarak oluşturun. Ardından, çocuğunuz için çok zor olmamasına dikkat ederek bazı sayıları kaldırın. Verilen örneklerde, kırmızı sayılar eksik sayıları göstermektedir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using only one-digit and two-digit numbers, there is not a lot of trickiness that can be introduced. However, they are great practice for thinking about place value. One wrinkle that may surprise your child are transitions such as 95 to 5 to 15 or 11 to 10 to 0 to 9 - they may not realize there is a 0 in the tens place for single-digit numbers and they may be surprised by 0 and 9 being connected.\n"
+"\n"
+"Grids are a natural way to present these problems. However, the puzzles can also be represented in the same way as other Island Hopping puzzles using circles, and this representation allows for some additional freedom in creating puzzles."
+msgstr ""
+"Yalnızca tek basamaklı ve iki basamaklı sayılar kullanıldığında, eklenebilecek çok fazla bir zorluk yoktur. Ancak, bu bulmacalar basamak değerini anlamak için harika bir alıştırma sağlar. Çocuğunuzu şaşırtabilecek bir nokta, 95’ten 5’e ve ardından 15’e veya 11’den 10’a, 0’a ve 9’a gibi geçişlerdir- tek basamaklı sayılarda onlar basamağında 0 olduğunu fark etmeyebilir ve 0 ile 9’un bağlantılı olması onları şaşırtabilir.\n"
+"\n"
+"Izgaralar, bu tür problemleri sunmanın doğal bir yoludur. Aynı zamanda bu bulmacalar, diğer Ada Atlama bulmacalarında olduğu gibi daireler kullanılarak da yapılabilir and bu yaklaşım, bulmaca oluştururken biraz daha esneklik sağlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Shape Puzzles"
+msgstr "Tektaş Şekil Bulmacaları"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Triangles"
+msgstr "Sihirli Üçgen"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a triangle of six circles with three circles on a side. In the circles, use each of the numbers from 1 to 6 once so that each side of the triangle has the same sum. This involves two challenges - finding out which sums will work and then figuring out how to get those sums. It is better to let your child play with this to figure out which sums are possible, but if frustration wins out, the possible sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys figuring this out, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23.\n"
+"\n"
+"As with so many of the puzzles for this age group, the main reason to have your child play with this is to encourage having fun exploring how numbers interact with each other and to practice number facts. They do not yet have the math or reasoning skills to be systematic with their exploration. However, these puzzles can be explored more deeply, and here are some ideas to dig into if you or an older child are interested.\n"
+"\n"
+"Let SUM represent the sum of one side of the triangle. If you add up the three sides of the triangle, the total will be 3 x SUM. However, the total of the three sides will also be the sum of all the numbers plus one extra copy for each corner of the triangle. Let C-SUM be the sum of the values in the three corners. We end up with the relationship that 3 x SUM = (Total of all the numbers) + C-SUM."
+msgstr ""
+"Altı daireden oluşan ve kenarında üç üçgen olan bir üçgen oluşturun. Dairelerin içine, her bir kenardaki sayıların toplamı eşit olacak şekilde, 1’den 6’ya kadar her bir sayıyı bir kullanılacak şekilde yerleştirin. Bu, iki zorluk içerir - Hangi toplamların geçerli olduğunu bulmak ve ardından bu toplamları nasıl elde edeceğinizi belirlemek. Çocuğunuzun hangi toplamların mümkün olduğunu keşfetmesine izin vermek daha iyidir, ancak eğer hayal kırıklığı yaşarsa, mümkün olan toplamlar 9, 10, 11 ve 12'dir.\n"
+"\n"
+"Eğer çocuğunuz bunu çözmekten keyif alıyorsa, bu daha büyük üçgenler için de yapılabilir. Dört daireli bir kenara sahip dokuz dairelik bir üçgen için mümkün olan toplamlar 17, 19, 20, 21 ve 23'tür\n"
+"\n"
+"Bu yaş grubundaki pek çok bulmaca gibi, çocuğunuzun bu oyunla oynamasının asıl amacı, sayıların birbirleriyle nasıl etkileşime girdiğini keşfederken eğlenmelerini sağlamak ve sayı bilgilerini pekiştirmelerine yardımcı olmaktır. Henüz keşiflerinde sistematik olabilmek için gerekli matematiksel veya mantıksal becerilere sahip değiller. Ancak, bu bulmacalar daha derinlemesine keşfedilebilir ve eğer siz veya yaşça büyük bir çocuk ilgileniyorsa, işte araştırılabilecek bazı fikirler.\n"
+"\n"
+"Bir üçgenin bir kenarındaki sayıların toplamını \"sum\" olarak ifade edelim. Üçgenin üç kenarındaki sayıların toplamını hesapladığımızda, bu toplam 3 x sum olacaktır. Ancak, üç kenarın toplamı aynı zamanda tüm sayıların toplamı artı köşelerdeki sayıların birer ekstra kopyası olacaktır. C-SUM, üç köşedeki sayıların toplamı olsun. Bu durumda, 3 × SUM = (Tüm sayıların toplamı) + C-SUM şeklinde bir ilişki elde ederiz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6-Circle Puzzle"
+msgstr "6 daireli bulmaca"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Apply this to the triangle with six circles. The sum of all the numbers is the sum of the numbers from one to six, which is 21. So the equation becomes 3 x SUM = 21 + C-SUM The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 4 + 5 + 6 = 15. So, 3 x SUM is between 21 + 6 = 27 and 21 + 15 = 36. This forces SUM to be 9, 10, 11, 12. Note also that C-SUM = 3 x SUM - 21, which is handy for finding the corners.\n"
+"\n"
+"Another thing to notice is the symmetry of the possible values. What is causing this symmetry is that for every solution, there is another solution created by subtracting all the numbers from 7 (or from 10 for the nine circle puzzle). A little calculating will show that this symmetry takes a puzzle with sum SUM and creates a new one with sum (21 - SUM) (or 40 - SUM for the nine circle puzzle).\n"
+"\n"
+"The last thing to notice before we dig in with actual numbers is that for any solution for the three corners, we can assume that they are in increasing order going around clockwise, with the smallest number at the top. If they are not in that configuration to begin with, you can rotate or flip the diagram until they are.\n"
+"\n"
+"All these observations save a tremendous amount of work. We only need to look at SUM equal to 9 and 10, and we only need to have the corners in increasing order. If SUM is 9, then C-SUM = 3 x 9 - 21 = 6, so the trio is 1, 2, and 3. If SUM is 10, then a + b + c = 3 x 10 - 21 = 9. This leaves two possibilities - either corner values of 1, 2, and 6, or 1, 3, and 5. A quick trial rules out 1, 2, and 6 as a possibility.\n"
+"\n"
+"After much work, we have the solutions for SUM being 9 and 10 for the six circle puzzle. Remember that you can get the solutions for SUM being 11 and 12 by subtracting all the entries from 7."
+msgstr ""
+"Bunu altı daireli üçgene uygulayın. Tüm sayıların toplamı, birden altıya kadar olan sayıların toplamıdır, yani 21'dir. Bu nedenle denklem şu şekilde olur: 3 x SUM = 21 + C-SUM. En küçük C-SUM, 1 + 2 + 3 = 6 olabilir ve en büyük C-SUM, 4 + 5 + 6 = 15 olabilir. Yani, 3 x SUM, 21 + 6 = 27 ile 21 + 15 = 36 arasında bir değerde olacaktır. Bu, SUM'un 9, 10, 11, 12 olmasını zorunlu kılar. Ayrıca, C-SUM = 3 x SUM - 21 olduğunu ve bu formülün köşeleri bulmak için kullanışlı olduğunu unutmayın.\n"
+"\n"
+"Dikkat edilmesi gereken bir diğer şey, olası değerlerin simetrisidir. Bu simetrinin nedeni, her çözüm için, tüm sayılardan 7 (ya da dokuz daireli bulmaca için 10) çıkararak başka bir çözümün oluşmasıdır. Biraz hesaplama yapıldığında, bu simetrinin SUM toplamına sahip bir bulmacayı alıp, (21 - SUM) (ya da dokuz daireli bulmaca için 40 - SUM) toplamına sahip yeni bir bulmaca oluşturduğunu göreceksiniz.\n"
+"\n"
+"Gerçek sayılarla işlem yapmaya başlamadan önce dikkat edilmesi gereken son şey, üç köşe için herhangi bir çözümde, köşelerin saat yönünde artan sırayla yerleştirildiğini varsayabileceğimizdir; en küçük sayı en üstte olacak şekilde. Eğer başlangıçta bu şekilde yerleştirilmemişlerse, diyagramı döndürebilir veya ters çevirebilirsiniz.\n"
+"\n"
+"Tüm bu gözlemler, büyük bir iş yükünden tasarruf sağlar. Sadece SUM'un 9 ve 10 olduğu durumlara bakmamız gerekir ve köşelerin artan sırayla yerleştirilmiş olması gerektiğini kabul edebiliriz. Eğer SUM 9 ise, o zaman C-SUM = 3 x 9 - 21 = 6 olur, yani üçlü 1, 2 ve 3’tür. Eğer SUM 10 ise, o zaman a + b + c = 3 x 10 - 21 = 9 olur. Bu da iki olasılık bırakır - köşe değerleri ya 1, 2 ve 6 olur, ya da 1, 3 ve 5. Hızlı bir deneme, 1, 2 ve 6'nın bir olasılık olmadığını ortaya koyar.\n"
+"\n"
+"Bu kadar çalışmadan sonra, altı daireli bulmaca için SUM’un 9 ve 10 olduğu çözümleri bulduk. Unutmayın ki, SUM 11 ve 12 olduğunda çözümleri elde etmek için tüm girişlerden 7 çıkarabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9-Circle Puzzle"
+msgstr "9 daireli bulmaca"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use the same approach for the 9 circle puzzle. The sum of the numbers from 1 to 9 is 45. Hence, 3 x SUM = 45 + C-SUM. The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 7 + 8 + 9 = 24. So 3 x SUM is between 45 + 6 = 51 and 45 + 24 = 69, which forces SUM to be between 17 and 23. Taking a solution and subtracting all the entries from 10 gives the following SUM pairings: 17 - 23, 18 - 22, 19 - 21, and 20 - 20. So, solutions are only needed for 17, 18, 19, and 20. The corresponding values for C-SUM are 6, 9, 12, and 15. \n"
+"\n"
+"* SUM = 17 and C-SUM = 6. For this, the corners must be 1, 2, 3, and it works.\n"
+"* SUM = 18 and C-SUM = 9. For this, the corners must be either 1, 2, 6 or 1, 3, 5. Neither works.\n"
+"* SUM = 19 and C-SUM = 12. There are quite a few possibilities for the corners, but the only combinations that work are 1, 4, 7 and 2, 3, 7.\n"
+"* SUM = 20 and C-SUM = 15. There are too many combinations for the corners, and many of them work. Two that work are 1, 5, 9 and 2, 5, 8."
+msgstr ""
+"Aynı yaklaşımını 9 daireli bulmaca içinde kullanın. 1'den 9'a kadar olan sayıların toplamı 45'tir. Dolayısıyla, 3 x SUM = 45 + C-SUM. C-SUM'un en küçük değeri 1 + 2 + 3 = 6, en büyük değeri ise 7 + 8 + 9 = 24 olabilir. Yani 3 x SUM, 45 + 6 = 51 ile 45 + 24 = 69 arasında olmalıdır, bu da SUM'un 17 ile 23 arasında olması gerektiği anlamına gelir. Bir çözüm alıp tüm girişlerden 10 çıkarıldığında şu SUM eşleşmeleri elde edilir: 17 - 23, 18 - 22, 19 - 21, ve 20 - 20. Yani çözümler sadece 17, 18, 19 ve 20 için gereklidir. C-SUM için karşılık gelen değerler ise 6, 9, 12 ve 15'tir.\n"
+"\n"
+"SUM = 17 ve C-SUM = 6. Bunun için köşeler 1, 2, 3 olmalı ve bu işe yarar.\n"
+"\n"
+"SUM = 18 ve C-SUM = 9. Bunun için köşeler ya 1, 2, 6 ya da 1, 3, 5 olmalı. Hiçbiri çalışmaz.\n"
+"\n"
+"SUM = 19 ve C-SUM = 12. Köşeler için pek çok olasılık vardır, ancak işe yarayan tek kombinasyonlar 1, 4, 7 ve 2, 3, 7'dir.\n"
+"\n"
+"SUM = 20 ve C-SUM = 15. Köşeler için çok fazla kombinasyon vardır ve bunların birçoğu çalışır. Çalışan iki kombinasyon 1, 5, 9 ve 2, 5, 8'dir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Designs"
+msgstr "Sihirli Tasarımlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Similar to Magic Triangles, these have circles connected in a geometric pattern and an associated group of numbers. Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"The analysis of these puzzles is similar to what was done for Magic Triangles. Let SUM be the common sum that all the rows share. Let c be the value of the middle circle, for puzzles that have one. The general strategy will be to add up all the rows and investigate the relationship that is revealed. Note also that, just as for Magic Triangles, a new solution can be created by subtracting all the entries from one more than the largest number.\n"
+"\n"
+"1. The numbers from 1 to 4 are in a plus sign shape with no circles in common. The numbers 1 to 4 add up to 10, and this is split evenly between the two directions. So SUM = 5 and the answer is easy."
+msgstr ""
+"Sirihli Üçgenlere benzer olarak, burada dairelerin geometrik bir desenle birbirine bağlandığı ve bu dairelere bağlı bir grup sayının bulunduğu bir düzen vardır. Sayıları dairelere yerleştirerek, her düz çizgiyle bağlanmış dairelerin toplamının aynı olmasını sağlayın.\n"
+"\n"
+"Bu bulmacaların analizi, Sihirli Üçgenler'de yapılanlara benzerdir. SUM, tüm satırların paylaştığı ortak toplam olsun. Ortada bir daire bulunan bulmacalar için c, bu orta dairenin değerini temsil etsin. Genel strateji, tüm satırları toplayıp ortaya çıkan ilişkiyi incelemek olacaktır. Ayrıca, tıpkı Sihirli Üçgenler'de olduğu gibi, tüm girdileri en büyük sayıdan bir fazlasından çıkararak yeni bir çözüm elde edilebileceğini unutmayın.\n"
+"\n"
+"1. 1'den 4'e kadar olan sayılar, ortak dairelerin bulunmadığı artı (+) işareti şeklinde yerleştirilmiştir. 1'den 4'e kadar olan sayıların toplamı 10'dur ve bu toplam iki yön arasında eşit olarak paylaştırılır. Bu durumda SUM = 5 olur ve çözüm basittir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2. The numbers from 1 to 5 are in a plus sign with one circle in common in the middle. The numbers 1 to 5 add up to 15. Adding up the two directions gives 2 x SUM = 15 + c. Because 15 + c must be even, c can be 1, 3, and 5. Get the solution for c = 5 (SUM = 10) from the c = 1 solution by subtracting all the numbers from 6."
+msgstr ""
+"2. 1'den 5'e kadar olan sayılar, ortasında bir dairenin paylaşıldığı artı (+) işareti şeklinde düzenlenmiştir. 1'den 5'e kadar olan sayıların toplamı 15'tir. İki yöndeki (yatay ve dikey) sayıların toplamını aldığımızda 2 × SUM = 15 + c denklemini elde ederiz. 15 + c'nin çift sayı olması gerektiğinden, c yalnızca 1, 3 ve 5 değerlerini alabilir.\n"
+"\n"
+"c = 1 için bulunan çözümdeki tüm sayıları 6'dan çıkararak c = 5 (SUM = 10) çözümünü elde edebiliriz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3. The numbers from 1 to 7 are in lines of 3 circles with one common circle in the middle. Adding up the three directions gives 3 x SUM = 28 + 2 x c. Because 3 evenly divides 28 + 2 x c, this forces c to be 1, 4, or 7. The solutions for c = 1 and 4 are given."
+msgstr "3. 1'den 7'ye kadar olan sayılar, ortadaki bir dairenin paylaşıldığı üç yönlü bir düzenlemede yerleştirilmiştir. Üç yöndeki toplamları aldığımızda 3 × SUM = 28 + 2 × c denklemini elde ederiz. 28 + 2 × c'nin 3'e tam bölünebilmesi gerektiğinden, c yalnızca 1, 4 veya 7 değerlerini alabilir. c = 1 ve c = 4 için çözümler aşağıda verilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4. The numbers from 1 to 9 are in lines of 3 circles with one common circle in the middle. Adding up the four directions gives 4 x SUM = 45 + 3 x c. Because 4 evenly divides 45 + 3 x c, this forces c = 1, 5, or 9."
+msgstr "4. 1'den 9'a kadar olan sayılar, ortadaki bir dairenin paylaşıldığı dört yönlü bir düzenlemede yerleştirilmiştir. Dört yöndeki toplamları aldığımızda 4 × SUM = 45 + 3 × c denklemini elde ederiz. 45 + 3 × c'nin 4'e tam bölünebilmesi gerektiğinden, c yalnızca 1, 5 veya 9 değerlerini alabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. The numbers from 1 to 5 are placed in an L shape with one circle in common in the corner. This is really the same as problem #2, so the solutions are essentially the same.\n"
+"\n"
+"6. The numbers from 1 to 8 are in a plus sign with no circles in common. The two directions evenly split 36, the sum of all the numbers, so SUM = 18. There are many ways to solve this by splitting the set of numbers into two groups that add up to 18. One solution is 1, 2, 7, 8 and 3, 4, 5, 6, and another is 1, 3, 6, 8 and 2, 4, 5, 7.\n"
+"\n"
+"7. The numbers from 1 to 9 are in a plus sign with one circle in common in the middle. Adding up the two directions gives 2 X SUM = 45 + c, so c = 1, 3, 5, 7, and 9. Solutions for c = 1, 3, and 5 are given."
+msgstr ""
+"4. 1'den 9'a kadar olan sayılar, ortadaki bir dairenin paylaşıldığı dört yönlü bir düzenlemede yerleştirilmiştir. Dört yöndeki toplamları aldığımızda 4 × SUM = 45 + 3 × c denklemini elde ederiz. 45 + 3 × c'nin 4'e tam bölünebilmesi gerektiğinden, c yalnızca 1, 5 veya 9 değerlerini alabilir.\n"
+"\n"
+"5. 1'den 5'e kadar olan sayılar, köşedeki bir dairenin paylaşıldığı \"L\" şeklinde bir düzene yerleştirilmiştir. Bu aslında #2 problemindeki ile aynıdır, dolayısıyla çözümler de temelde aynıdır.\n"
+"\n"
+"6. 1'den 8'e kadar olan sayılar, ortak dairelerin bulunmadığı artı (+) işareti şeklinde düzenlenmiştir. İki yön, tüm sayıların toplamı olan 36'yı eşit olarak böler, bu nedenle SUM = 18 olur. Sayı kümesini 18 toplamını veren iki gruba ayırarak bu problemi çözmenin birçok yolu vardır. Bir çözüm 1, 2, 7, 8 ve 3, 4, 5, 6'dır; diğer bir çözüm ise 1, 3, 6, 8 ve 2, 4, 5, 7'dir.\n"
+"\n"
+"7. 1'den 9'a kadar olan sayılar, ortadaki bir dairenin paylaşıldığı artı (+) işareti şeklinde düzenlenmiştir. İki yöndeki toplamlar alındığında 2 × SUM = 45 + c denklemi elde edilir. Bu durumda c yalnızca 1, 3, 5, 7 ve 9 değerlerini alabilir. c = 1, 3 ve 5 için çözümler aşağıda verilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "8. The numbers from 1 to 12 are in a star shape. This has 6 directions of lines of 4 circles. This one is much harder than the others. If you add up all the directions, every number will be involved twice. The numbers from 1 to 12 add up to 78. Thus we have 6 x SUM = 2 x 78, which means SUM = 26 (as given in the hint). A solution is given below. As always, another solution can be obtained by subtracting all the entries from 13."
+msgstr "8. 1'den 12'ye kadar olan sayılar, yıldız şeklinde bir düzene yerleştirilmiştir. Bu yıldız, her biri 4 daireden oluşan 6 yöne sahiptir. Bu problem diğerlerine göre çok daha zordur. Tüm yönleri toplarsanız, her sayı iki kez yer alacaktır. 1'den 12'ye kadar olan sayılar 78'e eşittir. Bu durumda 6 x SUM = 2 x 78 olduğundan, SUM = 26 (ipuçlarında belirtildiği gibi) olur. Bir çözüm aşağıda verilmiştir. Her zamanki gibi, diğer bir çözüm, tüm girişlerden 13 çıkarılarak elde edilebilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9. The numbers from 1 to 7 are in an H shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. There are 5 possible lines of 3 connected circles. If the 5 directions are added up, all the circles will be used twice, with the exception of the center which is used three times. Adding up the five directions gives 5 x SUM = 2 x 28 + c. Because 5 evenly divides 56 + c, this forces c = 4, and in that case SUM = 12 (as given in the hint). Note that neither 2 nor 3 can be on the same side as the 1, and this leads to the following solution."
+msgstr "9. 1'den 7'ye kadar olan sayılar bir H şeklinde yerleştirilmiştir - solda 3 dikey, ortada 1, sağda 3 dikey. 3 bağlı çemberden oluşan 5 mümkün yön vardır. Beş yönü topladığınızda, tüm çemberler iki kez kullanılacak, merkez ise üç kez kullanılacaktır. Beş yönü toplamak, 5 x SUM = 2 x 28 + c elde eder. Çünkü 5, 56 + c'yi tam olarak böler, bu da c = 4 olmasını zorunlu kılar ve bu durumda SUM = 12 (ipuçlarında belirtildiği gibi) olur. Dikkat edilmesi gereken bir diğer nokta, 2 veya 3'ün 1'in aynı tarafında olmamasıdır ve bu da aşağıdaki çözümü ortaya çıkarır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Square"
+msgstr "Toplam Kare"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 3 by 3 grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid. For the numbers that are not yet placed, the challenge is to place them to make the row and column sums be the target values.\n"
+"\n"
+"To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid. For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper you removed to your child and ask “where were these?” Because these are so easy to create, they are great puzzles for your child to create for you to solve.\n"
+"\n"
+"One variation that keeps the sums a little smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid, or even 1 to 16 in a 4 by 4 grid."
+msgstr ""
+"Başlamak için her satır ve sütun için hedef toplamların verildiği 3x3 bir ızgara oluşturun. 1'den 9'a kadar bazı sayılar zaten ızgarada yerleştirilmiştir. Henüz yerleştirilmemiş sayılar için hedef, satır ve sütun toplamlarının hedef değerlere ulaşmasını sağlamak üzere bu sayıları yerleştirmektir.\n"
+"\n"
+"Bu tür bir bulmacayı oluşturmak için, 1'den 9'a kadar olan sayıları kağıt parçalarına yazıp 3x3'lük bir ızgaraya yerleştirerek başlayın. Her satır ve sütunun toplamını sağa veya alta yazın. Ardından, ızgaradaki bazı sayıları kaldırın. Son olarak, çıkardığınız kağıt parçalarını çocuğunuza verin ve \"Bunlar neredeydi?\" diye sorun. Bu bulmacalar oluşturması çok kolay olduğu için, çocuğunuzun sizin çözmeniz için hazırlayabileceği harika bulmacalardır.\n"
+"\n"
+"Bir varyasyon, toplamları biraz daha küçük tutmak için 0'dan 8'e kadar olan sayıları kullanmaktır. Daha zor bir varyasyonsa, aynı şeyi 3 x 4 ızgarasında 1'den 12'ye kadar olan sayılarla yapmak veya hatta 4 x 4 ızgarasında 1'den 16'ya kadar olan sayılarla yapmaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making the original filled in puzzle is easy enough. As mentioned above, just put in all the numbers and write down the sums. The challenge for the puzzle maker is to remove just the right amount of information so that the puzzle is challenging but not too hard."
+msgstr "Orijinal doldurulmuş bulmacayı yapmak oldukça kolaydır. Yukarıda belirtildiği gibi, tüm sayıları yerleştirip toplamları yazmanız yeterlidir. Bulmaca hazırlayan kişi için asıl zorluk, bulmacayı zorlayıcı ancak fazla karmaşık olmayacak şekilde ayarlamak için doğru miktarda bilgiyi çıkarmaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategies for Solving and Creating"
+msgstr "Çözme ve Oluşturma Stratejileri:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start by filling in squares that are the single missing numbers in a row or column. The leftmost of these three puzzles is pretty easy to solve because, after the 5 and the 7 are filled in, then the 3 and 2 are easy to solve, and then lastly the 8 will be easy- solving each singleton creates new singletons that are easy to calculate.\n"
+"\n"
+"Easy to calculate puzzles are good practice for your child, so don’t worry about making all the puzzles tricky.\n"
+"\n"
+"The middle puzzle is a bit harder. There are no singletons. A good strategy for these is to look for rows or columns that have particularly large or small missing sums - these will have relatively few choices to choose from. The bottom row and the rightmost column are good places to start for this puzzle. The missing numbers in the bottom row add up to 16, so they must be 7 and 9. The 9 cannot go in the column with the 6 (the sum would be too big for that column), so that places the 7 and 9. The rest follows as in the previous puzzle.\n"
+"\n"
+"In the rightmost puzzle, two of the side numbers are left out. Once your child realizes that the side numbers add up to 45, which is the sum of the numbers from 1 to 9, it is easy to fill in a single missing side number."
+msgstr ""
+"Öncelikle, bir satır veya sütunda eksik olan tek sayı olan kareleri doldurarak başlayın. Bu üç bulmacalardan en soldaki oldukça kolaydır çünkü 5 ve 7 yerleştirildikten sonra, 3 ve 2'yi bulmak basit oluyor. Son olarak da 8'i yerleştirmek kolaylaşıyor. Her bir \"tek eksikli\" kareyi çözdükçe, yeni \"tek eksikler\" ortaya çıkar ve bunları hesaplamak kolaylaşır.\n"
+"\n"
+"Kolay hesaplanan bulmacalar, çocuğunuz için iyi bir pratik sağlar, bu yüzden tüm bulmacaları zor yapma konusuna pek takılmayın.\n"
+"\n"
+"Ortadaki bulmaca biraz daha zor. Hiç \"tek eksikli\" kare yok. Bu tür bulmacalar için iyi bir strateji, özellikle büyük veya küçük eksik toplamları olan satır veya sütunlara bakmaktır — bunlar için seçenekler nispeten azdır. Bu bulmacada alt satır ve en sağdaki sütun başlamak için iyi yerlerdir. Alt satırdaki eksik sayıların toplamı 16 olduğundan, bunlar 7 ve 9 olmalıdır. 9, içinde 6 bulunan sütuna yerleştirilemez (o sütunun toplamı çok büyük olur), bu yüzden 7 ve 9'un yerleri belli olur. Geri kalanı, önceki bulmacadaki gibi çözülür.\n"
+"\n"
+"En sağdaki bulmacada, kenar numaralarından ikisi eksik bırakılmıştır. Çocuğunuz, yan sayıların 1'den 9'a kadar olan sayıların toplamı olan 45'e eşit olduğunu fark ettiğinde, eksik olan bir yan sayıyı doldurmak oldukça kolay olacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition Pyramid"
+msgstr "Toplama Piramidi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A pyramid of 10 numbers placed in 4 rows is given with a target number. The challenge is to find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must touch each other.\n"
+"\n"
+"Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid. The number of possible paths through the pyramid doubles with the addition of each row, so making larger pyramids is a way to challenge a child who finds the 10-number puzzle  easy. For a child who finds a 10-number puzzle hard, start with 6-number puzzles until they become easy and quick to solve."
+msgstr ""
+"4 satır halinde yerleştirilmiş 10 sayıdan oluşan bir sayı piramidi ve bir hedef sayı verilir. Amaç, piramitte her satırdan bir sayı seçerek hedef sayıya ulaşan bir toplam elde edecek şekilde bir yol bulmaktır. Yol üzerindeki sayılar birbirine bitişik olmalıdır.\n"
+"\n"
+"Bu tür bir bulmaca oluşturmak için önce yol üzerinde yer almasını istediğiniz sayıları piramitteki satırlara yerleştirin ve bu sayıların toplamını bir kenara not edin. Ardından piramitte kalan boşlukları yanıltıcı dekor sayılarla doldurun. Piramitteki olası yol sayıları her yeni satır eklendiğinde ikiye katlandığından, 10 sayılı bulmacayı kolay bulan çocuklar için daha büyük piramitler oluşturmak ideal bir zorluk seviyesi sunar. 10 sayılı bulmaca çocuğa zor geliyorsa, çözümleri kolay ve hızlı hale gelene kadar 6 sayılı bulmacalarla başlamak daha uygundur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For larger puzzles, it can be a challenge for the puzzle maker to ensure that there is only one correct path through the pyramid. Don’t concern yourself too much with that. Even though it’s nice if there is only one path, your child will enjoy showing you that there is more than one way to solve it."
+msgstr "Daha büyük bulmacalarda, piramitte yalnızca bir doğru yol olmasını sağlamak, bulmacayı hazırlayan için zorlu olabilir. Bunun için fazla endişelenmeyin. Tek bir yol olması güzel olsa da, çocuğunuz size birden fazla çözüm yolu olduğunu göstermekten keyif alacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Investigations"
+msgstr "Araştırmalar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Flower Petals"
+msgstr "Çiçek Yaprakları"
 
 #. type=data_list
 msgctxt "data_list"
