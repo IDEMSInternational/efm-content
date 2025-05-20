@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-20 21:17\n"
+"PO-Revision-Date: 2025-05-20 22:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7494,6 +7494,128 @@ msgstr "バリエーション"
 msgctxt "data_list"
 msgid "The game can also be played from 000 to 999."
 msgstr "このゲームは000から999の数字でも遊ぶことができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BONDED GROUPS"
+msgstr "結束したグループ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two versions of these puzzles."
+msgstr "このパズルには2つのバージョンがあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
+msgstr "**バージョン1:** これはステージ3の合計のグループのパズルと同じですが、今回はターゲットの合計が大きくなることがあります。ボードのサイズは自由で、ここでは4×4のボードを使用しています。ターゲットの数字は左側にあり、この場合は13です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
+msgstr "**挑戦:** ターゲットの合計になるように、つながった数字のグループを特定します。(13)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
+msgstr "**バージョン2:** こちらはターゲットの数字が20の4×4のボードの例です。合計のグループと同様に、ボードはターゲットの合計になるペアやトリプルの数字で埋められています。しかし、今回はどのグループにも含まれない1つのマスが存在します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
+msgstr "**挑戦:** 課題は、その数字が入っている唯一のマスを見つけることです。この例では、その数字は「5」です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MISSING NUMBERS"
+msgstr "欠けた数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Create these puzzles by taking a simple addition or subtraction equation and leaving out some of the digits. If you accidentally leave out too many numbers, that can open up a discussion of what all the possible solutions are – for example, if you start with 2 + 5 = 7 and leave out the first and third numbers, there are many solutions to ? + 5 = ?\n"
+"\n"
+"**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
+msgstr ""
+"**作り方:** これらのパズルは、簡単な足し算や引き算の式からいくつかの数字を省略することによって作成します。もし数字を省略しすぎてしまった場合、それがどんな解答が可能かという議論を生むきっかけになります。例えば、2 + 5 = 7 という式から最初と3番目の数字を省略すると、? + 5 = ? のように、多くの解答が考えられます。\n"
+"\n"
+"**例:** 2つの問題は、それぞれいくつかの数字を省略することによって欠けた数字パズルに変換されます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
+msgstr "**文字置き換えパズル:** これらの欠けた数字のパズルは簡単な変数を使うためのとても理解しやすいステップとなります。これらのパズルに慣れた後、お子さんはステージで説明される文字置き換えパズルに挑戦する準備が整います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING MULTIPLICATION CARDS"
+msgstr "掛け算カードを作ろう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a set of multiplication cards to practice these math facts while playing matching games your family played earlier: Stage 1 - Go Fish, Memory Challenge; Stage 2 - Bingo; Stage 3 - Hot Potato; and Stage 4 - Gin Rummy.\n"
+"\n"
+"**How to create:** Hand draw four cards for each math fact. These are the four cards for 3 × 4."
+msgstr ""
+"これらの数学的真実を練習するために掛け算のカードを1セット作ります。これらのカードは以前ご家族で遊んだマッチングゲームで使えます: ステージ1 - ゴーフィッシュ, メモリーチャレンジ; ステージ2 - ビンゴ; ステージ3 - ホットポテト; そして ステージ4 - ジン ラミー\n"
+"\n"
+"**作り方:** 各数学的事実に対して4つのカードを手書きで作ります。3 x 4のための4枚のカードの場合:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* the expression \n"
+"* groups of objects\n"
+"* an array\n"
+"* prime factoring"
+msgstr ""
+"* 数式\n"
+"* オブジェクトグループ,\n"
+"* 配列, そして\n"
+"* 素因数分解"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Options:** One option is to include 3 × 4 and not include 4 × 3. This has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3.\n"
+"\n"
+"For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
+msgstr ""
+"**方法:** 一つの選択肢は3 x 4を含め、4 x 3を含めないことです。この方法には欠点があり、3つのグループの4つと4つのグループの3つは異なります。\n"
+"\n"
+"配列カードについては、片側または両側に飛ばし計算の数字を記入し、お子さんが飛ばし計算を練習できるようにします。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "数式カードについては、各数字を素因数分解記号に置き換えます。これは2つの数字を掛け算する時にどのように素因数分解が組み合わさるかを見やすくします。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "掛け算の結果"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "掛け算カードと表"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Use a blank table with 4 product rows and columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers, possibly with duplication, from 2 to 9. Fill in the table out of sight of your child, and then flip over or cover the numbers.\n"
+"\n"
+"**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
+msgstr ""
+"**作り方:** 4行4列の積の表を使います。表の上部と左側は4つの欠けた数字のグループもあります– これらのいくつかの数字は2から9で重複があるかもしれません。お子さんの目に見えないところで表を埋めて、裏返えすか数字を隠してください。\n"
+"\n"
+"**挑戦:** お子さんは16個の積のエントリーのうち、最大10個まで1回ずつ明らかにするように頼むことができます。目標はターンがなくなる前に上部と左側のエントリーを見つけることです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
+msgstr "**例:** この例ではすべてのカードが裏返しになっていると仮定します。もしお子さんが63のカードを裏返すと選択した場合、それが7と9から来ていることが分かります。63と同じ行または列にある他のカードを裏返すと、7と9の位置がわかります。2回目に裏返したカードが56だとします。3列目は7が入り、2行目は9で3行目は8になることが分かります。"
 
 #. type=data_list
 msgctxt "data_list"
