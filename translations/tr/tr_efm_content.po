@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-20 00:19\n"
+"PO-Revision-Date: 2025-05-20 01:19\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8367,6 +8367,33 @@ msgstr ""
 "8 3 10 9,   6 1 10 8,   8 1 10 6\n"
 "\n"
 "15, 21 ya da daha büyük boyutlu piramitler, gerçekten bu işe kendini adamış olanlara bırakılmıştır. İyi şanslar ve iyi eğlenceler!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Enclosed Sums"
+msgstr "Kapalı Toplamalar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes  that border it. Similar to Shape Sums puzzles, circles may have any value, and the value for a non-circular shape must be the same as any other shape of the same type. For example, all squares must have the same value and all hexagons would have the same value. You can optionally add the rule that different non-circular shapes must have different values - for example, that squares and hexagons must have different values.\n"
+"\n"
+"The puzzle for your child is to figure out the numbers in the shapes and regions that are not supplied."
+msgstr ""
+"Bu bulmacada, çizgilerle birbirine bağlanan şekiller bulunur. Her kapalı bölgede, onu çevreleyen şekillerin toplamı olan bir sayı vardır. Şekil Toplamları bulmacalarına benzer bir şekilde, daireler herhangi bir değere sahip olabilir, ve daire olmayan bir şeklinde değeri aynı türdeki şekille aynı olmalıdır.  Örneğin tüm kareler aynı değere sahip olmalı ve tüm altıgenler aynı değere sahip olmalıdır. İsteğe bağlı olarak, farklı daire olmayan şekillerin farklı değerlere sahip olması gerektiği kuralını ekleyebilirsiniz - örneğin, kareler ve altıgenler farklı değerlere sahip olmalıdır.\n"
+"\n"
+"Çocuğunuz için bulmaca, verilmeyen şekillerdeki ve bölgelerdeki sayıları bulmaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Create these puzzles by making a diagram of circles and maybe some other shapes. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers.\n"
+"\n"
+"As with Shape Sums puzzles in Chapter 3, start with simple puzzles with just one or two numbers missing and slowly progress to puzzles with more numbers missing, more enclosed regions next to each other, and more use of values in non-circular regions."
+msgstr ""
+"Bu bulmacaları oluşturmak için önce daireler ve belki de başka şekillerden oluşan bir diyagram çizin. Daha sonra, tüm şekilleri sayılarla doldurun ve sınırlı bölgeleri, onları çevreleyen şekillerin toplamıyla doldurun. Son olarak, bazı sayıları kaldırın.\n"
+"\n"
+"Bölüm 3’teki Şekil Toplamları bulmacalarında olduğu gibi, yalnızca bir veya iki sayının eksik olduğu basit bulmacalarla başlayın ve yavaş yavaş daha fazla sayıların eksik olduğu, birbirine bitişik daha fazla bölgenin bulunduğu ve daire olmayan bölgelerdeki değerlerin daha fazla kullanıldığı bulmacalara doğru ilerleyin."
 
 #. type=data_list
 msgctxt "data_list"
