@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-21 12:18\n"
+"PO-Revision-Date: 2025-05-21 13:19\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8314,6 +8314,550 @@ msgstr ""
 msgctxt "data_list"
 msgid "100 LAUGHS"
 msgstr "100の笑い"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**準備:** 「Q（0）、A（1）、および2〜9のカードが入ったデッキを使用します。目標値の数字を100に設定します。ランダムに4枚のカードが選ばれ、2桁の数字のペアを作り、共有リソースとして使用します。\n"
+"\n"
+"**遊び方:** 各プレイヤーにはランダムに14枚のカードが表向きで配られます。プレイヤーは交互にターンを取ります。ターン中、プレイヤーは必ず自分のカード2枚を使って、4枚のカードのうち2枚の上に置かなければなりません。現在の2つの2桁の数字が目標値の合計になると、プレイヤーは1ポイントを獲得します。このゲームの名前は、プレイヤーが目標値の合計を達成するたびに笑うというオプションのアクションに由来しています。\n"
+"\n"
+"**勝利方法:** カードがすべて使われた時、最も多くのポイントを持っているプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* 目標値を100に設定することは、10の数の結びつきの練習に適しています。しかし、他の目標値も多様性を持たせ、他の数の結びつきを練習するために役立ちます。\n"
+"* プレイヤーに14枚より少ない、または多いカードを配る。\n"
+"* 小さな目標値の数字と一緒に引き算を使う。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "ターゲットへの5枚引きカード"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "足し算と引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**準備:** 目標となる数字を選んでください、例えば100としましょう。\n"
+"\n"
+"**遊び方:** 各プレイヤーは、0から9までのランダムなカードを5枚引きます。そのカードを使って2桁の数字を2つ作り、5枚目のカードは使用しません。2つの数字を足し合わせ、その合計が目標値に最も近いプレイヤーがそのラウンドのポイントを獲得します。\n"
+"\n"
+"**勝利方法:** 定められたラウンド数が終了した時点で、最も多くのポイントを獲得しているプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "1つのオプションは、3桁の数字を使用し、目標値を1000に設定して各プレイヤーが7枚のカードを受け取ることです。別のオプションは、より小さな目標値を設定し、引き算を使用することです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "文字の置き換え"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "文字の置き換え"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**準備:** このパズルでは、1桁の数字が文字に置き換えられています。一見すると、これらのパズルはこのステージの前半で紹介した「欠けている数字」のパズルと同じように見えるかもしれません。しかし、文字の使用により、より興味深い問題解決の機会が提供されます。もしお子さんが「欠けている数字」のパズルに慣れているのであれば、これらのパズルに移行することをお勧めします。\n"
+"\n"
+"これらのパズルで文字を使用する際には、3つのルールに従います。:\n"
+"\n"
+"* 与えられた文字は、常に0から9の間の同じ数字を表します。\n"
+"* 数字の最も左の桁は決して0ではありません。\n"
+"* 異なる文字は異なる数字でなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**作り方:** 通常の加算または減算の問題を取り、1つ以上の数字を置き換えます。同じ数字を置き換える際には、同じ文字を使用します。この例では、6が両方の場所で「A」に置き換えられています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**特別なパズル:** この種類のパズルの特徴は、興味深い問題解決の挑戦を作り出すことができる点です。これらは少し設計が必要ですが、その結果として楽しいパズルが生まれます。\n"
+"\n"
+"文字の値はパズルごとに引き継がれないことに注意してください。この最初のパズルで値が1の「B」は、2番目のパズルでは値が4になります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "形で領域を決める"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"8×8のチェスボードと1×2のタイルの集合があるとしましょう。この32枚の1×2タイルを使ってチェスボードをぴったり覆う方法を見つけるのは簡単です。\n"
+"\n"
+"**角を取り除く:** チェスボードから正方形を取り除いてみましょう。もしチェスボードの1つの角を取り除くと、すぐにタイルでボードを覆うことができなくなることがわかります。なぜなら、タイルは偶数個の正方形を覆うため、残りの正方形が63個になるからです。さて、2つの角を取り除いて、残りの正方形が偶数個になるようにしてみましょう — これで覆うことはできるでしょうか？その答えは、取り除く2つの角によって異なります。なぜでしょうか？もし角を取り除くことに制限を設けずに、他の場所からも正方形を取り除いていったら、どうなるでしょうか？\n"
+"\n"
+"**小さな例から学ぶ:** このような問題を解く際の重要な教訓は、小さな問題から学ぶことです。まずは4×4や6×6のボードでこの問題に挑戦してみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "ボードを埋めるために他の形を使ってみましょう。1×3のタイルやL字型の3つの正方形を使ってボードを埋める方法を試してみましょう。これらを使って、どんなパターンや法則を見つけることができますか？他にどんな形が面白いと思いますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "正方形で正方形を埋める"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "形の中の形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**挑戦:** 異なるサイズの正方形を使って、どのように正方形を埋めることができるでしょうか？質問は、「可能な正方形の数はすべて何か？」ということです。もしそれらが可能な場合、どのように埋めるかを簡単に説明する方法はあるのでしょうか？\n"
+"\n"
+"お子さんが答えを急がず、何日もかけて楽しんで取り組むことができるようにしましょう。ここに6つの正方形がどのように配置できるかを示す図があります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr "もし1×1、2×2、3×3のような特定のサイズの正方形のみを使う場合、どうなるでしょうか？また、同じ形をした図形を使って他の図形を埋めるとどうなるでしょうか？例えば、正三角形（すべての辺の長さが同じ三角形）を使って埋める場合はどうでしょうか？このように調査するのが面白い図形はどれでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "プロダクトゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**準備:** 示された通りに記入された共有の紙を使用してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**遊び方:** 最初のプレイヤーは、1から9の範囲のいずれかの数字に駒を置きます。次に、2番目のプレイヤーは1から9のいずれかの数字にもう1つの駒を置き、6×6のグリッド内でその積を主張します。その後、各プレイヤーは2つの駒のいずれかを移動させ、積を主張します（できる場合）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**勝利方法:** 3つのマスが縦・横・斜めに並んだ最初のプレイヤーが勝ちです。\n"
+"\n"
+"**バリエーション:** 積の数字を混ぜて、お子さんが積を識別する練習をより効果的にしましょう。また、ステージ5のボーナスマテリアルでは、より大きな範囲の大きなボードのデザインも確認できます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "積を使った島渡り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "掛け算と倍数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"これらのパズルには、橋（線）で繋がれた島（円と四角形）があります。もし四角形の両側に円が二つあれば、その四角形には二つの円の積が入ります。\n"
+"\n"
+"**挑戦:** 欠けている数字を埋める。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**作り方:** これらのパズルは、最初に円に数字を入れ、その後四角形に数字を入れ、最後にいくつかの数字を取り除いてからお子さんに渡してください。\n"
+"\n"
+"掛け算の練習に加えて、これらのパズルは共通の約数を練習するように構成することもできます。最初のパズルでは、14と21を割り切る1以外の唯一の数字は7なので、それが下の円の数字です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "隣の数を数える"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**準備:** 3つのサイコロと1から64までの数字が書かれた8×8のボードを使う。\n"
+"\n"
+"**遊び方:** プレイヤーはサイコロを振り、足し算、引き算、掛け算、割り算を使って、ボード上の未記入の数字を作ります。プレイヤーはそのマスをマークし、そのマスに1ポイントを得るとともに、対角線を含む、隣接するすべてのマークされたマスについて1ポイントを追加で得ます。もしプレイヤーがプレイできない場合、他のプレイヤーがプレイを見つけたら、その得点を獲得できます。\n"
+"\n"
+"**勝利方法:** 5回以上のラウンドをプレイし、最も高い得点が勝者となります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "いくつかのゲームオプションは、4つ目のサイコロを使うことや、より小さなまたは大きなボードを使うことです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "モバイルを作る"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**準備:** いくつかの重りと、取り付け点があるモバイルのデザインが与えられます。この課題は、モバイルが各アームでバランスを取るように、各取り付け点に最大1つの重りを配置することです。ワイヤーは無重量であると仮定します。 モバイルの各アームはてこであり、バランスを取る必要があるため、これらのパズルは前のこのステージで与えられたてこのバランスパズルの拡張です。これらのパズルに取り組む前に、まずそれらのパズルを練習してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**簡単な例:** 最も簡単なモバイルから始めましょう。それは空中のてこです。ここでは、このモバイルに1から4の重りを配置してバランスを取る解法を示します。\tこれは、2 × 4 + 1 × 2 = 4 × 1 + 3 × 2 だからバランスが取れるということです。\n"
+"\n"
+"**より複雑な例:** 下にある重りの合計を使って、上のワイヤーの両側をバランスさせます。(1 + 3) × 3 = (4 + 2) × 2。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "モバイルの例と詳しい説明については、ステージ5のボーナスマテリアルをご覧ください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "制限付き計算機"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "足し算、引き算、掛け算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**準備:** 壊れた計算機があり、その計算機で何らかの結果を出すことに挑戦されているとしましょう。これは、ちょっとした空き時間に口頭で遊ぶのが簡単です。以下は、始めるためのいくつかの例です。\n"
+"\n"
+"**例:** 計算機に「+」、「-」、「×」、「÷」の機能があり、数字キーは4だけが正常に動作しているとしましょう。この計算機を使って21を得ることはできますか？もし可能なら、最小のステップ数で達成できるのは何回ですか？次に、4を最大4回まで使用できる場合、どのような数字を作ることができるでしょうか？さらに、4を正確に4回使用しなければならない場合はどうでしょうか？他の単一のキーを使ったり、他の結果を作ったりする方法を試してみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**例:** もし計算機が4または7だけを加算できるとしたら、どの数字を作ることができるでしょうか？\n"
+"\n"
+"**例:** もし計算機が4と7だけを使い、足し算と引き算ができるとしたら、どの追加の数字を作ることができるでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"これらは、天秤などの他の設定で以前に見たのと同じ活動です。\n"
+"\n"
+"**例:** もし1のキーしかなく、足し算か倍にすることしかできないとしたら、どんな数字を作ることができるでしょうか？例えば、2 × (2 × 1) + 1 は 5 です。他にどんな数字を作ることができるでしょうか？\n"
+"\n"
+"**例:** 楽しい挑戦は4つの4の挑戦です。もし計算機に4のキーしかなく、すべての演算が使えるとしたら、最初に1から始めて、計算機で正確に4つの4を使ってどの数字を作ることができるか、いくつの数字を作れるかを考えてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "因数をつかむ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**準備:** 1から24までの数字が並んだ4×6のボードを使います。\n"
+"\n"
+"**遊び方:** ターンでは、プレイヤーは未開示の数字を選び、その数字に少なくとも1つの未開示の因数がある必要があります。選んだプレイヤーはその数字を取得し、もう1人のプレイヤーは未開示の因数をいくつでも選んで取得できます（選ぶ数はそのプレイヤーの自由です）。プレイは交互に進み、合法的な数字が残らなくなるまで続きます。\n"
+"\n"
+"**勝利方法:** プレイヤーは自分の数字を合計し、合計が高い方が勝ちとなります。\n"
+"\n"
+"**税金収集者ソリティア:** これは「税金収集者」というソリティアパズルとしても遊べます。1人のプレイヤーが数字を選び、税金収集者は利用可能な因数をすべて取得します。プレイは、プレイヤーが合法的な手を打てなくなるまで続きます。その時点で、税金収集者は残りの数字を受け取ります。目標は、できるだけ大きな合計を得ることです — 可能であれば税金収集者よりも大きな合計を目指します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "プレイヤーのスキルレベルに合わせて数字の範囲を設定します。範囲は1から12まで、または最大で1から60までにすることができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "跳ねるビリヤードの玉"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "因数と倍数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "四隅にポケットがあるビリヤード台を想像してください。ボールがテーブルの横面に当たると、ボールは入ってきた角度と同じ角度で跳ね返ります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"この調査では、次の質問を考えます：もしボールを1つの隅から45度の角度で打った場合、ボールはどこに行くのでしょうか？\n"
+"\n"
+"その答えはテーブルのサイズによって異なります。こちらは3×4のテーブルで起こることです。\n"
+"\n"
+"いくつかの異なるサイズのテーブルで遊んだ後、お子さんに新しいサイズに対して事前に答えを予測するように挑戦させてください。左下隅から始めて、最初に当たる隅はどこで、何回跳ね返るのでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "倍にするか何もかけない"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**準備:** プレイヤーはゲームを開始する際に、20より大きく121より小さい5つの異なる数字を秘密裏に選びます。すべての選択が完了した後、それらの数字はみんなが見える場所に書かれます。\n"
+"\n"
+"**遊び方:** 番号カードやその他の方法を使って、1から20までのランダムな数字を生成します。その数字は、誰かの番号に初めて当たるか、数字が120を超えるまで繰り返し倍にされます。\n"
+"\n"
+"**勝利方法:** 最初に自分の5つの数字すべてが当たったプレイヤーが勝者です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "数字を選ぶための戦略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "46のような1から20の間の数字と2の累乗を掛けた形ではない数字を選ぶのは良くありません。ー その数字は絶対に当たることがありません。32のように2の因数がたくさん含まれている数字は、より多くの開始数字がその数字に到達できるため、当たる可能性が高くなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "毎回数字を倍にする代わりに、3倍にすることもできます。また、倍にして1を足すこともできます。若いプレイヤーの場合、10より大きく60を超えない数字を選び、1から10の間でランダムな数字を選んでください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "因数との戦い"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "因数のカウント"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**準備:** 1から25までのカードが2セットがある。\n"
+"\n"
+"**遊び方:** これらのカードを使って、標準的な戦争ゲームをプレイします。ただし、今回は勝者は因数が多いカードです。例えば、12は16に勝ちます。なぜなら、12の因数は6つ（1, 2, 3, 4, 6, 12）で、16の因数は5つ（1, 2, 4, 8, 16）だからです。勝ったカードを持っている人は、そのカードの因数を正しく挙げられなければなりません。そうでない場合、そのカードはプレイヤーの引き札に戻されます。標準的な戦争ゲームと同様に、引き分けの場合は次のカードを出して、勝者が全てのカードを獲得します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "因数の数が少ない方が勝つルールでプレイしてもよいです。全ての因数ではなく、素因数のみをカウントするルールでもプレイできます。また、素数の累乗（素数のべき乗）である数が他の数に勝つルールでプレイしてもよいです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "火山をこえる"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**準備:** 100マスチャートを使い、4辺の36マスを灰色に塗ります。絵柄のカードを除いたトランプカードを使うか、1から10までの番号カードを使います。\n"
+"\n"
+"**遊び方:** ターンで1を引いた場合、任意の奇数を主張できます。その他の数字を引いた場合、その倍数を任意に主張できます。もし数字を主張した場合、相手はその数字を主張できません。目標は、一方の端から反対側の端に向かって、どちらの方向でも構わないので道を作ることです。道のマスを主張する順番にこだわる必要はありません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "対角線の接続を許可するか、許可しないかを選んでプレイできます。もう一つの選択肢は、絵柄カードを含めることです。これを引いた場合、どちらのプレイヤーの道にも含まれないブロックされたマスを置くことができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "チェッカー算数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "掛け算ボードゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**準備:** このゲームはチェッカーに軽く影響されています。各プレイヤーは10個のコマを持っています。コマには1から10までの番号が付けられており、「10」のコマには10と11が書かれています。コマは100マスチャートの端の行に配置されます。一方のプレイヤーは1から10のマスに、もう一方のプレイヤーは91から100のマスに配置されます。\n"
+"\n"
+"**遊び方:** 最初は、コマは選んだマーカーの番号の倍数のいずれかのマスに「前進」して1行進むことができます。1から10のマスにスタートするプレイヤーにとって、前進とはより大きな番号のマスに進むことを意味し、91から100のマスにスタートするプレイヤーにとっては、前進とはより小さな番号のマスに進むことを意味します。コマがボードの端まで到達すると、そのコマはキングになり、その後は前後どちらにも1行進むことができるようになります。相手のコマは、その上に着地することで取ることができます。同じプレイヤーのコマが重なって並ぶことはできません。\n"
+"\n"
+"**勝利方法:** 相手のコマをすべて取ることで勝利します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "バリエーション"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "若いプレイヤー向けには、ボードを短縮して最初の6行ー1から60までの数字を使用します。 すべての倍数をまだ知らないお子さんは、スキップカウントを使って移動を確認することができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "掛け算ビンゴ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**準備:** 各プレイヤーは、掛け算の積となる数字が記載された4×4のグリッドからスタートします。これらの数字はランダムに割り当てることも、プレイヤーが慎重に選ぶこともできます。\n"
+"\n"
+"**遊び方:** ゲームを開始するには、2枚のカードが配られ、テーブルに表向きに置かれます。どちらかのプレイヤーがその2つの数字の積を持っていれば、それをカバーします。その後は、プレイヤーが順番に引き札の山から1枚カードを引き、2枚のカードのうちどれを交換するかを選びます。積が一致するプレイヤーはすべて、それをカバーします。\n"
+"\n"
+"**勝利方法:** 最初に4つの数字を縦・横・斜めのいずれかに並べたプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "交差積"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "興味深い製品"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"この掛け算パズルは、1から6の各数字を1回ずつ使用する3×3のもの、または1から8の各数字を1回ずつ使用する4×4のものです。\n"
+"\n"
+"**挑戦:** いくつかのマスに数字を埋め込みます。各行と各列には2つの数字を入れ、行の積がその行の一番左に記された数字と一致し、列の積がその列の上に記された数字と一致するようにします。一部の行や列には数字が記載されていない場合があります。その場合、その行や列の積に制約はありません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**解決方法:** このパズルを解くためには、2つの数字を特定できる列と行を見つけます。まず、30の列には5と6が含まれていなければならず、10の行には2と5が含まれている必要があります。次に、12の列には3と4が含まれ、4の行には1と4が含まれている必要があります。残りはすぐに解けます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"5の行には1と5が含まれ、21の行には3と7が含まれ、32の行には4と8が含まれ、最上行には排除法で2と6が含まれます。7の列には1と7が含まれ、40の列には5と8が含まれ、18の列には3と6が含まれ、2番目の列には2と4が含まれます。これらを組み合わせて解答を導き出します。\n"
+"\n"
+"**作り方:** この種のパズルではよくあることですが、大人はまずパズルの内部にある数字を埋めて、積を記録し、その後、内部の数字をすべて消去することで解くことができます。"
 
 #. type=data_list
 msgctxt "data_list"
