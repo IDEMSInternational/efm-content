@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-21 00:04\n"
+"PO-Revision-Date: 2025-05-21 01:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7641,6 +7641,106 @@ msgstr ""
 "**勝利方法:** 負けたプレイヤーは1の数に駒を置かなければならないプレイヤーです.\n"
 "\n"
 "**例:** このボードは、10 -> 5 -> 15 -> 3 から始まったゲームの途中経過を示しています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As children get better at this game, they will discover rules they need to follow governing reasonable first moves. The most basic rule is that the first move cannot be on a prime number in the upper half of the numbers.\n"
+"\n"
+"Adjust the range of numbers to the skill level of the players – 1 to 30, 1 to 48, or 1 to 60."
+msgstr ""
+"お子さんがこのゲームが上達すると、合理的な最初の手のルールを見つけだします。最も基本的なルールは最初の手が数の上半分にある素数の上には置けないということです。\n"
+"\n"
+"プレイヤーのスキルレベルに応じて、数字の範囲を調整します – 1から30、1から48、または1から60。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH FACTORS"
+msgstr "因数付きニム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with any number, say 20. Let your child decide whether to go first or second. How to play: During their turn, a player may subtract any divisor of the current number from the number. For example, starting at 20, the first player can subtract 1, 2, 4, 5, or 10 for their first move.\n"
+"\n"
+"**How to win:** The player forced to 0 loses."
+msgstr ""
+"**準備:** ランダムな数、例えば20から始めます。お子さんに先行するか後攻するかを決めさせてください。\n"
+"\n"
+"**遊び方:** 自分の番の間、プレイヤーは現在の数字の任意の約数をその数から引くことができます。例えば20から始めた場合、始めのプレイヤーは最初の手で1,2,4,5,か10を引くことができます。\n"
+"\n"
+"**勝利方法:** ０にされられたプレイヤーが負けです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy"
+msgstr "戦略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for always winning - once they discover it, see if they can explain why it works."
+msgstr "お子さんがこのゲームに慣れたら、常にそれに勝つために驚くほど簡単な戦略を見つけるように促してください。戦略を見つけたら、それがなぜうまくいくのか説明できるかどうか見てみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIEVE OF ERATOSTHENES"
+msgstr "エラトステネスのふるい"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding Primes"
+msgstr "素数を見つける"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Children have fun putting in X’s and watching primes fall through this sieve. This investigation\n"
+"creates opportunities for discovering many interesting properties of divisibility and primes. \n"
+"\n"
+"Start with a number line numbered from 1 to 25 (or larger if space and patience allows). \n"
+"\n"
+"Write the number 2 below itself. On this new line put X’s below each multiple of 2.\n"
+"\n"
+"Next, pull down the lowest number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples."
+msgstr ""
+"お子さんはｘを入れて素数がこのふるいを通り抜けるのを楽しみます。この調査は割り切れる性質や素数の多くの興味深い特徴を発見する機会を提供します。\n"
+"\n"
+"1から25（またはスペースと忍耐力があればそれより大きい数字）までの数字がつけられた数直線で始めます。\n"
+"\n"
+"数字の2をその下に書きます。この新しい行には2の倍数の下にXを入れます。\n"
+"\n"
+"次に、下にXがない最小の数（この場合は3）を下ろして次の行に書きます。3を書き、その行には3の倍数の下にXを入れます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Keep pulling down numbers and marking their multiples.\n"
+"\n"
+"When you are finished, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!"
+msgstr ""
+"数字を下ろして、その倍数に印を付け続けます。\n"
+"\n"
+"終わったら、すべての素数を下ろしたことになります。1は単位であり、素数ではないことを忘れないでください！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Discuss these questions with your child as they play with the sieve:\n"
+"\n"
+"* Why are primes the numbers the numbers that are pulled down?\n"
+"* What is the last prime whose multiples you need to cross out? Why were the other\n"
+"primes not useful?\n"
+"* For all the primes that were useful, which of their multiples produced new restrictions\n"
+"and which were not useful? Is there a pattern in that answer?\n"
+"* If you had a number, say 53, which prime numbers would you need to divide it by to\n"
+"confirm that it’s a prime?"
+msgstr ""
+"お子さんがふるいで遊んでいる間にこれらの質問について話し合いましょう:\n"
+"\n"
+"* なぜ素数は引き落とされる数字なのか?\n"
+"* 交差させるべき最後の素数はどれですか？ 他の素数はなぜ役に立たなかったのですか？\n"
+"* 役に立ったすべての素数について、それらの倍数のうち新たな制限を生んだものと、役に立たなかったものはどれですか？ その答えにはパターンがありますか？\n"
+"* もし53のような数字があった場合、それが素数であることを確認するためには、どの素数で割る必要がありますか？"
 
 #. type=data_list
 msgctxt "data_list"
