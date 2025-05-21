@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-21 03:06\n"
+"PO-Revision-Date: 2025-05-21 04:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7916,6 +7916,189 @@ msgstr ""
 msgctxt "data_list"
 msgid "The numbers 5 and 10 can be replaced by other pairs such as 2 and 4, or 3 and 6. These pairings help with practicing doubling strategies for multiplication. For example, if the player does not know 6 × 7, they can double 3 × 7."
 msgstr "5と10は、2と4や3と6のような他のペアに置き換えることができます。これらのペアは、掛け算の倍数戦略を練習するのに役立ちます。例えば、もしプレイヤーが6×7を知らなければ、3×7を倍にすることで解くことができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – MULTIPLICATION"
+msgstr "戦争 – 掛け算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck and split it evenly between two players. To give more focused practice, remove the A’s and 10’s as well.\n"
+"\n"
+"**How to play:** Each player turns over two cards, multiplies them, and the player with the larger product wins those four cards. If the products are equal, two more cards are turned over and the winner gets to keep all eight cards.\n"
+"\n"
+"**How to win:** The player with the most cards after playing for a set time is the winner."
+msgstr ""
+"**準備:** デッキから絵札を取り除き、2人のプレイヤーで均等に分けます。より集中した練習を行うためにAと10のカードも取り除きます。\n"
+"\n"
+"**遊び方:** 各プレイヤーはカードを2枚裏返し、それらを掛け算します。そして、積が大きいプレイヤーがその4枚のカードを獲得します。積が同じ場合はさらに2枚のカードを裏返し、勝者が8枚すべてのカードを獲得します。\n"
+"\n"
+"**勝利方法:** 決められた時間が経過した後最も多くのカードを持っているプレイヤーが勝者です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TURNING THE TABLES"
+msgstr "逆転する"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Tables"
+msgstr "掛け算と九九"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Filling in a standard multiplication table is boring, and children quickly realize they can fill it using repeated addition rather than multiplication. To really practice multiplication, as well as practicing problem solving and factoring, create a mixed-up multiplication table.\n"
+"\n"
+"**How to create:** Make these tables by moving the rows and columns around, and then leaving out most of the headings and entries in the middle.\n"
+"\n"
+"**Example:** Here is an example using headings of 2 through 9:"
+msgstr ""
+"標準的な掛け算表を埋めるのは退屈で、子どもたちはすぐに掛け算ではなく繰り返し足し算を使って埋めることに気づきます。掛け算の練習だけでなく、問題解決や因数分解の練習もするために、それらを混ぜ合わせた掛け算表を作成しましょう。\n"
+"\n"
+"**作り方:** これらの表を行や列を入れ替えて作成し、その後見出しや中央のほとんどの項目を省略します。\n"
+"\n"
+"**例:** こちらは2から9の見出しを使用した例です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to solve:** Start with the distinctive entries.\n"
+"\n"
+"The 20 forces its row to be multiplying by 4, and then the 36 makes its column be 9.\n"
+"\n"
+"The 49 forces its column and row to be multiplying by 7. The 9 forces its column and row to be multiplying by 3."
+msgstr ""
+"**解決方法:** 最初に特徴的な項目から始めます。\n"
+"\n"
+"20はその行が4と掛け算をすることを強制し、次に36はその列が9になるようにします。\n"
+"\n"
+"49はその列と行が7と掛け算をすることを強制します。9はその列と行が3と掛け算をすることを強制します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue the detective work in this way and fill in the entries as the headings are discovered."
+msgstr "このように探偵のように調べながら、見出しがわかる項目を埋めていきます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Level of difficulty:** Increase or decrease the difficulty by leaving out more or less of the numbers. In this example, the '5' in the 5 column could have been left out – there must be a factor of 5 in 20, and that factor cannot come from 20's row because there is a 36 in that row.\n"
+"\n"
+"**Your child can make them:** Challenge your child to make one of these puzzles for you. A lot of good thought can go into creating one of these!"
+msgstr ""
+"**難易度:** 難易度を上げたり下げたりするために数字をもっと省略したり、少なくしたりします。この例では、5列の 「5」を省略することもできました。20には 5 の因数が必要ですがその因数は20の行からは出せません。なぜならその行には36があるからです。\n"
+"\n"
+"**お子さんが作ることもできます:** お子さんにこれらのパズルの1つを作ってもらいましょう。これを作るには多くの良い考えが必要ですよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "RECTANGLE AREA"
+msgstr "長方形の面積"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The area of a rectangle is its length times its width. That dry statement can be made tangible to your child in at least two ways."
+msgstr "長方形の面積は、その長さと幅を掛け算したものです。この単純な説明はお子さんに少なくとも2つの方法で具体的に示すことができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The first way uses rectangles broken into an array of squares. The second uses number shapes to see how a quantity, such as 12, can be placed into an array – 3 by 4, 2 by 6, or 1 by 12. Playing with rectangle areas gives us an arena to play around with multiplication and factoring!"
+msgstr "最初の方法は、長方形を小さな正方形の配列に分ける方法です。二番目は、数の形を使って12のような数量がどのように配列できるかを示す方法です。– 例えば、3×4、2×6、または1×12です。長方形の面積を扱うことで掛け算や因数分解を遊びながら学ぶことができます！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES REVISITED"
+msgstr "数の形の再考"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area"
+msgstr "長方形の面積"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a large collection of small objects, such as raisins. For each number, investigate which rectangles and other shapes you can make with that many objects.\n"
+"\n"
+"**Rectangles:** The sides of rectangles are values that evenly divide the number and multiply together to give the number. Making rectangles is a direct way to experience divisibility."
+msgstr ""
+"小さな物、例えばレーズンの大きな集合から始めます。各番号について、その数の物で作れる長方形やその他の形を調べてみましょう。\n"
+"\n"
+"**長方形:** 長方形の辺は、その数を均等に割り切り、掛け合わせてその数を得る値です。長方形を作ることは、割り算を体験する直接的な方法です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Unit, prime, composite:** 1 is a unit, and can only be made with a 1 by 1 rectangle. The numbers, such as 5, that only have flat rectangles, are called primes. Numbers that are not a unit or a prime are called composite because they are composed of primes being multiplied together, such as 12 = 2 × 2 × 3. Numbers, such as 9, are called squares because one of their rectangles is a square – one rectangle for 9 is the 3 by 3 square."
+msgstr "**単位、素数、合成数:** 1は単位であり、1×1の長方形でしか作れません。5のように平面の長方形だけが作れる数は素数と呼ばれます。単位でも素数でもない数は合成数と呼ばれ、素数を掛け合わせてできるためです。例えば、12=2×2×3のようにです。9のような数は平方数と呼ばれ、1つの長方形が正方形になるためです。9の場合、1つの長方形は3×3の正方形です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Trapezoidal numbers:** There are other shapes that are fun to investigate. For example, which numbers are trapezoidal? These are the numbers that can be represented as stair steps (where each level changes its length by 1)? If you include triangular numbers in this group, the answer is surprising – it is all numbers that are not a power of 2!"
+msgstr "**台形数:** 他にも調べるのが楽しい形があります。例えばどの数が台形数でしょうか？これらは階段のように表現できる数です（各段が1ずつ長さが変わります）。もしこのグループに三角数を含めると、答えは驚くべきものです。それは、2の累乗でないすべての数です！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PADDOCK GAME"
+msgstr "パドックゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player gets a piece of graph paper.\n"
+"\n"
+"**How to play:** For a player’s turn, use two playing cards from 1 to 10 to determine the dimensions of a rectangle. If a player’s paper has room, the rectangle may be placed anywhere its interior does not overlap with an existing rectangle. Once placed, its interior is lightly shaded and its area and dimensions are written on it. If there is no room, the turn is skipped.\n"
+"\n"
+"**How to win:** The player with the largest total wins."
+msgstr ""
+"**準備:** 各プレイヤーは1枚のグラフ用紙を準備します。\n"
+"\n"
+"**遊び方:** プレイヤーのターンでは、1から10の2枚のトランプカードを使って長方形の寸法を決めます。もしプレイヤーの用紙にスペースがあれば、長方形は既存の長方形と重ならない場所に配置できます。配置したら、その内部を軽く色付けし、面積と寸法を記入します。もしスペースがなければ、そのターンはスキップされます。\n"
+"\n"
+"**勝利方法:** 合計が大きいプレイヤーが勝利です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For a normal piece of graph paper, this can be a long game – reduce the time by using half the paper or limiting the number of turns."
+msgstr "普通のグラフ用紙を使うと、このゲームは長時間かかることがあります。時間を短縮するために紙の半分を使うか、ターンの回数を制限してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIVIDE UP THE BOX"
+msgstr "箱を分ける"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area Games"
+msgstr "長方形の面積ゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** A rectangle, 4 by 4 or larger, with numbers in some of its squares, is to be divided into smaller rectangles. Each number must end up in a separate rectangle whose area is that number."
+msgstr "**挑戦:** 4×4以上の大きさの長方形がいくつかの小さな長方形に分割され、そのうちいくつかのマス目には数字が入っています。各数字は、面積がその数字に等しい別々の長方形に分けられなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Out of the sight of your child, create these puzzles by first filling in the big rectangle with smaller rectangles. Next, place the area in each rectangle. Lastly, give your child the big rectangle with only the numbers."
+msgstr "**作り方:** お子さんの視界から外れて、大きな長方形をまず小さな長方形に分割してパズルを作ります。次に、それぞれの長方形に面積を記入します。最後に、数字だけが書かれた大きな長方形をお子さんに渡します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving strategies"
+msgstr "解法の戦略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To solve these puzzles, look first at areas that are prime numbers – their shapes are tightly constrained.\n"
+"\n"
+"Next, consider regions that are boxed in. In this puzzle the upper “4” must relate to the upper left 2 by 2 square. Also, the upper right corner must be used in a vertical 3 by 1 rectangle."
+msgstr ""
+"これらのパズルを解くためにはまず素数の面積に注目してください。それらの形状は厳しく制約されています。\n"
+"\n"
+"次に、囲まれた領域を考慮します。このパズルでは、上の「4」は上左の2×2の四角形に関連しています。また、上右の隅は縦の3×1の長方形として使用しなければなりません。"
 
 #. type=data_list
 msgctxt "data_list"
