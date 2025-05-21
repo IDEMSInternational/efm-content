@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-21 04:06\n"
+"PO-Revision-Date: 2025-05-21 05:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8099,6 +8099,216 @@ msgstr ""
 "これらのパズルを解くためにはまず素数の面積に注目してください。それらの形状は厳しく制約されています。\n"
 "\n"
 "次に、囲まれた領域を考慮します。このパズルでは、上の「4」は上左の2×2の四角形に関連しています。また、上右の隅は縦の3×1の長方形として使用しなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A DEFINITION AND A RULE"
+msgstr "定義と規則"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The definition:** Just as 4 × 2 is a quick way to write 2 + 2 + 2 + 2, so 2<sup>4</sup> is a quick way to write 2 × 2 × 2 × 2. It’s much easier to say and understand the phrase “two to the fourth,” than to say “two times two times ... “\n"
+"\n"
+"**Special names:** The second power, 4<sup>2</sup> for example, can be said **four squared,** and the third power, 4<sup>3</sup> for example, can be said **four cubed.**\n"
+"\n"
+"**The rule:** When powers of the same number are multiplied, a simple rule governs how to simplify the result – add the powers. For example, if you do 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, we have two fours multiplied by three fours, so the result is five fours being multiplied.\n"
+"\n"
+"**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
+msgstr ""
+"**定義:** 4x2 が 2+2+2+2 を簡単に書く方法であるのと同じように、2<sup>4</sup> は 2 × 2 × 2 × 2</sup> を簡単に書く方法です。「二の四乗」と言う方が、「二かける二かける…」と言うよりもずっと簡単で理解しやすいです。\n"
+"\n"
+"**特別な名前:** 二乗、例えば 4<sup>2</sup> は「四の二乗」と言え、三乗、例えば 4<sup>3</sup> は「四の三乗」と言えます。\n"
+"\n"
+"**規則:** 同じ数字の累乗が掛け合わされるとき、結果を簡単にするための単純な規則があります。それは累乗を足すことです。例えば、4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, のように、2つの4が3つの4と掛け合わされると、結果は5つの4が掛け合わされることになります。\n"
+"\n"
+"**注意:** この累乗の指数を足す規則は、同じ数字が累乗されている場合にのみ適用されます。例えば、3<sup>2</sup> × 5<sup>3</sup> のような式は簡単に簡略化することはできません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "古い足し算の活動を再利用する"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "累乗を感じる"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**パズルとゲームの再利用:** 累乗が掛け算されるときに指数が足し合わされるため、以前の足し算に関するゲームやパズルを使って累乗の掛け算の練習ができます。これらの古い足し算の活動の例としては、ステージ3のシェイプサムやサムグループ、ステージ4の囲まれた合計やサムトライアングル、そして修正などがあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr "左側にはステージ3のシェイプサムの2つの例があります。右側には足し算の代わりに掛け算を使用したシェイププロダクトの同じ例があります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "累乗を扱うことは、元の足し算の問題と同じように習慣となり、簡単になります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "もしお子さんがこれらの問題を楽しんでいて、さらに挑戦をしたい場合は、複数の数字を累乗する問題を取り入れてみましょう。例えば、(4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) を掛け算すると、4の累乗と3の累乗にそれぞれ規則を適用して、結果として 4<sup>7</sup> × 3<sup>5</sup>. が得られます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "因数の木"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "素因数分解の発見"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "因数分解木のモデルは、前回の「累乗を感じる」ページでの形状積の拡張です。因数分解木を作成する目標は、数をその素因数に分解することです。因数分解木を構築する過程で、数について多くのことを学ぶことができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr ""
+"**例:** まず54という数から始めます。この数は何通りかに分解できます。一つの方法は9x6、別の方法は18x3、さらに別の方法は3x3x6です。それぞれが因数分解木の始まりを作ります。\n"
+"\n"
+"これらの木はそれぞれ最終的に同じ素因数を葉に持ちます。いずれの場合も最終的には2x3x3x3になりますが、そこに到達する方法が異なることに注目してください！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "質問"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"このような例をいくつか行った後、お子さんは自然にいくつかの質問をし始めるかもしれません。\n"
+"\n"
+"* なぜいくつかの木は他の木よりも階層が多いのですか？\n"
+"* なぜいくつかの木は他の木よりも広いのですか？\n"
+"* なぜ葉はいつも素因数で終わるのですか？\n"
+"* なぜ葉はいつも同じ素因数のリストを持っているのですか？（並べ替えられているかもしれませんが）」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "素因数分解の練習"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "旅行中や暇な時に、順番に素因数分解をしてみましょう。これにより累乗について話す練習にもなります。素因数分解を楽にできるようになることは、今後さまざまな場面で役立ちます。例えば分数の計算などです。楽しみながら進め、無理にお子さんを快適な範囲を超えて進ませないようにしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "朗読"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"朗読はこのように進みます:\n"
+"\n"
+"1. 単位\n"
+"2. 素数\n"
+"3. 素数\n"
+"4. 2の二乗\n"
+"5. 素数\n"
+"6. 2 x 3\n"
+"7. 素数\n"
+"8. 2の三乗\n"
+"9. 3の二乗\n"
+"10. 2 x 5\n"
+"11. 素数\n"
+"12. 2の二乗x3\n"
+"13. 素数\n"
+"14. 2 x 7\n"
+"15. 3 x 5\n"
+"16. 2の四乗\n"
+"17. 素数\n"
+"18. 2 x 3 の2乗 \n"
+"19. 素数\n"
+"20. 2の２乗 x 5\n"
+"21. 3 x 7\n"
+"22. 2 x 11\n"
+"23. 素数\n"
+"24. 2の3乗 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "積のピラミッド"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "素因数分解と素数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"これらのパズルは、ステージ4で見られた足し算ピラミッドの掛け算バージョンです。目標値となる数字と数字のピラミッドが提供されます。\n"
+"\n"
+"**挑戦:** 挑戦はピラミッドの中で繋がった数字の道を見つけ、その選ばれた数字の積が目標値になるようにすることです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"このピラミッドでは、目標値は36で、赤い線はうまくいく道を示しています。\n"
+"\n"
+"これらのパズルは、目標値の素因数分解を行うことで簡単になります。36=2×2×3×3 なので、これらの素因数は道に沿って選ばなければならず、これが探索の手助けになります。\n"
+"\n"
+"素因数分解について知っていることは、これらのパズルを作成するのを簡単にさせます。"
 
 #. type=data_list
 msgctxt "data_list"
