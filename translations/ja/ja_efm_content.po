@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-20 22:49\n"
+"PO-Revision-Date: 2025-05-21 00:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7616,6 +7616,31 @@ msgstr ""
 msgctxt "data_list"
 msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
 msgstr "**例:** この例ではすべてのカードが裏返しになっていると仮定します。もしお子さんが63のカードを裏返すと選択した場合、それが7と9から来ていることが分かります。63と同じ行または列にある他のカードを裏返すと、7と9の位置がわかります。2回目に裏返したカードが56だとします。3列目は7が入り、2行目は9で3行目は8になることが分かります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER FACTORS AND MULTIPLES"
+msgstr "因数と倍数を隠す"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Have a board of numbers from 1 to 24. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens."
+msgstr "**準備:** 1から24の数字が書かれたボードを用意します。駒は2種類あり、1つは「最後の動き」のために予約された単一の駒と、もう1つはその他の駒が積まれています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** The first player gets to pick any number and cover it with the last move token. After that, a player replaces the last move token with the other type of token and moves the last move token to any number that is a factor or multiple of the number from the last move.\n"
+"\n"
+"**How to win:** The losing player is the one forced to cover the number 1.\n"
+"\n"
+"**Example:** This board shows the middle of a game that started 10 -> 5 -> 15 -> 3."
+msgstr ""
+"**遊び方:** 最初のプレイヤーはランダムに数字を選び、最終手番駒を置きます。そしてプレイヤーは最終手番駒をほかの種類の駒に置き換え、最終手番駒を前回置かれた数の倍数または約数の数に移動させます。\n"
+"\n"
+"**勝利方法:** 負けたプレイヤーは1の数に駒を置かなければならないプレイヤーです.\n"
+"\n"
+"**例:** このボードは、10 -> 5 -> 15 -> 3 から始まったゲームの途中経過を示しています。"
 
 #. type=data_list
 msgctxt "data_list"
