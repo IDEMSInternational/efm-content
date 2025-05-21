@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-21 05:06\n"
+"PO-Revision-Date: 2025-05-21 12:18\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8309,6 +8309,11 @@ msgstr ""
 "これらのパズルは、目標値の素因数分解を行うことで簡単になります。36=2×2×3×3 なので、これらの素因数は道に沿って選ばなければならず、これが探索の手助けになります。\n"
 "\n"
 "素因数分解について知っていることは、これらのパズルを作成するのを簡単にさせます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100の笑い"
 
 #. type=data_list
 msgctxt "data_list"
