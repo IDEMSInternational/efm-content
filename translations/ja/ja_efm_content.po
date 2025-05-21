@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-21 01:03\n"
+"PO-Revision-Date: 2025-05-21 02:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7741,6 +7741,53 @@ msgstr ""
 "* 交差させるべき最後の素数はどれですか？ 他の素数はなぜ役に立たなかったのですか？\n"
 "* 役に立ったすべての素数について、それらの倍数のうち新たな制限を生んだものと、役に立たなかったものはどれですか？ その答えにはパターンがありますか？\n"
 "* もし53のような数字があった場合、それが素数であることを確認するためには、どの素数で割る必要がありますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MIX IT UP"
+msgstr "混ぜてみよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use numbered cards from 1 to 25, or a range your child is comfortable with.\n"
+"\n"
+"**How to play:** A card is selected at random and used as everyone’s target number. That card is returned to the deck. Each player is dealt five cards to be used, in any order and with any operations, to get as close as possible to the target number.\n"
+"\n"
+"**Examples:** Suppose the target number is 14, and you are dealt 3, 6, 12, 17, and 20. 17 - 3 or 20 - 6 work, but only use two cards. 20 - 12 + 6 uses three cards. 17 x (6 / 3) - 20 or 20 - (12 /  (6  /  3)) use four cards, so that's an improvement, if you're trying to use all the cards. Can you find a way to use all five?"
+msgstr ""
+"**準備:** １から25までの番号が書かれたカード、またはお子さんが慣れている範囲のカードを用意します。\n"
+"\n"
+"**遊び方:** カードがランダムに選ばれ、皆のターゲットとなる数字として使われます。そのカードはデッキに戻されます。各プレイヤーには5枚のカードが配られ、そのカードをどんな順番でも、どんな計算式でも使って、ターゲットの数字にできるだけ近づけるようにします。\n"
+"\n"
+"**例:** ターゲットの数字が14で、配られたカードが3、6、12、17、20だとします。17 - 3や20 - 6は2枚のカードを使って正解になります。20 - 12 + 6は3枚のカードを使います。17 x (6 / 3) - 20や20 - (12 / (6 / 3))は4枚のカードを使うので、全てのカードを使おうとするなら改善策になります。では、全ての5枚のカードを使う方法を見つけることができますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring options"
+msgstr "得点方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are several options for scoring, and you may think of your own.\n"
+"\n"
+"* 1 point to each player who hits the target. Total over several rounds.\n"
+"* A player's score for a round is the difference between their result and the target. The\n"
+"scores are totaled over several rounds, and the lowest total score wins.\n"
+"* A player earns twice as many points as the number of cards they use to reach the target; a player receives 5 points for hitting the target with help; and a player receives\n"
+"6 points for helping someone hit the target."
+msgstr ""
+"得点方法にはいくつかのオプションがあり、ご自身で考える事もできます。\t\n"
+"\n"
+"* ターゲットに到達した各プレイヤーに1ポイント。複数ラウンドで合計します。\n"
+"* プレイヤーのラウンドごとのスコアは、結果とターゲットとの差です。複数ラウンドで合計したスコアが最も低いプレイヤーが勝者となります。\n"
+"* プレイヤーは、ターゲットに到達するために使ったカードの枚数の2倍のポイントを得ます。ターゲットに到達するのを手伝った場合、プレイヤーは5ポイントを獲得します；そして、誰かがターゲットに到達するのを手伝ったプレイヤーは6ポイントを獲得します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PARENTHESES PUZZLES"
+msgstr "括弧のパズル"
 
 #. type=data_list
 msgctxt "data_list"
