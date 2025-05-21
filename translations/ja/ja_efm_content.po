@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-05-21 02:06\n"
+"PO-Revision-Date: 2025-05-21 03:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7788,6 +7788,134 @@ msgstr ""
 msgctxt "data_list"
 msgid "PARENTHESES PUZZLES"
 msgstr "括弧のパズル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Take an expression, such as \n"
+"\n"
+"2 + 7 × 5 − 2 × 2\n"
+"\n"
+"and add parentheses to it so that a target result, say 9, is obtained.\n"
+"\n"
+"**How to create:** These are easy to create and tailor to you child's skill set. Take any equation, in our case \n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+"and then remove the parentheses. It's as simple as that! \n"
+"\n"
+"Use the operations and numbers that your child is comfortable with. Use shorter expressions and fewer parentheses to make simpler puzzles."
+msgstr ""
+"**挑戦:** 式、例えば $2+7\\times 5－2 \\times 2$ を取り、それに括弧を追加して、目標の結果、例えば9を得るようにします。\n"
+"\n"
+"**作り方:** これらは簡単に作成でき、お子さんのスキルに合わせて調整できます。例えば、\n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+"のような式を取り、そこから括弧を取り除くだけです。それだけで簡単にできます！\n"
+"\n"
+"お子さんが使い慣れている計算や数字を使いましょう。短い式や少ない括弧を使うことで、より簡単なパズルを作ることができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SECRET OPS"
+msgstr "秘密の演算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Near the end of Stage 4, the Sum Difference activity had one person think of two numbers and then challenge the other person to find the numbers by telling them the sum and difference of the numbers. Secret Ops uses the same idea, only now the challenger can use any two operations, such as multiplying and subtracting.\n"
+"\n"
+"**Examples:** The challenger might say “Which two numbers have a product of 12 and a difference of 4?” You can extend this to three numbers, if you like - “Which three numbers have a product of 12 and a sum of 8?”"
+msgstr ""
+"ステージ4の終わり近くで、合計差のアクティビティでは、1人が2つの数字を考え、もう1人がその数字を見つけるように挑戦し、その際、数字の合計と差を教えます。秘密の演算では同じアイデアを使用しますが、今回は挑戦者が掛け算や引き算など、任意の2つの演算を使用できるようになっています。\n"
+"\n"
+"**例:** 挑戦者は「積が12で差が4の2つの数字はどれですか？」と言うかもしれません。このアイデアを3つの数字に拡張することもできます。例えば「積が12で合計が8の3つの数字はどれですか？」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LEVER BALANCE"
+msgstr "てこのつり合い"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mixed Operations"
+msgstr "混合演算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Levers:** Use the lever principle to practice multiplication and addition. The principle says that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
+msgstr "**てこ:** てこの原理を使って掛け算と足し算を練習します。この原理では、てこの一方の側にある質量が与える力は、その質量と支点からの距離を掛けたものに等しいとされています。一方の側にある複数の質量による力は合計され、全体の力が求められます。そして、てこがバランスを保つためには、両側の力の合計が等しくなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Examples:** You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be distances 5 and 3, but it can also be 10 and 6, or even larger answers like 15 and 9.\n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? What if the two weights are on different sides of the lever? This question continues the questions on the Make It Count page at the end of Stage 4."
+msgstr ""
+"**例:** 3ユニットの重さと5ユニットの重さを支点の反対側に置いてバランスを取るには、どこに置けばよいでしょうか？この答えは、距離5と3でもよいですが、10と6、またはさらに大きな答えとして15と9のようなものも可能です。\n"
+"\n"
+"もし、3ユニットと5ユニットの重さをレバーの一方に置く場合、反対側にはどのような重さと距離を置くことができるでしょうか？もし、2つの重さがレバーの異なる側にある場合はどうでしょうか？この質問は、ステージ4の最後にある「一緒に数えよう」ページの質問を続けています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BEEP"
+msgstr "ビー"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Put the players in a circle. Start by identifying a group of numbers to use for a round of the game. Choose any group of numbers that would be fun or that provide practice with a concept. Some standard choice are:\n"
+"\n"
+"* odd numbers or even numbers\n"
+"* multiples of 3 (or some other number)\n"
+"* multiples of 3 together with multiples of 7\n"
+"* multiples of 3 that are not multiples of 5\n"
+"* multiples of 3 together with numbers that have the digit 3 in them \n"
+"* prime numbers\n"
+"\n"
+"**How to play:** Going around the circle, the players take turns saying the numbers starting at 1. When a player has a number in the group, they must say 'beep' instead of the number. If a player fails to say beep, or says beep for an incorrect number, they’re out.\n"
+"\n"
+"**How to win:** The last player remaining in wins!"
+msgstr ""
+"**準備:** プレイヤーを円形に配置します。ゲームのラウンドで使用する数字のグループを最初に決めます。楽しいものや概念の練習になる数字のグループを選びましょう。一般的な選択肢には次のようなものがあります。\n"
+"\n"
+"* 奇数か偶数\n"
+"* 3の倍数 (または他の数の倍数)\n"
+"* 3の倍数と7の倍数\n"
+"* 3の倍数で5の倍数ではない \n"
+"* 3の倍数と、数字に3が含まれている数\n"
+"* 素数\n"
+"\n"
+"**遊び方:** 円を回りながら、プレイヤーは1から始めて順番に数字を言います。もしその数字がグループに含まれていれば、そのプレイヤーは数字の代わりに「ビー」と言わなければなりません。プレイヤーが「ビー」を言い忘れるか、間違った数字で「ビー」と言った場合、そのプレイヤーはアウトになります。\n"
+"\n"
+"**勝利方法:** 最後に残ったプレイヤーが勝ちです！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 IN A ROW"
+msgstr "3つの列"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9, or use four sets of Number Cards from 0 to 9. Use a 4 by 5 grid on a paper with 20 spaces randomly filled out with multiples of 5 and 10. Have a set of tokens for each player.\n"
+"\n"
+"**How to play:** Select a random card and put your token on that number times 5 or 10 - your choice. Once occupied, the other player cannot move there.\n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**準備:** Q（0として）、A（1として）、および2から9のカードが含まれたデッキを使用するか、0から9までの数字カードを4セット使用します。紙に4×5のグリッドを作り、20のスペースにランダムに5の倍数と10の倍数を埋めます。各プレイヤーにはコマをセットします。\n"
+"\n"
+"**遊び方:** ランダムにカードを選び、その番号の5倍または10倍の場所に自分のコマを置きます（選択肢は自由です）。一度その場所が占められると、他のプレイヤーはそこに移動できません。\n"
+"\n"
+"**勝利方法:** 初めに3つの列を獲得した人が勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The numbers 5 and 10 can be replaced by other pairs such as 2 and 4, or 3 and 6. These pairings help with practicing doubling strategies for multiplication. For example, if the player does not know 6 × 7, they can double 3 × 7."
+msgstr "5と10は、2と4や3と6のような他のペアに置き換えることができます。これらのペアは、掛け算の倍数戦略を練習するのに役立ちます。例えば、もしプレイヤーが6×7を知らなければ、3×7を倍にすることで解くことができます。"
 
 #. type=data_list
 msgctxt "data_list"
