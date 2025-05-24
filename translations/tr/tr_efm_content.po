@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 18:50\n"
+"PO-Revision-Date: 2025-05-24 20:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8690,6 +8690,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
 msgstr "Oyuncunun başlangıç sayısını değiştirmesine izin vermeyebilirsiniz. Yalnızca bir kez yarıya indirmeye izin verebilirsiniz. Son olarak, hedef sayıdan başlayıp 0'a kadar çıkarak çıkarma pratiği yapabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING EVENS AND ODDS"
+msgstr "ÇIFT VE TEK SAYILARI SAYMA"
 
 #. type=data_list
 msgctxt "data_list"
