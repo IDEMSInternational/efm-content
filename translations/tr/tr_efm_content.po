@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 03:25\n"
+"PO-Revision-Date: 2025-05-24 04:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7465,6 +7465,259 @@ msgstr ""
 "**Puanlama seçenekleri:** Kazanan oyuncunun puanı 2 şekilde hesaplanabilir. Geleneksel hesaplamada, diğer tüm oyuncuların taşlarındaki noktaların toplamı baz alınır. Turlar, oyunculardan birisi 50 veya 100 puana ulaşana kadar devam eder. Yaşı küçükler için uygulanan daha iyi bir puanlama sisteminde, kazanan oyuncunun diğer tüm oyuncuların taşlarının sayısı kadar olan puanı almasına izin verilir.\n"
 "\n"
 "**Oyunun farklı versiyonları:** Çocuğunuz toplama işlemini yapmaya başladığında, oyundaki eşleştirme kuralını değiştirin—örneğin, eğer 2 taş eşleşirse sayılarının toplamını 6 yapın (veya daha geniş bir domino aralığı kullanılıyorsa, bu değer 9 olabilir)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "BIR VEYA İKI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**Oyuna Hazırlık:** Çocuğunuzun rahatlıkla sayabildiği sayı aralığındaki sayılardan oluşan sayı kartlarıyla bir kart destesi oluşturun. Kartları iki oyuncu arasında eşit olarak paylaştırın ve kartları sayıları yere bakacak şekilde ters çevirip koyun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**Nasıl oynanır?** Oyuncular, sırayla ortadaki kart destesinin üzerine bir kart yerleştirirler. Yerleştirdikleri kartın üzerindeki sayı, bir önceki kartın sayısından 1 fazla, o sayıyla aynı veya o sayıdan 1 eksik ise, ‘bir fazla’, ‘aynı’ veya ‘bir eksik’ diye bağıran ilk oyuncu, ortadaki kart destesindeki tüm kartları kazanır.\n"
+"\n"
+"**Nasıl kazanılır?** Oyunu bitirdiğinizde, en çok kart toplayan veya herkesten daha büyük kart destesine sahip olan kişi oyunu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* Seçenek olarak, ‘iki fazla’ ve ‘iki eksik’ sayı ilişkilerini ekleyebilirsiniz.\n"
+"* Bir hedef toplam kullanabilirsiniz, örneğin, sayıların toplamı 10 olsun. En üstteki iki kartın bu hedefe ulaştığını söyleyen ilk kişi siz olabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "1 VEYA 2 ILE NIM OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "Yakin Sayilar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 10. Let your child choose to go first or second. \n"
+"\n"
+"**How to play:** Start at 0. Players take turns adding 1 or 2 to the current total. Count aloud the progress for each turn.\n"
+"\n"
+"**How to win:** The player who lands on the target (e.g. 10) wins."
+msgstr ""
+"**Oyuna Hazırlık:** Bir hedef sayı seçin, mesela 10. Çocuğunuzun birinci mi ya da ikinci mi olmayı istemesine izin verin.\n"
+"\n"
+"**Nasıl oynanır?** 0’dan başlayın. Oyuncular sırayla mevcut toplama 1 veya 2 ekler. Her turda, ilerlemenizi yüksek sesle sayın.\n"
+"\n"
+"**Nasıl kazanılır?** Oyunu hedefe (örneğin, 10’a) ulaşan ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Once children learn to play this verbally, it is a great travel game.\n"
+"• Use a pile of objects. Players add one or two objects to the pile until the target quantity\n"
+"is reached.\n"
+"• Use a number line. Advance a marker along the line one or two spaces during a move.\n"
+"• Use subtraction. Players start at the target, say 10. On their turn, players choose whether\n"
+"to subtract 1 or 2. The first person to reach 0 wins.\n"
+"• Use larger target numbers as your child’s skills improve.\n"
+"• Instead of winning, the player forced to hit or go beyond the target number loses.\n"
+"• Allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"* Çocuklar bu oyunu sözlü olarak oynamayı öğrendiklerinde, oyun, harika bir seyahat oyunudur.\n"
+"* Oyunda bir sürü sayılabilir nesneler kullanabilirsiniz. Oyuncular, hedefe ulaşılıncaya kadar bu nesneler yığınına bir veya iki adet nesne eklerler.\n"
+"* Bir sayı doğrusu kullanabilirsiniz. Bu durumda, her hamlede, 1 veya 2 birim ilerledikçe bunu gösteren bir belirteç kullanın.\n"
+"* Çıkarma işlemini kullanabilirsiniz. Oyuncular bir hedef sayıdan, mesela 10’dan, başlasınlar ve sıraları geldiğinde, hedeften 1 sayısını mı yoksa 2’yi m çıkaracaklarına kendileri karar versinler. Oyunu, 0’a ulaşan ilk oyuncu kazanır.\n"
+"* Çocuğunuzun becerileri geliştikçe daha büyük hedef sayılarını kullanabilirsiniz.\n"
+"* Kazanmak yerine, hedef sayıya ulaşmaya veya hedef sayının da ötesine geçmek zorunda kalan oyuncu oyunu kaybeder.\n"
+"* Her turda, bir oyuncunun hedef sayıya 1, 2 veya 3 eklemesine (veya çıkarmasına) izin verin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – SINGLE-DIGIT COMPARING"
+msgstr "SAYI SAVAŞI — TEK BASAMAKLI SAYILARI KARŞILAŞTIRMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove the cards from two, four, or six Number Decks outside your child’s comfort range. Split the cards evenly in two piles face down."
+msgstr "**Oyuna Hazırlık:** Sayı destesinden çocuğunuzun rahatlıkla sayabildiği sayılar dışındakileri çıkarın. Ardından, kartları yüzleri aşağı bakacak şekilde ters çevirip eşit sayıda iki ayrı desteye bölüştürün."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Flip over the top cards and the player with the larger card keeps both cards. If the cards match, flip the next two cards and the winner gets all four cards."
+msgstr "**Nasıl oynanır?** Oyuncular, üstteki kartları sayıları görünecek şekilde düz çevirir. Sayı değeri o en büyük kartı olan oyuncu her iki kartı da alır. Eğer kartların sayıları eşleşirse, o zaman, sonraki iki kart da ters çevrilir ve yine en büyük sayı kartına sahip olan oyuncu bu sefer dört kartı da alır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The player with the most cards after one or more runs through all the cards is the winner.\n"
+"\n"
+"**Variations:** To change things up, sometimes play that the smaller of the two cards wins."
+msgstr ""
+"**Nasıl kazanılır?** Oyuncu, birkaç tur sonunda en çok karta sahip olan oyuncu kazanır.\n"
+"\n"
+"**Oyunun farklı versiyonları:** Oyunu biraz değiştirmek için bazen iki karttan değer olarak daha küçüğünün kazandığı versiyonu oynayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing"
+msgstr "Karşılaştırma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is an introductory version of a fun game we will revisit again soon.\n"
+"\n"
+"**How to play:** There are two people: the Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (for example). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number.\n"
+"\n"
+"**Use cards:** With younger children, play this game with counting cards from 0 to 8 placed face up. Hide a star under one of the cards. After each guess, the Questioner turns over all the eliminated cards until the star is discovered."
+msgstr ""
+"Bu, ilerleyen bölümlerde tekrardan bahsedeceğimiz eğlenceli bir oyunun giriş versiyonudur.\n"
+"\n"
+"**Nasıl oynanır?** Oyunda iki kişi olsun: Bir oyuncu bir sayı düşünür, sonra diğer oyuncu, o sayıyı tahmin etmeye çalışır. Örneğin, 1. oyuncu, “0 ile 8 arasında bir sayı tuttum” der ve sonra, 2. oyuncu bu sayıyı çeşitli sorular sorarak bilmeye çalışır; mesela, “Tuttuğun sayı 3’le nasıl değişir?” diye sorar. 1. oyuncu da o sayının 3’ten daha mı küçük, 3’e eşit mi yoksa 3’ten daha mı büyük olduğunu söyler.\n"
+"\n"
+"**Sayı kartlarını kullanın:** Bu oyunu küçük çocuklarla oynayacaksanız, 0’dan 8’e kadar olan sayı kartlarını kullanarak, kartların yüzleri dönük bir şekilde, oynayabilirsiniz. Kartlardan birinin altına bir yıldız saklayabilirsiniz. Her tahminden sonra, soruyu soran oyuncu bu yıldızı bulana kadar elenen kartları çevirecektir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** The game pictured above uses cards with a target of 5.\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. \n"
+"Question: How does your number compare to 3? \n"
+"Puzzler: My number is larger than 3.\n"
+"Question: How does your number compare to 6? \n"
+"Puzzler: My number is smaller than 6.\n"
+"Question: How does your number compare to 5? \n"
+"Puzzler: Well done! My number is equal to 5."
+msgstr ""
+"**Örnek:** O sayı 5 olsun:\n"
+"\n"
+"1. oyuncu: 0’dan 8’e kadar bir sayı tuttum.\n"
+"2. oyuncu: Sayın 3’le nasıl değişir?\n"
+"1. oyuncu: Sayım 3’ten büyük.\n"
+"2. oyuncu: Sayın 6 ile nasıl değişir?\n"
+"1. oyuncu: Sayım 6’dan küçük.\n"
+"2. oyuncu: Sayın 5’le nasıl değişir?\n"
+"1. oyuncu: Bravo, bildin! Sayım 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "ALIP ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "Çocuğunuza bazı küçük nesnelerden az sayıda, mesela 7 tane, verip onları çocuğunuzla birlikte sayın. Ardından, bir hedef sayı belirleyin, mesela, o sayı da 5 olsun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "Sonra, çocuğunuzdan, o ilk baştaki 7 nesneden 5 nesneyi çıkarıp almasını isteyin. Bu aktivite, çocuğunuzun, sayıların göreceli miktarlarını ve birbirlerinden ne kadar büyük veya küçük olduklarını öğrenmesine yardımcı olacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "İlk başta hedef sayıyı toplam sayıya eşit veya ondan daha küçük de alabilirsiniz. Sonraki aşamalarda, hedef sayıya daha büyük sayılar atamak, miktarların göreceli büyüklüklerini öğrenme konusunda pratik sağlar. Bu, ayrıca, taleplerin makul olup olmadıklarını kontrol etme pratiği de sağlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "GÖRÜNMEZ TOPLAMA VE ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**Önce:** Çocuğunuzdan az sayıdaki nesneleri saymasını, ardından, o nesneleri bir kutuya koymasınıisteyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**Sonra:** Çocuğunuzdan, kutuda kaç nesne varsa o kadar sayıda parmaklarını kaldırmasını isteyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**Son olarak:** Çocuğunuza kutuya 1 veya 2 nesne eklediğinizi (veya çıkardığınızı) gösterip, ona, “Şimdi kutuda şimdi kaç nesne var?” diye sorun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "Bu aktivite, çocuğunuz için artık çok kolay bir aktivite hâline geldiğinde, kutuya bu kez 1 veya 2 nesne yerine daha fazla nesne ekleyebilir veya çıkarabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "SAYI DOĞRUSUNDAN SAVAŞ GEMISI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**Oyuna Hazırlık:** Her oyuncunun iki sayı doğrusu olacak—bir tanesi savaş gemisi için, diğeri ise tahminleri için. Sayı doğruları 0’dan 12’ye kadar olsun (ama eğer çocuğunuz 12’den daha büyük sayılara kadar sayabiliyorlarsa, sayı doğruları o sayılara kadar da gidebilir). Her oyuncu, birbirlerine göstermeden, savaş gemisi sayı doğrusundaki 2 sayıya belirteç koyar veya jeton yerleştirir—ki, bunlar, savaş gemileriniz olacak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**Nasıl oynanır?** Oyuncular sırayla o iki sayıyı tahmin etmeye çalışırlar. Bir oyuncu bir tahminde bulunduğunda, diğer oyuncu tahminin gerçek sayıya—ki, bu sayıya hedef sayı diyeceğiz—ne kadar yakın olduğunu söyler. Ardından, tahmin eden oyuncu bu bilgiyi kendisinin ikinci sayı doğrusunda işaretler.\n"
+"\n"
+"**Nasıl kazanılır?** Tüm hedef sayıları tahmin eden ilk kişi oyunu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* Daha geniş bir sayı aralığı kullanın.\n"
+"* Oyuncu, tahmin eden oyuncuya sayıyı direkt söylemek yerine onun hangi aralıkta veya mesafede olduğunu da belirtebilir. Örneğin, “en yakın gemi 1 veya 2 birim uzaklıkta!” gibi.\n"
+"* Gemilerin uzunluğunu 2 veya 3 birim yapabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "KAÇ TANESI YOK OLDU?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "Daha Büyük ve Daha Küçük Sayilar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "Bu aktivitede küçük boyutlarda ve az sayıda olan nesneleri sayacaksınız. Bunun için, çocuğunuz başka bir yöne baktığında, o nesnelerden birkaçını saklamalısınız. Çocuğunuz tekrar nesnelere baktığında, kaç tanesinin yok olduğunu sorun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**Örnek:** Bir masada 6 tane kuru üzümünüzün olduğunu varsayalım. Önce, çocuğunuzun başka bir yere bakmasını sağlayın, sonra, üzümlerden 2 tanesini bir kâseyle kapatın. Çocuğunuz tekrar üzümlere baktığında, geride kalan 4 kuru üzümü çocuğunuzla birlikte sayıp, ona, ilk baştaki 6 üzümden kaç tanesinin kâsenin altında olduğunu sorun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "Akıl yürütme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "Çocuğunuzun cevabı bulması için bir yöntem, 4’ten 6’ya kadar saymaktır—çocuğunuz 4’ten 6’ya kadar sayarken, yani saymaya ‘4’ diyerek başladığında, önce, hiç parmak kaldırmayın. Çocuğunuz ‘5, 6’ diye saymaya devam ederken, parmaklarınızı birer birer kaldırın; toplamda 2 tane parmağınızı kaldırmış olacaksınız. Benzer şekilde, çocuğunuz, 6’dan 4’e kadar “geriye doğru sayarken” de neredeyse aynı şeyi yapabilecektir. Sonuçta, 4 + 2’nin 6 olduğunu görmesi ile 4’ü elde etmek için 6’dan 2’yi çıkarmanın birbiriyle ilişkili olduğunu görmelidir. Bu aktiviteler, bu ilişkileri anlamak için harika pratiklerdir."
 
 #. type=data_list
 msgctxt "data_list"
