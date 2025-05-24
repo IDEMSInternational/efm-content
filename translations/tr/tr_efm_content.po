@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 16:53\n"
+"PO-Revision-Date: 2025-05-24 17:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8082,6 +8082,401 @@ msgstr ""
 "**Nasıl oynanır?** Oyuna başlayacak oyuncu, kartları dağıtırken, iki kartı düz olarak, üçüncü kartı da ters yani yüzü aşağı bakacak şekilde dağıtır. Oyuncu, ters çevrili olan üçüncü kartın sayı değerinin iki kart arasında olacağına dair bahis oynamaya karar verir ve ortaya 0 ila 3 jetonluk bahis koyar. Eğer oyuncu bahsi kazanırsa, diğer oyuncudan ortaya koyduğu kadar jeton alır. Ama bahsi kaybederse, kendisinin jetonları diğer oyuncuya gider.\n"
 "\n"
 "**Nasıl kazanılır?** Oyun, 5 tur veya oyunculardan birinin jetonu bitene kadar oynanabilir. Oyunu, oyun sonunda en çok jeton toplayan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SUDOKU"
+msgstr "SAYILI SUDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These are similar to the Shape Sudokus, only now they use numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper."
+msgstr ""
+"**Oyuna Hazırlık:** Sayılı sudoku bulmacası, şekilli sudoku bulmacasına benzer ancak sayılı sudokuda, şekiller değil sayılar (veya noktalar) vardır. Sayıların silinmesini önlemek ve bulmacaları çözmek için numaralı (veya noktalı) kâğıtlar kullanabilirsiniz.\n"
+"\n"
+"4x4 karelik bir sudoku bulmacası için, her satır ve sütunda 1’den 4’e kadar olan sayılardan sadece birer tane bulunabilir. Ayrıca, şekildeki gibi, her işaretli alt bölgelerde de 1’den 4’e kadar olan sayılar sadece birer kez bulunabilir. İşte bu kadar! Bu oyunu oynarken, çocuğunuzun anlaması için, önce, tamamen çözülmüş bir sudoku ile başlayın, ardından, bulmacanın bazı kısımlarını çıkararak oynamaya devam edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Variations:** For variety, use irregularly-sized subregions – these are called Jigsaw Sudoku puzzles. You can also create puzzles of larger size (two 5 by 5 puzzles are shown)."
+msgstr "**Farklı versiyonlar:** Oyuna çeşitlilik katmak için, yandaki şekildeki gibi, düzenli olmayan boyutlarda alt bölgeler kullanabilirsiniz; bu tür sudoku bulmacalarına Yapboz Sudoku denir. Ayrıca şekildeki 5x5 karelik gibi daha büyük boyutlu sudokular da oluşturabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU – COMPARING"
+msgstr "KARŞILAŞTIRMA — SUDOKU OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship.\n"
+"\n"
+"**Hungry alligator:** Tell a child who has never seen a comparison symbol, >, that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number.\n"
+"\n"
+"**Solving strategy:** First look for where the smallest and largest numbers are."
+msgstr ""
+"**Bu bulmacalar klasik Sudoku ile aynı kurallarla başlar—her bir sayı, her satır, sütun ve alt bölgelerde sadece 1 kez kullanılabilir. Ayrıca, iki kare arasında < (küçüktür) veya > (büyüktür) sembolü varsa, tüm karelerdeki sayıların bu ilişkiye uyması gerekir.\n"
+"\n"
+"**Aç Timsah:** Hayatında hiç < veya > gibi karşılaştırma sembollerini görmemiş olan çocuğunuza, büyüktür ‘>’ sembolünün geniş tarafının daha büyük olan sayı olduğunu anlatın. Bazı insanlar ‘>’ sembolünü aç bir timsahın ağzına benzetip timsahın ağzının geniş tarafının hep daha çok yemek yemek isteyen tarafa yani hep daha büyük sayıya doğru işaret ettiğini söylerler.\n"
+"\n"
+"**Çözüm Stratejisi:** Önce, sudokuda, en küçük ve en büyük sayıların nerede olduğuna bir bakın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n"
+"\n"
+"**Puzzle creation:** Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to get them started."
+msgstr ""
+"Çocuğunuz sodukuda daha iyi hâle geldikçe, bulmacaları daha zor hâle getirip eşitsizlik işaretlerinin daha fazlasını kullanmayı deneyebilirsiniz.\n"
+"\n"
+"**Bulmacayı Oluşturma:** Bu bulmacaları oluşturmanın bir yöntemi, tamamlanmış bir Sudoku bulmacasını kullanmaktır. Tamamlanmış bulmacanın aynı boyutunda boş bir kareli kâğıt alın ve karelerin arasında ‘> ve <’ işaretlerini yerleştirin. Çocuğunuz bunu anlamakta zorlanırsa, sudokuya birkaç sayı girerek işe başlayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE ME A LIAR"
+msgstr "BENI YALANCI YAP!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Someone makes a statement and the other players attempt to show that the statement maker is lying. The goal is to come up with a counterexample that shows that the statement is not always true.\n"
+"\n"
+"**Always true:** One type of statement is saying something is always true. Examples are:\n"
+"\n"
+"• All trucks have four wheels\n"
+"• All rectangles are squares\n"
+"• All birds can fly\n"
+"\n"
+"**If -> then:** Another type of statement is of the form “if then”. Examples are:\n"
+"\n"
+"• If today is Monday, then it is a school day\n"
+"• If I don’t eat for three hours, then I am hungry\n"
+"• If a person is taller than someone, then they are older"
+msgstr ""
+"Bu oyunda, oyunculardan birisi bir şey söyler ve diğer oyuncular da onun yalan söylediğini ispatlamaya çalışır. Amaç, iddia edilen tezin hep doğru olmadığını gösteren bir karşı örnek bulmaktır.\n"
+"\n"
+"**Her Zaman Doğru:** Bir tür bir ifade, bir şeyin her zaman doğru olduğunu söylemektir. Bu tür ifadeye verilebilecek bazı örnekler şunlardır:\n"
+"\n"
+"* Bütün kamyonların dört tekeri vardır.\n"
+"* Bütün dikdörtgenler karedir.\n"
+"* Bütün kuşlar uçabilir.\n"
+"\n"
+"**Eğer … ise→o zaman:** Başka bir ifade türü de “eğer… ise, o zaman” kalıbıdır. Bazı örnekler şunlardır:\n"
+"\n"
+"* Eğer bugün Pazartesi ise, o zaman bugün okul günüdür.\n"
+"* Eğer üç saat boyunca bir şey yemezsem, o zaman açım demektir.\n"
+"* Eğer bir kişi birinden daha uzunsa, o zaman o kişi daha yaşlıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CODEBREAKER"
+msgstr "KOD KIRICI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being Logical"
+msgstr "Mantikli Olma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
+msgstr "**Oyuna Hazırlık:** Bu oyunda kodları oluşturan bir ‘Kod Ustası’ ve bir de ‘Kod Kırıcı’ olur. Kodun üç basamaktan oluştuğunu ve koddaki sayıların da 1 ile 5 arasında olduğunu varsayalım. Bu oyundaki kodumuz, örneğin, 321 olsun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code."
+msgstr "**Nasıl oynanır?** Kod belirlendikten sonra, Kod Kırıcı bir tahminde bulunur ve Kod Ustası da onun tahminin gerçeğe ne kadar yakın olup olmadığı hakkında yorumda bulunur. Örneğin, Kod Kırıcı kodun 131 olduğunu söylesin. Bu durumda, Kod Ustası, onun, koddaki bir sayıyı çok doğru tahmin ettiğini ama bir diğer sayıyı da tahmin edebilmesine rağmen o sayının yanlış yerde olduğunu söyleyebilir. Kod Kırıcı kodu çözene kadar oyun bu şekilde böyle devam eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "**Nasıl kazanılır?** Yapılan doğru tahminlerin sayısı Kod Kırıcı için birer skor olarak kabul edilir. Bu oyunda, en az tahmin sayısıyla kodu en hızlı bilen, yani skoru en düşük olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Add challenge by having a maximum number of questions that are allowed.\n"
+"• Allow or disallow repeated numbers in the code.\n"
+"• Use shorter or longer lengths for the code.\n"
+"• Use a narrower or wider range of numbers for each place of the code."
+msgstr ""
+"* Kod kırıcının soracağı soru sayısını kısıtlayarak oyunu zorlaştırabilirsiniz.\n"
+"* Kodda sayıların tekrarlanmasına ya izin verebilir ya da izin vermeyebilirsiniz.\n"
+"* Kodun daha kısa veya daha uzun basamaklı olmasına karar verebilirsiniz.\n"
+"* Kodda her basamak için daha dar veya daha geniş bir sayı aralığı kullanabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "PARMAKLA 10’A KADAR TOPLAMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "Bu aktivitedeki iki farklı yöntemi göstermek için 4 + 2 işlemini örnek olarak kullanacağız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**1. Yöntem:** Toplama işlemindeki her iki sayı da 5’e eşit veya 5’ten küçükse bu yöntemi kullanın. Örneğin, 4 + 2 işlemi için, önce bir elinizdeki 4 parmağınızı, sonra diğer elinizdeki 2 parmağınızı kaldırın. Sonra, iki elinizi yan yana getirin. İşte bu kadar! Böyle yaptığınızda, çocuğunuz 4 + 2’nin 6 olduğunu görecektir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**2. Yöntem:** Sonucu 10 olan herhangi bir toplama ulaşmak için, sayılardan birinin “üstüne sayma” metodunu kullanın.\n"
+"\n"
+"**Örnek:** 4 ve 2’yi toplamak için, önce, bir elinizdeki 4 parmağınızı kaldırın. Sonra, 0’dan 2’ye kadar yüksek sesle sayın. Bunu yaparken, 0’dan sonra söylediğiniz her sayı için bir parmağınızı daha kaldırın. 2’ye ulaştığınızda toplamda 6 parmağınızı kaldırmış olacaksınız.\n"
+"\n"
+"Bu yöntem, 5’ten büyük sayıların toplanmasında da kolaylık sağlar; böylece, çocuğunuz, daha büyük sayılarda parmaklarını kaldırdığında ve sonra onun üzerine daha küçük sayıları saydığında toplamanın ne kadar kolay olduğunu görecektir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "PARMAKLA 10’A KADAR OLAN SAYILARI ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "Parmak Matemati̇ği̇"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "Çıkarma için iki zihinsel model vardır—“ortadan kaldırma” veya “farkını alma.” Çocuğunuzun her iki modelde de rahat olması gerekir. 8 - 5’i her iki modelle hesaplayalım:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "**Ortadan kaldırma(soldaki şekil):** 8 - 5’i kalan olarak düşünün; yani, bu, 8 şeyle başlayıp 5 tanesini alıp götürdükten sonra elinizde kalan demektir. Bunun için, önce, 8 parmağınızı kaldırın. Sonra, 0’dan 5’e kadar yüksek sesle sayın; bunu yaparken 0’dan sonraki her sayı için önceden kaldırmış olduğunuz 8 parmağınızdan 1 parmağınızı indirin. 5’e ulaştığınızda, sadece 3 parmağınız kalkmış olacak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"Farkını alma (sağdaki şekil):} Bu model, 8 - 5’i, iki sayı arasındaki farkı veya mesafeyi bulma işlemi olarak görür ve “üstüne ekleyerek sayma” yöntemini kullanır.\n"
+"\n"
+"Sağdaki şekildeki gibi, önce, bir elinizdeki 5 parmağınızı kaldırın. Sonra, 8’e ulaşıncaya kadar öbür elinizdeki parmaklarınızı kaldırın. Bu durumda öbür elinizde 3 parmak kaldırmış olacaksınız, ki bu da farkın 3 olduğunu söyler."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "Bu yöntemleri, bir sayının kendisinden çıkarıldığı ve sayıdan 0’ın çıkarıldığı sayı problemlerine de uygulayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n"
+"\n"
+"**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n"
+"\n"
+"**Example:** The Puzzler thinks of 11. The discussion could go like this:\n"
+"\n"
+"• Puzzler: Stripes is a number between 0 and 15.\n"
+"• Questioner: How does Stripes compare to 8?\n"
+"• Puzzler: Stripes is bigger than 8.\n"
+"• Questioner: How does Stripes compare to 12? \n"
+"• Puzzler: Stripes is less than 12.\n"
+"• Questioner: How does Stripes compare to 10? \n"
+"• Puzzler: Stripes is bigger than 10.\n"
+"• Questioner: Is your number 11?\n"
+"• Puzzler: Yes, congratulations!"
+msgstr ""
+"**Oyuna Hazırlık:** Bu oyunda, sayıyı aklında tutan ve o sayıyı bulmaya çalışan yani tahmin eden iki oyuncu bulunur.\n"
+"\n"
+"**Nasıl oynanır?** Sayıyı tutan oyuncu, “Sayım 0 ile 12 arasında,” der. Tahmin eden oyuncu ise, “Sayın 4’le nasıl değişir?” gibi sorular sorar. Sayıyı tutan oyuncu daha sonra, sayısının 4’ten küçük, 4’e eşit veya 4’ten büyük olduğunu söyler.\n"
+"\n"
+"**Örnek:** Oyuncunun aklında tuttuğu sayı 11 olsun. Tartışma şöyle devam edebilir:\n"
+"\n"
+"* 1. oyuncu: Sayım 0 ile 15 arasında.\n"
+"* 2. oyuncu: Sayın 8 ile nasıl değişir?\n"
+"* 1. oyuncu: Sayım 8’den büyük.\n"
+"* 2. oyuncu: Peki sayın 12 ile nasıl değişir?\n"
+"* 1. oyuncu: Sayım 12’den küçük.\n"
+"* 2. oyuncu: Sayın 10 ile nasıl değişir?\n"
+"* 1. oyuncu: Sayım 10’dan büyük.\n"
+"* 2. oyuncu: Sayın 11 mi?\n"
+"* 1. oyuncu: Evet, bildin! Bravo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n"
+"\n"
+"As your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”"
+msgstr ""
+"Tahmin eden oyuncunun sorduğu soruları sayarak bu aktiviteyi bir oyuna dönüştürebilirsiniz. Bu durumda, dönüşümlü olarak tamamladığınız turlardan sonra, daha az sayıda soru soran oyuncu kazanır.\n"
+"\n"
+"Çocuğunuzun matematiği geliştikçe, “Tuttuğun sayı çift sayı mı?” veya “Aklındaki sayı bir asal sayı mı?” türünden başka sorular da sorabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ESTIMATION GAME"
+msgstr "TAHMIN OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n"
+"\n"
+"Force yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest."
+msgstr ""
+"Çocuğunuzla, aranızda kimin en iyi tahminde bulunabileceğini görmek üzerine kurulu bir oyunla niceliklerle ilgili bir kavrama yetisi geliştirebilirsiniz. Örneğin, bir sırada bekleyen grupta kaç insan olduğunu tahmin etmek gibi.\n"
+"\n"
+"Kendinizi tahmin ettiğiniz şeyi hiç saymadan hızlı bir tahminde bulunmaya zorlayın. Herkes bir tahminde bulunduktan sonra nesneleri sayın ve gerçeğe en yakın tahminde bulunan kişiyi ödüllendirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15 SLIDING PUZZLE"
+msgstr "15 KAYDIRMALI BULMACA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "Sirali Sayilar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid."
+msgstr "**Oyuna Hazırlık:** 5 adet yatay ve 5 adet dikey çizgi çizerek 4 x 4’lük boş bir kare veya grid denilen ızgara tablo çizin. Tablonun içindeki her bir küçük karelerin boyutunda 1’den 15’e kadar numaralandıracağınız 15 adet kâğıt parçası hazırlayın. Oyun, oyunculardan birisinin, kâğıt parçalarını 4 x 4’lük tabloya yerleştirmesiyle başlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"**Zorlaştırın:** Amaç—tablonun sağ alt köşesindeki kareyi boş bırakmak şartıyla—hazırladığınız numaralandırılmış küçük kâğıt parçalarını sırasıyla tabloya yerleştirmektir. Bir kâğıt parçası, aşağıdaki şekildeki gibi, eğer boş karenin tam yanında veya bitişiğinde ise o boşluğa kaydırılabilir. Oyuncunun bulmacayı nasıl oluşturduğuna bağlı olarak, bu bulmaca çözülebilir veya çözülemeyebilir.\n"
+"\n"
+"**Bulmaca nasıl oluşturulur?** Bu bulmacaları oluşturmak için iki seçeneğiniz vardır. Birincisi, numaralandırılmış kareleri tabloya rastgele yerleştirmektir, ki bu durumda, bulmacanın çözülebilirlik şansı 50/50’dir. İkinci yöntemde ise, bulmacaya, kâğıt parçalarını en son konuma yerleştirerek ve sonra, kâğıdı hareket ettirmek için bir dizi hamle yaparak başlayabilirsiniz. Böylece, tüm kareleri tamamladığınızda, bulmacanın çözülebilir olduğunu garanti etmiş olursunuz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Different sizes"
+msgstr "Farklı boyutlarda bulmacalar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr "Eğer, 4 x 4’lük kare yeni başlayanlar için çok zorsa, o zaman daha küçük boyutta bir kareyle başlayabilirsiniz. Bulmacanın boyutu, 2 x 2’lik küçük bir kare de olabilir, çocuğunuzun istediği büyüklükteki bir kare de olabilir. Numaralandırılmış kâğıt parçalarının sayısı, oluşturduğunuz bulmacanın veya karenin boyutundan hep 1 tane eksik olmalıdır. Örneğin, oluşturduğunuz 2 x 3’lük boyuttaki bulmacanızda, 1’den 5’e kadar olan numaralandırılmış kareleri veya kartları kullanmalısınız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 3 – I CAN COUNT TO 10!"
+msgstr "3. Aşama — 10’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Introduction"
+msgstr "3. Aşama — Giriş"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n"
+"\n"
+"In addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them"
+msgstr ""
+"**Nerelerdeydin?**\n"
+"\n"
+"Çocuğunuz 0 ile 10 arasında yukarı ve aşağı sayar ve bu miktarların ne anlama geldiğini anlar. Toplama ve çıkarma becerileri erken gelişiyor. Bu beceriler için önemli bir temel, 1 ve 2'yi küçük sayılarla toplama ve çıkarma konusunda özgüvendir. Çocuğunuz küçük miktarları anlıyor ve bu miktarlarla toplama ve çıkarma işlemleri yapabiliyor.\n"
+"\n"
+"Bu harika şeylere ek olarak, çocuğunuz artık çok daha iyi düşünme yeteneğine sahip! Nesnelerin ve sayıların özelliklerini anlıyor ve başlangıç seviyesinde problem çözme yapabiliyor. Çocuğunuz şimdi aile matematik oyunları ve bulmacalarında tam bir üye ve çevresindeki matematiksel dünyayı keşfetmekte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n"
+"* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n"
+"* Number Bonds – These are all pairs of numbers that add up to a specific number.\n"
+"* Ten Frames – Represent a number from 0 to 10 as that number of dots inside a 2 by 5 rectangular grid. For numbers greater than 4, the upper group of 5 squares is always filled.\n"
+"* Expanded Form – This refers to writing a multi-digit number broken down into the contribution of each of its digits. For example: 25 = 20 + 5 and 317 = 300 + 10 + 7.\n"
+"* Fact Families – This refers to a group of closely related math facts. For example, 2 + 5 = 7 is in the same family as 7 - 2 = 5 and 7 - 5 = 2.\n"
+"* Adding twins and near twins – An adding twin is adding a number to itself, such as 4 + 4. A near twin is one away from a twin, such as 4 + 5.\n"
+"* Doubling, multiplying by two, and halving, two equal parts, dividing in two – Children usu-\n"
+"ally enjoy adding twins. With that comes the idea of doubling and multiplying by 2. Also\n"
+"associated with that is halving, splitting something into two equal parts, and dividing by two.\n"
+"* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n"
+"* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
+msgstr ""
+"* Yukarı Sayma –Herhangi bir sayıdan başlayarak yukarı doğru saymak, her zaman 1'den başlamaktan farklıdır. Bu, toplama ve fark bulma işlemleri için kullanışlıdır.\n"
+"* Aşağı Sayma – Herhangi bir sayıdan başlayarak aşağı doğru saymak anlamına gelir. Bu, çıkarmak için ve sayılar arasındaki ilişkileri geliştirmek için faydalıdır.\n"
+"* Sayı Bağlantıları – Belirli bir sayıyı elde etmek için eklenen tüm sayı çiftleridir.\n"
+"* Onluk Çerçeveler – 0'dan 10'a kadar bir sayıyı, 2'ye 5'lik bir dikdörtgen ızgaranın içine o kadar nokta koyarak temsil etmektir. 4'ten büyük sayılarda, üst grup 5 kare her zaman doludur.\n"
+"* Genişletilmiş Form – Çok basamaklı bir sayıyı her basamağının katkısı şeklinde yazmak anlamına gelir. Örneğin: 25 = 20 + 5 ve 317 = 300 + 10 + 7.\n"
+"* Faktör Aileleri – Yakından ilişkili matematik bilgileri grubuna verilen isimdir. Örneğin, 2 + 5 = 7, \\\\ 7 - 2 = 5 ve 7 - 5 = 2 aynı ailedendir.\n"
+"* İkizleri ve ikizlerin yanına ekleme – İkiz eklemek, kendisine 4 + 4 gibi bir sayı eklemektir. Yakın bir ikiz, 4 + 5 gibi bir ikizden uzaktadır.\n"
+"* İki Katına Çıkarma, İkiye Bölme – Çocuklar genellikle ekleme ikizlerinden hoşlanır. Bununla birlikte iki katına çıkarma ve ikiye bölme fikri de gelir. Ayrıca iki eşit parçaya bölme ve ikiye bölme ile ilişkilidir.\n"
+"* Çift ve Tek Sayılar – Çift sayılar iki eşit parçaya bölünebilir. Tek sayılar iki eşit parçaya bölündüğünde bir tane kalır. Çift sayılar, ekleme ikizlerinin sonuçlarıdır.\n"
+"* 2’şer Sayarak Sayma – 2’şer sayarak yukarı veya aşağı saymak, örneğin 0, 2, 4, 6 ya da 13, 11, 9, 7."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUMS"
+msgstr "ŞEKIL TOPLAMLARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**Zorluk:** Eksik daireleri doldurun, böylece her daire, doğrudan altında ve ona bağlı olan tüm dairelerin toplamı olacak şekilde ayarlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"En kolay bulmacalar, çoğu dairenin doldurulmuş olduğu bulmacalardır. Daha büyük çocuklar için, daha büyük sayılar ve daha zekice çözümler içeren varyasyonlar bulunmaktadır.\n"
+"\n"
+"**Tekrarlanan Sayılar:** Tekrarlanan sayılar için bir seçenek, dairesel olmayan şekiller kullanmaktır. Bir dairenin değerinin başka bir daire veya şeklin değerini tekrar edebilmesine rağmen, dairesel olmayan bir şeklin değerinin aynı şekil ile diğer tüm yerlerdeki değerle eşleşmesi gerekmektedir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"Örneğin, tüm kareler belirli bir bulmacada aynı değere sahiptir. Ekleme pratiği yapmak için eşleşen şekilleri kullanın ikizler, ikizlerin yakınında ve yarıya- ilk örnekte, çözücüden 8'in yarısı olan bir sayı bulması istenir.\n"
+"\n"
+"**Nasıl oluşturulur:** Tamamen doldurulmuş bir diyagramla başlayıp ardından bazı sayıları kaldırarak bu bulmacaları yapın. Bulmacanın tekrarlanan sayıları varsa, tekrarlanan sayı için daire yerine kare, üçgen veya başka bir şekil kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MYSTERY CHANGE"
+msgstr "GIZEMLI DEĞIŞIM"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fact Families"
+msgstr "Faktör Aileleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**Nasıl oynanır:** Çocuğunuzun az sayıda nesneyi saymasını sağlayın. Onların dikkati başka yerdeyken, nesne sayısını değiştirin. Geriye baktıklarında, ne tür bir değişiklik yaptığınızı sorun. Ne olduğunu düşündüklerini yeniden canlandırarak teorilerini test edebilirler.\n"
+"\n"
+"**Varyasyonlar** Bu kolay olduğunda, cevaplarıyla daha yaratıcı olmalarını sağlayabilirsiniz. Örneğin, 4'ü 6 olarak değiştirirsek, cevap 4'ü ikiye katlamanız ve ardından 2'yi almanız olabilir."
 
 #. type=data_list
 msgctxt "data_list"
