@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-20 02:51\n"
+"PO-Revision-Date: 2025-05-24 01:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7114,6 +7114,84 @@ msgstr "O KIŞI KIM?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "Bu aktivite birkaç kişiyle oynanacak bir aktivitedir. Oyunda bir Lider bulunur ve lider, gruptan bir gizli kişi seçer. Ardından, oyuncular, bu gizli kişinin kim olduğunu bulmak için lidere şu tür soruları sorarlar: “Bu kişi, üzerinde üçgen şekli olan bir gömlek mi giyinmiş?” veya “Bu kişinin saçı 30 cm’den uzun mu?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 2 – I CAN COUNT TO 5!"
+msgstr "2. Aşama — 5’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Introduction"
+msgstr "2. Aşama — Giriş"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
+"\n"
+"Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
+msgstr ""
+"**En Son Nerede Kalmıştınız?**\n"
+"\n"
+"Harika! Çocuğunuz artık 5’e kadar sayabiliyor! Ve bu sayıları sadece sırasıyla ezbere saymakla kalmıyor, sayıların belirttiği miktarlar hakkında da bir fikri var. Artık betimleyeceğiniz ve hakkında konuşacağınız nesnelere çeşitli özellikler atamaya hazırsınız. Çocuğunuzun dünyayı anlama konusunda ne kadar ilerleme kaydettiğini bir düşünsenize!\n"
+"\n"
+"Çocuğunuz artık daha fazla konuşuyor, daha iyi mantık yürütebiliyor ve açıklayabiliyor. Çocuğunuzla matematiksel şeyleri tartışmaya hazırsınız; ki bu, size, çocuğunuzla birlikte oyunlar oynamaya ve bulmacalar çözmeye başlama fırsatını da verecektir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child will be learning many things in the coming months beyond counting to 10 and above.\n"
+"Here is a quick list of topics that will be covered in this Stage.\n"
+"\n"
+"• Counting forward and backward to 10. Don’t ignore backward counting – it is important for understanding number relationships as well as being an aid for subtraction.\n"
+"• Include 0 in your counting sometimes. Including 0 now makes it a familiar number and keeps it from feeling exotic.\n"
+"• Reasoning with properties and numbers. Understanding properties and reasoning with them is a key part of developing mathematical ability.\n"
+"• Deepening understanding of shapes, especially circles, triangles, and squares. Keep using descriptive shape names as your child interacts with them.\n"
+"• Comparing and ordering numbers. How quantities compare and interact with each other is central to understanding them.\n"
+"• One more, one less, two more, two less. These concepts are relatively easy to pick up, and they will form the basis for addition and subtraction.\n"
+"• Learning to use manipulatives, especially fingers, to understand adding and subtracting. Adding and subtracting 0.\n"
+"• Subtracting a number from itself."
+msgstr ""
+"Çocuğunuz önümüzdeki aylarda 10’a kadar saymanın ötesinde pek çok şey öğrenecek. İşte bu aşamada ele alınacak konuların kısa bir listesi:\n"
+"\n"
+"* 10’a kadar ileri ve geri sayma. Geriye doğru saymayı göz ardı etmeyin çünkü geriye doğru sayma, sayı ilişkilerini anlamanın yanında çıkarma işlemlerinde de yardımcı olur.\n"
+"* Sayma aktivitelerinize bazen 0’ı da dahil edin. 0’ı dahil etmek, onu tanıdık bir rakam hâline getirir ve çocuğunuzun 0’a karşı yabancı hissetmesini engeller.\n"
+"* Sayılarla ve özelliklerle mantık yürütme. Özellikleri anlamak ve onlarla akıl yürütmek, matematiksel yetenek geliştirmenin önemli bir parçasıdır.\n"
+"* Şekilleri, özellikle de çemberleri, üçgenleri ve kareleri anlamayı derinleştirme. Çocuğunuz şekillerle etkileşime girdikçe, siz, tanımlayıcı şekil adlarını kullanmaya devam edin.\n"
+"* Sayıları karşılaştırma ve sıralama. Miktarların birbirleriyle nasıl karşılaştırıldıkları ve etkileşime girdikleri, onları anlamanın merkezinde yer alır.\n"
+"* Bir fazlası, bir eksiği, iki fazlası, iki eksiği kavramlarını anlama. Bu kavramların anlaşılması nispeten kolaydır ve bunları anlamak, toplama ve çıkarma işlemlerinin temelini oluşturacaktır.\n"
+"* Toplama ve çıkarmayı anlamak için araç gereçleri özellikle de parmakları kullanmayı öğrenme.\n"
+"* 0’ı ekleme ve çıkarma\n"
+"* Bir sayıyı kendinden çıkarma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CONNECT THE DOTS"
+msgstr "NOKTALARI BIRLEŞTIRIN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Complete fun drawings by connecting numbered dots. Make these by taking a simple drawing, removing some straight lines, and replacing them with numbered dots. Connecting the dots in order recreates the original drawing."
+msgstr "**Nasıl yapılır?** Numaralandırılmış noktaları birleştirerek eğlenceli çizimleri tamamlayın. Bunun için basit bir çizimi alın. Sonra, çizimdeki bazı düz çizgileri ortadan kaldırın ve onların yerlerine numaralandırılmış noktalar koyun. Daha sonra, noktaları sırayla birleştirerek orijinal çizimi yeniden oluşturun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Backwards:** Challenge your child to connect the dots in backwards order.\n"
+"\n"
+"You can also find these kinds of drawings to download from the internet."
+msgstr ""
+"**Geriye doğru:** Çocuğunuzdan noktaları geriye doğru sayarak birleştirmesini isteyin.\n"
+"\n"
+"Bu tür çizimleri internetten bulup indirerek de yapabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COUNTING"
+msgstr "ADALARDAN ATLAMA — SAYMA"
 
 #. type=data_list
 msgctxt "data_list"
