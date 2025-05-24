@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 04:25\n"
+"PO-Revision-Date: 2025-05-24 05:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7718,6 +7718,255 @@ msgstr "Akıl yürütme"
 msgctxt "data_list"
 msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
 msgstr "Çocuğunuzun cevabı bulması için bir yöntem, 4’ten 6’ya kadar saymaktır—çocuğunuz 4’ten 6’ya kadar sayarken, yani saymaya ‘4’ diyerek başladığında, önce, hiç parmak kaldırmayın. Çocuğunuz ‘5, 6’ diye saymaya devam ederken, parmaklarınızı birer birer kaldırın; toplamda 2 tane parmağınızı kaldırmış olacaksınız. Benzer şekilde, çocuğunuz, 6’dan 4’e kadar “geriye doğru sayarken” de neredeyse aynı şeyi yapabilecektir. Sonuçta, 4 + 2’nin 6 olduğunu görmesi ile 4’ü elde etmek için 6’dan 2’yi çıkarmanın birbiriyle ilişkili olduğunu görmelidir. Bu aktiviteler, bu ilişkileri anlamak için harika pratiklerdir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "ÖZELLIK EŞLEŞTIRME OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr "Şekil kartlarının 3 özelliği vardır, şekil kartlarının üzerinde: şekiller vardır (daire, üçgen, kare), sayılabilirler (bir, iki, üç), renkler vardır (kırmızı, mavi, siyah)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**Oyuna Hazırlık:** Her oyuncuya 5 adet kart dağıtın, kalan kartları ters çevirip ortaya koyun. Ardından, oyuncular sırayla bu kalan kartların en üstünden bir kart çekip düz çevirir. Bu yeni kartın en az iki özelliğinin kartlarından birisiyle eşleşmesi gerekir. Sıranız geldiğinde, eğer oynayamıyorsanız, kart destesinden bir kart çekip pas geçebilirsiniz.\n"
+"\n"
+"**Nasıl kazanılır?** Kartları biten ilk kişi oyunu kazanır. Eğer ortadaki kart destesi biterse, o zaman, oyunu elinde en az kart olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* En üstteki kartla sadece bir özelliğin eşleşmesini şart koşarak oyunu basitleştirebilirsiniz.\n"
+"* Oyunculara bir turda kartların üzerine, yeni kart önceki karta uygun olduğu sürece, 1’den fazla kart yerleştirmelerine izin verebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "ÖZELLIK EŞLEŞTIRME BULMACASI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "Öncelikle, bir şekil kartı seçin; bu kart, sizin başlangıç kartınız olacak—örneğin, aşağıdaki çizimde iki mavi daireye sahip olan kart bizim başlangıç kartımızdır. Ardından, oyunun kurallarına uygun olarak oynanabilecek 4 ila 8 kartlık bir dizi oluşturun ancak her kartın kendisinden gelen bir önceki kart ile 2 özelliğinin eşleşmesi gereklidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"Kullanılmayan kartları ve başlangıç kartınızı bir kenara koyup kalan kartlarını iyice karıştırın.\n"
+"\n"
+"**Oyunun Zorluğu:** Karıştırılmış kartları alın ve ilk başta seçtiğiniz başlangıç kartın üzerine kurallara uygun bir hamle yaparak yerleştirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "ÜÇLEME"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"**Oyuna Hazırlık:** Her kareye bir şekil kartı sığacak şekilde tic-tac-toe ya da XOX olarak da bilinen bir üçtaş oyunu tablosu oluşturun. Her özellikten ikisine sahip olan şekil kartlarından 8’ini oluşturduğunuz tabloya yerleştirin. Örneğin, kartlarda üçgen veya kare olanları üzerindeki şekillerden 1 tane veya 2 tane olanları ya da üzerindeki şekillerin renklerine göre kırmızı veya mavi olan kartları seçin.\n"
+"\n"
+"**Nasıl oynanır?** Oyuncular her turda yeni bir kart seçip, bu kartı, oluşturdukları tabloya yerleştirirler. Bu kartlar, şekildeki gibi, yatay, dikey ya da çapraz şekilde üç kart ile eşleşmelidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**Nasıl kazanılır?** Oyunu, arka arkaya en az 3 kartı eşleyebilen ilk oyuncu kazanır! Eğer oyun boyunca hiçbir kart eşleşmezse, o zaman, oyun berabere biter."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "Oyunu basitleştirebilirsiniz. Örneğin, kart çekme destesindeki kartları yüzleri yere bakacak şekilde ters çevirip yerleştirerek ve her oyuncunun en üstteki kartlardan birer tane çekerek oynamasını sağlayarak oyuna bu şekilde bir şans unsuru ekleyebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "ŞEKİLLİ SUDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "Şeki̇l Oyunlari"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**Oyuna Hazırlık:** Dört farklı jeton kullanın. Jetonlar yerine, farklı renklerde jelibonlar veya sakızlar kullanabilirsiniz. Biz turuncu üçgenler, mavi kareler, kırmızı daireler ve mor elmaslar kullandık.\n"
+"\n"
+"**Nasıl oynanır?** Bulmacayı oluşturmak için, yani tabloyu tamamlamak için, önce, her sırada, sütunda ve her 2x2’lik karenin köşe kutusunda her türden 1 adet olan desenli bir jeton modeli oluşturun. Ardından, jetonlardan birkaçını alıp çıkarın ve çıkardığınız jetonları yanınıza koyun.\n"
+"\n"
+"**Bulmacanın zorluğu:** Alıp çıkardığınız jetonları tekrar bulmacaya nasıl geri koyacağınızı bulması için çocuğunuza verin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "Bulmaca oluşturma stratejileri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr ""
+"Bulmaca oluşturmak için bazı basit stratejiler şunlardır: \n"
+"1. Her satırdan bir jeton çıkarabilirsiniz\n"
+"2. Aynı türden olan jetonların tamamını ve diğer türdeki jetonlardan ise sadece birer tanesini çıkarabilirsiniz\n"
+"3. Bir satır ve sütunun tamamını ortadan kaldırabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "SIHIRLI ELLER — TOPLAMA VE ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "Elleriniz, toplama ve çıkarma pratiği yapmada sihirli bir numaradır. Bu numaraları yeterince yavaş yapın ki çocuğunuz neler olup bittiğini görme şansına sahip olsun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**Toplama işlemi için:** Önce, toplamı 5 veya 5’ten az olan iki sayı seçin. Mesela, sol elinizde 3 parmağınızı havaya kaldırın ve kaldırdığınız parmaklarınızı yüksek sesle sayın. Ardından, sağ elinizde kaldırdığınız parmaklarınızı sayın; o sayı da mesela 1 olsun. Sonra, ellerinizi yan yana getirin. Bu durumda, sağ elinizin parmaklarıyla sol elinizin parmakları birleşmiş olur—ve toplam 4 tane kaldırılmış parmağınız var. Sihir gibi, öyle değil mi?\n"
+"\n"
+"En sonunda, çocuğunuza, ‘3 parmak 1 parmak daha 4 parmak eder’ diyerek konuyu özetleyin. Bravo!\n"
+"\n"
+"**Çıkarma işlemi için:** Sol elinizdeki parmaklarınızdan birkaçını kaldırın, mesela 4 tanesini. Sağ elinizle sol elinizde kaldırdığınız parmaklarınızdan bazılarını, mesela 1 tanesini alıp tutsun. Bu durumda, sol elinizde 3, sağ elinizde ise 1 parmağınız kalmış olacak. Bunu, “4’ten 1 çıkarırsak geriye 3 kalır” şeklinde veya “4’ü, 3 ve 1 sayılarında iki parçaya ayırdığınızı” söyleyerek özetleyebilirsiniz. Bu şekilde ifade etmek, belirli bir toplamı oluşturan sayı çiftleri arasındaki sayı ilişkilerini vurgulayacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "Önemli özel durumlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* Toplama: Ellerinizin birinde veya her ikisinde de hiç parmak kaldırmayın; bu durumda, 0 parmak kalkmış olur ve 0 sayısına 0 eklediğinizde hiçbir şeyin değişmediğini çocuğunuza bu şekilde gösterin.\n"
+"* Çıkarma: Bazen hiçbir şeyin değişmediğini göstermek için hiçbir parmağınızı indirmeyin yani çıkarmayın. Bazen de hiçbir parmağınız kalmayacak şekilde tüm kaldırmış olduğunuz parmaklarınızı indirin yani çıkarın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "HIZLI SAYILAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "Parmak Matemati̇ği̇ne Başlama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"Çocuğunuzun nesnelerin sayısını kolaylıkla ve hızlıca tanımasına yardımcı olun. Bunu, şu iki farklı yolla pratik yapabilirsiniz.\n"
+"\n"
+"**Onluk kart kullanın:** Onluk sayı kartlarını kullanın. Önce, rastgele bir kart seçin. Sonra, çocuğunuzun kartın üzerinde yazan sayıyı tanıyıp tanıyamadığını görün. Değişiklik olsun diye bazen çocuğunuzun sizi test etmesini de sağlayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**Parmaklarınızı kullanın:** Çocuğunuza, önce, bir veya iki elinizdeki parmaklarınızdan birkaçını gösterin. Sonra, çocuğunuzun toplam sayıyı bulmasını sağlayın. 5’ten büyük sayılar için ise iki elinizi kullandığınızda, ellerinizden birinde tüm parmaklarınız yani 5 parmağınız da kaldırılmış olmalıdır. İşte bu şekilde ellerinizle onluk sistemi resmedebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "SIMETRIK ŞEKILLERI KESME"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions."
+msgstr "Kirigami, bir kâğıt parçasını katlayarak ve ardından katlanmış kâğıdı keserek tasarımlar oluşturma sanatıdır. Kâğıtlar birden fazla kez katlanabilir ve katlamalar farklı yönlerde de yapılabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other."
+msgstr "Kâğıdı bir kez katlayıp kesmek, kâğıdın bir tarafının diğer tarafın ayna görüntüsünün ya da yansımasının olduğu bir tasarım oluşturur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ideas to explore"
+msgstr "Keşfedilecek Fikirler"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Experiment with cutting out faces, lamps, or geometric shapes.\n"
+"• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n"
+"• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape."
+msgstr ""
+"* Yüzeyleri, çıkıntıları veya geometrik şekilleri keserek denemeler yapın.\n"
+"* İki yönde de ayna görüntüleri olan tasarımlar oluşturmak için kâğıdınızın iki kez katlanmış ve bir uçtan kesişmesi gerekir. Bu sayede, şekildeki gibi çiçek tasarımları oluşturmanız kolaylaşır.\n"
+"* Farklı farklı katlamaları ve kesimleri deneyin. Kar tanesi tasarımları için, çiçek tasarımında olduğu gibi kâğıdınızı, önce, iki kez katlayın. Ardından, aynı kâğıdı iki kez daha katlayın; bu, katlanmış kâğıdı 3’e ayıracaktır.\n"
+"* Bu aktiviteyi geriye doğru yaparak bir oyun hâline getirebilirsiniz. Örneğin, bir kâğıda simetrik bir şekil çizin, sonra bu şekli oluşturmak ve katlanmış kâğıdı kesmek için birbirinize meydan okuyun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "KARELERI BULMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "Şeki̇ller"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
+"\n"
+"**How to play:** Players take turns putting their tokens on points where the lines cross in the grid."
+msgstr ""
+"**Oyuna Hazırlık:** 5 yatay ve 5 dikey çizgi kullanarak 5x5’lik bir kare veya tablo oluşturun.\n"
+"\n"
+"**Nasıl oynanır?** Oyuncular jetonlarını, şekildeki gibi, tablonun çizgilerinin kesiştiği noktalara koyarlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The first player with four tokens on the corners of a square of any size wins."
+msgstr "**Nasıl kazanılır?** Herhangi bir boyuttaki bir karenin köşelerinde, şekildeki gibi, toplamda dört jetonu olan ilk oyuncu oyunu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow squares with diagonal sides (pictured above).\n"
+"• Use grids larger than 5 by 5."
+msgstr ""
+"* Çapraz karelere izin verin.\n"
+"* 5x5’ten daha büyük kareler kullanın."
 
 #. type=data_list
 msgctxt "data_list"
