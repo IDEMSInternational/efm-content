@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 21:05\n"
+"PO-Revision-Date: 2025-05-24 23:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8844,6 +8844,16 @@ msgstr ""
 "**Bölme:** Bölmek için, bir oyuncu ellerini birbirine çarptırır ve parmakları iki el arasında yeniden dağıtır. Bir bölme, iki parmak sayısını tersine çeviremez.\n"
 "\n"
 "**Nasıl kazanılır:** Bir oyuncu, diğer herkesin her iki eli ölü olduğunda kazanır. Bir varyasyonda, iki ölü ele sahip ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING UP"
+msgstr "YUKARI ÇIKMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
+msgstr "**Hazırlık:** Her oyuncu 4 ila 10 basamaktan oluşan bir merdiven çizer (daha fazla basamak yaşça büyük oyuncular için)."
 
 #. type=data_list
 msgctxt "data_list"
