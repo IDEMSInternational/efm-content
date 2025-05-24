@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 01:45\n"
+"PO-Revision-Date: 2025-05-24 03:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7399,6 +7399,72 @@ msgstr ""
 "Daha sonra, oyuncu, kart destesinden bir kart seçer ve yüksek sesle onun hangi sayı olduğunu söyler. Eğer söylenen sayı oyuncunun kartlarındaki bir sayıyla eşleşirse, o zaman oyuncu o kartı alıp sizden alıp eşleşen kartın üstüne koyarak kartı kapatır. Bir oyuncunun birden fazla eşleşen kartı varsa, hangi kartın üstüne koyacağına kendisi karar verebilir.\n"
 "\n"
 "**Nasıl kazanılır?** Oyunu yatay, dikey veya çapraz yönde arka arkaya toplam 4 adet kartını ters çevirmiş veya kapatmış olan kazanır ve “Bingo!” diye bağırır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEALING BONES"
+msgstr "Taş Çalma Oyunu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Place all dominoes (bones) face up between the players. For a turn, a player rolls two dice. If the domino that matches these dice is available, the player claims it and moves it to their pile."
+msgstr "**Nasıl oynanır?** Tüm dominoları taşlarını yüzleri yukarı bakacak şekilde oyuncuların arasına yerleştirin. Bir oyuncu iki zar atar ve oyun başlar. Oyuncunun attığı zarlarla eşleşen bir domino varsa, oyuncu onu alıp kendi taşlarının olduğu yere taşır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** For two players, the first player with ten dominoes wins. For more than two players, the first player with six dominoes wins.\n"
+"\n"
+"**Variation:** Claimed dominoes can still be stolen by other players."
+msgstr ""
+"**Nasıl kazanılır?** İki oyuncu varsa, oyunu, 10 domino taşı toplayan ilk oyuncu kazanır. Eğer 2’den fazla oyuncu varsa, oyunu, 6 domino taşına ulaşan ilk oyuncu kazanır.\n"
+"\n"
+"**Oyunun farklı versiyonları:** Sahip olunan domino taşları hâlâ diğer oyuncular tarafından çalınabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOMINOES"
+msgstr "DOMİNO OYUNLARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Domino Games"
+msgstr "Domino Oyunu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many variations to this ancient game – discuss the rules before you start!\n"
+"\n"
+"**The setup.** Mix up all tiles (bones) face down – this is called the boneyard. Take seven tiles each for two players, and five tiles each for three or four players. The player with the highest double starts by putting it on the table. If no one has a double, start the game over."
+msgstr ""
+"Bu eski oyunun pek çok farklı versiyonu var—lütfen, oyuna başlamadan önce kuralları tartışın! \n"
+"\n"
+"**Oyuna Hazırlık:** Tüm domino taşlarını (karoları) yüzleri yere dönük bir şekilde iyice karıştırın. Oyunda iki oyuncu varsa yedişer tane, üç veya dört oyuncu varsa beşer tane domino taşı çekilir. Geriye kalan taşlar—onlara ‘banka’ ya da ‘bahçe’ denir—yüzleri yere dönük bir şekilde masaya dizilir. Oyuncular, bu taşlardan taş çekerler. Oyuna, kimde en çok çift taş varsa o oyuncu masaya taşını koyarak başlar. Eğer hiç kimsenin çifti yoksa, oyuna en baştan başlamalısınız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play.** A turn consists of placing a tile that matches one of the available ends of the string of dominoes (place double dominoes crosswise to the previous domino). If the player has no matching tile, the player is “blocked,” and there are two possible rules to use: 1) the player’s turn is over, or 2) the player keeps drawing tiles until there is a match (one version restricts this to a single draw whether or not there is a match). If the boneyard is emptied before there is a move, play passes to the next player on the right.\n"
+"\n"
+"**How to win:** The game ends when a player runs out of bones, or when all players are blocked. The winner is the player with the lowest total of dots on their tiles (which is 0 if they have used up all their tiles)."
+msgstr ""
+"**Nasıl oynanır?** Oyunda bir tur şöyle gelişir: İlk oyuncu, çift taşını, yüzü yukarı dönük biçimde mevcut domino dizisindeki taşlardan birinin ucundakiyle eşleşecek şekilde yerleştirir. İkinci oyuncu ise bu taşın yanına, taşın iki ucundaki sayılardan biriyle eşleşen taşını yerleştirir (ama çift dominolar, öbür domino taşlarına çapraz yani onları dik kesecek biçimde yerleştirilir).\n"
+"\n"
+"Eğer oyuncunun eşleşen bir taşı yoksa, oyuncu “bloke edilir” ve bu durumda uygulanabilecek iki olası kural vardır: 1) Oyuncunun sırası sona erer veya 2) Oyuncu eşleşen bir taş gelene kadar bahçeden taş çekmeye devam eder (bu oyunun farklı bir versiyonu, bu işlemi, bir eşleşme olsun veya olmasın, sadece bir taş çekimi ile sınırlar). Eğer domino taşları bir hamle yapılmadan önce biterse, o zaman, oyun sağdan bir sonraki oyuncuya geçer.\n"
+"\n"
+"**Nasıl kazanılır?** Oyun, oyunculardan birinin taşları bittiğinde veya tüm oyuncular elendiğinde sona erer. Kazanan oyuncu, taşlarında bulunan noktaların toplamı en düşük olan oyuncudur (ki bu değer, eğer oyuncu tüm taşlarını kullanmışsa, 0’dır)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Scoring options:** The winner’s score can be calculated in two ways. The traditional way is to use the sum of the dots on all the other players’ tiles. Rounds are played until a player reaches 50 or 100. For little ones, a better scoring system is to let the winner have the score which is the count of all the other players’ tiles.\n"
+"\n"
+"**Matching options:** When your child starts adding, change the rule for matching – two tiles match if their numbers add up to six (or nine if using a larger range of dominoes)."
+msgstr ""
+"**Puanlama seçenekleri:** Kazanan oyuncunun puanı 2 şekilde hesaplanabilir. Geleneksel hesaplamada, diğer tüm oyuncuların taşlarındaki noktaların toplamı baz alınır. Turlar, oyunculardan birisi 50 veya 100 puana ulaşana kadar devam eder. Yaşı küçükler için uygulanan daha iyi bir puanlama sisteminde, kazanan oyuncunun diğer tüm oyuncuların taşlarının sayısı kadar olan puanı almasına izin verilir.\n"
+"\n"
+"**Oyunun farklı versiyonları:** Çocuğunuz toplama işlemini yapmaya başladığında, oyundaki eşleştirme kuralını değiştirin—örneğin, eğer 2 taş eşleşirse sayılarının toplamını 6 yapın (veya daha geniş bir domino aralığı kullanılıyorsa, bu değer 9 olabilir)."
 
 #. type=data_list
 msgctxt "data_list"
