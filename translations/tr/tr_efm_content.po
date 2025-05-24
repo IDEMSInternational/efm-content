@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 15:45\n"
+"PO-Revision-Date: 2025-05-24 16:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7975,8 +7975,113 @@ msgstr "ÇANTA HIKÂYELERI — TOPLAMA VE ÇIKARMA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”"
+msgstr "**Çanta Hikâyeleri:** Çocuğunuzla, içerisinde belli sayıda nesnelerin bulunduğu çantalarınızın olduğunu düşünün. Şöyle bir hikâye uydursun: “Senin çantanda 3 kuru üzüm var, benimkinde ise ondan bir fazla üzüm var. Benim kaç kuru üzümüm var?” Çocuğunuz bu sorulara alıştıktan sonra, bazen, bu soruları çocuğunuzun sormasına izin verin. Hatta bazen bilerek “hatalar” da yapın, çocuklar bunu çok eğlenceli bulacaklardır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n"
+"\n"
+"**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”"
+msgstr ""
+"**Oyunu Zorlaştırın:** Deneyim kazandıkça bu hikâyeleri daha karmaşık hâle getirebilirsiniz. Örneğin, hikâye şöyle olabilir: “Benim senden 2 tane daha az kurabiyem var ama toplamda 6 kurabiyemiz var. Öyleyse, senin kaç kurabiyen var?” veya “Senin benden 2 kat daha fazla şekerin var ve ikimizde toplam 9 şeker var. Bu durumda senin kaç şekerin var?”\n"
+"\n"
+"**Başka Hikâyeler:** Aktivitelerdeki çantalar ve yiyecekler, çocuğunuzun ilgisini çekebilecek başka bir nesneyle; mesela, içinde iki (veya daha fazla) çeşit balık olan bir akvaryumla değiştirilebilir. Akvaryumla ilgili şöyle bir hikâye oluşturabilirsiniz: “Akvaryumda 7 balık var ve tetra balıklarından 1 fazla Japon balığı var. Öyleyse, akvaryumda toplam kaç tane Japon balığı var?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH STORIES"
+msgstr "MATEMATIK HIKÂYELERI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "Matematik Hikâyeleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories are a fun way to add interest to calculations. Here are two examples of such stories:"
+msgstr "Hikâyeler, işlemlere ilgi katmanın eğlenceli bir yoludur. İşte bu tür hikâyelere iki örnek:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n"
+"\n"
+"**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?"
+msgstr ""
+"**Sandalyeler:** ‘Bir odada, toplam dört sandalye ve iki kişi var. Ama sonra, odaya üç kişi daha geliyor. Bu durumda herkes oturabilir mi?’ İşte, soruyu bu şekilde sormak, 2 + 3’ün 4’ten büyük olup olmadığını sormaktan çok daha ilginçtir.\n"
+"\n"
+"**Dondurma:** İki arkadaşım ve ben dondurma yiyeceğiz. Arkadaşlarımın her birine kendi top sayımdan birer top daha fazla dondurma vereceğim. Toplam 10 top dondurma varsa, bu durumda, ben kaç top dondurma alabilirim?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions."
+msgstr "Hikâyelerinizde çocuğunuzun ilgisini çeken konuları seçin; örneğin, yiyecek veya hayvanlar gibi. Çocuğunuz bu konuda geliştikçe, bazı hikâyelerinizi biraz muğlak yapın, ki böylece, çocuğunuz daha fazla analiz etmeyi ve açıklayıcı sorular sormayı öğrenecektir."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
 msgstr "Değişkenlere isim verme fikrini, aktivitelerinizdeki eksik olan sayılara komik isimler vererek öğretmeye başlayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – 1 MORE/LESS"
+msgstr "EVIMDEN ÇIK GIT!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this."
+msgstr "**Oyuna Hazırlık:** 1’den 10’a kadar olan sayılardan oluşan sayı kartlarından bir deste hazırlayın. Ayrıca, çocuğunuzla ortak kullanacağınız bir kâğıda, yandaki şekildeki gibi, 0’dan 11’e kadar olan sayılarla numaralandırılmış basit kutular veya evler çizin. Çocuğunuzun sayıları sıraya koyabilme pratiğini kazanması için kutuların üzerindeki sayıları sırayla değil karışık bir şekilde yazın. Her oyuncu, farklı 7 jetona sahip olmalıdır; örneğin, farklı renkte jetonlar kullanabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to place all their tokens wins."
+msgstr ""
+"**Nasıl oynanır?** Önce, ilk oyuncu bir kart seçer, sonra, jetonunu, karşı oyuncunun, içinde 1 veya hiç jetonu olmayan bir evine veya kutusuna koyar. Evlerin içerisinde 3 veya daha fazla jeton olmamalı. Eğer evde rakibin jetonlarından 1 veya 2 tane varsa, o jetonlar rakibe geri verilir ve oyuncu rakibe, “Evimden çık git!” der.\n"
+"\n"
+"**Nasıl kazanılır?** Oyunu, tüm jetonlarını evlere yerleştiren ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n"
+"• Use a smaller or larger range of Number Cards and boxes.\n"
+"• Allow moves to houses that are 2 numbers more or less."
+msgstr ""
+"* Eğer çocuğunuz sayılarla oynamaya henüz hazır değilse, sayı kartları veya noktalı kutular kullanabilirsiniz.\n"
+"* Daha küçük veya daha büyük sayı aralıklarına sahip kartları ve kutuları kullanabilirsiniz.\n"
+"* Oyunda, sayıca 2 fazla veya 2 az olan evlere de jeton yerleştirilmesine izin verebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE IN-BETWEEN GAME"
+msgstr "İKISI ARASINDA OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "Si̇pari̇ş"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens."
+msgstr "**Oyuna Hazırlık:** 0’dan 10’a kadar olan sayıları belirten bir kart destesine ihtiyacınız var; sayı kartlarını veya iskambil kartlarını kullanabilirsiniz. İskambil kartlarında Queen yani Kraliçe’yi 0 ile As’ı ise 1 almalısınız. Ayrıca, her oyuncu için 20 jeton olmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n"
+"\n"
+"**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins."
+msgstr ""
+"**Nasıl oynanır?** Oyuna başlayacak oyuncu, kartları dağıtırken, iki kartı düz olarak, üçüncü kartı da ters yani yüzü aşağı bakacak şekilde dağıtır. Oyuncu, ters çevrili olan üçüncü kartın sayı değerinin iki kart arasında olacağına dair bahis oynamaya karar verir ve ortaya 0 ila 3 jetonluk bahis koyar. Eğer oyuncu bahsi kazanırsa, diğer oyuncudan ortaya koyduğu kadar jeton alır. Ama bahsi kaybederse, kendisinin jetonları diğer oyuncuya gider.\n"
+"\n"
+"**Nasıl kazanılır?** Oyun, 5 tur veya oyunculardan birinin jetonu bitene kadar oynanabilir. Oyunu, oyun sonunda en çok jeton toplayan oyuncu kazanır."
 
 #. type=data_list
 msgctxt "data_list"
