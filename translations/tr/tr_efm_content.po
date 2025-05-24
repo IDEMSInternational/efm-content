@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 17:53\n"
+"PO-Revision-Date: 2025-05-24 18:50\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8477,6 +8477,219 @@ msgstr ""
 "**Nasıl oynanır:** Çocuğunuzun az sayıda nesneyi saymasını sağlayın. Onların dikkati başka yerdeyken, nesne sayısını değiştirin. Geriye baktıklarında, ne tür bir değişiklik yaptığınızı sorun. Ne olduğunu düşündüklerini yeniden canlandırarak teorilerini test edebilirler.\n"
 "\n"
 "**Varyasyonlar** Bu kolay olduğunda, cevaplarıyla daha yaratıcı olmalarını sağlayabilirsiniz. Örneğin, 4'ü 6 olarak değiştirirsek, cevap 4'ü ikiye katlamanız ve ardından 2'yi almanız olabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTRODUCING 10’S"
+msgstr "10'LARI TANITMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. Before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The games on the next pages are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next Stage."
+msgstr ""
+"10 parmak ötesindeki dünyaya hoş geldiniz! Burada keşfedilecek harika şeyler var. 10'dan 20'ye kadar olan bir sonraki sayı grubu, çocuğunuzun zaten bildiği sayılardan 10 fazla. Bu durum kolay hale gelmeden önce, çocuğunuz on bir, on iki ve on üç için kullandığımız karmaşık isimleri öğrenmelidir.\n"
+"\n"
+"Bir sonraki sayfadaki oyunlar, 10'un 6 ve 16 gibi sayı çiftlerini bağlamadaki rolünü vurgulamak için tasarlanmıştır. Bu oyunlar ayrıca 16'nın 10 artı 6 olarak düşünülmesi gerektiğini vurgular. Sayıları yer değerini kullanarak çözme yaklaşımı, çocuğunuz bir sonraki aşamada 100'e kadar sayarken çok daha önemli olacak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING NUMBER CARDS 1 TO 20"
+msgstr "0'DAN 20'YE KADAR NUMARA KARTLARI YAPMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
+msgstr "Zaten yoksa, 0'dan 20'ye kadar olan sayılar için genişletilmiş kart desteleri oluşturun. Bir deste normal sayılardan oluşacak, bir deste ise sayıları genişletilmiş biçimde (0 + (0'dan 9'a kadar), 10 + (0'dan 9'a kadar) ve 20 + 0) içerecek ve bir deste de onlu çerçeveleri kullanacak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO WITH 10"
+msgstr "10 ILE BINGO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Place a random collection of 16 Number Cards from 0 to 20 with expanded form on a 4 by 4 bingo board for each child.\n"
+"\n"
+"**How to play:** Generate random numbers to be called out one at a time. Mix up a collection of counting cards from 0 to 20. Select one card at a time from this pile until the first child gets four in a row and yells Bingo!"
+msgstr ""
+"**Hazırlık:** Her çocuk için 4x4 bingo tahtasına, genişletilmiş biçimde 0'dan 20'ye kadar rastgele bir koleksiyon içeren 16 Numara Kartı yerleştirin.\n"
+"\n"
+"**Nasıl oynanır:** Tek tek söylenmek üzere rastgele numaralar oluşturun. 0'dan 20'ye kadar olan sayılarla bir kart koleksiyonunu karıştırın. Bu yığından bir kartı seçin ve dört numara sıraya koyup ‘Bingo!' diyen oyunu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One important variation of this game is to do a “Tens-Reversed” version using cards with numerals. When a card is chosen, if it is 1 to 10, then 10 is added to find the matching value, and if it is 11 to 20, then 10 is subtracted for the matching value."
+msgstr "Bu oyunun önemli bir varyasyonu, rakam kartları kullanarak 'Onlu-Ters' versiyonunu oynamaktır. Bir kart seçildiğinde, eğer 1 ile 10 arasındaysa 10 eklenir ve eşleşen değer bulunur; eğer 11 ile 20 arasındaysa 10 çıkarılır ve eşleşen değer bulunur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE – 10’S"
+msgstr "HAFIZA MEYDAN OKUMASI – 10'LAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting 10"
+msgstr "10 Ekleme Çikarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This version of the Memory Challenge game uses a Number Card deck from 0 to 20 with the rule that two numbers match if they are 10 apart. If you also have cards from 0 to 20 that use expanded form or ten frames, you should use those too. Deal a 3 by 4 grid of cards out on the table, all face-down.\n"
+"\n"
+"**How to play:** Players take turns flipping two cards face-up. If the two cards are ten apart, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards do not match, the player flips the cards back over and ends their turn.\n"
+"\n"
+"**How to win:** The game ends when the last pair of cards is taken. The player with the most cards wins."
+msgstr ""
+"**Hazırlık:** Bu Hafıza Meydan Okuması oyunu, 0'dan 20'ye kadar olan Numara Kartları destesi kullanır ve iki numara 10 farkla eşleşirse kurallar geçerlidir. Eğer ayrıca genişletilmiş biçimde veya onlu çerçeveleri içeren kartlarınız varsa, onları da kullanmalısınız. Masanın üzerine 3x4 kartlık bir grid yerleştirin ve tüm kartlar kapalı olsun.\n"
+"\n"
+"**Nasıl oynanır:** Oyuncular sırayla iki kartı yüzü yukarı çevirecek şekilde açar. Eğer iki kart 10 farkla eşleşiyorsa, oyuncu kartları alır, iki kartı çekme destesinden yenileriyle değiştirir ve sırasına devam eder. Kartlar eşleşmiyorsa, oyuncu kartları geri çevirir ve sırası sona erer.\n"
+"\n"
+"**Nasıl Kazanılır:** Oyun, son çift kart alındığında biter. En fazla karta sahip olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GEOMETRIC ART"
+msgstr "GEOMETRIK SANAT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Similarity and symmetry are two geometric concepts your child can play with."
+msgstr "Benzerlik ve simetri, çocuğunuzun oynayabileceği iki geometrik kavramdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Similar shapes:** Two shapes are similar if they have the same shape, where one may be smaller or larger than the other. Circles have the same shape, so all circles are similar. This sequence of three stars are similar.\n"
+"\n"
+"Challenge your child to pick a picture and draw it two or three times as big, or twice as small."
+msgstr ""
+"**Benzer şekiller:** İki şekil benzer olarak kabul edilir, eğer aynı şekle sahipse, biri diğerinden daha küçük veya daha büyük olabilir. Çemberler aynı şekle sahip olduklarından, tüm çemberler benzerdir. Bu üç yıldız dizisi benzer şekillerdir.\n"
+"\n"
+"Çocuğunuzu bir resim seçmeye ve onu iki veya üç kat büyük, ya da iki kat küçük şekilde çizmeye teşvik edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Mirror symmetry:** Another geometric concept to play with is mirror symmetry. Show this using a mirror with a flat side – put it down along its edge on a drawing or photo and see what the mirror image looks like. Once your child has the idea, give your child half a picture and challenge them to draw the mirror image."
+msgstr "**Yansıma simetrisi:** Oynayabileceğiniz bir diğer geometrik kavram yansıma simetrisidir. Bunu göstermek için düz bir kenarı olan bir aynayı kullanın – resmi veya fotoğrafı üzerine aynayı kenarı boyunca yerleştirin ve ayna görüntüsünün nasıl göründüğüne bakın. Çocuğunuz fikri kavradığında, ona bir resmi yarısını verin ve yansıma görüntüsünü çizmesini teşvik edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIM TRIANGLE"
+msgstr "SIMETRIK ÜÇGEN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes"
+msgstr "Şekiller"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The two players have different colored markers. Place six (use more for a harder game) dots evenly around a circle. Players take turns drawing lines between the dots using their color. The loser is the first player forced to create a triangle all of whose sides have the player’s color and whose corners are on the circle."
+msgstr "**Nasıl oynanır:** İki oyuncunun farklı renkli işaretleyicileri vardır. Bir çemberin etrafına eşit aralıklarla altı nokta (daha zor bir oyun için daha fazla nokta kullanabilirsiniz) yerleştirin. Oyuncular, renklerini kullanarak noktalar arasında çizgiler çizerler. Kaybeden, tüm kenarları oyuncunun rengiyle ve köşeleri çemberde olan bir üçgen oluşturmaya zorlanan ilk oyuncudur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example game:** Here is a game with 'red' moving first. This is a sequence of board positions after each of red's moves. In the last position, no matter where 'green' moves next they will form a triangle and lose."
+msgstr "**Örnek Oyun:** İşte 'Kırmızı’nın ilk hamleyle başladığı bir oyun. Bu, kırmızının her hamlesinden sonraki tahtadaki pozisyonların bir dizisidir. Son pozisyonda, ‘yeşil' nereye hamle yaparsa yapsın bir üçgen oluşturacak ve kaybedecektir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES"
+msgstr "SAYI ŞEKILLERI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Shapes"
+msgstr "Sayı Şekilleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using something small, such as pieces of food, challenge your child to make shapes with a given number of pieces. These shapes can be rectangles, triangles, squares, or anything fun.\n"
+"\n"
+"**Making rectangles:** Your child may notice that for some numbers, such as 12, there are different shapes of rectangles that can be made, and that for other numbers, such as 7, only flat rectangles can be made. Numbers such as 5 and 7 are called prime numbers because there is no way to break them into normal rectangles.\n"
+"\n"
+"**Even and Odd:** Investigate even and odd numbers using number shapes. For a given number, ask your child to put the pieces into two equal rows. You would do this if you were splitting food fairly between two people. For which numbers does it work out evenly?"
+msgstr ""
+"Küçük bir şey kullanarak, örneğin yiyecek parçaları, çocuğunuzdan belirli bir sayıda parça kullanarak şekiller oluşturmasını isteyin. Bu şekiller dikdörtgen, üçgen, kare veya eğlenceli herhangi bir şey olabilir.\n"
+"\n"
+"**Dikdörtgen Yapma:** Çocuğunuz bazı sayılar, örneğin 12 için, farklı şekillerde dikdörtgenler yapılabileceğini fark edebilirken, diğer sayılar, örneğin 7, sadece düz dikdörtgenler yapılabilir. 5 ve 7 gibi sayılar asal sayılar olarak adlandırılır çünkü onları normal dikdörtgenlere bölemezsiniz.\n"
+"\n"
+"**Çift ve Tek Sayılar:** Sayı şekillerini kullanarak çift ve tek sayıları araştırın. Belirli bir sayı için, çocuğunuzdan parçaları iki eşit sıraya koymasını isteyin. Bu, yiyecekleri iki kişi arasında adil bir şekilde bölerken yapacağınız bir şeydir. Hangi sayılar düzgün bir şekilde bölünür?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding Evens and Odds:** Representing even and odd numbers this way makes it easy to see why: Even + Even = Even, Odd + Odd = Even, and Even + Odd = Odd."
+msgstr "**Çift ve Tekleri Toplama:** Çift ve tek sayıları bu şekilde temsil etmek, nedenlerini görmek için kolaylaştırır: Çift + Çift = Çift, Tek + Tek = Çift ve Çift + Tek = Tek."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding up odd numbers:** Once your child knows what an odd number is, investigate adding up the first few odd numbers as shown in this diagram. Amazingly, the sum of the first odd numbers is always a square number."
+msgstr "**Tek Sayıları Toplama:** Çocuğunuz tek sayıların ne olduğunu öğrendiğinde, ilk birkaç tek sayıyı toplamak için bu diyagramda gösterildiği gibi araştırma yapın. Şaşırtıcı bir şekilde, ilk tek sayıların toplamı her zaman bir kare sayıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 2"
+msgstr "2 ILE ÇARPMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Very gradually, introduce multiplication to your child by a small change in language – start referring to doubling a number as taking “two of it” or as “multiplying it by 2.”"
+msgstr "Çocuğunuza çarpmayı çok yavaş bir şekilde tanıtın; dilde küçük bir değişiklikle başlayın – bir sayıyı iki katına çıkarmayı ‘iki tane almak' veya ‘2 ile çarpmak' olarak adlandırın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM – DOUBLING THE LIMIT"
+msgstr "NIM – LIMITI İKI KATINA ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Set a starting total, say 20. Let your child choose whether to go first or second.\n"
+"\n"
+"**How to play:** During the first turn, a player chooses to subtract 1 or 2 from the current total. After the first turn, a player may subtract any number from 1 up to twice the number used on the last turn.\n"
+"\n"
+"**How to win:** The first person to reach 0 wins (an alternative rule is they lose)."
+msgstr ""
+"**Hazırlık:** Başlangıç toplamını belirleyin, örneğin 20. Çocuğunuzun ilk veya ikinci olarak başlamayı seçmesine izin verin.\n"
+"\n"
+"**Nasıl oynanır:** İlk turda, bir oyuncu mevcut toplamdan 1 veya 2 çıkarır. İlk turdan sonra, bir oyuncu geçen turda kullanılan sayı kadar 1'den iki katına kadar olan herhangi bir sayıyı çıkarabilir.\n"
+"\n"
+"**Nasıl Kazanılır:** İlk 0'a ulaşan kişi kazanır (alternatif bir kural olarak, 0'a ulaşan kişi kaybedebilir)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can also be played, with essentially the same rules, by starting at 0 and adding your way up to the target. Once children learn to play this without writing anything down, it is a fun travel game."
+msgstr "Bu oyun, esasen aynı kurallarla, 0'dan başlayıp hedefe doğru ekleyerek de oynanabilir. Çocuklar bu oyunu herhangi bir şey yazmadan oynamayı öğrendiklerinde, eğlenceli bir yolculuk oyunu haline gelir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HALVES AND HALF NOTS"
+msgstr "YARISI OLANLAR VE YARISI OLMAYANLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Two players agree on a target number, say 20, set their running total to 0, and choose who will go first.\n"
+"\n"
+"**How to play:** A turn starts by generating a number using one die or the sum of two dice. If the number is odd, the player must double it. If the number is even, the player may take half of it as many times as is desired as long as the numbers being halved are even. The player then adds that final result to the running total as long as that does not put the total over the target - if the final result cannot be used, the turn is skipped.\n"
+"\n"
+"**How to win:** The player who brings the total exactly to the target number wins."
+msgstr ""
+"**Hazırlık:** İki oyuncu bir hedef sayı belirler, örneğin 20, başlangıcı 0 olarak ayarlar ve kim başlayacaklarına karar verirler.\n"
+"\n"
+"**Oynama Şekli:** Bir tur, bir zar ya da iki zarın toplamı ile bir sayı üreterek başlar. Eğer sayı tekse, oyuncu bu sayıyı iki katına çıkarmalıdır. Eğer sayı çiftse, oyuncu bu sayının yarısını istediği kadar alabilir, ancak yarıya indirilen sayıların çift olması şarttır. Oyuncu daha sonra elde ettiği son sonucu toplamaya ekler, ancak bu toplamın hedefin üzerine çıkmaması gerekir – eğer son sonuç kullanılmıyorsa, tur atlanır.\n"
+"\n"
+"**Nasıl Kazanılır:** Toplamı tam olarak hedef sayıya getiren oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
+msgstr "Oyuncunun başlangıç sayısını değiştirmesine izin vermeyebilirsiniz. Yalnızca bir kez yarıya indirmeye izin verebilirsiniz. Son olarak, hedef sayıdan başlayıp 0'a kadar çıkarak çıkarma pratiği yapabilirsiniz."
 
 #. type=data_list
 msgctxt "data_list"
