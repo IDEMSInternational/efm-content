@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 01:25\n"
+"PO-Revision-Date: 2025-05-24 01:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7192,6 +7192,213 @@ msgstr ""
 msgctxt "data_list"
 msgid "ISLAND HOPPING – COUNTING"
 msgstr "ADALARDAN ATLAMA — SAYMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles use numbered islands (circles) connected by bridges (lines).\n"
+"\n"
+"**The challenge:** Find a path that connects the islands in order. The easiest versions have numbers that go from 1 to the number of islands."
+msgstr ""
+"Bu bulmacalarda köprülerle (çizgilerle) birbirlerine bağlanmış numaralandırılmış adalar (daireler) kullanılır.\n"
+"\n"
+"**Bulmacanın zorluğu:** Adaları sırasıyla birbirlerine bağlayan yolları bulun. Bu bulmacanın daha kolay bir versiyonunda, sayılar 1’den başlayıp toplam ne kadar ada varsa o sayıya kadar gider."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Adjust the challenge 1:** Leave out some numbers so your child figures out what is missing and where it belongs.\n"
+"\n"
+"**Adjust the challenge 2:** Instead of starting at 1, design the puzzles to start at 0 or other numbers. (Note the range at the top of the puzzle)."
+msgstr ""
+"**1. Seviyede:** Çocuğunuzun, hangi sayının eksik olduğunu anlaması ve o sayının nereye ait olduğunu bilmesi için bazı sayıları yazmayın.\n"
+"\n"
+"**2. Seviyede:** Bulmacayı 1’den başlatmak yerine 0’dan veya başka sayılardan başlayacak şekilde tasarlayın. (Not: Şekillerdeki bulmacaların en üst kısımlarındaki sayı aralıklarına dikkat edin!)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a physical puzzle by placing pieces of paper with consecutive numbers on the floor in some twisty path. Your child can solve this puzzle by walking along the path from the smallest to the largest number.\n"
+"\n"
+"Add challenge: Replace some of the numbered pieces with blank ones. Also, have your child to start at the largest number and go downward."
+msgstr ""
+"Bu bulmacayı fiziksel bir bulmaca hâline dönüştürebilirsiniz. Bunun için üzerinde ardışık sayılar bulunan kâğıt parçalarını kıvrımlı bir yol izleyecek şekilde yere koyun. Böylece, çocuğunuz yol boyunca en küçük sayıdan en büyük sayıya doğru yürüyerek bu bulmacayı çözebilir.\n"
+"\n"
+"Zorlaştırın: Numaralandırılmış kâğıt parçalarının yerine boş kâğıtlar yerleştirebilirsiniz. Ayrıca, çocuğunuzun en büyük sayıdan başlayıp en küçük sayıya doğru gitmesini de sağlayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRING NUMBER LINE"
+msgstr "İPTEN SAYI DOĞRUSU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to having a paper number line on a wall, create a number line using a piece of string. Tie or clip a section of string between two objects. Use paper clips to attach sliding Number Cards from 0 to 10 along the string in order."
+msgstr "Duvarınızda kâğıttan bir sayı doğrusu yapabileceğiniz gibi aynı sayı doğrusunu bir ip kullanarak da yapabilirsiniz. İpten sayı doğrusu yapmak için, önce, bir miktar ipi iki nesne veya çiivi arasına bağlayın veya klipsleyin. Ardından, 0’dan 10’a kadar olan sayı kartlarını birer ataç kullanarak sırasıyla ipe tutturun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to exploring these ideas, you and your child will probably discover many more.\n"
+"\n"
+"• Switch two numbers and have your child find the mistake.\n"
+"• Leave out a number and have your child find which one is missing.\n"
+"• Practice adding. To do 4 + 2, slide over the first 4 numbers and then slide the next 2.\n"
+"• Practice subtracting. To do 6 - 2, slide 6 cards to the left, then slide 2 of those to the right."
+msgstr ""
+"Çocuğunuzla birlikte yukarıdaki fikirlerden çok daha fazlasını keşfedebilirsiniz. İşte birkaç fikir:\n"
+"\n"
+"* İki sayının yerlerini değiştirin ve çocuğunuzdan hatayı bulmasını isteyin.\n"
+"* Bir sayıyı sayı doğrusuna koymayın ve çocuğunuzdan hangi sayının eksik olduğunu bulmasını isteyin.\n"
+"* Toplama alıştırması yapın. Örneğin, 4 + 2 için, önce, ilk 4 sayıyı sola kaydırın, ardından, sonraki 2 sayıyı sola kaydırın.\n"
+"* Çıkarma alıştırması yapın. Örneğin, 6 - 2 için, önce, 6 kartı sola kaydırın, sonra, o altı karttan 2 tanesini sağa kaydırın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH!"
+msgstr "BALIĞA GİT OYUNU!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 10"
+msgstr "10’a Kadar Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove cards above the highest number your child is comfortable with. For more than two players, if you have restricted the number range you may need several decks."
+msgstr "**Oyuna Hazırlık:** Kartlarda sadece çocuğunuzun rahatça sayabildiği en yüksek sayıya kadarki sayılar olsun. Oyunda 2’den fazla kişi olacaksa ve eğer sayı aralıkları farklı olursa birkaç deste daha sayı kartına ihtiyacınız olabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Deal 5 cards to each player and put the other cards face down in a shared draw pile.\n"
+"\n"
+"During a turn, a player “fishes” by asking any player if they have a card matching one of their cards. For example: ‘Jonah, please give me a 4’. If they have it, they hand over the card. If they don’t, they say “Go Fish!” and the player must pick a card from the draw pile."
+msgstr ""
+"**Nasıl oynanır?** İlk önce, her oyuncuya 5 kart dağıtın. Kalan kartları ise sayıları görünmeyecek şekilde ters çevirip ortaya koyun.\n"
+"\n"
+"İlk turda, oyuncu, elindeki kartlara bakar ve çift olan kartları elinden çıkarır. Çifti olmayan kartın çiftini bulmak için diğer oyuncuya kartlarından herhangi biriyle eşleşen bir karta sahip olup olmadığını sorar. Örneğin, “Jale, elindeki 4’ü bana ver!” diyebilir. Jale’nin elinde istediğiniz sayı varsa, onu size vermelidir ama elinde yok ise, size, “Balığa git!” der ve siz de istediğiniz kart gelene kadar o ortaya koyduğunuz kart destesinden bir kart çekersiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Making a book:** When a player has a pair of matching cards, those cards are placed in a “book” in front of them.\n"
+"\n"
+"**How to win:** The game is over after all the cards have been put into books. The player with the most books wins."
+msgstr ""
+"**Kitap yapma:** Bir oyuncunun bir çift eşleşen kartı olduğunda, bu kartlar yüzü yukarıya bakacak şekilde önlerinde bulunan bir “kitaba” yerleştirilir.\n"
+"\n"
+"**Nasıl kazanılır?** Tüm kartlar kitaplara yerleştirildiğinde oyun biter. Oyunu en çok kitabı olan—elindeki kartların hepsinin çiftini bulan—oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES ON THE FLOOR"
+msgstr "YERDEKI ŞEKILLER"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Cut large shapes from big pieces of paper (use color paper if you have it) and place the shapes on the floor. At first, use basic shapes such as triangles, rectangles, squares, pentagons, hexagons, and octagons. Find patterns for these online or in the EFM Printables file. To cause more running around, include more than one of each shape."
+msgstr "**Oyuna Hazırlık:** Büyük kâğıt parçalarından büyük şekiller kesin (varsa renkli kâğıt kullanın) ve şekilleri yerlere koyun. Şekilleri keserken, başta, üçgenler, dikdörtgenler, kareler, beşgenler, altıgenler ve sekizgenler gibi temel şekilleri kesin. Bu şekilleri internetten bulabilir veya EFM’nin web sitesinde de bulabilirsiniz. Çocuğunuzun koşmasını sağlamak için her şekilden birden fazla sayıda ekleyebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Give your child some shape information and ask them to run to that shape, or shapes. For a very young child, show them a drawing and ask them to find and name that shape on the floor. For older children, name the shape and challenge them to find it.\n"
+"\n"
+"Add variety to this by asking for shapes all of whose sides are the same length, or all of whose angles are the same (or all different), or whose opposite sides (or angles) are the same size.\n"
+"\n"
+"**Extending the challenge:** With experience, include less basic shapes – add specific triangles (right, obtuse, acute), a kite, a parallelogram (diamond), a star, and some unusual shapes.\n"
+"\n"
+"As your child gets experienced, playfully mix in some impossible requests such as a triangle with two right angles or a quadrilateral with exactly three right angles."
+msgstr ""
+"**Zorlaştırın:** Çocuğunuza şekil hakkında bazı bilgiler verin, sonra o şekle ya da şekillere doğru koşmasını isteyin. Yaşça daha küçük çocuklar için ise, onlara, önce, şeklin bir resmini gösterin, ardından o şekli yerde bulup adlandırmalarını isteyin. Yaşça daha büyük çocuklar için ise şeklin ismini söyleyip o şekli yerde bulmalarını isteyebilirsiniz.\n"
+"\n"
+"Oyuna çeşitlilik katın. Örneğin, çocuğunuza tüm kenarları veya tüm açıları aynı (ya da farklı) olan veya karşılıklı kenarları (veya açıları) aynı olan şekilleri sorabilirsiniz.\n"
+"\n"
+"**Zorlaştırın:** Çocuğunuz tecrübe kazandıkça, bu aktiviteye temel şekillerden daha az sayıda ekleyin.\n"
+"\n"
+"Temel şekillerin yerine üçgenler (dik, geniş, dar açılı), uçurtmalar, paralelkenarlar, elmaslar, yıldızlar veya bazı alışılmadık şekiller ekleyebilirsiniz. Çocuğunuz bu şekillerde de deneyim kazandığında, bu sefer, iki tane dik açısı olan bir üçgen veya üç dik açısı olan bir dörtgen gibi bazı olağandışı şekilleri de şakacıktan oyuna dahil edebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another way to play"
+msgstr "Oyunun farklı bir versiyonu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reverse roles so your child makes up questions and you find the shapes. Make a \"mistake\" sometimes and have your child explain to you what you did wrong."
+msgstr "Rolleri tersine çevirin; bu sefer soruları soran çocuğunuz olsun ve siz de şekilleri bulan olun. Hatta bazen bilerek bir “hata” da yapın ve çocuğunuzun size neyi yanlış yaptığınızı açıklamasını sağlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CONNECT THE DOTS – STRING ART"
+msgstr "NOKTALARI BIRLEŞTIRIN — İP SANATI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make abstract drawings by connecting points with the same number along opposite sides of an angle.\n"
+"\n"
+"Another way is to put some dots, say 9, evenly spaced on a circle. Play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot."
+msgstr ""
+"İp kullanarak aynı sayılarla numaralandırılmış noktaları, bir açının karşı kenarları boyunca birleştirerek soyut çizimler yapabilirsiniz.\n"
+"\n"
+"Bu tür sanatı, dairenin üzerine eşit aralıklarla belli sayıda, mesela 9 tane, noktalar yerleştirerek de yaratabilirsiniz. Noktaları ister sırayla isterseniz her ikinci veya her üçüncü noktayla birleştirerek farklı desenler oluşturmaya çalışın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE"
+msgstr "HAFIZAYA MEYDAN OKUMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Select two or four sets of Number Cards and remove numbers above your child’s comfort level. Place the cards face down in a 3 by 3 grid, with the remaining cards put in a draw pile."
+msgstr "**Oyuna Hazırlık:** İki veya dört deste kadar sayı kartı alın ve sadece çocuğunuzun rahatlıkla sayabildiği sayıların olduğu kartları kullanın. Kartları sayıları aşağıya bakacak şekilde ters çevirerek resimdeki gibi 3x3’lük bir ızgara şeklinde dizin ve kalan kartları kart destesine geri koyun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Take turns flipping two cards face-up. If the cards match, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards don’t match, the player flips the cards back over and ends their turn."
+msgstr "**Nasıl oynanır?** Sırayla, her oyuncu seçtiği iki kartı düz çevirir. Eğer iki kart da eşleşirse, oyuncu kartları alır ve eşleşen kartlrı kart destesindeki başka kartlarla değiştirir ve sıra diğer oyuncuya geçer. Eğer kartlar eşleşmezse, oyuncu açtığı kartları tekrar ters çevirir ve böylece, kendi oyun sırasını bitirir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The game ends when the last pair is taken. The player with the most cards wins."
+msgstr "**Nasıl kazanılır?** Kart destesinden son kart çifti alındığında oyun sona erer. Oyunu en çok karta sahip olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow at most one match per turn.\n"
+"• Use a target sum larger than the largest card. Two cards match if their sum is the target."
+msgstr ""
+"* Her turda en fazla bir eşleşmeye izin verin.\n"
+"* En büyük sayılı karttan daha büyük bir ‘hedef toplam’ kullanın. Eğer seçilen kartların toplamları hedef toplama eşitse, o zaman iki kartın eşleştiği farzedilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO! WITH CARDS"
+msgstr "KARTLI BINGO OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Play this with Number Cards, or if there are many players, with numbered regular playing cards."
+msgstr "**Oyuna Hazırlık:** Bu oyun, sayı kartlarıyla veya eğer çok sayıda oyuncuyla oynanacaksa numaralandırılmış normal oyun kartlarıyla oynanabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Reserve two suits worth of cards for a draw pile, and divide the remaining cards among the players. Each player randomly selects 16 cards to place in a 4 by 4 grid face up in front of them."
+msgstr "**Nasıl oynanır?** Önce, iki takım için de yeterli olacak sayıda kart destesi hazırlanır—bu kartlar, oyuncuların ‘kart çekme destesi’ olacak. Sonra, kalan kartlar oyuncular arasında eşit şekilde paylaştırılır. Ardından, her oyuncu, rastgele 16 kart seçer ve seçtiği kartlarla, sayıları yukarıya bakacak şekilde, 4x4’lük bir tablo ya da kare oluşturur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take a card from the draw pile and call it out. Each player may turn over one card from their grid that matches the number drawn. If a player has more than one card that matches, the player must choose which one to turn over.\n"
+"\n"
+"**How to win:** The first player to get four cards flipped over in a row horizontally, vertically, or diagonally wins the game and calls out “Bingo!”"
+msgstr ""
+"Daha sonra, oyuncu, kart destesinden bir kart seçer ve yüksek sesle onun hangi sayı olduğunu söyler. Eğer söylenen sayı oyuncunun kartlarındaki bir sayıyla eşleşirse, o zaman oyuncu o kartı alıp sizden alıp eşleşen kartın üstüne koyarak kartı kapatır. Bir oyuncunun birden fazla eşleşen kartı varsa, hangi kartın üstüne koyacağına kendisi karar verebilir.\n"
+"\n"
+"**Nasıl kazanılır?** Oyunu yatay, dikey veya çapraz yönde arka arkaya toplam 4 adet kartını ters çevirmiş veya kapatmış olan kazanır ve “Bingo!” diye bağırır."
 
 #. type=data_list
 msgctxt "data_list"
