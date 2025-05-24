@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 05:26\n"
+"PO-Revision-Date: 2025-05-24 15:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7967,6 +7967,16 @@ msgid ""
 msgstr ""
 "* Çapraz karelere izin verin.\n"
 "* 5x5’ten daha büyük kareler kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAG STORIES – ADD AND SUBTRACT"
+msgstr "ÇANTA HIKÂYELERI — TOPLAMA VE ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
+msgstr "Değişkenlere isim verme fikrini, aktivitelerinizdeki eksik olan sayılara komik isimler vererek öğretmeye başlayabilirsiniz."
 
 #. type=data_list
 msgctxt "data_list"
