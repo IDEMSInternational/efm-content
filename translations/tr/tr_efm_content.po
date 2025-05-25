@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 00:25\n"
+"PO-Revision-Date: 2025-05-25 02:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9262,6 +9262,83 @@ msgstr ""
 "Her oyuncuya, yüz kartları hariç bir desteden beş kart dağıtılır. Oyuncular, kartlarının herhangi bir kombinasyonunu toplama ve çıkarma kullanarak hedefe ulaşmanın veya hedefe olabildiğince yaklaşmanın mümkün olduğu kadar çok yolunu bulurlar.\n"
 "\n"
 "Bu etkinliği grup olarak yapabilirsiniz; tüm grup beş kart alır ve toplamı başarmak için iş birliği yaparak yollar bulur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "PIRAMIT SOLITAIRE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**Hazırlık:** Hedef numara (örneğin, 10) üzerindeki kartları çıkarın. 6 satırlık bir 21 kartlık piramit oluşturun. Kartları piramide yüzü yukarı bakacak şekilde yerleştirin; her alt satır, üst satırın yarısını örtmelidir. Kalan kartlar deste oluşturur.\n"
+"\n"
+"**Nasıl oynanır:** Hedefe eşit olan ve örtülmemiş kart gruplarını toplayın ve bir kenara koyun. Bu grup, deste üzerindeki en üst kartı veya atma destesindeki kartı içerebilir. Eşleşme yoksa, deste üzerindeki en üst kartı atma destesine koyun.\n"
+"\n"
+"**Mücadele::** Piramidi tüm kartlardan boşaltın. Oyun, deste boşaldığında biter."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**Düşük Hedefler:** Hedef numara 10'dan küçükse, yeterli büyüklükte bir deste elde etmek için piramidin boyutunu bir veya iki satır azaltın. Örneğin, 8 hedefi için 5 satırda 15 kart kullanın.\n"
+"\n"
+"**Çıkarma Kullanma:** Toplama yerine çıkarma kullanın. Kartlar 10'a kadar kullanılıyorsa, iyi bir hedef numara 5'tir – farkı 5 olan kart çiftlerini çıkarın. Bir ‘5' aldığınızda ya onu çıkarabilir ya da 10 ile eşleştirebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "FARK PIRAMIDI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "Solitaire Bulmacalar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**Mücadele:** 1'den 6'ya kadar olan sayıları bir piramide yerleştirin; en üst sırada bir kart, ikinci sırada iki kart ve üçüncü sırada üç kart olacak şekilde, her sayının altında doğrudan bulunan iki sayının farkı olmalıdır.\n"
+"\n"
+"Çocuğunuzun zaman ayırıp bu konuda oynamasına izin verin. Çoğunlukla, sadece deneme yaparak bir çözüm bulacaktır. Ancak çocuğunuz endişelenirse, işte iki ipucu: 6, hiçbir çift sayının farkı olamayacağı için alt sırada olmalıdır. Benzer şekilde, 5 ya alt sırada ya da 6 ve 1'in üstündeki orta sırada olmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "Llgili Zorluklar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "Çocuğunuz bunu kolay bulursa, bunu kaç farklı şekilde yapabileceğini bulmaları için meydan okuyun. İki çözümün farklı olmasını tartışın – eğer bir çözüm diğerinin ayna görüntüsü ise, bu farklı mı sayılmalıdır? Bir diğer zorluk ise, 1'den 10'a kadar olan sayıları dört seviyeli bir fark piramidinde yerleştirmek olacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "STRATEJİ OYUNLARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "Strateji oyunları oynamak, çocuğunuzun akıl yürütme, planlama ve problem çözme becerilerini geliştirmesine yardımcı olacaktır. Bu tür oyunlardan onlarca tanesi vardır – örneğin, X-O, 9 Erkek Morris, Tilki ve Kazlar, Dara, Dört Bağla, Mancala, Dama, Go, Satranç – burada tümünü kapsamamız çok zordur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "TAPATAN"
 
 #. type=data_list
 msgctxt "data_list"
