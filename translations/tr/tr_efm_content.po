@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 20:35\n"
+"PO-Revision-Date: 2025-05-25 21:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10648,6 +10648,373 @@ msgstr ""
 msgctxt "data_list"
 msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
 msgstr "Bu sayılara baktıktan sonra, çocuğunuz her sayı çiftinin toplamının bir sonraki sayıyı verdiğini fark edebilir. Neden böyle olur? Bu sayılar Fibonacci Sayıları olarak adlandırılır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "DENGE TERAZISI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"Bir denge terazisi, iki şeyin aynı ağırlıkta olduğunu söylemek için kullanılan bir cihazdır. Terazi genellikle nesneleri tartmak için kullanılan bir ağırlık seti ile birlikte gelir. Kullanabileceğiniz ağırlıkları sınırladığınızda yapabileceğiniz bazı ilginç araştırmalar şunlardır:\n"
+"\n"
+"**Soru 1:** Eğer sadece 4 birim ve 7 birim ağırlıklara sahipseniz, tam olarak tartabileceğiniz şeyler, çiçek yaprağı araştırmasında bulduğunuz şeylerle aynıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**Soru 2:** Eğer ağırlıklar terazinin her iki tarafında da bulunabiliyorsa, hangi şeyleri tam olarak tartabilirsiniz?\n"
+"\n"
+"**Soru 3:** Bu iki sorunun cevapları, 4 ve 7 yerine 3 ve 8, ya da belki 4 ve 6 veya 8 ve 12 gibi ağırlıklar kullandığınızda nasıl değişir?\n"
+"\n"
+"**Soru 4:** 1, 2, 4, 8 ve 16'nın her biri için birer ağırlığınız varsa, 13 birim ağırlığındaki bir şeyi kaç farklı şekilde tartabilirsiniz? Ağırlıkları her iki tarafta da kullanmanıza izin verirseniz durum değişir mi? Ölçebileceğiniz en büyük ağırlık nedir? Bu durum, ikili sayı sistemi ile ilgilidir.\n"
+"\n"
+"**Soru 5:** 1, 3, 9 ve 27 gibi üçleme ilerlemesindeki ağırlıkları kullanırsanız ne olur? Bu ağırlıkları her iki tarafta da kullanmanıza izin verirseniz hangi şeyleri tartabilirsiniz?\n"
+"\n"
+"**Soru 6:** Ağırlıklar Fibonacci Sayıları olduğunda ne olur? Bazı ağırlıkları tartmanın birden fazla yolu var mı? Her ağırlığı elde etmenin sadece bir yolu olacak şekilde Fibonacci ağırlıkları için bir kısıtlama bulun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "5. Aşama — 100’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Introduction"
+msgstr "5. Aşama — Giriş"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child can now count to 100! They can comfortably do mental single-digit addition and subtraction. They can also count or skip count up or down by any number, and tied to that skill is their ability to add or subtract a single-digit number with a double-digit number. They can compare two double-digit numbers, and they have a beginning sense of place value with 10’s and 1’s.\n"
+"\n"
+"As their skip counting is improving, they are also developing skills with multiplying by 2, 3, 4, 5, and 10. The idea of even and odd numbers now makes a lot more sense to them.\n"
+"\n"
+"Extend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
+msgstr ""
+"**Nerelerdeydin**\n"
+"\n"
+"Çocuğunuz artık 100’e kadar sayabiliyor! Tek haneli toplama ve çıkarma işlemlerini rahatça zihinden yapabiliyor. Ayrıca, herhangi bir sayıya göre sayabilir veya atlayarak sayabilirler ve bu beceriyle birlikte tek haneli bir sayıyı iki haneli bir sayıya ekleyip çıkarabilirler. İki tane iki haneli sayıyı karşılaştırabilirler ve 10’lar ve 1’ler ile basamak değerine dair temel bir anlayışa sahiptirler.\n"
+"\n"
+"Atlama sayıları konusundaki gelişimleriyle birlikte, 2, 3, 4, 5 ve 10 ile çarpma becerilerini de geliştiriyorlar. Çift ve tek sayılar artık onlara çok daha anlamlı geliyor.\n"
+"\n"
+"Önceki aşamalardaki etkinlikleri daha büyük sayılara genişletin: Aşama 3: Şekil Toplamları, Biraz Daha Artış; Aşama 4: Savaş - İki Haneli Toplama ve Çıkarma, Fark Üçgenleri ve Toplam Üçgenler, Düzeltme, 1’ler ve 10’lar ile Ada Atlama, Boşlukları Doldurma Karşılaştırması, Kare toplam ve Toplama Piramidi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New ideas for this stage"
+msgstr "Bu Aşamadaki Yeni Fikirler"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 200 – Introduce the 100’s place by looking at the numbers from 100 to 200.\n"
+"* Skip Counting to 100 – This is not new, but it is an important skill to reinforce.\n"
+"* Expanded Form and Place Value – This is a foundational skill, so it will be reinforced further.\n"
+"* Double-digit Addition and Subtraction – Skip counting will help make this seem effortless.\n"
+"* All Single-digit Multiplication – It is time to fill in the missing gaps for 6, 7, 8, and 9.\n"
+"* Rectangle Area is Length x Width – This is an important idea in its own right. This fact will also provide many opportunities for fun games and puzzles involving multiplication and factoring.\n"
+"* Factoring – Your child will learn the beauty of how numbers break apart into factors. 1 is a unit. A number bigger than 1 only divisible by 1 and itself is prime. A number bigger than 1 that is not prime is composite. 3 **squared** is 3 × 3. 3 **cubed** is 3 × 3 × 3. And 3 raised to a power means to multiply 3 by itself that many times - for example, 3 to the fourth is 3 × 3 × 3 × 3.\n"
+"* Factors, Divisors, and Multiples – 3 divides evenly into 12. That makes 3 a factor or divisor of 12, and 12 a multiple of 3. 3 is a common factor of 12 and 15, and 12 is a common multiple of 4 and 6.\n"
+"* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
+"* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
+msgstr ""
+"* 200'e Kadar Sayma – 100 ile 200 arasındaki sayılara bakarak 100’ler basamağını tanıtın.\n"
+"*100’e Kadar Atlayarak Sayma} – Bu yeni bir konu olmasa da, pekiştirilmesi gereken önemli bir beceridir.\n"
+"* Genişletilmiş Form ve Basamak Değeri – Bu temel bir beceridir, bu yüzden daha da pekiştirilecektir.\n"
+"* İki Haneli Toplama ve Çıkarma – Atlayarak sayma bu işlemleri kolay hale getirmeye yardımcı olacaktır.\n"
+"* Tek Haneli Çarpma} – 6, 7, 8 ve 9 için eksik kalan yerleri doldurma zamanı.\n"
+"* Dikdörtgen Alanı Uzunluk x Genişlik} – Bu kendi başına önemli bir konudur. Bu bilgi, çarpma ve bölenlerle ilgili birçok eğlenceli oyun ve bulmacalar için olanak sunacaktır.\n"
+"* Çarpanlar – Çocuğunuz sayıların çarpanlara nasıl ayrıldığını öğrenmenin güzelliğini keşfedecek. 1 bir birimdir. 1’den büyük bir sayı sadece 1 ve kendisi ile bölünebiliyorsa asal sayıdır. 1’den büyük, asal olmayan bir sayı ise bileşiktir. 3’ün karesi şeklinde 3 x 3’tür. 3 küpü 3 x 3 x 3 şeklindedir. 3’ün bir kuvveti, 3’ü kendisiyle belirtilen kadar çarpmak anlamına gelir – örneğin, 3’ün dördüncü kuvveti 3 x 3 x 3 x 3’tür.\n"
+"* Çarpanlara Bölenler ve Katlar – 3, 12’i kalansız şekilde böler. Bu, 3’ün 12’nin bir çarpanı veya böleni ve 12’nin 3’ün bir katı olduğu anlamına gelir. 3, 12 ve 15’in ortak bir bölenidir ve 12, 4 ve 6’nın ortak bir katıdır.\n"
+"* Tek Haneli Bölme – Çocuğunuz bölmeyi dolaylı olarak çarpma problemlerinde eksik bir çarpanı bulma şeklinde öğrenecek.\n"
+"* Çarpan Aileleri} – Çarpma ve bölme işlemlerinin bağlantısını pekiştireceğiz. Örneğin, 2 x 5 = 10, 5 x 2 = 10, 10 / 2 = 5 ve 10 / 5 = 2 bir çarpan ailesi oluşturur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MENTAL MULTIPLICATION"
+msgstr "ZIHINDEN ÇARPMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
+msgstr "Bu öğretme yöntemleri, tek haneli çarpma öğretmek için yapılandırılmış stratejiler sunar. Çocuğunuz, herhangi bir sayıyı iki katına çıkarmada, herhangi bir sayıya göre atlayarak saymada ve 5 ile 10 ile çarpmada zaten iyi olmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 x 4 = 4 x 3"
+msgstr "3 x 4 = 4 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
+msgstr "Çocuğunuz toplama konusuna o kadar alıştı ki, 2 + 3'ün 3 + 2 ile aynı olduğunu görmek onun için şaşırtıcı değil. Aynı şey çarpma için de geçerlidir, ancak bu kadar belirgin olmayabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
+msgstr ""
+"Bu gösterim, iki sıra üçün üç sıra iki ile aynı olduğunu gösterir – sadece bakış açınızı değiştiriyorsunuz! İki sayıyı hangi sırayla çarptığınız fark etmez, aynı sonucu alırsınız.\n"
+"\n"
+"Bu harika gözlem, çocuğunuzun sadece bir çarpma faktörünü öğrenmesinin yeterli olduğu anlamına gelir – çocuğunuz 3 x 4'ü bildiğinde, aynı zamanda 4 x 3'ü de öğrenmiş olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SQUARES"
+msgstr "KARELER"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
+msgstr "Nasıl ki toplama ikilileri önemli toplama işlemi stratejileri olduğu gibi, sayıların kareleri genellikle çarpma için önemlidirler. Bunları öğrenmek, diğer çarpma gerçeklerini öğrenmek için iyi bir temel sağlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1 MORE OR 1 LESS"
+msgstr "1 Eksik 1 Fazla"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When combined with the other earlier skills, the strategy of using '1 more' or '1 less' is effective for calculating the remaining multiplication facts. \n"
+"\n"
+"For example, 9 × 7 is one 7 less than 10 × 7. So 9 × 7 = 70 – 7 = 63. This works for all 9’s. \n"
+"\n"
+"Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
+msgstr ""
+"Daha önce öğrenilen becerilerle birleştirildiğinde, '1 eksik' veya '1 fazla' stratejisini kullanmak, çarpma işlemlerini hesaplamak için etkili bir yöntemdir.\n"
+"\n"
+"Örneğin, 9 x 7, 10 x 7'den bir 7 daha azdır. Yani 9 x 7 = 70 - 7 = 63. Bu, tüm 9'lar için geçerlidir.\n"
+"\n"
+"Ayni şekilde, 3 x 7, 7'yi ikiye katlamaktan bir 7 daha fazladır, yani 3 x 7 = 7 + 14 = 21. Bu, tüm 3'ler için geçerlidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 9"
+msgstr "9 İLE ÇARPMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Multiplication"
+msgstr "Zihinden Çarpma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr "9 İle çarpmak son strateji olsa da kendi başlarına öğrenmeleri eğlencelidir. Eğer 9’un katlarını sırayla yazarsanız, onlar basamağının her zaman çarptığınız sayıdan bir eksik olduğunu ve birler basamağı ile onlar basamağının toplamının her zaman 9 ettiğini göreceksiniz!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING 100"
+msgstr "100 YAPMAK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.”\n"
+"\n"
+"**How to play:** Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total.\n"
+"\n"
+"**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
+msgstr ""
+"**Hazırlık:** Her oyuncunun 7 satır ve 3 sütundan oluşan bir kağıt sayfası alır. Sütunlar “10’lar,” “1’ler” ve “Toplam” olarak işaretlenmiştir.\n"
+"\n"
+"**Nasıl oynanır:** Her oyuncunun toplamı 0’dan başlar. Bir zar atın veya 1 ile 9 arasında rastgele bir oyun kartı seçin. Her oyuncu bu sayıyı mevcut satırda “1’ler” veya “10’lar” sütununda kullanmayı seçer. Örneğin, sayı 4 ise, bu sayı 4 veya 40 olarak kullanılabilir. Seçilen sayı toplam değere eklenir.\n"
+"\n"
+"**Nasıl kazanılır:** Hedef olan 100’ü aşan bir oyuncu “iflas eder” ve kaybeder. Eğer hiçbir oyuncu iflas etmezse, 100’e en yakın olan kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins. \n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"Bu oyun için birçok seçenek vardır:\n"
+"\n"
+"* Farklı bir hedef sayı kullanın.\n"
+"* Daha az veya daha fazla satır kullanın.\n"
+"* Hedefi aşarsanız iflas etmeyin. Her iki taraftan da hedefe en yakın olan kazanır.\n"
+"* 3 basamaklı sayıları çalışmak için 100’ler sütununu ekleyin.\n"
+"* Hedef sayıdan başlayarak sıfıra doğru çıkararak çıkarma işlemini pratiğe dökün."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAKE YOUR CLAIM"
+msgstr "BIRAKMA PEŞINI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value and Addition Games"
+msgstr "Basamak Değeri ve Toplama Oyunları"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a paper with a number line from 0 to 99 to share.\n"
+"\n"
+"**How to play:** On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line.\n"
+"\n"
+"**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
+msgstr ""
+"**Hazırlık:** Paylaşmak için 0'dan 99'a kadar sayı doğrusu olan bir kağıdınız olsun.\n"
+"\n"
+"**Nasıl oynanır:** Bir turda, bir oyuncu 0'dan 9'a kadar iki rastgele kart kullanır ve bu iki sayıyı sıralayarak 0'dan 99'a kadar bir sayı üretir ve ardından bu sayıyı sayı doğrusunun kendi tarafına koyar.\n"
+"\n"
+"**Nasıl kazanılır:** Bir bölgede rakibin sayı almadan dört sayı alan ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variation"
+msgstr "Varyasyon"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game can also be played from 000 to 999."
+msgstr "Oyun ayrıca 0'dan 999'a kadar oynanabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BONDED GROUPS"
+msgstr "BAĞLI GRUPLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two versions of these puzzles."
+msgstr "Bu bulmacaların iki versiyonu var."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
+msgstr "**Versiyon 1:** Aşama 3'teki Toplam Grup bulmacalarıyla aynıdır, ancak şimdi hedef toplamlar daha büyük olabilir. Tahtalar herhangi bir boyutta olabilir ve burada 4'e 4'lük bir tahta kullanıyoruz. Hedef sayı solda, bu durumda 13'tür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
+msgstr "**Mücadele:** Toplamı hedef (13) olan bağlı sayı gruplarını tanımlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
+msgstr "**Versiyon 2:** İşte hedef numarası 20 olan 4'e 4 tahtaya bir örnek. Toplam Gruplarında olduğu gibi, tahta çiftlerle doldurulur ve hedefe ulaşan sayıların üç katı. Ancak şimdi bu grupların hiçbirinde yer almayan bir kare olacak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
+msgstr "**Mücadele:** Mücadele, o sayıya sahip olan tek kareyi bulmaktır. Bu örnekte, bu sayı ‘5’tir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MISSING NUMBERS"
+msgstr "EKSIK SAYILAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Create these puzzles by taking a simple addition or subtraction equation and leaving out some of the digits. If you accidentally leave out too many numbers, that can open up a discussion of what all the possible solutions are – for example, if you start with 2 + 5 = 7 and leave out the first and third numbers, there are many solutions to ? + 5 = ?\n"
+"\n"
+"**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
+msgstr ""
+"**Nasıl oynanır:** Bu tür bulmacaları oluşturmak için basit bir toplama veya çıkarma işlemi seçin ve bazı rakamları boş bırakın. Eğer yanlışlıkla çok fazla sayı çıkarırsanız, bu durum tüm olası çözümlerin ne olduğunu tartışmaya sebep olabilir. Örneğin, 2 + 5 = 7 işlemini ele alırsanız ve ilk ve üçüncü sayıları boş bırakırsanız, ? + 5 = ? şeklinde birden fazla çözüm bulunabilir.\n"
+"\n"
+"**Örnek:** Aşağıdaki iki problemlerde her birinde birkaç rakam bırakılarak Eksik Sayı bulmacalarına dönüştürülür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
+msgstr "**Harf yerine koyma bulmacaları:** Bu eksik sayı bulmacaları, basit değişkenler kullanmaya geçiş için oldukça anlaşılır bir başlangıçtır. Bu tür bulmacalarda iyileştikten sonra, çocuğunuz bu Aşamada daha sonra açıklanan Harf Yerine Koyma bulmacalarını çözmeye hazır olacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING MULTIPLICATION CARDS"
+msgstr "ÇARPMA KARTLARI YAPMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a set of multiplication cards to practice these math facts while playing matching games your family played earlier: Stage 1 - Go Fish, Memory Challenge; Stage 2 - Bingo; Stage 3 - Hot Potato; and Stage 4 - Gin Rummy.\n"
+"\n"
+"**How to create:** Hand draw four cards for each math fact. These are the four cards for 3 × 4."
+msgstr ""
+"Çarpma işlemlerinde pratik yapmak için bir dizi çarpma kartı hazırlayın ve bu kartları ailenizle daha önce oynadığınız eşleştirme oyunlarında kullanın: 1. Aşama- Balık Tutma Oyunu, 2. Aşama- Hafıza Oyunu, 3. Aşama- Bingo, 4. Aşama- Sıcak Patates, 5. Aşama- Gin Rummy.\n"
+"\n"
+"**Nasıl yapılır:** 3 X 4 için dört kart şunlardır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* the expression \n"
+"* groups of objects\n"
+"* an array\n"
+"* prime factoring"
+msgstr ""
+"* ifade\n"
+"* gruplar\n"
+"* bir dizi ve\n"
+"* asal çarpanlara ayırma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Options:** One option is to include 3 × 4 and not include 4 × 3. This has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3.\n"
+"\n"
+"For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
+msgstr ""
+"**Seçenekler:** Bir seçenek, 3 x 4 işlemini dahil etmek, ancak 4 x 3 işlemini dahil etmemektir. Bunun dezavantajı, 3 tane 4’lük grup görmenin, 4 tane 3’lük grup görmekten farklı olmasıdır.\n"
+"\n"
+"Dizi kartları için, çocuğunuzun atlayarak saymayı pratik etmesine yardımcı olmak amacıyla, atlayarak sayma numaralarını bir veya her iki kenara yerleştirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "İfade kartları için, her sayıyı o sayının asal çarpanlarına ayırma sembolüyle değiştirin. Bu, iki sayıyı çarparken asal çarpanların nasıl birleştiğini görmeyi kolaylaştırır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "ÇARPIMLARI AÇIĞA ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "Çarpma Kartlari ve Çarpim Tablosu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Use a blank table with 4 product rows and columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers, possibly with duplication, from 2 to 9. Fill in the table out of sight of your child, and then flip over or cover the numbers.\n"
+"\n"
+"**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
+msgstr ""
+"**Nasıl oynanır:** Bir boş tablo oluşturun, 4 ürün satırı ve sütunu olacak şekilde. Ayrıca üst ve sol taraflarda dört grup eksik sayılar olacak – bu sayılar, 2’den 9’a kadar olan sayılardan bazılarını, tekrarla birlikte içerebilir. Tabloyu, çocuğunuzdan gizli bir şekilde doldurun, sonra sayıları ters çevirin veya üzerini kapatın.\n"
+"\n"
+"**Zorluk:** Çocuğunuz, 16 ürün girişinden en fazla 10 tanesini sırayla açmak için izin isteyebilir. Amaç, hamleler bitmeden önce üst ve sol taraflardaki girişleri bulmaktır."
 
 #. type=data_list
 msgctxt "data_list"
