@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-24 23:25\n"
+"PO-Revision-Date: 2025-05-25 00:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8854,6 +8854,414 @@ msgstr "YUKARI ÇIKMA"
 msgctxt "data_list"
 msgid "**The setup:** Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
 msgstr "**Hazırlık:** Her oyuncu 4 ila 10 basamaktan oluşan bir merdiven çizer (daha fazla basamak yaşça büyük oyuncular için)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a two-digit number using cards numbered from 0 to 9. Determine the tens digit by selecting from cards 0 and 1, and then determine the ones digit by selecting from all the cards. If possible, the player must place this number on their steps.\n"
+"\n"
+"**How to win:** The first player to fill their steps in increasing order from bottom to top wins. Make it easier by allowing neighboring steps to have the same value."
+msgstr ""
+"**Nasıl oynanır:** 0'dan 9'a kadar numaralandırılmış kartları kullanarak iki basamaklı bir sayı oluşturun. Onlar basamağını 0 ve 1 numaralı kartlardan seçerek, birler basamağını ise tüm kartlardan seçerek belirleyin. Mümkünse, oyuncu bu sayıyı merdiven basamaklarına yerleştirmelidir.\n"
+"\n"
+"**Nasıl kazanılır:** Nasıl kazanılır: Merdiven basamaklarını aşağıdan yukarıya artan sırayla dolduran ilk oyuncu kazanır. Yan yana olan basamakların aynı değerde olmasına izin vererek oyunu kolaylaştırın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATING ORDER"
+msgstr "SIRA OLUŞTURMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order in the House"
+msgstr "Siralama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a deck of Number Cards that goes from 0 to 40 (higher with more players). Deal ten cards to each player (as few as four for younger players). The dealt cards are placed in front of each player in the order dealt. The remaining cards are placed face down in a draw pile. Place the top card face up as the first card in a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile."
+msgstr ""
+"**Hazırlık:** 0'dan 40'a kadar giden bir Numara Kartları destesiyle başlayın (daha fazla oyuncu için daha yüksek sayılar kullanılabilir). Her oyuncuya on kart dağıtın (daha küçük oyuncular için dört kadar az olabilir). Dağıtılan kartlar, her oyuncunun önüne dağıtıldıkları sırayla yerleştirilir. Kalan kartlar, bir çekme destesi olarak yüzü aşağı bakacak şekilde yerleştirilir. Üstteki kartı, bir atma destesinin ilk kartı olarak yüzü yukarı bakacak şekilde yerleştirin.\n"
+"\n"
+"**Nasıl oynanır:** Bir tur sırasında, bir oyuncuya atma destesinin üst kartını ya da çekme destesini seçebilir- bu kart, oyuncunun önündeki kartlardan birini değiştirmek için kullanılmalıdır ve değiştirilen kart, atma destesinin üstüne yüzü yukarı bakacak şekilde konulur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The goal of the game is to get the cards in inreasing order from left to right."
+msgstr "**Nasıl kazanılır:** Oyunun amacı, kartları soldan sağa artan sırayla sıralamaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring variations"
+msgstr "Puanlama Varyasyonları"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr "Oyuncuların kartlarını sıraya koyan ilk oyuncunun kazandığı bir şekilde oynayın. Ya da her oyun turu için bir puan sistemi kullanın. Bu sistemde kazanan oyuncu 15 puan alır. Diğer oyuncular, en düşük kartlarından başlayarak sıraya koydukları her kart için bir puan alırlar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLOSEST TO 10"
+msgstr "10'A EN YAKIN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards from 1 to 10. Choose a target sum, say 10.\n"
+"\n"
+"**How to play:** Each round starts by dealing five cards face down on the table. One player randomly chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given, face up, to the other player to choose two cards to get close to the target.\n"
+"\n"
+"**Scoring:** The player whose result is closest to the target from either side wins a point. Have a number line handy to use for discussions about which result is closer to the target sum."
+msgstr ""
+"**Hazırlık:** 1'den 10'a kadar kartlardan oluşan bir deste kullanın. Bir hedef toplam belirleyin, örneğin 10.\n"
+"\n"
+"**Nasıl oynanır:** Her tur, masaya beş kart yüzü aşağı gelecek şekilde dağıtarak başlar. Bir oyuncu rastgele bu kartlardan üç tanesini seçip çevirir. Bu üç karttan iki kart seçilir ve hedefe mümkün olduğunca yakın bir toplam elde edilmeye çalışılır. Kullanılmayan üç kart, yüzü yukarı bakacak şekilde diğer oyuncuya verilir ve o oyuncu, hedefe yakın iki kart seçer.\n"
+"\n"
+"**Puanlama:** Sonuçları hedefe en yakın olan oyuncu bir puan alır. Hedef toplamına hangi sonucun daha yakın olduğunu tartışmak için bir sayı doğrusu hazır bulundurun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you use subtraction instead of addition, use a lower target number, say 4."
+msgstr "Toplama yerine çıkarma kullanırsanız, daha düşük bir hedef numara kullanın, örneğin 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ZOO RESCUE"
+msgstr "HAYVANAT BAHÇESI KURTARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Small Adding and Subtracting"
+msgstr "Küçük Toplama ve Çikarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+"\n"
+"**How to play:** During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box.\n"
+"\n"
+"**How to win:** The first player to rescue all their tokens wins.\n"
+"\n"
+"**Strategy:** An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others – you can discuss ideas about why this is."
+msgstr ""
+"**Hazırlık:** 1'den 6'ya kadar numaralandırılmış iki zar veya iki deste kart kullanın. Her oyuncunun 6 jetonu vardır – bu oyun için hayvan jetonları mükemmeldir. Her oyuncunun ayrıca 0'dan 5'e kadar numaralandırılmış kutular içeren bir kağıdı vardır. Her oyuncu jetonlarını nereye koyacaklarına karar verir – bir kutuya birden fazla jeton koymak sorun değildir.\n"
+"\n"
+"**Nasıl oynanır:** Bir oyuncunun sırası geldiğinde, zarları atarak veya iki kart seçerek iki sayı oluşturulur ve bu sayıların farkı kullanılır. Eğer oyuncunun o kutuda bir jetonu varsa, bir jetonunu serbest bırakabilir.\n"
+"\n"
+"**Nasıl kazanılır:** Tüm jetonlarını kurtaran ilk oyuncu kazanır.\n"
+"\n"
+"**Strateji:** Bu oyunun önemli bir kısmı, jetonları koymak için iyi kutular seçmektir. Pratik yapıldıkça, çocuğunuz bazı kutuların diğerlerinden daha sık ortaya çıktığını fark edecektir – bu konuyu tartışabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9."
+msgstr "1'den 10'a kadar numaralandırılmış kartlar kullanın ve 0'dan 9'a kadar numaralandırılmış 10 kutu hazırlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOT POTATO WITH SUMS"
+msgstr "SICAK PATATES TOPLAMLARLA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a regular deck of playing cards, have a target number of 5, and remove all cards above the target, except for one card – the 'hot potato,' which can be anything else, such as a Joker or face card. Deal the entire remaining deck to all players – it’s okay if some players get one more card than others.\n"
+"\n"
+"**How to play:** All players start by placing on the table from their hands 5’s and any pairs that add up to 5. On your turn, you can pick a random card from any other player’s hand (a simpler rule is that it is always the player on your right). If this new card gives you a pair of cards that add up to the target sum, place the pair on the table; otherwise, keep the card in your hand. Play then moves to the next player on your right.\n"
+"\n"
+"**How to win:** When play ends, the player holding the hot potato loses. Alternatively, you can play that the first player to run out of cards wins."
+msgstr ""
+"**Hazırlık:** Standart bir iskambil destesi kullanın, hedef sayı 5 olsun ve hedefin üzerindeki tüm kartları çıkarın, yalnızca bir kart- 'sıcak patates' olarak adlandırılan kart hariç. Bu kart başka bir şey olabilir, örneğin bir Joker veya yüz kartı. Kalan tüm desteyi tüm oyunculara dağıtın- bazı oyuncuların diğerlerinden bir kart daha fazla alması sorun değildir.\n"
+"\n"
+"**Nasıl oynanır:** Tüm oyuncular, ellerindeki 5'leri ve 5'e toplamı eşit olan çiftleri masanın üzerine koyarak başlarlar. Sıra size geldiğinde, herhangi bir diğer oyuncunun elinden rastgele bir kart seçebilirsiniz (daha basit bir kural olarak, her zaman sağınızdaki oyuncunun kartını seçebilirsiniz). Bu yeni kart, hedef toplamı elde eden bir çift kart oluşturuyorsa, çiftleri masanın üzerine koyun; aksi takdirde, kartı elinizde tutun. Oyun, sağınızdaki oyuncuya geçer.\n"
+"\n"
+"**Nasıl kazanılır:** Oyun bittiğinde, ‘sıcak patates' kartını elinde tutan oyuncu kaybeder. Alternatif olarak, kartları bitiren ilk oyuncunun kazandığı bir şekilde de oynayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child’s adding skills improve, use larger target numbers up to 10. \n"
+"\n"
+"Varying the target number will provide practice with the various number bonds."
+msgstr "Çocuğunuzun toplama becerileri geliştikçe, hedef sayıları 10'a kadar daha büyük yapın. Hedef sayısını değiştirerek farklı sayı bileşenleriyle pratik yapabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMMON SUMS"
+msgstr "ORTAK TOPLAMLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds"
+msgstr "Sayi Bi̇leşenleri̇"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Collect the data:** Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in order in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token(s) will win and why?\n"
+"* Which tokens do well and which ones do poorly?\n"
+"* Which token is the worst?\n"
+"* How will the winners change if the row lengths are made shorter or longer?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"**Araştırma:** Verileri toplayın: 12 satırdan oluşan bir kağıt hazırlayın. Her satırda 8 kare olacak şekilde düzenleyin. Sol en soldaki kareler 1'den 12'ye kadar numaralandırılmıştır. 12 numaranın her birinin üzerine bir jeton koyun. Bir çift zar atmaya başlayın. Her zar atışından sonra, zarların toplamı için jetonu bir kare sağa hareket ettirin. Her jetonun hedefi sayfanın en sağ tarafına ilk ulaşan olmak.\n"
+"\n"
+"Çocuğunuzun araştırmak için bazı sorular oluşturmasına izin verin. Doğal bazı sorular şunlar olabilir:\n"
+"\n"
+"* Hangi jeton(lar) kazanır ve neden?\n"
+"* Hangi jetonlar iyi performans gösteriyor ve hangileri kötü performans gösteriyor?\n"
+"* Hangi jeton en kötüsü?\n"
+"* Satır uzunlukları kısaltıldığında veya uzatıldığında kazananlar nasıl değişir?\n"
+"\n"
+"Çocuğunuzun bu sorulara cevaplarla ilgili fikirlerini açıklamasına ve ardından bu fikirleri deneyler yaparak araştırmasına izin verin.\n"
+"\n"
+"Bu oyuna rekabetçi bir unsur ekleyerek, tur başlamadan önce hangi jetonun kazanacağını tahmin etmeyi de dahil edebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "SUDOKU VARYASYONLARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"Bu sayfadaki bulmacalar, her sayının her satır ve sütunda tam olarak bir kez göründüğü bir kare ızgara kuralına sahip temel Sudoku kuralına sahiptir.\n"
+"\n"
+"Bu bulmacaları, tamamen doldurulmuş bir bulmacayla başlayarak, birçok veya tüm sayıları çıkararak ve bu tür bulmacalar için uygun alt bölgeler ve ek bilgiler oluşturarak yapabilirsiniz.\n"
+"\n"
+"Alan tasarrufu sağlamak için, buradaki örnekler 4'e 4'tür. Daha büyük bulmacaları kendiniz oluşturabilir veya internetten daha büyük versiyonlarını bulabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "ÇIFT-TEK SAYI VE KROPKI SUDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "Bu bulmacalarda, sayılar her işaretlenmiş 2'ye 2 alt bölgede tam olarak bir kez görünmelidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**Çift-Tek Sayı Sudoku:** Çift sayılarla olan kareler gri renkte gösterilir.\n"
+"\n"
+"**Kropki Sudoku:** Hücreler arasındaki boş noktalar, sayıların birer birer farklı olduğunu; dolu noktalar ise bir sayının diğerinin yarısı olduğunu ifade eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "TOPLAMDOKU, FARKDOKU, TOPLAMFARKDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "Bu bulmacalara genellikle Sudoku kurallarına ek olarak, hedef sayılarla bölünmüş alt bölgeler de dahildir. Standart Sudoku'nun aksine, bir alt bölgede bir sayının tekrar edilmesine izin verilir. Eğer bir alt bölgede sadece bir kare varsa, hedef sayı o karenin değeri olacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**Toplamdoku:** Bir alt bölgedeki sayıların toplamı hedef sayıdır.\n"
+"\n"
+"**Farkdoku:** S Alt bölgeler bir veya iki kare içerir. İki kare için, sayıların farkı hedef sayıdır.\n"
+"\n"
+"**ToplamFarkdoku:** Alt bölgeler toplama veya çıkarma işlemi için “+” veya “-” ile işaretlenir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "4'e 4'lük bir bulmacada genellikle kullanılan 1'den 4'e kadar olan sayılar yerine farklı sayılar grupları kullanın. Örneğin, 1, 3, 5 ve 7 kullanabilirsiniz. Bunu yaparsanız, bulmacanın üzerine kullanılacak sayıları listeleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "KUTUYU KAPAT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**Hazırlık:** Her oyuncu bir kağıda 1'den 9'a kadar olan sayıları sırayla yazar.\n"
+"\n"
+"**Nasıl oynanır:** Bir turu başlatmak için, oyuncu iki zarın toplamını hesaplar. Henüz çizilmeyen sayılardan yalnızca bir veya daha fazla sayının toplamı bu miktara eşit olacak şekilde bir grup sayı çizer. Eğer bunu yapamazsa, hiçbir şey değişmez. Bir oyuncu önceden sadece bir zar kullanmaya karar verebilir.\n"
+"\n"
+"**Nasıl kazanılır:** Tüm sayıları çizen ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "Bu oyunu değiştirmek için bir yol, daha geniş bir sayı aralığı kullanmaktır, örneğin 10 veya hatta 12'ye kadar gitmek. Bir diğer yol ise her oyuncuya tek bir tur vermek ve bu turun, oyuncu ilk defa sıkışana kadar yeni zar atışlarıyla devam etmesini sağlamaktır. Oyunun sonunda, oyuncunun puanı, çizilmeyen sayıların toplamı olacaktır. En düşük puanı olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "HEDEFI VUR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "Toplam Kombinasyonlari"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**Hazırlık:** Bir deste karttan, yüz kartları ve çocukların rahatça kullanabileceğinden daha büyük olan numaraları çıkarın. Kartları karıştırın ve beş kartı açın, altıncı kartı ise hedef olarak belirleyin. Kalan kartları çekme destesi olarak bırakın, böylece kartlar çıkarıldıkça yerine yenileri konur.\n"
+"\n"
+"**Nasıl oynanır:** Bir turda, bir oyuncu beş karttan ikisinin toplamını veya farkını altıncı karta eşit olacak şekilde kullanabilirse, oyuncu bu üç kartı alır ve bunlar çekme destesinden yenileriyle değiştirilir. Eğer oyuncu başarılı olamazsa, yeni bir altıncı kart açılır ve tur bir sonraki oyuncuya geçer.\n"
+"\n"
+"**Nasıl kazanılır:** Oyun sonunda en fazla karta sahip olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "Kullanabileceğiniz birkaç varyasyon vardır. Bir oyuncunun altıncı karta ulaşmak için sadece iki kart yerine üç kart kullanmasına izin verebilirsiniz. Hatta altıncı karta ulaşmak için herhangi bir sayıda kart kullanılmasına izin verebilirsiniz. Bir diğer varyasyon ise, toplama ve çıkarma işlemlerinin herhangi bir sayıdaki kartla yapılmasına izin vermektir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "KAÇ FARKLI YOL VAR?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"Bir şeyi yapmanın kaç farklı yolu olduğunu saymak bazı ilginç araştırmalara yol açabilir. İşte birkaç olasılık – çocuğunuzla birlikte daha birçok fikir düşünmek eğlenceli olabilir.\n"
+"\n"
+"**Araştırma 1:** Sadece kırmızı ve mavi kullanarak, bir şapka, gözler ve pelerin olan bir canavarı kaç farklı şekilde çizebilirsiniz? Eğer sadece şapka ve pelerini renklendirirseniz nasıl değişir? Üç renk kullanırsanız ya da her rengi sadece bir kez kullanabilecekseniz nasıl değişir?\n"
+"\n"
+"**Araştırma 2:** 5 tane aynı şekeriniz var. Bunları 2 kırmızı ve 3 mavi olacak şekilde kaç farklı şekilde renklendirebilirsiniz?\n"
+"\n"
+"**Araştırma 3:** Küçük bir sayı kümesi kullanarak toplamı elde etmenin tüm yollarını bulun. Sıralamayı dikkate alarak ve etmeyerek yapın. Örneğin, 1 ve 2 kullanarak, sıralamayı dikkate almadan 4'ü elde etmenin 1+1+1+1 = 2+1+1 = 2+2 yolu vardır, sıralamayı dikkate alarak 4'ü elde etmenin ise 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 yolu vardır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "NASIL YAPABILIRIM?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "Yollari Sayayim"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"Bir kişi diğer kişiye bir hedef sayı verir ve bu sayıya ulaşmak için farklı toplama ve/veya çıkarma yollarını bulmasını ister. Eğer hedef 3 ise, başlangıç olarak 1 + 2 olabilir, ancak ardından 1 + 5 - 3 gibi kombinasyonlar da olabilir.\n"
+"\n"
+"Daha zorlaştırmak için kısıtlamalar ekleyebilirsiniz. Örneğin, 4'ten küçük sayılara izin vermeyebilirsiniz veya sadece 4'ten küçük sayıları kullanabilirsiniz.\n"
+"\n"
+"Bu, ‘Sadece 1'ler ve 2'ler ekleyerek 5 elde etmenin kaç yolu var?’ gibi sorular sorarak bir araştırmaya dönüştürülebilir.\n"
+"\n"
+"Çocuğunuz daha fazla matematik öğrendikçe, iki katına çıkarma ve yarıya indirme gibi ek beceriler de ekleyebilirsiniz. Örneğin, 5, 2'nin iki katı artı 1 veya iki 10'dan üç 5 çıkarılarak elde edilebilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "SAYI KARIŞIKLIĞI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**Hazırlık:** İki kez bir zar atarak iki basamaklı bir hedef sayı oluşturun – ilk atış onlar basamağını, ikinci atış ise birler basamağını belirleyecek. Üzerinde çalışılacak sayılar oluşturmak için beş zar atın.\n"
+"\n"
+"**Mücadele:** Toplama, çıkarma ve iki basamaklı sayılar oluşturma kullanarak hedef sayıya olabildiğince yakın bir sonuç elde etmeye çalışın – skor ne kadar yakın olduğunuzla ölçülür.\n"
+"\n"
+"**Nasıl Kazanılır:** Her tur için bir kazanan belirleyebilir veya birkaç turun skorlarını toplar ve en düşük skoru olan genel bir kazanan belirleyebilirsiniz. Tabii ki, sadece zorluk için oynayıp puan tutmayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**Örnek 1:** Diyelim ki zarlar 4, 4, 3, 1, 3 ve hedef sayı 22. İlk oyuncu 4 + 4 + 3 + 1 + 3 = 15 elde eder; diğer bir oyuncu 14 + 4 + 3 + 3 = 24 elde eder; bir diğer oyuncu ise 34 - 14 + 3 = 23 elde eder.\n"
+"\n"
+"**Örnek 2:** Diyelim ki zarlar 1, 2, 5, 6, 4 ve hedef sayı 63. Bir oyuncu 65 - 4 + 2 + 1 = 64 ile yakından yaklaşır. Bir diğeri tam olarak 56 + 4 + 2 + 1 = 63 ile elde eder. Üçüncüsü ise 52 + 6 + 4 + 1 = 63 ile de işin içinden çıkar. Neden bazı problemlerin birçok çözümü olduğunu tartışabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "HERHANGI BIR ŞEKILDE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "Parçalari Bi̇rleşti̇rmek"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"Oyuncular bir hedef belirler, 10 olabilir, ancak diğer sayılar da uygundur.\n"
+"\n"
+"Her oyuncuya, yüz kartları hariç bir desteden beş kart dağıtılır. Oyuncular, kartlarının herhangi bir kombinasyonunu toplama ve çıkarma kullanarak hedefe ulaşmanın veya hedefe olabildiğince yaklaşmanın mümkün olduğu kadar çok yolunu bulurlar.\n"
+"\n"
+"Bu etkinliği grup olarak yapabilirsiniz; tüm grup beş kart alır ve toplamı başarmak için iş birliği yaparak yollar bulur."
 
 #. type=data_list
 msgctxt "data_list"
