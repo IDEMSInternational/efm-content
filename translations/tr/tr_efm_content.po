@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 02:25\n"
+"PO-Revision-Date: 2025-05-25 03:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9339,6 +9339,535 @@ msgstr "Strateji oyunları oynamak, çocuğunuzun akıl yürütme, planlama ve p
 msgctxt "data_list"
 msgid "TAPATAN"
 msgstr "TAPATAN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "**Hazırlık:** Bu oyuna benzer birçok oyun vardır – Rota, 9 Delik ve 3 Erkek Morris gibi. Bu oyunda, 3 yatay ve 3 dikey çizgi ile bir ızgara üzerinde bağlı 9 nokta bulunur. Her oyuncunun üç tane aynı türden piyesi vardır. Oyunun amacı, üç piyesi bir hat boyunca sıralamaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**Nasıl oynanır:** Oyunda iki aşama vardır. İlk 'yerleştirme' aşamasında, oyuncular sırayla piyonlarını boş noktalara yerleştirir. Piyonlar yerleştirildikten sonra, ikinci ‘hareket' aşaması başlar. Bu aşamada, oyuncular sırayla piyonlarını boş, komşu noktalara hareket ettirir. Alternatif bir kural olarak, piyonlar sadece komşu noktalara değil, herhangi bir boş noktaya taşınabilir.\n"
+"\n"
+"**Nasıl Kazanılır:** Oyun, bir oyuncu kazanana kadar devam eder veya aynı pozisyon üç kez meydana gelirse oyun berabere biter."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "NOKTALAR VE KUTU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "Strateji̇ Oyunlari"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**Hazırlık:** Bu tatmin edici oyun, dikdörtgen bir nokta ızgarası ile başlar – örneğin 3x4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**Nasıl Oynanır:** Bir oyuncu sırası geldiğinde, iki bitişik nokta arasında yatay veya dikey bir çizgi çizer. Eğer yeni.\n"
+"\n"
+"**Nasıl Kazanılır:** Daha fazla çizgi çizilemeyecek duruma geldiğinde, en fazla puanı toplayan oyuncu oyunu kazanır. Puanları takip etmek için, her kazanılan kutunun içine bir başlangıç harfi koymak kolay bir yöntemdir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "Bu oyun geleneksel olarak küçük karelerle oynansa da, noktalar kullanılarak üçgenler veya altıgenler oluşturacak şekilde de oynanabilir – bu, çizmesi daha zor olabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 4 – I CAN COUNT TO 20!"
+msgstr "4. Aşama — 20’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Introduction"
+msgstr "4. Aşama — Giriş"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child has come so far! They can count up and down between 0 and 20 and understand what those quantities mean. Your child is comfortable “counting on” or “counting down” starting at any number in between 0 and 20. There is also a budding understanding of place value and how that relates to expanded form.\n"
+"\n"
+"Calculational abilities have also grown! Beyond adding and subtracting small numbers, your child has a sense of the number relationships of number bonds and fact families. The ideas of adding and subtracting 1 or 2, adding twins, and near twins, are ready to be the foundation for learning all addition and subtraction facts. Your child has also picked up skip counting by 2, doubling, halving, and even and odd numbers – all of which set the stage for learning multiplication and division."
+msgstr ""
+"**Nerelerdeydin**\n"
+"\n"
+"Çocuğunuz çok yol kat etti! 0 ile 20 arasında ileriye ve geriye sayabiliyor ve bu miktarların ne anlama geldiğini anlıyor. Çocuğunuz 0 ile 20 arasındaki herhangi bir sayıdan başlayarak “ileri sayma\" veya “geri sayma\" konusunda rahat. Ayrıca basamak değeri ve bunun genişletilmiş form ile nasıl ilişkili olduğuna dair gelişmekte olan bir anlayış da var.\n"
+"\n"
+"Hesaplama yetenekleri de gelişti! Küçük sayıları toplamanın ve çıkarmanın ötesinde, çocuğunuz sayı bağları ve faktör ailelerinin sayı ilişkilerini kavrayabiliyor. 1 veya 2 ekleme ve çıkarma, çiftler ekleme konularındaki anlayışlar, tüm toplama ve çıkarma bilgilerini öğrenmenin temeli olacak şekilde hazır. Ayrıca, çocuğunuz 2’şer sayma, iki katına çıkarma, yarıya indirme ve çift ve tek sayıları da öğrenmiş durumda – bunların tümü çarpma ve bölme öğrenmeye zemin hazırlıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 100 – While it’s fun to hear your child count to 100, keep this practice grounded in understanding the numbers – place value and counting backwards will help a lot with this.\n"
+"* Expanded Form and Place Value – The earlier practice with this will be reinforced here. Understanding tens and ones, and using expanded form (such as 37 = 30 + 7), is essential to\n"
+"understanding numbers.\n"
+"* Comparing double-digit numbers – Understanding place value will make this easy.\n"
+"* All single-digit adding and subtracting – This is first done with manipulatives, especially fingers. Then, using number relationships, it will be extended to mental arithmetic.\n"
+"* Compensation for Addition and Subtraction – Adjusting addition and subtraction problems to make them easier helps with mental arithmetic, and teaches the structure of numbers.\n"
+"* Skip Counting – Skipping up and down by single-digit numbers starting anywhere is great for doing mental addition and subtraction, and helps with multiplication and division.\n"
+"* Beginning multiplying – Your child already knows how to multiply by 2. This will be extended, in part using skip counting, to all single-digit numbers.\n"
+"* Games, Puzzles, Problem Solving and Investigations – The games and puzzles will be more\n"
+"challenging in keeping with your child’s growing sophistication and abilities. Keep these activities fun and playful - enjoyment is the most important thing for your child’s long term mathematical success. Kindle sparks of joy when your child discovers or experiences particularly beautiful or satisfying mathematical patterns."
+msgstr ""
+"* 100’e Kadar Sayma – Çocuğunuzun 100’e kadar saymasını duymak eğlenceli olsa da, bu pratiği sayıları anlama üzerine odaklamak önemlidir – basamak değeri ve geri sayma bu konuda çok yardımcı olacaktır.\n"
+"* Genişletilmiş Form ve Basamak Değeri – Bu konudaki önceki çalışmalar burada pekiştirilecektir. Onlar ve birler anlayışı ve genişletilmiş form (örneğin 37 = 30 + 7) kullanımı, sayıları anlamak için gereklidir.\n"
+"* İki Basamaklı Sayıları Karşılaştırma – Basamak değerini anlamak bunu kolaylaştıracaktır.\n"
+"* Tek Basamaklı Toplama ve Çıkarma – Bu, öncelikle somut materyallerle, özellikle parmaklarla yapılır. Daha sonra, sayı ilişkilerini kullanarak zihinden hesaplamaya genişletilir.\n"
+"* Toplama ve Çıkarma İçin Telafi – Toplama ve çıkarma problemlerini daha kolay hale getirmek, zihinden hesaplamayı kolaylaştırır ve sayıların yapısını öğretir.\n"
+"* Atlayarak Sayma – Tek basamaklı sayılarla yukarı ve aşağı atlarken başlamak, zihinden toplama ve çıkarma yapmada harikadır ve çarpma ve bölme konusunda yardımcı olur.\n"
+"* Çarpmaya Başlama} Çocuğunuz zaten 2 ile çarpmayı biliyor. Bu, kısmen atlayarak sayma kullanılarak, tüm tek basamaklı sayılara genişletilecektir.\n"
+"* Oyunlar, Bulmacalar, Problem Çözme ve Araştırmalar – Oyunlar ve bulmacalar, çocuğunuzun gelişen becerilerine ve yeteneklerine uygun olarak daha zorlayıcı hale gelecektir. Bu etkinlikleri eğlenceli ve oyunlu tutun – zevk, çocuğunuzun uzun vadeli matematiksel başarısı için en önemli şeydir. Çocuğunuz özellikle güzel veya tatmin edici matematiksel desenler keşfettiğinde veya deneyimlediğinde neşe kıvılcımlarını ateşleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION W/ COMPENSATION"
+msgstr "PARMAKLAMA TOPLAMA ILE TELAFI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use compensation for sums between 11 and 18 to make them easier.\n"
+"\n"
+"**Giving away fingers:** Suppose you’re adding 7 + 8. One person puts up 7 fingers and the other person puts up 8 fingers. Then, one person gives away as many fingers as are needed to put up 10 fingers on the other person’s hands. In this example, 7 + 8 could turn into 5 + 10 (giving away 2) or 10 + 5 (giving away 3).\n"
+"\n"
+"**Magic:** Be dramatic and give away the fingers by having one person’s hand bang into the other person’s hand and having the fingers transfer “magically.”"
+msgstr ""
+"11 ile 18 arasındaki toplama işlemlerini daha kolay hale getirmek için telafi yöntemini kullanın.\n"
+"\n"
+"**Parmak Açma:** Örneğin, 7 + 8 toplama işlemini yapıyorsunuz. Bir kişi 7 parmak açar ve diğer kişi 8 parmak açar. Daha sonra, bir kişi diğer kişinin ellerinde 10 parmak olana kadar parmak verir. Bu örnekte, 7 + 8 işlemi 5 + 10 (2 parmak vererek) veya 10 + 5 (3 parmak vererek) haline gelebilir.\n"
+"\n"
+"**Sihir:** Etkileyici olun ve parmakları bir kişinin elinin diğer kişinin eline “sihri” bir şekilde geçmesi için çırparak verin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION THE EASY WAY"
+msgstr "PARMAK EKLEMENIN KOLAY YOLU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Counting on:** Use the idea of 'counting on' to make addition easier. Counting on refers to doing addition by starting at one of the numbers, rather than starting at 0 and counting out both of the numbers."
+msgstr "**Üstüne Sayma:** Toplamayı kolaylaştırmak için ‘üstüne sayma' fikrini kullanın. Üstüne sayma, her iki sayıyı da 0'dan başlayarak saymak yerine, sayılardan birinden başlayarak toplama yapmayı ifade eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Let's use adding 8 + 3 as an example. It is easier if you pick the larger number being added as the starting point for the 'counting on.'\n"
+"\n"
+"Have your child make a closed fist and say '8.' Then, lift one more finger each time as your child counts out loud '9, 10, 11.' When 3 fingers are raised, you are done adding 3, and the counting stops. At that point, you have that 8 plus 3, which is 11."
+msgstr ""
+"Örneğin, 8 + 3 toplamayı kullanalım. ‘Üstüne sayma' işlemi için eklenen daha büyük sayıyı başlangıç noktası olarak seçmek daha kolaydır.\n"
+"\n"
+"Çocuğunuzun yumruğunu kapalı yapmasını ve ‘8' demesini isteyin. Ardından, çocuğunuz yüksek sesle ‘9, 10, 11' diye sayarken her seferinde bir parmağını kaldırın. 3 parmak kaldırıldığında, 3'ü ekleme işlemi tamamlanır ve sayma durur. Bu noktada, 8 artı 3'ün 11 olduğunu görmüş olursunuz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With practice and further number relationship ideas, these math facts will become automatic for your child. However, there is no hurry for memorization, and it can wait until more experience with the quantities and relationships between the numbers has been gained."
+msgstr "Pratik yapıldıkça ve sayı ilişkisi fikirleri geliştikçe, bu matematiksel gerçekler çocuğunuz için otomatik hale gelecektir. Ancak, ezberleme konusunda acele edilmesine gerek yoktur; bu, sayılar ve sayıların arasındaki ilişkilerle daha fazla deneyim kazanana kadar bekleyebilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION THE EASY WAY"
+msgstr "KOLAY PARMAKLA ÇIKARMA YÖNTEMI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two methods:** Subtraction can be thought of as 'take away' or 'difference.' Both models are essential to a complete understanding of subtraction. Have your child practice both ways of thinking of subtraction using these finger subtraction methods.\n"
+"\n"
+"We’ll use 11 - 3 for our examples."
+msgstr ""
+"Çıkarma, “çıkarmak\" ya da “fark\" olarak düşünülebilir. Her iki model de çıkarmanın tam olarak anlaşılması için gereklidir. Çocuğunuzun bu parmakla çıkarma yöntemlerini kullanarak her iki çıkarma biçimini de pratik yapmasını sağlayın.\n"
+"\n"
+"Örneklerimizde 11 - 3 işlemini kullanacağız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Take Away method:** Start with a closed fist and say “11.” Then, lifting one more finger each time, count “10, 9, 8.” Each time you lift a finger and count down, you are taking one more away from the original number.\n"
+"\n"
+"When your child sees 3 fingers raised, the counting stops. They now see that taking 3 away from 11 leaves 8."
+msgstr ""
+"**Çıkarma Yöntemi:** Yumruğunuzu kapalı tutarak “11\" deyin. Ardından, her seferinde bir parmak kaldırarak “10, 9, 8\" diye sayın. Her parmak kaldırdığınızda ve geriye saydığınızda, orijinal sayıdan bir tane daha çıkarıyorsunuz.\n"
+"\n"
+"Çocuğunuz 3 parmağın kaldırıldığını gördüğünde, saymayı bırakır. Şimdi, 11’den 3 çıkardığınızda geriye 8 kaldığını görür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference method:** This uses counting on, much as we did for Easy Way Finger Addition. What we are doing is finding out which number weneedtoaddto3toget11.\n"
+"\n"
+"Have your child make a closed fist and say “3.” Then, lifting one more finger each time, count “4, 5, 6, 7, 8, 9, 10, 11.” When your child says 11, there are 8 fingers raised. That shows that the difference between 3and11is8!"
+msgstr ""
+"**Fark Yöntemi:** Bu yöntem, Kolay Parmakla Toplama'da yaptığımız gibi saymayı kullanır. Burada, 3'e kaç eklememiz gerektiğini buluyoruz ki 11 elde edelim.\n"
+"\n"
+"Çocuğunuzun yumruğunu kapalı tutmasını ve “3\" demesini sağlayın. Ardından, her seferinde bir parmak kaldırarak “4, 5, 6, 7, 8, 9, 10, 11\" diye sayın. Çocuğunuz 11 dediğinde, 8 parmak kaldırılmış olur. Bu, 3 ile 11 arasındaki farkın 8 olduğunu gösterir!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PIG"
+msgstr "DOMUZCUK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, roll a die as many times as you want. When a roll is not 1, you add that roll to your turn’s total. If it is 1, you lose everything for that turn and the turn is over. A player may choose to stop before rolling a 1, keep the turn’s points so far, and add them to the player’s running total.\n"
+"\n"
+"**How to win:** The first player to reach the target number, say 30, wins."
+msgstr ""
+"**Nasıl oynanır:** Bir tur sırasında istediğiniz kadar zar atabilirsiniz. Eğer attığınız zar 1 değilse, o attığınız zarı turunuzun toplamına eklersiniz. Eğer 1 gelirse, o turdaki tüm puanları kaybedersiniz ve tur sona erer. Bir oyuncu 1 gelmeden önce durmayı seçebilir, o zamana kadar topladığı puanları koruyabilir ve bu puanları oyuncunun sürekli toplamına ekleyebilir.\n"
+"\n"
+"**Nasıl kazanılır:** Hedef sayıya, örneğin 30'a, ilk ulaşan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A two dice variation has these rules: If neither die shows a 1, the sum is added to the turn’s running total. If exactly one of the dice shows a 1, then nothing more is added to the running total and the turn ends. If two 1’s are rolled, the turn’s total becomes 0 and the turn ends."
+msgstr "İki zar ile oynanan varyasyonda bu kurallar geçerlidir: Zarların hiçbiri 1 gelmezse, zarların toplamı turunuzun sürekli toplamına eklenir. Eğer zarların sadece biri 1 gelirse, sürekli toplamınıza hiçbir şey eklenmez ve tur sona erer. İki zar da 1 gelirse, turun toplamı 0 olur ve tur sona erer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ENCLOSED SUMS"
+msgstr "KAPALI TOPLAMLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These puzzles have shapes connected by lines. Each enclosed region, such as where the 9 or the 7 are in this example, has a number that is the sum of the shapes that border it.\n"
+"\n"
+"While circles may have any value, a non-circle must have the same value as any other figure of the same shape."
+msgstr ""
+"**Hazırlık:** Bu bulmacalarda, şekiller çizgilerle birbirine bağlanmıştır. Her kapalı bölge, örneğin bu örnekteki 9 veya 7’nin olduğu yer, çevresindeki şekillerin toplamını temsil eder.\n"
+"\n"
+"Daireler herhangi bir değeri alabilirken, daire olmayan bir şekil, aynı şekilden başka bir şekille aynı değeri taşımalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers in the shapes and the inside of the regions.\n"
+"\n"
+"**How to create:** Create these puzzles by making a diagram of circles and maybe some squares. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers."
+msgstr ""
+"**Zorluk:** Şekillerdeki ve bölgelerin içindeki eksik numaraları doldurun.\n"
+"\n"
+"**Nasıl yapılır:** Bu bulmacaları daireler ve belki bazı karelerden oluşan bir diyagram oluşturarak yapabilirsiniz. Sonra, tüm şekillere numaralar ekleyin ve sınırlı bölgeleri çevreleyen şekillerin toplamıyla doldurun. Son olarak, bazı numaraları kaldırın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – ADDITION AND SUBTRACTION"
+msgstr "SAVAŞ – TOPLAMA VE ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead.\n"
+"\n"
+"**How to play:** Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes.\n"
+"\n"
+"**How to win:** The winner is the player who has the most cards."
+msgstr ""
+"**Hazırlık:** Karıştırılmış bir deste kartı, kartların yüzleri çıkarılmış olarak eşit parçalara bölün. İsterseniz, yerine domino da kullanabilirsiniz.\n"
+"\n"
+"**Nasıl oynanır:** Her iki oyuncu da üstteki iki kartını çevirir ve toplar. Daha büyük toplamı olan oyuncu dört kartı da kazanır. Toplamlar eşitse, sonraki iki çift kart da toplanır ve kazanan sekiz kartı alır. Bu oyunu deste üzerinden tek bir geçişle veya birden fazla geçişle oynayabilirsiniz.\n"
+"\n"
+"**Nasıl kazanılır:** Kazanan, en fazla karta sahip olan oyuncudur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr "Farklılık katmak için, iki kartın farkını kullanarak oynayabilirsiniz. Ayrıca, üç kartı birden toplayabilirsiniz. Bir diğer seçenek ise bir kişiyi Tek, diğer kişiyi ise Çift olarak atamaktır. Bu durumda, her oyuncu bir kart çevirir ve toplamın tek mi yoksa çift mi olduğunu belirleyen kişi kartları alır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET GIN RUMMY"
+msgstr "HEDEF CIN REMI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds and Fact Families"
+msgstr "Sayi Bağlari ve Çarpan Ai̇leleri̇"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target.\n"
+"\n"
+"**How to play:** During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card.\n"
+"\n"
+"**How to win:** When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”"
+msgstr ""
+"**Hazırlık:** Bir hedef toplam belirleyin, örneğin 10. Üsteki kartı çıkarın ve her oyuncuya yedi kart dağıtın. Kalan kartlar çekme destesi olur ve üst kart çevrilerek atma destesinin başlangıcı yapılır. Amaç, hedef toplamı oluşturan bir veya daha fazla kart grubuna ayrılmış yedi karta sahip olmaktır.\n"
+"\n"
+"**Nasıl oynanır:** Bir tur sırasında oyuncu ya atma destesinin üst kartını ya da çekme destesinin üstündeki görünmeyen kartı alabilir. Oyuncu daha sonra bir kart atar.\n"
+"\n"
+"**Nasıl kazanılır:** Bir oyuncu tüm elini başarıyla oluşturduğunda, elini serer ve “Cin!\" der."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "Kart çiftlerinin farkını kullanarak oynayabilirsiniz, toplama yerine. Bu durumda, her oyuncuya çift sayıda kart dağıtın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "FLASH KARTLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"Matematik bilgilerini flash kartlar kullanarak çalışmanın kolaylığı onları cazip kılar. Ancak, genellikle iyi niyetli yardımcılar tarafından yanlış kullanılabilir ve matematikten nefret etmeye yol açabilir. Aşırı hevesli çalışmalarla oluşan psikolojik zararların ötesinde, flash kartlar sayıların arasındaki önemli ilişkileri öğrenmeyi kaçırır. Flash kartları belirli birkaç bilgi için odaklanmış pratik yapmak amacıyla kullanabilirsiniz, ancak lütfen çalışmayı sınırlı ve rahat tutun.\n"
+"\n"
+"Bu sayfa ve bir sonraki sayfa, çocuğunuz için kullanışlı ve çok daha ilginç olan yapısal iç görüler üzerinde çalışmayı sağlayan yöntemleri içerir ve bilgiler otomatik hale gelene kadar kullanılmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "TOPLAMA BECERILERINI GÖZDEN GEÇIRME"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"Bu sayfadaki etkinlikleri yapmak için çocuğunuzun aşağıdakileri zihinden yapabilmesi gerekir:\n"
+"\n"
+"* 0, 1, 2 (belki 3) ekleyip çıkartabilme\n"
+"* İkiz sayıları ve ikize yakın sayıları toplama yapabilme\n"
+"* 10'un sayı bağlantılarını bilme\n"
+"* Tek haneli sayılara 10 ekleyebilme\n"
+"\n"
+"Eğer çocuğunuz bu becerilerden herhangi birinde zayıfsa, bu becerileri biraz daha pratik yapma zamanı."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "TOPLAMA TELAFISI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"Telafi, zihinsel matematiği kolaylaştırmada güçlü bir araçtır. İki sayıyı toplarken, bir sayının bir kısmını diğerine kaydırarak aynı toplamı elde edebilirsiniz. Telafi kullanarak 8 veya 9 eklemek kolaydır. Örneğin, 6 + 9'u toplamak için 6'dan 1’i 9’a kaydırın, bu da 5 + 10 eder. Benzer şekilde, 4 + 8, 2 + 10 olur.\n"
+"\n"
+"İkiz ve ikize yakın sayıların toplamalardan telafi kullanarak kalan matematik bilgilerini de daha kolay hale getirin: 3 + 5, 3 + 6, 4 + 7 ve 5 + 7. Örneğin, telafi kullanarak 5 + 7, 6 + 6 ile aynı sonucu verir.\n"
+"\n"
+"**Birden Fazla Yöntem:** Bazı matematik bilgileri birkaç farklı şekilde yapılabilir. Çocuğunuzu bir problemi çözmenin birden fazla yolunu bulmaya teşvik edin. Örneğin, 5 + 7, 6 + 6’ya dönüşebilir, ancak aynı zamanda 2 + 10 olarak da yapılabilir. Bu tür matematik oyunları kalıcı iç görüler kazandırır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "ZIHINSEL MATEMATIK-TEK HANELI ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"Bu çıkarma etkinliklerine başlamadan önce, çocuğunuzda zayıf olan aşağıdaki becerileri pratik yapın:\n"
+"\n"
+"* 0, 1, 2 (belki 3) ekleyip çıkarabilme\n"
+"* 1 veya 2 farkla sayılardan çıkarma yapabilme\n"
+"* 10'un sayı bağlantılarını bilme ve bunun 10'dan çıkarma işlemini nasıl kolaylaştırdığını anlama easy\n"
+"* 11'den 19'a kadar olan sayılardan 10 çıkarabilme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "10'U ARA DURAK OLARAK KULLANMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"10'dan büyük sayılar içeren problemler için, örneğin 13 - 8 gibi, bu problemleri iki fark olarak bölebilirsiniz. İki sayı arasında geçerken 10'u ara durak olarak kullanın. 13 ile 8 arasındaki mesafe, 13 ile 10 arasındaki mesafe ile 10 ile 8 arasındaki mesafenin toplamıdır. Bu şekilde, 13 - 8, (13 - 10) + (10 - 8) = 3 + 2 = 5 olur.\n"
+"\n"
+"Bu, zihinsel yükü oldukça basitleştirir ve bu çıkarma işlemlerini iki yönetilebilir parçaya böler. 10 ile 20 arasındaki bir sayıdan 10 çıkarmak çok basittir. 10'dan sayılar çıkarmayı öğrenmek, 10'un sayı bağlantılarını öğrenmekle ilgilidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "ÇIKARMA TELAFISI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "Zihinsel Matematik-Tek Haneli Çıkarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"Çıkarma için telafi, her iki sayıya da aynı miktarı eklemek veya çıkarmak anlamına gelir. Aynı şeyi ekleyerek veya çıkararak, iki sayı arasındaki mesafe veya fark korunur.\n"
+"\n"
+"13 - 8 işlemini telafi kullanarak çözmek için her iki sayıya da 2 ekleyin, böylece problem 15 - 10 olur. Bu küçük ayarlamanın problemi ne kadar kolaylaştırdığını fark edin!\n"
+"\n"
+"Tek haneli problemler de bu şekilde çözülebilir. Örneğin, 7 - 3 işlemindeki her iki sayıya da 3 ekleyerek 10 - 6 yapabilirsiniz, bu da 4 eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "ÜSTÜNDEN GEÇME"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**Hazırlık:** 5 zar ve 4 atış kullanın.\n"
+"\n"
+"**Nasıl oynanır:** İlk atışta, 0'dan 5'e kadar zar seçip saklayabilirsiniz. Bir zar saklandığında değiştirilemez. Aynı şekilde, ikinci ve üçüncü atışlarda kalan zarlarla da aynı işlem yapılır. Son atışta, tüm zarlar saklanır. 20 veya daha düşük herhangi bir puan geçerlidir, 20'nin üzerindeki puanlar oyuncuya 0 verir.\n"
+"\n"
+"**Nasıl Kazanılır:** Bir veya daha fazla tur oynayabilirsiniz. En yüksek toplam puanı olan kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "Hedef puanı 20, zar sayısı ve atış sayısı, daha genç veya daha yaşlı oyunculara uygun olacak şekilde değiştirilebilir. Örneğin, hedef puanı 12 ve zar sayısını 3 olarak belirleyerek oynayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "ADALAR ARASI GEÇIŞ – TELAFI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "Tek Haneli̇ Toplama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "Bu bulmacalar, telafi kullanarak daha kolay toplama problemleri oluşturmanın nasıl mümkün olduğunu gösterir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**Mücadele:** Aynı cevaba sahip olan tüm adaları birbirine bağlayan bir yol bulun. İki ada yalnızca, problemlerin sayıları 1 farkla birbirine bağlanabilir – bir sayı 1 artırılırken diğer sayı 1 azaltılmalıdır.\n"
+"\n"
+"Örneğin, ‘5 + 8' ‘6 + 7' ile bağlanabilir. Yalnızca bazı adalar yolda olacak. Bu örnekte, yol sol alttan başlar ve sağ üstte biter.\n"
+"\n"
+"**Nasıl Yapılır:** Bu bulmacaları, bazı bağlantıları olan yaklaşık on boş daire ile başlayarak oluşturun. Adaların bir kenarından diğerine bir yol belirleyin. Bu yol boyunca, sayıları birbirinden 1 farkla olan problemler yerleştirin. Yakın adalarda ise küçük değişiklikler içeren ve farklı cevaplar veren problemler bulundurun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "BÜTÜN-PARÇA ÜÇGENLERI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**Hazırlık:** 1'den 13'e kadar olan numara kartlarını kullanın. Başlangıçta, her oyuncuya 6 kart açık olarak dağıtılır. Bir kartın üstü açık olduğu bir deste ve bir kartın üstü kapalı olduğu bir çekme deste bulunur.\n"
+"\n"
+"**Nasıl oynanır:** Bir oyuncunun sırası geldiğinde, üstteki açık kartı veya üstteki kapalı kartı çekme destesinden seçebilir. Seçilen kart, oyuncunun elindeki kartlardan birinin yerine geçer ve değiştirilen kart atılır.\n"
+"\n"
+"**Nasıl Kazanılır:** Her kartın altında iki kartın toplamı olan 6 kartlık bir piramit oluşturan ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "Daha genç veya daha yaşlı oyuncuların becerilerine uygun olacak şekilde daha küçük veya daha büyük kart aralıkları kullanabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "HEDEFE KARTLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**Hazırlık:** 1'den 5'e kadar olan tüm kartları 4x5'lik bir ızgara üzerine yerleştirin. Koşan toplamı 0'dan başlatın ve bir hedef sayı seçin, örneğin 25.\n"
+"\n"
+"**Nasıl Oynanır:** Oyuncular sırayla bir kart çevirip, bu kartı koşan toplama ekler. Hedef sayıyı aşmayan son oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "1'den 5'e kadar olan sayıları, üzerinde çalışmak istediğiniz beş sayı ile değiştirebilirsiniz. Çıkarma çalışmak için, hedef sayıdan başlayın, seçilen sayıları çıkarın ve 0’ın altına inmesine izin vermeyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "EVIMDEN ÇIK GIT – TOPLAMA VE ÇIKARMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**Hazırlık:** 1 (Vale) ile 10 arasındaki sayılara sahip bir deste kart kullanın. Ortak bir kağıda, 0'dan 19'a kadar numaralandırılmış 20 kutu veya basit ev çizin. Her oyuncunun diğer oyuncunun 7 jetonundan farklı 7 jetona sahip olması gerekir.\n"
+"\n"
+"**Nasıl oynanır:** Bir oyuncunun sırası geldiğinde, iki rastgele kart seçer ve bu kartları toplama, çıkarma veya çarpma işlemlerinden birini yaparak rakibin jetonundan daha az olan bir eve kendi jetonunu yerleştirir. Eğer evde rakibin bir veya iki jetonu varsa, bu jetonlar rakibe geri verilir ve oyuncu “Evimden çık git” der.\n"
+"\n"
+"**Nasıl Kazanılır:** Tüm jetonlarını evlere yerleştiren ilk oyuncu kazanır."
 
 #. type=data_list
 msgctxt "data_list"
