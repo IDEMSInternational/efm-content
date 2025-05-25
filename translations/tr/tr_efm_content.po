@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 04:25\n"
+"PO-Revision-Date: 2025-05-25 05:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10023,6 +10023,530 @@ msgstr "DÜZELT"
 msgctxt "data_list"
 msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
 msgstr "Bu, hedef toplamı olan tamamen dolu bir 4x4 sayı ızgarası ile başlar. Alternatif bir versiyon, her satır ve sütun için ayrı hedef toplamlar kullanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**Mücadele:** Kalan sayıların her satır ve sütunda toplamının hedefe eşit olmasını sağlamak için hangi girişlerin kaldırılacağını bulun.\n"
+"\n"
+"**Nasıl Yapılır:** Bu bulmacaları, hedef toplamı veren çiftler veya üçlüler ekleyerek oluşturun. Ardından, kalan boşlukları aldatıcı sayılarla doldurun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "GENIŞLETILMIŞ FORMU KATLAMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "Bu, iki basamaklı sayıların onlar ve birler kısmından nasıl oluştuğunu fiziksel olarak görmenin bir yolunu sunar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "Tam dört Numara Kartı yan yana sığacak şekilde bir kağıt alın. Kağıdı şu şekilde işaretleyin: Boşluk - “0” - “+” - Boşluk. “+” işaretinin her iki yanında dikey katlamalar yapın. Numara kartlarını iki boşluğa ataçla tutturun. 2 ve 3 kullanırsanız, katlandığında bu 23 gibi görünür, ancak açıldığında bu 20 + 3 olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "BIR SAYI DÜŞÜNÜYORUM"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"Bir oyuncu 0 ile 99 arasında bir sayı düşünür. Diğer oyuncu, sayının onlar ve birler basamakları hakkında sorular sorarak bu sayıyı bulmaya çalışır.\n"
+"\n"
+"Diyelim ki sayı 23. Oyuncu, onlar basamağının birler basamağından büyük veya eşit olup olmadığını sorabilir – bu 23 için geçerli değildir. Oyuncu, iki basamağın toplamının 8’den küçük olup olmadığını sorabilir – bu 23 için geçerlidir. Daha sonra, onlar basamağının iki katının birler basamağından büyük olup olmadığını sorabilir – bu geçerlidir. Bu noktada sayı 23 veya 34 olmalıdır. Rakamların toplamının 6’dan küçük olup olmadığını sormak işi bitirir.\n"
+"\n"
+"Soruların türleri oyuncuların anlaşacağı herhangi bir şey olabilir, ancak soruların birler ve onlar basamaklarıyla ilgili olması en iyisidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "BIRLER VE ONLAR ILE ADA ATLAMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "Geni̇şleti̇lmi̇ş Form ve Yer Değeri̇"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "Verilmiş bir dikdörtgen ızgara üzerinde bazı sayılar doldurulmuştur. Kalan sayıları doldurun, böylece yan yana olan iki sayı yalnızca bir basamakta farklı olsun ve bu rakamların farkı 1 olsun (0 ile 9 arasında geçiş dahil). Hiçbir sayı birden fazla kez kullanılmamalıdır. Başlangıç seviyesindeki çözücüler için 100'luk tablo kullanmak yardımcı olabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**Nasıl Yapılır:** Boş bir ızgara alın ve içinde sayıları doldurun, her sayıyı bir kez kullanın. Sonra bazı sayıları çıkarın. Örnekte, kırmızı olan sayılar eksik olanlardır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "MATEMATIK X -O- X OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**Hazırlık:** Bir X-O-X tahtası ve üzerinde 1'den 9'a kadar olan sayılar bulunan jetonlar kullanın. Bir oyuncu tek sayılarla, diğer oyuncu çift sayılarla oynar.\n"
+"\n"
+"**Nasıl Oynanır:** Oyuncular sırayla bir jeton yerleştirir; Tek sayılarla oynayan oyuncu önce başlar. Toplamı 15 olan 3’lü sırayı tamamlayan ilk oyuncu kazanır. Bir varyasyon, oyuna devam etmek, tüm kareleri doldurmak ve hangi oyuncunun en fazla 15 yaptığına bakmaktır.\n"
+"\n"
+"İlgili bir oyun ise bir saldırgan ve bir savunucu içermektedir. Saldırgan önce oynar (ilk hamle merkezde 5 olamaz) ve 15 yapmaya çalışır, savunucu ise saldırgana engel olmaya çalışır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "HAFIZA MEYDAN OKUMASI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "Toplam Oyunu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**Hazırlık:** Kartların yüzü aşağı gelecek şekilde bir ızgara açın. 4x4 ızgarası uygun bir boyuttur.\n"
+"\n"
+"**Nasıl Oynanır:** Oyuncular sırayla iki kart çevirir. Kartlar ‘eşleşirse', oyuncu kartları alır, boş alanlara iki kart daha dağıtılır ve oyuncu bir tur daha alır. Kartlar eşleşmezse, kartlar tekrar yüzü aşağı çevrilir ve oyuncunun sırası biter.\n"
+"\n"
+"**Nasıl Kazanılır:** Oyunun sonunda, en fazla kartı olan oyuncu kazanır wins."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"İşte kartların nasıl eşleşebileceğine dair bazı fikirler:\n"
+"\n"
+"* Hedef toplam kullanın: İki kart, toplamları hedef sayıya eşitse eşleşir.\n"
+"* Hedef fark kullanın: İki kart, farkları hedef sayıya eşitse eşleşir.\n"
+"* Toplama veya çıkarma problemleri içeren kartlar kullanın: Problemi ve cevabı olan kartları birlikte kullanın – kartlar, problem cevabıyla eşleşiyorsa eşleşir.\n"
+"* Genişletilmiş form kullanın: 0 ile 99 arasından 20 sayı seçin. Bu sayıları kağıtlara yazın. Ayrıca her sayıyı genişletilmiş formda bir kağıda yazın. Örneğin, 53 için 50 + 3, 30 için 30 + 0, ve 7 için 0 + 7 oluşturun. Bu iki deste kartı karıştırın. İki kart, bir normal sayının genişletilmiş formu ile eşleştiğinde eşleşir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "EN YAKININI BUL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**Hazırlık:** Bir kağıda 5, 10, 25 ve 50 sayıları dikey olarak yazın. 5'in her iki yanına birer boşluk ve diğer sayıların her iki yanına ikişer boşluk bırakın. Bir oyuncu boşlukları soldan doldurur, diğer oyuncu ise sağdan doldurur. Her oyuncunun ayrıca bir sayıyı göz ardı etmek için bir kez kullanabileceği ekstra bir boşluğu vardır.\n"
+"\n"
+"**Nasıl Oynanır:** 0'dan 9'a kadar olan Sayı Kartları desteği ile oynayın. Desteden rastgele bir kart çekin ve kullanıldıktan sonra geri koyun. Her iki oyuncu da o sayıyı henüz doldurulmamış boşluklardan birine yerleştirmelidir. Tüm boşluklar doldurulduğunda, oyuncuların değerleri hedef sayılarla karşılaştırılır. Her hedef sayıya en yakın olan oyuncu bir puan alır; eğer her iki oyuncu da eşit derecede yakınsa, her iki oyuncu da birer puan alır.\n"
+"\n"
+"**Nasıl Kazanılır:** En fazla puanı toplayan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "Bu oyunu farklı hedef sayılarla oynayarak değiştirebilirsiniz. Ayrıca oyunu, her oyuncunun toplam hatalarını toplayarak puanlayabilirsiniz – daha küçük puana sahip oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "SAVAŞ – İKI BASAMAKLI SAYI KARŞILAŞTIRMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**Hazırlık:** Yüzleri ve onlukları çıkarılmış bir deste oyun kartını karıştırın ve iki oyuncuya eşit olarak dağıtın.\n"
+"\n"
+"**Nasıl Oynanır:** Her oyuncu sırayla iki kart açar ve kartları yan yana koyarak iki basamaklı bir sayı oluşturur. Daha büyük sayıya sahip olan oyuncu tüm dört kartı alır. Eğer sayılar eşitse, her oyuncu iki kart daha açar ve kazanan tüm sekiz kartı alır.\n"
+"\n"
+"**Nasıl Kazanılır:** Kartlar tamamen bitene kadar oyuna devam edilir. En fazla karta sahip olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "MATEMATIK BLACKJACK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**Hazırlık:** Geleneksel olarak hedef sayı 21’dir, ancak küçük bir çocuk için daha küçük bir sayı kullanın, örneğin 12. Çocuğunuz için oyun kartlarının içeriğini ayarlayın. Örneğin, çok küçük bir çocuk için bu, dört takımdaki 1'den 4'e kadar olan kartlar olabilir.\n"
+"\n"
+"**Nasıl oynanır:** Her oyuncuya iki kart dağıtılır - bir tanesi açıkta, biri ise kapalıdır (kapalı kartı sadece dağıtılan oyuncu görebilir). Bir tur sırasında, oyuncu bir kart daha isteme seçeneğine sahiptir; oyuncu durmaya karar verene kadar bu devam eder. Her oyuncu turunu tamamladıktan sonra, oyuncular kartlarının toplamını karşılaştırır.\n"
+"\n"
+"**Nasıl kazanılır:** Hedef sayıya en yakın toplamı elde eden oyuncu kazanır, ancak bu toplam hedefi geçmemelidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "BOŞLUKLARI DOLDURMA – KARŞILAŞTIRMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing Double-Digit Numbers"
+msgstr "Iki̇ Haneli̇ Sayilari Karşilaştirma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9.\n"
+"\n"
+"**How to play:** Deal two cards to each player face down. Then, each player turns over one card and decides whether that card will be the tens or ones card. After deciding, each player’s remaining card is turned over and is used to fill the remaining place.\n"
+"\n"
+"**How to win:** The player with the larger number wins."
+msgstr ""
+"**Hazırlık:** 1’den 9’a kadar olan kartları içeren bir deste karıştırın.\n"
+"\n"
+"**Nasıl oynanır:** Her oyuncuya iki kart kapalı olarak dağıtılır. Daha sonra, her oyuncu bir kartı açar ve bu kartın onluk veya birlik kartı olup olmayacağına karar verir. Karar verdikten sonra, her oyuncunun kalan kartı açılır ve kalan yeri doldurmak için kullanılır.\n"
+"\n"
+"**Nasıl kazanılır:** Daha büyük sayıya sahip oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "HEDEF O'LAR VE X'LER"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"**How to play:** Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. \n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**Hazırlık:** Resimli kartların çıkarıldığı bir deste kullanın. Bir x-o-x tahtasını 1 ile 20 arasında rastgele oluşturulmuş sayılarla doldurun. Çarpma işlemini dahil etmek isterseniz, daha geniş bir aralık kullanın.\n"
+"\n"
+"**Nasıl oynanır:** Her oyuncuya 6 kart dağıtın ve hepsini aynı anda ters çevirin. İlk hamlede, iki oyuncu arasında bir yarış olur – iki veya daha fazla kartını birleştirip karelerden birinin değerine ilk uyan oyuncu, oraya bir X koyar ve kullandığı kartları değiştirir. Bundan sonra, oyuncular sırayla X veya O koymak için bir kare seçerler ve kartlarının değerini eşleştirirler – kullanılan kartlar, yeni kartlar çekilerek değiştirilir. Eğer eşleşme yapamazlarsa, sırayı kaybederler ve iki kartlarını seçip yeni kartlarla değiştirebilirler.\n"
+"\n"
+"**Nasıl kazanılır:** Art arda 3 tane aynı işareti dizen ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "TERMINATOR 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Add & Sub"
+msgstr "Ekstra Toplama/Çıkarma Oyunları"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and a board with three rows of five squares numbered from 1 to 15.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn.\n"
+"\n"
+"**How to win:** The winner is the one with the most claimed numbers after a fixed number of turns."
+msgstr ""
+"**Hazırlık:** Üç zar ve 1'den 15'e kadar numaralandırılmış beş kareli üç satırlık bir tahta kullanın.\n"
+"\n"
+"**Nasıl oynanır:** Bir oyuncu zarları atar ve zar üzerindeki üç sayıyı toplama ve çıkarma işlemleri ile birleştirerek tahtadaki sayılardan birine eşleştirir. Eşleştirilen sayı üstü çizilerek o oyuncu tarafından sahiplenilir. Eğer oyuncu bir eşleşme bulamazsa, diğer oyuncu sayıları kullanarak sonucu sahiplenme şansını elde eder - her durumda, diğer oyuncu bir sonraki turda oynama hakkına sahip olur.\n"
+"\n"
+"**Nasıl kazanılır:** Belirli sayıda turdan sonra en çok sayıya sahip olan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr "Daha küçük bir versiyon, 1'den 10'a kadar olan sayılarla iki zar kullanır, daha büyük bir versiyon ise 4 zar ve 1'den 20'ye kadar olan sayılarla oynanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC TRIANGLES"
+msgstr "SIHIRLI ÜÇGENLER"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Place the numbers 1 to 6 in a triangle of six circles with three circles on a side, so each side has the same sum."
+msgstr "**Mücadele:** 1'den 6'ya kadar olan sayıları üç kenarında üç daire bulunan bir üçgenin altı dairesine yerleştirin, böylece her kenarda aynı toplam elde edilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are really two challenges – find which sums work and how to get those sums. Let your child play with this to figure out which sums work, but if frustration wins out, the sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys this puzzle, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23."
+msgstr ""
+"Gerçekten iki meydan okuma var – hangi toplamların işe yaradığını ve bu toplamları nasıl elde edeceğinizi bulmak. Çocuğunuzun hangi toplamların işe yaradığını keşfetmesi için bu oyunu oynamasına izin verin, ancak eğer hayal kırıklığı yaşarsa, toplamlar 9, 10, 11 ve 12'dir.\n"
+"\n"
+"Eğer çocuğunuz bu bulmacayı beğenirse, daha büyük üçgenler için de yapılabilir. Dört daireli bir kenara sahip dokuz daireli bir üçgen için, mümkün olan toplamlar 17, 19, 20, 21 ve 23'tür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC DESIGNS"
+msgstr "SIHIRLI TASARIMLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"From left to right, the diagrams above are for puzzles (2), (4), (8), and (9). The answers are in the Stage 4 Bonus Material file.\n"
+"\n"
+"1. The numbers 1 to 4 – a '+' shape with no circles in common.\n"
+"\n"
+"2. The numbers 1 to 5 – a '+' shape with one circle in common in the middle.\n"
+"\n"
+"3. The numbers 1 to 7 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"4. The numbers 1 to 9 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"5. The numbers 1 to 5 – an 'L' shape with one common circle in the corner.\n"
+"\n"
+"6. The numbers 1 to 8 – a '+' sign with no circles in common.\n"
+"\n"
+"7. The numbers 1 to 9 – a '+' sign with one circle in common in the middle.\n"
+"\n"
+"8. The numbers 1 to 12 – a 'star' shape, with 6 directions of lines of 4 circles.\n"
+"\n"
+"9. The numbers 1 to 7 – an 'H' shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. The five possible lines of 3 are connected. Hint: The sum is 12."
+msgstr ""
+"**Mücadele:** Dairelere sayıları yerleştirerek, her düz çizgideki bağlı dairelerin toplamının aynı olmasını sağlayın.\n"
+"\n"
+"Soldan sağa, yukarıdaki diyagramlar (2), (4), (8) ve (9) için bulmacalardır. Cevaplar, Aşama 4 Bonus Materyal dosyasındadır.\n"
+"\n"
+"1. 1'den 4'e kadar olan sayılar – Ortak daire olmayan bir ‘+' şekli.\n"
+"\n"
+"2. 1'den 5'e kadar olan sayılar – Ortada bir ortak daire olan bir ‘+' şekli.\n"
+"\n"
+"3. 1'den 7'ye kadar olan sayılar – Ortada bir ortak daire bulunan ve 3 daireli çizgilerden oluşan bir ‘yıldız' şekli.\n"
+"\n"
+"4. 1'den 9'a kadar olan sayılar – Ortada bir ortak daire bulunan ve 3 daireli çizgilerden oluşan bir ‘yıldız' şekli.\n"
+"\n"
+"5. 1'den 5'e kadar olan sayılar – Köşede bir ortak daire bulunan bir ‘L' şekli.\n"
+"\n"
+"6. 1'den 8'e kadar olan sayılar – Ortak daire olmayan bir ‘+' işareti.\n"
+"\n"
+"7. 1'den 9'a kadar olan sayılar – Ortada bir ortak daire bulunan bir ‘+' işareti.\n"
+"\n"
+"8. 1'den 12'ye kadar olan sayılar – 6 yönde 4 daireli çizgilerden oluşan bir ‘yıldız' şekli.\n"
+"\n"
+"9. 1'den 7'ye kadar olan sayılar – Sol tarafta dikey olarak 3 daire, ortada 1 daire, sağ tarafta dikey olarak 3 daireden oluşan bir ‘H' şekli. 3 dairenin bulunduğu beş olası çizgi bağlıdır. İpucu: Toplam 12'dir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING 10’S"
+msgstr "10'LARI KAPMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Turn long addition problems into simpler problems by grouping numbers that add up to 10. Instead of adding 3 + 8 + 9 + 4 + 7 + 6 + 2 from left to right, rearrange the terms to put the number bonds for 10 together. This example becomes (3 + 7) + (8 + 2) + (4 + 6) + 9, which is 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Once this is easy, include trickier problems such as 4 + 8 + 9 + 5 + 3, which can be rearranged as (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Make simplifying expressions a game with your child."
+msgstr ""
+"Uzun toplama problemlerini 10’a tamamlanan sayıları gruplayarak daha basit hale getirin. 3 + 8 + 9 + 4 + 7 + 6 + 2'yi soldan sağa toplamak yerine, 10'un sayı bağlarını bir araya getirecek şekilde terimleri yeniden düzenleyin. Bu örnek (3 + 7) + (8 + 2) + (4 + 6) + 9 olur; bu da 10 + 10 + 10 + 9 = 39 eder.\n"
+"\n"
+"Bu işlem kolaylaştığında, daha karmaşık problemler de ekleyin, örneğin 4 + 8 + 9 + 5 + 3, bu şekilde yeniden düzenlenebilir: (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. İfade basitleştirmeyi çocuğunuzla bir oyun haline getirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER UP"
+msgstr "ÖRTBAS ET"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This activity combines the approaches of 'What's Missing?' from Stage 2 and 'Shape Sums' of Stage 3. Take a collection of small objects, count them, and spread them out on a surface. Use pieces of paper, cloth, or bowls to cover over one or more groups of the objects. Use the same color paper when covering groups of the same size.\n"
+"\n"
+"**The challenge:** Find out how many objects are in each covered group.\n"
+"\n"
+"**Four Steps:**\n"
+"\n"
+"* Count the number you can see and compare to the total.\n"
+"* Find one way to solve it.\n"
+"* Find other ways to solve it.\n"
+"* Verify your answer(s)."
+msgstr ""
+"**Hazırlık:** Bu etkinlik, Aşama 2'deki ‘Neyin Eksik Olduğunu?' ve Aşama 3'teki ‘Şekil Toplamları' yaklaşımlarını birleştirir. Küçük nesnelerden oluşan bir koleksiyon alın, sayın ve bunları bir yüzeye yayarak yerleştirin. Nesnelerin bir veya daha fazla grubunu kapatmak için kağıt, bez veya kaseler kullanın. Aynı boyuttaki grupları kapatırken aynı renk kağıt kullanın.\n"
+"\n"
+"**Mücadele:** Her kapalı gruptaki nesne sayısını bulun.\n"
+"\n"
+"**Dört Adım**\n"
+"\n"
+"* Görünen sayıyı sayın ve toplamla karşılaştırın.\n"
+"* Bir çözüm yolu bulun.\n"
+"* Diğer çözüm yollarını bulun.\n"
+"* Cevaplarınızı doğrulayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** As pictured above, suppose you have 18 items and you cover 14 of them with two red pieces of paper. Your child sees the number 18 and that there are 4 uncovered items. They can subtract 18 - 4 and know that 14 pieces are covered. Because the same color is used, the covered items must be equal, so each must be 7, which is half of 14.\n"
+"\n"
+"Here is where the best, and most important, 'step' starts. What other ways are there of discovering that each covered group has 7 items? Your child could count by 2's and see that there are seven 2's as they skip count from 4 to 18. They could break 18 into halves of 9 each and break the 4 into halves of 2 each – then each group of 9 consists of a covered group plus 2 more, so the covered groups are 7 each.\n"
+"\n"
+"Keep exploring and thinking of ways to use all the interesting math relationships!"
+msgstr ""
+"**Örnek:** Yukarıdaki şekilde olduğu gibi, 18 nesneniz olduğunu ve bunlardan 14'ünü iki kırmızı kağıt parçası ile kapattığınızı varsayalım. Çocuğunuz 18 sayısını görür ve 4 tane kapatılmamış nesne olduğunu fark eder. 18 - 4 çıkarımı yaparak 14 parça nesnenin kapalı olduğunu bilir. Aynı renk kullanıldığı için, kapalı nesnelerin eşit olması gerekir, bu nedenle her biri 7 olmalıdır, yani 14'ün yarısı.\n"
+"\n"
+"İşte en iyi ve en önemli 'adım'ın başladığı yer. Kapalı her grubun 7 öğe içerdiğini keşfetmenin başka yolları nelerdir? Çocuğunuz 2'şer 2'şer sayarak 4'ten 18'e kadar sayarken yedi tane 2 olduğunu görebilir. 18'i 9'ar 9'a iki parçaya ayırabilir ve 4'ü de 2'şer 2'şer parçalara bölebilir – böylece her 9'luk grup, bir kapalı grup ve 2 fazlasını içerir, bu nedenle kapalı gruplar 7'şer olur.\n"
+"\n"
+"Keşfetmeye devam edin ve tüm ilginç matematik ilişkilerini kullanmanın yollarını düşünün!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2.\n"
+"Although not as obvious, the same is true for multiplication."
+msgstr "Çocuğunuz toplama konusunda o kadar alışkın ki, 2 + 3'ün 3 + 2'ye eşit olduğunu bilmesi sürpriz değil. Aynı şey çarpma için de geçerlidir, her ne kadar bu o kadar açık olmasa da."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 x 4, they also know 4 x 3."
+msgstr ""
+"Bu illüstrasyon, iki sıra üç ile üç sıra ikinin aynı olduğunu gösterir – sadece bakış açınızı değiştiriyorsunuz!\n"
+"\n"
+"İki sayıyı çarptığınızda hangi sırayı kullanırsanız kullanın fark etmez – her iki şekilde de aynı sonucu alırsınız!\n"
+"\n"
+"Bu harika gözlem, çocuğunuzun sadece yaklaşık olarak yarısı kadar çarpma bilgisini öğrenmesi gerektiği anlamına gelir – çocuğunuz 3 x 4'ü bildiğinde, aynı zamanda 4 x 3'ü de öğrenmiş olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING IS MULTIPLICATION"
+msgstr "ATLAYARAK SAYMA ÇARPMADIR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"All that skip counting practice your child did paid off in getting much better at addition and subtraction. It also will be a big help in getting started with multiplication. Skip counting by 5's makes them particularly quick to learn.\n"
+"\n"
+"Although skip counting is not the fastest way to find a result, it is reliable. To find 7 x 3 either skip count by 3’s seven times or skip count by 7’s three times.\n"
+"\n"
+"Your child will eventually memorize these facts, but skip counting is handy for now."
+msgstr ""
+"Çocuğunuzun yaptığı tüm atlayarak sayma çalışmaları, toplama ve çıkarma becerilerini geliştirmekte büyük katkı sağladı. Aynı şekilde, çarpma işlemine başlamak için de büyük bir yardım olacaktır. Özellikle 5'er 5'er saymak, öğrenmeyi hızlı hale getirir.\n"
+"\n"
+"Atlayarak sayma, bir sonucu bulmanın en hızlı yolu olmasa da güvenilirdir. Örneğin, 7 x 3'ü bulmak için ya 3’leri yedi kez sayabilir ya da 7’leri üç kez sayabilirsiniz.\n"
+"\n"
+"Çocuğunuz bu bilgileri sonunda ezberleyecektir, ancak şu anda atlayarak sayma pratik ve kullanışlıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 3 AND 4"
+msgstr "3 VE 4 ILE ÇARPMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Mental Math"
+msgstr "Ekstra Zihinsel Matematik"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For someone good at adding, multiplying by 3 and 4 can be quick and easy.\n"
+"\n"
+"Multiplying a number by 3 is adding the number to double the number. So, 3 x 6 is 6 more than double 6, which is 6 + 12 = 18.\n"
+"\n"
+"Four times a number is doubling a number twice. So, 4 x 7 is 2 x (2 x 7), which is 14 + 14 = 28."
+msgstr ""
+"Toplama konusunda iyi olan biri için, 3 ve 4 ile çarpma hızlı ve kolay olabilir.\n"
+"\n"
+"Bir sayıyı 3 ile çarpmak, o sayıyı iki katına çıkarmaya eklemektir. Yani, 3 x 6, 6'nın iki katından 6 fazlasıdır, bu da 6 + 12 = 18 eder.\n"
+"\n"
+"Bir sayıyı 4 ile çarpmak, o sayıyı iki kez iki katına çıkarmaktır. Yani, 4 x 7, 2 x (2 x 7) olarak hesaplanır, bu da 14 + 14 = 28 eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "TOPLAM KARE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**Hazırlık:** Her satır ve sütun için hedef toplamların verildiği 3 x 3 kareli bir ızgara ile başlayın. 1'den 9'a kadar bazı sayılar ızgarada zaten yerleştirilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**Mücadele:** Kalan sayıları ızgaraya yerleştirerek, satır ve sütun toplamlarının hedef değerler olması sağlanmalıdır.\n"
+"\n"
+"**Nasıl Yapılır:** Bu bulmacalardan birini yapmak için, 1'den 9'a kadar olan sayıları içeren kağıt parçalarını 3 x 3 ızgaranın üzerine yerleştirin.\n"
+"\n"
+"Her satır ve sütun için toplamları sağa veya aşağıya yazın. Ardından, ızgaradan bazı sayıları çıkarın. Son olarak, çıkardığınız sayıları içeren kağıt parçalarını çocuğunuza verin ve “Bunlar nerede vardı?” diye sorun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "Toplamları daha küçük tutan bir varyasyon, 0'dan 8'e kadar olan sayıları kullanmaktır. Daha zor bir varyasyon ise, 1'den 12'ye kadar olan sayılarla 3 x 4 ızgarasında aynı işlemi yapmaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "TOPLAMA PIRAMIDI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**Hazırlık:** 4 sırada yer alan 10 sayının olduğu bir piramit verilmiş ve bir hedef sayı belirlenmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**Mücadele:** Piramit içinde her sıradan bir sayı kullanarak, sayılarının toplamının hedef sayıyı verdiği bir yol bulun. Yol üzerindeki sayılar birbirine bağlanmalıdır.\n"
+"\n"
+"**Örnek:** Bu bulmacanın cevabı 5 –> 4 –> 1 –> 7'dir.\n"
+"\n"
+"**Nasıl Yapılır:** Bu bulmacalardan birini oluşturmak için, yolu oluşturacak sayıları yerleştirin ve bu sayıların toplamını kaydedin. Ardından, piramide kalan yanıltıcı sayıları ekleyin."
 
 #. type=data_list
 msgctxt "data_list"
