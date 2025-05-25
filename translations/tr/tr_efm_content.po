@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 05:25\n"
+"PO-Revision-Date: 2025-05-25 20:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10547,6 +10547,107 @@ msgstr ""
 "**Örnek:** Bu bulmacanın cevabı 5 –> 4 –> 1 –> 7'dir.\n"
 "\n"
 "**Nasıl Yapılır:** Bu bulmacalardan birini oluşturmak için, yolu oluşturacak sayıları yerleştirin ve bu sayıların toplamını kaydedin. Ardından, piramide kalan yanıltıcı sayıları ekleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "TOPLAM FARKI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**Nasıl Oynanır:** Bir kişi iki sayı söyler; biri toplam, diğeri fark olarak belirtilir. Diğer kişi, verilen toplam ve farkı veren orijinal iki sayıyı bulmaya çalışır. Örneğin, biri toplamın 12 ve farkın 6 olduğunu söylerse, diğer kişi orijinal sayıların 3 ve 9 olduğunu söyler.\n"
+"\n"
+"**Rolleri Değiştirin:** Bu soruları oluşturmanın ne kadar kolay olduğunu göz önünde bulundurarak, çocuğunuzun soru soran kişi olmasına izin vermek iyi bir aktivitedir. Toplam ve fark için tüm sayı kombinasyonları makul cevaplar üretmeyebilir. Ancak, iki sayı ile başlayıp, ardından bu sayıların toplamını ve farkını söylerseniz, bir cevabın garanti olduğunu bilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "ZEHIRLI SAYILAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**Zehirli Sayılar:** Bir deste karttaki resimli kartları çıkarın (isterseniz Kraliçeleri 0 olarak kullanabilirsiniz). Başlamadan önce, tur için bir “zehirli” sayılar seti belirleyin. Zehirli sayılar, çocuğunuzun üzerinde çalışmasını veya daha fazla aşina olmasını istediğiniz herhangi bir sayı seti olabilir. İşte bazı örnekler:\n"
+"\n"
+"* Çift sayılar (2, 4, 6, 8, 10, 12)\n"
+"* Tek sayılar (1, 3, 5, 7, 9, 11)\n"
+"* Kare sayılar (1, 4, 9, 16, 25)\n"
+"* Asal sayılar (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* Bir sayının katları, örneğin 3'ün katları\n"
+"\n"
+"**Nasıl Oynanır:** Her oyuncuya üç kart dağıtın. İlk oyuncu, zehirli bir sayı olmayan bir kartı atar ve çeken desteden yenisini alır. Sonraki oyuncu, ilk iki sayının toplamının zehirli bir sayı olmamasını sağlayacak bir kartı atar ve atılan kartın yerine desteden yenisini alır. Bir sonraki oyuncu, üç kartın toplamının zehirli bir sayı olmamasını sağlayacak şekilde oynar ve bu şekilde devam eder.\n"
+"\n"
+"**Nasıl Kazanılır:** Geçerli bir kart atamayan ilk oyuncu kaybeder ve oyundan çıkar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "Bu oyun, iki oyuncudan fazlasıyla da eşit şekilde çalışır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "Çocuğunuzun bu araştırmalarla oynamasına ve düşünmesine izin verin. Acele etmeyin. Önemli olan, oyun oynarken ve güzel desenler keşfederken geçirilen zamandır. Bu aktivitelerde bazı daha derin matematiksel fikirler bulunabilir, ancak bu fikirler çocuğunuz daha büyük olduğunda bekleyebilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "ÇIÇEK YAPRAKLARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**Soru:** Garip bir bahçede iki tür çiçek var. Birinin 4 yaprağı, diğerinin ise 7 yaprağı var. Bir çocuğa, toplamda 13 yaprak olacak şekilde çiçekler toplaması söylendi. Bu mümkün mü? Peki, 15 yaprak? Hangi yaprak sayıları mümkündür? Mümkün olan sayılar için, birden fazla yol olup olabilir mi? Örneğin, 32 yaprak, dört tane 7 ve bir tane 4 ile veya sekiz tane 4 ile yapılabilir.\n"
+"\n"
+"**Varyasyonlar:** Sayıları değiştirerek oynayabileceğiniz birçok örnek vardır. Bazı sayı çiftleri için, tüm yaprak sayılarının mümkün olduğu bir nokta gelirken, diğer çiftler için böyle bir nokta yoktur. Örneğin, 4 ve 7 için, 18 ve sonrasındaki her sayı mümkündür. Ancak, 3 ve 6 için, tüm sayıların mümkün olduğu bir nokta yoktur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "BASAMAKLARI TIRMANMA – KAÇ YOLLA?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**Soru:** Diyelim ki çocuğunuz bazen iki adım birden, bazen de bir adım birden çıkar. Çocuğunuz bazı basamakları çıkarsa, bunu kaç farklı şekilde yapabilir?\n"
+"\n"
+"Örneğin, 0 basamak için bir yol vardır – orada durursunuz. 1 basamak için bir yol vardır. 2 basamak için, ya bir çift adım atabilirsiniz ya da iki tek adım atabilirsiniz, bu yüzden iki yol vardır.\n"
+"\n"
+"Pek çok örneği dikkatlice düşünün ve sonra sonuçların bir tablosunu oluşturun. Bol miktarda bilgi olduğunda, tablo yapmak genellikle yardımcı olur. Tablo şöyle başlar:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "Bu sayılara baktıktan sonra, çocuğunuz her sayı çiftinin toplamının bir sonraki sayıyı verdiğini fark edebilir. Neden böyle olur? Bu sayılar Fibonacci Sayıları olarak adlandırılır."
 
 #. type=data_list
 msgctxt "data_list"
