@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 22:53\n"
+"PO-Revision-Date: 2025-05-25 23:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11501,6 +11501,713 @@ msgstr ""
 "Bu bulmacaları çözmek için önce asal sayılara sahip alanlara bakın – bu alanların şekilleri sıkı bir şekilde kısıtlanmıştır.\n"
 "\n"
 "Sonra, etrafı kapalı bölgeleri dikkate alın. Bu bulmacada, üstteki “4” üst sol köşedeki 2’ye 2 kare ile ilişkili olmalıdır. Ayrıca, üst sağ köşe, dikey 3’e 1 dikdörtgenin içinde kullanılmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A DEFINITION AND A RULE"
+msgstr "BIR TANIM VE BIR KURAL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The definition:** Just as 4 × 2 is a quick way to write 2 + 2 + 2 + 2, so 2<sup>4</sup> is a quick way to write 2 × 2 × 2 × 2. It’s much easier to say and understand the phrase “two to the fourth,” than to say “two times two times ... “\n"
+"\n"
+"**Special names:** The second power, 4<sup>2</sup> for example, can be said **four squared,** and the third power, 4<sup>3</sup> for example, can be said **four cubed.**\n"
+"\n"
+"**The rule:** When powers of the same number are multiplied, a simple rule governs how to simplify the result – add the powers. For example, if you do 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, we have two fours multiplied by three fours, so the result is five fours being multiplied.\n"
+"\n"
+"**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
+msgstr ""
+"**Tanım:** Tıpkı 4x2’nin 2+2+2+2 yazmanın hızlı bir yolu olması gibi, de 2x2x2x2 yazmanın hızlı bir yoludur. “İki üssü dört” ifadesini söylemek ve anlamak, “iki çarpı iki çarpı …” demekten çok daha kolaydır.\n"
+"\n"
+"**Özel İsimler:** İkinci kuvvet, örneğin 4², “dördün karesi” olarak söylenebilir ve üçüncü kuvvet, örneğin 4³, “dördün küpü” olarak söylenebilir.\n"
+"\n"
+"**Kural:** Aynı sayının üssüyle çarpma işlemi yapıldığında, sonucu basitleştirmek için basit bir kural uygulanır – üssü ekleyin. Örneğin, 4² x 4³ = (4x4) x (4x4x4) = 4⁵ işlemini yaparsak, iki yıl ile üç yıl çarpılmış olur, bu yüzden sonuç beş yıl olarak çarpılır.\n"
+"\n"
+"**Dikkat:** Bu üssü ekleme kuralı yalnızca aynı sayının üssü alındığında geçerlidir – 3² x 5³ gibi işlemleri kolayca basitleştiremezsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "ESKI TOPLAMA AKTIVITELERINI YENIDEN KULLANMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "Gücü Hissedin"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**Bulmacalar ve Oyunları Yeniden Kullanma:** Üsler çarpılırken üssün eklenmesi gerektiği için, eski toplama oyunlarımız ve bulmacalarımız, üslü sayıları çarpmayı pratik etmek için kullanılabilir. Bu eski toplama aktivitelerinin bazı örnekleri şunlardır: Aşama 3 - Şekil Toplamları ve Toplam Grupları; Aşama 4 - Kapalı Toplamlar, Toplam Üçgenler ve Düzelt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr "Solda, Aşama 3 - Şekil Toplamlarından iki örnek bulunmaktadır. Sağda ise aynı örnekler, toplama yerine çarpma kullanılarak Şekil Çarpanları olarak verilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "Üslerle çalışmak rutin hale gelir ve orijinal ekleme sorunları kadar kolay hale gelir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "Eğer çocuğunuz bu problemleri seviyor ve ekstra bir zorluk istiyorsa, birden fazla sayının üssünü dahil etmeye başlayabilirsiniz. Örneğin, (4² x 3³) x (4⁵ x 3²) çarptığınızda, 4’ün üssü ve 3’ün üssü için kuralı ayrı ayrı uygulayarak sonucu 4⁷ x 3⁵ olarak bulabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "ÇARPAN AĞAÇLARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "Asal Çarpanları Keşfetme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "Çarpan ağaçları modeli, önceki Gücü Hissedin sayfasındaki Şekil Çarpanları kavramının bir uzantısıdır. Bir çarpan ağacı oluşturmanın amacı, bir sayıyı asal çarpanlarına ayırmaktır. Çarpan ağacı oluşturma sürecinde, bir sayı hakkında birçok şey öğrenilebili."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr ""
+"**Örnek:** Bir sayı ile başlayalım, örneğin 54. Bu sayı birkaç farklı şekilde ayrıştırılabilir. Bir yol 9 x 6, bir diğeri 18 x 3 ve bir başkası 3 x 3 x 6’dır. Her biri bir çarpan ağacının başlangıcını oluşturur.\n"
+"\n"
+"Bu ağaçların her biri nihayetinde yapraklarında aynı asal sayıları üretir. Her durumda 2 x 3 x 3 x 3 ile sonuçlanırız, ancak oraya ulaşmanın farklı yollarına bakın!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "Sorular"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"Bu tür örnekler yaptıktan sonra çocuğunuz doğal olarak bazı sorular sormaya başlayabilir:\n"
+"\n"
+"* Neden bazı ağaçlar diğerlerinden daha fazla seviyeye sahip?\n"
+"* Neden bazı ağaçlar diğerlerinden daha geniş?\n"
+"* Neden yapraklar her zaman asal sayılarda duruyor?\n"
+"* Neden yapraklar her zaman aynı asal sayıların bir listesini, belki de farklı bir sıralamayla, içeriyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "ASAL ÇARPANLARA AYIRMA ALIŞTIRMALARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "Seyahat ederken veya zamanınız olduğunda asal çarpanlara ayırma alıştırmaları yapın. Bu, üslü sayılarla ilgili konuşma pratiği yapmanıza da yardımcı olur. Asal çarpanları kolayca bilmek, ileride kesirlerle çalışmak gibi birçok konuda faydalı olacaktır. Bu sürecin keyfini çıkarın ve çocuğunuzu rahatlık sınırlarının ötesine zorlamayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "Resital"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"Resital şu şekilde devam eder:\n"
+"\n"
+"1. bir birimdir\n"
+"2. bir asaldır\n"
+"3. bir asaldır\n"
+"4. 2 kare mi\n"
+"5. bir asaldır\n"
+"6. 2 x 3'tür\n"
+"7. bir asaldır\n"
+"8. 2’nin küpü\n"
+"9. 3 kare mi\n"
+"10. 2 x 5'tir\n"
+"11. bir asaldır\n"
+"12. 2 kare x 3 mü\n"
+"13. bir asaldır\n"
+"14. 2 x 7'dir\n"
+"15. 3 x 5'tir\n"
+"16. 2’nin dördüncü kuvveti\n"
+"17. bir asaldır\n"
+"18. 2 x 3 kare mi\n"
+"19. bir asaldır\n"
+"20. 2 kare x 5 mi\n"
+"21. 3 x 7'dir\n"
+"22. 2 x 11 olduğunu\n"
+"23. bir asaldır\n"
+"24. 2 küpü x 3 mü"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "ÇARPAN PIRAMIDI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "Asal Sayilarla Çarpanlara Ayirma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"Bu bulmacalar, 4. Aşama’da görülen Toplama Piramitlerinin çarpanlı versiyonudur. Size bir hedef sayı ve bir sayı piramidi verilir.\n"
+"\n"
+"**Zorluk:** piramitteki bağlı sayılardan bir yol bulmak ve seçilen sayıların çarpımının hedef sayıya eşit olmasını sağlamaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"Bu Piramitte Hedef 36’dır ve kırmızı hatlar, işe yarayan yolu gösterir.\n"
+"\n"
+"Bu bulmacalar, hedefin asal çarpanlara ayrılmasını yaparak başlarsanız daha kolaydır. Çünkü 36 = 2 x 2 x 3 x 3 olduğuna göre, bu asal çarpanlar yol boyunca seçilmelidir ve bu, arayışa rehberlik eder.\n"
+"\n"
+"Asal çarpanlar hakkında bilgi sahibi olmak, bu tür bulmacaları oluşturmayı da çok daha kolay hale getirir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100 KAHKAHA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**Hazırlık:** Bir deste kart kullanın; deste, Q’ları (0 olarak), A’ları (1 olarak) ve 2-9 arasındaki kartları içermelidir. Hedef sayı 100 olarak belirlenir. Dört rastgele kart sırasıyla seçilir ve iki basamaklı sayılar oluşturmak için kullanılır, bu da ortak bir kaynaktır.\n"
+"\n"
+"**Nasıl Oynanır:** Her oyuncuya 14 rastgele kart dağıtılır, kartlar açık bir şekilde yerleştirilir. Oyuncular sırayla oynar. Bir oyuncu, sırası geldiğinde, iki kartını kullanarak dört karttan iki tanesinin üzerine yerleştirir. Eğer mevcut iki iki basamaklı sayı toplandığında hedefe ulaşılırsa, oyuncu bir puan alır. Oyunun adı, oyuncunun hedef sayıya ulaştıklarında her seferinde gülme eylemini isteğe bağlı olarak yapmasından gelir.\n"
+"\n"
+"**Nasıl Kazanılır:** Kartlar tamamen kullanıldığında, en çok puanı toplayan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* 100 hedefi, 10 için sayı bağlarını pratiği yapmak için iyidir. Ancak, diğer hedefler çeşitlilik sağlamak ve diğer sayı bağlarını pratik etmek için faydalıdır.\n"
+"* Oyunculara 14 karttan daha az veya daha fazla kart verin.\n"
+"* Küçük bir hedef sayı ile birlikte çıkarma kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "5 KART ÇEKEREK HEDEFE ULAŞMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "Toplama ve Çikarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**Hazırlık:** Bir hedef sayı seçin, örneğin 100.\n"
+"\n"
+"**Nasıl Oynanır:** Her oyuncu, 0 ile 9 arasında beş rastgele kart çeker. Bu sayılardan iki basamaklı sayılar oluşturulur, beşinci kart ise kullanılmaz. İki sayı toplanır ve hedef sayıya en yakın olan oyuncu, o tur için bir puan kazanır.\n"
+"\n"
+"**Nasıl Kazanılır:** Belirli bir tur sayısının ardından en yüksek puanı toplayan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "Bir seçenek, üç basamaklı sayılar kullanmak, hedef sayıyı 1000 yapmak ve her oyuncuya yedi kart vermektir. Diğer bir seçenek ise, küçük bir hedef sayı ile birlikte çıkarma kullanmaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "HARF YERLEŞTIRM"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "Harf Yerleştirm"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**Hazırlık:** Bu bulmacalarda, tek basamaklı sayılar harflerle yer değiştirilir. İlk bakışta, bu bulmacalar, bu aşamanın önceki “Eksik Sayı” bulmacalarına benziyor gibi görünebilir. Ancak, harflerin kullanımı, problem çözme için daha ilginç fırsatlar sunar. Eğer çocuğunuz Eksik Sayı bulmacalarıyla rahatsa, bu bulmacalara geçiş yapabilirsiniz.\n"
+"\n"
+"Bu Bulmacalardaki Harf Kullanımını Takip Eden Üç Kural:\n"
+"\n"
+"* Verilen bir harf her zaman 0 ile 9 arasında aynı sayıyı temsil eder.\n"
+"* Bir sayının en soldaki basamağı asla 0 olamaz.\n"
+"* Farklı harfler farklı sayıları temsil etmelidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**Nasıl Oluşturulur:** Normal bir toplama veya çıkarma problemini alıp bir veya daha fazla basamağı harflerle değiştirin. Aynı basamağı değiştirirken aynı harfi kullanın. Örneğin, 6 sayısını her iki yerde de ‘A’ harfiyle değiştirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**Özel Bulmacalar:** Bu tür bulmacaların koşulları, ilginç problem çözme zorlukları yaratmaya olanak tanır. Biraz tasarım gerektirir, ancak sonuç olarak eğlenceli bulmacalar ortaya çıkar.\n"
+"\n"
+"Harflere verilen değerlerin, bulmaca arasında taşınmadığını unutmayın. Örneğin, ilk bulmacada değeri 1 olan ‘B’ harfi, ikinci bulmacada 4 değerini alabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "ALANLARI ŞEKILLERLE DOLDURMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"Diyelim ki bir 8x8 satranç tahtanız var ve elinizde 1x2 boyutlarında fayanslar (karolar) var. Bu 1x2 fayanslarla satranç tahtasını tam olarak kaplamak oldukça basittir. 8x8’lik tahtada 32 tane 1x2 karoyu yerleştirerek tahtayı tamamen kaplayabilirsiniz. Bu işlem için her karoyu yatay veya dikey olarak yerleştirebilirsiniz.\n"
+"\n"
+"**Köşeleri Çıkarma:** Şimdi satranç tahtasından kareler çıkararak oynamaya başlayalım. Bir köşeyi çıkardığınızda, hemen şunu fark edersiniz ki artık tahtayı karolarla kaplayamazsınız çünkü karolar her zaman çift sayıda kareyi kaplayacaktır ve geriye 63 kare kalmıştır. Peki, iki köşe çıkararak kalan kare sayısını çift yaparsanız, şimdi kaplayabilir misiniz? Cevap, hangi iki köşeyi çıkardığınıza bağlıdır. Neden? Eğer sadece köşeleri çıkarmakla sınırlanmazsanız, ne olur?\n"
+"\n"
+"**Küçük Örneklerden Öğrenmek:** Bu tür sorularla başa çıkarken önemli bir ders, daha küçük problemlerden öğrenmektir. Önce 4x4 veya 6x6 bir tahtada bu soruları deneyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "Tahtayı doldurmak için başka şekiller kullanmayı dene. 1x3 döşemelerle veya L şeklinde 3 kareyle doldurmayı dene. Bu şekillerle hangi desenleri ve kuralları keşfediyorsun? Hangi diğer şekilleri incelemek ilginç olabilir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "KARELERI KARELERLE DOLDURMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "Şekiller İçinde Şekiller"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**Zorluk:** Bir kareyi, hepsi aynı boyutta olmak zorunda olmayan diğer karelerle nasıl doldurabilirsiniz? Soru şudur: Hangi kare sayıları mümkündür? Mümkün olanlar için, bunu nasıl yapacağınızı tanımlamanın kolay bir yolu var mı?\n"
+"\n"
+"Çocuğunuzun bu soruyla ilgili olarak bir cevaba acele etmeden birçok gün boyunca oynamasına izin verin. İşte 6 sayısının nasıl mümkün olduğunu gösteren bir diyagram."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr "Eğer yalnızca belirli boyutlardaki karelere izin verirseniz, örneğin 1x1, 2x2 ve 3x3 karelere, ne olur? Aynı şekle sahip figürlerle diğer şekilleri doldurursanız ne olur? Örneğin, eşkenar üçgenleri kullanarak şekilleri doldurun. Bu şekilde incelenmesi ilginç olan figürler hangileridir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "ÜRÜN OYUNU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**Hazırlık:** Paylaşılan bir kağıt kullanın ve 1-9 arasındaki kareleri ve 6x6’lık bir ızgarayı aşağıdaki gibi doldurun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**Nasıl Oynanır:** İlk oyuncu, 1 ile 9 arasındaki herhangi bir sayıya bir piyon yerleştirir. İkinci oyuncu, 1-9 arasındaki bir sayıya başka bir piyon yerleştirir ve 6x6 ızgarasında elde edilen çarpanı talep eder. Bundan sonra, her oyuncu iki piyondan birini seçip hareket ettirir ve çarpanı talep eder (eğer talep edebiliyorsa)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**Nasıl Kazanılır:** Üç ardışık kareyi dolduran ilk oyuncu kazanır.\n"
+"\n"
+"**Varyasyonlar:** Çocuğunuza çarpanları tanımlamada daha iyi pratik yapabilmesi için çarpan sayılarını karıştırın. Ayrıca, daha büyük aralıklarla daha büyük tahtaların tasarımlarını görmek için 5. Aşama Bonus Materyali’ne bakın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "ÇARPANLARLA ADA ATLAMALI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "Çarpma ve Katlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"Bu bulmacalarda, adalar (dairesel ve kare şekiller) köprüler (çizgiler) ile birbirine bağlanmıştır. Eğer bir kare şeklinin her iki yanında iki daire varsa, o zaman kare, iki dairenin çarpımını tutar.\n"
+"\n"
+"**Zorluk:** Eksik olan sayıları yerleştirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**Nasıl Oluşturulur:** Bu bulmacaları, daireleri doldurduktan sonra kareleri doldurun ve son olarak bazı sayıları çıkararak çocuğunuza verin.\n"
+"\n"
+"Çarpma pratiği yapmanın yanı sıra, bu bulmacalar ortak bölenleri çalışmak için de yapılandırılabilir. İlk bulmacada, 1 dışında, 14 ve 21’i bölen tek sayı 7’dir, bu yüzden alt dairenin sayısı 7 olmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "KOMŞULARI SAYMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**Hazırlık:** Üç zar ve 1’den 64’e kadar olan sayılarla doldurulmuş 8x8’lik bir tahta kullanın.\n"
+"\n"
+"**Nasıl Oynanır:** Bir oyuncu zarları atar ve toplama, çıkarma, çarpma veya bölme işlemlerini kullanarak tahtadaki işaretlenmemiş bir sayıyı elde eder. Oyuncu bu kareyi işaretler ve kare için bir puan, ayrıca dokunduğu (çaprazlar dahil) her işaretli kare için birer puan alır. Eğer bir oyuncu hamle yapamazsa, başka bir oyuncu hamle bulursa o puanı kazanabilir.\n"
+"\n"
+"**Nasıl Kazanılır:** Beş veya daha fazla tur oynayın; en yüksek puanı alan kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "Bazı oyun seçenekleri şunlardır: dördüncü bir zarı kullanmak veya daha küçük ya da daha büyük bir tahta kullanmak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "BIR KALDIRAÇ YAPMAK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**Hazırlık:** Size bazı ağırlıklar ve birkaç bağlantı noktası olan bir kaldıraç tasarımı verilir. Zorluk ise her bir bağlantı noktasına en fazla bir ağırlık yerleştirerek kaldıracın her kol boyunca dengede kalmasını sağlamaktır. Tellerin ağırlıksız olduğunu varsayın. Kaldıraçtaki her kol, dengelenmesi gereken bir kaldıraçtır, bu yüzden bu bulmacalar, bu Aşamada daha önce verilen Kaldıraç Dengesi bulmacasının bir uzantısıdır- bu bulmacalara başlamadan önce onları uygulayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**Basit Örnek:** En basit mobil tasarımlarla başlayın; bunlar sadece havada duran kaldıraçlardır. Aşağıda, 1’den 4’e kadar olan ağırlıkları bu mobil üzerinde dengelemek için bir çözüm verilmiştir. Bu çözüm şu şekilde çalışır: 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2.\n"
+"\n"
+"**Daha Karmaşık Örnek:** Altındaki ağırlıkların toplamını kullanarak üst telin her iki tarafını dengeleyin: (1 + 3) x 3 = (4 + 2) x 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "Daha fazla örnek ve kaldıraçlar hakkında uzun bir tartışma için Aşama 5 Ekstra Materyale gidin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "SINIRLI HESAP MAKINELERI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "Toplama, Çikarma ve Çarpma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**Hazırlık:** Farz edin ki bozuk bir hesap makineniz var ve bu hesap makinesinde bazı sonuçlar bulmanız isteniyor. Bu oyun, boş bir anınızda sözlü olarak oynaması da kolaydır. İşte başlamak için bazı örnekler.\n"
+"\n"
+"**Örnek:** Farz edin ki sadece +, -, x ve / işlemlerini yapan, ancak yalnızca bir çalışan tuşu olan 4 olan bir hesap makineniz var. 21 sonucunu elde edebilir misiniz? Eğer edebiliyorsanız, bunu elde etmek için gereken en az adım sayısı nedir? Farz edin ki 4’ü en fazla dört kez kullanabilirsiniz – hangi sayıları üretebilirsiniz? Eğer 4’ü tam olarak dört kez kullanmanız gerekseydi, neler yapabilirsiniz? Diğer tekli tuşları kullanarak farklı sonuçlar yaratmayı deneyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**Örnek:** Farz edin ki hesap makineniz yalnızca 4 veya 7 ekleyebiliyor. Hangi sayıları üretebilirsiniz?\n"
+"\n"
+"**Örnek:** Farz edin ki hesap makineniz sadece 4 veya 7’yi ekleyebiliyor ve çıkarabiliyor. Hangi ek sayıları üretebilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"Bu, daha önce pan dengesinde gibi farklı ortamlarda gördüğümüz aynı aktivitelerden biridir.\n"
+"\n"
+"**Örnek:** Farz edin ki sadece 1 tuşunuz var ve yalnızca toplama veya iki katına çıkarma işlemleri yapabiliyorsunuz. Örneğin, 2 x (2 x 1) + 1, 5 eder. Hangi diğer sayıları oluşturabilirsiniz?\n"
+"\n"
+"**Örnek:** Eğlenceli bir meydan okuma, dört 4’ün meydan okumasıdır. Farz edin ki sadece 4 tuşu olan ve tüm işlemlerin çalıştığı bir hesap makineniz var. 1’den başlayarak, hesap makinesinde dört 4’ü tam olarak kullanarak kaç farklı sayıyı oluşturabilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "ÇARPANLARI YAKALAMAK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**Hazırlık:** 1’den 24’e kadar sayılarla doldurulmuş 4x6’lık bir tahta kullanın.\n"
+"\n"
+"**Nasıl Oynanır:** Bir oyuncu sırası geldiğinde, açığa çıkmış ve en az bir çarpanı açığa çıkmış bir sayıyı seçer – oyuncu seçilen sayıyı alır ve diğer oyuncu, açığa çıkan çarpanlardan herhangi birini veya hepsini (kaç tane alacağına karar vererek) alır. Oyun, geçerli bir sayı kalmayana kadar sırasıyla devam eder.\n"
+"\n"
+"**Nasıl Kazanılır:** Oyuncular, topladıkları sayıları ekler ve en yüksek toplam kazanan olur.\n"
+"\n"
+"**Vergi Toplayıcı:** Bir oyuncu her sayıyı seçer ve vergi toplayıcı, mevcut tüm bölenleri alır. Oyun, oyuncunun artık yasal bir hamle yapamayacağı zamana kadar devam eder. Bu noktada, vergi toplayıcı geri kalan sayıları alır. Hedef, mümkünse vergi toplayıcıdan daha büyük bir toplam elde etmektir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "Oyuncuların beceri seviyesine göre sayı aralığını belirleyin. Bu, 1’den 12’ye kadar olabilir veya 1’den 60’a kadar çıkabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "ZIPLAYAN BILARDO TOPU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "Çarpanlar ve Bölenler"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "Bir bilardo masasında her dört köşede bir cep bulunur. Bir top, masanın kenarına çarptığında, geldiği açıyla aynı açıyla geri sıçrar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"Bu araştırma, şu soruyu inceler: Eğer bir topu bir köşeden 45 derece açıyla atarsak, nerede durur?\n"
+"\n"
+"Cevap, masanın boyutlarına bağlıdır. İşte 3’e 4’lük bir masada olanlar.\n"
+"\n"
+"Farklı boyutlarda masalarla oynadıktan sonra çocuğunuzu, yeni boyutlar için cevabı önceden tahmin etme mücadelesi yapın. Sol alt köşeden başlayarak, ilk hangi köşeye çarpılacak ve kaç zıplama olacak?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "İKI KATI VEYA HIÇBIR ŞEY"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**Hazırlık:** Oyuncular, 20’den büyük ve 121’den küçük 5 farklı sayıyı gizlice seçerek oyuna başlarlar. Tüm seçimler yapıldıktan sonra, bu sayılar herkesin görebileceği şekilde yazılır.\n"
+"\n"
+"**Nasıl oynanır:** Sayı Kartları veya başka bir cihaz kullanılarak 1 ile 20 arasında rastgele bir sayı oluşturulur. Bu sayı, bir oyuncunun sayısı ilk kez tutana kadar veya sayı 120’yi geçene kadar sürekli olarak iki katına çıkarılır.\n"
+"\n"
+"**Nasıl kazanılır:** Tüm beş sayısı ilk kez tutan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "Sayıları Seçme Stratejileri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "1 ile 20 arasındaki bir sayı ile 2’nin kuvvetinin çarpımı olmayan bir sayı seçmek, örneğin 46, kötü bir fikirdir çünkü bu sayı asla tutmaz. 2’nin birçok çarpanına sahip bazı sayılar, örneğin 32, daha fazla sayıda başlangıç sayısının ona ulaşabilmesi nedeniyle daha fazla tutma olasılığına sahiptir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "Her seferinde sayıyı iki katına çıkarmak yerine, sayıyı üç katına çıkarabilirsiniz. Ayrıca her seferinde sayıyı iki katına çıkarıp 1 ekleyebilirsiniz. Daha genç oyuncular için, 10’dan büyük ancak 60’tan küçük sayılar seçin ve 1 ile 10 arasında rastgele bir sayı seçin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "BÖLENLERLE SAVAŞ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "Bölen Sayısı"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**Hazırlık:** 1’den 25’e kadar iki deste kartınız olsun.\n"
+"\n"
+"**Nasıl oynanır:** Bu kartlarla standart savaş oyunu oynanır, ancak şimdi kazanan, daha fazla böleni olan karttır. Örneğin, 12, 6 böleni (1, 2, 3, 4, 6 ve 12) olduğu için 16’yı yener ve 16’nın 5 böleni vardır (1, 2, 4, 8 ve 16). Kazanan kartın sahibi, kartları kazanabilmek için doğru şekilde bölenleri sıralamalıdır; aksi takdirde, kartlar her oyuncunun desteğine geri karıştırılır. Standart Savaş’ta olduğu gibi, berabere durumunda, bir sonraki kartlar çevrilir ve kazanan tüm kartları alır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "Daha az böleni olanın kazandığı bir versiyon oynayabilirsiniz. Tüm bölenler yerine yalnızca asal bölenlerin toplamını sayabilirsiniz. Ayrıca, asal sayıların kuvvetleri (bir asal sayının kuvveti olan sayılar) diğer sayıları yenecek şekilde oynayabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "VOLKANI GEÇMEK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**Hazırlık:** 100’lük bir çizelge kullanın ve dört kenarındaki 36 kareyi gri renkte boyayın. Resimli kartlar çıkarılmış bir iskambil destesi veya 1’den 10’a kadar olan Sayı Kartları kullanın.\n"
+"\n"
+"**Nasıl oynanır:** Bir turda, 1 çekerseniz, herhangi bir tek sayıyı alabilirsiniz; diğer bir sayıyı çekerseniz, onun herhangi bir katını alabilirsiniz. Bir sayıyı alırsanız, rakibiniz o sayıyı alamaz. Amaç, bir kenardan karşı kenara bir yol oluşturmaktır, herhangi bir yönde. Yolu oluştururken kareleri sırasıyla almak zorunda değilsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "Ya diyagonal bağlantıların kabul edilebilir olduğunu ya da edilmediğini oynayabilirsiniz. Bir diğer seçenek ise resimli kartları dahil etmektir – bu kartlardan birini çekerseniz, her iki oyuncunun yoluna dahil edilemeyecek engellenmiş bir kare ekleyebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "DAMA MATEMATIĞI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "Çarpma Tahtasi Oyunu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**Hazırlık:** Bu oyun biraz dama ilhamlıdır. Her oyuncunun 10 piyonu vardır. Piyonlar 1’den 10’a kadar numaralanmış olup, “10” piyonu 10 ve 11 ile işaretlenmiştir. Piyonlar, 100’lük bir çizelgenin son sıralarına yerleştirilir – bir oyuncu 1’den 10’a kadar olan karelere, diğer oyuncu ise 91’den 100’e kadar olan karelere yerleşir.\n"
+"\n"
+"**Nasıl oynanır:** Başlangıçta, piyonlar sadece seçtikleri işaretin numaralarının katlarına “ileri” hareket edebilirler – 1 ile 10 arasındaki karelere yerleşen oyuncu için “ileri” daha büyük sayılara doğru, 91 ile 100 arasındaki karelere yerleşen oyuncu içinse “ileri” daha küçük sayılara doğru hareket etmek anlamına gelir. Bir piyon tüm yolu geçtiğinde, o piyon bir “kral” olur ve bundan sonra bir kare ileri ya da geri hareket edebilir. Rakibin piyonu üzerine gelindiğinde, o piyonu almak mümkündür. Bir oyuncunun piyonu, aynı oyuncunun diğer piyonuyla üst üste gelemez.\n"
+"\n"
+"**Nasıl kazanılır:** Tüm rakip piyonlarını alarak kazanırsınız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "Varyasyonlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "Daha genç oyuncular için, tahtayı ilk 6 sıraya kısaltarak 1’den 60’a kadar olan sayıları kullanabilirsiniz. Tüm katları henüz bilmeyen bir çocuk, hamleleri hesaplamak için atlamalı saymayı kullanabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "ÇARPANLAR BINGO’SU"
 
 #. type=data_list
 msgctxt "data_list"
