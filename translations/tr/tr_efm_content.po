@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 03:12\n"
+"PO-Revision-Date: 2025-05-25 04:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9868,6 +9868,161 @@ msgstr ""
 "**Nasıl oynanır:** Bir oyuncunun sırası geldiğinde, iki rastgele kart seçer ve bu kartları toplama, çıkarma veya çarpma işlemlerinden birini yaparak rakibin jetonundan daha az olan bir eve kendi jetonunu yerleştirir. Eğer evde rakibin bir veya iki jetonu varsa, bu jetonlar rakibe geri verilir ve oyuncu “Evimden çık git” der.\n"
 "\n"
 "**Nasıl Kazanılır:** Tüm jetonlarını evlere yerleştiren ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "KOMBINASYON DOMINOLARI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them.\n"
+"\n"
+"**How to play:** To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes.\n"
+"\n"
+"For example, if [1, 5] is on top, then it matches [2, 4] because 1 + 5 = 2 + 4, and it also matches [2, 2] because 5 - 1 = 2 x 2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile.\n"
+"\n"
+"**How to win:** The first player to get rid of all their dominoes wins."
+msgstr ""
+"**Hazırlık:** 1'den 6'ya veya 1'den 9'a kadar olan bir domino seti kullanın. Her oyuncu, diğer oyuncunun görmesine izin vermeden 5 rastgele domino ile başlar.\n"
+"\n"
+"**Nasıl oynanır:** Başlamak için, rastgele bir domino ortada üstü açık olarak yerleştirilir. Ardından, bir oyuncu ortadaki üst dominoyu eşleştirmelidir. Eşleşme, üstteki dominodaki iki sayının, toplama, çıkarma veya isterseniz çarpma gibi herhangi bir işlemle, sizin dominolarınızdan birinin iki sayısına uygulanan bazı, muhtemelen farklı, işlemlerle aynı sonucu vermesi anlamına gelir.\n"
+"\n"
+"Örneğin, eğer [1,5] üstte ise, [2,4] ile eşleşir çünkü 1+5 = 2+4 ve ayrıca [2,2] ile de eşleşir çünkü 5-1 = 2x2. Eşleşen domino, önceki üst dominonun üzerine yerleştirilir. Eğer eşleşme yapamazsanız, yığından yeni bir domino çekmek zorundasınız.\n"
+"\n"
+"**Nasıl Kazanılır:** Tüm dominolarını elden çıkaran ilk oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "FARK ÜÇGENLERI VE TOPLAM ÜÇGENLERI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Add & Sub"
+msgstr "Roplama ve Çikarma Oyunlari"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**DiffTriangles:** These puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides – the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares."
+msgstr "**Fark Üçgenleri:** Bu bulmacalarda, kenarları paylaşan üçgenler ve kareler bulunur. Bir üçgenin her zaman kenarlarında tam olarak iki kare bulunur – kalan kenar ya bir üçgendir ya da boştur. Bir üçgenin sayısı, iki bitişik karenin farkıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**Toplam Üçgenleri:** Bu bulmacalarda çıkarma yerine toplama kullanılır. Bir üçgenin değeri, iki veya üç kare komşusunun toplamıdır.\n"
+"\n"
+"**Mücadele:** Her tür bulmacayı çalışır hale getirmek için eksik sayıları doldurun.\n"
+"\n"
+"**Nasıl Yapılır:** Döngüsüz bulmacalar yapmak kolaydır. Kareler ve üçgenlerden oluşan bir alternatif sıralama çizin. Ardından, bir uçtan başlayarak sayıları yerleştirin ve en uca kadar ilerleyin. İşlemi tamamladıktan sonra bazı sayıları çıkarın. Döngü içeren bulmacalar yapma fikirleri için Bonus Malzemelere bakın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "ATLAMALI SAYMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"Çocuğunuz zaten 0 ile 20 arasında 2’nin, 5’in ve 10’un katlarıyla atlamalı saymayı pratiğe dökmüştür. Şimdi herhangi bir sayı ile ve herhangi bir sayıdan başlayarak atlamalı sayma pratiği yapın; ileri veya geri sayabilirsiniz.\n"
+"\n"
+"Atlamalı sayma, tüm aritmetik işlemlerle ve yer değerini anlamada (5’lerin veya 10’ların katlarıyla sayarken) yardımcı olur. Atlamalı saymanın zor kısmı onlu basamağın değiştiği yerlerdir, bu nedenle bu kısmı vurgulayın. Seyahat ederken veya boş zamanınızda yapabileceğiniz pratik bir etkinliktir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "HEDEFE KISA ADIMLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**Nasıl oynanır:** 1'den 9'a kadar olan iki oyun kartı kullanarak 2 basamaklı bir başlangıç sayısı oluşturun; ilk kart onlar basamağını, ikinci kart ise birler basamağını belirler. Bu sayıdan başlayarak, her biri ya 1 ya da 10 olan 5 adım atın. Amaç, 50'ye mümkün olduğunca yakın bir sayıya ulaşmaktır ve puanınız 50'den ne kadar uzaklaştığınıza göre belirlenir. Birkaç tur sonunda en düşük toplam puana sahip olan oyuncu kazanır.\n"
+"\n"
+"**100’luk Tablosu:** Genç oyuncular 100 tablosuna bakarak fayda sağlar. Bu tabloyu kullanmak, 10’ar adımlarla yukarı veya aşağı giderken yer değeri kavramını da pekiştirir.\n"
+"\n"
+"**Varyasyonlar:** Bu oyunu, 1, 2 veya 10, ya da 1, 2, 5 veya 10 adımlarıyla oynayarak çeşitlendirebilirsiniz. Ayrıca bazen 50 dışında hedef sayılar da belirleyebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "ADA ATLAMA – ATLAMALI SAYMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "Atlamalı Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "Adalar (çemberler), atlamalı sayma ile köprüler (çizgiler) aracılığıyla birbirine bağlanır. Bazı adalarda sayılar vardır, diğerleri ise boş başlar. Bulmacanın üzerinde başlangıç sayısı, bitiş sayısı ve atlama miktarı belirtilmiştir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**Mücadele:** Eksik sayıları doldurun ve yolu bulun.\n"
+"\n"
+"Ayrıca sayıları ve boşlukları yere yerleştirerek bir adım bulmacası oluşturabilirsiniz.\n"
+"\n"
+"Atlamalı Sayma etkinliğinde olduğu gibi, sadece atlama miktarının katı olan sayılarla sınırlı kalmadan, çeşitli sayılardan başlayarak ileri veya geri gitmeyi pratiğe dökmek için bulmacalar oluşturun.\n"
+"\n"
+"**Nasıl Yapılır:** Bu bulmacaları oluşturmak için önce adaları yapın, atlamalı sayma sayılarını doldurun, bu adaları doğru sırayla birbirine bağlayın ve ardından bir bulmaca oluşturmak için bazı ek bağlantılar ekleyin. Çocuğunuza verdiğiniz versiyonda, bazı sayıları çıkarın ancak bulmacanın hala çözülebileceği kadar sayı bırakın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "ÇIFT OLUŞTURMA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**Hazırlık:** 1'den belirli bir sayıya kadar giden bir sayı doğrusu ile başlayın, örneğin 20'ye kadar.\n"
+"\n"
+"**Nasıl Oynanır:** Sıra sizdeyken, henüz üzeri çizilmemiş iki sayı ve bir sonuç seçin ve bu sayıları içeren bir toplama veya çıkarma işlemi yazın. İşlemdeki iki sayı üzeri çizilir ve sonuç daire içine alınır. Bir sonraki oyuncu, bu sonucu iki sayıdan biri olarak kullanmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**Nasıl Kazanılır:** Rekabetçi oynanırsa, kazanan yasal bir hamlesi kalan son oyuncudur. Ayrıca, dokunulmamış kaç sayı kaldığını görmek için işbirlikçi olarak da oynanabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "DÜZELT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "Bu, hedef toplamı olan tamamen dolu bir 4x4 sayı ızgarası ile başlar. Alternatif bir versiyon, her satır ve sütun için ayrı hedef toplamlar kullanır."
 
 #. type=data_list
 msgctxt "data_list"
