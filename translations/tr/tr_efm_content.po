@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 23:53\n"
+"PO-Revision-Date: 2025-05-25 23:57\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12208,6 +12208,58 @@ msgstr "Daha genç oyuncular için, tahtayı ilk 6 sıraya kısaltarak 1’den 6
 msgctxt "data_list"
 msgid "MULTIPLICATION BINGO"
 msgstr "ÇARPANLAR BINGO’SU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**Hazırlık:** Her oyuncu, olası çarpan ürünlerinin bulunduğu 4’e 4’lük bir sayı ızgarasıyla başlar – bu sayılar rastgele atanabilir veya oyuncu tarafından dikkatlice seçilebilir.\n"
+"\n"
+"**Nasıl oynanır:** Başlangıçta, iki kart dağıtılır ve masaya yüzü yukarı yerleştirilir. Eğer bir oyuncunun bu iki sayının çarpımı varsa, o sayıyı kapatır. Bundan sonra, oyuncular sırayla desteden üstteki kartı alır ve hangi iki karttan birini değiştireceklerine karar verir. Çarpımı eşleşen tüm oyuncular o sayıyı kapatır.\n"
+"\n"
+"**Nasıl kazanılır:** İlk olarak 4 sayıyı sırayla kapatan oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "ÇAPRAZ ÇARPIMLAR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "İlginç Çarpımlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"Bu çarpım bulmacası, ya her bir 1’den 6’ya kadar olan sayıyı bir kez kullanan 3’e 3’lük bir ızgara, ya da her bir 1’den 8’e kadar olan sayıyı bir kez kullanan 4’e 4’lük bir ızgaradır.\n"
+"\n"
+"**Zorluk:** Bazı kareleri doldurun, her satır ve her sütun için iki sayı yerleştirin, böylece bir satırdaki sayıların çarpımı, satırın en solundaki sayıya, bir sütundaki sayıların çarpımı ise sütunun üzerindeki sayıya eşit olur. Bazı satır veya sütunlar işaretlenmemiş olabilir – bu durumda, o satır veya sütunun çarpımı için herhangi bir kısıtlama yoktur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**Çözüm Örneği:** Bu bulmacayı çözmek için, sayıları tanımlayabileceğiniz satır ve sütunları bulun. 30 sütununda 5 ve 6 olmalı, 10 satırında ise 2 ve 5 olmalıdır. Ardından, 12 sütununda 3 ve 4, 4 satırında ise 1 ve 4 olmalıdır. Geriye kalan kısımlar hızla çözülür."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"Bu bulmacadaki 5 satırında 1 ve 5, 21 satırında 3 ve 7, 32 satırında 4 ve 8 olmalıdır. Üst satır ise, eleme yöntemiyle, 2 ve 6’yı içerir. 7 sütununda 1 ve 7, 40 sütununda 5 ve 8, 18 sütununda 3 ve 6, ve ikinci sütunda ise 2 ve 4 vardır. Çözüm için bunları birleştirin.\n"
+"\n"
+"**Nasıl yapılır:** Bu tür bulmacalarla sıklıkla olduğu gibi, yetişkin kişi önce bulmacanın iç kısmındaki sayıları yerleştirir, çarpımları yazıp sonra tüm iç sayıları çıkararak bulmacayı oluşturabilir."
 
 #. type=data_list
 msgctxt "data_list"
