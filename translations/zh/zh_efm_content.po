@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-05-27 05:19\n"
+"PO-Revision-Date: 2025-05-27 13:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5344,6 +5344,11 @@ msgstr "伊贊扎烏家庭有六個人。加上一個「生物」，有多少人
 msgctxt "data_list"
 msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
 msgstr "如果你按身高順序排列這七個人，將最矮的放在左邊，最高的放在右邊，那麼排序會是什麼樣子？用他們衣服的顏色描述這個順序。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Everyone knows that the elephant has a very long nose."
+msgstr "人人都知道大象有一條非常長的鼻子。"
 
 #. type=data_list
 msgctxt "data_list"
