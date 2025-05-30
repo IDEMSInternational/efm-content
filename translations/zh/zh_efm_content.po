@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-05-30 00:16\n"
+"PO-Revision-Date: 2025-05-30 01:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9845,6 +9845,11 @@ msgstr "你最喜歡去居住地以外的哪些地方？"
 msgctxt "data_list"
 msgid "What is your favorite spot to go to around where you live?"
 msgstr "在你家附近最喜歡去什麼地方？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the story of Keeper and his nursery of orphaned animals."
+msgstr "這是關於飼養員和他的動物孤兒動物園的故事。"
 
 #. type=data_list
 msgctxt "data_list"
