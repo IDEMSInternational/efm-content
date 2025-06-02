@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-05-26 04:16\n"
+"PO-Revision-Date: 2025-06-02 12:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8496,6 +8496,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "This game works equally well with more than two players."
 msgstr "Ce jeu fonctionne tout aussi bien avec plus de deux joueurs."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVESTIGATIONS"
+msgstr "ENQUÊTES"
 
 #. type=data_list
 msgctxt "data_list"
