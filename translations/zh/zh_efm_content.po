@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-05-30 15:53\n"
+"PO-Revision-Date: 2025-06-06 22:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6239,6 +6239,125 @@ msgstr "編造一個拍手的二重奏。一個人開始一個拍手的節奏，
 msgctxt "data_list"
 msgid "When you hear music, listen for the instruments that create the beat."
 msgstr "當你聽音樂時，注意聆聽哪些樂器創造了節奏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 1 – I CAN HEAR YOU!"
+msgstr "第一階段 – 我聽到你!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What a wonderful time watching your young child learn about the world! They are little sponges observing everything going on around them and they can hear you! They play and experiment constantly, making sense of the world and learning how to crawl, walk, talk, and interact with all that they are experiencing.\n"
+"\n"
+"Mathematics is a natural part of this world they are learning about. No matter what your experiences and feelings about math, this is your chance to make mathematics a playful and fun activity that your family does together.\n"
+"\n"
+"For now, the main mathematical activity to do together will be exposing your child constantly to mathematical language and ideas. This is mostly just a matter of verbalizing what is going on in your head already. Counting things out loud as you work with them and naming items that your child plays with is what gets everything rolling.\n"
+"\n"
+"Have fun! This is an amazing time for your family!"
+msgstr ""
+"看著您的孩子學習並瞭解這個世界是多麼快樂! 他們就像是小海綿，時刻觀察著圍繞在周圍所發生的一切事情和變化，包括聽到您！他們每時每刻都在體驗這個世界，在體驗和玩耍中學習如何爬行、走路和說話，並且與周圍存在的一切事物互動。\n"
+"\n"
+"數學正是孩子們學習的有關自然世界的一部分。無論您對數學的感受或者經驗如何，這將是您開始將數學變成一個有趣的家庭娛樂專案的好機會。\n"
+"\n"
+"這些主要的數字遊戲和活動能夠讓您的孩子充分地接觸數學語言和數學概念。基本上，請將您腦海中想象的事物詞語化。當你和孩子一起玩耍時，請大聲計數，並將孩子玩耍的物品命名。\n"
+"\n"
+"玩得開心！這將是您和家人的美好時光！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Have fun with math together! This is the most important thing. \n"
+"* Verbalize math - You do math all the time in your head – include your child by saying those thoughts out loud to your child all the time. \n"
+"* Point and describe - When you talk about something, point to it and then talk about it. If your child is ready, ask questions about it. \n"
+"* Expose - Your child is learning by being exposed to things. Your child will probably not un- derstand things initially, but by frequent exposure your child will pick up on the patterns and learn what is going on. \n"
+"* Count everything out loud. Count up and down. Include 0 sometimes. \n"
+"* Objects have properties that can be named, described, compared, and discussed. Those properties lead to discoveries of natural and human-made patterns."
+msgstr ""
+"* 開心地討論數學，享受數學的樂趣！這是最重要的事！\n"
+"* 想象數學：在大腦中完成所有的計算過程，並運用語言將它向孩子表達出來。\n"
+"* 指向並描述：當您談論一件事物時，指向它然後談論它。當您的孩子準備好了，您可以提問。\n"
+"* 接觸：您的孩子透過接觸事物來學習。您的孩子可能在最初不能認識事物，但是透過頻繁接觸，您的孩子將會了解事物的模式以及周圍發生的事情。\n"
+"* 大聲計數每件事。從小到大和從大到小計數。包括數字零。\n"
+"* 物品擁有可以被命名、描述、比較和討論的屬性。這些屬性可以導向孩子對自然的和人造事物的規律的探索發掘。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – GENERAL"
+msgstr "大聲學習數學 – 概括"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Exposure:** During these early ages, it is all about exposure! Your child is being exposed to a wide array of experiences and is discovering patterns in everything they sense. While exposing your child to the world, expose them to math words and ideas and let them see how enjoyable it can be to play with math together.\n"
+"\n"
+"**Start early:** Start this even before your child seems to understand what you're saying. Your child is a sponge who is getting more from your words than you realize."
+msgstr ""
+"**接觸:** 在孩子的幼年時期，一切都和接觸有關！您的孩子接觸到各式各樣的經歷並探索有關周圍感官世界的一切模式。在您的孩子接觸瞭解世界的同時，幫助他們探索數學世界和數學概念並引領他們體會數學遊戲的樂趣！\n"
+"\n"
+"**提早開始:** 在您的孩子還未能完全理解您的話語之前就開始做這項工作吧。孩子就像海綿，她們對這個世界的瞭解比我們想象的更多。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Point, describe and ask:** Point at things your child interacts with and describe them with words involving numbers, shapes, and colors. If you are dealing with a small set of things, count them out loud to your child. When your child is old enough, point to and ask questions about the things around them."
+msgstr "**指出，描述並詢問** 用手指一指孩子玩耍的物品，並用語言描述它們，包括數量、形狀和顏色。如果您看到一小堆物品，大聲地對著您的孩子將它們一一數出來。如果您的孩子年齡足夠，指向物品並向孩子提出有關這些東西的各種問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many facets of Math Talk"
+msgstr "數學討論的多個方面"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There is much more math to talk about than just numbers.\n"
+" • Describe things. Talk about sizes, colors, textures, shapes, softness, wetness, hot- ness, brightness, and more. Naming and describing properties is essential for comparing them and discovering patterns. \n"
+"• Use comparison words. Bigger, smaller, tallest, widest, more, less, same, ... \n"
+"• Use position words. Over, under, between, near, far, above, ... \n"
+"• Talk about patterns and sequences in space and time. Refer to the order of things as first, second, third, and last. Talk about what just happened, what is about to happen, and things happening today. Talk about patterns in designs you see. \n"
+"• Count things out loud and say numbers to refer to quantities. \n"
+"• Talk about adding or taking away one or two things from a collection. \n"
+"• Use measurement words. Use words like inch, centimeter, foot, meter, mile, kilometer, cup, liter, quart, and more to refer to the sizes of things."
+msgstr ""
+"對數學的討論遠遠不止數字。\n"
+"* 描述事物。談論大小、顏色、質感、形狀、柔軟、溼度、溫度、明亮度，以及更多其他屬性。命名並描述事物的屬性對比較事物並發現規律很重要。\n"
+"* 使用比較詞彙。更大、 更小、 更高、 更寬、 更多、 更少、一樣……\n"
+"* 使用位置詞彙。超過、之下、 之間、 近、遠、之上……\n"
+"* 談論空間和時間的模式和順序序列。將事物按照順序排列，如第一、第二、第三和最後。談論剛剛發生的事情，即將發生的事情以及今天發生的事情。談論您看到的設計規律。\n"
+"* 將物品大聲數出來並說出數字來描述它們的數量。\n"
+"* 談論向集合中新增或拿走一兩樣東西。\n"
+"* 使用測量單位。使用像英寸、釐米、英尺、米、英里、千米、杯、升和誇脫等詞彙來表示事物的大小單位。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**This is all math:** These different ways of describing things and their relationships is talking about math! Building up this vocabulary and concepts will help your child develop mathematically, and it will also give a big boost to helping your child read and talk about the world."
+msgstr "**這都屬於數學:** 這些描述事物及其關係的不同方式是在談論數學！建立詞彙和概念可以幫助您的孩子建立數學體系，它也可以大大促進您的孩子閱讀和談論世界的能力。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH OUT LOUD – STORYTIME"
+msgstr "大聲學數學 – 故事時間"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**It's cozy:** Storytime is a wonderful chance to do a bit of math with your child in a cozy setting. This builds up happy associations with math for you and your child.\n"
+"\n"
+"**Discuss as you read:** As you read a story with your child, talk about things in the pictures and in the story. If there is a big yellow sun, point to the sun and say: “The sun is round and it is yellow. The wall of this room is also yellow. Point to something round in this room.”"
+msgstr ""
+"**它很舒適:** 故事時間是數學練習的絕佳機會。與您的孩子一起待在舒適的環境中，這會令您和您的孩子建立對數學的愉快感受和聯絡。\n"
+"\n"
+"**討論你讀到的內容:** 當您和孩子一起閱讀故事時，討論故事和圖片中的東西。如果圖片裡有黃色的大太陽，則指著那個太陽，說：「太陽是圓型的，它是黃色的。這個房間的牆也是黃色的。請指出這個房間裡圓型的東西。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As your child gets older, count together, such as the yellow flower petals in this picture, or ask your child to point to things you describe. In addition to discussing the characters in the story, discuss all the things you would if you were seeing these things in the world around you."
+msgstr "隨著孩子的年齡增長，和她們一起算數，比如讓孩子數一數圖中的黃色花瓣，或讓孩子指一指您所描述的事物。除了談論故事中的角色，還可以討論生活中看見的所有事物。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EFM Storybooks"
+msgstr "EFM 故事書"
 
 #. type=data_list
 msgctxt "data_list"
