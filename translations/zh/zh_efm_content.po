@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-06 23:54\n"
+"PO-Revision-Date: 2025-06-07 00:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6647,6 +6647,30 @@ msgstr ""
 msgctxt "data_list"
 msgid "OBJECT HUNT"
 msgstr "實物搜尋"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make a math game of searching for objects around the house or outside. Use the game to practice concepts that your child is learning, such as color, size (large, medium, small), weight (heavy, light), quantity, and relationship (inside, on top of, below)."
+msgstr "製作一個在家裡或戶外尋找物品的數學遊戲。 利用這個遊戲來訓練您的孩子正在學習的概念，例如顏色、尺寸（大、中、小）、重量（重、輕）、數量和關係（內部、頂部、下面）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two versions of this game. Both versions involve a Puzzler, who thinks of an object to find, and a Guesser, who tries to guess what the object based on the information from the Puzzler.\n"
+"\n"
+"**Version 1:** The Puzzler starts describing an object, and the Guesser tries to guess what it is. \n"
+"\n"
+"**Version 2:** The Guesser asks yes/no questions of the Puzzler until the Guesser guesses what the object is.\n"
+"\n"
+"**How to win:** Guess what the object is in as few steps as possible."
+msgstr ""
+"**遊戲規則:** 這個遊戲有兩個版本。兩個版本都有一個出題者，出題者需要想好一個要找的物品，以及一個猜謎者，根據出題者提供的資訊來猜測物品。\n"
+"\n"
+"**版本1:** 出題者開始描述一個物品，並由猜謎者嘗試猜出它是什麼。\n"
+"\n"
+"**版本 2:** 猜謎者向出題者提出對實物的問題，出題者回答是與不是，直到猜謎者猜出物品答案為止。\n"
+"\n"
+"**如何獲勝:** 儘可能用最少的次數猜出物品是什麼。"
 
 #. type=data_list
 msgctxt "data_list"
