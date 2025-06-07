@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-07 01:54\n"
+"PO-Revision-Date: 2025-06-07 19:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6247,6 +6247,11 @@ msgstr "第一階段 – 我聽到你!"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stage 1 Introduction"
+msgstr "第一階段 – 簡介"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "What a wonderful time watching your young child learn about the world! They are little sponges observing everything going on around them and they can hear you! They play and experiment constantly, making sense of the world and learning how to crawl, walk, talk, and interact with all that they are experiencing.\n"
 "\n"
@@ -6816,6 +6821,153 @@ msgstr "**遊戲規則:** 讓您的孩子從碗裡數出一些東西，比如5�
 msgctxt "data_list"
 msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
 msgstr "**如何獲勝:** 被偷走的物品將成為您孩子的一部分，而您將保留剩下的物品。繼續玩下去，直到碗裡的食物都被拿完。最後，你們兩個將自己的物品擺在一起進行比較，看看誰的東西更多。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Introduction**\n"
+"\n"
+"You only need a few materials for these Early Family Math activities, and they are all very inexpensive and easy to get. Here’s a short list:\n"
+"\n"
+"• Five dice\n"
+"• A deck of playing cards\n"
+"• String (optional)\n"
+"• Sidewalk chalk (optional)\n"
+"• Some stiff paper in various colors (optional)\n"
+"\n"
+"**Make Number Cards**\n"
+"\n"
+"Many EFM activities can be played using decks of playing cards. However, using a Number Card deck will help your child practice ideas that will not be emphasized with regular playing cards. Make your own cards using card stock or any thick paper. You can either use the PDF supplied in Resources or draw your own."
+msgstr ""
+"**簡介**\n"
+"\n"
+"這些初級家庭數學活動只需要一些既便宜且容易獲得的材料。這是一個簡短的清單:\n"
+"\n"
+"* 五個骰子\n"
+"* 一副撲克牌\n"
+"* 線 (非必須)\n"
+"* 人行道粉筆 (非必須)\n"
+"* 各種顏色的硬紙 (非必須)\n"
+"\n"
+"**製作數字卡片**\n"
+"\n"
+"許多EFM活動可以使用撲克牌來進行。 但是，使用數字卡牌組將有助於您的孩子練習在普通撲克牌中不被突出的概念。您可以使用卡紙或任何厚紙張製作自己的卡牌。您可以使用資源中提供的PDF檔案，也可以自己繪製。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE A SHAPE DECK"
+msgstr "製作一套形狀牌"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few games and puzzles that involve a Shape Deck of 27 cards in the Shape Deck Games page. If you happen to have a set of 81 cards from the game of SET, you can use 27 of those cards that have solid colors as a Shape Deck."
+msgstr "在形狀牌「遊戲」頁面中有幾個涉及27張卡片的形狀牌的遊戲和謎題。如果您恰好有81張來自集合遊戲的卡片，您可以使用其中27張具有純色的卡片作為形狀牌。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with some stiff paper such as card stock if you can. Regular paper will work, it’s just not as easy to handle or as durable.\n"
+"\n"
+"Each of the 27 cards of the Shape Deck has three properties: a shape (circle, triangle, or square), a count (one, two, or three) and a color (red, blue, or black). The 27 cards are pictured above. Use the pdf supplied in Resources or draw your own."
+msgstr ""
+"如果可能的話，首先使用一些堅硬的紙張，如卡紙。普通紙張也可以使用，只是不那麼容易處理，也不那麼耐用。\n"
+"\n"
+"這套形狀牌的27張卡片中的每一張都有三個屬性：形狀（圓形、三角形或正方形）、計數（一、二或三）和顏色（紅色、藍色或黑色）。這27張卡片的內容如上。你也可以使用資源中提供的PDF檔案或者自己繪製。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE ON THE WALL"
+msgstr "牆上的數字線"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Materials"
+msgstr "材料"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place a number line on a wall to let your child see the numbers and how they grow. The number line should start at 0 and go at least to 20, with the numbers increasing as they go to the right. Make it from regular paper and use tick marks and large numbers."
+msgstr "在牆上放置一個數字線，讓您的孩子看到數字及其增長的方式。數字線應從0開始，至少到20，數字隨著向右移動逐漸增加。使用普通紙製作數字線，並且使用刻度標記和大號的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "YOUR OWN STORE"
+msgstr "你自己的商店"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kids love to play store! Create tags with silly prices that are small numbers. If your child hasn't learned the numerals yet, you can use quantities of dots on the tags."
+msgstr "孩子們喜歡玩商店遊戲！創建一些帶有小數字的有趣的價格標簽。如果您的孩子還沒有學習數字，您可以在標簽上使用點的數量來錶示價格。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put price tags on things in your home (toys, food, books, etc.) Use pieces of paper that have '1' marked on them as pretend money to spend on things in the store.\n"
+"\n"
+"After each 'purchase,' have your child count out the number of bills to pay for it and then count out how much money is left."
+msgstr ""
+"在家裏的物品（玩具、食物、書籍等）上貼上價格標簽。使用標有「1」的紙片作為虛擬貨幣，在商店裏購買物品。\n"
+"\n"
+"在每次「購買」後，讓您的孩子數出支付的鈔票數，然後數出剩餘的錢數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOPSCOTCH"
+msgstr "跳房子"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 5"
+msgstr "5以內的數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game of hopscotch provides great counting practice, both forward and backward. Copy this design, or use a simpler one. Use chalk if outside, or masking or painter's tape if inside."
+msgstr "跳房子遊戲提供了很好的計數練習，無論是正著數還是倒著數。複製這個設計，或者使用一個更簡單的設計。如果在室外，可以使用粉筆，如果在室內，可以使用美工膠帶或畫師膠帶。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"1. Throw a marker into the first square. If it lands on a line, or outside the square, you lose your turn and you pass the marker to the next player.\n"
+"\n"
+"2. Hop on one foot into the first empty square, and then every subsequent empty square. Skip the one your marker is on.\n"
+"\n"
+"3. At the pairs (4-5 and 7-8), jump with both feet.\n"
+"\n"
+"4. At 10, hop with both feet, turn around, and head back toward the start."
+msgstr ""
+"1. 將標記物扔進第一個方格中。如果它落在線上或方格外，你的回合就結束了，然後你需要將標記物遞給下一位玩家。\n"
+"\n"
+"2. 單腳跳著進入第一個空方格，然後跳進每一個後續的空方格。跳過標記所在的方格。\n"
+"\n"
+"3. 在4-5和7-8這兩對方格處，用雙腳跳躍。\n"
+"\n"
+"4. 在第10個方格，用雙腳跳躍，轉身，然後朝著起點返回。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. When you reach the marked square again, pick up the marker—on one foot!—and keep going.\n"
+"\n"
+"6. If you finished without any mistakes, pass the marker to the next player. On your next turn, throw the marker to the next number.\n"
+"\n"
+"7. If you fall, jump outside the lines, or miss a square or the marker, you lose your turn and must repeat the same number on your next turn. Whoever reaches 10 first, wins."
+msgstr ""
+"5. 當你再次到達標記的方格時，用一隻腳把標記物撿起來，然後繼續前進。\n"
+"\n"
+"6. 如果你在沒有犯任何錯誤的情況下完成了遊戲，就把標記物遞給下一位玩家。在下一輪回合中，將標記物扔到下一個數字上。\n"
+"\n"
+"7. 如果你摔倒、跳出線外、錯過了方格或者標記物，你的回合也會結束，並且必須在下一輪中重複相同的數字。誰先到達10，誰就贏了。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simpler variations"
+msgstr "更簡單的變數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger children, relax many of the rules and replace hopping with stepping. Also, use a jumping pattern with fewer squares, perhaps as simple as having the numbers from1to5infivesquaresinarow."
+msgstr "對於年幼的孩子，放寬許多規則，將跳躍換成踏步。此外，使用少一些方格的跳躍圖案，可能簡單到隻有一排五個方格，上麵標有從1到5的數字。"
 
 #. type=data_list
 msgctxt "data_list"
