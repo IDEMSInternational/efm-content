@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-07 00:54\n"
+"PO-Revision-Date: 2025-06-07 01:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6671,6 +6671,151 @@ msgstr ""
 "**版本 2:** 猜謎者向出題者提出對實物的問題，出題者回答是與不是，直到猜謎者猜出物品答案為止。\n"
 "\n"
 "**如何獲勝:** 儘可能用最少的次數猜出物品是什麼。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PATTERNS"
+msgstr "模式"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pattern types"
+msgstr "模式種類"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some characteristics that can be used by themselves or mixed together: \n"
+"\n"
+"• Movement patterns: stepping, jumping, waving, nodding\n"
+"• Sound patterns: clapping, knee slapping, tongue clicking, stamping\n"
+"• Loudness patterns: soft, medium, loud\n"
+"• Visual patterns: color, shape, size"
+msgstr ""
+"這裡有一些特徵，它們可以單獨使用，也可以混合在一起：\n"
+"\n"
+"* 運動模式：踏步、跳躍、揮手、點頭\n"
+"* 聲音模式：拍手、拍膝、舌頭打響、跺腳\n"
+"* 音量模式：輕聲、中聲、大聲\n"
+"* 視覺模式：顏色、形狀、大小"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Player one: makes a pattern and challenges the other person to repeat it. (Step, clap, jump)\n"
+"\n"
+"Player two: can repeat and eventually add to the pattern, challenging player one to repeat it. (Step, clap, jump, touch their nose)\n"
+"As you get better, challenge each other to repeat longer and longer patterns from memory.\n"
+"\n"
+"You can use a pattern as a secret code for getting through a passageway. You can also make necklaces with your child by taking string and threading on beads or bits of food to create repeating patterns. Walking hand in hand, you can use squeeze patterns (short short long, etc.).\n"
+"\n"
+"**Puzzles:** For older children, create puzzles by drawing a pattern of shapes on paper. One person establishes a pattern and then leaves gaps in the sequence for the other to fill in."
+msgstr ""
+"玩家一：製作一個模式，並挑戰另一個人重複它。（踏步，拍手，跳躍）\n"
+"\n"
+"玩家二：可以重複並最終新增到模式中，挑戰玩家一重複它。（踏步，拍手，跳躍，摸鼻子）\n"
+"隨著你們的能力提高，挑戰彼此從記憶中重複越來越長的模式。\n"
+"\n"
+"您可以將模式用作透過通道的祕密程式碼。您還可以與孩子一起製作項鍊，方法是拿一根繩子，穿上珠子或食物碎片，以建立重複的模式。手拉手走路時，您可以改變手掌握緊時有節奏地擠壓的模式（擠壓時間短短長等）。\n"
+"\n"
+"**謎題:** 對於年齡較大的孩子，可以在紙上繪製形狀模式來建立謎題。一個人確定一個模式，然後在序列中留下空缺，讓另一個人來填補。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER HUNT"
+msgstr "數字搜尋"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Go hunting:** Pick a number, say 2. Challenge your child to go on a treasure hunt to find as many ways as possible that 2 shows up around you. It may show up as the numeral 2 on a wall, sign, or building. It may show up as two of something, such as two chairs, two dishes, or two cups, as it does in this illustration."
+msgstr "**來尋寶吧:** 選一個數字，比如數字2。 挑戰您的孩子進行一場尋寶遊戲，以儘可能多的方式找出周圍出現的2。它可能以數字2的形式出現在牆上、標誌上或建築物上。它也可能以兩個東西的形式出現，比如兩把椅子、兩個盤子或兩個杯子，如插圖所示。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you like, you can make this into a contest by seeing who can find the most of whatever number you are looking for."
+msgstr "如果您願意，您可以將這變成一場比賽，看看誰能找到最多您要找尋的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER GOBBLER"
+msgstr "數字吞噬"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 5"
+msgstr "數到5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Make a 21-piece triangle with some food item. Put 1 piece in the top row, 2 pieces in the next row, and 6 pieces in the last."
+msgstr "**準備工作:** 用一些食物來做一個21塊的三角形。在頂行放1塊，下一行放2塊，最底部一行放6塊。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Take turns rolling a die. Each time the count of a roll matches a row that is still in the triangle, the player gets to remove that row and either eat it (yum) or put it in their personal pile.\n"
+"\n"
+"**How to win:** Beginning players can do a 1-to-1 match of the dots on the die with the food pieces in a row. The player with the bigger pile of food wins! To determine the winner, do a 1-to-1 match of the two piles to see whose pile is larger."
+msgstr ""
+"**遊戲規則:** 輪流擲骰子。每次擲骰子的點數與三角形中仍然存在的行數相匹配時，玩家就可以移除該行，並將其要麼吃掉（美味），要麼放入他們個人的堆疊中。\n"
+"\n"
+"**如何獲勝:** 初始玩家可以透過將骰子上的點數與一行中的食物數量進行一對一的匹配。食物堆疊更大的玩家獲勝！要確定贏家，將兩堆疊進行一對一的匹配比較，看看哪一堆更大。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
+msgstr "根據您的孩子熟悉的數字範圍來改變堆疊的大小。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE MORE ONE LESS"
+msgstr "多一個少一個"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
+msgstr "隨著孩子對數字的理解增強，考考您的孩子有關多一個或者少一個的問題。在不談論當下有多少個物品的情況下，問：「你想要多一個？」還是「你要少一個？」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n"
+"\n"
+"**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
+msgstr ""
+"**數量和變化:** 慢慢地，開始強調目前擁有的數量和數字的變化。一起計算物品的數量，可以是盤子裡的兩片蘋果。總結一下，說，這裡有兩片蘋果，然後問您的孩子是否想要多一片蘋果，或者要減少一片。如果數量發生了變化，透過詢問現在有多少片蘋果來結束。\n"
+"\n"
+"**四處走動:** 同樣地，在您四處走動時，挑選一些東西來計數。假設有三個人在您前面排隊。一起計算人數並詢問如果有一個人離開，減少一個人，還剩下多少個人。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Foundations"
+msgstr "基礎"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding 'one more' and 'one less' helps deepen understanding of how numbers sequence, and it also is the foundational skill for beginning addition and subtraction."
+msgstr "理解「多一個」和「少一個」有助於加深對數字序列的理解，它也是開始加法和減法的基礎技能。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "IN THE OTHER HAND"
+msgstr "在另一隻手裡"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a bowl of small pieces of food."
+msgstr "**準備工作:** 準備一小碗食物。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand."
+msgstr "**遊戲規則:** 讓您的孩子從碗裡數出一些東西，比如5個，然後把東西給您。祕密地將這些東西分成兩份放在您的手裡，然後把一隻手張開，合上另一隻手。讓您的孩子現在數一數在那隻張開的手中的物品數量，然後選擇從哪隻手「偷」。讓您的孩子預測在您開啟手之前偷走的物品數目。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
+msgstr "**如何獲勝:** 被偷走的物品將成為您孩子的一部分，而您將保留剩下的物品。繼續玩下去，直到碗裡的食物都被拿完。最後，你們兩個將自己的物品擺在一起進行比較，看看誰的東西更多。"
 
 #. type=data_list
 msgctxt "data_list"
