@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-07 20:14\n"
+"PO-Revision-Date: 2025-06-09 20:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7086,6 +7086,62 @@ msgstr "這是誰?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "這是一個適合多人參與的活動。領導者秘密選擇小組中的一人。為了縮小範圍找到這個神秘人，玩家可以問諸如「這個人穿著一件前麵有三角形圖案的襯衫嗎？」或「這個人的頭髮超過12英寸長嗎？」這樣的問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 2 – I CAN COUNT TO 5!"
+msgstr "第二階段 – 我能數到 5！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Introduction"
+msgstr "第二階段 – 簡介"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Wow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n"
+"\n"
+"Your child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
+msgstr ""
+"**您去過的地方**\n"
+"\n"
+"哇！您的孩子現在能夠數到5了！您的孩子不只是在鸚鵡學舌地復讀這些數字——這意味著您的孩子正在逐漸掌握的數量的概念。您現在可以給所描述和討論的對象賦予屬性了。想想您的孩子在理解世界方面有了多大的進步！\n"
+"\n"
+"您的孩子越來越善於表達、推理和解釋。你們可以討論數學問題，這讓你們可以開始一起玩遊戲和拼圖。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child will be learning many things in the coming months beyond counting to 10 and above.\n"
+"Here is a quick list of topics that will be covered in this Stage.\n"
+"\n"
+"• Counting forward and backward to 10. Don’t ignore backward counting – it is important for understanding number relationships as well as being an aid for subtraction.\n"
+"• Include 0 in your counting sometimes. Including 0 now makes it a familiar number and keeps it from feeling exotic.\n"
+"• Reasoning with properties and numbers. Understanding properties and reasoning with them is a key part of developing mathematical ability.\n"
+"• Deepening understanding of shapes, especially circles, triangles, and squares. Keep using descriptive shape names as your child interacts with them.\n"
+"• Comparing and ordering numbers. How quantities compare and interact with each other is central to understanding them.\n"
+"• One more, one less, two more, two less. These concepts are relatively easy to pick up, and they will form the basis for addition and subtraction.\n"
+"• Learning to use manipulatives, especially fingers, to understand adding and subtracting. Adding and subtracting 0.\n"
+"• Subtracting a number from itself."
+msgstr ""
+"您的孩子將在接下來的幾個月里將學到很多東西——不僅僅是數到10以上。以下列出了這個階段將涵蓋的一些主題。\n"
+"\n"
+"* 10以內的正數和倒數。不要忽視倒數，它對孩子理解數字關系以及作為減法的輔助是很重要的。\n"
+"* 將0包含在數數中。現在在數數中包括0可以讓孩子熟悉它，避免以後對0感覺陌生。\n"
+"* 使用屬性和數字進行推理。理解其屬性並使用它進行推理是培養數學能力的關鍵。\n"
+"* 加深對形狀的理解，特別是圓形、三角形和正方形。在孩子與這些形狀互動時，繼續使用描述性的名稱。\n"
+"* 比較和排序數字。數量如何相互比較和相互作用是理解它們的核心\n"
+"* 多一、少一、多兩、少兩。這些概念相對容易理解，它們是加法和減法的基礎。\n"
+"* 學會使用可視化工具來理解加法和減法，尤其是手指。加零和減零。\n"
+"* 用一個數減去自己。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CONNECT THE DOTS"
+msgstr "連接這些點"
 
 #. type=data_list
 msgctxt "data_list"
