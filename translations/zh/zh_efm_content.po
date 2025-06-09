@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-09 20:16\n"
+"PO-Revision-Date: 2025-06-09 21:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7142,6 +7142,60 @@ msgstr ""
 msgctxt "data_list"
 msgid "CONNECT THE DOTS"
 msgstr "連接這些點"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Complete fun drawings by connecting numbered dots. Make these by taking a simple drawing, removing some straight lines, and replacing them with numbered dots. Connecting the dots in order recreates the original drawing."
+msgstr "**如何製作:** 按順序連接代編號的點。可以通過取繪製一幅簡單的圖畫，然後刪除一些直線，最後給端點編號來製作。按順序連接這些點可以覆原覆原的圖畫。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Backwards:** Challenge your child to connect the dots in backwards order.\n"
+"\n"
+"You can also find these kinds of drawings to download from the internet."
+msgstr ""
+"**倒序連線：** 讓您的孩子挑戰以倒序連接這些點。\n"
+"\n"
+"您也可以在互聯網上下載這些圖畫。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COUNTING"
+msgstr "跳島遊戲 - 數數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles use numbered islands (circles) connected by bridges (lines).\n"
+"\n"
+"**The challenge:** Find a path that connects the islands in order. The easiest versions have numbers that go from 1 to the number of islands."
+msgstr ""
+"這些謎題使用帶編號的島嶼（圓圈），它們通過橋梁（線）連接起來。\n"
+"\n"
+"**挑戰內容:** 找到一條連接島嶼的路徑，使得島嶼按順序連接。最簡單的版本中，島嶼的編號從1到島嶼的數量。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Adjust the challenge 1:** Leave out some numbers so your child figures out what is missing and where it belongs.\n"
+"\n"
+"**Adjust the challenge 2:** Instead of starting at 1, design the puzzles to start at 0 or other numbers. (Note the range at the top of the puzzle)."
+msgstr ""
+"**修改挑戰1:** 去掉一些數字，讓您的孩子找出缺少的數字並將它們補回去。\n"
+"\n"
+"**修改挑戰2:** 設計從0或其他數字開始而不是從1開始的謎題。（注意標注在謎題頂部的數字範圍）"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a physical puzzle by placing pieces of paper with consecutive numbers on the floor in some twisty path. Your child can solve this puzzle by walking along the path from the smallest to the largest number.\n"
+"\n"
+"Add challenge: Replace some of the numbered pieces with blank ones. Also, have your child to start at the largest number and go downward."
+msgstr ""
+"將一系列連續數字的紙片放在地板上，形成一個曲折的路徑，把這個謎題變成一個實物謎題。您的孩子可以通過沿著路徑從最小的數字走到最大的數字來解決這個謎題。\n"
+"\n"
+"增加難度：用空白紙片替換一些帶數字的紙片。同時，讓您的孩子沿著最大的數字走到最小的數字。"
 
 #. type=data_list
 msgctxt "data_list"
