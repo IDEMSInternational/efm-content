@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-09 21:16\n"
+"PO-Revision-Date: 2025-06-09 22:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7196,6 +7196,38 @@ msgstr ""
 "將一系列連續數字的紙片放在地板上，形成一個曲折的路徑，把這個謎題變成一個實物謎題。您的孩子可以通過沿著路徑從最小的數字走到最大的數字來解決這個謎題。\n"
 "\n"
 "增加難度：用空白紙片替換一些帶數字的紙片。同時，讓您的孩子沿著最大的數字走到最小的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRING NUMBER LINE"
+msgstr "串上數字線"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to having a paper number line on a wall, create a number line using a piece of string. Tie or clip a section of string between two objects. Use paper clips to attach sliding Number Cards from 0 to 10 along the string in order."
+msgstr "除了在墻上放置一個畫在紙上的數軸之外，還可以把一段繩子綁在兩個物體之間，用它充當數軸。使用紙夾將從0到10的編號卡片依次沿著繩子掛起。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to exploring these ideas, you and your child will probably discover many more.\n"
+"\n"
+"• Switch two numbers and have your child find the mistake.\n"
+"• Leave out a number and have your child find which one is missing.\n"
+"• Practice adding. To do 4 + 2, slide over the first 4 numbers and then slide the next 2.\n"
+"• Practice subtracting. To do 6 - 2, slide 6 cards to the left, then slide 2 of those to the right."
+msgstr ""
+"除了這些想法之外，您和您的孩子可能還會發現許多其他的玩法。\n"
+"\n"
+"* 交換兩個數字的位置，讓您的孩子找出位置錯誤的數字。\n"
+"* 漏掉一個數字，讓您的孩子找出缺失的數字。\n"
+"* 練習加法。例如，進行4 + 2的計算時，先滑動前面的4個數字，然後再滑動接下來的2個數字。\n"
+"* 練習減法。例如，進行6 - 2的計算時，先將6張卡片向左滑動，然後再將其中的2張向右滑動。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH!"
+msgstr "去釣魚！"
 
 #. type=data_list
 msgctxt "data_list"
