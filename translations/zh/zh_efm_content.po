@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-10 16:36\n"
+"PO-Revision-Date: 2025-06-10 19:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7584,6 +7584,51 @@ msgstr ""
 "出題者：我的數字比6小。\n"
 "提問者：你的數字和5相比怎樣？\n"
 "出題者：很好！我的數字等於5。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "適應中"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "給您的孩子一些小物品，比如七個。把他們放一起數一數，然後選定一個目標數字，比如說五。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "請您的孩子從最初的七個物品中拿出五個。這有助於孩子學習數字的相對大小以及它們之間的差異。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "剛開始玩這個遊戲的時候，目標數字應小於或等於總數。一段時間後，可以給出大於物品數量的目標數量。這有助於練習對數的感知，同時也提供了檢查請求是否合理的練習。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "隱形加法和減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**遊戲設定:** 讓您的孩子數一數小物體的數量，然後把它們放進一個盒子裡。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**然後:** 請他們伸出與盒子中物體數量相同的手指。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**最後:** 向您的孩子展示，您向盒子裡新增或移除了一兩個物體，然後問孩子：「現在盒子裡有多少個物體了？」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "如果這對您的孩子太簡單，您可以往盒子里新增或移除兩個以上的物體。"
 
 #. type=data_list
 msgctxt "data_list"
