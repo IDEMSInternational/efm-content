@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-10 00:37\n"
+"PO-Revision-Date: 2025-06-10 15:38\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7439,6 +7439,46 @@ msgstr ""
 "**計分方式:** 勝利者的得分可以透過兩種方式計算。傳統的方法是計算所有其他玩家骨牌上的點數總和，每輪遊戲的得分相加，直到某位玩家達到50或100分。對於年紀較小的玩家，更好的計分方式是勝利者的得分等於其他玩家剩餘骨牌的數量。\n"
 "\n"
 "**變體：** 當您的孩子開始學習加法時，可以改變匹配規則：兩張骨牌的數字之和為六（如果使用數字範圍更大的多米諾骨牌，則和為九）時，它們匹配。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "在一或二內"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**遊戲設定：** 製作一疊數字卡片，將上面的數字控制在您孩子熟悉的範圍內。將卡片均勻分配給兩名玩家，並將其正面朝下放置。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**玩法：** 玩家輪流將一張卡片放在他們中間的牌堆上。如果該卡片比前一張卡片的數字多一、少一或相同，則第一個說出「多一」、「少一」或「相同」的玩家獲得當前牌堆中的所有卡片。\n"
+"\n"
+"**贏家是：** 遊戲結束時，擁有更多卡片的人獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* 加入「比前一個卡片多二」和「比前一個卡片少二」作為選項。 \n"
+"* 設定一個目標總和，比如說10。成為首個說出頂部兩張卡片總和等於目標的人獲得卡片。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "用一和二進行的尼姆遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "附近的數字"
 
 #. type=data_list
 msgctxt "data_list"
