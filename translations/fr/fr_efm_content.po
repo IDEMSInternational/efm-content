@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-06-10 02:35\n"
+"PO-Revision-Date: 2025-06-10 03:50\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7520,6 +7520,56 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SMALLEST SINGLE NUMBER"
+msgstr "NUMERO UNIQUE LE PLUS PETIT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Gather a group of people together in a circle. Have them each think of a whole number that they will use for this round of the game. One person is the announcer.\n"
+"\n"
+"**How to play.** The announcer starts slowly counting up starting at 1. With each number, any person who was thinking of that number raises their hand. If only one hand is raised, that person is the winner and the round is over. If more than one hand is raised, those people are out of the game for this round and the announcer continues counting up.\n"
+"\n"
+"Make this an active game by having all the players sitting down or crouched down. When their number is called, the person jumps up."
+msgstr ""
+"**La mise en place.** Rassemblez un groupe de personnes en cercle. Demandez à chacun d’entre eux de penser à un nombre entier qu’ils utiliseront pour ce tour du jeu. Une personne est l’annonceur.\n"
+"\n"
+"**Comment jouer :** L’annonceur commence à compter les chiffres à partir de 1. A chaque chiffre, la personne qui a pensé à ce chiffre lève la main. Si une seule main se lève, cette personne est gagnante et le tour est terminé. Si plus d’une main se lève, ces personnes sont exclues du jeu pour ce tour et l’annonceur poursuit le décompte.\n"
+"\n"
+"Faites de ce jeu un jeu actif en plaçant tous les joueurs assis ou accroupis. Lorsque leur numéro est appelé, la personne qui a pensé à ce numéro se lève."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "VA-ET-VIENT -- 12"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 10"
+msgstr "Les Nombres jusqu'à 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr "**La mise en place.** Chaque joueur commence avec un tableau vide de 0 à 12. Chaque joueur place un marqueur noir sur 0 et décide où placer trois marqueurs rouges sur les chiffres supérieurs à 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**Comment jouer :** Lors un tour, lancez le dé et déplacez votre marqueur noir vers l’avant ou vers l’arrière d’une valeur égale à celle du dé. Si vous tombez sur un marqueur rouge, retirez-le du jeu et gardez-le.\n"
+"\n"
+"**Comment gagner :** Le premier joueur qui enlève les trois marqueurs rouges gagne la partie.\n"
+"\n"
+"**Exemple de jeu :** Voici un premier jeu utilisant un lancé de dé du chiffre 5. Si le joueur obtient par la suite le chiffre 3, il pourra passer au 2 ou au 8."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "STEALING BONES"
 msgstr "VOLER DES OS"
 
@@ -7956,6 +8006,564 @@ msgstr "MAINS MAGIQUES - ADDITION ET SOUSTRACTION"
 msgctxt "data_list"
 msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
 msgstr "Il s’agit d’un tour de magie pour pratiquer l’addition et la soustraction. Faites-le assez lentement pour que votre enfant ait le temps de voir ce qui se passe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**Pour l‘addition :** Choisissez deux nombres dont la somme est inférieure ou égale à 5. Comptez le nombre de doigts levés de votre main gauche, dites 3. Comptez le nombre de doigts levés de votre main droite, dites 1. Rapprochez les mains et pouf - les doigts de la main droite sont transférés à la main gauche - il y a maintenant 4 doigts levés. C’est magique !\n"
+"\n"
+"Résumer en disant : “3 doigts plus 1 doigt supplémentaire donnent 4 doigts. Voila !”\n"
+"\n"
+"**Pour la soustraction :** Levez quelques doigts de votre main gauche, disons 4. Demandez à votre main droite de tendre la main et d’attraper certains doigts, disons 1. Il restera 3 doigts levés sur la main gauche et 1 doigt levé sur la main droite. Résumez la situation en disant que 4 moins 1 donnent 3, ou dites que vous avez divisé 4 en deux morceaux, 3 et 1. Cette formulation met l’accent sur le concept de liens entre les nombres qui sont des paires de nombres qui s’additionnent pour donner un total donné."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "Cas particuliers importants"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* L’Addition: Que l’une ou les deux mains aient 0 doigt levé et qu’elles montrent que rien ne change lorsqu’on ajoute 0.\n"
+"* La soustraction: Soustraire tous les doigts pour qu’il n’en reste aucun, et parfois ne soustraire aucun doigt pour montrer que rien ne change."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "NUMEROS FLASH"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "Commencer à Calculer avec les Doigts"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"Aidez votre enfant à reconnaître facilement et rapidement les nombres d’objets. Entraînez-vous de deux manières.\n"
+"\n"
+"**Utiliser dix cadres :** Utilisez des cartes de chiffres comportant dix cadres. Prenez une carte au hasard et voyez de façon ludique si votre enfant peut reconnaître la quantité."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**Utiliser les doigts :** Montrez quelques doigts d’une ou des deux mains et demandez à votre enfant de reconnaître le nombre total. Lorsque les deux mains sont utilisées pour les nombres supérieurs à cinq, l’une des mains doit avoir cinq doigts levés - de cette façon, cela ressemble à un cadre de dix."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "DÉCOUPE DE FORMES SYMÉTRIQUES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions."
+msgstr "Le Kirigami est l’art de créer des motifs en pliant une feuille de papier et en la coupant pendant qu’elle est pliée. Il peut y avoir plus d’un pli, et les plis peuvent se faire dans des directions différentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other."
+msgstr "En pliant le papier une fois et en le coupant, on obtient un dessin dont l’une des faces est l’image miroir, ou le reflet de l’autre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ideas to explore"
+msgstr "Idees a explorer"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Experiment with cutting out faces, lamps, or geometric shapes.\n"
+"• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n"
+"• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape."
+msgstr ""
+"* Essayez de découper des visages, des lampes ou des formes géométriques.\n"
+"* Utilisez deux plis qui se croisent pour créer des motifs avec des images en miroir dans deux directions. Cela permet de créer facilement des motifs tels que des fleurs.\n"
+"* Essayez différents plis et coupes. Créez des flocons de neige en commençant par les deux mêmes plis que dans le dernier exemple. Utilisez ensuite deux autres plis qui divisent le papier plié en trois.\n"
+"* Faites-en un jeu en travaillant à l’envers – Dessinez une forme symétrique sur une feuille de papier et mettez-vous au défi de découper une feuille de papier pliée pour créer cette forme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "TROUVER DES CARRÉS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "Figures"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
+"\n"
+"**How to play:** Players take turns putting their tokens on points where the lines cross in the grid."
+msgstr ""
+"**La mise en place :** Créez une grille de 5 x 5 en utilisant cinq lignes horizontales et verticales.\n"
+"\n"
+"**Comment jouer :** Les joueurs placent à tour de rôle leurs jetons sur les points ou les lignes se croisent dans la grille."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The first player with four tokens on the corners of a square of any size wins."
+msgstr "**Comment gagner :** Le premier joueur ayant quatre jetons sur les coins d’un carré de n’importe quelle taille gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow squares with diagonal sides (pictured above).\n"
+"• Use grids larger than 5 by 5."
+msgstr ""
+"* Autoriser les carrés aux côtés diagonaux.\n"
+"* Utiliser des grilles de plus de 5 x 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAG STORIES – ADD AND SUBTRACT"
+msgstr "HISTOIRES DE SACS – AJOUTER ET SOUSTRAIRE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”"
+msgstr "**Histoires de sacs :** Vous et votre enfant prétendez chacun avoir un sac contenant un certain nombre d’objets. L’un d’entre vous invente une histoire telle que : “ Ton sac contient 3 raisins secs et le mien en contient un de plus. Combien en ai-je?” Une fois que votre enfant semble plus à l'aise, laissez-le vous poser la question de temps en temps - c’est souvent très amusant pour lui, surtout si vous faites parfois une “erreur”."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n"
+"\n"
+"**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”"
+msgstr ""
+"**Ajouter de la complexité :** Ces histoires peuvent devenir plus élaborées avec de l'expérience. Par exemple, l’histoire pourrait être la suivante : “ J’ai deux biscuits de moins que toi et, ensemble, nous avons six biscuits. Combien de biscuits as-tu ?”. Un autre exemple : “Tu as deux fois plus de bonbons que moi et, ensemble, nous en avons neuf. Combien de bonbons as-tu ?”.\n"
+"\n"
+"**Autres scenarios :** L’utilisation de sacs et de morceaux de nourriture peut être remplacée par l'idée d’un bocal à poissons avec deux (ou plusieurs) sortes de poissons, ou par toute autre image qui plaît à votre enfant. Dans le cas d’un bocal à poissons, vous pouvez créer une histoire telle que : “Il y a sept poissons dans le bocal, et il y a un poisson rouge de plus que les tétras. Combien y a-t-il de poissons rouges ?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH STORIES"
+msgstr "HISTOIRES DE NOMBRE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "Histoires de Nombre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories are a fun way to add interest to calculations. Here are two examples of such stories:"
+msgstr "Les histoires sont un moyen amusant d’ajouter de l'intérêt aux calculs. Voici deux exemples d’histoires :"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n"
+"\n"
+"**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?"
+msgstr ""
+"**Chaises :** Il y a quatre chaises dans une pièce. Au début, il y a deux personnes, puis trois autres arrivent. Tout le monde peut-il s'asseoir ? Cette question est plus intéressante que celle qui consiste à demander si 2 + 3 est plus grand que 4.\n"
+"\n"
+"**Glace :** Mes deux amis et moi mangeons une glace. Je vais donner à chacun de mes amis une boule de plus que moi. S’il y a dix boules de glace, combien de boules de glaces puis-je avoir ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions."
+msgstr "Choisissez des sujets qui intéressent votre enfant, comme la nourriture ou les animaux. Au fur et à mesure que votre enfant s'améliore, laissez certaines histoires un peu vagues afin qu’il puisse analyser davantage et apprendre à poser des questions plus précises."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variable names"
+msgstr "Noms variables"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
+msgstr "Présentez l’idée de noms variables en utilisant des noms amusants pour les nombres manquants dans les activités."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – 1 MORE/LESS"
+msgstr "SORTEZ DE CHEZ MOI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this."
+msgstr "**La mise en place :** Utilisez un jeu de cartes avec des chiffres de 1 à 10. Sur une feuille de papier commune, faire des boîtes (ou de simples dessins de maisons) numérotées de 0 à 11. Pour que les joueurs s’exercent à trouver l’ordre, ne placez pas les boîtes dans l’ordre sur la feuille de papier. Chaque joueur dispose de 7 jetons différents de ceux des autres joueurs - l’utilisation de couleurs différentes est un moyen d’y parvenir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to place all their tokens wins."
+msgstr ""
+"**Comment jouer :** A son tour, un joueur choisit une carte et place son jeton sur une maison (ou une boite) qui en compte une de plus ou de moins, à condition qu’elle ne contienne pas déjà 3 jetons ou plus d’un autre joueur. Si celle-ci contient un ou deux jetons de l‘adversaire, ces jetons sont rendus à l'adversaire et le joueur dit : “Sortez de ma maison.”\n"
+"\n"
+"**Comment gagner :** Le premier joueur qui place tous ces jetons gagne la partie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n"
+"• Use a smaller or larger range of Number Cards and boxes.\n"
+"• Allow moves to houses that are 2 numbers more or less."
+msgstr ""
+"* Si l’enfant n’est pas prêt pour les chiffres, vous pouvez utiliser des cartes de chiffres et des boîtes avec des quantités de points.\n"
+"* Utilisez une gamme plus ou moins large de cartes de nombres et de boîtes.\n"
+"* Autorisez le joueur à placer son jeton sur les maisons qui comptent 2 numéros de plus ou de moins."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE IN-BETWEEN GAME"
+msgstr "LE JEU DE L’ENTRE-DEUX"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "Ordre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens."
+msgstr "**La mise en place :** Utilisez un jeu de cartes de 0 à 10. Utilisez les cartes numériques ou les cartes avec la Reine comme 0 et l’As comme 1. Chaque joueur reçoit également 20 jetons."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n"
+"\n"
+"**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins."
+msgstr ""
+"**Comment jouer :** Pour le joueur dont c’est le tour, deux cartes sont distribuées, face visible, et une troisième carte, face cachée, est placée entre les deux. Le joueur décide de parier de 0 à 3 jetons que la troisième carte se trouve entre les deux cartes. Si le joueur a raison, il reçoit le nombre de jetons qu’il aura parié. Si le joueur a tort, il devra donner à son adversaire le nombre de jetons qu’il aura parié.\n"
+"\n"
+"**Comment gagner :** Vous pouvez jouer cinq tours ou jusqu'à ce qu’un joueur n’ait plus de jetons. Le joueur qui a le plus de jetons a la fin de la partie gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SUDOKU"
+msgstr "SUDOKU DES NOMBRES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These are similar to the Shape Sudokus, only now they use numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper."
+msgstr ""
+"**La mise en place :** Ces puzzles sont similaires aux Sudokus des formes géométriques, mais ils utilisent des nombres (ou des quantités de points). Pour éviter d’effacer, utilisez des feuilles de papier numérotées (ou à points) pour résoudre les énigmes.\n"
+"\n"
+"Pour un puzzle de 4 x 4, chaque ligne et chaque colonne comporte une fois les chiffres de 1 à 4. De même, chaque région marquée comporte une fois les chiffres de 1 à 4. C’est tout simple ! Créez ces puzzles pour votre enfant en partant d’un puzzle terminé et en retirant certains morceaux de papier."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Variations:** For variety, use irregularly-sized subregions – these are called Jigsaw Sudoku puzzles. You can also create puzzles of larger size (two 5 by 5 puzzles are shown)."
+msgstr "**Variations :** Pour varier les plaisirs, utilisez des sous-régions de taille irrégulière - c’est ce qu’on appelle des puzzles Sudoku Jigsaw. Vous pouvez également créer des puzzles de plus grande taille (deux puzzles de 5 x 5 illustrés)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU – COMPARING"
+msgstr "SUDOKU – COMPARAISON"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship.\n"
+"\n"
+"**Hungry alligator:** Tell a child who has never seen a comparison symbol, >, that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number.\n"
+"\n"
+"**Solving strategy:** First look for where the smallest and largest numbers are."
+msgstr ""
+"Ces puzzles reposent sur les mêmes règles que le Sudoku classique : chaque chiffre apparaît exactement une fois dans chaque ligne, chaque colonne et chaque région. En outre, il existe un symbole “moins que” ou “plus que” entre deux cellules, les nombres qui s’y trouvent doivent respecter cette relation.\n"
+"\n"
+"**Alligator affamé :** Dites à un enfant qui n’a jamais vu de symbole de comparaison, tel que >, que le plus grand nombre se trouve du côté de la partie la plus large du symbole. Certains disent que le symbole est un alligator affamé et qu’il veut toujours que sa bouche pointe dans la direction de plus grand nombre.\n"
+"\n"
+"**Strategie de resolution :** Cherchez d’abord où se trouvent les nombres les plus petits et les plus grands."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n"
+"\n"
+"**Puzzle creation:** Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to get them started."
+msgstr ""
+"Au fur et à mesure que votre enfant s'améliore, rendez les puzzles plus difficiles en supprimant davantage les symboles d'inégalité.\n"
+"\n"
+"**Creation de puzzle :** Créez ces puzzles en utilisant un puzzle Sudoku terminé. Inscrivez les signes: “plus grand que : >” et “moins grand que : <” sur une grille vide de même géométrie. Si votre enfant est bloqué, inscrivez quelques chiffres pour l’aider à démarrer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE ME A LIAR"
+msgstr "FAITES DE MOI UN MENTEUR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Someone makes a statement and the other players attempt to show that the statement maker is lying. The goal is to come up with a counterexample that shows that the statement is not always true.\n"
+"\n"
+"**Always true:** One type of statement is saying something is always true. Examples are:\n"
+"\n"
+"• All trucks have four wheels\n"
+"• All rectangles are squares\n"
+"• All birds can fly\n"
+"\n"
+"**If -> then:** Another type of statement is of the form “if then”. Examples are:\n"
+"\n"
+"• If today is Monday, then it is a school day\n"
+"• If I don’t eat for three hours, then I am hungry\n"
+"• If a person is taller than someone, then they are older"
+msgstr ""
+"Quelqu’un fait une déclaration et les autres joueurs tentent de démontrer que l’auteur de la déclaration ment. L’objectif est de trouver un contre-exemple qui montre que l’affirmation n’est pas toujours vrai.\n"
+"\n"
+"**Toujours vrai :** Un type d’affirmation consiste à dire que quelque chose est toujours vrai. En voici quelques exemples :\n"
+"\n"
+"* Tous les camions ont quatre roues\n"
+"* Tous les rectangles sont des carrés\n"
+"* Tous les oiseaux volent\n"
+"\n"
+"**Si -> Alors :** Un autre type d'affirmation est sous la forme “si alors”. En voici quelques exemples :\n"
+"\n"
+"* Si nous sommes aujourd’hui lundi, alors c’est un jour d'école.\n"
+"* Si je ne mange pas pendant trois heures, alors c’est que j’ai faim.\n"
+"* Si une personne est plus grande qu’une autre, alors elle est plus âgée."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CODEBREAKER"
+msgstr "BRISER DE CODE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being Logical"
+msgstr "Être Logique"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
+msgstr "**La mise en place :** Le maître de code crée un code et l’autre joueur est le briseur de code. Supposons que le code comporte trois positions, chacune pouvant être comprise entre 1 et 5. Un exemple d’un tel code serait 321."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code."
+msgstr "**Briser le code :** Le briseur de code devine un code et le maître de code lui répond à quel point il est proche de la réponse. Par exemple, si le briseur de code devine 131, le maître de code lui dira qu’un endroit est exactement correct et qu’un autre endroit contient le bon chiffre mais au mauvais endroit. Le jeu continue jusqu'à ce que le briseur de code trouve le bon code."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "**Comment gagner :** Le nombre de suppositions est le score pour le briseur de code. Le score le plus bas gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Add challenge by having a maximum number of questions that are allowed.\n"
+"• Allow or disallow repeated numbers in the code.\n"
+"• Use shorter or longer lengths for the code.\n"
+"• Use a narrower or wider range of numbers for each place of the code."
+msgstr ""
+"* Ajoutez un défi en fixant un nombre maximum de questions autorisées.\n"
+"* Autorisez ou non les nombres répétés dans le code.\n"
+"* Utilisez des longueurs plus ou moins longues pour le code.\n"
+"* Utilisez une fourchette de chiffres plus ou moins large pour chaque position du code."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "AJOUTER AVEC LES DOIGTS JUSQU'À 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "Nous utiliserons 4 + 2 pour démontrer deux méthodes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**Première Méthode :** Utilisez cette méthode si les deux nombres sont inférieurs ou égaux à 5. Levez 4 doigts d’une main et 2 doigts de l’autre main. Rapprochez les deux mains et voilà! Votre enfant voit que 4 et 2 réunis donnent 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**Deuxieme Methode :** Utilisez le “comptage à partir de”, à partir d’un des nombres pour atteindre n’importe quelle somme jusqu'à 10.\n"
+"\n"
+"**Example :** Pour additionner 4 et 2, levez 4 doigts d’une main et comptez à haute voix de 0 à 2. Pour chaque chiffre prononcé après 0, levez un doigt de plus. Lorsque le chiffre 2 est atteint, 6 doigts doivent être levés.\n"
+"\n"
+"Cette méthode permet d’additionner des nombres supérieurs à 5. Votre enfant se rendra compte qu’il est plus facile de commencer avec le plus grand nombre de doigts levés et de continuer à compter en utilisant le plus petit nombre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "SOUSTRAIRE AVEC LES DOIGTS JUSQU'À 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "Calcul avec les Doigts"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "Il existe deux modèles pour soustraire mentalement - “enlever” ou “différence”. Votre enfant doit être à l’aise avec les deux modèles. Voici 8 - 5 calculés avec les deux différents modèles :"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "**Enlever (à gauche) :** Pensez à 8 - 5 comme ce qui reste après avoir commencé avec 8 choses et en enlever 5. Commencez par lever 8 doigts. Ensuite, comptez à haute voix de 0 à 5, et pour chaque chiffre après 0, posez un doigt vers le bas. Lorsque le chiffre 5 est atteint, il restera 3 doigts levés."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"**Différence (à droite) :** Ce modèle considère que 8 - 5 est la différence ou la distance entre les deux nombres. Commencez par lever 5 doigts. Comptez ensuite les nouveaux doigts levés, et lorsqu’il y a 8 doigts levés, la différence de 3 aura été comptée.\n"
+"\n"
+"Cette méthode utilise la méthode d’addition par “comptage” pour trouver le nombre a ajouter à 5 pour obtenir 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "Mélangez des problèmes où un nombre est soustrait de lui-même, et où 0 est soustrait."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n"
+"\n"
+"**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n"
+"\n"
+"**Example:** The Puzzler thinks of 11. The discussion could go like this:\n"
+"\n"
+"• Puzzler: Stripes is a number between 0 and 15.\n"
+"• Questioner: How does Stripes compare to 8?\n"
+"• Puzzler: Stripes is bigger than 8.\n"
+"• Questioner: How does Stripes compare to 12? \n"
+"• Puzzler: Stripes is less than 12.\n"
+"• Questioner: How does Stripes compare to 10? \n"
+"• Puzzler: Stripes is bigger than 10.\n"
+"• Questioner: Is your number 11?\n"
+"• Puzzler: Yes, congratulations!"
+msgstr ""
+"**La mise en place :** Il y a deux personnes - le penseur, qui pense à un nombre, et le questionneur, qui découvre le nombre.\n"
+"\n"
+"**Comment jouer :** Pour commencer, le penseur dit : \"Le chiffre à trouver se trouve entre 0 et 12.” Le questionneur pose alors des questions du type “comment le chiffre à trouver se compare-t-il à 4?“ Le penseur dit alors que le chiffre à trouver est plus petit, égal à, ou plus grand que 4.\n"
+"\n"
+"**Exemple :** Le penseur pense au numéro 11. La discussion pourrait se dérouler comme cela :\n"
+"\n"
+"* Le penseur : Le numéro à trouver se trouve entre 0 et 15.\n"
+"* Le questionneur : Comment le numéro à trouver se compare à 8?\n"
+"* Le penseur : Le numéro à trouver est plus grand que 8.\n"
+"* Le questionneur : Comment le numéro à trouver se compare à 12?\n"
+"* Le penseur : Le numéro à trouver est plus petit que 12.\n"
+"* Le questionneur : Comment le numéro à trouver se compare à 10?\n"
+"* Le penseur : Le numéro à trouver est plus grand que 10.\n"
+"* Le questionneur : Est-ce que le numéro à trouver est 11?\n"
+"* Le penseur : Oui, Bravo !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n"
+"\n"
+"As your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”"
+msgstr ""
+"Faites-en un jeu en comptant les questions. Après un tour alterne, le joueur qui pose le plus petit nombre de questions gagne.\n"
+"\n"
+"Au fur et à mesure que votre enfant développe ses connaissances en mathématiques, utilisez d’autres types de questions, comme “Le chiffre à trouver est-il un nombre pair ?” ou “le chiffre a trouver est-il un nombre premier ?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ESTIMATION GAME"
+msgstr "JEU D’ESTIMATION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n"
+"\n"
+"Force yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest."
+msgstr ""
+"Développez votre sens des quantités en voyant qui peut faire la meilleure estimation de la taille d’un groupe, par exemple un groupe de personnes faisant la queue.\n"
+"\n"
+"Obligez-vous à faire une estimation rapide sans compter. Une fois que tout le monde a donné une estimation, comptez les objets et récompensez la personne qui s’en rapproche le plus."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "POIGNEES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "Taille des Numeros"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Have a collection of small items that will fit easily in a child's hand.\n"
+"\n"
+"**How to play.** Show your children the items and ask them to estimate how many of these items they think they can grab with one hand. Give them a little bit of time to come up with an answer, and then collect all the answers. If you have a number line handy, put a mark by each estimate. Take a moment to discuss why some are larger and some are smaller. Finally, have one child grab a handful, count together how many they have, and see which estimates were the closest.\n"
+"\n"
+"**Variations.** Use two hands if you want to get larger numbers. Also, use different sizes of objects to add variety and to produce smaller or larger numbers."
+msgstr ""
+"**La mise en place :** Disposez d’une collection de petits objets qui tiennent facilement dans la main d’un enfant.\n"
+"\n"
+"**Comment jouer :** Montrez les objets à vos enfants et demandez-leur d’estimer combien d’objets ils pensent pouvoir saisir d’une seule main. Laissez-leur un peu de temps pour trouver une réponse, puis rassemblez toutes les réponses. Si vous avez a portée de main une ligne numérique, marquez chaque estimation. Prenez le temps de discuter des raisons pour lesquelles certains sont plus grands et d’autres plus petits. Enfin, demandez à chaque enfant de prendre une poignée, de compter ensemble combien ils en ont et de voir quelles estimations étaient les plus proches.\n"
+"\n"
+"**Variations du jeu.** Utilisez les deux mains si vous voulez obtenir des nombres plus importants. Utilisez également des objets de tailles différentes pour varier les plaisirs et obtenir des nombres plus petits ou plus grands."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15 SLIDING PUZZLE"
+msgstr "15 PUZZLE COULISSANT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "Numéros en Ordre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid."
+msgstr "**La mise en place :** Commencez par une grille vide de 4 x 4 carrés formée par 5 lignes horizontales et verticales. Utilisez un jeu de 15 morceaux de papier de la taille des carrés de la grille et numéroter les morceaux de papier de 1 à 15. Pour commencer le puzzle, quelqu’un doit placer les morceaux de papier sur la grille."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"**Le défi :** Le but du puzzle est de remettre les morceaux de papier dans l’ordre en ne laissant que le coin inférieur droit de la grille vide. Pour ce faire, un morceau de papier peut être déplacé s’il est adjacent à la case vide, auquel cas il peut être glissé dans cet espace. Selon la façon dont la personne organise le puzzle, celui-ci peut être résolu ou non.\n"
+"\n"
+"**Comment créer :** Pour créer ces puzzles, vous avez deux possibilités. La première consiste à placer les carrés au hasard, auquel cas vous avez une chance sur deux de résoudre la position. Vous pouvez également commencer par placer les morceaux de papier dans la position finale, puis effectuer une série de mouvements légaux pour déplacer le papier. Lorsque vous avez terminé, vous avez la garantie que le puzzle peut être résolu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Different sizes"
+msgstr "Différentes tailles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr "Si une grille de 4 x 4 est trop difficile pour un débutant, commencez par quelque chose de plus petit. La grille peut être aussi petite que 2 x 2 ou aussi grande que l’enfant le souhaite. Le nombre de morceaux de papier numérotés sera toujours inférieur d’une unité à la taille de la grille. Par exemple, sur une grille de 2 x 3, utilisez les cartes de 1 à 5."
 
 #. type=data_list
 msgctxt "data_list"
