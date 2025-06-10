@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-10 20:44\n"
+"PO-Revision-Date: 2025-06-10 22:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8320,6 +8320,32 @@ msgstr "15 滑塊拼圖"
 msgctxt "data_list"
 msgid "Numbers in Order"
 msgstr "數字排序"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid."
+msgstr "**遊戲設置：** 用由5條水平和垂直的線組成一個4x4空白網格。選15張和網格方格大小相同的紙片，將他們編號為1到15。設置謎題時，將這些紙片放置在小格子里。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"**挑戰:** 謎題的目標是使紙片按順序排列，並且只有右下角的格子是空的。只有紙片旁邊有空位，它才能被移動——移動到空格里。取決於迷題的設置，它可能是可以被解開的，也可能是解不開的。\n"
+"\n"
+"**如何製作:** 您有兩種選擇來製作這些謎題。第一種是隨機放置方塊，這樣謎題有一半的幾率是可以被解開的。另一種方法是從最終位置開始放置紙片，然後按規則移動卡片。當您完成所有操作時，這就保證謎題是可以被解開的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Different sizes"
+msgstr "不同的大小"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr "如果4x4對初學者來說太難了，可以從更小的網格開始。網格的大小可以是2x2，也可以是任意孩子想要的大小。編號紙片的數量始終比網格大小少一個。例如在2x3的網格上，使用編號為1到5的卡片。"
 
 #. type=data_list
 msgctxt "data_list"
