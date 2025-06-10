@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-06-10 01:32\n"
+"PO-Revision-Date: 2025-06-10 02:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7527,6 +7527,435 @@ msgstr "VOLER DES OS"
 msgctxt "data_list"
 msgid "**How to play:** Place all dominoes (bones) face up between the players. For a turn, a player rolls two dice. If the domino that matches these dice is available, the player claims it and moves it to their pile."
 msgstr "**Comment jouer :** Placez tous les dominos face visible entre les joueurs. Lors d'un tour, un joueur lance deux dés. Si le domino correspondant à ces dés est disponible, le joueur le prend et le place sur sa pile."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** For two players, the first player with ten dominoes wins. For more than two players, the first player with six dominoes wins.\n"
+"\n"
+"**Variation:** Claimed dominoes can still be stolen by other players."
+msgstr ""
+"**Comment gagner :** Pour deux joueurs, le premier joueur à obtenir dix dominos gagne. Pour plus de deux joueurs, le premier joueur à obtenir six dominos gagne.\n"
+"\n"
+"**Variation :** Les dominos revendiqués peuvent toujours être volés par d'autres joueurs."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOMINOES"
+msgstr "DOMINOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Domino Games"
+msgstr "Jeux de Domino"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many variations to this ancient game – discuss the rules before you start!\n"
+"\n"
+"**The setup.** Mix up all tiles (bones) face down – this is called the boneyard. Take seven tiles each for two players, and five tiles each for three or four players. The player with the highest double starts by putting it on the table. If no one has a double, start the game over."
+msgstr ""
+"**Il y a de nombreuses variantes à ce jeu ancien - discutez des règles avant de commencer !**\n"
+"\n"
+"**La mise en place :** Mélangez toutes les tuiles (os) face cachée - c'est ce qu'on appelle l'ossuaire. Prenez sept tuiles chacun pour deux joueurs, et cinq tuiles chacun pour trois ou quatre joueurs. Le joueur qui a le double le plus élevé commence par le poser sur la table. Si personne n'a de double, le jeu recommence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play.** A turn consists of placing a tile that matches one of the available ends of the string of dominoes (place double dominoes crosswise to the previous domino). If the player has no matching tile, the player is “blocked,” and there are two possible rules to use: 1) the player’s turn is over, or 2) the player keeps drawing tiles until there is a match (one version restricts this to a single draw whether or not there is a match). If the boneyard is emptied before there is a move, play passes to the next player on the right.\n"
+"\n"
+"**How to win:** The game ends when a player runs out of bones, or when all players are blocked. The winner is the player with the lowest total of dots on their tiles (which is 0 if they have used up all their tiles)."
+msgstr ""
+"**Comment jouer :** Un tour consiste à placer une tuile qui correspond à l'une des extrémités disponibles de la chaîne de dominos (placer les doubles dominos en travers du domino précédent). Si le joueur n'a pas de tuile correspondante, il est « bloqué » et il y a deux règles possibles à appliquer : 1) le tour du joueur est terminé, ou 2) le joueur continue à tirer des tuiles jusqu'à ce qu'il y ait une correspondance (une version limite cette règle à un seul tirage, qu'il y ait ou non une correspondance). Si une rangée est vidée avant qu'un joueur ne se soit déplacé, le jeu passe au joueur suivant sur la droite.\n"
+"\n"
+"**Comment gagner :** La partie se termine lorsqu'un joueur n'a plus d'os ou lorsque tous les joueurs sont bloqués. Le gagnant est le joueur qui a le plus petit nombre de points sur ses tuiles (c’est-à-dire 0 s'il a utilisé toutes ses tuiles)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Scoring options:** The winner’s score can be calculated in two ways. The traditional way is to use the sum of the dots on all the other players’ tiles. Rounds are played until a player reaches 50 or 100. For little ones, a better scoring system is to let the winner have the score which is the count of all the other players’ tiles.\n"
+"\n"
+"**Matching options:** When your child starts adding, change the rule for matching – two tiles match if their numbers add up to six (or nine if using a larger range of dominoes)."
+msgstr ""
+"**Options de notation :** Le score du vainqueur peut être calculé de deux manières. La méthode traditionnelle consiste à utiliser la somme des points sur toutes les tuiles des autres joueurs. Les manches sont jouées jusqu'à ce qu'un joueur atteigne 50 ou 100. Pour les plus petits, un meilleur système de notation consiste à laisser au vainqueur le score correspondant au nombre de tuiles de tous les autres joueurs.\n"
+"\n"
+"**Variation :** Quand votre enfant commence à faire des additions, changez la règle de correspondance: deux tuiles correspondent si l'addition de leurs nombres est égale à six (ou neuf si vous utilisez une plus grande gamme de dominos)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "ENTRE UN ET DEUX"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**La mise en place :** Créez une pile de cartes de nombres avec un éventail de quantités avec lesquelles votre enfant se sent à l'aise. Répartissez les cartes entre deux joueurs et placez-les face cachée."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**Comment jouer :** À tour de rôle, les joueurs placent une seule carte sur la pile qui se trouve au milieu d’eux. Si la carte est une de plus, la même ou une de moins que la carte précédente, le premier joueur à dire « une de plus », « la même » ou « une de moins » gagne toutes les cartes de la pile actuelle.\n"
+"\n"
+"**Comment gagner :** La personne qui gagne est celle qui a la plus grande pile de cartes lorsque vous arrêtez de jouer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* Incluez les relations « deux de plus » et « deux de moins » comme options.\n"
+"* Fixez une somme cible, par exemple 10. Soyez le premier à dire que la somme des deux cartes supérieures est égale à l'objectif."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "JEU DE NIM AVEC UN ET DEUX"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "Numéros proches"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 10. Let your child choose to go first or second. \n"
+"\n"
+"**How to play:** Start at 0. Players take turns adding 1 or 2 to the current total. Count aloud the progress for each turn.\n"
+"\n"
+"**How to win:** The player who lands on the target (e.g. 10) wins."
+msgstr ""
+"**La mise en place :** Choisissez un nombre cible, par exemple 10. Laissez votre enfant choisir de passer en premier ou en second.\n"
+"\n"
+"**Comment jouer :** Commencez à 0. À tour de rôle, les joueurs ajoutent 1 ou 2 au total actuel. Comptez à haute voix les progrès réalisés à chaque tour.\n"
+"\n"
+"**Comment gagner :** Le joueur qui atteint la cible (par exemple 10) gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Once children learn to play this verbally, it is a great travel game.\n"
+"• Use a pile of objects. Players add one or two objects to the pile until the target quantity\n"
+"is reached.\n"
+"• Use a number line. Advance a marker along the line one or two spaces during a move.\n"
+"• Use subtraction. Players start at the target, say 10. On their turn, players choose whether\n"
+"to subtract 1 or 2. The first person to reach 0 wins.\n"
+"• Use larger target numbers as your child’s skills improve.\n"
+"• Instead of winning, the player forced to hit or go beyond the target number loses.\n"
+"• Allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"* Une fois que les enfants ont appris à jouer à ce jeu verbalement, il devient un excellent jeu de voyage.\n"
+"* Utilisez une pile d'objets. Les joueurs ajoutent un ou deux objets à la pile jusqu'à ce que la cible soit atteinte.\n"
+"* Utilisez une ligne numérique. Avancez un marqueur le long de la ligne d'une ou deux positions pour effectuer un déplacement.\n"
+"* Utilisez la soustraction. Les joueurs commencent par la cible, disons 10. À leur tour, les joueurs choisissent de soustraire 1 ou 2. Le premier à atteindre 0 gagne.\n"
+"* Utilisez des nombres cibles plus importants au fur et à mesure que les compétences de votre enfant s'améliorent.\n"
+"* Au lieu de gagner, le joueur contraint d'atteindre ou de dépasser le nombre cible perd.\n"
+"* Permettez à un joueur d'ajouter (ou de soustraire) 1, 2 ou 3 à chaque tour."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – SINGLE-DIGIT COMPARING"
+msgstr "BATAILLE - COMPARAISON À UN CHIFFRE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove the cards from two, four, or six Number Decks outside your child’s comfort range. Split the cards evenly in two piles face down."
+msgstr "**La mise en place :** Retirez les cartes de deux, quatre ou six jeux de nombres en dehors de la zone de confort de votre enfant. Répartissez les cartes en deux piles égales, face cachée."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Flip over the top cards and the player with the larger card keeps both cards. If the cards match, flip the next two cards and the winner gets all four cards."
+msgstr "**Comment jouer :** Retournez les cartes du dessus et le joueur qui a la carte la plus grande garde les deux cartes. Si les cartes correspondent, on retourne les deux cartes suivantes et le gagnant obtient les quatre cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The player with the most cards after one or more runs through all the cards is the winner.\n"
+"\n"
+"**Variations:** To change things up, sometimes play that the smaller of the two cards wins."
+msgstr ""
+"**Comment gagner :** Le joueur qui possède le plus grand nombre de cartes après un ou plusieurs passages est le gagnant.\n"
+"\n"
+"**Variations :** Pour changer un peu, on peut parfois faire en sorte que la plus petite des deux cartes l'emporte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing"
+msgstr "Comparer"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is an introductory version of a fun game we will revisit again soon.\n"
+"\n"
+"**How to play:** There are two people: the Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (for example). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number.\n"
+"\n"
+"**Use cards:** With younger children, play this game with counting cards from 0 to 8 placed face up. Hide a star under one of the cards. After each guess, the Questioner turns over all the eliminated cards until the star is discovered."
+msgstr ""
+"Il s'agit d'une version introductive d'un jeu amusant que nous reverrons bientôt.\n"
+"\n"
+"**Comment jouer :** Il y a deux personnes : l'As du Casse-Tête pense à un nombre et le Devineur découvre le nombre. L'As du Casse-Tête déclare : « Je pense à un nombre de 0 à 8 » (par exemple). Le Devineur pose alors des questions du type « Quel est le rapport entre ton nombre et 3 ? ». L'As du Casse-Tête répond que le nombre est plus petit, égal ou plus grand que ce nombre.\n"
+"\n"
+"**Utiliser les cartes :** Avec des enfants plus jeunes, jouer à ce jeu en comptant les cartes de 0 à 8 placées face visible. Cachez une étoile sous l'une des cartes. Après chaque devinette, le Devineur retourne toutes les cartes éliminées jusqu'à ce qu'il découvre l'étoile."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** The game pictured above uses cards with a target of 5.\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. \n"
+"Question: How does your number compare to 3? \n"
+"Puzzler: My number is larger than 3.\n"
+"Question: How does your number compare to 6? \n"
+"Puzzler: My number is smaller than 6.\n"
+"Question: How does your number compare to 5? \n"
+"Puzzler: Well done! My number is equal to 5."
+msgstr ""
+"**Exemple :** Voici un jeu avec une cible de 5 :\n"
+"\n"
+"Enigme : Je pense à un nombre de 0 à 8.\n"
+"Question : Quel est le rapport entre ton nombre et 3?\n"
+"Enigme : Mon nombre est supérieur à 3.\n"
+"Question : Quel est le rapport entre ton nombre et 6?\n"
+"Enigme : Mon nombre est inférieur à 6.\n"
+"Question: Quel est le rapport entre ton nombre et 5?\n"
+"Enigme : Bravo ! Mon nombre est égal à 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "S'ADAPTER"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "Donnez à votre enfant un petit nombre de petits objets, disons sept, et comptez-les ensemble. Choisissez un nombre cible, par exemple cinq."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "Demandez à votre enfant de prendre cinq objets dans le groupe initial de sept objets, si c'est possible. Cela permet à votre enfant d'apprendre la taille relative des nombres et de savoir de combien ils sont plus ou moins grands l'un par rapport à l'autre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "Au début, le nombre cible doit être inférieur ou égal au nombre total. Par la suite, le fait de donner des nombres trop élevés permet de s'exercer à la taille relative des quantités et de vérifier que les demandes sont raisonnables."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "ADDITION ET SOUSTRACTION INVISIBLES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**Tout d’abord :** Demandez à votre enfant de compter un petit nombre d'objets et de les mettre dans une boîte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**Ensuite :** Demandez-lui de lever autant de doigts qu'il y a d'objets dans la boîte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**Enfin :** Montrez à votre enfant que vous ajoutez (ou retirez) un ou deux objets de la boîte et demandez-lui : « Combien d'objets y a-t-il maintenant dans la boîte ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "Quand ça devient trop facile, il est possible d'ajouter ou de retirer plus de deux objets."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "BATAILLE NAVALE DE LIGNES DE NOMBRES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**La mise en place :** Chaque joueur dispose de deux lignes de nombres, l'une pour ses navires de guerre et l'autre pour ses devinettes. Ces lignes vont de 0 à 12 (ou plus si les enfants savent compter au-delà de 12). À l'abri des regards, sur la ligne des nombres de son navire, chaque joueur place des jetons sur deux nombres qui seront ceux de son navire."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**Comment jouer :** Après la mise en place, les joueurs devinent les nombres à tour de rôle. Lorsqu'un joueur devine un nombre, l'autre joueur dit à quelle distance il se trouve de la cible la plus proche - le joueur qui a deviné inscrit alors cette information sur sa deuxième ligne de chiffres.\n"
+"\n"
+"**Comment gagner :** La première personne à atteindre toutes les cibles a gagné."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* Utilisez une plus grande plage de nombres.\n"
+"* La réponse à une supposition peut être une fourchette de distances plutôt qu'une quantité exacte - par exemple : « le navire le plus proche est à 1 ou 2 distance ».\n"
+"* Utilisez des navires d'une longueur de deux ou trois espaces."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "QU'EST-CE QUI MANQUE ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "Nombres plus Grands et plus Petits"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "Comptez un petit nombre de petites choses. Cachez-en quelques-unes pendant que votre enfant regarde ailleurs. Lorsque votre enfant se retourne, demandez-lui combien sont cachées."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**Exemple :** Supposons que vous avez 6 raisins secs sur une table. Demandez à votre enfant de regarder ailleurs et recouvrez 2 d'entre eux avec un bol. Quand votre enfant se retourne, comptez les 4 raisins secs visibles et demandez-lui combien il y a de raisins secs sous le bol, s'il y en a 6 au total."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "Raisonnement"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "Une manière pour votre enfant de comprendre ce principe est de « compter » de 4 à 6 - au fur et à mesure que votre enfant compte 4, 5 et 6, commencez avec 0 doigt levé et levez un doigt à chaque fois pour arriver à 2 doigts levés. De même, votre enfant peut faire presque la même chose en « comptant à rebours » de 6 à 4. Le fait de voir que 4 plus 2 de plus font 6 est lié au fait d'enlever 2 de 6 pour obtenir 4 est un excellent exercice pour comprendre les familles de tables."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "JEU D'ASSOCIATION DE CARACTÉRISTIQUES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr "Les Cartes de Forme ont trois propriétés : forme (cercle, triangle, carré) ; nombre (un, deux, trois) ; couleur (rouge, bleu, noir)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**La mise en place :** Distribuez cinq cartes à chaque joueur. Placez les cartes restantes face cachée dans une pioche. Retournez la carte supérieure de la pioche face visible pour commencer une nouvelle pile. À tour de rôle, les joueurs placent une carte sur la pile - la nouvelle carte doit correspondre à deux caractéristiques de la carte supérieure. Si vous ne pouvez pas jouer de carte à votre tour, tirez une carte de la pioche et terminez votre tour.\n"
+"\n"
+"**Comment gagner :** Le premier à ne plus avoir de cartes est le gagnant. Si la pioche est épuisée, le joueur qui a le moins de cartes en main gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* Simplifiez le jeu en n'exigeant que la correspondance d'une propriété avec la carte supérieure.\n"
+"* Autorisez un joueur à placer plus d'une carte lors d'un tour, à condition que chaque carte soit jouée légalement par-dessus la carte précédente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "PUZZLE D'ASSOCIATION DE CARACTÉRISTIQUES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "Choisissez une Carte de Forme comme carte de départ. Dans notre exemple, il s'agit de la carte avec deux cercles bleus. Créez une séquence de 4 à 8 cartes qui peuvent être jouées légalement - chaque carte doit partager deux caractéristiques avec la carte précédente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"Mettez les cartes inutilisées de côté, séparez la carte de départ et mélangez les cartes du puzzle.\n"
+"\n"
+"**Le défi :** Prenez les cartes mélangées et placez-les dans une série de mouvements légaux sur la carte de départ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "TRIPLET"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"**La mise en place:** Préparez une grille de tic-tac-toe suffisamment grande pour que chaque case puisse contenir une carte de forme. Placez autour de la grille 8 cartes-formes ayant deux propriétés différentes. Par exemple, choisissez les 8 cartes qui sont soit un triangle, soit un carré, qui ont une ou deux figures et qui sont rouges ou bleues.\n"
+"\n"
+"**Comment jouer:** A tour de rôle, les joueurs choisissent une carte inutilisée que leur adversaire place sur le plateau. Les cartes sur le plateau peuvent être utilisées par l’un ou l’autre des joueurs pour obtenir trois d'affilée."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**Comment gagner :** Le joueur gagnant est celui qui place une carte qui complète 3 cartes à la suite ayant au moins une propriété en commun ! Si toutes les cartes sont jouées sans qu’il y ait de gagnant, il y a égalité."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "Simplifiez le jeu et ajoutez un élément de chance en plaçant les cartes face cachée dans une pioche et en demandant à chaque joueur de jouer la carte supérieure."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "SUDOKU DES FORMES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "Jeux de Formes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**La mise en place :** Utilisez quatre jetons de quatre types différents. Par exemple, utilisez des oursons en gélatine de différentes couleurs. Nous avons utilisé des triangles oranges, des carrés bleus, des cercles rouges et des diamants violets.\n"
+"\n"
+"**Comment créer :** Créez l’un de ces puzzles en commençant par la réponse - il s’agira d’un modèle de jetons avec un jeton de chaque sorte dans chaque ligne et chaque colonne, et un jeton de chaque sorte dans chaque case d’angle 2 par 2 de la grille. Une fois que vous avez la réponse, retirez quelques jetons et placez-les sur le côté.\n"
+"\n"
+"**Le défi :** Donnez le puzzle à votre enfant pour qu’il trouve le moyen de mettre en place les jetons qui ont été retirés."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "Stratégies de création de puzzles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "Voici quelques stratégies simples pour créer des puzzles : retirer un jeton de chaque ligne ; retirer tous les jetons d’un type et un jeton de chacun des autres jetons ; ou retirer une ligne et une colonne entière."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "MAINS MAGIQUES - ADDITION ET SOUSTRACTION"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "Il s’agit d’un tour de magie pour pratiquer l’addition et la soustraction. Faites-le assez lentement pour que votre enfant ait le temps de voir ce qui se passe."
 
 #. type=data_list
 msgctxt "data_list"
