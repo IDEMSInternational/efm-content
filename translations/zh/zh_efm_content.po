@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-10 19:45\n"
+"PO-Revision-Date: 2025-06-10 20:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7629,6 +7629,697 @@ msgstr "**最後:** 向您的孩子展示，您向盒子裡新增或移除了一
 msgctxt "data_list"
 msgid "When this becomes too easy, you can add or remove more than two objects."
 msgstr "如果這對您的孩子太簡單，您可以往盒子里新增或移除兩個以上的物體。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "座標戰艦"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**遊戲設定：** 每位玩家都有兩條座標軸——一條用於設置他們的戰艦，一條用於猜測對方戰艦的位置。座標的範圍是0到12（如果孩子們可以數到更大的數字，也可以擴大座標軸的範圍）。在他們的座標軸上看不見的地方，每位玩家在兩個數字上放置標記，這些數字將成為他們的戰艦。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**玩法：** 放置完標記後，玩家輪流猜對方的數字。當一位玩家猜測時，另一位玩家會說出猜測離最近戰艦坐標的距離——然後猜測者在他們的第二條數線上記錄下這些資訊。\n"
+"\n"
+"**贏家是：** 成功找到所有戰艦座標的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* 擴大座標的範圍。\n"
+"* 可以用一個範圍的距離進行反饋，而不是精確的數量，例如：「距離最近的戰艦1到2個坐標。」\n"
+"* 包含長度為兩個或三個座標的戰艦。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "少了什麼？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "更大和更小的數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "數一堆小物體。在孩子閉上眼睛的時候藏起來一些。當孩子再次睜開眼睛時，問他們少了哪些。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**例子:** 假設在桌子上有6顆葡萄乾。讓您的孩子把目光移開，然後用一個碗蓋住其中的2顆。當孩子看回來時，數出桌面上剩下的4顆葡萄乾，並問如果總共有6顆的葡萄乾話，在碗下有多少顆。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "推理"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "一種找出答案的方法是從4開始數到6——當孩子數4、5和6時，逐根抬起手指。從0根手指開始，直到抬起2根手指。同樣，您的孩子可以透過類似的方法，從6開始倒數到4。將「4加2等於6」和「6減2等於4」聯絡在一起，是理解算式家族（Fact Families）的絕佳練習。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "特徵匹配遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr ""
+"形狀卡片具有三個屬性：\n"
+"形狀（圓形、三角形、正方形）；\n"
+"數量（一個、兩個、三個）；\n"
+"顏色（紅色、藍色、黑色）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**遊戲設定：** 給每個玩家發五張卡片，將剩餘的卡片面朝下放在牌堆中。將抽牌堆頂部的牌翻开，作為新的一疊卡。玩家輪流將一張卡片放在新的牌堆上——新卡片必須與牌堆頂部卡片的兩個特徵相同。如果您在您的回合無牌可出，就從抽牌堆中抽一張牌，並結束您的回合。\n"
+"\n"
+"**贏家是：** 第一個打完手中的牌的人獲勝。如果抽牌堆用完了，則剩餘牌最少的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* 簡化遊戲規則，手中只需要與頂部卡片有一個屬性相同就可以被打出。\n"
+"* 允許玩家在一個回合中放置多張卡片，只要每張卡片都是按規則打出的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "特徵匹配拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "以一個形狀卡片作為起始卡片。在我們的例子中，這是一張卡面上有兩個藍色圓圈的卡片。建立一個由4到8張卡片組成的序列，這些卡片可以按規則地打出，即每張卡片必須與前一張卡片有兩個相同的特徵。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"將未使用的卡片放在一旁，將起始卡片單獨放置，然後洗混拼圖卡片。\n"
+"\n"
+"**挑戰:** 拿起洗過的卡片，並在起始卡片上進行一系列符合規則的移動。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "三張一樣的牌"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"**遊戲設定：** 製作一個足夠大的井字網格，讓每個格子的大小都能容納一張形狀卡片。在棋盤周圍放置8張具有兩種屬性的形狀卡片。例如，選擇8張卡片，它們包含一到兩個圖形，形狀是三角形或正方形，顏色是紅色或藍色。\n"
+"\n"
+"**玩法：** 玩家輪流選擇一張未使用的卡片給對手，對手將其放置在棋盤上。棋盤上的卡片可以被任一玩家使用來組成三張連成一線的卡牌。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**贏家是：** 當一名玩家在一行上有三張至少有一個屬性相同卡片時，該玩家獲勝。如果所有的卡片都被用完卻沒有產生贏家時，則為平局。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "簡化遊戲，並新增一些運氣因素。方法是將卡片面朝下放在一堆抽牌中，然後每個玩家輪流翻開頂部的卡片並進行遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "形狀數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "形狀遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**遊戲設定：** 使用四種不同型別的每種四個令牌。例如，使用不同顏色的軟糖熊。例子中使用了橙色三角形、藍色正方形、紅色圓圈和紫色菱形。\n"
+"\n"
+"**怎麼做:** 透過從完成的數獨上製作一個這樣的謎題。4x4的正方形的每行和每列中會包含4個不重複的圖案令牌，同時每個2x2的方框中也只會包含4個不重複的圖案令牌。一旦您有了「答案」，就把一些令牌拿掉放在一邊。\n"
+"\n"
+"**挑戰:** 把這個謎題給您的孩子，讓他們想辦法把被拿走的令牌放回去。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "建立形狀數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "以下是一些建立謎題的簡單策略：從每行中移除一個令牌；移除一種型別的所有令牌以及其他型別的令牌各一個；或者移除一整行和一整列的令牌。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "神奇的手：加法和減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "這是一個練習加法和減法的神奇技巧。請慢慢地演示，讓您的孩子有機會看清楚發生了什麼。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**對於加法:** 選擇兩個相加不超過5的數字。例如，左手舉起的手指數為3，右手為1。將雙手靠在一起，然後將右手舉起的手指轉移到左手上——現在左手上有4根手指舉起。神奇吧！\n"
+"\n"
+"總結說：「3根手指再加上1根手指就是4根手指。噠噠！」\n"
+"\n"
+"**對於減法:** 在您的左手舉起幾根手指，比如說4根。然後讓右手伸過去抓住其中一根手指，比如說1根。看，左手剩下3根手指而右手上舉起1根手指。總結一下，您可以說4減去1等於3，或者說把4分成了兩部分，分別是3和1。這種措辭強調了數字配對的概念，即兩個數字的組合加起來等於給定的總數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "重要的特殊情況"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* 加法：讓一個或兩隻手都舉起0根手指，並展示當加0時沒有任何變化。\n"
+"* 減法：減去所有的手指，使其不留下任何多餘的手指，並有時不減去任何手指以表明沒有任何變化。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "快速顯示數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "開始手指算術"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"幫助您的孩子輕鬆快速地識別物體的數量。有兩種練習方法。\n"
+"\n"
+"**使用十框圖:** 十框圖即一個被均勻分為10個小正方形的大長方形，小正方形中可以填上任意圖案。隨機選一張畫著十框圖的卡片，看看您的孩子是否能分辨出圖案的數量。如果您想增加遊戲的多樣性，可以讓您的孩子向您提問。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**使用手指:** 在一隻手或兩隻手上展示幾根手指，並讓您的孩子說出總數。當用兩隻手表示超過五的數字時，其中一隻手應該舉起5根手指——這樣看起來就像一個十框圖。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "切割對稱形狀"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions."
+msgstr "剪紙藝術是一種剪下摺疊紙張來創造設計的藝術。紙張可能被多次摺疊，並且是朝不同方向摺疊。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other."
+msgstr "將紙張摺疊一次然後剪裁會創建出一種設計，即其中一側是另一側的映象對稱圖案。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ideas to explore"
+msgstr "探索的想法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Experiment with cutting out faces, lamps, or geometric shapes.\n"
+"• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n"
+"• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape."
+msgstr ""
+"* 嘗試剪出臉、燈或幾何形狀的設計\n"
+"* 使用兩個交叉摺疊來建立在兩個方向上都有映象圖案的設計。這種摺疊更容易設計花朵等形狀。\n"
+"* 嘗試各種摺疊和剪裁。透過與上一個示例相同的兩個摺疊開始，建立雪花設計。然後使用另外兩個摺疊將紙張三等分。 \n"
+"* 製作一個遊戲，透過反向操作來進行——在一張紙上畫出一個對稱形狀，然後挑戰用摺疊和剪裁製作出該形狀。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "尋找正方形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "圖表"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
+"\n"
+"**How to play:** Players take turns putting their tokens on points where the lines cross in the grid."
+msgstr ""
+"**遊戲設定：** 使用五條水平和垂直線建立一個5x5的網格。\n"
+"\n"
+"**玩法：** 玩家輪流將他們的標記放在網格中線相交的點上。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The first player with four tokens on the corners of a square of any size wins."
+msgstr "**贏家是：** 第一個在任意大小的正方形的四個角上放置四個標記的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow squares with diagonal sides (pictured above).\n"
+"• Use grids larger than 5 by 5."
+msgstr ""
+"* 允許出現有對角邊的正方形。\n"
+"* 使用大於5x5的網格。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAG STORIES – ADD AND SUBTRACT"
+msgstr "袋子的故事 ：加法和減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”"
+msgstr "**關於袋子的故事:** 您和您的孩子假裝各自擁有一個裝著東西的袋子。一個人編一個故事，比如：「你的袋子裡有3顆葡萄乾，我的多了1顆。那麼我有多少顆？」當您的孩子逐漸熟悉遊戲規則後，讓孩子提出問題。這通常對他們來說很有趣，尤其當您偶爾「犯錯」的話。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n"
+"\n"
+"**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”"
+msgstr ""
+"**增加複雜性:** 這些故事可以隨著您孩子游戲經驗的增加變得更復雜。例如，故事可以是：「我比你少兩塊餅乾，我們一共有6塊餅乾。那麼你有多少塊餅乾？」另一個例子是：「你有我兩倍的糖果，我們一共有9顆。那麼你有多少顆糖果？」\n"
+"\n"
+"**其他的故事:** 袋子和食物的概念可以被魚缸和兩種或以上種類的魚取代，或者使用其他吸引孩子的任何形象。對於一個魚缸，您可以編造這樣一個故事：「魚缸裡有7條魚，金魚的數量比霓虹燈魚多1條。那麼缸裡有多少條金魚？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH STORIES"
+msgstr "數學故事"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "數字的故事"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories are a fun way to add interest to calculations. Here are two examples of such stories:"
+msgstr "故事是讓計算更有趣的辦法。以下是兩個例子："
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n"
+"\n"
+"**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?"
+msgstr ""
+"**椅子:** 房間裡有4把椅子。一開始有2個人，但後來又來了3個人。每個人都能坐下嗎？這比簡單地問2+3是否大於4更有趣。\n"
+"\n"
+"**冰淇淋:** 我和我的兩個朋友正在吃冰淇淋。我會給每個朋友比我多一個球的冰淇淋。如果有10個球的冰淇淋，我會有多少個球的冰淇淋？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions."
+msgstr "選擇一些您孩子感興趣的話題，比如食物或動物。隨著孩子的進步，讓一些故事有些模糊，這樣孩子就需要更多地分析，並學會要求澄清某些細節。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
+msgstr "透過在活動中進入變數名稱的概念，例如，在填空中用有意思的名字替代缺失的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – 1 MORE/LESS"
+msgstr "離開我的房子"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this."
+msgstr "**遊戲設定：** 使用一副數字從1到10的撲克牌。在一張紙上畫出從0到11編號的方框或簡單的房屋圖案。為了練習排序，不要按順序放置這些方框或房屋。每位玩家有7個與其他玩家不同的標記，如不同顏色的標記。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to place all their tokens wins."
+msgstr ""
+"**玩法：** 輪到玩家行動時，玩家抽取一張卡片，並將自己的標記放在任何一個房屋裡，只要該房屋的編號比抽取的卡片數字大一或小一，前提是該房屋裡沒有3個以上對手的標記。如果房屋裡有一個到兩個對手的標記，那麼玩家說「離開我的房子」並這些標記歸還給對手。\n"
+"\n"
+"**贏家是：** 第一個成功放置完自己的標記的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n"
+"• Use a smaller or larger range of Number Cards and boxes.\n"
+"• Allow moves to houses that are 2 numbers more or less."
+msgstr ""
+"* 對於還沒有準備好處理數字的孩子，可以使用數字卡片和帶有點數量的方框/房子。\n"
+"* 可以使用更小或更大數字範圍的卡片和方框/房子。\n"
+"* 允許移動到數字大或小2的方框/房子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE IN-BETWEEN GAME"
+msgstr "中間遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "順序"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens."
+msgstr "**遊戲設定：** 使用從0到10的一副卡牌。可以使用數字卡片或以皇后為0，A為1的撲克牌。每位玩家獲得20個標記。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n"
+"\n"
+"**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins."
+msgstr ""
+"**玩法：** 輪到玩家行動時，發三張牌給他們。兩張牌面朝上，中間的一張牌面朝下。玩家決定下注0到3個標記，認為第三張牌的大小在這兩張牌之間。如果玩家猜對了，他們從另一個玩家那裡獲得相應數量的標記。如果玩家猜錯了，同樣數量的標記將轉移到另一個玩家那裡。\n"
+"\n"
+"**贏家是：** 遊戲可以進行五輪，或者直到一位玩家的標記用完為止。最後擁有最多標記的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SUDOKU"
+msgstr "數字數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These are similar to the Shape Sudokus, only now they use numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper."
+msgstr ""
+"**遊戲設定：** 這個遊戲與形狀數獨相似，只是現在使用數字（或點的數量）。使用編號（或帶點的）紙片來避免擦去數字的麻煩。\n"
+"\n"
+"對於一個4x4的謎題，每行和每列都包含不重複的數字1到4。此外，每個標記的子區域都包含不重複的1到4。就這麼簡單！透過從完成的數獨中移除一些紙片來為您的孩子製作謎題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Variations:** For variety, use irregularly-sized subregions – these are called Jigsaw Sudoku puzzles. You can also create puzzles of larger size (two 5 by 5 puzzles are shown)."
+msgstr "**變體：** 為了增加變化，使用不規則大小的子區域 - 這些被稱為拼圖數獨。您還可以建立更大尺寸的數獨（右圖展示了兩個5x5的謎題）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU – COMPARING"
+msgstr "數獨 – 比較"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship.\n"
+"\n"
+"**Hungry alligator:** Tell a child who has never seen a comparison symbol, >, that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number.\n"
+"\n"
+"**Solving strategy:** First look for where the smallest and largest numbers are."
+msgstr ""
+"這些謎題以與常規數獨有著相同的規則：每個數字在每行、每列和每個子區域中都只出現一次。此外，如果在兩個單元格之間有一個小於或大於符號，則單元格中的數字必須遵守該大小關係。\n"
+"\n"
+"**飢餓的鱷魚:** 對於從未見過比較符號 （\">\"） 的孩子，您可以告訴他，較大的數字位於符號的較寬部分的那一側。有些人說這個符號像一隻飢餓的鱷魚，它總是希望它的嘴朝向較大的數字那一側。\n"
+"\n"
+"**解決技巧:** 首先尋找最小和最大的數字的位置。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n"
+"\n"
+"**Puzzle creation:** Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to get them started."
+msgstr ""
+"隨著孩子的進步，透過省略更多的不等式符號來增加謎題的難度。\n"
+"\n"
+"**拼圖建立:** 使用已完成的數獨謎題建立這些謎題。在相同幾何結構的空白網格上放置大於和小於符號。如果您的孩子遇到困難，可以在數獨中放一些數字來幫助他們開始。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE ME A LIAR"
+msgstr "幫我撒謊"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Someone makes a statement and the other players attempt to show that the statement maker is lying. The goal is to come up with a counterexample that shows that the statement is not always true.\n"
+"\n"
+"**Always true:** One type of statement is saying something is always true. Examples are:\n"
+"\n"
+"• All trucks have four wheels\n"
+"• All rectangles are squares\n"
+"• All birds can fly\n"
+"\n"
+"**If -> then:** Another type of statement is of the form “if then”. Examples are:\n"
+"\n"
+"• If today is Monday, then it is a school day\n"
+"• If I don’t eat for three hours, then I am hungry\n"
+"• If a person is taller than someone, then they are older"
+msgstr ""
+"一名玩家提出一個陳述，其他玩家試圖證明陳述者在撒謊。目標是提出一個反例，證明該陳述並不總是正確的。\n"
+"\n"
+"**總是真的:** 一種型別的陳述是說某件事情總是真實的。例子包括：\n"
+"\n"
+"* 所有卡車都有四個車輪。\n"
+"* 所有長方形都是正方形。\n"
+"* 所有鳥都能飛。\n"
+"\n"
+"**如果 -> 那麼:** 另一種型別的陳述是「如果……那麼..……」。例如：\n"
+"\n"
+"* 如果今天是星期一，那麼今天就要上學。\n"
+"* 如果我三個小時不吃東西，那麼我會餓。\n"
+"* 如果一個人比另一個人高，那麼他們年紀更大。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CODEBREAKER"
+msgstr "密碼破譯者"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being Logical"
+msgstr "學會邏輯"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
+msgstr "**遊戲設定：** 一名玩家是程式碼大師，負責創造一個密碼。另一名玩家是密碼破譯者，負責破譯密碼。假設密碼有三位數，每個位置可以是1到5之間的數字。比如密碼是321。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code."
+msgstr "**破譯程式碼:** 密碼破譯者猜測一個密碼，程式碼大師反饋猜測有多接近真實密碼。例如，密碼破譯者猜測為131，程式碼大師會說有一個位置的數字完全正確，另一個位置上的數字正確但位置不對。遊戲繼續進行，直到密碼破譯者破譯出密碼為止。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "**贏家是：** 猜測的次數即為密碼破譯者的得分。得分最低者獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Add challenge by having a maximum number of questions that are allowed.\n"
+"• Allow or disallow repeated numbers in the code.\n"
+"• Use shorter or longer lengths for the code.\n"
+"• Use a narrower or wider range of numbers for each place of the code."
+msgstr ""
+"* 透過設定最大允許的問題數量來增加挑戰難度。\n"
+"* 允許或禁止密碼中使用重複數字。\n"
+"* 使用較短或較長的程式碼長度。\n"
+"* 在密碼的每個位置使用較大或較小範圍的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "10以內的手指加法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "我們將使用 4+2 來演示兩種方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**模式 1:** 這種方法適用於兩個數字都小於等於5的情況。在一隻手上伸出4根手指，在另一隻手上伸出2根手指。將兩隻手靠在一起——噠噠！4和2合在一起變成了6。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**模式 2:** 使用「從其中一個數字開始計數」來達到任何小於等於10的和。\n"
+"\n"
+"**舉例:** 要將4和2相加，可以在一隻手上伸出4根手指，然後大聲數0到2。對於每個從0開始後面的數字，再多伸出一個手指。當數到2時，應該有6根手指豎起來。\n"
+"\n"
+"這種方法可以用於數字大於5的加法。您的孩子會意識到，從較大的手指數開始，並用較小的數字進行計數會更容易。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "10以內的手指減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "手指數學"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "減法有兩種心理模型——「取走」或「差值」。您的孩子應該對這兩種模型都很熟悉。下面是計算8 - 5的兩種方法："
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "取走(左邊):} 8 - 5可以理解為從8開始取走5個後剩下多少。首先，伸出8根手指。接下來，大聲從0數到5，對於每個從0開始的數字，將一根手指放下。當數到5時，還剩下三根手指豎起來。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"**右邊):** 這種模型將8 - 5視為找到兩個數字之間的差異。首先，伸出5根手指。然後數新伸出的手指，當有8根手指豎起來時，差值3就已經被計算出來了。\n"
+"\n"
+"這種方法使用了「從某個數字開始計數」的加法方法來找出加到5得到8的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "將這些方法應用在一個數字被減去自己，以及其中一個數字減去0的情況中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n"
+"\n"
+"**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n"
+"\n"
+"**Example:** The Puzzler thinks of 11. The discussion could go like this:\n"
+"\n"
+"• Puzzler: Stripes is a number between 0 and 15.\n"
+"• Questioner: How does Stripes compare to 8?\n"
+"• Puzzler: Stripes is bigger than 8.\n"
+"• Questioner: How does Stripes compare to 12? \n"
+"• Puzzler: Stripes is less than 12.\n"
+"• Questioner: How does Stripes compare to 10? \n"
+"• Puzzler: Stripes is bigger than 10.\n"
+"• Questioner: Is your number 11?\n"
+"• Puzzler: Yes, congratulations!"
+msgstr ""
+"**遊戲設置：** 有兩個人 - 出題者在心里想一個數，提問者來猜這個數。 \n"
+"\n"
+"**玩法：** 開始時，出題者說：「鮑澤是一個介於0到12之間的數字。」然後提問者問：「鮑澤與4比怎麼樣？」然後出題者回答鮑澤比4大或小，還是等於4。\n"
+"\n"
+"**例子:** 如果出題者想的是11。對話可能會是這樣：\n"
+"\n"
+"* 出題者：花臉是一個介於0到15之間的數字\n"
+"* 提問者：花臉與8比怎麼樣？\n"
+"* 出題者：花臉比8大。\n"
+"* 提問者：花臉與12比怎麼樣？\n"
+"* 出題者：花臉比12小。\n"
+"* 提問者：花臉與10比怎麼樣？\n"
+"* 出題者：花臉比10大。\n"
+"* 提問者：您想的數字是11嗎？\n"
+"* 出題者：是的，恭喜！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n"
+"\n"
+"As your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”"
+msgstr ""
+"將這個過程變成一個遊戲，通過計算問題的數量來確定勝負。交替輪流後，提問問題數量較少的玩家獲勝。 \n"
+"\n"
+"隨著您孩子數學的進步，可以嘗試其他型別的問題，比如「鮑澤是偶數嗎？」或「鮑澤是質數嗎？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ESTIMATION GAME"
+msgstr "估算遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n"
+"\n"
+"Force yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest."
+msgstr ""
+"通過對人群的規模做出準確的估計來培養對數量的概念。比如估算排隊的人數。 \n"
+"\n"
+"強迫自己在不數數的情況下進行快速估算。在每個人都給出估算結果後，數出準確的人數，然後獎勵估算人數最接近實際數量的人。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15 SLIDING PUZZLE"
+msgstr "15 滑塊拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "數字排序"
 
 #. type=data_list
 msgctxt "data_list"
