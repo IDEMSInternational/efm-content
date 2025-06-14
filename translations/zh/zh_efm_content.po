@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-14 05:14\n"
+"PO-Revision-Date: 2025-06-14 06:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9042,6 +9042,36 @@ msgstr ""
 "**奇偶數獨：** 偶數方格被標示為灰色。\n"
 "\n"
 "**Kropki數獨：** 單元格之間的空心點表示數字相差一；實心點表示一個數字是另一個數字的一半。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "和數獨, 差數獨, 和差數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "除了常規的數獨規則外，這些智力遊戲被分成了帶有目標數字的分區。 不同於標準數獨，分區內允許數字重複。 如果分區裡只有一個方格，那麼目標數字就是那個方格的值。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**和數獨：** 分區內數字總和是目標數字。\n"
+"\n"
+"**差數獨：** 分區內有一個或兩個方格。 對於兩個方格，數字差是目標數字。\n"
+"\n"
+"**和差數獨：** 分區透過一個「+」或「-」標記來指示和數或差數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "使用不同的數字組合來取代常規的1到4，為一個4x4的數獨。 例如，使用數字1、3、5和7。 如果你這樣做了，記得在智力遊戲上方列出使用的數字。"
 
 #. type=data_list
 msgctxt "data_list"
