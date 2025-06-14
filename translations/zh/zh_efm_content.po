@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-14 06:23\n"
+"PO-Revision-Date: 2025-06-14 14:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9072,6 +9072,155 @@ msgstr ""
 msgctxt "data_list"
 msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
 msgstr "使用不同的數字組合來取代常規的1到4，為一個4x4的數獨。 例如，使用數字1、3、5和7。 如果你這樣做了，記得在智力遊戲上方列出使用的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "關閉盒子"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**遊戲設定：** 每位玩家在一張紙上從1寫到9。 \n"
+"\n"
+"**遊戲玩法：** 開始一輪遊戲時，玩家要找出兩顆骰子擲出的總和。 玩家只用尚未劃去的數字，劃去一組一個或多個數字相加的總和。 如果做不到這一點，就不會有任何改變。 玩家可以事先決定只用一個骰子。\n"
+"\n"
+"**如何獲勝：** 第一個劃掉所有數字的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "擴展這個遊戲的一種方法是使用更大的數字範圍，例如到10或更多。 另一種方法是給每位玩家一次機會——遊戲繼續進行直到玩家第一次被卡住為止。 在最後，玩家的得分是他們未被劃掉的數字的總和。 得分最低的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "達成目標"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "求和組合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**遊戲設定：** 從一副撲克牌中移除所有的花牌和任何大於孩子們所能接受的數字。 洗牌，翻出五張要使用的牌和第六張作為目標牌。 剩下的牌留作抽牌堆，以便在抽出的牌上填上數字。\n"
+"\n"
+"**遊戲玩法：** 輪到玩家時，如果玩家能使用五張牌中的兩張牌的和或差來等於第六張牌，則玩家得到這三張牌，並從抽牌堆中補充新的牌。 如果玩家失敗，則翻開一張新的第六張牌，並輪到下一個玩家。\n"
+"\n"
+"**如何獲勝：** 遊戲結束時擁有最多牌的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "有幾種不同的擴充玩法你可以使用。 你可以允許玩家使用三張牌而不是兩張，甚至允許任何數量的牌來組合成第六張牌。 另一個玩法是允許混合使用加法和減法來與任意數量的牌組合。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "有幾種方法？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"數一數做某件事情的方法有多少種，其中涉及的選擇可能會引發一些有趣的調查。 以下是一些可能的方法——和孩子一起想出更多的方法吧。\n"
+"\n"
+"**調查1：** 只用紅色和藍色畫畫，你能用幾種方法畫出一個有帽子、眼睛和披風的怪物？ 如果只為帽子和披風上色，會有什麼改變？ 如果使用三種顏色，或每種顏色只能使用一次，會有什麼變化？\n"
+"\n"
+"**調查2：** 你有一排 5 顆相同的糖果。 你能用幾種方法為它們上色，使其中有 2 個紅色的和 3 個藍色的？\n"
+"\n"
+"**調查3：** 找出所有用一小組數字求和的方法。 可以考慮順序，也可以不考慮順序。 例如，如果使用1 和2，在不考慮順序的情況下，有1+1+1+1 = 2+1+1 = 2+2 三種求得4 的方法；在考慮順序的情況下，有 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 五種求得4 的方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "我怎麼做到？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "讓我數數有幾個方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"一個人給另一個人一個目標數字，讓他們想出不同的加法或減法來得到這個數字。 如果目標數是 3，那麼一開始可能是 1 + 2，但隨後會變成 1 + 5 - 3，以此類推。\n"
+"\n"
+"增加限制條件，增加挑戰性。 例如，可以不允許任何小於 4 的數字，或只允許小於 4 的數字。\n"
+"\n"
+"您可以提出以下問題，將其變成調查： 如果我只能用 1 和 2 相加，有多少種得到 5 的方法？\n"
+"\n"
+"隨著孩子學習更多的數學知識，還可以增加其他技能，如加倍減半。 例如，5 是 2的2 倍增加 1 或 2 個 10 減去 3 個 5。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "數位重組"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**遊戲設定：** 擲兩次骰子來創造一個兩位數－第一次擲骰決定十位數，第二次決定個位數。 擲五次骰子來創造出要使用的數字。\n"
+"\n"
+"**挑戰：** 使用加法、減法和組成兩位數的方式盡可能接近目標數字——得分取決於接近目標數字的程度。\n"
+"\n"
+"**如何獲勝：** 您可以在每輪比賽中決出優勝者，也可以將幾輪比賽的分數相加，以最低分數決出總冠軍。 當然，您也可以為了挑戰而不記分。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**範例1:** 假設擲出的數字是4、4、3、1和22。 第一個玩家得分為4+4+3+1+3=15；另一個玩家得分為14+4+3+3=24，另一玩家得分為34-14+3=23。\n"
+"\n"
+"**範例2:** 假設擲出的數字是1、2、5、6和43。 一位玩家接近得分為65-4+2+1=64。 另一位玩家準確得分為56+4+2+1+1=64。 第三位玩家得分為52+6+4+1+1=64也成立。 討論為什麼有些問題會有很多解法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "任意方式"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "拼湊碎片"
 
 #. type=data_list
 msgctxt "data_list"
