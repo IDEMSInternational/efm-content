@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-14 04:14\n"
+"PO-Revision-Date: 2025-06-14 05:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8371,6 +8371,677 @@ msgstr ""
 "您的孩子已經能夠在0到10之間順利地數數了，並且理解這些數值所代表的具體數量。 現在，他們已經開始掌握一些基礎的加法和減法技能。 對他們來說，能夠自信地使用小數字加減1和2的運算是學習這些技能的重要基礎。 您的孩子能夠理解小數量，並且用這些數量來進行簡單的加減法。\n"
 "\n"
 "更棒的是，您的孩子的邏輯思考能力得到了很大的提升！ 他們開始明白物體和數字都有它們自己的屬性，並且能夠使用這些屬性來進行基本的邏輯推理和解決問題。 現在，您的孩子已經能夠完全參與家庭的數學遊戲和智力遊戲中，探索他們周圍的數學世界了。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n"
+"* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n"
+"* Number Bonds – These are all pairs of numbers that add up to a specific number.\n"
+"* Ten Frames – Represent a number from 0 to 10 as that number of dots inside a 2 by 5 rectangular grid. For numbers greater than 4, the upper group of 5 squares is always filled.\n"
+"* Expanded Form – This refers to writing a multi-digit number broken down into the contribution of each of its digits. For example: 25 = 20 + 5 and 317 = 300 + 10 + 7.\n"
+"* Fact Families – This refers to a group of closely related math facts. For example, 2 + 5 = 7 is in the same family as 7 - 2 = 5 and 7 - 5 = 2.\n"
+"* Adding twins and near twins – An adding twin is adding a number to itself, such as 4 + 4. A near twin is one away from a twin, such as 4 + 5.\n"
+"* Doubling, multiplying by two, and halving, two equal parts, dividing in two – Children usu-\n"
+"ally enjoy adding twins. With that comes the idea of doubling and multiplying by 2. Also\n"
+"associated with that is halving, splitting something into two equal parts, and dividing by two.\n"
+"* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n"
+"* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
+msgstr ""
+"* 順數 – 從任意數字開始往前數，而不是總是從1開始。 這對於做加法和找出數位間的差異非常有用。\n"
+"* 倒數 – 從任意數字開始往後數。 這對於做減法以及了解數字之間的關係很有幫助。\n"
+"* 數位組合 – 所有加起來等於特定數字的一對數字。\n"
+"* 十格圖 – 在一個2*5的矩形網格圖上用點數表示0到10的數字。 對於大於4的數字，上面一排的5個格子總是被填滿的。\n"
+"* 擴充式 – 指把一個多位數字拆分，顯示出每一位數值各自代表的意義。 例：25 = 20 + 5 and 317 = 300 + 10 + 7。\n"
+"* 數位家庭 – 指一些關係密切的數學事實。 比方說，2 + 5 = 7，就和7 - 2 = 5，以及7- 5 = 2 都屬於同一個數位家庭。\n"
+"* 加同數與幾乎同數 – 加同數就是一個數加上它自己，例如4 + 4。 幾乎同數是指比加同數多1或少1，例如4 + 5。\n"
+"* 加倍，乘以2和除以2（對半分） – 孩子通常喜歡加同數的遊戲。 這就引入了加倍和乘以2的概念。 同樣，還有對半分，即把某樣東西平均分成兩部分，也就是除以2。\n"
+"* 偶數和奇數 – 偶數可以平分為兩等份。 奇數平分為兩等份時會多出一個。 偶數是同數相加的結果。\n"
+"* 以2為單位跳數 – 以2為單位往前或往後跳數，如0, 2, 4, 6或13, 11, 9, 7。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUMS"
+msgstr "圖形加法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**挑戰：** 正確填入每個圓圈裡的數字，讓每個圓圈的數字等於它下面所有圓圈裡數字的總和。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"在簡單的智力遊戲裡，大多數圓圈已經預先填好了數字。 對於年齡較大的孩子們，我們設計了包含更大數值和更巧妙解法的挑戰。\n"
+"\n"
+"**重覆出現的數字：** 我們可以選擇用非圓形的圖案來表示重複的數字。 圓圈內的數值可能會在其他的圓圈或不同形狀中重複出現，但非圓形圖案內的數值必須與所有相同形狀的其他位置的數值相符。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"例如，一個智力遊戲裡所有的正方形都代表同一個數值。 我們可以用這種方式來練習加法（加同數、加鄰近數）和除以二（對半分）。 在所舉的第一個例子中，解題者需要找出一個是8的一半的數。\n"
+"\n"
+"**如何制作：** 你可以從一個完全填滿數字的圖表開始，然後去掉一些數字來製作這樣的智力遊戲。 如果智力遊戲中某個數字出現了多次，就用一個方塊、三角形或其他形狀來取代圓圈表示這個數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MYSTERY CHANGE"
+msgstr "神秘變化"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fact Families"
+msgstr "數位家庭"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**玩法：** 讓您的孩子數一些數量不多的物品。 當他們不注意的時候，您改變這些物品的數量。 當他們再看回來時，問問他們有什麼變化。 孩子可以透過情境再現來驗證他們的猜想。\n"
+"\n"
+"**擴展玩法** 當基礎的遊戲對孩子來說變得輕鬆時，您可以鼓勵他們在回答上更具創意。 例如，如果4個東西變成了6個，他們的答案可以是「你先把這4個東西翻倍，然後又拿走了2個。」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTRODUCING 10’S"
+msgstr "探索10的世界"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. Before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The games on the next pages are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next Stage."
+msgstr ""
+"歡迎孩子們步入一個新的數學領域——數到比10個手指還多的數字！ 在這個領域裡，有許多新奇有趣的知識等著孩子去探索。 從10到20的數，每一個都比孩子已經熟悉的數字多了10。\n"
+"\n"
+"下一頁的遊戲將突顯10在數學上的連結作用，例如將6和16連結起來。 這些遊戲也試圖讓孩子們理解，16不只是一個數字，它還可以看作是10加上6。 在孩子進一步挑戰數到100之前，理解透過位值來分解來數字的方法是非常重要的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING NUMBER CARDS 1 TO 20"
+msgstr "動手製作0到20數位卡片"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
+msgstr "如果您還沒有這些材料，可以製作幾套不同類型的從0到20的數位卡片。 其中一套顯示標準數字，另一套以擴展形式表示從0到20的數字（如，0加0到9，10加0到9，20加0），還有一套使用十格圖來表示數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO WITH 10"
+msgstr "10的賓果遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Place a random collection of 16 Number Cards from 0 to 20 with expanded form on a 4 by 4 bingo board for each child.\n"
+"\n"
+"**How to play:** Generate random numbers to be called out one at a time. Mix up a collection of counting cards from 0 to 20. Select one card at a time from this pile until the first child gets four in a row and yells Bingo!"
+msgstr ""
+"**遊戲設定：** 為每個孩子準備一個4x4的賓果遊戲板，上面隨機放置16張從0到20的擴展形式數字卡片。\n"
+"\n"
+"**游戲玩法：** 產生一系列隨機數字，這些數字稍後將逐一在賓果遊戲中被叫出。 將一組0到20的標準數字卡片混合打亂，面朝下放置成一堆。 孩子輪流從這堆卡片中抽取一張，然後叫出與之相對應的數字。 其他孩子們在自己的賓果遊戲板上查找是否有被叫出的數字。 直到有孩子連成一行四張並大聲喊出「賓果」為止。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One important variation of this game is to do a “Tens-Reversed” version using cards with numerals. When a card is chosen, if it is 1 to 10, then 10 is added to find the matching value, and if it is 11 to 20, then 10 is subtracted for the matching value."
+msgstr "這個遊戲的一個有趣的擴展玩法是採用「十反轉」規則。 當選取一張卡片時，如果數字在1至10之間，則在此數字基礎上加10以找到對應值；如果數字在11至20之間，則減去10找到對應值。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE – 10’S"
+msgstr "關於10的記憶力挑戰"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting 10"
+msgstr "加10和減10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This version of the Memory Challenge game uses a Number Card deck from 0 to 20 with the rule that two numbers match if they are 10 apart. If you also have cards from 0 to 20 that use expanded form or ten frames, you should use those too. Deal a 3 by 4 grid of cards out on the table, all face-down.\n"
+"\n"
+"**How to play:** Players take turns flipping two cards face-up. If the two cards are ten apart, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards do not match, the player flips the cards back over and ends their turn.\n"
+"\n"
+"**How to win:** The game ends when the last pair of cards is taken. The player with the most cards wins."
+msgstr ""
+"**遊戲設定：** 這個記憶挑戰遊戲使用從0至20的標準數字卡片，規則是相隔10的兩個數字構成一對。 如果你有展開形式或使用十格圖形式的0至20數位卡片，也可以將它們加入遊戲。 在桌面上朝下擺放一組3行4列的卡片。\n"
+"\n"
+"**遊戲玩法：** 玩家輪流翻開兩張卡片。 如果翻開的兩張卡片數字相隔10，則玩家保留這兩張卡片，從牌堆中補充相應的卡片，並繼續自己的回合。 如果卡片不匹配，則玩家將它們翻回朝下，結束自己的回合。\n"
+"\n"
+"**如何獲勝：** 當所有卡片都被配對時遊戲結束。 擁有最多卡片的玩家勝出。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GEOMETRIC ART"
+msgstr "幾何藝術"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Similarity and symmetry are two geometric concepts your child can play with."
+msgstr "相似性和對稱性是您的孩子可以探索的兩個幾何概念。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Similar shapes:** Two shapes are similar if they have the same shape, where one may be smaller or larger than the other. Circles have the same shape, so all circles are similar. This sequence of three stars are similar.\n"
+"\n"
+"Challenge your child to pick a picture and draw it two or three times as big, or twice as small."
+msgstr ""
+"**相似圖形：** 如果兩個圖形的形狀相同，其中一個可能比另一個更大或更小，那麼這兩個圖形就是相似的。 這三個星形構成了一個相似的圖形序列。\n"
+"\n"
+"挑戰：請您的孩子挑選一張圖片，並畫出它的兩倍大或兩倍小的樣子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Mirror symmetry:** Another geometric concept to play with is mirror symmetry. Show this using a mirror with a flat side – put it down along its edge on a drawing or photo and see what the mirror image looks like. Once your child has the idea, give your child half a picture and challenge them to draw the mirror image."
+msgstr "**鏡像對稱：** 另一個可以探索的幾何概念是鏡像對稱。 你可以用一面鏡子來示範這個概念，將鏡子邊緣對準一張圖畫或照片，觀察鏡子中的反射影像。 當孩子們明白了這個概念之後，可以給他們一張圖畫的一半，並鼓勵他們完成另一半的鏡像圖繪製。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIM TRIANGLE"
+msgstr "三角遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes"
+msgstr "圖形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The two players have different colored markers. Place six (use more for a harder game) dots evenly around a circle. Players take turns drawing lines between the dots using their color. The loser is the first player forced to create a triangle all of whose sides have the player’s color and whose corners are on the circle."
+msgstr "**遊戲玩法：** 兩位玩家需要不同顏色的標記筆。 在一個圓形周圍均勻地放置六個點（想要提高難度，可以增加點數）。 玩家輪流用自己顏色的線連接這些點。 誰先被迫畫出一個完整的三角形，而這個三角形的所有邊都是該玩家的顏色，三角形的角都在圓圈上，誰就輸了。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example game:** Here is a game with 'red' moving first. This is a sequence of board positions after each of red's moves. In the last position, no matter where 'green' moves next they will form a triangle and lose."
+msgstr "**遊戲範例：** 這是一個以「紅色」先行的遊戲棋盤位置序列。 不管「綠色」接下來如何移動，在最後一個位置，「綠色」都會不可避免地形成一個三角形而輸掉遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES"
+msgstr "圖形的數字語言"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Shapes"
+msgstr "圖形的數字語言"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using something small, such as pieces of food, challenge your child to make shapes with a given number of pieces. These shapes can be rectangles, triangles, squares, or anything fun.\n"
+"\n"
+"**Making rectangles:** Your child may notice that for some numbers, such as 12, there are different shapes of rectangles that can be made, and that for other numbers, such as 7, only flat rectangles can be made. Numbers such as 5 and 7 are called prime numbers because there is no way to break them into normal rectangles.\n"
+"\n"
+"**Even and Odd:** Investigate even and odd numbers using number shapes. For a given number, ask your child to put the pieces into two equal rows. You would do this if you were splitting food fairly between two people. For which numbers does it work out evenly?"
+msgstr ""
+"使用一些小東西，例如食物，讓孩子挑戰用一定數量的小東西創造出各種圖形。 這些圖形可以是長方形、三角形、正方形，或任何有趣的形狀。\n"
+"\n"
+"**偶數和奇數：** 透過使用數字形狀來探究偶數和奇數。 對於一個特定的數字，讓孩子將小東西排列成兩行，以此模擬平均分配食物給兩個人的情形。 對於哪些數字，可以做到平均分配？\n"
+"\n"
+"**加法中的奇數和偶數：** 透過這個視覺展示，孩子可以直觀地理解為什麼偶數+偶數=偶數，奇數+奇數=偶數，偶數+奇數=奇數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding Evens and Odds:** Representing even and odd numbers this way makes it easy to see why: Even + Even = Even, Odd + Odd = Even, and Even + Odd = Odd."
+msgstr "**奇数相加：** 當孩子理解了奇數是什麼後，可以探究如圖所示的前五個奇數相加。 驚人的是，前五個奇數相加的結果總是一個平方數（能夠組合成一個完整的正方形）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding up odd numbers:** Once your child knows what an odd number is, investigate adding up the first few odd numbers as shown in this diagram. Amazingly, the sum of the first odd numbers is always a square number."
+msgstr "**製作長方形：** 孩子可能會發現，對於某些數字，如12，可以創造多種形狀的長方形，而對於其他數字，如7，只有一種形狀可以做到。 像5和7這樣不能被分解成常規的長方形排列，因此稱為質數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 2"
+msgstr "乘以2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Very gradually, introduce multiplication to your child by a small change in language – start referring to doubling a number as taking “two of it” or as “multiplying it by 2.”"
+msgstr "循序漸進地向孩子介紹乘法。 可以用一種簡單的語言變化來開始——開始用「取兩倍」或「乘以2」引導孩子理解翻倍這個概念。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM – DOUBLING THE LIMIT"
+msgstr "尼姆遊戲－極限翻倍"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Set a starting total, say 20. Let your child choose whether to go first or second.\n"
+"\n"
+"**How to play:** During the first turn, a player chooses to subtract 1 or 2 from the current total. After the first turn, a player may subtract any number from 1 up to twice the number used on the last turn.\n"
+"\n"
+"**How to win:** The first person to reach 0 wins (an alternative rule is they lose)."
+msgstr ""
+"**遊戲設定：** 開始時確定一個目標數字，例如20。 讓孩子選擇先走或後走。\n"
+"\n"
+"**遊戲玩法：** 第一輪，玩家選擇從當前總數中減去1或2。 第一輪之後，玩家可以減去的數字從1增加到上一輪所使用的數字的兩倍。\n"
+"\n"
+"**如何獲勝：** 第一個把數字減到0的玩家獲勝（或可以規定他們輸）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can also be played, with essentially the same rules, by starting at 0 and adding your way up to the target. Once children learn to play this without writing anything down, it is a fun travel game."
+msgstr "這個遊戲也可以從0開始，依照基本上相同的規則，透過加法累積到目標數字來進行。一旦孩子學會了不需要動筆就能玩這個遊戲，它就變成了一個有趣的旅行遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HALVES AND HALF NOTS"
+msgstr "分半與不分半"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Two players agree on a target number, say 20, set their running total to 0, and choose who will go first.\n"
+"\n"
+"**How to play:** A turn starts by generating a number using one die or the sum of two dice. If the number is odd, the player must double it. If the number is even, the player may take half of it as many times as is desired as long as the numbers being halved are even. The player then adds that final result to the running total as long as that does not put the total over the target - if the final result cannot be used, the turn is skipped.\n"
+"\n"
+"**How to win:** The player who brings the total exactly to the target number wins."
+msgstr ""
+"**遊戲設定：** 兩位玩家確定一個目標數字，比如說20，然後他們的目標是把自己的總數減到0。 他們需要決定誰先開始。\n"
+"\n"
+"**遊戲玩法：** 輪到玩家時，他們可以透過擲骰子或兩顆骰子的和來產生一個數字。 如果數字是奇數，玩家必須將其翻倍。 如果數字是偶數，只要減半的數字是偶數，玩家就可以一直減半。 然後玩家將這個最終結果加到累計總數裡，只要這樣不會使總數超過目標值——如果最終結果無法使用，那麼這一輪就跳過。\n"
+"\n"
+"**如何獲勝：** 將總數剛好減到目標數字的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
+msgstr "你可以允許玩家不改變初始數字。 你也可以允許最多減半一次。 最後，你可以從目標數字開始練習減法，一直減到0。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING EVENS AND ODDS"
+msgstr "數一數偶數和奇數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a small collection of playing cards involving some small quantities. Start with combinations of three cards and work your way up to more cards.\n"
+"\n"
+"Suppose the numbers are 1, 2, and 3. The question is: If you randomly pick two cards and add them, are you more likely to get an even or odd number? Count how many ways there are of getting an odd number versus an even number. For example, in the case of using 1, 2, and 3, there is one way to get an even number (1 + 3) and two ways to get an odd number (1 + 2, 2 + 3). So the odd number sums are more likely (twice as likely).\n"
+"\n"
+"**Make it a contest:** Let one player be Even and the other player be Odd. See who has the most successes after a dozen trial runs."
+msgstr ""
+"**遊戲設定：** 使用一小堆牌，每張牌上寫下一些小數目。 從三張牌的組合開始，逐步增加牌數。 \n"
+"\n"
+"假設你三張牌上的數字分別是1、2、3，如果你隨機抽兩張牌，你認為得到偶數的可能性更大還是奇數的可能性更大？ 數一數有多少種方式可以得到一個偶數或奇數。 例如，在數字是1、2和3的情況下，有一種方式可以得到偶數（1+3）和兩種方式得到奇數（1+2、2+3）。 所以，得到奇數的可能性更大（兩倍之多）。\n"
+"\n"
+"**比賽：** 讓一位玩家扮演偶數，另一位扮演奇數。 看看誰在十幾次嘗試後取得了最多的成功。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING BY 2’s"
+msgstr "以2為單位跳數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Evens and Odds"
+msgstr "偶數和奇數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to being good addtion practice, skip counting is a faster way to count a collection of things, such as toes, than counting them one at a time. Skip counting is also very helpful when learning multiplication later on.\n"
+"\n"
+"**Alternate counting turns:** Count by 2’s while pushing your child on the swings (or anything else that involves counting). Start by alternating with your child – you say 1, your child says 2, you say 3, your child says 4, and so on. After establishing the pattern, one of you can say their part without the other person saying anything.\n"
+"\n"
+"While traveling, find something fun to skip count like yellow cars."
+msgstr ""
+"跳數除了是一個很好的加法練習，也是比一個一個數更快的計算物品（例如腳趾）的方式。 跳數對於以後學習乘法也非常有幫助。\n"
+"\n"
+"**輪流數數： 在和孩子一起的輪流數數遊戲中，試著以2為單位進行數數。 開始時，你和孩子交替說數字——您說1，孩子說2，您說3，孩子說4，以此類推。 一旦掌握了這種模式，你們中的一人就可以在沒有對方提示的情況下繼續說下去。\n"
+"\n"
+"在旅途中，你們可以找些有趣的東西來跳數，例如黃色的車。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Skip count up or down by 2’s ending by 20.\n"
+"\n"
+"Initially, do this starting at 0 or 20, but eventually, start at any number."
+msgstr ""
+"以2為單位向前或向後跳數，數到20為止。\n"
+"\n"
+"最初，可以從0或20開始跳數，但最終目標是從任意數字開始。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM GROUPS"
+msgstr "求和拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use a rectangular grid of numbers with a target sum of your choosing between 5 and 12."
+msgstr "在一個矩形的數字網格中選擇一個目標和，數字範圍在5到12之間。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find groups of two or three numbers that add up to the target and share sides. When complete, the entire puzzle will be made up of identified groups. Use tokens, such as different types of food items, to identify each group within the puzzle.\n"
+"\n"
+"**Puzzle creation:** Create these puzzles by starting with an empty grid and working your way around the grid using pairs and triples that add up to the target sum. It’s more fun if the puzzle has just one solution, but it's okay if it doesn't."
+msgstr ""
+"**挑戰：** 找到兩個或三個數字的組合，這些數字的和等於目標數，並且這些數字在網格中是相鄰的。 解謎時，整個網格將被填滿你找到的數字組。 為了標識找到的數字組合，可以使用代幣，例如不同類型的食物。 \n"
+"\n"
+"**創建智力遊戲：** 從一個空白的網格開始，然後向網格中添加數字直到達到目標和來創建這些智力遊戲。 如果智力遊戲只有一個答案那是最好的，但如果不是也沒關係。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH WITH SUMS"
+msgstr "加法版釣魚遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Using a target sum that your child is comfortable with, remove cards at or above that target from the Number Card deck. If there are more than two players and you have restricted the numbers significantly, you may need to use several decks.\n"
+"\n"
+"**How to play:** Play starts by dealing 5 cards to each player. Put the remaining cards in a common draw pile. Players take turns “fishing” for cards whose number will sum to the target sum with cards they already have.\n"
+"\n"
+"For example, a player might ask a player, “Do you have any 4’s?” If that player has some 4’s, they are handed over and the original player gets another turn. However, if that player does not have any 4’s, then the player says “Go Fish!” and a card is drawn from the draw pile. If the drawn card matches with a card they have, the player may have another turn; otherwise, the turn is over and play continues to the left. When a player has a pair of cards that sum to the total, the player puts that pair on the table in front of them.\n"
+"\n"
+"**How to win:** The game is over when all cards are in pairs. The player with the most pairs wins."
+msgstr ""
+"**遊戲設定：** 使用孩子能接受的目標總和，移除超過該範圍的卡牌。 如果有兩個以上的玩家，並且您的卡牌上的數字有很多限制，那麼您可能需要使用多副牌。 \n"
+"\n"
+"**游戏玩法：** 遊戲開始時，發給每位玩家5張卡片。 將剩餘的卡片放在公共抽牌堆中。 玩家輪流「釣魚」，尋找數字相加可以得到目標和數的卡片。\n"
+"\n"
+"例如，玩家可能會問另一個玩家：「你有4嗎？」如果那個玩家有4的牌，就必須把它們交出來，而提問的玩家就可以再次進行遊戲。 但如果那個玩家沒有4的牌，就要說「去釣魚！」然後從抽牌堆中抽一張牌。 如果抽到的牌與玩家手中的某張牌相加等於目標和數，那麼玩家可以繼續遊戲；否則，輪次結束，左邊的玩家繼續遊戲。 當玩家手中的兩張牌加起來等於總和時，玩家就會將這對牌放到自己面前的桌面上。\n"
+"\n"
+"**如何勝利：** 當所有卡牌都成對出現時，遊戲結束。 擁有最多對子的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create some variety, allow players to use more than two cards to create a group of cards that sum to the target sum. Another possibility is to say that two cards match when their difference is a specified target difference."
+msgstr "為了增加一些變化，允許玩家使用兩張以上的卡片來組成一組數字相加等於目標和數的卡片組。 另外，也可以設定兩張卡片匹配是因為它們的差值是一個特定的目標差值。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHICH NUMBER AM I"
+msgstr "數字組合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Depending on whether there are one or two children playing, there are two ways to play.\n"
+"\n"
+"**Two children:** Each child draws a card and places it on their forehead facing out without seeing it. You announce the sum of the cards and the children are challenged to figure out their own card by looking at the other child’s card.\n"
+"\n"
+"**Adult with one child:** Create several pairs of cards in advance where each pair of cards has the same total known to all. The unused cards are moved to the side. Pick up one random pair of cards, place the cards on your foreheads, and figure out each card by looking at the other person’s card."
+msgstr ""
+"這個遊戲有兩種玩法，根據是一個孩子還是兩個孩子在玩這個遊戲。\n"
+"\n"
+"**兩個孩子的玩法：** 每個孩子抽一張卡片，並將其正面朝外放在額頭上。 您宣布他們兩張卡片數字總和，孩子們需要透過觀察對方的卡片來猜出自己額頭上的數字。\n"
+"\n"
+"**一個大人、一個小孩的玩法：** 提前準備幾對數字總和相同的卡片。 未使用的卡片放到一邊。 隨機抽取一對卡片，將卡片放在你們的額頭上，透過觀察對方的卡片來猜出每張卡片的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHOPSTICKS HAND GAME"
+msgstr "筷子手遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** All players start with one finger raised on each hand.\n"
+"\n"
+"**How to play:** During a turn, a player has the choice of either “attacking” or “splitting.”\n"
+"\n"
+"**Attacking:** To attack, a player takes a live hand and attacks a live hand of an opponent. The result is that the opponent's hand has the sum of the two hands and the attacking player’s hand is unchanged. If a hand ends up with exactly five fingers, it is dead. If the hand has over five fingers, its count is either reduced by five (in one set of rules) or is dead (an alternate set of rules).\n"
+"\n"
+"**Splitting:** To split, a player bangs their hands together and redistributes the fingers between the two hands. A split may not reverse the two finger counts.\n"
+"\n"
+"**How to win:** A player wins when both hands of everyone else are dead. In one variation, the first player to have two dead hands wins."
+msgstr ""
+"**遊戲設定：** 所有玩家開始時每隻手舉起一個手指。\n"
+"\n"
+"**遊戲玩法：** 在一個回合中，玩家可以選擇「攻擊」或「分裂」\n"
+"\n"
+"**攻擊：** 為了攻擊，玩家用一隻「活著」的手攻擊對方的一隻「活著」的手。 結果是對手的手的數量是兩隻手數字總和，而攻擊玩家的手保持不變。 如果一隻手最終有剛好五根手指，那麼它就「死了」。 如果手的數字超過五個手指，它的數字就減五（這是一種規則），或者它就死了（這是另一種規則）。 \n"
+"\n"
+"**分裂：** 為了分裂，玩家將雙手撞在一起並在兩手之間重新分配手指。 分裂時兩手的手指數量不能顛倒。\n"
+"\n"
+"**如何獲勝：** 當其他所有人的雙手都「死了」時，剩下的唯一一個玩家獲勝。 有一種擴展玩法是，第一個擁有兩隻“死了”的手的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING UP"
+msgstr "向上攀登"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
+msgstr "**遊戲設定：** 每位玩家準備一副樓梯卡片，樓梯階梯數從4到10不等（年齡較大的玩家可以準備更多階梯）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a two-digit number using cards numbered from 0 to 9. Determine the tens digit by selecting from cards 0 and 1, and then determine the ones digit by selecting from all the cards. If possible, the player must place this number on their steps.\n"
+"\n"
+"**How to win:** The first player to fill their steps in increasing order from bottom to top wins. Make it easier by allowing neighboring steps to have the same value."
+msgstr ""
+"**遊戲玩法：** 用0到9的數字卡片創建一個兩位數。 透過自己選擇0或1的卡片來確定十位數數字，然後在所有卡片中選擇一張來確定個位數字。 如果可能的話，玩家必須將這個數字放在他們的階梯上。\n"
+"\n"
+"**如何勝利：** 第一個把階梯按照從下到上遞增順序填滿的玩家獲勝。可以透過允許相鄰的階梯擁有相同的值來簡化遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATING ORDER"
+msgstr "數字排列樂"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order in the House"
+msgstr "家有數序"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a deck of Number Cards that goes from 0 to 40 (higher with more players). Deal ten cards to each player (as few as four for younger players). The dealt cards are placed in front of each player in the order dealt. The remaining cards are placed face down in a draw pile. Place the top card face up as the first card in a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile."
+msgstr ""
+"**遊戲設定：** 用0到40的數字卡組成一副牌，數量可以依照玩家年齡和數量增減。 發牌給每位玩家，確保卡片面朝下，且每位玩家面前的卡片是順序排列。 剩餘的卡片面朝下放一堆，當作抽牌堆。 將第一張卡片正面為上放在一邊，作為棄牌堆的首張卡片。\n"
+"\n"
+"**如何勝利：遊戲的目標是將卡片按照從小到大的順序從左到右排序。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The goal of the game is to get the cards in inreasing order from left to right."
+msgstr "**遊戲玩法：** 輪到玩家時，玩家可以選擇抽一張棄牌堆頂部的卡片或從抽牌堆頂部抽一張。 被替換的卡片正面朝上放在棄牌堆頂部。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring variations"
+msgstr "擴展玩法-計分"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr "你可以使用計分系統，每輪遊戲結束後計分。 在這個系統中，獲勝者得到15分。 其他玩家每有一張卡片依序排好，就得到1分，從他們的最小卡片開始算起。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLOSEST TO 10"
+msgstr "十分接近"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards from 1 to 10. Choose a target sum, say 10.\n"
+"\n"
+"**How to play:** Each round starts by dealing five cards face down on the table. One player randomly chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given, face up, to the other player to choose two cards to get close to the target.\n"
+"\n"
+"**Scoring:** The player whose result is closest to the target from either side wins a point. Have a number line handy to use for discussions about which result is closer to the target sum."
+msgstr ""
+"**遊戲設定：** 使用一副從1到10的卡片。 選擇一個目標數，例如10。\n"
+"\n"
+"**遊戲玩法：** 每回合開始，桌面上放五張面朝下的卡片。 一位玩家隨機選出三張翻開。 選擇兩張卡片相加來盡可能接近目標數。 未使用的三張卡片給到另一位玩家，由他選擇兩張卡片相加來接近目標數。\n"
+"\n"
+"**計分：** 最接近目標數的玩家（無論是大一點還是小一點）得一分。 可以用備用的數字線來討論哪個結果比較接近目標和數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you use subtraction instead of addition, use a lower target number, say 4."
+msgstr "如果你使用減法而不是加法，使用一個較低的目標數，例如4。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ZOO RESCUE"
+msgstr "動物園援救"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Small Adding and Subtracting"
+msgstr "小數字加減"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+"\n"
+"**How to play:** During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box.\n"
+"\n"
+"**How to win:** The first player to rescue all their tokens wins.\n"
+"\n"
+"**Strategy:** An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others – you can discuss ideas about why this is."
+msgstr ""
+"**遊戲設定：** 使用兩個或兩組從1到6的數字骰子。 每位玩家有6個代幣——如果你有動物代幣，這個遊戲會更有趣。 每位玩家還有一個標示0到5的盒子的紙片。 玩家自行決定如何將他們的6個代幣放入盒子中——可以放多個代幣到一個盒子裡。\n"
+"\n"
+"**遊戲玩法： 在玩家的回合中，透過擲骰子或抽取兩張卡來產生兩個數字，並使用這兩個數字之間的差異。 如果玩家在那個盒子裡有代幣，就可以拿出來一個。\n"
+"\n"
+"**如何獲勝：** 第一個救出所有「動物」的玩家獲勝。\n"
+"\n"
+"**策略：** 這個遊戲的一個重要部分是一開始就選擇正確的盒子放置代幣。 隨著練習，您的孩子會意識到有些盒子出現的機率比其他的機率大——你們可以討論為什麼會這樣。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9."
+msgstr "使用1-10的數字卡牌，並設定10個從0-9編號的盒子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOT POTATO WITH SUMS"
+msgstr "燙手山芋-求和"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a regular deck of playing cards, have a target number of 5, and remove all cards above the target, except for one card – the 'hot potato,' which can be anything else, such as a Joker or face card. Deal the entire remaining deck to all players – it’s okay if some players get one more card than others.\n"
+"\n"
+"**How to play:** All players start by placing on the table from their hands 5’s and any pairs that add up to 5. On your turn, you can pick a random card from any other player’s hand (a simpler rule is that it is always the player on your right). If this new card gives you a pair of cards that add up to the target sum, place the pair on the table; otherwise, keep the card in your hand. Play then moves to the next player on your right.\n"
+"\n"
+"**How to win:** When play ends, the player holding the hot potato loses. Alternatively, you can play that the first player to run out of cards wins."
+msgstr ""
+"**遊戲設定：** 使用一副標準的撲克牌，設定目標數字為5，並移除所有大於該目標數字的牌，除了一張特殊牌——「燙手山芋」，這張可以是任何其他的牌，比如王牌或者 人面牌。 將剩餘的牌整副發給所有玩家－如果有些玩家比其他玩家多拿一張牌也沒有關係。\n"
+"\n"
+"**遊戲玩法：** 所有玩家從手中的5和任何可以組成5的牌對開始。 在你的回合，你可以從其他玩家手中隨機抽取一張牌（更簡單的規則是總是從你右手邊的玩家那裡抽牌）。 如果這張新牌和你手中的某張牌可以組成目標和數5，就把這對牌放在桌面上；否則，保留這張牌在你手中。 玩到沒有牌為止。\n"
+"\n"
+"**如何獲勝：** 當遊戲結束時，手上還握有「燙手山芋」的玩家輸了。 或者，你也可以規定第一個用光所有牌的玩家贏。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child’s adding skills improve, use larger target numbers up to 10. \n"
+"\n"
+"Varying the target number will provide practice with the various number bonds."
+msgstr "隨著孩子加法技能的提高，可以使用更大的目標數字，例如10。 改變目標數字可以練習不同的數字組合。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMMON SUMS"
+msgstr "常見的和"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds"
+msgstr "數字組合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Collect the data:** Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in order in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token(s) will win and why?\n"
+"* Which tokens do well and which ones do poorly?\n"
+"* Which token is the worst?\n"
+"* How will the winners change if the row lengths are made shorter or longer?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"**收集數據：** 在一張紙上畫12行，每行畫8個方格。 在最左邊一列的方格中依序寫上 1 到 12 的數字。 在 12 個數字上各放 1 個代幣。 開始擲一對骰子，每次擲完後，將骰子總和上的代幣向右移動一格。 每個代幣的目標是最早向右移動完整張紙。\n"
+"\n"
+"讓孩子自己提出一些問題來探索。 一些自然而然的問題包括：\n"
+"\n"
+"* 哪個代幣會贏？ 為什麼？\n"
+"* 哪些代幣做得好，做些代幣做得不好？\n"
+"* 哪個代幣做得最差？\n"
+"* 如果行數縮短或延長，勝利者會有什麼變化？\n"
+"\n"
+"讓孩子用做實驗來找出這些問題的答案，然後用實驗來驗證他們的想法。\n"
+"\n"
+"在回合開始前透過猜測哪個代幣將獲勝來增加競爭元素。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "數獨擴充玩法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"本頁的所有智力遊戲都遵守基礎數獨規則：方格中填入數字，以使每行每列的數字均只出現一次。\n"
+"\n"
+"製作這些智力遊戲時，可以從一個完全填滿的智力遊戲開始，去掉一些或所有數字，然後創建分區並為該類型智力遊戲添加適當的額外信息。\n"
+"\n"
+"為了節省空間，這裡的例子都是4x4的方格。 你可以自己製作更大的智力遊戲，或是在網路上找到更大版本的智力遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "奇偶數獨和Kropki數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "這些智力遊戲有一些額外的限制，數字必須在每個2x2的分區中精確出現一次。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**奇偶數獨：** 偶數方格被標示為灰色。\n"
+"\n"
+"**Kropki數獨：** 單元格之間的空心點表示數字相差一；實心點表示一個數字是另一個數字的一半。"
 
 #. type=data_list
 msgctxt "data_list"
