@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-18 05:45\n"
+"PO-Revision-Date: 2025-06-18 16:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9454,6 +9454,151 @@ msgstr ""
 msgctxt "data_list"
 msgid "With practice and further number relationship ideas, these math facts will become automatic for your child. However, there is no hurry for memorization, and it can wait until more experience with the quantities and relationships between the numbers has been gained."
 msgstr "透過練習和進一步的他們對數字關係的理解，這些數學事實為你的孩子會變得自然。然而，不必急於記憶。你可以等到孩子對數量和數字之間的關係獲得了更多的經驗。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION THE EASY WAY"
+msgstr "手指減法 – 簡單的方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math up to 20"
+msgstr "手指數學-一位數減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two methods:** Subtraction can be thought of as 'take away' or 'difference.' Both models are essential to a complete understanding of subtraction. Have your child practice both ways of thinking of subtraction using these finger subtraction methods.\n"
+"\n"
+"We’ll use 11 - 3 for our examples."
+msgstr ""
+"**兩種方法:** 兩種方法：減法可以被認為是「拿走」 或 「差」。這兩個模式對於完全理解減法至關重要。讓你的孩子用這些手指減法練習兩種減法。\n"
+"\n"
+"我們將使用11-3來演示這兩種方法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Take Away method:** Start with a closed fist and say “11.” Then, lifting one more finger each time, count “10, 9, 8.” Each time you lift a finger and count down, you are taking one more away from the original number.\n"
+"\n"
+"When your child sees 3 fingers raised, the counting stops. They now see that taking 3 away from 11 leaves 8."
+msgstr "**「拿走」 方法:** 讓你的孩子握緊拳頭說 「11」。然後，把一次一根手指舉起來，同時計數 「10、9、8」。每次孩子舉起一根手指倒數，他就會從原來的數字中「拿走」一個數字。當您的孩子舉了3根手指時，計數就會停止。做這樣的話，孩子會理解第一種減法方式：從11 「拿走」3，就有8。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference method:** This uses counting on, much as we did for Easy Way Finger Addition. What we are doing is finding out which number weneedtoaddto3toget11.\n"
+"\n"
+"Have your child make a closed fist and say “3.” Then, lifting one more finger each time, count “4, 5, 6, 7, 8, 9, 10, 11.” When your child says 11, there are 8 fingers raised. That shows that the difference between 3and11is8!"
+msgstr ""
+"**「差」方法:** 這種方式利用「從X開始計數」方法，就像我們在「手指加法—簡單的方法」部分中所做的那樣。我們正在做的是找出我們需要加上3才能得到11的數字。\n"
+"\n"
+"讓你的孩子握緊拳頭說 「3」。然後，然後，把一次一根手指舉起來，同時計數 「4、5、6、7、8、9、10、11」。當你的孩子說 「11」 時，他有8根手指被舉起了。這表明3和11之間的差是8！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PIG"
+msgstr "豬"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, roll a die as many times as you want. When a roll is not 1, you add that roll to your turn’s total. If it is 1, you lose everything for that turn and the turn is over. A player may choose to stop before rolling a 1, keep the turn’s points so far, and add them to the player’s running total.\n"
+"\n"
+"**How to win:** The first player to reach the target number, say 30, wins."
+msgstr ""
+"**玩法:** 輪到你的時候，你可以多次擲骰子。當擲骰子不為1時，您將該數字新增到您的回合總數中。如果骰子擲了1，那麼你為那一輪失去了一切，那一輪就結束了。玩家可以選擇在擲1之前停止擲骰子，將回合的點數保持到目前為止，並將其新增到玩家的總跑動數中。\n"
+"\n"
+"**獲勝方法:** 第一個達到目標數字（比如30）的玩家獲勝遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A two dice variation has these rules: If neither die shows a 1, the sum is added to the turn’s running total. If exactly one of the dice shows a 1, then nothing more is added to the running total and the turn ends. If two 1’s are rolled, the turn’s total becomes 0 and the turn ends."
+msgstr "雙骰子變體具有以下規則：如果兩個骰子都不擲了1，則總和將新增到回合的執行總數中。如果其中一個骰子擲了1，則不再向執行總和新增任何積分，並那一輪就結束了。如果兩個骰子都擲了1，則輪總數變為0，並那一輪結束。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ENCLOSED SUMS"
+msgstr "「隱藏」數額"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These puzzles have shapes connected by lines. Each enclosed region, such as where the 9 or the 7 are in this example, has a number that is the sum of the shapes that border it.\n"
+"\n"
+"While circles may have any value, a non-circle must have the same value as any other figure of the same shape."
+msgstr "**遊戲佈局:** 在這種智力遊戲我們畫各種各樣被線條連線得形狀。每個包圍的部分，例如本圖中9或7所在的部分，都有一個數字，該數字是其邊界形狀的總和。雖然圓可以有任何值，但非圓形必須與任何其他形狀相同的圖形具有相同的值。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers in the shapes and the inside of the regions.\n"
+"\n"
+"**How to create:** Create these puzzles by making a diagram of circles and maybe some squares. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers."
+msgstr ""
+"**挑戰:** 在所有的形狀和區域內部填寫丟失的數字。\n"
+"\n"
+"**製作方法** 你可以透過製作一個包括一些圓形和正方形的圖表來建立這種智力遊戲。接下來，用數字填寫所有空圖形，並用周圍圖形的總和填寫有界區域。最後，去掉一些數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – ADDITION AND SUBTRACTION"
+msgstr "戰爭—加減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead.\n"
+"\n"
+"**How to play:** Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes.\n"
+"\n"
+"**How to win:** The winner is the player who has the most cards."
+msgstr ""
+"**遊戲佈局:** 將一副洗牌後的牌平均分開，一定要去掉人頭牌。如果你願意，可以用多米諾骨牌代替。\n"
+"\n"
+"**玩法:** 兩位玩家都將他們的前兩張牌翻轉過來，然後將它們相加。總數較大的玩家贏得剛玩的四張牌。如果總數相等，接下來的兩對牌相加，獲勝者將獲得剛玩的八張牌。繼續玩，直到你玩完了整副牌，也可以隨意玩多次。\n"
+"\n"
+"**獲勝方法:** 贏家是擁有最多牌的玩家。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr "為了多樣化，使用兩張牌的差額來進行此遊戲，或者，你可以一次新增三張牌。另一個方式分派一個人為奇數，另一個人為偶數。對於這種變化，每個玩家都轉動一張牌，而總數的均勻性或奇數性決定了誰會贏到剛玩的兩張牌。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET GIN RUMMY"
+msgstr "有目標的金羅美"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds and Fact Families"
+msgstr "數鍵與事實族"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target.\n"
+"\n"
+"**How to play:** During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card.\n"
+"\n"
+"**How to win:** When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”"
+msgstr ""
+"**遊戲佈局:** 所有玩家決定一個目標數額，比如10。去掉人頭牌以後，給每個玩家發七張牌。剩下的牌成為一個抽牌堆，其頂部的牌翻轉過來開始棄牌堆。其遊戲的目的是你手中握七張牌，這些牌被分成不同的組。每組可以有一張或多張牌，加起來牌的總值等於已商定的數額。\n"
+"\n"
+"**玩法:** 在每一輪遊戲中，玩家可以選擇撿起棄牌堆頂部的牌或抽牌堆頂部看不見的牌。其玩家選擇了一張牌之後，他要棄一張。\n"
+"\n"
+"**獲勝方法:** 當玩家達到目標數額時，玩家放下牌並說「金」！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "可以用成對紙牌的差額來代替加法。在這種情況下，給每個玩家偶數張牌。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "抽認卡"
 
 #. type=data_list
 msgctxt "data_list"
