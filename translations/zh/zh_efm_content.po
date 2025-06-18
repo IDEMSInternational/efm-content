@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-18 16:23\n"
+"PO-Revision-Date: 2025-06-18 17:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9599,6 +9599,409 @@ msgstr "可以用成對紙牌的差額來代替加法。在這種情況下，給
 msgctxt "data_list"
 msgid "FLASH CARDS"
 msgstr "抽認卡"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"使用抽認卡練習數學事實很容易，因此許多人認為它們是很誘人的選擇。然而，他們經常被善意的幫助者濫用，並可能助長對數學的仇恨。除了過分熱心的訓練會造成心理傷害之外的問題，使用抽認卡會錯過學習數字之間重要關係的機會。您可以隨意使用抽認卡為少數事實提供集中的練習，但請保持練習有限且放鬆。\n"
+"\n"
+"本頁和下一頁都有一些方法可以練習對孩子有用且更有趣的結構見解，並且應該使用這些方法，直到事實成為自動。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "複習加法技能"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"要進行本頁面上的活動，您的孩子應該知道如何心算進行以下運算：\n"
+"\n"
+"* 加和減0、1、2（也許還有3）\n"
+"* 添加數字孿生或近數字孿生\n"
+"* 知道10的數字組合\n"
+"* 將10加到一位數上。\n"
+"\n"
+"如果您的孩子在這些技能中的任何一項方面較弱，那麼現在是時候進一步練習這些技能了。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "加法補償"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"補償是一個使心算更容易的強大工具。當把兩個數字相加時，你可以把一個數字的一部分移到另一個數字上，得到相同的和。使用補償可以很容易地添加 8 或 9。例如，將 6 + 9 相加，將 1 從 6 移至 9，得出 5 + 10。類似地，4+8成為2+10。\n"
+"\n"
+"對數字孿生和近數字孿生使用補償，使所有剩餘的數學事實變得更容易：3+5、3+6、4+7和5+7。例如，使用補償，5+7與6+6相同。\n"
+"\n"
+"**多種方式:** 一些數學事實可以通過多種方式完成。挑戰您的孩子找到不止一種方法來解決問題。例如，5+7可以成為6+6，但也可以成為2+10。這種數學遊戲將帶來持久的見解。一些數學事實可以通過多種方式完成。挑戰您的孩子找到不止一種方法來解決問題。例如，5+7可以成為6+6，但也可以成為2+10。這種數學遊戲將帶來持久的見解。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "複習減法技能"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"在開始這些減法活動之前，練習以下任何對您的孩子來說較弱的技能：\n"
+"\n"
+"* 加和減0、1、2（也許還有3）\n"
+"* 減去數字1或2\n"
+"* 知道10的數字組合，以及它們如何使10的減法變得容易。\n"
+"* 從11到19的數字中減去10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "使用10作為中間止點"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"對於數字大於 10 的問題，例如 13 - 8，將它們分成兩個差異。將10作為兩個數字之間的中間止點。13到8的距離是13到10的距離加上10到8的距離。用這種方法，13-8成為（13-10）+（10-8）= 3+2=5。\n"
+"\n"
+"這通過將這些減法分解為兩個可管理的部分，大大簡化了思維負荷。從 10 到 20 之間的數字減 10是 非常簡單的。學習如何從10中減去數字就是學習10的數字組合的問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "減法補償"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "心算 一 位數減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"減法補償是指將兩個數字相加或減去相同的量。通過添加或減去相同的量，我們可以保持兩個數字之間的距離或差異。\n"
+"\n"
+"對 13 - 8 使用補償，將兩個數字都加 2，將數字問題變成 15 - 10。注意到我們使用此小調整，問題變得多麼容易！\n"
+"\n"
+"個位數的問題也可以用這種方法解決。例如，3可以與7-3中的兩個數字都相加，使其成為10-6，即4。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "不要超過"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**遊戲佈局:** 得使用5個骰子，也要4次擲骰子。\n"
+"\n"
+"**玩法:** 在第一次擲骰子時，選擇將0到5之間的骰子放在一邊。骰子一旦放在一邊，就不能使用或更改。對第二和第三擲上的剩餘骰子做同樣。在最後一次擲骰子時，所有骰子都會被保存。任何小於或等於 20 的分數都會給玩家留下他所保存的分數，而任何超過 20 的分數都會給玩家 0 分。\n"
+"\n"
+"**獲勝方法:** 您可以打一場或多場。總分最高者獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "目標分數20、骰子數量和擲骰子數量都可以根據年齡較小或較大的玩家進行更改。例如，你可以用3個骰子玩這個遊戲，並將目標總和設置為12點。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "跳島-補償"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "一位數加法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "這些智力遊戲展示瞭如何使用補償來創造更容易的加法問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**挑戰:** 找到一條連接所有具有相同答案的島嶼的路徑。兩個島嶼只有在問題的數字相差 1 時才能連接——一個數字增加 1，另一個數字減少 1。\n"
+"\n"
+"例如，「5+8」 將與 「6+7」 連接。只有一些島嶼會出現在這條路徑上。在此示例中，路徑從左下角開始，在右上角結束。 \n"
+"\n"
+"**製作方法:** 您可以通過畫大約十個帶有一些連接線的空圓圈來創建這些智力遊戲。發現從島嶼的一個邊緣到另一個邊緣的路徑。沿着這條路，寫出數字相差一個數字的問題。在附近的島嶼內，用小的變化寫出有不同答案的問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "部分-整體三角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**遊戲佈局:** 使用數字卡從1到13。首先，每位玩家都將收到 6 張牌面朝上的牌。有一個抽牌堆，其中一張牌被翻轉以開始棄牌堆。\n"
+"\n"
+"**玩法:** 輪到他的時候，玩家拿走最上面的棄牌或者未知的最上面的抽牌堆卡片。所選擇的卡牌會替換他已有的卡牌，並且被替換的卡牌將被丟棄。\n"
+"\n"
+"**獲勝方法:** 使用較小或較大範圍的牌來匹配年輕或年長玩家的技能。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "使用較小或較大範圍的牌來匹配年輕或年長玩家的技能。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "翻牌到達目標"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**遊戲佈局:** 首先，將所有撲克牌從 1 到 5 排列在 4 x 5 的網格中。從 0 開始執行總和並選擇一個目標數字，例如 25。\n"
+"\n"
+"**玩法:** 玩家輪流翻出一個數字，並將其新增到累計總數中。最後選擇不超過目標數字的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "將 1 到 5 替換為您想要練習加法的任意五個數字。如果要練習減法的話，可以從目標數字開始，減去選定的數字，並且不允許低於 0。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "滾出我的房子—加法和減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**遊戲佈局:** 使用一幅數字從1(王牌)到10的牌。在一張共享的紙上，畫 20 個盒子或簡單的房子，並編號它們從 0 到 19。每個玩家都有 7 個與其他玩家的 7 個不同的代幣。\n"
+"\n"
+"**玩法:** 轉彎時，玩家選擇兩張隨機牌，並可以選擇對它們進行加、減或乘，將自己的令牌放入對手令牌數少於三個的房子中。如果房子裡有一個或兩個對手的代幣，這些代幣將被返還給對手，並且玩家說「滾出我的房子吧」。\n"
+"\n"
+"**獲勝方法:** 第一個將所有代幣放入房屋的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "多米諾骨牌結合"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them.\n"
+"\n"
+"**How to play:** To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes.\n"
+"\n"
+"For example, if [1, 5] is on top, then it matches [2, 4] because 1 + 5 = 2 + 4, and it also matches [2, 2] because 5 - 1 = 2 x 2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile.\n"
+"\n"
+"**How to win:** The first player to get rid of all their dominoes wins."
+msgstr ""
+"**遊戲佈局:** 使用一組從 1 到 6 或從 1 到 9 的多米諾骨牌。每個玩家一開始都有 5 個隨機的多米諾骨牌，且不讓其他玩家看到它們。\n"
+"\n"
+"**遊戲方法:** 首先，把一張隨機的多米諾骨牌面朝上放置在中間。之後，玩家必須以匹配中間頂部的多米諾骨牌。在這種情況下，匹配意味著頂部多米諾骨牌上的兩個數字可以與任何運算組合，——加法、減法，甚至乘法—— 以產生與作用於其中一個多米諾骨牌上的兩個數字的某些（可能不同）運算相同的結果。\n"
+"\n"
+"例如，如果 [1,5]這兩數字在頂部，則它與 [2,4] 匹配，因為 1+5 = 2+4，並且它還與 [2,2] 匹配，因為 5-1 = 2x2。以匹配的多米諾骨牌被放置在前一個頂部的頂部。如果你無法進行匹配，你必須從堆中拿起一個新的多米諾骨牌。\n"
+"\n"
+"**獲勝方法:** 第一個擺脫所有多米諾骨牌的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "「差」與「和」的三角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Add & Sub"
+msgstr "加減法遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**DiffTriangles:** These puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides – the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares."
+msgstr "**「差」三角形:** 這些智力遊戲有共享邊的三角形和正方形。三角形的兩個邊上總是有正方形——剩下的一邊要麼是三角形，要麼是空的。三角形裡面寫的數字是兩個相鄰正方形的差。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**「和」三角形:** 這種智力遊戲使用加法代替減法。三角形的值是它的兩個或三個相鄰正方形的總和。\n"
+"\n"
+"**挑戰:** 填寫每種智力遊戲型別中缺少的數字。\n"
+"\n"
+"**如何創造:** 製作沒有迴圈的智力遊戲很容易。畫一系列交替輪流的正方形和三角形。然後，從一端開始填寫數字，一直到另一端。完成後，刪除一些數字。請參閱“附加材料”部分，瞭解如何使用迴圈制作這些智力遊戲的想法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "跳位計數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr "您的孩子已經在0到20之間練習了2、5和10的跳位計數。開始練習按任意數字進行跳位計數，從任意數字開始，向任一方向進行。跳過向上和向下計數有助於所有算術運算以及位值（當跳過 5 或 10 時）。跳過計數的棘手部分是當十位數字發生變化時，所以您得專注於此。當您旅行或有空閒時間時，這是一項便利的活動。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "到達目標的短步驟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**玩法:** 使用從 1 到 9 的兩張撲克牌建立一個 2 位數的起始數字 - 第一張牌給出十位，另一張牌給出個位。從該數字開始，進行 5 次跳躍，每次跳躍 1 或 10。目標是儘可能接近50分，而分數就是與50分的差值。幾輪後總分最低的玩家獲勝。\n"
+"\n"
+"**100數字圖示:** 如果玩家們是小孩子，他們可以參考從一到一百圖表中受益。使用該圖表還會強調位值上升或下降10的情況。\n"
+"\n"
+"**遊戲變化:** 您可以透過允許玩家向目標邁出1、2 或 10步，或者 1、2、5 或 10步來改變此遊戲。此外，有時使用50以外的目標數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "跳島-跳位計數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "跳位計數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "島嶼（圓）透過橋樑（線）連線，具有連線透過跳位計數製成。有些島嶼內有數字，而另一些島嶼則空白。智力遊戲上方是起始數字、結束數字和跳位數量。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**挑戰:** 填寫缺失的數字並找到路徑。\n"
+"\n"
+"你也可以把數字和空格放在地板上，這樣做成一個邁步智力遊戲。與跳位計數活動一樣，建立智力遊戲來練習從不同的數字開始向前或向後，而不僅僅是跳位數量的倍數的數字。\n"
+"\n"
+"**如何建立:** 您可以透過以下方式建立這些智力遊戲：首先製作島嶼，填寫跳位計數數字，以正確的順序連線這些島嶼，然後新增一些額外的連線以幫助製作遊這樣的遊戲。在您給孩子的版本中，刪除一些數字而留下足夠的數字，以便您的孩子還會可以解決智力遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "配對向下"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**遊戲佈局:** 首先，畫一條從 1 到某個數字（例如 20）的數軸。\n"
+"\n"
+"**玩法:** 在一輪中，選擇兩個數字和一個結果，其中沒有一個被劃掉，並寫下涉及這些數字的加法或減法方程。 等式中的兩個數字被劃掉，結果被圈出。 下一位玩家必須使用結果作為兩個數字之一。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**獲勝方法:** 如果比賽是競爭性的，獲勝者是最後一個走合法棋步的玩家。 也可以合作玩，看看有多少數字沒有被觸劃掉。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "修復它吧"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "這個遊戲從一個完全填寫的 4 x 4數字網格開始，並有一個目標總和。 替代版本對每個行和列使用單獨的目標總和。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**挑戰:** 找到要刪除的專案，使每行和每列中剩餘數字的總和為目標總和。\n"
+"\n"
+"**如何建立:** 透過放入總和為目標總和的成對或三組數字來製作這些智力遊戲。 然後用假目標數字填充剩餘的空間。"
 
 #. type=data_list
 msgctxt "data_list"
