@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-18 04:44\n"
+"PO-Revision-Date: 2025-06-18 05:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9408,6 +9408,52 @@ msgstr ""
 "* 跳位計數—從任何地方開始按個位數上下跳躍對做心裡加法和減法都很好，對乘法和除法也有幫助。\n"
 "* 開始乘法—你的孩子已經知道如何乘以2了。這將擴充套件到所有個位數，部分透過使用跳位計數。\n"
 "* 遊戲、謎題、問題解決和調查——我們用的遊戲和謎題將更具挑戰性，以適應孩子日益增長的理解度和能力。我們將保持這些活動的新穎性和趣味性——對於孩子的長期數學成功來說，享受是最重要的。當您的孩子發現或經歷特別美好或令人滿意的數學模式時，他們會體驗到一種快樂的感覺。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION W/ COMPENSATION"
+msgstr "帶補償的手指加法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use compensation for sums between 11 and 18 to make them easier.\n"
+"\n"
+"**Giving away fingers:** Suppose you’re adding 7 + 8. One person puts up 7 fingers and the other person puts up 8 fingers. Then, one person gives away as many fingers as are needed to put up 10 fingers on the other person’s hands. In this example, 7 + 8 could turn into 5 + 10 (giving away 2) or 10 + 5 (giving away 3).\n"
+"\n"
+"**Magic:** Be dramatic and give away the fingers by having one person’s hand bang into the other person’s hand and having the fingers transfer “magically.”"
+msgstr ""
+"對11到18之間的總和使用補償，使其更容易。\n"
+"\n"
+"**把手指「贈送」** 例如，假設您正在要加了7+8。一個人豎起7根手指，另一個人豎起8根手指。然後，一個人根據需要「贈送」手指，其目標在於另一個人的手上就豎起10根手指。在這個例子中，7+8可以變成5+10（送出2）或10+5（送出3）。\n"
+"\n"
+"**魔術:** 動用戲劇性吧！讓一個人的手碰到另一個人的手中，從而“神奇地”送出手指到朋友的手。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION THE EASY WAY"
+msgstr "手指加法—簡單的方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Counting on:** Use the idea of 'counting on' to make addition easier. Counting on refers to doing addition by starting at one of the numbers, rather than starting at 0 and counting out both of the numbers."
+msgstr "**從X開始計數:** 使用「從X開始計數」方法使加法更容易。這種計數方式是指從加法題其中一個數字開始進行加法運算，而不是從0開始並將兩個數字都數出來。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Let's use adding 8 + 3 as an example. It is easier if you pick the larger number being added as the starting point for the 'counting on.'\n"
+"\n"
+"Have your child make a closed fist and say '8.' Then, lift one more finger each time as your child counts out loud '9, 10, 11.' When 3 fingers are raised, you are done adding 3, and the counting stops. At that point, you have that 8 plus 3, which is 11."
+msgstr ""
+"例如，我們要計算8+3等於多少。如果選擇較大數字作為這種方式的起點，則會更容易。\n"
+"\n"
+"讓你的孩子握緊拳頭說「8」。然後，當你的孩子大聲數出「9、10、11」時，你每次多豎起一根手指。當3根手指被舉起時，你就完成了3的加法運算，你可以停止計數。此時，你有8加3，總共11。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With practice and further number relationship ideas, these math facts will become automatic for your child. However, there is no hurry for memorization, and it can wait until more experience with the quantities and relationships between the numbers has been gained."
+msgstr "透過練習和進一步的他們對數字關係的理解，這些數學事實為你的孩子會變得自然。然而，不必急於記憶。你可以等到孩子對數量和數字之間的關係獲得了更多的經驗。"
 
 #. type=data_list
 msgctxt "data_list"
