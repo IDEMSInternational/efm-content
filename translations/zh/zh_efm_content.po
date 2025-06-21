@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-21 17:14\n"
+"PO-Revision-Date: 2025-06-21 17:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10209,6 +10209,457 @@ msgstr ""
 "**玩法:** 向每位玩家發兩張面朝下的牌。 然後，每個玩家翻開一張牌，並決定該牌是十位卡還是個位卡。確定後,將每位玩家剩下的牌翻過來，用於填補剩下的位置。\n"
 "\n"
 "**獲勝方法:** 數字較大的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "目標O和X"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"**How to play:** Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. \n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**遊戲佈局:** 使用已拆下圖片卡的牌組。 用 1 到 20 之間隨機生成的數字填充井字棋盤。如果要包含乘法，請使用更大的範圍。\n"
+"\n"
+"**玩法:** 向每位玩家發 6 張牌，然後同時將它們翻轉過來。在第一次玩中，有兩名玩家之間的競賽——第一個將兩張或更多張牌組合起來匹配其中一個方塊的玩家可以在其中放一個 X 並替換他們使用的牌。之後，玩家輪流在一個他們可以匹配的值的選定方格中放置一個X或一個O，用於匹配的卡牌將被抽出新的卡牌所取代。如果無法匹配，他們就失去了回合，並且可以選擇兩張牌來替換新的牌。\n"
+"\n"
+"**獲勝方法:** 第一個連續獲得 3 個的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "終結者2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Add & Sub"
+msgstr "更多加減遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and a board with three rows of five squares numbered from 1 to 15.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn.\n"
+"\n"
+"**How to win:** The winner is the one with the most claimed numbers after a fixed number of turns."
+msgstr ""
+"**遊戲佈局:** 使用三個骰子和一個有三排五個方格棋盤，編號從 1 到 15。\n"
+"\n"
+"**玩法:** 玩家擲骰子並使用加法和減法將三個數字組合起來以匹配棋盤上的數字之一。匹配的號碼被劃掉並領取。如果一名玩家找不到匹配項，另一名玩家就有機會使用這些數字並獲得成果 - 無論如何，另一名玩家都會獲得下一輪。\n"
+"\n"
+"**獲勝方法:** 獲勝者是在固定輪數後獲得最多數字的人。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr "一個較小的變體將使用兩個骰子與數字從 1 到 10，而一個較大的變體將使用 4 個骰子與數字從 1 到 20。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC TRIANGLES"
+msgstr "魔術三角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Place the numbers 1 to 6 in a triangle of six circles with three circles on a side, so each side has the same sum."
+msgstr "**挑戰:** 將數字 1 到 6 放在一個由 6 個圓組成的三角形中，每邊有 3 個圓，並每條邊的總和是相同的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are really two challenges – find which sums work and how to get those sums. Let your child play with this to figure out which sums work, but if frustration wins out, the sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys this puzzle, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23."
+msgstr ""
+"這種智力遊戲實際上有兩個挑戰——找出哪些數額對於這種遊戲可以用以及如何獲得這些數額。 讓您的孩子玩這個遊戲試試找出哪些可以用的數字，但如果他感煩了，則數字是 9、10、11 和 12。\n"
+"\n"
+"如果您的孩子喜歡這個智力遊戲，也可以用較大的三角形。 對於一個有 9 個圓且邊有 4 個圓的三角形，可用的總和為 17、19、20、21 和 23。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC DESIGNS"
+msgstr "魔術圖案"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"From left to right, the diagrams above are for puzzles (2), (4), (8), and (9). The answers are in the Stage 4 Bonus Material file.\n"
+"\n"
+"1. The numbers 1 to 4 – a '+' shape with no circles in common.\n"
+"\n"
+"2. The numbers 1 to 5 – a '+' shape with one circle in common in the middle.\n"
+"\n"
+"3. The numbers 1 to 7 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"4. The numbers 1 to 9 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"5. The numbers 1 to 5 – an 'L' shape with one common circle in the corner.\n"
+"\n"
+"6. The numbers 1 to 8 – a '+' sign with no circles in common.\n"
+"\n"
+"7. The numbers 1 to 9 – a '+' sign with one circle in common in the middle.\n"
+"\n"
+"8. The numbers 1 to 12 – a 'star' shape, with 6 directions of lines of 4 circles.\n"
+"\n"
+"9. The numbers 1 to 7 – an 'H' shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. The five possible lines of 3 are connected. Hint: The sum is 12."
+msgstr ""
+"**挑戰:** 將數字放入圓圈中，使相連圓圈的每條直線都具有相同的總和。\n"
+"\n"
+"上圖從左到右依次為智力遊戲(2)、(4)、(8) 和 (9)。 答案就在第 4 階段附加材料檔案中。\n"
+"\n"
+"1. 數字 1 到 4—— 一個「+」形狀，沒有共同的圓圈。\n"
+"\n"
+"2. 數字1到5——一個「+」形狀，中間有一個共同的圓圈。\n"
+"\n"
+"3. 數字1至7——由3個圓圈組成的「星」形； 中間有一個共同的圓。\n"
+"\n"
+"4. 數字1至9——由3個圓圈組成的「星」形； 中間有一個共同的圓。\n"
+"\n"
+"5. 數字 1 到 5—— 一個「L」形狀，角上有一個共同的圓圈。\n"
+"\n"
+"6. 數字 1 到 8—— 一個「+」號，沒有共同的圓圈。\n"
+"\n"
+"7. 數字 1 到 9—— 一個「+」號，中間有一個共同的圓圈。\n"
+"\n"
+"8. 數字1至12——「星」形，有6個方向的線，每條線有4個圓圈。\n"
+"\n"
+"9. 數字 1 到 7—— 一個「H」形狀 – 3 垂直位於左側，1 位於中間，3 垂直位於右側。三條線中的五條可能的線被連線起來。提示：總和是 12。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING 10’S"
+msgstr "抓十位"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Turn long addition problems into simpler problems by grouping numbers that add up to 10. Instead of adding 3 + 8 + 9 + 4 + 7 + 6 + 2 from left to right, rearrange the terms to put the number bonds for 10 together. This example becomes (3 + 7) + (8 + 2) + (4 + 6) + 9, which is 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Once this is easy, include trickier problems such as 4 + 8 + 9 + 5 + 3, which can be rearranged as (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Make simplifying expressions a game with your child."
+msgstr ""
+"透過對加起來等於 10 的數字進行分組，將長加法問題變成更簡單的問題。不要將 3 + 8 + 9 + 4 + 7 + 6 + 2 從左到右相加，而是重新排列各項，將 10 的數字關係放在一起。那麼，此例子變為 (3 + 7) + (8 + 2) + (4 + 6) + 9，即 10 + 10 + 10 + 9 = 39。\n"
+"\n"
+"一旦這很容易，包括更復雜的問題，例如 4 + 8 + 9 + 5 + 3，可以將其重新排列為 (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29。 讓簡化表示式成為與您的孩子一起進行的遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER UP"
+msgstr "覆蓋"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This activity combines the approaches of 'What's Missing?' from Stage 2 and 'Shape Sums' of Stage 3. Take a collection of small objects, count them, and spread them out on a surface. Use pieces of paper, cloth, or bowls to cover over one or more groups of the objects. Use the same color paper when covering groups of the same size.\n"
+"\n"
+"**The challenge:** Find out how many objects are in each covered group.\n"
+"\n"
+"**Four Steps:**\n"
+"\n"
+"* Count the number you can see and compare to the total.\n"
+"* Find one way to solve it.\n"
+"* Find other ways to solve it.\n"
+"* Verify your answer(s)."
+msgstr ""
+"**遊戲佈局:** 此活動結合了第二階段的「缺少什麼」活動和第三階段「形狀總和」活動的方法。收集一些小物體，數一下它們的數量，然後將它們鋪在一個表面上。使用紙片、布或碗覆蓋一或多組物體。 覆蓋相同尺寸的組時，請使用相同顏色的紙張。\n"
+"\n"
+"**挑戰:** 找出每個覆蓋組中有多少個物體。\n"
+"\n"
+"**四個步驟**\n"
+"\n"
+"* 數一下你能看到的數字並與總數進行比較。\n"
+"* 找到一種方法來解決問題。\n"
+"* 尋找其他方法來解決此問題。\n"
+"* 驗證你的答案。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** As pictured above, suppose you have 18 items and you cover 14 of them with two red pieces of paper. Your child sees the number 18 and that there are 4 uncovered items. They can subtract 18 - 4 and know that 14 pieces are covered. Because the same color is used, the covered items must be equal, so each must be 7, which is half of 14.\n"
+"\n"
+"Here is where the best, and most important, 'step' starts. What other ways are there of discovering that each covered group has 7 items? Your child could count by 2's and see that there are seven 2's as they skip count from 4 to 18. They could break 18 into halves of 9 each and break the 4 into halves of 2 each – then each group of 9 consists of a covered group plus 2 more, so the covered groups are 7 each.\n"
+"\n"
+"Keep exploring and thinking of ways to use all the interesting math relationships!"
+msgstr ""
+"**例子:** 如上圖所示，假設您有 18 件物體，並用兩張紅色紙蓋住其中 14 件。您的孩子看到數字 18，並且有 4 件未覆蓋的物體。他們可以減去18-4，就知道有14物體被覆蓋了。因為使用了相同的顏色，所以覆蓋的物體必須相等，因此每個必須是 7，即 14 的一半。\n"
+"\n"
+"這是最好的、也是最重要的「步驟」開始的時刻。還有什麼其他方法可以發現每個覆蓋組有 7 個物體？您的孩子可以按 2 數數，並看到有七個 2，因為他們從 4 跳數到 18。他們可以將 18 個分成兩半，每半個 9 個，將 4 個分成兩半，每半個 2 個，然後每組 9 個由一個覆蓋組加上 2 個組成，因此覆蓋組各為 7 個。\n"
+"\n"
+"繼續探索和思考如何使用所有有趣的數學關係！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2.\n"
+"Although not as obvious, the same is true for multiplication."
+msgstr "您的孩子對加法非常熟悉，因此對他們來說 2 + 3 與 3 + 2 相同也就不足為奇了。儘管乍一看並不那麼明顯，但乘法也是如此。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 x 4, they also know 4 x 3."
+msgstr ""
+"此圖顯示兩行三行與三行兩行相同 - 您只是改變了您的觀點！\n"
+"\n"
+"兩個數字相乘的順序並不重要——無論哪種方式，你都會得到相同的答案！\n"
+"\n"
+"好訊息是這個很酷的觀察結果意味著你的孩子只需要掌握大約一半的乘法事實—一旦你的孩子知道了3 x 4，他們也知道了4 x 3。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING IS MULTIPLICATION"
+msgstr "跳位計數 就是乘法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"All that skip counting practice your child did paid off in getting much better at addition and subtraction. It also will be a big help in getting started with multiplication. Skip counting by 5's makes them particularly quick to learn.\n"
+"\n"
+"Although skip counting is not the fastest way to find a result, it is reliable. To find 7 x 3 either skip count by 3’s seven times or skip count by 7’s three times.\n"
+"\n"
+"Your child will eventually memorize these facts, but skip counting is handy for now."
+msgstr ""
+"您的孩子所做的所有跳數練習都得到了回報，在加法和減法方面取得了更好的成績。這對於開始學習乘法也有很大的幫助。跳過 5 的計數使他們學起來特別快。\n"
+"\n"
+"儘管跳位計數不是查詢結果的最快的方法，但它是可靠的。要找到 7 x 3 的答案，請跳過 3 次計數七次或跳過 7 次計數 3 次。\n"
+"\n"
+"您的孩子最終會記住這些事實，但跳位計數目前是一個有用的工具。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 3 AND 4"
+msgstr "乘以 3 和 4"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Mental Math"
+msgstr "更多心算-乘法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For someone good at adding, multiplying by 3 and 4 can be quick and easy.\n"
+"\n"
+"Multiplying a number by 3 is adding the number to double the number. So, 3 x 6 is 6 more than double 6, which is 6 + 12 = 18.\n"
+"\n"
+"Four times a number is doubling a number twice. So, 4 x 7 is 2 x (2 x 7), which is 14 + 14 = 28."
+msgstr ""
+"對於擅長加法的人來說，乘以 3 和 4 既快速又簡單。\n"
+"\n"
+"將一個數乘以 3 就是將該數相加，使該數加倍。 因此，3 x 6 比雙 6 多 6，即 6 + 12 = 18。\n"
+"\n"
+"一個數的四倍等於一個數的兩倍。 因此，4 x 7 等於 2 x (2 x 7)，即 14 + 14 = 28。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "總和方形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**遊戲佈局:** 使用一個 3 x 3 的方形網格，其中為每行和每列給出了目標總和。從 1 到 9 的一些數字已經填空在網格中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**挑戰:** 將剩餘的數字放入網格中，使行和列的總和成為目標值。\n"
+"\n"
+"**如何建立:** 要製作這樣的智力遊戲，首先將寫有數字 1 到 9 的紙片放在 3 x 3 的網格上。\n"
+"\n"
+"對於每一行和每一列，將總和寫在右側或下方。然後，從網格中刪除一些數字。最後，將帶有您刪除的數字的紙片交給您的孩子，並詢問「我們應該把這些數字放在哪裡？」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "使總和更小的一種變體是使用 0 到 8 之間的數字。更難的一種變化是在 3 x 4 網格中使用數字 1 到 12。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "加法金字塔"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**遊戲佈局:** 使用金字塔，將 10 個數字分成 4 行，並在它下面包含一個目標數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**挑戰:** 使用每一行中的一個數字找到穿過金字塔的路徑，使數字之和為目標數字。路徑上的數字必須相互連線。\n"
+"\n"
+"**例子:** 這個智力遊戲答案是 5 –> 4 –> 1 –> 7。\n"
+"\n"
+"**如何建立:** 透過填寫您想要形成路徑的數字來製作這些智力遊戲之一，並記錄這些數字的總和。然後填寫金字塔中剩餘的誘餌數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "總和差異"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**玩法:** 一個人說出兩個數字，一個是總和，另一個是差異，另一個人面臨的挑戰是找到具有該總和和差異的原始兩個數字。例如，如果一個人說總和是12，差異是6，另一個人要說原來的數字是3和9。\n"
+"\n"
+"**反向角色:** 由於提出這些問題非常容易，因此這是讓您的孩子成為提問者的好活動。並非所有和與差的數字組合都會產生合理的答案。然而，如果你首先說出兩個數字，然後說出它們的和與差，那就肯定只有一個答案。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "毒數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**遊戲佈局:** 從一副牌中取出花牌（如果您願意，可以將皇后用作 0）。在開始之前，就該輪的一組「有毒」的數字達成一致。有毒數字可以是您希望您的孩子練習或變得更加熟悉的任何數字組。\n"
+"\n"
+"* 偶數（2、4、6、8、10、12）\n"
+"* 奇數（1、3、5、7、9、11）\n"
+"* 平方數（1、4、9、16、25）\n"
+"* 素數（2、3、5、7、11、13、17、19）\n"
+"* 數字的倍數，例如 3 的倍數\n"
+"\n"
+"**玩法:** 給每位玩家發三張牌。第一個玩家丟棄一個不是毒數字的牌並將其從抽牌堆中替換。下一位玩家棄掉一張牌，使另外兩張牌的總和不是毒數字，並替換抽牌堆中的棄牌。下一位玩家出牌，使三張牌的總和不是毒數字，依此類推。\n"
+"\n"
+"**獲勝方法:** 第一個無法丟棄不產生毒數的牌的玩家失敗並退出。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "該遊戲對於兩名以上玩家同樣適合。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "讓您的孩子玩耍並思考這些調查。不要太急。其活動的價值在於玩耍和發現美麗的數字模型。 這些活動中有一些更深層次的數學知識，但這些想法可以等到你的孩子長大一些。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "花瓣"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**問題:** 在一個奇特的花園裡有兩種花。一種有4個花瓣，另一種有7個花瓣。一個孩子被讓摘一些花，並使花瓣總數達到 13 片。能做到嗎？15片花瓣怎麼樣？需要多少花瓣才能滿足這個要求？對於可能的數字，是否可以透過不止一種方式來完成？例如，32片花瓣是4個7和1個4，也是8個4。\n"
+"\n"
+"**遊戲變體:** 透過改變數字，有很多例子可以玩。對於某些數字對，存在一個點，其中所有花瓣數都是可能的，而對於其他數字對，則不存在這樣的點。對於 4 和 7，從 18 開始的每個數字都是可能的。對於3和6，沒有一個點之後所有的數字都是可能的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "攀登臺階——有多少種方式？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**問題:** 假設您的孩子有時喜歡一次走兩步，有時喜歡一次走一步。如果您的孩子上升一些臺階，有多少種方法可以做到？\n"
+"\n"
+"例如,對於 0 步, 只有一種方法 - 你就站在那裡。對於 1 步驟，只有一種方法。對於兩步，您可以一次走兩步，也可以兩次走一步，所以有兩種方法。\n"
+"\n"
+"仔細思考許多例子，然後將結果製成表格。當資訊很多時，製作表格通常會有所幫助。表的開頭如下所示："
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "看了這些數字後，您的孩子可能會注意到每對數字相加就是下一個數字。為什麼會發生種情況？ 這些數字稱為斐波那契數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "天平"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "計數的樂趣"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"天平是一種用於判斷兩個物體何時具有相同重量的裝置。天平常配有一組用於稱量物體的砝碼。如果你限制了允許使用的重量，你可以做下面一些有趣的調查。\n"
+"\n"
+"**第一個問題:** 如果你只有 4 個單位和 7 個單位的砝碼，那麼你能精確稱出的東西就和你在花瓣調查中發現的一樣。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**第二個問題:** 如果砝碼位於天平的兩側，您可以準確稱量哪些東西？\n"
+"\n"
+"**第三個問題:** 如果您不使用尺寸 4 和 7 單位的砝碼，而是使用 3 和 8單位的砝碼，那麼這兩個問題的答案會如何變化？ 或者也許您使用 4 和 6單位 或 8 和 12單位呢？\n"
+"\n"
+"**第四個問題:** 如果在 1、2、4、8 和 16 的雙倍級數中每個重量單位各有一個砝碼，那會發生什麼情況？對於 13 個單位的物體，有多少種稱量方法？如果你允許兩側都有砝碼，事情會改變嗎？您能測量的最大重量是多少？ 這種情況與二進位制數系統有關。\n"
+"\n"
+"**第五個問題:** 如果在1、3、9 和 27三倍級數中使用單一砝碼會發生什麼？如果將這些砝碼放在兩側，您可以稱出哪些東西？\n"
+"\n"
+"**第六個問題:** 如果砝碼是斐波那契數，那會發生什麼？是否有超過一種的方法來稱量某些砝碼？找到斐波那契砝碼的限制，使得只有一種方法可以找到每個單位的重量。"
 
 #. type=data_list
 msgctxt "data_list"
