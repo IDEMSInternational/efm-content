@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-06-21 21:46\n"
+"PO-Revision-Date: 2025-06-21 22:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14707,6 +14707,16 @@ msgstr ""
 msgctxt "data_list"
 msgid "Seeing that the conjecture is true is a lot easier now. The bounces correspond to crossing lines - there are (k - 1) of them to cross in one direction and (n - 1) of them to cross in the other direction, so together that makes a total of (k - 1) + (n - 1) = k + n - 2 lines to cross. Seeing which corner it ends up in is a matter of keeping track of how things unfold. We’re all done now with quite an interesting journey."
 msgstr "이제 그 추측이 사실임을 확인하는 것이 훨씬 쉬워졌습니다. 튕겨나가는 것은 교차 선에 해당합니다. 한 방향으로 교차하는 (k - 1)개와 다른 방향으로 교차하는 (n - 1)개가 있으므로 함께 총 (k - 1) + ( n - 1) = k + n - 2개의 선을 건너야 합니다. 그것이 어느 코너에서 끝나는지 보는 것은 상황이 어떻게 전개되는지 추적하는 문제입니다. 이제 매우 흥미로운 여행을 마쳤습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing With Shapes"
+msgstr "모양 가지고 놀기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Investigation"
+msgstr "탐구활동"
 
 #. type=data_list
 msgctxt "data_list"
