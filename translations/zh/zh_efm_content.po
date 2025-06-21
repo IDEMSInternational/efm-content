@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-18 17:22\n"
+"PO-Revision-Date: 2025-06-21 12:47\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10002,6 +10002,168 @@ msgstr ""
 "**挑戰:** 找到要刪除的專案，使每行和每列中剩餘數字的總和為目標總和。\n"
 "\n"
 "**如何建立:** 透過放入總和為目標總和的成對或三組數字來製作這些智力遊戲。 然後用假目標數字填充剩餘的空間。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "摺疊展開式"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "這提供了一種物理方法來了解兩位數如何由十和一組成。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "來取一張紙，最好得用一張可以並排放置四張數字卡的紙。 在紙張上加：空格 - 「0」 - 「+」 - 空格。 「+」號兩側有垂直摺疊。使用回形針在兩個空格上新增數字。 如果使用 2 和 3，摺疊起來看起來像 23，但展開後變成 20 + 3。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "我在想一個數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"一名玩家想出 0 到 99 之間的一個數字。另一名玩家透過提出有關十位和個位的問題來算出該數字。\n"
+"\n"
+"假設數字是 23。玩家可以詢問另一名玩家如果十位數字是否大於或等於個位數字 - 23的情況並非如此。玩家可以詢問兩位數之和是否小於 8 –是對的. 然後玩家可以詢問十位數字的兩倍是否比個位數字大 - 也是對的。此時，數字一定是23或34。詢問各位數字之和是否小於6，結束本輪。\n"
+"\n"
+"問題型別可以是玩家同意的任何型別，但最好是涉及個位和十位數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "以個位和10位跳島"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "數字展開式和位值"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "給出了一個矩形數字網格，其中填寫一些數字。填寫剩餘的數字，使得共享一邊的任何兩個數字僅在一個位置不同，並且該位置的數字之間的差異為 1（包括 0 和 9 之間的數字）。任何數字都不能使用一次以上。對於求解新手來說，使用100圖表可能會有所幫助。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**如何建立:** 取一個空網格，用數字填充，不要重複數字。接下來，刪除一些數字。在本例中，紅色數字是缺失的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "數學井字棋"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**設定:** 使用井字棋盤和上面有數字 1到 9的代幣。 一名玩家擁有奇數，另一名玩家擁有偶數。\n"
+"\n"
+"**玩法:** 玩家輪流放置一個代幣，奇數玩家先放置。 第一個連續完成 3 個且總點數為 15 的玩家獲勝。一種變體是繼續玩，填寫所有方格，然後看看哪個玩家打出了最多的15分。\n"
+"\n"
+"一個相關的遊戲是有一個進攻者和一個防守者。 進攻方先走（第一步不能是網格中間的5）並試圖得到15，防守者方試圖阻止進攻方者。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "重溫記憶挑戰"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "我們來玩總數遊戲吧"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**遊戲佈局:** 面朝下發一格牌。4 x 4 網格是一個合適的尺寸。\n"
+"\n"
+"**玩法:** 玩家輪流翻出兩張牌。如果牌“匹配”，則玩家保留牌，再將兩張牌發到空白處，然後玩家再輪一次。如果牌不匹配，則將牌翻回原處，並玩家的回合結束。\n"
+"\n"
+"**獲勝方法:** 遊戲結束時，擁有最多牌的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"以下是卡牌如何匹配的想法:\n"
+"\n"
+"* 使用目標總和。 如果兩張牌的總和匹配目標數，則兩張牌匹配。\n"
+"* 使用目標差異。如果兩張牌的總和匹配差異數，則兩張牌匹配。\n"
+"* 將有加法或減法問題的卡片與有答案的卡片一起使用 - 如果問題與答案匹配，卡片就匹配。\n"
+"* 使用數字的展開式。選擇 0 到 99 之間的 20 個數字，然後把這些數字寫在紙上。 另外，將每個內容以擴充套件形式寫在一張紙上。例如，為 53 建立 50 + 3，為 30 建立 30 + 0，為 7 建立 0 + 7。將這兩副 20 張牌洗在一起。當常規數字與其擴充套件形式配對時，兩張牌就會匹配。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "誰離得最近"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**遊戲佈局:** 將 5、10、25 和 50垂直寫在一張紙上。在 5 的每一側各保留一個空格，在其他數字的每一側各保留兩個空格。一名玩家填補左側的空格，另一名玩家填補另一側的空格。 每個玩家還有一個額外的空格可以與一個可忽略的數字就會使用一次。\n"
+"\n"
+"**玩法:** 玩一副從 0 到 9 的數字卡。從牌組中任意的選擇一張卡，使用後將其放回原處。 兩名玩家必須在尚未填寫的空格中使用該數字。一旦所有空格都填滿，玩家的數值就會與每個目標數值進行比較。最接近每個目標數字的玩家將獲得一分，如果兩個玩家同樣接近，則兩人都將獲得一分。\n"
+"\n"
+"**獲勝方法:** 得分最多的人獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "透過設定另一的目標數字來改變這個遊戲。 您還可以選擇透過總結每個玩家的所有錯誤來對遊戲進行評分。在這個變體中，得分較小的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "戰爭-雙位數比較"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**遊戲佈局:** 將一副撲克牌洗好，去掉面牌和十張牌，然後將其平均分配給兩名玩家。\n"
+"\n"
+"**玩法:** 每個玩家翻開兩張牌並將它們並排放置以形成一個雙位數的數字。 數字較大的玩家保留所有四張牌。 如果有平局，則每位玩家再翻兩張牌，獲勝者獲得所有的八張牌。\n"
+"\n"
+"**獲勝方法:** 一張或多張牌經過後，擁有最多牌的玩家獲勝。"
 
 #. type=data_list
 msgctxt "data_list"
