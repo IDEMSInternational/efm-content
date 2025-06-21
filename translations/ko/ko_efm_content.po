@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-06-21 19:43\n"
+"PO-Revision-Date: 2025-06-21 20:47\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7140,6 +7140,17 @@ msgstr "단서가 되는 특징들"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup.** Decide on an interesting place for the treasure. It can be just the place, or you could put some silly thing there that your child will enjoy finding.  \n"
+"\n"
+"The \"map\" can be done in one of two ways. It can be a drawing of the area with interesting landmarks drawn in, and with an \"X\" marks the spot where the treasure is. Or, it can be a series of directions that must be followed to get to the treasure. The directions can be as simple as \"face the clock and go forward 9 steps,\" or they can be descriptions similar to those in the Scavenger Hunt activity \"face something blue and round, then walk toward a group of three red things until you are next to something to sit on.\""
+msgstr ""
+"**준비하기** 보물을 숨기고 싶은 재미있는 장소를 정해 보아요. 그냥 장소만 정해도 되고, 아이가 찾으면 좋아할 만한 깜짝 물건을 숨겨도 좋아요.\n"
+"\n"
+"“지도”는 두 가지 방법으로 만들 수 있어요. 하나는 장소를 그림으로 그려서, 눈에 띄는 것들을 표시하고, 보물이 있는 곳에 “X”를 그리는 방법이에요. 또 하나는 “시계 방향으로 9걸음 가요”처럼 글로 설명하는 방법이에요. 혹은 “파랗고 둥근 물건을 보고 선 다음, 빨간색 물건 세 개가 있는 쪽으로 걸어가요. 그 옆에는 앉을 수 있는 물건이 있어요”처럼 재미있는 설명을 써도 돼요."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "DESCRIBING SCENES"
 msgstr "장면을 설명하기"
 
@@ -7188,6 +7199,50 @@ msgstr "누구인가요?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "이것은 몇몇 사람들을 위한 활동입니다. 리더는 비밀리에 그룹에서 한 사람을 뽑습니다. 비밀의 인물을 좁히기 위해, 플레이어는 “이 사람은 앞면에 삼각형이 있는 셔츠를 입고 있나요?”와 같은 질문을 합니다. 또는 “이 사람의 머리카락 길이가 12인치 이상인가요?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "이것은 대체 누구의 도형일까요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a collection of cards with standards shapes drawn on them. These could be square, circle, triangle, rectangle, parallelogram, pentagon, hexagon, octagon, oval, star, or anything else you child is familiar with. \n"
+"\n"
+"**How to play:** A child can do this by themselves, or with a partner. Give a small random collection of the shape cards to the child or children for them to act out silently. They can use their body parts (but not their fingers) and the ground to do things that suggest the shape. Their goal is to have the other people guess the name of the shape. You can make it competitive by having a time limit and seeing which team can do the most shapes in the allotted time."
+msgstr ""
+"**준비하기** 기본 도형이 그려진 카드를 모아 보아요.\n"
+"네모, 원, 삼각형, 직사각형, 평행사변형, 오각형, 육각형, 팔각형, 타원, 별 등 아이들이 잘 아는 모양이면 다 괜찮아요.\n"
+"\n"
+"**놀이 방법** 혼자서 해도 되고, 친구와 짝을 지어도 좋아요. 랜덤으로 도형 카드 몇 장을 뽑아 아이에게 줘 보아요. 아이들은 손가락을 쓰지 않고 몸 전체를 써서 그 도형을 표현해요. 예를 들어 팔이나 다리를 뻗어서 원이나 삼각형 모양을 만들어 보는 거예요. 함께하는 친구는 어떤 모양인지 맞혀 보아요.\n"
+"\n"
+"시간을 정해 놓고 누가 더 많이 표현하고 맞히는지 게임처럼 해도 재미있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BUILDING WITH SHAPES"
+msgstr "모양들로 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unknown Shapes"
+msgstr "처음 보는 모양들"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bring together an interesting collection of shapes for your child to play with.\n"
+"\n"
+"The shapes may all be flat polygons, in which case your child can play with making designs and tiling patterns. Explore which shapes fit together nicely and which don't. Name some of the shapes as your child picks them up.\n"
+"\n"
+"They may be things that can be stacked or placed together in interesting ways, such as boxes and cans. If two structures are built, talk about which is taller, wider, or stronger. Which one has more pieces in it? Which pieces are easy to put on top of each other and which ones are not?"
+msgstr ""
+"아이와 함께 놀 수 있도록 재미있는 모양들을 모아 보아요.\n"
+"\n"
+"이 모양들이 평평한 도형들이라면, 모양들을 이어서 그림을 만들거나 바닥에 붙여서 타일처럼 놀이해 볼 수 있어요. 어떤 모양이 잘 맞고, 어떤 모양은 잘 안 맞는지 함께 알아보아요. 아이가 고른 모양 이름도 하나씩 말해보아요.\n"
+"\n"
+"또는 상자나 깡통처럼 쌓을 수 있는 물건들이어도 좋아요. 두 개의 구조물을 만들어 보고, 어떤 것이 더 높거나 넓거나 튼튼한지 이야기해 보아요. 어떤 구조물이 더 많은 조각으로 만들어졌는지도 비교해 보아요. 어떤 모양이 다른 것들 위에 잘 올라가고, 어떤 것은 잘 안 되는지도 함께 이야기해 보아요."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7472,6 +7527,58 @@ msgstr ""
 "뽑기 더미에서 카드를 한 장 가져와서 불러 봅니다. 각 플레이어는 자신의 격자에 있는 카드 중에 일치하는 숫자카드 한 장을 뒤집을 수 있습니다. 플레이어가 두 장 이상의 일치하는 카드를 가지고 있는 경우, 플레이어는 어느 것을 뒤집을 것인지 선택해야 합니다.\n"
 "\n"
 "**이기는 방법:** 수평, 수직, 또는 대각선으로 4장의 카드를 연속으로 뒤집는 첫 번째 사람이 게임에서 이기고 “빙고”를 외칩니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SMALLEST SINGLE NUMBER"
+msgstr "가장 작은 수 찾기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Gather a group of people together in a circle. Have them each think of a whole number that they will use for this round of the game. One person is the announcer.\n"
+"\n"
+"**How to play.** The announcer starts slowly counting up starting at 1. With each number, any person who was thinking of that number raises their hand. If only one hand is raised, that person is the winner and the round is over. If more than one hand is raised, those people are out of the game for this round and the announcer continues counting up.\n"
+"\n"
+"Make this an active game by having all the players sitting down or crouched down. When their number is called, the person jumps up."
+msgstr ""
+"**준비하기** 사람들이 원을 만들어 둘러앉아요. 각자 마음속으로 숫자 하나를 정해요. 한 명은 진행자가 되어 숫자를 셀 준비를 해요.\n"
+"\n"
+"**놀이 방법** 진행자는 숫자 1부터 천천히 숫자를 세기 시작해요.\n"
+"누군가 마음속으로 정한 숫자가 불리면 손을 들어요. 손을 든 사람이 한 명뿐이라면 그 사람이 이기고 그 판은 끝이에요. 하지만 손을 든 사람이 둘 이상이면, 그 사람들은 탈락이고 게임은 계속돼요.\n"
+"\n"
+"아이들이 더 재미있게 참여할 수 있도록 모두 앉아 있거나 쭈그려 앉아 있다가, 자기 숫자가 불리면 벌떡 일어나는 방식으로 해보아요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "왔다가 갔다가 – 12"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 10"
+msgstr "10까지의 숫자"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr "**준비하기** 0부터 12까지 숫자가 적힌 빈 칸 보드를 준비해요. 각자 검은 말을 0에 놓고, 1보다 큰 숫자 중 세 군데에 빨간 말을 놓아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**놀이 방법** 주사위를 굴려서 나온 수만큼 검은 말을 앞이나 뒤로 움직여요.\n"
+"검은 말이 빨간 말 위에 도착하면, 그 빨간 말을 치우고 자기가 가져가요.\n"
+"\n"
+"**이기는 방법** 가장 먼저 빨간 말을 세 개 다 가져간 사람이 이겨요!\n"
+"\n"
+"**예시** 처음에 주사위에서 5가 나왔다면 5칸 앞으로 움직여요. 그다음 3이 나오면, 현재 위치에서 3칸 앞으로 가거나 뒤로 가서 2 또는 8로 이동할 수 있어요."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8090,12 +8197,12 @@ msgstr "음식이나 동물등 아이가 관심을 가질 만한 주제를 선�
 #. type=data_list
 msgctxt "data_list"
 msgid "Variable names"
-msgstr "숫자에게 재미있는 이름 지어주기"
+msgstr "변수 이름"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
-msgstr "활동에서 누락된 숫자에 재미있는 이름을 사용하여 변수 이름에 대해 아이디어를 소개합니다."
+msgstr "놀이할 때 빠진 숫자에 재미있는 이름을 붙여서 변수 개념을 자연스럽게 소개해 보아요."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8405,6 +8512,32 @@ msgstr ""
 "줄 서있는 사람들과 같은 그룹의 크기를 누가 가장 잘 추정하는지 보며 수량의 감각을 개발합니다.\n"
 "\n"
 "어떤 방법으로도 수 세기를 하지 않고 빠르게 추정을 해보도록 노력해 보세요. 모두가 추정을 한 다음, 물건의 수를 세어보고 가장 가까운 사람에게 상을 주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "한 손 가득"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "숫자 크기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Have a collection of small items that will fit easily in a child's hand.\n"
+"\n"
+"**How to play.** Show your children the items and ask them to estimate how many of these items they think they can grab with one hand. Give them a little bit of time to come up with an answer, and then collect all the answers. If you have a number line handy, put a mark by each estimate. Take a moment to discuss why some are larger and some are smaller. Finally, have one child grab a handful, count together how many they have, and see which estimates were the closest.\n"
+"\n"
+"**Variations.** Use two hands if you want to get larger numbers. Also, use different sizes of objects to add variety and to produce smaller or larger numbers."
+msgstr ""
+"**준비하기** 아이 손에 쏙 들어갈 수 있는 작은 물건들을 여러 개 모아 보아요.\n"
+"\n"
+"**놀이 방법** 아이들에게 물건들을 보여주고, 한 손으로 몇 개쯤 집을 수 있을지 예상해 보도록 해요. 조금 시간을 주고 각자 예상한 숫자를 말하게 한 다음, 모두의 답을 모아 보아요. 수직선이 있다면 각 숫자마다 표시를 해보는 것도 좋아요. 예상한 수들이 어떤 이유로 다르게 나왔는지도 함께 이야기해 보아요. 그다음 한 아이가 진짜로 한 줌 집어서 몇 개를 집었는지 세어보아요. 누가 가장 가까운 예상을 했는지도 확인해 보아요.\n"
+"\n"
+"**응용하기** 양을 더 많이 알고 싶다면 양손으로 해보아요.\n"
+"또는 크기가 다른 물건들을 써보면 크고 작은 수의 차이도 자연스럽게 느낄 수 있어요."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8888,6 +9021,37 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "일어서기 / 앉기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
+"\n"
+"**How to play:** Suppose the leader selects the number 10. If the leader says the number 10, or anything that equals 10, such as 7 + 3, everyone stands up. If the leader says any other number, or anything not equal to 10, then everyone sits down. The leader can try to trick everyone else by standing up or sitting down when everyone should do the opposite."
+msgstr ""
+"**준비하기** 서기도 쉽고 앉기도 쉬운 넓은 공간을 준비해요. 그리고 한 명을 리더로 정해요.\n"
+"\n"
+"**놀이 방법** 리더가 숫자 하나를 정해요. 예를 들어 숫자 10을 정했다고 해볼게요. 리더가 10이란 숫자나, 10이 되는 덧셈(예: 7+3)을 말하면 모두 일어나요. 그 외의 숫자나 10이 아닌 수식을 말하면 모두 앉아요.\n"
+"\n"
+"리더는 헷갈리게 하기 위해 몸짓으로 반대로 유도할 수도 있어요! 예를 들어 “3 + 7!” 하고는 앉는 제스처를 해보는 거예요. 아이들이 속지 않도록 잘 생각해 보아요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"*10 대신 다른 숫자를 정해서 해보아요.\n"
+"*숫자가 5보다 크면 일어서고, 5 이하이면 앉아요.\n"
+"*짝수일 땐 일어서고, 홀수일 땐 앉아요.\n"
+"*숫자 안에 1이 들어 있으면 일어서고, 아니면 앉아요."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "CHOPSTICKS HAND GAME"
 msgstr "젓가락 손 게임"
 
@@ -9099,6 +9263,11 @@ msgstr ""
 "아이에게 이런한 질문에 대한 답에 대한 자신의 생각을 설명하고 조사해 보도록 하세요. 그리고 나서 실험을 통해 아이디어를 얻습니다.\n"
 "\n"
 "라운드가 시작되기 전에 어떤 토큰이 이길것인지 추측하여 여기에 경쟁 요소를 추가하세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "스도쿠 변형"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9448,6 +9617,11 @@ msgstr ""
 "**게임 방법:** 차례가 돌아가는 동안, 플레이어는 결합되지 않은 두 개의 인접한 점을 연결하는 수평선이나 수직선을 그립니다. 1x1의 새 줄이 완성되면 플레이어는 점수를 얻고 다른 선을 그립니다.\n"
 "\n"
 "**이기는 방법:** 더 이상 선을 그릴 수 없을때, 대부분의 점수를 가진 사람이 이깁니다. 점수를 추적하는 쉬운 방법은 얻은 각 상자 안에 첫 머리 글자를 적는 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use numbers.** One variation is to place numbers inside each square of the grid when the grid is first drawn. When a player completes a square, they receive the number of points inside the box. After all lines are drawn, the points are totaled up and the player with the most points wins."
+msgstr "**숫자 활용 게임** 또 다른 방법은 격자(칸) 안에 숫자를 적어두고 놀이하는 거예요. 누군가 네모칸을 완성할 때, 그 안에 있던 숫자만큼 점수를 받아요. 모든 줄이 완성되면 점수를 합산해서 점수가 가장 높은 사람이 이겨요!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10678,6 +10852,11 @@ msgstr "이 게임은 두 명 이상의 사람도 동일하게 잘 됩니다."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "INVESTIGATIONS"
+msgstr "탐구 활동"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
 msgstr "아이가 이러한 조사를 가지고 놀고 생각하게 하세요. 서두르지 마세요. 중요한 것은 놀면서 아름다운 패턴을 발견하는 것입니다. 이러한 활동에는 좀 더 깊은 수학이 있지만 이러한 아이디어는 아이가 더 클 때까지 기다릴 수 있습니다."
 
@@ -11032,8 +11211,79 @@ msgstr "**문자 대체 퍼즐:** 이 사라진 숫자 퍼즐은 간단한 변�
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FILL IN THE BLANKS REVISITED"
+msgstr "빈칸 채우기 다시 해보기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value, Add, and Subtract"
+msgstr "자리값, 덧셈, 그리고 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9. Decide on which version of this game to play and make a game board for each person. One person is designated the dealer.\n"
+"\n"
+"The game boards can be as simple as two blanks to fill in to form 2-digit numbers. In this case the winner is the person with the largest number (or the smallest number, if you prefer). You can have zero, one, or two discard blanks for numbers not to be used.\n"
+"\n"
+"More complicated game boards can involve one or more 2-digit, 3-digit, or 4-digit numbers. The task may be to add up the numbers, or perhaps to take their difference. For adding, you might want to maximize the sum without going over some agreed upon limit. For subtracting, you might want it to be as small as possible without going below 0. There are a large number of possibilities which give you many ways to practice skills. \n"
+"\n"
+"**How to play:** The dealer draws random cards one at a time. The players decide where on their game board they will use that number. After deciding, the placement of that number cannot be changed for the remainder of the game.\n"
+"\n"
+"**How to win:** When the game boards are filled, the player who does the best job of achieving the objective wins."
+msgstr ""
+"**준비하기** 숫자 1부터 9까지 있는 카드 덱을 잘 섞어요. 게임 방식에 따라 한 사람씩 게임판을 만들고, 한 명은 카드 나눠주는 역할을 맡아요.\n"
+"\n"
+"게임판은 아주 간단하게 빈칸 두 개를 만들어 2자리 숫자를 만들 수도 있고, 좀 더 어렵게 2자리, 3자리, 4자리 숫자 여러 개를 만들어도 좋아요. 목표는 가장 큰 수(또는 원하면 가장 작은 수)를 만드는 것이에요. 0이나 1, 2칸은 버리는 칸으로 정해서 숫자를 제외해도 괜찮아요.\n"
+"\n"
+"복잡한 게임판에서는 여러 숫자를 더하거나 빼는 문제로 바꿔보아요. 덧셈을 할 땐 어떤 기준보다 작지 않으면서도 가장 큰 수를 만들려고 해보아요. 뺄셈을 할 땐 0보다 작아지지 않게 최대한 작은 수를 만드는 걸 목표로 해보아요. 다양한 조건을 통해 계산 실력을 자연스럽게 연습할 수 있어요.\n"
+"\n"
+"**놀이 방법** 딜러(카드 나누는 사람)가 한 장씩 카드를 뽑아요. 카드를 받은 아이들은 각자의 게임판에서 그 숫자를 어디에 놓을지 정해요. 한 번 정한 숫자는 나중에 바꿀 수 없어요.\n"
+"\n"
+"**이기는 방법** 게임판이 다 채워지면, 미리 정한 목표(가장 큰 수, 가장 작은 수 등)를 가장 잘 이룬 사람이 이겨요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Play that the smaller number wins.\n"
+"* Decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"* Deal three cards to each player and let the players choose which one to put aside.\n"
+"* To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"* 누가 더 작은 숫자를 만들 수 있는지 겨뤄보아요.\n"
+"* 카드를 뒤집으면서 바로 보여줄지, 아니면 다 뽑은 후에 한꺼번에 보여줄지 결정해보아요.\n"
+"* 카드 세 장을 나눠준 다음, 한 장은 버리고 나머지 두 장만 사용하는 방식도 해보아요.\n"
+"* 덧셈 연습을 더 하고 싶다면, 두 자리 숫자 하나와 한 자리 숫자 하나를 만들 수 있도록 카드를 세 장 뽑아서 어떤 순서로 조합할지 고민해보아요.\n"
+"두 수의 합이 가장 크도록 해보는 거예요!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MAKING MULTIPLICATION CARDS"
 msgstr "곱셈 카드 만들기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a set of multiplication cards to practice these math facts while playing matching games your family played earlier: Stage 1 - Go Fish, Memory Challenge; Stage 2 - Bingo; Stage 3 - Hot Potato; and Stage 4 - Gin Rummy.\n"
+"\n"
+"**How to create:** Hand draw four cards for each math fact. These are the four cards for 3 × 4."
+msgstr ""
+"가족이 이전에 했던 매칭 게임을 하는 동안 이러한 수학 사실을 연습하기 위해 곱셈 카드 세트를 만듭니다: 1 단계 - 낚시 가기, 기억력 도전; 2 단계 - 빙고; 3 단계 - 뜨거운 감자; 그리고 4 단계 - 진 러미.\n"
+"\n"
+"**만드는 방법:** 각 수학 사실에 대해 네 장의 카드를 손으로 그립니다. 1) 표현, 2) 물건의 그룹, 3) 배열, 그리고 4) 소인수 분해. 3x4를 위한 네 장의 카드는 다음과 같습니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* the expression \n"
+"* groups of objects\n"
+"* an array\n"
+"* prime factoring"
+msgstr ""
+"* 표현식\n"
+"* 물건 묶음\n"
+"* 배열\n"
+"* 소인수분해"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11604,10 +11854,7 @@ msgstr "**퍼즐과 게임 다시하기:** 거듭 제곱이 배가 될 때 거�
 #. type=data_list
 msgctxt "data_list"
 msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
-msgstr ""
-"왼쪽에는 3 단계의 두 가지 예가 있습니다 – 모양 합계.\n"
-"\n"
-"오른쪽에는 덧셈 대신 곱셈을 사용하는 모양 곱에 대한 동일한 보기가 있습니다."
+msgstr "**예시:** 위에 나온 예시들은 “단계 3 – 도형 더하기” 활동에서 온 것들이에요. 아래는 같은 활동을 덧셈이 아닌 곱셈으로 바꿔서 한 “도형 곱하기” 예시들이에요."
 
 #. type=data_list
 msgctxt "data_list"
@@ -14557,6 +14804,11 @@ msgstr "첫 번째 플레이어는 토큰을 맨 아래 줄의 1-9 칸에 있는
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Bigger Boards"
+msgstr "더 큰 보드판들"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "These playing boards can be made as large as you like, though they do get to be quite large pretty quickly. Here are a few larger boards with the corresponding larger number ranges beneath them."
 msgstr "이 놀이판은 원하는 만큼 크게 만들 수 있지만 꽤 빨리 커집니다. 다음은 그 아래에 해당하는 더 큰 숫자 범위가 있는 몇 개의 더 큰 판입니다."
 
@@ -14572,6 +14824,11 @@ msgstr "제한된 계산기"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Puzzle"
+msgstr "퍼즐"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. You can come up with a wide variety of scenarios that can provide interesting challenges with a quick puzzle description. This activity is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
 "\n"
@@ -14580,6 +14837,11 @@ msgstr ""
 "심하게 고장난 계산기가 있고 계산기에서 어떤 결과를 산출해야 하는 문제가 있다고 가정해 보겠습니다. 빠른 퍼즐 설명으로 흥미로운 도전 과제를 제공할 수 있는 다양한 시나리오를 생각해낼 수 있습니다. 이 활동은 여유 시간이 있을 때마다 말로 하기가 쉽습니다. 다음은 시작하는 데 도움이 되는 몇 가지 예입니다.\n"
 "\n"
 "이러한 질문에서 더 깊은 수학이 진행되고 있는 순간이 있지만 대부분은 전적으로 문제를 가지고 노는 재미를 위한 문제입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Working Number"
+msgstr "하나만 눌러지는 숫자"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14628,6 +14890,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Two Working Numbers"
+msgstr "두 개가 눌러지는 숫자"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "a) Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
 "\n"
@@ -14655,6 +14922,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Binary Numbers"
+msgstr "2진수"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Suppose you only had a 1 key and could only add or double. For example, 2 x (2 x 1) + 1 is 5.  What other numbers can you create? \n"
 "\n"
@@ -14668,6 +14940,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "Double or Nothing"
 msgstr "두 배 또는 제자리"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Game"
+msgstr "게임"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14743,6 +15020,31 @@ msgstr ""
 "20 - 3/20 (5, 10 과 20에서)\n"
 "\n"
 "분명히 사용하기에 가장 좋은 숫자는 16, 12 및 20의 배수입니다. 간단한 전략 32, 64, 24, 48, 40이라는 5개의 숫자를 사용하는 것입니다. 이 숫자가 항상 이기는 것은 아니지만 시간이 지남에 따라 매우 잘 작동할 것입니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "1 단계 – 너의 말을 들을수 있어!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "2 단계 - 난 5까지 셀 수 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "3 단계 - 난 10까지 셀 수 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "4 단계 - 난 20까지 셀 수 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "5 단계 - 난 100까지 셀 수 있어요!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26048,4 +26350,453 @@ msgstr "어떤 사람이 여러분에게 10까지 세어보라고 한다면 여�
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "어떤 무리의 사람들은 종종 똑같은 방법으로 생각을 하면서 문제를 해결할수 있는 좋은 방법을 놓칩니다. 유능한 문제 해결사는 문제를 해결할 수 있는 새로운 방법을 찾아냅니다!"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "다음"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "이전"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "완료"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "개인정보 보호정책"
+
+#. type=template
+msgctxt "template"
+msgid "Template list"
+msgstr "템플릿 목록"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "안내 목록"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "앱 초기화"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "언어"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "EFM 앱이 업데이트를 다운로드했어요. 설치를 완료하려면 앱을 다시 시작해 주세요."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "다시 시작"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+"무엇보다도, 수학 게임은 가족이 함께하는 다른 놀이처럼 즐거운 시간이 되어야 해요!\n"
+"\n"
+"아이들이 실수하거나 잘못된 선택을 해도 바로 고쳐주지 말고 기다려 주세요. 정답이나 더 좋은 방법을 바로 알려주기보다는, 스스로 생각해보도록 시간을 주는 게 훨씬 더 많은 배움을 얻게 해준답니다. 급하게 하지 않아도 괜찮아요.\n"
+"\n"
+"아이의 선택이 이상해 보일 때는 “왜 그렇게 했는지” 조심스럽게 물어보아요. 만약 어떤 선택을 해야 할지 잘 모르겠다고 하면, 그 선택의 장점과 단점을 말해보게 하거나, 비슷한 상황에서 어떻게 해결했었는지를 떠올려보게 해보아요. 계산 방법을 잘 기억하지 못하는 경우에는 아이가 알고 있는 다른 방법들을 함께 이야기해보아요. 이런 대화들은 아이의 수학적 사고를 키우는 데 아주 중요해요!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+"퍼즐은 원래 시간이 걸리고 도전적인 활동이에요. 그러니까 아이에게 정답을 바로 알려주기보다는, 함께 천천히 생각해 보며 즐겨 보아요. 이 퍼즐들은 쉽게 만들 수 있도록 준비된 것이고, 아이와 함께 풀면서 재미있는 시간을 보내는 것이 가장 중요해요.\n"
+"\n"
+"아이가 퍼즐을 풀다가 막히면 여러 가지 방법으로 도와줄 수 있어요. 힌트를 주고 싶다면, 퍼즐의 답이 드러나지 않도록 아주 작은 힌트를 생각해 보세요. 또는 퍼즐을 더 작거나 쉬운 버전으로 바꿔보는 것도 좋아요. 아이에게 “자신 있게 아이디어를 내보자!”고 응원해 주세요. 가끔은 잘못된 길로 가기도 하지만, 그런 실수 속에서도 우리는 정말 많은 걸 배운답니다.\n"
+"\n"
+"퍼즐을 한 번에 (혹은 두 번, 세 번 시도해도) 못 푸는 건 당연한 일이에요.\n"
+"하루나 이틀 정도 퍼즐을 잠깐 잊고 있다 보면, 다시 떠오르는 좋은 생각이 있을 수도 있어요. 이 퍼즐들은 단순히 재미있기만 한 게 아니라, 문제 해결력을 키워주기 위해 만든 것이에요. 수학에서 가장 멋진 순간은 바로 그 “아하!” 하는 순간이에요. 여러 번 틀리고 고민하다가, 드디어 답을 찾았을 때의 기쁨은 정말 특별하죠. 아이에게 이런 발견의 순간을 자주 경험할 수 있도록 도와주세요!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"탐구 활동은 아이가 놀이하듯 생각하며 참여할 수 있도록 구성된 활동이에요. 아이가 흥미로운 규칙이나 아름다운 패턴을 찾아볼 수 있도록 해 주세요. 무슨 일이 일어나는지 정답을 바로 알려주고 싶은 마음은 잠시 참아 주세요. 아이가 막힌 것 같아 보인다면, 나중에 다시 이 활동으로 돌아와 다시 해보자고 제안해 보세요.\n"
+"\n"
+"많은 탐구 활동은 결과를 정리하면서 더 많은 배움을 줘요. 이건 보호자가 도와줄 수 있는 아주 좋은 기회예요. 표를 만들어보거나, 그림을 그려보거나, 아이가 지금 무슨 일이 일어나고 있는지 더 쉽게 이해할 수 있도록 함께 해 주세요. 그리고 물론, 때때로 부드럽게 방향을 잡아주는 것도 괜찮아요. 아이는 이런 과정을 통해 끈기를 기르고, 사물을 더 깊이 있게 바라보는 법을 배우게 될 거예요."
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
+msgstr "아이 도와주기"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "보너스 자료 읽기"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "활동 – 보너스 자료"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "소개"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "게임"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "퍼즐"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "탐구활동"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "개별"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "주제별"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**학습 단계**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**보너스 자료**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "보너스 자료 – 활동"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "일치 없음"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "활동 목록"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "동화책 목록"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**수학 학습 단계**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**동화책**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**활동**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "단계"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "초급"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "중급급"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "고급"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**초급 동화책**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**중급 동화책**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**고급 동화책**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "이야기 본문"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "첫번째 읽기"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "두 번째 읽기"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "세 번째 읽기"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "환영합니다!"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "동화책"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "활동"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "수학 학습 단계"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "놀이 날짜"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "동기화 중"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "동기화 중..."
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "복사"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "복사 완료!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "마지막 동기화 시각: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "이 기기는 아직 한 번도 동기화된 적이 없어요."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "지금 동기화하기"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "보너스 자료"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "일부 활동에는 예시나 추가 설명이 담긴 자료가 함께 있어요. 활동 페이지 아래쪽이나 여기에서 확인해보실 수 있어요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "각 학습 단계에는 아이와 함께 즐길 수 있는 재미있는 게임, 퍼즐, 활동, 탐구 놀이가 10개 정도 포함되어 있어요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "학습 단계"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr ""
+"각 단계 이름은 아이가 그 단계를 시작하기 위해 갖춰야 할 기본 능력을 나타내요.\n"
+"예를 들어 아이가 숫자를 10까지 셀 수 있고, 그 숫자의 의미를 이해하고 있다면 Stage 3부터 시작해도 괜찮아요. 단계별 자료는 순서대로 구성되어 있어서, 앞 단계에서 배운 내용을 바탕으로 다음 단계로 자연스럽게 이어질 수 있도록 되어 있어요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "어떤 종류의 활동을 하고 싶은지 선택해 주세요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "학습 단계 활동을 개별 보기로 할지, 주제별 보기로 할지 선택해 주세요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "각 학습 단계는 10개의 기본 학습 단계로 나뉘어 있어요. 각 단계는 아이가 무엇을 배우는지, 어떻게 도와줄 수 있는지, 그리고 단계들이 어떻게 연결되어 있는지를 설명해 줘요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "각 학습 단계에는 가족들이 함께 즐길 수 있는 10개의 놀이 시간이 있어요. 각 놀이 시간에는 함께 읽을 수 있는 동화책과 활동들이 포함되어 있고, 해당 단계의 수학 학습 단계와 연결되어 있어요. 자료에 쉽게 접근할 수 있도록 링크도 함께 제공돼요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "아이와 함께 책을 읽는 시간은 정말 특별한 경험이에요! 이 동화책들은 어른이 아이에게 읽어주는 방식이에요. 책을 읽으며 수학에 대한 질문이나 생각을 나누면 아이의 수학적 사고가 자라나고, 따뜻하고 즐거운 독서 시간이 수학과 좋은 연관성을 만들어줘요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "어떤 동화책 종류를 고를지 선택해 주세요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "초급 동화책"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "아이가 말을 하기도 전, 단어를 이해하지 못할 때부터 함께 이야기해 주세요. 모양, 색깔, 비교, 수량 같은 것들을 손가락으로 가리키며 말해 주세요. 아이가 단어를 이해하기 시작하면 물건을 가리키게 하고, 점점 말을 따라 하기 시작하면 간단한 질문도 섞어 보세요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "중급 동화책"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "이 동화책들은 조금 더 길고 이야기 구조가 조금 더 복잡해요. 이제 아이는 더 많은 것들을 말하고, 세상에 대해 생각하며 말할 수 있어요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "고급 동화책"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr ""
+"이야기 구조가 더 길고 복잡해지고, 수학 개념도 더 크고 어려운 것들이 포함돼요.\n"
+"사물에 대한 설명도 훨씬 자세하고 정교해져요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "환영합니다!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "수학을 함께 읽고 놀면서 즐겨 보세요! 수학을 배우고 경험하는 가장 좋은 방법은 사회적이고 놀이 중심적인 방식이에요. Early Family Math에서는 가족이 함께 즐길 수 있도록 4가지 종류의 자료를 만들었어요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "동화책"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "이 동화책들은 어른이 아이에게 읽어주는 책이에요. 각 페이지에는 수학 관련 설명과 생각해볼 질문들이 함께 있어요. 아이의 수학적 사고를 키워주고, 따뜻하고 즐거운 독서 시간이 수학과 좋은 연결을 만들어줘요!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "활동"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "이 활동들은 교육적으로 구성된 수학 게임, 퍼즐, 놀이, 탐구 활동이에요. 가족이 함께 즐기면서, 아이가 학교에서 필요한 수학 개념들을 익힐 수 있도록 도와줘요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "수학 학습 단계"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "수학에서 처음 배우는 학습 단계들이 어떤 건지, 그리고 그 단계들이 서로 어떻게 연결되어 있는지 궁금했던 적 있나요? 여기에는 5단계에 걸쳐 아이가 경험하게 될 10개의 수학 학습 단계가 간단히 정리되어 있어요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "놀이 날짜"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "다른 가족들과 함께 모여 수학 놀이 시간을 가져보세요. 이 놀이 시간에는 함께 읽을 동화책, 게임, 퍼즐이 추천되어 있어요. 여러 가족이 함께 즐기기 좋은 활동이에요."
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "도움말"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "이 소개 내용을 다시 보고 싶다면, 물음표 아이콘을 눌러주세요."
 
