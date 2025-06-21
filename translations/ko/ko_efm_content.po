@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-04-27 20:35\n"
+"PO-Revision-Date: 2025-06-21 19:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6845,7 +6845,7 @@ msgstr "**이기는 방법:** 도난당한 과자는 아이의 더미 일부가 
 #. type=data_list
 msgctxt "data_list"
 msgid "MATERIALS AND NUMBER CARDS"
-msgstr "숫자 카드 만들기"
+msgstr "준비물과 숫자 카드"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7060,6 +7060,83 @@ msgstr "**보기 – 모형:** 네 개의 물건이 빨간색 삼각형, 구멍�
 msgctxt "data_list"
 msgid "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas."
 msgstr "빨간색 삼각형은 사각형이 아닌 유일한 삼각형이고, 구멍이 있는 빨간색 정사각형은 구멍이 있는 유일한 사각형이며, 파란색 사각형은 빨간색이 아닌 유일한 사각형이며, 작은 빨간색 사각형은 다른 사각형보다 훨씬 작습니다. 항상 하나 이상의 좋은 대답이 있는 것은 아니지만, 당신은 항상 놀라운 아이디어에 열려 있어야 합니다."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "각각 하나씩 살펴보면, 나머지와 달라요"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Start with a group of four things with the following property: for each one of the things, the remaining three things have something in common that is not shared by the fourth.\n"
+"\n"
+"Challenge each other to find groups with this property. Be flexible and allow for any reasonable explanation that seems to work.\n"
+"\n"
+"**Example.** The first item is a triangle, while the others are squares. The second has a hole, while the others are solid. The third is a lot smaller than the others. The fourth is blue, while the others are red."
+msgstr ""
+"**준비하기** 네 가지 물건을 골라 보아요. 이 중 하나는 나머지 세 개와 다른 특징을 가지고 있어야 해요. 다시 말해서, 세 개는 서로 비슷한 점이 있고, 하나만 다르게 골라야 해요.\n"
+"\n"
+"서로 돌아가며 어떤 물건이 다른지 맞혀 보아요. 꼭 정해진 정답이 없어도 괜찮아요. 말이 되는 이유라면 모두 좋아요.\n"
+"\n"
+"**예시** 첫 번째 물건은 삼각형이고, 나머지는 네모예요.\n"
+"두 번째는 구멍이 뚫려 있지만, 나머지는 꽉 찬 모양이에요.\n"
+"세 번째는 다른 것들보다 훨씬 작아요.\n"
+"네 번째는 파란색이고, 나머지는 빨간색이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "보물찾기 놀이"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Make a stack of scavenger hunt cards in advance. The players can play individually or in small groups of two to three.\n"
+"\n"
+"Each card will describe a thing to find. It may be a specific thing, \"A stop sign,\" or it may be a description involving all sorts of descriptions and properties. Here are some examples that you might want to use individually or in combinations:\n"
+"\n"
+"* Colors\n"
+"* Size (bigger than a hand, smaller than a car)\n"
+"* Shapes (circle, triangle, square, ball, box)\n"
+"* Group size (two things together, three together, ...)\n"
+"* Patterns (A B A B ...)\n"
+"* Numbers\n"
+"* Position (under, over, on top of, next to)\n"
+"* Texture (smooth, rough, bumpy, pointy)\n"
+"* Uses (for writing, for sitting, ...)\n"
+"\n"
+"**How to play.** Randomly distribute three cards to each player or group of players. Their goal is to be the first to find things for each of their cards."
+msgstr ""
+"**준비하기** 먼저 보물찾기 카드 여러 장을 만들어 두어요.\n"
+"혼자서 하거나, 두세 명이 작은 팀이 되어 놀아도 좋아요.\n"
+"\n"
+"각 카드는 무언가를 찾아야 한다는 설명이 적혀 있어요. 예를 들어 “정지 표지판”처럼 아주 구체적인 걸 찾을 수도 있고, 색깔이나 모양처럼 어떤 특징을 보고 찾아야 할 수도 있어요.\n"
+"\n"
+"이런 특징들을 섞어서 써도 괜찮아요:\n"
+"\n"
+"* 색깔\n"
+"* 크기 (손보다 크거나, 자동차보다 작거나)\n"
+"* 모양 (원, 삼각형, 네모, 공, 상자)\n"
+"* 개수 (두 개씩 짝지어진 것, 세 개가 모인 것 등)\n"
+"* 패턴 (A B A B …)\n"
+"* 숫자\n"
+"* 위치 (위쪽, 아래쪽, 옆, 가까이 등)\n"
+"* 촉감 (매끄러운 것, 거친 것, 울퉁불퉁한 것, 뾰족한 것 등)\n"
+"* 쓰임새 (앉는 데 쓰는 것, 글을 쓰는 데 쓰는 것 등)\n"
+"\n"
+"**놀이 방법** 아이들이나 팀에게 카드 3장을 나눠 주어요.\n"
+"각 카드에 있는 물건을 제일 먼저 다 찾는 사람이 이기는 거예요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TREASURE MAP"
+msgstr "보물 지도"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Properties"
+msgstr "단서가 되는 특징들"
 
 #. type=data_list
 msgctxt "data_list"
