@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-21 12:47\n"
+"PO-Revision-Date: 2025-06-21 17:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10164,6 +10164,51 @@ msgstr ""
 "**玩法:** 每個玩家翻開兩張牌並將它們並排放置以形成一個雙位數的數字。 數字較大的玩家保留所有四張牌。 如果有平局，則每位玩家再翻兩張牌，獲勝者獲得所有的八張牌。\n"
 "\n"
 "**獲勝方法:** 一張或多張牌經過後，擁有最多牌的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "數學二十一點"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**遊戲佈局:** 一般來說，目標數字是 21，但對於年幼的孩子，請使用較小的數字，例如 12。為您的孩子調整撲克牌的內容。 例如，對於一個非常年幼的孩子，您可以用四種花色中的牌 1 到 4。\n"
+"\n"
+"**玩法:** 每位玩家發兩張牌 - 一張牌面朝上，一張牌面朝下（接收玩家是唯一能看面朝下的牌的人）。在一個轉中，玩家可以選擇再要求一張牌，直到玩家決定停止。 每個玩家輪完後，玩家都會比較自己的牌的總和。\n"
+"\n"
+"**獲勝方法:** 總和最接近並未超過目標的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "填空-比較"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing Double-Digit Numbers"
+msgstr "比較雙位數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9.\n"
+"\n"
+"**How to play:** Deal two cards to each player face down. Then, each player turns over one card and decides whether that card will be the tens or ones card. After deciding, each player’s remaining card is turned over and is used to fill the remaining place.\n"
+"\n"
+"**How to win:** The player with the larger number wins."
+msgstr ""
+"**遊戲佈局:** 洗一幅數字為 1 到 9 的撲克牌。\n"
+"\n"
+"**玩法:** 向每位玩家發兩張面朝下的牌。 然後，每個玩家翻開一張牌，並決定該牌是十位卡還是個位卡。確定後,將每位玩家剩下的牌翻過來，用於填補剩下的位置。\n"
+"\n"
+"**獲勝方法:** 數字較大的玩家獲勝。"
 
 #. type=data_list
 msgctxt "data_list"
