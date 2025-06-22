@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-06-10 03:50\n"
+"PO-Revision-Date: 2025-06-22 23:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8567,6 +8567,31 @@ msgstr "Si une grille de 4 x 4 est trop difficile pour un débutant, commencez p
 
 #. type=data_list
 msgctxt "data_list"
+msgid "STAGE 3 – I CAN COUNT TO 10!"
+msgstr "Étape 3 – Je peux compter jusqu’à 10 !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Introduction"
+msgstr "Étape 3 Introduction"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n"
+"\n"
+"In addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them"
+msgstr ""
+"**Où êtes-vous passé**\n"
+"\n"
+"Votre enfant compte de 0 à 10 et comprend la signification de ces quantités. Les premières compétences en matière d’addition et de soustraction se développent. Une base importante de ces compétences est se sentir à l'aise dans le fait d’ajouter et de soustraire 1 et 2 avec des petits nombres. Votre enfant comprend les petites quantités et raisonne à partir de ces quantités afin d’effectuer des additions et des soustractions avec des petits nombres.\n"
+"\n"
+"En plus de tout cela, votre enfant raisonne beaucoup mieux maintenant! Il comprend que les objets et les nombres ont des propriétés, il peut raisonner et commencer à résoudre des problèmes. Votre enfant est maintenant un membre à part entière de la famille des jeux et des puzzles mathématiques et explore le monde mathématique qui l’entoure."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n"
 "* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n"
@@ -8581,21 +8606,37 @@ msgid ""
 "* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n"
 "* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
 msgstr ""
-"* Compter sur — Il s'agit de compter vers le haut à partir de n'importe quel nombre, plutôt que de toujours commencer à 1. Ceci est utile pour l'addition et pour trouver des différences.\n"
-"* Compte à rebours — Il s'agit de compter à rebours à partir de n'importe quel nombre. Il est utile pour soustraire, ainsi que pour développer un sens pour les relations entre les nombres.\n"
-"* Liens de nombres — Les liaisons numériques d’un nombre sont toutes des paires de nombres qui s'additionnent pour former ce nombre. \n"
-"* Dix cadres — Cela représente un nombre de 0 à 10 comme le nombre approprié de points à l'intérieur d'une grille rectangulaire de 2 par 5. Pour les nombres supérieurs à 4, le groupe supérieur de 5 cases est toujours rempli.\n"
-"* Forme développée — Il s'agit d'écrire un nombre à plusieurs chiffres décomposé en la contribution de chacun de ses chiffres. Par exemple : 25 = 20 + 5 et 317 = 300 + 10 + 7.\n"
-"* Familles de faits — Il s'agit d'un groupe de faits mathématiques étroitement liés. Par exemple, 2 + 5 = 7 fait partie de la même famille que 7 - 2 = 5 et 7 - 5 = 2.\n"
-"* Ajout de jumeaux et de quasi-jumeaux — Un jumeau qui s’ajoute ajoute un nombre à lui-même, tel que 4 + 4. Un quasi-jumeau est à une distance d'un jumeau, comme 4 + 5.\n"
-"* Doubler, multiplier par deux et réduire de moitié, deux parties égales, diviser en deux — Les enfants aiment généralement ajouter des jumeaux. Avec cela vient l'idée de doubler et de multiplier par 2. Cela est également associé à la réduction de moitié, à la division de quelque chose en deux parties égales et à la division par deux.\n"
-"* Nombres pairs et impairs — Les nombres pairs peuvent être divisés en deux parties égales. Les nombres impairs ont un reste lorsqu'ils sont divisés en deux parties correspondantes. Les nombres pairs sont le résultat de l'addition de jumeaux.\n"
-"* Sauter en comptant par 2 — Cela signifie compter vers le haut ou vers le bas par 2 – comme 0, 2, 4, 6, 8 ou 13, 11, 9, 7, 5."
+"* Compter en montant – Compter du plus petit chiffre au plus grand à partir de n’importe quel nombre, plutôt que de toujours commencer à 1. Cela est utile pour les additions et pour trouver les différences.\n"
+"* Compter en descendant – Il s’agit de compter du plus grand chiffre au plus petit à partir de n’importe quel nombre. Cela est utile pour soustraire, ainsi que pour développer le sens des relations entre les nombres.\n"
+"* Nombre d’obligations –Il s’agit de paires de nombres dont la somme est égale à un nombre spécifique.\n"
+"* Dix cadres – Représenter un nombre de 0 à 10 par le nombre de points à l'intérieur d’une grille rectangulaire de 2 X 5. Pour les nombres supérieurs à 4, le groupe supérieur de 5 cases est toujours rempli.\n"
+"* Formulaire utilisé – Il s’agit d'écrire un nombre à plusieurs chiffres en décomposant la contribution de chacun de ses chiffres. Par exemple : 25 = 20 + 5 et 317 = 300 + 10 + 7.\n"
+"* Familles de faits – Il s’agit d’un groupe de faits mathématiques étroitement liés. Par exemple : 2 + 5 = 7 est de la même famille que 7 - 2 = 5 et 7 - 5 = 2.\n"
+"* Ajouter des chiffres jumeaux et des chiffres voisins – Ajouter un chiffre jumeau, tel que 4 + 4. Ajouter un chiffre voisin à un chiffre jumeau, tel que 4 + 5.\n"
+"* Doubler, multiplier par deux et diviser par deux, deux parties égales, diviser en deux – Les enfants aiment généralement additionner des chiffres jumeaux. L'idée de doubler et de multiplier par 2 est également associée à celle de diviser par 2, c'est-à- dire de diviser quelque chose en deux parties égales, et de diviser par 2.\n"
+"* Nombres pairs et impairs – Les nombres pairs peuvent être divisés en deux parties égales. Les nombres impairs ont un reste lorsqu’ils sont divisés en deux parties égales. Les nombres pairs sont le résultat de l’addition de chiffres jumeaux.\n"
+"* Sauter le comptage par 2 – Compter par 2 - comme 0, 2, 4, 6 ou 13, 11, 9, 7."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "SHAPE SUMS"
-msgstr "FORMER LES SOMMES"
+msgstr "SOMMES DES FORMES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**Le défi:** Remplissez les cercles manquants de manière à ce que chaque cercle soit la somme de tous les cercles qui lui sont directement inférieurs et reliés."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"Dans les puzzles les plus simples, la plupart des cercles sont remplis. Pour les enfants plus âgés, il existe des variantes qui impliquent des nombres plus importants et des solutions plus astucieuses.\n"
+"\n"
+"**Numéros répétés:** Une option consiste à utiliser des formes non circulaires pour les nombres répétés, alors que la valeur d’un cercle peut reproduire la valeur d’un autre cercle ou d’une autre forme, la valeur d’une forme non circulaire doit correspondre à la valeur de tous les autres endroits ayant la même forme."
 
 #. type=data_list
 msgctxt "data_list"
