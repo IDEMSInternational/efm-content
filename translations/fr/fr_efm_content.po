@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-06-23 04:44\n"
+"PO-Revision-Date: 2025-06-23 05:09\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9429,6 +9429,155 @@ msgstr ""
 "**Exemple 1 :** Supposons que le résultat soit : 4, 4, 3, 1, 3 et 22. Le premier joueur obtient 4 + 4 + 3 + 1 + 3 = 15; un autre joueur obtient 14 + 4 + 3 + 3 = 24; et un autre joueur obtient 34 - 14 + 3 = 23.\n"
 "\n"
 "**Exemple 2 :** Supposons que le résultat soit : 1, 2, 5, 6, 4 et 63. Un joueur s’en approche avec 65 - 4 + 2 + 1 = 64. Un autre l’obtient exactement avec 56 + 4 + 2 + 1 = 63. Un troisième dit que 52 + 6 + 4 + 1 = 63 fonctionne aussi. Discutez des raisons pour lesquelles certains problèmes ont plusieurs solutions."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "D’UNE MANIÈRE OU D’UNE AUTRE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "Assembler les pièces du puzzle"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"Les joueurs se mettent d’accord sur un objectif. Un objectif utile est 10, mais d’autres nombres sont acceptables.\n"
+"\n"
+"Chaque joueur reçoit cinq cartes d’un jeu sans figure. Les joueurs trouvent ensuite autant de façons que possible d’atteindre la cible, ou de s’en approcher le plus possible, en utilisant n’importe quelle combinaison d’addition et de soustraction avec n’importe laquelle de leurs cartes.\n"
+"\n"
+"Il s’agit d’une activité de groupe ou l’on donne à l'ensemble du groupe cinq cartes à utiliser pour trouver ensemble des moyens d’atteindre le total."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "SOLITAIRE PYRAMIDE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**La mise en place :** Retirez les cartes au-dessus d’un nombre cible, par exemple 10. Créez une pyramide de 21 cartes avec 6 rangées. Placez les cartes dans la pyramide face visible, chaque rangée inférieure recouvrant à moitié la rangée supérieure. Les cartes restantes forment une pioche.\n"
+"\n"
+"**Comment jouer :** Rassemblez et mettez de côté les groupes de cartes non couvertes dont la somme correspond à la cible. Ce groupe peut inclure la carte supérieure de la pioche ou de la pile de débarras.\n"
+"\n"
+"**Le défi :** Vider la pyramide de toutes ses cartes. La partie est terminée lorsque la pioche est vide."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**Les objectifs inférieurs :** Si vous utilisez un objectif inférieur à 10, réduisez la taille de la pyramide d’une ou deux rangées afin d’avoir une pile de tirage suffisamment grande. Par exemple, pour un objectif de 8, utilisez 15 cartes sur 5 rangées.\n"
+"\n"
+"**Utilisation de la soustraction :** Au lieu d’utiliser l’addition, utilisez la soustraction. Si vous utilisez les cartes jusqu'à dix, un bon chiffre est 5 - retirez les paires de cartes dont la différence est de 5. Lorsque vous avez un “5”, vous pouvez soit le retirer, soit l’associer à un 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "PYRAMIDE DE DIFFÉRENCE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "Solitaire Pyramide"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**Le défi :** Le défi consiste à placer les chiffres de 1 à 6 dans une pyramide avec une carte dans la rangée supérieure, deux cartes dans la deuxième rangée et trois cartes dans la troisième rangée, ou chaque chiffre est la différence des deux chiffres directement en dessous.\n"
+"\n"
+"Laissez votre enfant prendre le temps de jouer avec cela. Il est très probable qu’en jouant, il trouvera une solution. Toutefois, si votre enfant est anxieux, voici deux conseils qui peuvent l’aider. Le 6 doit se trouver dans la rangée du bas parce qu’il ne peut être la différence d’aucune paire de nombres. De même, le 5 doit se trouver soit dans la rangée du bas, soit dans la rangée du milieu, au-dessus de 6 et du 1."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "Défis liés"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "Si votre enfant trouve que c’est facile à faire, mettez-le au défi de trouver combien de façons de le faire. Discutez de ce que signifie la différence entre deux solutions : si une solution est l’image miroir d’une autre, doit-on la considérer comme différente ? Un autre défi à relever consiste à placer les chiffres de 1 à 10 dans une pyramide à quatre niveaux de différence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "JEUX DE STRATÉGIE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "Les jeux de stratégie aideront votre enfant à acquérir de nombreuses compétences en matière de raisonnement, de planification et de résolution de problèmes. Il existe des dizaines de jeux de ce type - tels que le Morpion, le jeu du moulin, le jeu de la Marelle Quintuple, Dara, Puissance 4, le Mancala (ou jeu des pierres), le jeu de Dames, le jeu de Go, le jeu d'échecs - beaucoup trop nombreux pour que nous puissions tous les évoquer ici."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "Tapatan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "**La mise en place :** Il existe de nombreux jeux similaires à celui-ci - des jeux tels que Rota, 9 Trous et le Morpion. Dans ce jeu, il y a 9 points reliés dans une grille par 3 lignes horizontales et 3 lignes verticales. Chaque joueur dispose de trois jetons identiques. Le but du jeu est d’aligner ses trois jetons."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**Comment jouer :** Le jeu se déroule en deux phases. Au cours de la première phase de “déplacement”, les joueurs placent à tour de rôle leurs jetons, un par un, sur les points vacants. Après avoir placé les jetons, la deuxième phase de “mouvement” commence. Au cours de cette phase, les joueurs déplacent à tour de rôle leurs jetons vers des points adjacents vides. Une règle alternative est que les pions peuvent être déplacés vers n’importe quel point vide, et pas seulement vers les points adjacents.\n"
+"\n"
+"**Comment gagner :** La partie est terminée lorsqu’un joueur gagne ou lorsque la même position se reproduit trois fois, auquel cas il y a égalité."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "Le jeu des Points et Boîtes ou la Pipopipette"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "Jeux de stratégie"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**La mise en place :** Ce jeu satisfaisant commence par une grille rectangulaire de points – disons 3 par 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**Comment jouer :** Pendant son tour, un joueur trace une ligne horizontale ou verticale reliant deux points adjacents non reliés. Si la nouvelle ligne complète une case de 1 par 1, le joueur gagne un point et trace une autre ligne.\n"
+"\n"
+"**Comment gagner :** Lorsqu’il n’y a plus de lignes à tracer, le joueur qui a le plus de points gagne. Un moyen facile de comptabiliser les points est de mettre une initiale dans chaque case gagnée."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "Bien que ce jeu soit traditionnellement joué avec des petits carrés, il peut également être joué avec des points dans un motif pour produire des triangles ou des hexagones - c’est juste plus difficile à dessiner."
 
 #. type=data_list
 msgctxt "data_list"
