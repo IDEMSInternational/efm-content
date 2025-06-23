@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-06-23 00:16\n"
+"PO-Revision-Date: 2025-06-23 04:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9219,6 +9219,216 @@ msgstr ""
 "Demandez à votre enfant d’expliquer ses idées sur les réponses à ces questions, puis de les étudier en réalisant des expériences.\n"
 "\n"
 "Ajoutez un élément de compétition en devinant le jeton gagnant avant le début de la partie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "VARIANTES DU SUDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"Les puzzles de cette page respectent tous la règle de base du Sudoku : une grille carrée est remplie de chiffres de façon à ce que chaque chiffre apparaisse exactement une fois dans chaque ligne et dans chaque colonne.\n"
+"\n"
+"Créez ces puzzles en commençant par un puzzle entièrement rempli, en supprimant une grande partie ou la totalité des chiffres, et en créant des sous-régions et les informations supplémentaires appropriées pour ce type de puzzle.\n"
+"\n"
+"Pour gagner de la place, les exemples présentés ici sont tous de 4 par 4. Vous pouvez réaliser vous-même des puzzles plus grands ou vous pouvez trouver des versions plus grandes sur Internet."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "SUDOKU PAR-IMPAIR ET KROPKI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "Ces puzzles ont la restriction supplémentaire que les nombres doivent apparaître exactement une fois dans chaque région marquée 2 par 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**Sudoku pair-impair :** Les carrés dont les chiffres sont pairs sont noircis.\n"
+"\n"
+"**Sudoku Kropki :** Les points non-remplis entre les cellules signifient que les nombres sont séparés d’une unité ; les points remplis signifient qu’un nombre est égal à la moitié de l’autre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "Outre les règles habituelles du Sudoku, ces puzzles sont divisés en sous-régions avec des nombres cibles. Contrairement au Sudoku standard, il est possible de répéter un chiffre dans une région. Si une sous-région ne comporte qu’une seule case, le nombre cible sera la valeur de cette case."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**Sumdoku :** La somme des nombres dans une sous-région est le nombre cible.\n"
+"\n"
+"**Diffdoku :** Les sous-régions ont une ou deux cases. Pour deux cases, la différence des nombres est le nombre cible.\n"
+"\n"
+"**SumDiffdoku :** Les sous-régions sont marquées d’un “+” ou d’un “-” pour indiquer la somme ou la différence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "Utilisez différents groupes de chiffres au lieu des 1 et 4 habituels pour un 4 par 4. Par exemple, utilisez 1,3, 5 et 7. Dans ce cas, indiquez les chiffres à utiliser au-dessus de l'énigme."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "FERMER LA BOÎTE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**La mise en place :** Chaque joueur écrit les chiffres de 1 à 9 dans une rangée sur une feuille de papier.\n"
+"\n"
+"**Comment jouer :** Pour commencer son tour, un joueur trouve la somme des deux dés lancés. En utilisant uniquement les chiffres qui n’ont pas encore été barrés, le joueur barre un groupe d’un ou plusieurs chiffres dont la somme est égale à ce total. Si cela n’est pas possible, rien ne change. Un joueur peut décider à l'avance de n’utiliser qu’un seul dé.\n"
+"\n"
+"**Comment gagner :** Le premier joueur à avoir barré tous les chiffres gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "L’une des façons de varier ce jeu est d’utiliser une plus grande gamme de nombres, en allant par exemple jusqu'à 10 ou même 12. On peut aussi donner à chaque joueur un seul tour - le tour se poursuit avec de nouveaux jets de dés jusqu'à ce que le joueur soit bloqué pour la première fois. A la fin, le score du joueur est la somme des nombres non barrés. Le joueur qui obtient le score le plus bas gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "ATTEINDRE LA CIBLET"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "Combinations de sommes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**La mise en place :** Dans un jeu de cartes, retirez les cartes de figures et les nombres plus grands que ceux avec lesquels les enfants se sentent à l'aise. Mélangez les cartes et distribuez cinq cartes à utiliser ainsi qu’une sixième carte qui servira de cible. Laissez les cartes restantes dans la pile de tirage pour compléter les cartes au fur et à mesure qu’elles sont retirées.\n"
+"\n"
+"**Comment jouer :** Au cours d’un tour, si un joueur peut utiliser la somme ou la différence de deux des cinq cartes pour égaler la sixième, il obtient les trois cartes et les remplace à partir de la pioche. Si le joueur échoue, une nouvelle sixième carte est retournée et le tour passe au joueur suivant.\n"
+"\n"
+"**Comment gagner :** Le joueur qui a le plus de cartes à la fin du jeu gagne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "Plusieurs variantes sont possibles. Vous pouvez autoriser un joueur à utiliser trois cartes, au lieu de deux, pour atteindre la sixième. Vous pouvez même autoriser l'utilisation de n’importe quel nombre de cartes pour faire la somme jusqu'à la sixième. Une autre variante consiste à autoriser un mélange d’additions et de soustractions avec n’importe quel nombre de cartes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "COMBIEN DE FAÇONS ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"Comptez le nombre de façons de faire quelque chose en faisant des choix peut donner lieu à des recherches intéressantes. Voici quelques possibilités - amusez-vous à en imaginer beaucoup d’autres avec votre enfant.\n"
+"\n"
+"**Enquête 1 :** En dessinant uniquement avec du rouge et du bleu, de combien de façons pouvez-vous dessiner un monstre avec un chapeau, des yeux, et une cape? Qu’est-ce que cela change si vous ne colorez que le chapeau et la cape? Qu’est-ce que cela changerait si vous utilisiez trois couleurs ou si vous ne pouviez utiliser chaque couleur qu’une seule fois ?\n"
+"\n"
+"**Enquête 2 :** Vous avez une rangée de 5 bonbons identiques. De combien de façons pouvez-vous les colorier pour qu’il y ait 2 rouges et 3 bleus ?\n"
+"\n"
+"**Enquête 3 :** Trouvez toutes les façons d’obtenir une somme à partir d’un petit ensemble de nombres. Faites-le avec et sans tenir compte de l’ordre. Par exemple, si vous utilisez 1 et 2, il y a 1 + 1 + 1 + 1 = 2 + 1 + 1 = 2 + 2 façons d’obtenir 4 sans tenir compte de l’ordre, et 1 + 1 + 1 + 1 = 2 + 1 + 1 = 1 + 2 +1 = 1 + 1 + 2 = 2 + 2 = 4 en tenant compte de l’ordre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "COMMENT PUIS-JE FAIRE ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "Permettez-moi de faire le decompte"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"Une personne donne à l'autre un nombre cible et la met au défi de trouver différentes façons d’additionner et/ou de soustraire pour obtenir ce nombre. Si l’objectif est 3, on peut commencer par 1 + 2, puis 1 + 5 - 3 et ainsi de suite.\n"
+"\n"
+"Ajouter des restrictions pour rendre l’exercice plus difficile. Par exemple, vous pouvez ne pas autoriser de nombres inférieurs à 4, ou n’autoriser que des nombres inférieurs à 4.\n"
+"\n"
+"Vous pouvez en faire une enquête en posant des questions telles que : Combien y a t-il de façons d’obtenir 5 si je ne peux additionner que des 1 et des 2 ?\n"
+"\n"
+"Au fur et à mesure que votre enfant apprend les mathématiques, d’autres compétences peuvent être ajoutées, comme le doublement et la division par deux. Par exemple, 5 c’est 2 doublés plus 1 ou deux 10 moins trois 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "BROUILLAGE DE CHIFFRES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**La mise en place :** Lancez deux fois un dé pour créer un nombre cible à deux chiffres - le premier lancer sera le chiffre des dizaines et le second celui des unités. Lancez cinq dés pour créer des nombres avec lesquels vous pourrez travailler.\n"
+"\n"
+"**Le défi :** Utilisez l’addition, la soustraction et la formation de nombres à deux chiffres pour s’approcher le plus possible du nombre cible - l’enjeu est de savoir s’ils sont proches les uns des autres.\n"
+"\n"
+"**Comment gagner :** Vous pouvez soit désigner un vainqueur pour chaque tour, soit additionner les scores et désigner un vainqueur général avec le score le plus bas. Bien sûr, vous pouvez jouer pour le défi et ne pas compter les points."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**Exemple 1 :** Supposons que le résultat soit : 4, 4, 3, 1, 3 et 22. Le premier joueur obtient 4 + 4 + 3 + 1 + 3 = 15; un autre joueur obtient 14 + 4 + 3 + 3 = 24; et un autre joueur obtient 34 - 14 + 3 = 23.\n"
+"\n"
+"**Exemple 2 :** Supposons que le résultat soit : 1, 2, 5, 6, 4 et 63. Un joueur s’en approche avec 65 - 4 + 2 + 1 = 64. Un autre l’obtient exactement avec 56 + 4 + 2 + 1 = 63. Un troisième dit que 52 + 6 + 4 + 1 = 63 fonctionne aussi. Discutez des raisons pour lesquelles certains problèmes ont plusieurs solutions."
 
 #. type=data_list
 msgctxt "data_list"
