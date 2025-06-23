@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-06-23 05:09\n"
+"PO-Revision-Date: 2025-06-23 20:27\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9008,6 +9008,35 @@ msgstr ""
 "**Deux enfants :** Chaque enfant tire une carte et la place sur son front, face à l'extérieur, sans la voir. Vous annoncez la somme des cartes et les enfants sont mis au défi de trouver leur propre carte en regardant celle de l’autre joueur.\n"
 "\n"
 "**Un adulte avec un enfant :** Créez à l'avance plusieurs paires de cartes dont le total est connu de tous. Les cartes non utilisées sont mises de côté. Prenez une paire de cartes au hasard, placez les cartes sur votre front et découvrez chaque carte en regardant celle de l’autre joueur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "SE LEVER / S’ASSEOIR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
+"\n"
+"**How to play:** Suppose the leader selects the number 10. If the leader says the number 10, or anything that equals 10, such as 7 + 3, everyone stands up. If the leader says any other number, or anything not equal to 10, then everyone sits down. The leader can try to trick everyone else by standing up or sitting down when everyone should do the opposite."
+msgstr ""
+"** La mise en place :** Réunir tout le monde à un endroit où il est facile de se lever et de s’asseoir. Designer quelqu’un pour diriger le jeu (un meneur).\n"
+"\n"
+"** Comment jouer :** Supposons que le meneur choisisse le chiffre 10. Si le meneur dit le chiffre 10 ou un nombre égal à 10, comme 7 + 3, tout le monde se lève. Si le meneur dit un autre nombre, ou un nombre qui n’est pas égal à 10, tout le monde s’assoit. Le meneur peut essayer de tromper les autres joueurs en se levant ou en s’asseyant alors que tout le monde devrait faire le contraire."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"* Replacer 10 avec un autre chiffre.\n"
+"* Se lever quand le nombre est supérieur à 5 ; s’asseoir si c’est 5 ou inférieur à 5.\n"
+"* Se lever quand le nombre est pair ; s’asseoir si le nombre est impair.\n"
+"* Se lever si le nombre 1 apparait dans le chiffre ; s’asseoir si ce n’est pas le cas."
 
 #. type=data_list
 msgctxt "data_list"
