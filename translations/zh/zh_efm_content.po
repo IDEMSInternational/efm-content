@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-27 04:55\n"
+"PO-Revision-Date: 2025-06-27 05:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10767,6 +10767,161 @@ msgstr "就像雙胞胎加法是最受歡迎的數學運算方法一樣，平方
 msgctxt "data_list"
 msgid "1 MORE OR 1 LESS"
 msgstr "多 1 或少 1"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When combined with the other earlier skills, the strategy of using '1 more' or '1 less' is effective for calculating the remaining multiplication facts. \n"
+"\n"
+"For example, 9 × 7 is one 7 less than 10 × 7. So 9 × 7 = 70 – 7 = 63. This works for all 9’s. \n"
+"\n"
+"Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
+msgstr ""
+"當與其他早期學過的技能相結合時，「多 1」或「少 1」（個數字）的策略對於做其他乘法運算是有幫助的。\n"
+"\n"
+"例如，9 x 7 比 10 x 7 少 1 個 7。因此，9 x 7 = 70 - 7 = 63。這適用於所有 9 的倍數。\n"
+"\n"
+"類似地，3 x 7 比 7 的兩倍多 1 個 7，因此 3 x 7 = 7 + 14 = 21。這適用於所有 3 的倍數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 9"
+msgstr "乘以 9"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Multiplication"
+msgstr "心算乘法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr "雖然乘以 9 已經涵蓋在上一策略中，但單拎出來講也很有意思。如果你按順序寫出 9 的倍數，你會發現十位數始終比你相乘的數字小 1，而個位數加上十位數始終等於 9！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING 100"
+msgstr "組成100"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.”\n"
+"\n"
+"**How to play:** Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total.\n"
+"\n"
+"**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
+msgstr ""
+"**準備工作:** 給每位玩家一張紙，上面有 7 行 3 列。列標題分別為「十位數」、「個位數」和「累計總和」。\n"
+"\n"
+"**遊戲規則:** 每位玩家的累計總和從 0 開始。擲一個骰子或隨機抽取一張從 1 到 9 的撲克牌。每位玩家可以選擇將這個數字放在當前行的個位數或十位數的列中。例如，如果抽到 4，可以將其當成是 4 或 40。所選數字將添加到累計總和中。\n"
+"\n"
+"**獲勝條件:** 累計總和超過目標值 100 的玩家「爆牌」並輸掉遊戲。如果雙方都沒有爆牌，則累計總和更接近 100 的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins. \n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"此遊戲有多種變體：\n"
+"\n"
+"* 使用不同的目標數字。\n"
+"* 使用更多或更少行。\n"
+"* 超過目標值時不爆牌；兩邊累計總和更接近的玩家獲勝。\n"
+"* 使用第四列「百位數」來熟悉三位數。\n"
+"* 從目標數字開始，減到 0 來練習減法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAKE YOUR CLAIM"
+msgstr "占領地盤"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value and Addition Games"
+msgstr "位值和加法遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a paper with a number line from 0 to 99 to share.\n"
+"\n"
+"**How to play:** On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line.\n"
+"\n"
+"**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
+msgstr ""
+"**準備工作** 一張標有數字 0 到 99 的數軸（大家一起分享）\n"
+"\n"
+"**遊戲規則** 每位玩家輪流進行。在您的回合，從卡片 0 到 9 中隨機抽取兩張，可以自由選擇它們的順序，組成一個兩位數 (0 - 99)。將你生成的兩位數標註在數軸上的相應位置。\n"
+"\n"
+"**獲勝條件** 第一個在規定區域內標註四個數字，且這些數字區間內沒有對手數字的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variation"
+msgstr "變體"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game can also be played from 000 to 999."
+msgstr "此遊戲還可以在數字 000 和 999 間進行。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BONDED GROUPS"
+msgstr "相連群組"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two versions of these puzzles."
+msgstr "這種數學謎題有兩個版本。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
+msgstr "**版本一：** 類似於第三章的「求和群組」，但目標和更大。棋盤可以是任意大小的，這裡我們使用 4 x 4 的棋盤。將目標數字寫在左邊，本例中是 13。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
+msgstr "**挑戰：** 找到相鄰且相加的目標和（13）為數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
+msgstr "**版本二：** 這是一個 4x4 的棋盤，目標數字是 20。和「求和群組」一樣，棋盤上填滿了能組成目標數字的數字對或三個數字。然而，現在有一個格子不參與任何組合。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
+msgstr "**挑戰：** 找到這個沒有參與任何組合的數字。本例中，這個數字是 「5」。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MISSING NUMBERS"
+msgstr "缺失的數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Create these puzzles by taking a simple addition or subtraction equation and leaving out some of the digits. If you accidentally leave out too many numbers, that can open up a discussion of what all the possible solutions are – for example, if you start with 2 + 5 = 7 and leave out the first and third numbers, there are many solutions to ? + 5 = ?\n"
+"\n"
+"**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
+msgstr ""
+"**製作步驟** 選取簡單的加法或減法算式，並省略其中的一些數字。如果你不小心省略了太多數字，可以引導孩子討論所有可能的解。例如，如果我們開始算式是 2 + 5 = 7，並且省略了第一個和第三個數字，那麼 ? + 5 = ? 就有多個解。 \n"
+"\n"
+"**舉個例子：** 以下兩個算式通過省略一些數字，變成了「缺失數字」謎題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
+msgstr "**字母代換謎題：** 這些謎題為使用簡單變數提供了一個易於理解的墊腳石。當孩子熟練掌握這些謎題後，他們就可以嘗試解答本章稍後要介紹的「字母代換」謎題了。"
 
 #. type=data_list
 msgctxt "data_list"
