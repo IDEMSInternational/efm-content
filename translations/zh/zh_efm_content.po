@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-21 17:41\n"
+"PO-Revision-Date: 2025-06-27 04:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10660,6 +10660,113 @@ msgstr ""
 "**第五個問題:** 如果在1、3、9 和 27三倍級數中使用單一砝碼會發生什麼？如果將這些砝碼放在兩側，您可以稱出哪些東西？\n"
 "\n"
 "**第六個問題:** 如果砝碼是斐波那契數，那會發生什麼？是否有超過一種的方法來稱量某些砝碼？找到斐波那契砝碼的限制，使得只有一種方法可以找到每個單位的重量。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "第五階段 – 我能數到100！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Introduction"
+msgstr "第五階段 – 簡介"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child can now count to 100! They can comfortably do mental single-digit addition and subtraction. They can also count or skip count up or down by any number, and tied to that skill is their ability to add or subtract a single-digit number with a double-digit number. They can compare two double-digit numbers, and they have a beginning sense of place value with 10’s and 1’s.\n"
+"\n"
+"As their skip counting is improving, they are also developing skills with multiplying by 2, 3, 4, 5, and 10. The idea of even and odd numbers now makes a lot more sense to them.\n"
+"\n"
+"Extend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
+msgstr ""
+"**回顧所學內容**\n"
+"\n"
+"您的孩子現在可以數到100了！他們可以輕鬆地進行一位數字加減法的心算，還可以從任意數字開始計數或跳數，該技能提高與延伸使他們能夠進行一位數與兩位數的加減。他們可以比較兩個兩位數的大小，也初步認識了十位和個位數的位值。\n"
+"\n"
+"隨著孩子跳數能力的提高，他們也在開始發展 2、3、4、5 和 10 乘數的技能。奇數和偶數的概念現在對他們來說更加清晰、有意義了。\n"
+"\n"
+"可以將之前章節的活動延伸到這些更大的數字上：第三章：形狀求和，數字再往上增加；第四章：戰爭-兩位數的加減法、差異三角與總和三角、更改錯誤、從數字1和10開始的跳島、填空比較、求和正方形以及加法金字塔。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New ideas for this stage"
+msgstr "本章的新概念"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 200 – Introduce the 100’s place by looking at the numbers from 100 to 200.\n"
+"* Skip Counting to 100 – This is not new, but it is an important skill to reinforce.\n"
+"* Expanded Form and Place Value – This is a foundational skill, so it will be reinforced further.\n"
+"* Double-digit Addition and Subtraction – Skip counting will help make this seem effortless.\n"
+"* All Single-digit Multiplication – It is time to fill in the missing gaps for 6, 7, 8, and 9.\n"
+"* Rectangle Area is Length x Width – This is an important idea in its own right. This fact will also provide many opportunities for fun games and puzzles involving multiplication and factoring.\n"
+"* Factoring – Your child will learn the beauty of how numbers break apart into factors. 1 is a unit. A number bigger than 1 only divisible by 1 and itself is prime. A number bigger than 1 that is not prime is composite. 3 **squared** is 3 × 3. 3 **cubed** is 3 × 3 × 3. And 3 raised to a power means to multiply 3 by itself that many times - for example, 3 to the fourth is 3 × 3 × 3 × 3.\n"
+"* Factors, Divisors, and Multiples – 3 divides evenly into 12. That makes 3 a factor or divisor of 12, and 12 a multiple of 3. 3 is a common factor of 12 and 15, and 12 is a common multiple of 4 and 6.\n"
+"* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
+"* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
+msgstr ""
+"* 數到200 – 看看 100 到 200 的數字，來認識一下百位。\n"
+"* 跳數到 100 – 這並不是新知識，但這是一個需要加強的重要技能。\n"
+"* 展開式和位值 – 這是一項基礎技能，因此需要進一步加強。\n"
+"* 兩位數加減法 – 跳數可以幫我們輕鬆進行兩位數的加減。\n"
+"* 一位數乘法 – 是時候學習 6、7、8 和 9 乘法了。\n"
+"* 矩形面積＝長×寬 – 這個本身就是一個重要的數學概念。這個知識點還能為很多有趣的遊戲和涉及乘法與因式分解的謎題提供訣竅。\n"
+"* 因式分解 – 你的孩子將學習數字如何分解成因數的奇妙之處。1 是一個單位。大於 1 且僅能被 1 和自身整除的自然數是質數；大於 1 且不是質數的數是合數。3 的平方是 3 x 3。3 的立方是 3 x 3 x 3。3 的冪是指將 3 乘以自身很多次——例如，3 的四次方是 3 x 3 x 3 x 3。\n"
+"* 因數、約數和倍數 – 3 可以整除 12。這使得 3 成為 12 的因數或約數，而 12 是 3 的倍數。3 是 12 和 15 的公因數，而 12 是 4 和 6 的公倍數。\n"
+"* 一位數除法 – 你的孩子將透過在乘法問題中找出缺失的因數來間接學習除法。\n"
+"* 乘法和除法的運算族 – 我們將在該階段加強這兩種運算之間的聯繫。例如，2 x 5 = 10、5 x 2 = 10、10 ÷ 2 = 5 和 10 ÷ 5 = 2 構成了一個乘除法運算族（一組相關的數學算式，使用相同的數字，但運算不同）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MENTAL MULTIPLICATION"
+msgstr "心算乘法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
+msgstr "這些教學方法提供了學習一位數乘法的結構化策略。您的孩子應該已經掌握將任何數字加倍、按任何數字跳數以及乘以 5 和 10。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 x 4 = 4 x 3"
+msgstr "3 x 4 = 4 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
+msgstr "您的孩子已經非常熟悉加法，因此 2 + 3 等於 3 + 2 這一點並不難理解。雖然不太明顯，但乘法也是一樣的道理。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
+msgstr ""
+"這個例子表明，兩排三個圓點和三排兩個圓點是相同的——只是改變了觀察角度！你以什麼順序乘以這兩個數字並不重要，你得到的答案是相同的。\n"
+"\n"
+"這個很酷的觀察意味著你的孩子只需要掌握大約一半的乘法運算——一旦你的孩子知道了 3 x 4，他們也就知道了 4 x 3。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SQUARES"
+msgstr "平方數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
+msgstr "就像雙胞胎加法是最受歡迎的數學運算方法一樣，平方通常也是乘法中最受歡迎的。學習平方運算能夠為學習其他乘法打下基礎。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1 MORE OR 1 LESS"
+msgstr "多 1 或少 1"
 
 #. type=data_list
 msgctxt "data_list"
