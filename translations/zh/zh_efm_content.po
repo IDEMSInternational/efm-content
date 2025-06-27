@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-27 05:55\n"
+"PO-Revision-Date: 2025-06-27 15:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10922,6 +10922,77 @@ msgstr ""
 msgctxt "data_list"
 msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
 msgstr "**字母代換謎題：** 這些謎題為使用簡單變數提供了一個易於理解的墊腳石。當孩子熟練掌握這些謎題後，他們就可以嘗試解答本章稍後要介紹的「字母代換」謎題了。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING MULTIPLICATION CARDS"
+msgstr "製作乘法卡"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a set of multiplication cards to practice these math facts while playing matching games your family played earlier: Stage 1 - Go Fish, Memory Challenge; Stage 2 - Bingo; Stage 3 - Hot Potato; and Stage 4 - Gin Rummy.\n"
+"\n"
+"**How to create:** Hand draw four cards for each math fact. These are the four cards for 3 × 4."
+msgstr ""
+"利用製作乘法卡的方式，和孩子一起玩早先學過的配對遊戲 (階段1：配對釣魚和記憶挑戰賽；階段2：賓果遊戲；階段3：燙手山芋；階段4：金拉米) 的同時練習乘法運算。\n"
+"\n"
+"**製作步驟：** 為每個乘法算式製作四張卡片。表示算式 3 x 4 的四張卡片如下："
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* the expression \n"
+"* groups of objects\n"
+"* an array\n"
+"* prime factoring"
+msgstr ""
+"* 算式\n"
+"* 物體組合\n"
+"* 陣列圖\n"
+"* 質因數分解"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Options:** One option is to include 3 × 4 and not include 4 × 3. This has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3.\n"
+"\n"
+"For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
+msgstr ""
+"**選項：** 可以只包含 3 x 4，而不包含 4 x 3。需要注意的是，看到 4 組 3 個物體和看到 3 組 4 個物體是不同的概念。\n"
+"\n"
+"陣列圖卡可以沿著一側或兩側標註跳數序列，幫助孩子練習跳數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "算式卡可以將每個數字替換成其質因數分解的符號。這樣可以讓孩子更容易理解乘法運算中質因數分解是如何結合起來的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "揭示乘積"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "乘法卡和乘法表"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Use a blank table with 4 product rows and columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers, possibly with duplication, from 2 to 9. Fill in the table out of sight of your child, and then flip over or cover the numbers.\n"
+"\n"
+"**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
+msgstr ""
+"**製作步驟：** 準備一個空白表格，有 4 行 4 列，用來填寫乘積。表格上方和左側還有四個缺失數字的組 (可能重複)，這些數字包含 2 到 9 之間的部分數字。在孩子看不到的情況下填滿表格，然後翻轉或遮蓋數字。\n"
+"\n"
+"**挑戰：** 孩子一次可以最多揭開 16 個乘積中的 10 個。目標是在用完所有次數之前找到頂部和左側的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
+msgstr "**舉個例子：** 假設所有卡片都翻轉了，如果孩子選擇翻開下面寫著 63 的卡片，他們就會知道它是 7 和 9 的乘積。翻開同一行或同一列的任何其他卡片都會顯示 7 和 9 在哪裡。假設他們翻開的第二張卡片是 56，那麼第三列一定是 7，第二行也是 9，第三行是 8。"
 
 #. type=data_list
 msgctxt "data_list"
