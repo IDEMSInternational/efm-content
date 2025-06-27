@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-27 19:15\n"
+"PO-Revision-Date: 2025-06-27 23:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11504,6 +11504,59 @@ msgstr ""
 "**規則：** 相同數的冪相乘時，遵循一個簡單的規則來簡化結果 - 即指數相加。例如，計算 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>,，我們有兩個四乘以三個四，因此結果是五個四相乘。\n"
 "\n"
 "**注意：** 請注意，這個指數相加的規則只適用於同一數的冪次方。諸如 3<sup>2</sup> × 5<sup>3</sup> 的乘方運算並不能直接透過這種方式簡化。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "重用舊的加法活動"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "感受冪"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**重用謎題和遊戲：** 由於冪相乘時指數相加，我們以前所有涉及加法的遊戲和謎題都可以用於練習乘方運算。以下是一些曾學過的加法運算活動範例： 第三章 - 形狀求和和組合求和；第四章 - 封閉式求和、數形結合和修復問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr "左邊是第三章的兩個「形狀求和」範例。右邊是使用乘法代替加法的相同範例「形狀乘積」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "練習冪次方會變得像原來的加法問題一樣熟悉和容易。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "如果您的孩子喜歡這些問題並且想要額外的挑戰，可以開始涉及多個數字的冪次方運算。例如，如果您計算 4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>，您可以將該規則分別應用於 4 的冪和 3 的冪，得到結果 4<sup>7</sup> × 3<sup>5</sup>.。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "因式樹 - 探索活動"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "探索質因數分解"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "因式樹模型是對上一頁「感受冪」中「圖形乘積」的擴展。創建因式樹的目標是將一個數字分解成它的質因數。在構建因式樹的過程中，可以了解有關該數字的許多資訊。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr "**範例：** 每棵樹最終都會在其葉子上產生相同的質數。在每種情況下，我們最終得到 2 x 3 x 3 x 3，但看看不同的到達方式！"
 
 #. type=data_list
 msgctxt "data_list"
