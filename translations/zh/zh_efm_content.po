@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-27 15:25\n"
+"PO-Revision-Date: 2025-06-27 18:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10993,6 +10993,290 @@ msgstr ""
 msgctxt "data_list"
 msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
 msgstr "**舉個例子：** 假設所有卡片都翻轉了，如果孩子選擇翻開下面寫著 63 的卡片，他們就會知道它是 7 和 9 的乘積。翻開同一行或同一列的任何其他卡片都會顯示 7 和 9 在哪裡。假設他們翻開的第二張卡片是 56，那麼第三列一定是 7，第二行也是 9，第三行是 8。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER FACTORS AND MULTIPLES"
+msgstr "隱藏因數和倍數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Have a board of numbers from 1 to 24. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens."
+msgstr "**準備工作：** 備好一個標有 1 到 24 的數字棋盤和兩種棋子：一個用於「最後一步」的特殊棋子，另一堆是普通棋子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** The first player gets to pick any number and cover it with the last move token. After that, a player replaces the last move token with the other type of token and moves the last move token to any number that is a factor or multiple of the number from the last move.\n"
+"\n"
+"**How to win:** The losing player is the one forced to cover the number 1.\n"
+"\n"
+"**Example:** This board shows the middle of a game that started 10 -> 5 -> 15 -> 3."
+msgstr ""
+"**遊戲規則：** 第一位玩家可以選擇任意一個數字，並用「最後一步」棋子將其蓋住。之後，該玩家用普通棋子替換「最後一步」棋子，並將「最後一步」棋子移動到任何一個為上一步數字的因數或倍數的數字上。\n"
+"\n"
+"**獲勝條件： 被迫蓋住數字 1 的玩家即為輸家。\n"
+"\n"
+"**舉個例子：** 下圖展示了遊戲進行到一半的場景，遊戲從 10 開始，10 -> 5 -> 15 -> 3。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As children get better at this game, they will discover rules they need to follow governing reasonable first moves. The most basic rule is that the first move cannot be on a prime number in the upper half of the numbers.\n"
+"\n"
+"Adjust the range of numbers to the skill level of the players – 1 to 30, 1 to 48, or 1 to 60."
+msgstr ""
+"隨著孩子對這個遊戲逐漸熟練，他們會發現一些合理的首步竅門。最基本的規則是，首步不能落在前半部分的質數上。\n"
+"\n"
+"根據玩家的技能水準調整數字範圍，範圍可以是 1 到 30、1 到 48 或 1 到 60。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH FACTORS"
+msgstr "因數尼姆遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with any number, say 20. Let your child decide whether to go first or second. How to play: During their turn, a player may subtract any divisor of the current number from the number. For example, starting at 20, the first player can subtract 1, 2, 4, 5, or 10 for their first move.\n"
+"\n"
+"**How to win:** The player forced to 0 loses."
+msgstr ""
+"**準備工作：** 選擇任意一個起始數字，例如 20。讓孩子決定是先手還是後手。\n"
+"\n"
+"**遊戲規則：** 在玩家的回合中，他們可以從當前數字中減去任何一個它的除數。例如，從 20 開始，玩家的第一步可以選擇減去 1、2、4、5 或 10。\n"
+"\n"
+"**獲勝條件：** 被迫將數字減到 0 的玩家即為輸，其他人則為贏家。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy"
+msgstr "策略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for always winning - once they discover it, see if they can explain why it works."
+msgstr "當孩子熟悉遊戲規則後，鼓勵他們尋找獲勝的簡單策略。當他們發現這個策略時，請讓他們解釋其原理。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIEVE OF ERATOSTHENES"
+msgstr "埃篩法（埃拉托斯特尼篩法）"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding Primes"
+msgstr "尋找質數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Children have fun putting in X’s and watching primes fall through this sieve. This investigation\n"
+"creates opportunities for discovering many interesting properties of divisibility and primes. \n"
+"\n"
+"Start with a number line numbered from 1 to 25 (or larger if space and patience allows). \n"
+"\n"
+"Write the number 2 below itself. On this new line put X’s below each multiple of 2.\n"
+"\n"
+"Next, pull down the lowest number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples."
+msgstr ""
+"孩子們喜歡在篩子上打上叉(X)並看質數是如何被篩出的。這個調查創造了許多發現可整除性和質數有趣性質的機會。\n"
+"\n"
+"準備一條從 1 到 25 (或者更大的數字，具體取決於空間和耐心) 的數軸。\n"
+"\n"
+"在 2 下面寫上數字 2。在這行下面，每一個 2 的倍數都標上叉。\n"
+"\n"
+"接下來，找出沒有下面標叉的最小數字 (在本例中是 3)，把它寫在下一行。寫上數字 3，並在這一行的所有 3 的倍數下面標上叉。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Keep pulling down numbers and marking their multiples.\n"
+"\n"
+"When you are finished, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!"
+msgstr ""
+"繼續找出沒有標叉的數字，並標記它們的倍數。\n"
+"\n"
+"完成後，你將篩出所有的質數。記住，1 是單位數，不是質數！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Discuss these questions with your child as they play with the sieve:\n"
+"\n"
+"* Why are primes the numbers the numbers that are pulled down?\n"
+"* What is the last prime whose multiples you need to cross out? Why were the other\n"
+"primes not useful?\n"
+"* For all the primes that were useful, which of their multiples produced new restrictions\n"
+"and which were not useful? Is there a pattern in that answer?\n"
+"* If you had a number, say 53, which prime numbers would you need to divide it by to\n"
+"confirm that it’s a prime?"
+msgstr ""
+"和孩子一起玩篩選遊戲的時候，可以討論以下問題：\n"
+"\n"
+"* 為什麼篩出來的數字是質數？\n"
+"* 哪個質數是最後一個您需要劃掉其倍數的數？為什麼其他質數沒有在幫助我們排除他們的倍數中發揮作用呢？\n"
+"* 對於所有用於排除自身倍數的質數，哪些質數的倍數產生了新的限制，哪些沒有？答案中是否存在某種規律？\n"
+"* 如果你有一個數字，比如 53，你需要用哪些質數除以它來確認它是否是一個質數？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MIX IT UP"
+msgstr "混合運算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use numbered cards from 1 to 25, or a range your child is comfortable with.\n"
+"\n"
+"**How to play:** A card is selected at random and used as everyone’s target number. That card is returned to the deck. Each player is dealt five cards to be used, in any order and with any operations, to get as close as possible to the target number.\n"
+"\n"
+"**Examples:** Suppose the target number is 14, and you are dealt 3, 6, 12, 17, and 20. 17 - 3 or 20 - 6 work, but only use two cards. 20 - 12 + 6 uses three cards. 17 x (6 / 3) - 20 or 20 - (12 /  (6  /  3)) use four cards, so that's an improvement, if you're trying to use all the cards. Can you find a way to use all five?"
+msgstr ""
+"**準備工作：** 用編號從 1 到 25 的卡片，或者孩子熟悉的數字範圍內的一組卡片。\n"
+"\n"
+"**遊戲規則：** 隨機抽取一張卡片作為所有人的目標數字，然後將該卡片放回牌堆。每位玩家發 5 張牌，可以按照任何順序和運算方式使用這些牌，盡可能接近目標數字。\n"
+"\n"
+"**範例：** 假設目標數字是 14，你拿到的是 3、6、12、17 和 20。17 - 3 或 20 - 6 可以達到目標，但只用了兩張牌。20 - 12 + 6 使用了三張牌。17 x (6 ÷ 3) - 20 或 20 - (12 ÷ (6 ÷ 3)) 使用了四張牌，如果你想用完所有的牌，這是一個更好的選擇。你能找到一種方法用完所有五張牌嗎？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring options"
+msgstr "計分選擇"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are several options for scoring, and you may think of your own.\n"
+"\n"
+"* 1 point to each player who hits the target. Total over several rounds.\n"
+"* A player's score for a round is the difference between their result and the target. The\n"
+"scores are totaled over several rounds, and the lowest total score wins.\n"
+"* A player earns twice as many points as the number of cards they use to reach the target; a player receives 5 points for hitting the target with help; and a player receives\n"
+"6 points for helping someone hit the target."
+msgstr ""
+"對於這個遊戲，有多種計分方式可供選擇。\n"
+"\n"
+"* 對於達到目標的玩家，可以記一分。多輪累積得分。\n"
+"* 玩家每輪的得分是他們的結果和目標數字之間的差值。幾輪累積得分，得分最低的玩家獲勝。\n"
+"* 玩家根據使用的牌數得分，使用兩張牌達到目標得分兩分；使用幫助達到了目標得分 5 分；幫助別人達到目標得分 6 分。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PARENTHESES PUZZLES"
+msgstr "括號謎題"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Take an expression, such as \n"
+"\n"
+"2 + 7 × 5 − 2 × 2\n"
+"\n"
+"and add parentheses to it so that a target result, say 9, is obtained.\n"
+"\n"
+"**How to create:** These are easy to create and tailor to you child's skill set. Take any equation, in our case \n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+"and then remove the parentheses. It's as simple as that! \n"
+"\n"
+"Use the operations and numbers that your child is comfortable with. Use shorter expressions and fewer parentheses to make simpler puzzles."
+msgstr ""
+"**挑戰：** 取一個表達式，例如\n"
+"\n"
+"2 + 7 × 5 − 2 × 2\n"
+"\n"
+"並添加括號使其得到目標結果，例如 9。\n"
+"\n"
+"**製作步驟：** 這些題目很容易編寫，並且可以根據孩子的技能水準進行調整。取任何一個等式，例如\n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+"然後去掉括號。就這麼簡單！\n"
+"\n"
+"使用孩子熟悉的運算和數字。使用較短的表達式和較少的括號可以製作更簡單的題目。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SECRET OPS"
+msgstr "秘密運算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Near the end of Stage 4, the Sum Difference activity had one person think of two numbers and then challenge the other person to find the numbers by telling them the sum and difference of the numbers. Secret Ops uses the same idea, only now the challenger can use any two operations, such as multiplying and subtracting.\n"
+"\n"
+"**Examples:** The challenger might say “Which two numbers have a product of 12 and a difference of 4?” You can extend this to three numbers, if you like - “Which three numbers have a product of 12 and a sum of 8?”"
+msgstr ""
+"在第四章結尾處「和與差」活動中，一個人想兩個數字，然後說出這兩個數字的和與差，讓其他人找出這兩個數字。「秘密運算」使用了類似的玩法，只是現在挑戰者可以使用任何兩種運算，例如乘法和減法。\n"
+"\n"
+"**範例：** 挑戰者可能會說：「哪些兩個數的乘積是 12，差是 4？」也可以擴展到三個數，例如：「哪些三個數的乘積是 12，和是 8？」"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LEVER BALANCE"
+msgstr "槓桿平衡"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mixed Operations"
+msgstr "混合運算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Levers:** Use the lever principle to practice multiplication and addition. The principle says that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
+msgstr "**槓桿：** 利用槓桿原理來練習乘法和加法運算。槓桿原理告訴我們，槓桿一側的質量乘以其距離支點的距離 (稱為支點距) 等於該側的力。來自多個質量的力相加得到總力。為了使槓桿平衡，兩側的總力必須相等。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Examples:** You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be distances 5 and 3, but it can also be 10 and 6, or even larger answers like 15 and 9.\n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? What if the two weights are on different sides of the lever? This question continues the questions on the Make It Count page at the end of Stage 4."
+msgstr ""
+"**範例：** 你有兩個砝碼，一個重 3 個單位重量，另一個重 5 個單位重量，你想把它們放在支點的兩側使槓桿平衡。應該把它們放在哪裡？答案可以是距離支點分別為 5 個單位重量和 3 個單位重量，也可以是 10 個單位重量和 6 個單位重量，甚至更大，例如 15 個單位重量和 9 個單位重量。\n"
+"\n"
+"如果你要把一個重 3 個單位重量的砝碼和一個重 5 個單位重量的砝碼放在槓桿的一側，那麼另一側可以放哪些砝碼，放在什麼位置才能使槓桿平衡？如果這兩個砝碼分別放在槓桿的兩側會怎樣？這個問題延續了第四章末尾「計數」頁面中的問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BEEP"
+msgstr "嗶聲遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Put the players in a circle. Start by identifying a group of numbers to use for a round of the game. Choose any group of numbers that would be fun or that provide practice with a concept. Some standard choice are:\n"
+"\n"
+"* odd numbers or even numbers\n"
+"* multiples of 3 (or some other number)\n"
+"* multiples of 3 together with multiples of 7\n"
+"* multiples of 3 that are not multiples of 5\n"
+"* multiples of 3 together with numbers that have the digit 3 in them \n"
+"* prime numbers\n"
+"\n"
+"**How to play:** Going around the circle, the players take turns saying the numbers starting at 1. When a player has a number in the group, they must say 'beep' instead of the number. If a player fails to say beep, or says beep for an incorrect number, they’re out.\n"
+"\n"
+"**How to win:** The last player remaining in wins!"
+msgstr ""
+"**準備工作：** 讓玩家們圍坐成一個圈。首先確定一組數字，用於本輪遊戲。選擇任何一群有趣的數字，或者可以練習某個概念的數字。一些常見選項包括：\n"
+"\n"
+"* 奇數或偶數\n"
+"* 3 的倍數 (或其他某個數字的倍數)\n"
+"* 3 的倍數和 7 的倍數\n"
+"* 既不是 5 的倍數又是 3 的倍數\n"
+"* 3 的倍數以及數字本身含有數字 3\n"
+"* 質數\n"
+"\n"
+"*遊戲規則：** 玩家們按順時針順序輪流說出數字，從 1 開始。當玩家說出屬於選定組的數字時，他們必須說「嗶」代替那個數字。如果玩家忘記說「嗶」或者為錯誤的數字說了「嗶」，則出局。\n"
+"\n"
+"**獲勝條件：** 最後剩下的玩家獲勝！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 IN A ROW"
+msgstr "三連勝"
 
 #. type=data_list
 msgctxt "data_list"
