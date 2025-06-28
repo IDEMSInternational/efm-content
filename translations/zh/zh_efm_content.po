@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-27 23:35\n"
+"PO-Revision-Date: 2025-06-28 00:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11557,6 +11557,454 @@ msgid ""
 "\n"
 "Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
 msgstr "**範例：** 每棵樹最終都會在其葉子上產生相同的質數。在每種情況下，我們最終得到 2 x 3 x 3 x 3，但看看不同的到達方式！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "問題"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"做了一些類似練習之後，您的孩子可能會自然而然地開始提出一些問題：\n"
+"\n"
+"* 為什麼某些樹比其他樹有更多的層次？\n"
+"* 為什麼某些樹比其他樹更寬？\n"
+"* 為什麼葉子節點總是停留在質數上？\n"
+"* 為什麼葉子節點總是具有相同的質數列表，只是順序可能不同？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "練習質因數分解"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "在旅行或空閒時按順序進行質因數分解練習。還可以練習談論冪。輕鬆掌握質因數分解將有助於將來學習許多知識，例如分數運算。玩得開心，進行該活動要適度，讓孩子感覺舒適。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "背誦口訣"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"口訣如下：\n"
+"\n"
+"1. 是單位數\n"
+"2. 是質數\n"
+"3. 是質數\n"
+"4. 是 2 的平方\n"
+"5. 是質數\n"
+"6. 是 2 x 3\n"
+"7. 是質數\n"
+"8. 是 2 的立方\n"
+"9. 是 3 的平方\n"
+"10. 是 2 x 5\n"
+"11 是質數\n"
+"12. 是 2 的平方 x 3\n"
+"13. 是質數\n"
+"14. 是 2 x 7\n"
+"15. 是 3 x 5\n"
+"16. 是 2 的四次方\n"
+"17. 是質數\n"
+"18. 是 2 x 3 的平方\n"
+"19. 是質數\n"
+"20. 是 2 的平方 x 5\n"
+"21. 是 3 x 7\n"
+"22. 是 2 x 11\n"
+"23. 是質數\n"
+"24. 是 2 的立方 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "乘積金字塔"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "用質因數分解進行練習"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"這些謎題是第四章看到的加法金字塔的乘法版本。 我們會提供一個目標數字和一個數字金字塔。\n"
+"\n"
+"**挑戰：** 挑戰是找到金字塔中向下連接的數字路徑，使所選數字的乘積等於目標數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"在這個金字塔中，目標是 36，紅色線條表示有效的路徑。\n"
+"\n"
+"這些謎題如果先進行目標的質因數分解會更容易解決。 因為 36 = 2 x 2 x 3 x 3，所以這些質因數必須在路徑中選擇，這有助於指導搜索。\n"
+"\n"
+"知道質因數分解也可以使創建這些謎題變得更加容易。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100就笑"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**準備工作：** 準備一副撲克牌，其中 Q 代表 0，A 代表 1，2 - 9 代表它們本身的數字。將目標數字設置為 100。隨機抽取四張牌並按順序排列，用它們組成兩組兩位數，作為公共數位資源。 \n"
+"\n"
+"**遊戲規則：** 每位玩家隨機抽取 14 張牌，正面朝上擺放。玩家輪流抽牌，在自己的回合中，玩家必須從他們手中所有牌拿出任意兩張，分別放置在公共資源的四張牌中的任意兩張牌上。如果當前的兩組兩位數相加等於目標數字 100，則玩家得 1 分。遊戲名稱取自一個可選動作，即玩家每次成功達到目標金額時都可以笑一聲。\n"
+"\n"
+"**獲勝條件：** 當所有牌都用完後，得分最多的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* 將目標數字設置為100有助於練習10 的組成數。然而，設置其他數字為目標也可以提供多樣性並練習其他類型的組成數。\n"
+"* 給玩家多於或少於 14 張的牌。\n"
+"* 將減法與較小的目標數字結合使用。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "張牌實現目標"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "加減練習"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**準備工作：** 選擇一個目標數字，例如 100。\n"
+"\n"
+"**遊戲規則：** 每位玩家從 0 到 9 隨機抽取五張牌。用這五張牌中的四張組成兩個兩位數，而不使用第五張牌。將這兩個數字相加，最接近目標數字的玩家得分 1 分。\n"
+"\n"
+"**獲勝條件：** 在規定輪數後得分最高者獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "一種選擇是使用三位數、定目標數字為1000，每位玩家抽取七張牌。另一種選擇是進行減法運算和設定較小目標數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "字母替換"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "字母替換"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**準備工作：** 在這些謎題中，單個數字被字母代替。乍一看，這些謎題似乎與本章前面看到的「缺失的數字」謎題相同。然而，用字母為解決問題提供了更有趣的機會。 如果您的孩子已經熟悉「缺失的數字」謎題，則可以過渡到這些謎題。\n"
+"\n"
+"字母的使用遵循以下三個規則：\n"
+"\n"
+"三個規則\n"
+"\n"
+"* 每個字母始終表示 0 到 9 之間的某個數字\n"
+"* 數字的最左側位永遠不是 0\n"
+"* 不同的字母必須代表不同的數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**製作步驟：** 列出一個普通的加減法問題，替換一個或多個數字。 用相同的字母替換相同的數字。 在本例中，6 在兩個位置都被替換為「A」。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**特殊謎題：** 這種類型的謎題可以創造出有趣的解題挑戰。這些謎題的設計要費不少心思，但會帶來一些有趣的思考過程。\n"
+"\n"
+"請注意，字母的值不會在不同的謎題之間延續。在第一個謎題中值為 1 的「B」，在第二個謎題中值為 4。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "用圖形填充區域"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"想像你有一個 8 x 8 的西洋棋棋盤和一套 1 x 2 的棋子。 用 32 個這樣的棋子完全覆蓋棋盤的方法很簡單。 \n"
+"\n"
+"**移除角落：** 讓我們開始嘗試從棋盤上移除部分正方形。如果移除棋盤的一個角，你馬上就會知道你無法再用棋子覆蓋棋盤，因為棋子會覆蓋偶數個正方形，而現在只剩下 63 個正方形了。好，移除兩個角使剩下的正方形變成偶數個—— 現在你可以用棋子覆蓋它了嗎？答案取決於你移除的哪兩個角。為什麼？如果不再限制自己只移除角落，又會發生什麼事呢？\n"
+"\n"
+"**從細節處學習：** 解決這類問題的一個重要方法是從較小的例子中學習。 首先嘗試在 4 x 4 或 6 x 6 的棋盤上進行這些嘗試。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "嘗試使用其他形狀來填充棋盤。 嘗試用 1 x 3 的棋子或 3 個正方形組成的 L 形的來填充它。你發現了哪些規律和規則？還有哪些有趣的形狀可以用來嘗試？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "用正方形填充正方形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "圖形填充"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**挑戰：** 用其他正方形填充一個正方形，這些正方形不必都大小相同。問題是：有多少種可能的正方形數量？對於那些可能的，是否有簡單的方法來描述如何做到？ \n"
+"\n"
+"讓孩子花幾天時間玩這個遊戲，不要急於得到答案。下圖展示了如何用 6 個正方形填充正方形的例子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr "如果您只允許使用特定大小的正方形，例如 1 x 1、2 x 2 和 3 x 3，會發生什麼事？用相同形狀的圖形填充其他圖形會發生什麼事？例如，使用所有邊長度相同的正三角形。 還有哪些圖形可以用這種方式進行有趣的探索？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "乘積遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**準備工作：** 使用一張公用的紙，按照如圖所示填寫。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**遊戲規則：** 第一位玩家將標記放在1 - 9方格中的任意一個數字上 (1-9)。第二位玩家將另一個棋子放在1 - 9方格中的一個數字上，並說出6 x 6表格中相應位置的乘積。之後，每位玩家都可以選擇移動他們任意一枚棋子並說出新的乘積 (如果可以)。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**獲勝條件：** 第一個在橫、豎、斜任意一行上連成 3 個標記的玩家獲勝。\n"
+"\n"
+"**其他玩法:** 混合乘積數字，以幫助您的孩子更好地識別乘積。另請參閱第五章的擴展材料，了解更大範圍的更大棋盤設計。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "乘積跳島"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "乘法和倍數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"這些謎題由島嶼（圓形和方形）和橋梁（線）連接而成。如果正方形的兩側各有一個圓圈，則正方形表示這兩個圓圈的乘積。\n"
+"\n"
+"**挑戰：** 填入缺失的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**如何創建：** 通過先填入圓圈，然後填入正方形，最後在將謎題交給孩子之前刪除一些數字。\n"
+"\n"
+"除了練習乘法之外，這些謎題還可以用來練習公因數相關的運算。在第一個謎題中，除 1 之外，唯一能同時除 14 和 21 的數字是 7，因此它是底部圓圈中的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "計算相鄰數字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**準備工作：** 使用三個骰子和一個標有1到 64的8 x 8數字棋盤。\n"
+"\n"
+"**遊戲規則：** 玩家擲骰子，並使用加、減、乘、除運算得到棋盤上任何未標記的數字。 玩家標記該方格，並獲得該方格的分數 + 其周圍每個已標記方格(包括斜角)的分數。 如果玩家無法完成操作，任何可以完成操作的其他玩家都可以獲得該分數。\n"
+"\n"
+"**獲勝條件：** 進行五輪或更多輪遊戲，得分最高者獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "遊戲可以選擇使用第四個骰子，也可以使用更小或更大的棋盤。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "製作平衡掛飾"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**準備工作：** 準備一些配重和一個帶有若干個掛鉤的平衡掛飾設計圖。 挑戰是在每個掛鉤上最多放置一個配重，使平衡掛飾沿每個臂保持平衡。假設連接的線沒有重量。 每個平衡掛飾的臂都是需要平衡的槓桿，因此這些謎題是本章之基礎要求供的「槓桿平衡」謎題的延伸——在開始解答這些謎題之前練習那些謎題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**簡單範例：** 從最簡單的平衡掛飾開始，它們就像懸空的槓桿。 以下是如何在這個平衡掛飾上放置 1 到 4 的配重使其平衡。 這是可行的，因為 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2。\n"
+"\n"
+"**更複雜的範例：** 使用下方配重的總和來平衡頂部金屬絲的兩側 (1 + 3) x 3 = (4 + 2) x 2。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "有關更多範例和平衡掛飾的更深入討論，請參閱第五章拓展材料。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "故障計算器"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "加、減、乘"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**準備工作：** 假設你有一個壞了的計算器，你面臨著在計算器上算出某個結果的挑戰。 這是一個隨時可以進行的口頭遊戲。 以下是一些入門範例。\n"
+"\n"
+"**範例：** 假設你的計算器只有加 (+)、減 (-)、乘 (x) 和除 (÷) 功能，但只有一個數字鍵 4 可以使用。你能算出 21 嗎？如果可以，你需要最少的步驟是幾步？假設你最多只能使用數字 4 四次，你能算出哪些數字。假設你必須使用數字 4 恰好四次又會有什麼結果？嘗試使用其他單個數字鍵並算出其他結果。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**範例：** 假設你的計算器只能加 4 或 7。你能算出哪些數字？\n"
+"\n"
+"**範例：** 假設計算器只有 4 或 7，但現在它可以加減。你還能算出哪些數字？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"這些練習與我們之前在其他場景中看到的 (例如天平秤) 是一樣的。\n"
+"\n"
+"**範例：** 假設你只有一個 1 鍵，只能加或翻倍。 例如，2 x (2 x 1) + 1 是 5。 你還能創造哪些數字？\n"
+"\n"
+"**範例：** 一個有趣的挑戰是「四個4」的挑戰。 假設你有一個只有一個 4 鍵的計算器，所有運算符都可以使用。從 1 開始，如果你必須在計算器上使用四個 4，你可以創建多少個數字？"
 
 #. type=data_list
 msgctxt "data_list"
