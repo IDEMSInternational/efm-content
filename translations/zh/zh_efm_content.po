@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-28 00:34\n"
+"PO-Revision-Date: 2025-06-28 02:31\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12005,6 +12005,147 @@ msgstr ""
 "**範例：** 假設你只有一個 1 鍵，只能加或翻倍。 例如，2 x (2 x 1) + 1 是 5。 你還能創造哪些數字？\n"
 "\n"
 "**範例：** 一個有趣的挑戰是「四個4」的挑戰。 假設你有一個只有一個 4 鍵的計算器，所有運算符都可以使用。從 1 開始，如果你必須在計算器上使用四個 4，你可以創建多少個數字？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "抓因數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**準備工作：** 使用一個標有 1 到 24 的 4 x 6 數字方格的棋盤。\n"
+"\n"
+"**遊戲規則：** 輪到玩家時，從沒有被覆蓋的數字中選擇一個至少有一個未被覆蓋的因數 - 玩家獲得所選數字，另一位玩家可以獲得任何或所有未被覆蓋的因數 (可以自由選擇數量)。輪流進行，直到沒有可選擇的數字為止。\n"
+"\n"
+"**獲勝條件：** 玩家計算各自的數字總和，得分較高者獲勝。\n"
+"\n"
+"**稅收單人遊戲：** 這也可以作為單人謎題玩，稱為稅收官。一個玩家選擇每個數字，稅收官得到所有可用的因數。繼續玩，直到玩家沒有合法的移動。此時，稅收官得到剩餘的數字。目標是盡可能大的總和——盡可能超過稅收官。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "為玩家設置數字範圍——可以是 1 到 12，也可以是 1 到 60。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "反彈撞球"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "因數和倍數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "想像一個撞球桌，每個角落都有一個球袋。 當球從撞球桌的側面反彈時，它會以與入射角相同的角度反彈出去。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"這次探索的問題是：如果我們以 45 度角從一個角落射出一個球，它最終會落在哪裡？\n"
+"\n"
+"答案取決於撞球桌的大小。下圖展示了在 3 x 4 的撞球桌上會發生什麼事。\n"
+"\n"
+"在玩過幾種不同大小的撞球桌後，挑戰你的孩子提前預測新尺寸的答案。 從左下角開始，哪個角落將首先被擊中，需要多少次反彈？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "雙倍驚喜"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**準備工作：** 玩家們先各自選取 5 個不同的數字，範圍大於 20 且小於 121。 所有人選擇完成後，將數字寫在所有玩家都能看到的地方。\n"
+"\n"
+"**遊戲規則：** 使用數字卡片或其他工具生成 1 到 20 的隨機數。 這個數字會一直翻倍，直到某個玩家的數字首次被命中，或者這個數字變為大於 120。\n"
+"\n"
+"**獲勝條件：** 首位五個數字都被命中的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "選數策略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "選擇諸如 46 之類的數字並不是一個好策略，因為 46 不是2的冪乘以1到20之間的某個數字 - 它永遠不會被命中。一些有許多 2 的因子的數字，例如 32，更容易被命中，因為更多的起始數字可以到達它們。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "每次可以將數字乘以 3 而不是翻倍。 每次可以翻倍並加 1。 對於年齡較小的玩家，可以選擇範圍大於 10 且小於 60 的數字，並從 1 到 10 生成隨機數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "因子之戰"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "因數個數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**準備工作：** 準備兩組卡片，例如 1 到 25。\n"
+"\n"
+"**遊戲規則：** 使用這些卡片玩標準的「戰爭」遊戲，但現在獲勝者是擁有更多因子的卡片。 例如，12比16大，因為12有6個因子 (1、2、3、4、6和12)，而16有5個因子 (1、2、4、8和16)。獲勝卡的持有者必須能夠正確列出其因子才能贏得卡片 - 否則，卡片將被洗回每個玩家的抽牌堆。 與標準的「戰爭」遊戲一樣，當出現平局時，翻開下一張卡，獲勝者獲得所有卡。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "也可以玩「較少的因子獲勝」的遊戲。 只計算素因數的總數，而不是所有因數。 可以玩「質數冪 (質數的冪次方) 擊敗其他數字」的遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "穿越火山"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**準備工作：** 使用一份 100 以內的數字表格，將四個邊緣的36個正方形塗成灰色。使用去掉了人頭牌的撲克牌，或者使用 1 到 10 的數字卡片。 \n"
+"\n"
+"**遊戲規則：** 輪到玩家時，如果抽到 1，則可以選擇任何奇數； 如果抽到其他任何數字，則可以選擇它的任何倍數。 如果玩家說了一個數字，則對手就不能說該數字。目標是在表格的任何一條邊緣創建一個通向另一條邊緣的路徑。 玩家不必按照路徑的順序來構建正方形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "您可以設定斜線連接是否被允許。另一種選擇是加入人頭牌 - 如果抽到人頭牌，則可以放置一個阻擋格，該格子不能包含在任何玩家的路徑中。"
 
 #. type=data_list
 msgctxt "data_list"
