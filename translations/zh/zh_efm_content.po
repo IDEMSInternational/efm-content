@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-28 04:35\n"
+"PO-Revision-Date: 2025-06-28 23:51\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12238,6 +12238,141 @@ msgstr ""
 "這個謎題的 5 行必須有 1 和 5，21 行有 3 和 7，32 行有 4 和 8，頂行通過排除法得到 2 和 6。7 列有 1 和 7，40 列有 5 和 8，18 列有 3 和 6，第二列有 2 和 4。將這些資訊組合起來得到答案。\n"
 "\n"
 "**如何創建：** 與許多此類謎題一樣，家長可以先填寫謎題內部的數字，記下乘積，然後刪除所有內部數字來製作謎題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of These is Not Like the Others"
+msgstr "找不同遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This activity has your child looking at four things and deciding which three share a property that the fourth one does not. The following is a quick list of examples together with explanations. Children often have a fresh way of looking at things and it is well worth listening to them to see if their reasoning is novel yet sound.\n"
+"\n"
+"There are several ways to present these four items to your child. The easiest for you is to simply say the list. If the items are easy to draw, you can draw them. If the items are hard to draw, you may be able to find photos or drawings in ads or magazines that you can cut out and select from. You may be able to use a single photo with lots of content and point out four things in the photo.\n"
+"\n"
+"For activities like this, once your child has practiced this for a while and has a solid idea of the activity, it is good to reverse your roles - your child will learn a lot by creating examples for you to solve. As before, their reasoning may be very different from yours, so listen carefully."
+msgstr ""
+"本游戲的規則是讓您的孩子從四個物品中找出與其他三個最不相同的一個。以下是一些示例和對應的説明。孩子們通常會以嶄新的方式看待事物，這值得家長們用心去聆聽並判斷小孩的推理是否既新穎又合理。\n"
+"\n"
+"將這四個物品告訴孩子的方法有很多種，其中最簡單的方法就是逐個讀出來。如果這些物品容易畫，那麽您可以把它們畫出來。如果這些物品難畫，那麽您可以在廣告或雜誌中找出相應的圖片並剪裁出來。除此之外,您也可以從一張包含大量內容的照片中指出照片中的其中四個物品。\n"
+"\n"
+"儅您的孩子練習了一段時間后對游戲有了紮實的認識，您就可以與您的孩子進行角色交換。換句話而言就是，由您的孩子出題來讓您解決。這樣他們能從中學到更多東西。一如既往的，他們的推理可能與您的推理大不相同，因此請您仔細觀察 。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Groups of Four"
+msgstr "一組四個"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"以下是一些幫助您入門的示例:\n"
+"\n"
+"* 兔子、狗、蝴蝶、枕頭－前三個是動物，而枕頭不是。\n"
+"* 香蕉、奶酪、錘子、胡蘿蔔－錘子是其中唯一不能吃的東西。\n"
+"* 奶酪、鞋子、外套、襯衫－除了奶酪，其他的都是衣物。\n"
+"* 紅色三角形、帶孔的紅色正方形、綠色的正方形、無孔的紅色正方形－前三個中的任何一個都可以是與衆不同的那個：紅色三角形是唯一不是正方形的形狀。帶有孔的紅色正方形是唯一不牢固的正方形。綠色方塊是唯一一個非紅色的。\n"
+"* 狗、貓、獅子、金魚－獅子是清單上唯一一個不能儅寵物的動物，而且它也比其他動物大很多。或者，其中三個各有四條腿並且生活在陸地上，然而魚沒有腿并且生活在水中。\n"
+"* 玫瑰叢、橡樹、楓樹、松樹－除了玫瑰叢，其他的都是樹。\n"
+"* 長凳、桌子、沙發、凳子－桌子是唯一一個不是用來坐的家具。或者，沙發比其他的柔軟。\n"
+"* 樹皮、喇叭聲、彩虹、單擊－彩虹是唯一沒有聲音的。\n"
+"* 襪子、褲子、牙刷、帽子－牙刷是唯一一個不是用來穿的東西。\n"
+"* 椅子、雨傘、沙發、凳子－雨傘是唯一一個不是用來坐的物品。\n"
+"* 螞蟻、豬、蜘蛛、草蜢－豬是唯一一隻不屬於昆蟲的動物。\n"
+"\n"
+"您也可以使用圖片代替文字來進行這個游戲。您平時可以養成從廣告、雜誌或者其他地方剪裁圖片的習慣，以便您使用這些圖片來玩這項遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "跳島-計數"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "這些題目中標有編號的島嶼（圓）由橋樑（線）連接。玩家需要解決的問題是要找到一條路徑按照順序連接起各個島嶼。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest versions have all the numbers filled in and the numbers go from 1 to the number of islands. You can vary this activity by starting at some number other than 1 and by leaving out some of the numbers.\n"
+"\n"
+"Puzzles with all the numbers are straightforward once your child is confident with counting. Those beginning puzzles are good counting practice and are also good for building up confidence in puzzle solving. The more challenging puzzles are the ones with numbers left out.\n"
+"\n"
+"Ease your child into these harder puzzles by leaving out just a few numbers and slowly move to leaving out more."
+msgstr ""
+"在最簡單的版本中，從1到7所有的數字都已經填好。您可以通過從1以外的其他數字開始並省略一些數字來對這個游戲稍作改變。 \n"
+"\n"
+"一旦您的孩子對計數建立起了信心，那些填滿了數字的版本都會顯得很簡單。從這些簡單的題目開始練習是個好策略，因爲有助於建立解決遊戲的信心。相對而言，更具挑戰性的是那些省略了部分數字的題目。\n"
+"\n"
+"一開始只需省略幾個數字，然後慢慢省略更多數字，這樣就可以讓您的孩子循序漸進地解決這些遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The first of these two puzzles has every other number left out. This makes it relatively easy to fill in the missing numbers. 1 must attach to 0 and 2, and there is only one place for that. 3 must attach to 2 and 4, and with 1 filled in there is only one remaining place for the 3. 5 must go in the remaining place between 4 and 6.\n"
+"\n"
+"The second puzzle is a little bit harder. 3 must attach to 2 and 4, so there is only one place for it. 5 must attach to 4, so there is only one place for it now. 6 must attach to the 5. Finally, 0 must go in the remaining spot."
+msgstr ""
+"這兩個遊戲中的相鄰的數字被省略掉了，這個填寫起來相對容易。 1必然與0和2相鄰，然而這樣的位置只有一個。 3旁邊是2和4，並且1填上後只有一個位置滿足填3的要求。5肯定是在4和6之間。\n"
+"\n"
+"第二個题目相对来说要難一些。 3必須与2和4相邻，因此只有一個位置可选。 5必須紧挨着4，所以現在只有一個地方。 6必須靠著5。最後，剩下的位置一定是0。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
+msgstr "為了使這道題变得更加困難，我們可以刪除1以及一些橋。您可以嘗試各種變化，也可以讓您的孩子参与到設計之中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "剪紙"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "通過對一張紙折疊並剪裁來進行設計，這就叫做剪紙藝術。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Fold"
+msgstr "对折"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "將紙張對折一次，然後將其裁切，即可創建出新的圖案，並且其中一側與另一側鏡像對稱。嘗試切出臉孔、燈或幾何形狀。以下兩個例子是一顆星星和一棵樹，其中左邊是對折時，右邊是展開後的圖案。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Folds"
+msgstr "兩次对折"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "對折紙張一次，然後在垂直方向再對折一次，展開後的將會是兩組鏡像對稱的圖形。通過這個方法您可以製作出花朵等形狀。以下的圖形中，左圖是折疊了兩次之後剪裁出的形狀，右圖是展開後紙張的形狀。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three Folds"
+msgstr "三折"
 
 #. type=data_list
 msgctxt "data_list"
