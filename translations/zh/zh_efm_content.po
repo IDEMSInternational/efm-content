@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-28 02:31\n"
+"PO-Revision-Date: 2025-06-28 04:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12146,6 +12146,98 @@ msgstr ""
 msgctxt "data_list"
 msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
 msgstr "您可以設定斜線連接是否被允許。另一種選擇是加入人頭牌 - 如果抽到人頭牌，則可以放置一個阻擋格，該格子不能包含在任何玩家的路徑中。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "跳棋數學遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "乘法棋盤遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**準備工作：** 這個遊戲從跳棋中汲取靈感。每個玩家有 10 個棋子。棋子編號為 1 到 10，其中「10」號棋子標有10和11。棋子最初放置在100以內數字表格的末行上。 一個玩家放在 1 到 10 的正方形上，另一個放在 91 到 100 的正方形上。\n"
+"\n"
+"**遊戲規則：** 最初，棋子只能根據所選標記上的數字 (或數字) 的任何倍數向前移動一行——對於從1到10開始的玩家，向前意味著更大的數字，對於從91 到 100 開始的玩家，向前意味著更小的數字。一旦棋子穿過整個棋盤，它就變成「王」，然後可以向前或向後移動一行。 通過落在對手的棋子上可以吃掉對方的棋子。玩家的棋子不能與相同玩家的其他棋子重複放置。\n"
+"\n"
+"**獲勝條件：** 吃掉所有對手的棋子即可獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "其他玩法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "對於年齡較小的玩家，可以將棋盤縮短到前 6 行 - 1 到 60 的數字。還不熟悉所有倍數的孩子可以使用順數來計算移動。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "乘法賓果"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**準備工作：** 每個玩家開始時擁有一個 4 x 4 的表格，表格中填入可能的乘積數字。這些數字可以隨機分配，也可以由玩家仔細選擇。\n"
+"\n"
+"**遊戲規則：** 首先，發兩張牌並朝上放置在桌面上。 如果任何玩家擁有這兩個數字的乘積，他們就可以用標記蓋住它。從那時起，玩家輪流從牌堆頂部取牌，並選擇替換兩張牌中的哪一張。 所有擁有匹配乘積的玩家都可以用標記蓋住它。\n"
+"\n"
+"**獲勝條件：** 最先得到 4 個相連的玩家獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "互乘謎題"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "有趣的乘積"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"這種乘法謎題可以是 3 x 3 的，包含 1 到 6 的每個數字恰好一次，也可以是 4 x 4 的，包含 1 到 8 的每個數字恰好一次。\n"
+"\n"
+"**挑戰:** 填入一些空格，每行和每列填入兩個數字，使一行中數字的乘積等於最左邊標註的數字，並且一列中數字的乘積等於列頂端標註的數字。 某些行或列可能沒有標註 - 如果是這樣，則這些行或列的乘積沒有任何限制。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**解答範例：** 透過找到可以確定兩個數字的行和列來解決這個謎題。30列必須有 5 和 6，10行必須有 2 和 5。接下來，12 列必須有 3 和 4，4 行必須有 1 和 4。其他部分很容易完成。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"這個謎題的 5 行必須有 1 和 5，21 行有 3 和 7，32 行有 4 和 8，頂行通過排除法得到 2 和 6。7 列有 1 和 7，40 列有 5 和 8，18 列有 3 和 6，第二列有 2 和 4。將這些資訊組合起來得到答案。\n"
+"\n"
+"**如何創建：** 與許多此類謎題一樣，家長可以先填寫謎題內部的數字，記下乘積，然後刪除所有內部數字來製作謎題。"
 
 #. type=data_list
 msgctxt "data_list"
