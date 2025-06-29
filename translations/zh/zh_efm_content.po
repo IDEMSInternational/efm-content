@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-28 23:51\n"
+"PO-Revision-Date: 2025-06-29 00:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12373,6 +12373,396 @@ msgstr "對折紙張一次，然後在垂直方向再對折一次，展開後的
 msgctxt "data_list"
 msgid "Three Folds"
 msgstr "三折"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "您可以嘗試各種折叠和裁剪方式。下圖是通過先將紙張折疊兩次，然後再將其對角線折疊到先前折疊的一角而得到的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Snowflakes"
+msgstr "雪花"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a sequence of folds for creating 6-point snowflakes. Though it takes a few steps, don’t be put off by them - with a little practice they become quick and easy. \n"
+"\n"
+"Start by taking a standard sheet of paper and folding at one of the corners so the sides marked A and B meet. Leave the fold in place and cut along the line marked C.\n"
+"\n"
+"Take the triangle produced and fold it in half so that sides AB and C overlap.\n"
+"\n"
+"Put a temporary fold in this triangle and use the fold to mark the middle of side ABC. Undo the temporary fold.\n"
+"\n"
+"Make a fold over F. When you fold over F, you will be looking to have G placed so that G breaks the angle in half. \n"
+"\n"
+"Fold along G - do this fold underneath so that this new folded piece is underneath the other paper.\n"
+"\n"
+"Although not strictly necessary, it is a good idea to slice off the top of this figure. Otherwise, you might be tempted to use the region above the red dotted line without realizing that there isn’t paper on all levels.\n"
+"\n"
+"Lastly, fold this triangle in half. At last you are all set to do the cutting of your design!\n"
+"\n"
+"Have fun experimenting with many different combinations of cuts and colors!"
+msgstr ""
+"這是六邊雪花的製作流程。雖然乍一看步驟不少，但請不要被嚇到。其實您只需稍加練習，就熟能生巧。\n"
+"\n"
+"首先，取一張標準紙並在一個角上折疊，使標記為A和B的兩面相交。將摺痕留在原處，並沿標記C的線切割。\n"
+"\n"
+"取產生的三角形並將其對折，以使AB和C邊重疊。\n"
+"\n"
+"在此三角形中放置一個臨時摺痕，並使用該摺痕標記側面ABC的中間，然後恢復臨時折疊。\n"
+"\n"
+"在折疊F線條時，您要同時調整G線條的位置，以便讓G線條可以將ABC和F所構成的角度平分。\n"
+"\n"
+"沿G线条折疊时要往下方進行折疊，以使新折疊的纸在其他紙的下面。\n"
+"\n"
+"儘管並非絕對必要，但最好沿着红色虚线剪掉頂部，因为顶部区域的纸参差不齐、分布不均。\n"
+"\n"
+"最後，將這個三角形對折。您現在終於可以開始正式您的設計了！\n"
+"\n"
+"盡情享受嘗試各種不同的裁切和顏色組合所帶來的樂趣！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "關於數字1和2的尼姆遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Game Rules"
+msgstr "遊戲規則"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"選擇一個目標數字（例如10）。讓您的孩子選擇是他先開始還是您先開始。從0開始，在每回合中，一個人選擇在當前數字上加1或2，第一個達到目標數字的人獲勝。\n"
+"\n"
+"此遊戲也可以用減法來進行：從目標數字開始（例如10），在每回合中，玩家選擇減去1還是2。第一個達到0的人獲勝。\n"
+"\n"
+"該遊戲的另一個玩法是：被迫達到目標數字或超過目標數字的玩家並非獲勝，而是輸了。您還可以嘗試看看如果允許玩家每回合增加（或減去）1、2或3會發生什麼情況。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding the Game"
+msgstr "了解遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"這款遊戲無需進行任何分析，它本身就很有趣，而且您的孩子可以通過該遊戲來練習1和2的加減法。除此之外，当您的孩子准备好时您可以通过这个例子展示兩個解決問題的好技巧：1）從更簡單的示例中學習， 2）尋找规律。\n"
+"\n"
+"该游戏的任何版本都可以通過這種方式進行学习。讓我們看一個例子：從10開始做减法，得到0的人获得勝利。這個遊戲的難點是10離0太遠了。所以，讓我們看一個更簡單的版本。當要求孩子這樣做時，他們通常建議從5或6開始（從1開始似乎是荒謬的，但這實際上是他們應該做的！）通常最好是盡可能從簡單的開始（這意味著從1開始）。如果這是您先走並且計數為1，那麽通過減1您就可以獲勝。再試試別的數字。如果計數為2，您可以通過減2獲勝。如果計數為3，那麼您必輸無疑，無論是減去1還是2，您都將對手置於必勝之地。如果計數為4，您將獲勝。因為您將減去1，並將對手置於必敗之地。以此類推，我們可以建立如下表格：\n"
+"\n"
+"1赢 - 2赢 - 3输 - 4赢 - 5赢 - 6输 - 7赢 - 8赢 - 9输 - 10赢"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"從該表可以看出規律：每三個連續的數字對應的結果都是相同的。所以每當從10開始，您就應該先減去1。讓人感到欣慰的是，無論問題多復雜，一旦您從問題的簡單版本著手，您就可以輕松快捷地尋找到規律而無需進行復雜的分析。現在您已成為尼姆遊戲大師了，從任何數量開始該您都知道該怎麼做！這個基本遊戲的任何版本都同樣容易分析。\n"
+"\n"
+"那麽現在問題來了：為什麼重復的輸贏規律是數以3計？一旦一個玩家被困在了“輸”的數字（即是3的倍數）上，那麽此後的每一回合兩個玩家所減數字之和都可以是3。因為如果占下風的玩家減去1，則占上風的玩家可以減去2；如果占下風的玩家減去2，那麽占上風的玩家可以減去1。這樣一來占下風的玩家會一直被困在“輸”的數字上。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connect The Dots"
+msgstr "點點相連"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Everyday Scenes With Dots"
+msgstr "用點描繪日常用品"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
+msgstr "通過連接帶有編號的點來進行有趣的繪圖。一種方法是先畫一個簡單的圖，例如一個房子，然後擦除掉其中一些直線，並用帶編號的點來代替它們。如果將這些點按順序連接起來就可以重現原圖。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Geometric Patterns With Angles"
+msgstr "製作帶有角度的幾何圖案"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make abstract drawings by connecting points with the same number along opposite sides of an angle. The numbers may not be needed - if so, feel free to omit them - this will make the finished designs a little less cluttered. You can add variety to these by having your child draw with colors. There are lots of amazing examples of this to be found under the category of String Art on the Internet. This circle drawing was made by moving ahead by one dot on one side of the line segment and ahead by two dots on the other side."
+msgstr "在一個角的兩側分布著對應兩組相同編號的點，通過連接兩兩相同編號的點就可以製作抽象的集合圖形。您也許在作畫的過程中根本不需要用到這些編號，如果是這樣的話您可以將數字省略掉-這樣就可以讓設計看起來更加整潔。您可以通過讓孩子用彩色繪畫來讓圖案看起來更加豐富多彩。從網絡上您可以在紗線畫的類別中找到很多相關的例子。最右邊這個圓形圖案是通過在線段的一端連接一個點並在另一端連接兩個點來實現的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Patterns With Circles"
+msgstr "用圓圈製作圖案"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a special case of the last idea. Put some dots, say 8 or 9, evenly spaced on a circle. Your child can play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot. To make it easier to do different experiments, use push pins in a piece of cardboard or wood and then use string between the push pins.\n"
+"\n"
+"If your child is intrigued by the patterns that are produced, you can look at questions such as: For a circle with 8 dots, why is only one string needed to skip by 1, 3, 5, or 7, but 2 or 4 strings are needed for skipping 2, 4, or 6. Similarly, for a circle with 9 dots, why is only one string needed to skip by 1, 2, 4, 5, 7, or 8, but 3 strings are needed for 3 and 6? It’s too young to understand the idea that 2, 4, and 6 have a factor in common with 8, and 3 and 6 have a factor in common in 9 - however, seeing the patterns may plant the seeds for later ideas."
+msgstr ""
+"這是上面提到的最後一個方案的特例。將一定數量的點（比如說8或者9個）均勻地分佈在一個圓上，然後讓您的孩子按數字的順序連接各個點，或者每隔一個或者兩個點來連接。如果想讓這個遊戲進行地更加容易，您可以在一塊紙板或木頭上釘上圖釘來代表各個點，然後用細線在圖釘之間編織圖案。\n"
+"\n"
+"如果您的孩子對他製作的圖案感興趣，不妨進一步去思考一下這些問題：對於一個有8個點的圓，為什麼通過每跳1、3、5或7步的連接方法只需要用到一條線就可以把所有點連接滿，然而如果是，每跳2、4或者6步則需要用到2條甚至6條線。類似地，對於一個有9個點的圓，為什麼每跳1，2、4、5、7或8步連接只需要用到1條線，而對於3或者6步連接則需要用到3條。雖然對於小孩子來說它們還太小，大概難以理解2、4、6與8有共同的因數，而3、6和9有共同的因數——但是，這個遊戲能給他們日後的思維方式埋下啟蒙的種子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Sudoku"
+msgstr "拼圖數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is your child’s first math puzzle, and that’s pretty cool! It also means you should take it very slowly so your child has lots of success and fun, and very little frustration.\n"
+"\n"
+"The rules for these 4 by 4 Sudokus are very simple. There are four different types of tokens. There should be one of each kind of token in each row, column, and 2 by 2 corner of the puzzle. Use moveable pieces so that it is easy for your child to experiment in finding solutions.\n"
+"\n"
+"The first puzzles you make should just have one token missing from each row. Once your child understands and figures out those puzzles, you can move to trickier ones, but do not be in a hurry.\n"
+"\n"
+"The easiest way to create these puzzles is to start with a finished Sudoku and remove some of the tokens. To help you to do that, there are a number of finished Sudokus supplied below. After those finished examples, there is a list of methods you can use to create puzzles from a finished puzzle."
+msgstr ""
+"這是您孩子的第一個數學遊戲，這很酷！這也意味著您應該非常緩慢地進行練習，以使您的孩子獲得很多成功和樂趣，並且很少感到沮喪。\n"
+"\n"
+"這些4x4拼圖數獨的規則非常簡單。每個拼圖中有四種不同類型的符號。每種符號都應該出現在拼圖的每行、每列以及每個2 x 2角中。建議使用可移動的卡片來製作拼圖，因爲這樣能讓您的孩子輕鬆地嘗試尋找解決方案。\n"
+"\n"
+"您製作的第一個拼圖應該在每一行中都缺少一種符號。一旦您的孩子理解並弄清楚了這些遊戲，您就可以嘗試更具挑戰性的遊戲，但請循序漸進。\n"
+"\n"
+"創建這些遊戲最簡單的方法是從完整的數獨開始，然後刪除一些符號。為了幫助您做到這一點，下面提供了許多完整的數獨。接下來，我們提供了一系列方法指導您如何從完整的數獨中創建您自己的新數獨。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finished Sudokus"
+msgstr "完整的數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before giving you a collection of finished Sudokus, there is one thing to note. You can take any one of these and create 23 more of them simply by interchanging token types - for example, you can take a finished puzzle and create a “new” one by swapping the circles and triangles and swapping the diamonds and squares. \n"
+"\n"
+"The examples below are distinctly different from each other and cannot be made from each other by doing interchanges. You can create more examples from these by doing such interchanges if you like."
+msgstr ""
+"在給您完整的數獨例子之前，值得註意的一點是：您可以通過交換任意一種圖案類型來創建額外23個不同數獨。例如，您可以通過替換圓形和三角形或者替換菱形和正方形來創建一個新的數獨。\n"
+"\n"
+"下面的示例彼此之間各不相同，並且不能通過圖案替換來得到另外一個。因此您可以通過上述的交換方法從示例中創建更多數獨。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Methods for Creating Sudokus From Solved Ones"
+msgstr "利用完整的數獨創建新數獨的方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Once you have a finished Sudoku, you can use any of the following strategies to create a puzzle that has a unique solution. Generally speaking, the more tokens you remove, the harder the puzzle will be.\n"
+"\n"
+"* Remove a single token from each row or from each column.\n"
+"* Remove a single token from each 2 by 2 corner.\n"
+"* Remove all of one kind of token from the entire puzzle.\n"
+"* Remove all tokens from one 2 by 2 corner.\n"
+"* Remove one entire row and one entire column.\n"
+"* Remove all of one kind of token and one each of the other kinds of tokens.\n"
+"* Remove all tokens from two 2 by 2 opposite corners.\n"
+"* Remove all tokens from two 2 by 2 opposite corners and 1 token each from the other two corners.\n"
+"\n"
+"Of course, these are not the only methods you can use. They are just supplied here as sure-fire general methods that will quickly create puzzles."
+msgstr ""
+"在完成數獨遊戲後，您可以使用以下任何方法來創建具有獨特解決方案的新數獨。一般來說，刪除的圖案越多，難度就越大。\n"
+"\n"
+"* 從每一行或每一列中刪除一個圖案。\n"
+"* 從每個2 x 2角刪除一個圖案。\n"
+"* 從整個拼圖中刪除所有一種圖案。\n"
+"* 從1個2 x 2角移除所有圖案。\n"
+"* 刪除一整行和一整列。\n"
+"* 刪除所有一種圖案，以及其他每種圖案。\n"
+"* 從兩個2 x 2相對的角上移走所有圖案。\n"
+"* 從兩個2 x 2個相對的角中刪除所有圖案，並從其他兩個角中的每個令牌中刪除1個圖案。\n"
+"\n"
+"當然，以上并不是全部方法，我們只是將一些常規的方法列出來以供您參考，以幫助您快速創建數獨。您完全可以自己嘗試運用一些其他的方法來創建新的數獨。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sudoku With Jigsaws"
+msgstr "帶有拼圖的數字數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is similar to the Shape Sudoku puzzles, only now it uses numbers. If your child is not ready to recognize numerals yet, you can use quantities of dots instead. To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once.\n"
+"\n"
+"Create these puzzles for your child by starting with a completed puzzle with moveable pieces of numbered paper and then removing some of the pieces of paper."
+msgstr ""
+"數字數獨類似於圖形數獨，唯一不同的是數字代替了圖形。如果您的孩子尚未準備好識別數字，您則可以改用不同數量的點來代替數字。為避免塗改，建議您使用帶有編號（或虛線）的紙條來輔助解題。\n"
+"\n"
+"對於4 x 4拼圖，每個行和列的編號從1到4一次。同樣，每個標記的子區域都有1到4的數字。 \n"
+"\n"
+"首先從一個完整的拼圖開始，使用可移動的帶編號的紙，然後移走一些紙，為您的孩子創建這些拼圖。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4 by 4 Puzzles"
+msgstr "4 x 4 拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The 4 by 4 puzzles with subregions that are the 2 by 2 corners are exactly the same as the Shape Sudoku puzzles given before. You can go back to that page in these Resources to see solved versions of those puzzles. To create a numbered version of them, replace each colored shape by a number. For example, red circles could be 1, orange triangles 2, purple diamonds 3, and blue squares 4."
+msgstr "由2 x 2子區域組成的4 x 4拼圖與之前給出的圖形數獨完全相同。您可以翻回之前的頁面去查看這些題目的解決方案。要將圖形數獨轉換數字數獨版本，只需要用不同數字來替換不同彩色形狀。例如，紅色1代表圓圈、2代表橙色三角形、3代表紫色菱形、4代表藍色正方形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5 by 5 Puzzles"
+msgstr "5 x 5 拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are too many of these puzzles to come anywhere close to showing all the possible jigsaw geometries. These are here just to suggest what is possible. Your child may enjoy finding different ways of carving up a 5 by 5 square into pieces that have 5 small squares. \n"
+"\n"
+"Pieces that consist of 5 little squares are called “pentominoes.” Making shapes with pentominoes can be lots of fun. Maybe cut out some pentomino shapes out of stiff thick colored paper and see what designs you can make!"
+msgstr ""
+"由於這種類型的題目太多了，我們無法窮舉出所有可能性的組合。舉出這些例子的目的是想讓您了解其中的規律。您的孩子可能會喜歡嘗試用不同的方法來將5 x 5的正方形切成5片各含有5個小正方形的子區域。 \n"
+"\n"
+"由5個小方塊組成的區域稱為“五格拼版”，使用它們來製作拼圖會很有趣。也許您可以從一張厚的彩色紙上切出一些五格拼版，然後看看可以做些什麼設計！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6 by 6 Puzzles"
+msgstr "6 x 6 拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Okay, you are getting the idea. There are a lot of these! Here are just a few 6 by 6 puzzles to give you some ideas for what is possible. As always, play around with your child with these puzzle pieces and numbers. Perhaps design a few of these together."
+msgstr "好了，您現在已經對這個遊戲有初步的了解了。實際上還有很多類似的拼圖！這裡我們展示了幾個6 x 6的拼圖，可以為您提供一些想法。像之前一樣，與您的孩子參與其中，並且嘗試一起設計一些自己的遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Greater Than Sudoku"
+msgstr "大於號數獨"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship. \n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
+msgstr ""
+"大於号數獨謎題的基本规则与常規數獨大致相同——每個數字在每一行、每一列以及每個子區域中只能出現一次。此外，如果單元格中的數字必須符合数值之间的小於或大於号所规定的条件。\n"
+"\n"
+"您可以基于之前所完成的常规數獨来製作這些大于号数独——本教材中前面提供的所有示例數獨都会對創建這些新的謎題很有帮助。在相同幾何形狀的空白網格上插入大於和小於符號。如果省略所有數字並輸入所有不等式（小於或大於），通常很容易解決遊戲。對於您的孩子來說，一個有用的策略是首先尋找最小和最大數字應該放在什么地方。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your child is first learning how to do these puzzles, put in all the inequalities and some of the numbers. Gradually, start omitting more of the numbers and some of the inequalities."
+msgstr "當您的孩子第一次學習如何解決這些遊戲時，請先填入所有不等号和部分數字。逐漸地，開始省略更多的數字和一些不等号。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make Me a Liar"
+msgstr "拆慌游戏"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone makes an absolute statement and the other players attempt to show that the person is lying. This is done by finding an example that breaks the statement."
+msgstr "某人先進行一段陳述，而其他玩家則負責證明此人在撒謊，比如通過找到舉反例來拆穿謊言。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simple Statements That Are Almost Always True"
+msgstr "幾乎總是正確的簡單陳述"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One type of statement to use is saying that something is always true. Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* All trucks have four wheels. - Large trucks often have 6, 10 or more wheels.\n"
+"* All rectangles are squares. - Rectangles need not have all their sides the same length.\n"
+"* All birds can fly. - Ostriches, emus, and kiwis are birds that cannot fly.\n"
+"* The moon is only visible at night. - The moon is often visible during the day.\n"
+"* All shapes have straight sides. - A circle does not have a straight side.\n"
+"* All playgrounds have swing sets. - Some playgrounds don’t have swing sets.\n"
+"* All rooms have chairs. Bedrooms and bathrooms often don’t have a chair."
+msgstr ""
+"一種說法是說某些事情總是正確的。以下是此類型說法的一些例子，後面包含了簡要說明為什麼它們是謊言。\n"
+"\n"
+"* 所有卡車都有四個輪子。——大型卡車通常有6个、10个，甚至更多的車輪。\n"
+"* 所有矩形都是正方形。 ——矩形的邊長不必相同。\n"
+"* 所有的鳥都能飛。 ——鴕鳥、鴯鶓和鷸鴕是不會飛的鳥。\n"
+"* 月亮僅在晚上可見。 ——在白天經常可見月亮。\n"
+"* 所有形狀均具有直邊。 ——圓沒有直邊。\n"
+"* 所有遊樂場都有鞦韆。 ——有些遊樂場沒有鞦韆。\n"
+"* 所有房間都有椅子。——臥室和浴室通常沒有椅子。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If-Then Statements That Are Almost Always True"
+msgstr "幾乎總是正確的“如果......那麼......”陳述"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Another type of statement is of the form “if __, then ___ .” Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* If today is Monday, then it is a school day. - Some Mondays are holidays and some Mondays occur during the summer.\n"
+"* If I don’t eat for three hours, then I am hungry. - Most people can sleep for more than three hours and not wake up hungry.\n"
+"* If a person is taller than someone, then they are older. - Children often grow up to be taller than their parents.\n"
+"* If the sun is shining, it is a warm day. - Winter days can be sunny and cold.\n"
+"* If someone is late, something bad must have happened to them. - Sometimes people are late through carelessness or reasons beyond their control (traffic, bad weather, car trouble)."
+msgstr ""
+"另一種聲明形式為「如果__，則___」。以下是一些示例，其中簡要討論了它們為什麼是謊言。\n"
+"\n"
+"* 如果今天是星期一，那今天就要上學。——有些星期一是假期，有些星期一在暑假。\n"
+"* 如果我三個小時不吃飯，那我就餓了。 ——大多數人可以睡三個小時以上，並且不會餓著肚子。\n"
+"* 如果一個人比某人高，那麽高的人比矮的人老。 ——孩子長大後通常會比父母高。\n"
+"* 如果陽光明媚，那就是溫暖的一天。 ——冬季可能天晴又寒冷。\n"
+"* 如果某人遲到了，那一定是發生了一些壞事。 ——有時人們會由於粗心或無法控製的原因（交通，惡劣的天氣，汽車故障）而遲到。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15-Sliding Puzzle"
+msgstr "15格拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle Description"
+msgstr "拼圖說明"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The classic version of this puzzle starts with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid. The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"A 4 x 4 grid is too hard for a beginner, so start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr ""
+"這個游戏的經典版本以由5條水平和垂直線形成的4 x 4的正方形空網格開始。使用一組15張紙，其大小為網格正方形，並從1到15對紙進行編號。這個游戏的開始是有人將紙放在網格上。游戏的目的是在僅使網格的右下角為空的情況下使紙張有序。為此，如果一張紙與空的正方形相鄰，則可以將其移動-在這種情況下，可以將其滑入該空間。取決於人如何設置拼圖，拼圖可能可以解決，也可能無法解決。\n"
+"\n"
+"4 x 4的網格對於初學者來說太難了，因此從較小的網格開始。網格可以小到2 x 2，也可以大到孩子想要的大小。編號的紙張數總是比網格的尺寸少一。例如，在2 x 3的網格上，使用從1到5的卡片。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr "要设计這些拼圖，您有兩個選擇。第一種是將正方形隨機放置，在這種情況下，这个拼图有50%的几率是可解決的。另一种方法是，您可以先將紙張放置在最終完成的位置，然後随机按照游戏规则移动紙張。这样就可以保證拼圖是可解決的。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving the Puzzle"
+msgstr "進行遊戲"
 
 #. type=data_list
 msgctxt "data_list"
