@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-25 23:57\n"
+"PO-Revision-Date: 2025-07-01 19:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6845,6 +6845,11 @@ msgstr "**Nasıl kazanılır?** Çalınan yiyecek parçaları, artık çocuğunu
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "MATERYALLAR VE RAKAM KARTLARI"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**Introduction**\n"
 "\n"
@@ -7058,6 +7063,72 @@ msgstr "**Örnek — Şekiller:** Dört farklı nesnenin şunlar olduğunu varsa
 msgctxt "data_list"
 msgid "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas."
 msgstr "Bu nesneler arasında kare şeklinde olmayan tek şey kırmızı üçgendir. Delikli kırmızı kare, üzerinde delik olan tek nesnedir. Mavi kare ise kırmızı olmayan tek şeydir. Ve en sonuncusu, küçük kırmızı kare de diğerlerinden çok daha küçük olan tek şeydir. Görüldüğü üzere, sadece bir tane iyi cevap yoktur; bu nedenle, şaşırtıcı fikirlere her zaman açık olmalısınız."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "BUNLAR DİĞERLERİ GİBİ DEĞİL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Start with a group of four things with the following property: for each one of the things, the remaining three things have something in common that is not shared by the fourth.\n"
+"\n"
+"Challenge each other to find groups with this property. Be flexible and allow for any reasonable explanation that seems to work.\n"
+"\n"
+"**Example.** The first item is a triangle, while the others are squares. The second has a hole, while the others are solid. The third is a lot smaller than the others. The fourth is blue, while the others are red."
+msgstr ""
+"**Kurulum:** Aşağıdaki özelliklere sahip dört nesneden oluşan bir grup ile başlayın: her biri için, geriye kalan üç nesnenin ortak bir özelliği vardır ancak bu özellik dördüncüde yoktur. \n"
+"\n"
+" Karşılıklı, birbirinize bu özelliğe sahip grupları bulma konusunda meydan okuyun. Esnek olun ve makul görünen her açıklamayı kabul edin.\n"
+" \n"
+" **Örnek:** İlk nesne üçgenken, diğerleri ise karedir. İkincisinde delik varken, diğerleri tamdır. Üçüncü nesne diğerlerin daha küçüktür. Dördüncü mavi renkteyken, diğerleri kırmızıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "HAZINE AVI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Make a stack of scavenger hunt cards in advance. The players can play individually or in small groups of two to three.\n"
+"\n"
+"Each card will describe a thing to find. It may be a specific thing, \"A stop sign,\" or it may be a description involving all sorts of descriptions and properties. Here are some examples that you might want to use individually or in combinations:\n"
+"\n"
+"* Colors\n"
+"* Size (bigger than a hand, smaller than a car)\n"
+"* Shapes (circle, triangle, square, ball, box)\n"
+"* Group size (two things together, three together, ...)\n"
+"* Patterns (A B A B ...)\n"
+"* Numbers\n"
+"* Position (under, over, on top of, next to)\n"
+"* Texture (smooth, rough, bumpy, pointy)\n"
+"* Uses (for writing, for sitting, ...)\n"
+"\n"
+"**How to play.** Randomly distribute three cards to each player or group of players. Their goal is to be the first to find things for each of their cards."
+msgstr ""
+"**Kurulum:** Önceden bir dizi hazine avı kartı hazırlayın. Oyuncular bireysel yada iki ile üç kişilik küçük gruplar halinde oynayabilir. \n"
+"\n"
+"Her kart bulmanız gerekecek bir şeyi tarif eder. \n"
+"Bu, 'dur tabelası' gibi bir nesne olabilir ya da çeşitli özellik ve tanım içeren bir açıklama olabilir. Aşağıda, tek başına yada kombinasyon halinde kullanabileceğiniz bazı örnekler verilmiştir: \n"
+"\n"
+"* Renkler\n"
+"* Boyut (elden büyük, arabadan küçük)\n"
+"* Şekiller (daire, üçgen, kare, top, kutu)\n"
+"* Grup büyüklüğü (ikili, üçlü)\n"
+"* Desenler (A B A B....)\n"
+"* Sayılar\n"
+"* Konum (altında, üstünde, üzerinde, yanında)\n"
+"* Doku (düzgün, pürüzlü, tümsekli, sivri)\n"
+"* Kullanım alanı (yazmak için, oturmak için)\n"
+"\n"
+"**Nasıl Oynanır?** Her oyuncu veya oyuncu grubuna rastgele üç kart dağıtın. Amaç, kartlarda belirtilen şeyleri ilk bulan kişi veya grup olmaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TREASURE MAP"
+msgstr "HAZİNE HARİTASI"
 
 #. type=data_list
 msgctxt "data_list"
