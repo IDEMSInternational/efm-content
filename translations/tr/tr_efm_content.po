@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-07-01 20:00\n"
+"PO-Revision-Date: 2025-07-01 20:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26554,4 +26554,278 @@ msgstr "**Hikaye Kitabı**"
 msgctxt "template"
 msgid "**Activities**"
 msgstr "**Etkinlikler**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "Aşama"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "Başlangıç"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "Orta Düzey"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "İleri Düzey"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**Temel Hikaye Kitapları**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**Orta Düzey Hikaye Kitapları**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**İleri Düzey Hikaye Kitapları**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "Hikaye Metni"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "İlk Okuma"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "İkinci Okuma"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "Üçüncü Okuma"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "Hoş Geldiniz!"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "Hikaye Kitapları"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "Etkinlikler"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "Matematik Öğrenme Adımları"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "Oyun Buluşmaları"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "Eşzamanlanıyor"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Eşzamanlanıyor..."
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "Kopyala"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Kopyalandı!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Son eşzamanlama zamanı: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "Bu cihaz daha önce eşzamanlanmadı."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Şimdi eşzamanla"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "Ek Materyal"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "Bazı etkinliklerin, örneklerle ve daha fazla açıklamalarla desteklenen ek materyalleri vardır. Bunlara buradan ya da ilgili etkinlik sayfasının sonunda göz atabilirsiniz."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "Her bir Aşamada, ailenizin birlikte keyifle yapabileceği yaklaşık bir düzine eğlenceli oyun, bulmaca, etkinlik ve araştırma bölümü vardır."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "Aşamalar"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "Her aşamanın adı, çocuğunuzun o Aşamaya başlaması için gereken temel beceriyi belirtir. Örneğin, eğer çocuğunuz ona kadar sayabiliyor ve bu sayıların ne anlama geldiğini biliyorsa 3. Aşamadan başlayabilirsiniz. Aşamalardaki materyaller, öğrenmenin ilerleyici doğasına uygun şekilde tasarlanmıştır; böylece sonraki bölümler, önceki bölümlerin üzerine inşa edilir."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "Lütfen yapmak istediğiniz etkinlik türlerini seçin."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "Aşama etkinliklerini tek tek mi yoksa konuya göre mi görmek istediğinizi seçin."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr ""
+"Her öğrenme Aşaması, on temel öğrenme adımına ayrılmıştır.\n"
+"Her adım, çocuğunuzun ne öğrendiğini, bu öğrenmede ona nasıl yardımcı olabileceğinizi ve adımların birbiriyle nasıl bağlantılı olduğunu açıklar."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "Her Aşamada, ailenizin diğer ailenizin diğer ailelerle birlikte keyifle vakit geçirebileceği on oyun buluşması vardır. Her buluşma için, birlikte eğlenebileceğiniz önerilen hikaye kitapları ve etkinlikler bulunmaktadır. Oyun buluşmaları, her Aşamadaki on matematik öğrenme adımına karşılık gelir. Bu kaynaklara doğrudan ve kolay erişim sağlamak için bağlantılar sunulmuştur."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr ""
+"Çocuğunuzla birlikte kitap okumak harika bir deneyimdir! \n"
+"Bu hikaye kitapları, bir yetişkinin bir çocuğa okuması içindir.\n"
+"Okuma sırasında matematikle ilgili yorumlar ve sorular eklemek, çocuğunuzun matematiksel olarak gelişmesine yardımcı olur, ve matematiği mutlu ve sıcak bir deneyimle güçlü bir şekilde ilişkilendirmesini sağlar."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "Lütfen seçmek istediğiniz hikaye türlerini belirleyiniz."
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "Başlangıç Seviyesi Hikaye Kitapları"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr ""
+"Çocuğunuz konuşmadan veya kelimeleri anlayamadan önce onunla konuşun. Gördüğünüz şeyleri, örneğin şekilleri, renkleri, karşılaştırmaları ve miktarları işaret edin, adlandırın ve tanımlayın.\n"
+"Çocuğunuz kelimeleri anlamaya başladığında, bir şeyi sorun ve size işaret etmesini isteyin. Çocuğunuz kelimeleri anlamaya ve söylemeye başladığında, basit sorular sormaya başlayın."
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "Orta Seviye Hikaye Kitapları"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "Bu hikaye kitapları kısmen daha uzundur, biraz daha karmaşık hikaye kurgularına sahiptir ve daha gelişmiş fikirler içerir. Çocuğunuz artık dünya hakkında daha fazla konuşabilir ve akıl yürütebilir."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "İleri Seviye Hikaye Kitapları"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr ""
+"Hikayedeki kurgular giderek daha ayrıntılı ve karmaşık hale gelir.\n"
+"Matematik, daha büyük sayıları ve daha gelişmiş kavramları içerir.\n"
+"Nesnelerin tanımı daha ayrıntılı ve derinlemesine yapılır."
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "Hoş Geldiniz!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "Birlikte matematikle oynamaktan ve okumaktan keyif alın! Matematiği öğrenmenin ve deneyimlemenin en iyi yolu, sosyal ve eğlenceli bir yoldur. Early Family Math, ailenizin birlikte keyifle vakit geçirebilmesi için dört tür materyal hazırladı."
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "Hikaye Kitapları"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr ""
+"Bu hikaye kitapları, bir yetişkinin çocuğa okuması içindir.\n"
+"Her sayfada matematikle ilgili yorumlar ve rehber sorular yardır.\n"
+"Çocuğunuzun matematiksel olarak gelişmesine yardımcı olun ve matematiği mutlu ve keyifli bir okuma deneyimiyle güçlü şekilde ilişkilendirmesini sağlayın!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "Etkinlikler"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "Ailenizin birlikte oynayabilmesi için tasarlanmış, eğitimsel sıralamaya sahip matematik oyunları, bulmacalar, etkinlikler ve araştırmalar, çocuğunuzun okulda ihtiyaç duyacağı tüm matematiği öğrenirken çok keyifli aile zamanı sunar."
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "Matematik Öğrenme Alanları"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "Matematik için başlangıç öğrenme adımlarının neler olduğunu ve birbirleriyle nasıl bağlantılı olduklarını hiç merak ettiniz mi? İşte çocuğunuzun beş aşamayı geçerken deneyimleyeceği on matematik öğrenme adımının kısa açıklamaları."
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "Oyun Buluşmaları"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "Başka ailelerle bir araya gelin ve bir matematik oyun buluşması yapın. Bu buluşmalarda, aile gruplarıyle birlikte keyif alabileceğiniz önerilen hikaye kitapları, oyunlar ve bulmacalar bulunur."
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "Yardım"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "Bu tanıtımı tekrar görmek isterseniz, sadece soru işaretine tıklamanız yeterli."
 
