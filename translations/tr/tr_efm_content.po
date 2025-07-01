@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-07-01 19:05\n"
+"PO-Revision-Date: 2025-07-01 20:00\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7133,7 +7133,22 @@ msgstr "HAZİNE HARİTASI"
 #. type=data_list
 msgctxt "data_list"
 msgid "Object Properties"
-msgstr "Nesneleri̇n Özelli̇kleri̇"
+msgstr "Nesne Özelli̇kleri̇"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Decide on an interesting place for the treasure. It can be just the place, or you could put some silly thing there that your child will enjoy finding.  \n"
+"\n"
+"The \"map\" can be done in one of two ways. It can be a drawing of the area with interesting landmarks drawn in, and with an \"X\" marks the spot where the treasure is. Or, it can be a series of directions that must be followed to get to the treasure. The directions can be as simple as \"face the clock and go forward 9 steps,\" or they can be descriptions similar to those in the Scavenger Hunt activity \"face something blue and round, then walk toward a group of three red things until you are next to something to sit on.\""
+msgstr ""
+"**Kurulum:**  Hazine için ilginç bir yer seçin. Bu herhangi bir yer yada çoçuğunuzun bulmak keyif alacağı komik bir şey de olabilir.\n"
+"\n"
+"\"Harita\" iki farklı şekilde hazırlanabilir.\n"
+"\n"
+"Ya, bölgenin ilginç yerlerinin çizildiği bir resimde hazinenin yerini gösteren bir \"X\" işaretiyle belirtilir ya da hazineye ulaşmak için izlenmesi gereken bir yol oluşturulabilir.\n"
+"\n"
+"Yoldaki tarifler \"saate doğru don ve 9 adım ileri yürü\" kadar basit yada Hazine avı etkinliğindeki açıklamalara benzer bir şekilde \"mavi ve yuvarlak bir şeye doğru dön, ardındın üç kırmızı şeyden oluşan gruba doğru yürü, sonra oturucalacak bir şeyin yanına gelene kadar devam et\" gibi betimleyici olabilir."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7185,6 +7200,49 @@ msgstr "O KIŞI KIM?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "Bu aktivite birkaç kişiyle oynanacak bir aktivitedir. Oyunda bir Lider bulunur ve lider, gruptan bir gizli kişi seçer. Ardından, oyuncular, bu gizli kişinin kim olduğunu bulmak için lidere şu tür soruları sorarlar: “Bu kişi, üzerinde üçgen şekli olan bir gömlek mi giyinmiş?” veya “Bu kişinin saçı 30 cm’den uzun mu?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "BU ŞEKİL KİME AİT ACABA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a collection of cards with standards shapes drawn on them. These could be square, circle, triangle, rectangle, parallelogram, pentagon, hexagon, octagon, oval, star, or anything else you child is familiar with. \n"
+"\n"
+"**How to play:** A child can do this by themselves, or with a partner. Give a small random collection of the shape cards to the child or children for them to act out silently. They can use their body parts (but not their fingers) and the ground to do things that suggest the shape. Their goal is to have the other people guess the name of the shape. You can make it competitive by having a time limit and seeing which team can do the most shapes in the allotted time."
+msgstr ""
+"**Kurulum:** Üzerinde temel şekillerin çizili olduğu bir kart koleksiyonu hazırlayın. Şekiller kare, daire, üçgen, dikdörtgen, paralelkenar, beşgen, altıgen, sekizgen, oval, yıldız veya çocuğunuzun aşina olduğu herhangi bir şekil olabilir.\n"
+"\n"
+"**Nasıl Oynanır:** Bu oyunu çoçuğunuz tek başına yada bir partner ile oynayabilir. Çocuğunuza veya çoçuklara rastgele birkaç şekil kartı verip bu şekilleri sessizce canlandırmalarını isteyin. Parmaklarını kullanmadan sadece vücutlarını ve yeri kullanarak bu şekilleri çağrıştıracak hareketler yapabilirler.\n"
+"Amaç, diğerlerinin canlandırdıkları şekli tahmin etmektir.\n"
+"Oyunu daha rekabetçi hale getirmek isterseniz, zaman sınırı belirleyerek verilen süre içinde hangi takımın daha fazla şekil canlandırmasını gözlemleyebilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BUILDING WITH SHAPES"
+msgstr "ŞEKİLLERLE İNŞA ETME"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unknown Shapes"
+msgstr "Bilinmeyen Şekiller"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bring together an interesting collection of shapes for your child to play with.\n"
+"\n"
+"The shapes may all be flat polygons, in which case your child can play with making designs and tiling patterns. Explore which shapes fit together nicely and which don't. Name some of the shapes as your child picks them up.\n"
+"\n"
+"They may be things that can be stacked or placed together in interesting ways, such as boxes and cans. If two structures are built, talk about which is taller, wider, or stronger. Which one has more pieces in it? Which pieces are easy to put on top of each other and which ones are not?"
+msgstr ""
+"Çocuğunuzun oynayabileceği ilginç bir şekil koleksiyonu oluşturun.\n"
+"\n"
+"Şekillerin tamamı düz çokgenlerden oluşabilir; bu durumda çocuğunuz, tasarımlar yapıp karo desenleri oluşturarak oynayabilir.Hangi şekillerin güzelce uyduğunu ve hangilerinin uymadığını keşfedin. Çoçuğunuz şekillere alıştıkça bazılarını isimlendirin.\n"
+"\n"
+"Bunlar, kutular ve tenekeler gibi üst üste konulabilen veya ilginç biçimlerde bir araya getirebilen nesneler de olabilir. İki yapı oluştuğunda, hangisinin daha uzun, geniş veya sağlam olduğunu tartışın. Hangisinde daha çok parça var? Hangi parcaların birbirleri üzerine kolay yerleşip yerleşmediğini tartışın."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7470,6 +7528,59 @@ msgstr ""
 "Daha sonra, oyuncu, kart destesinden bir kart seçer ve yüksek sesle onun hangi sayı olduğunu söyler. Eğer söylenen sayı oyuncunun kartlarındaki bir sayıyla eşleşirse, o zaman oyuncu o kartı alıp sizden alıp eşleşen kartın üstüne koyarak kartı kapatır. Bir oyuncunun birden fazla eşleşen kartı varsa, hangi kartın üstüne koyacağına kendisi karar verebilir.\n"
 "\n"
 "**Nasıl kazanılır?** Oyunu yatay, dikey veya çapraz yönde arka arkaya toplam 4 adet kartını ters çevirmiş veya kapatmış olan kazanır ve “Bingo!” diye bağırır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SMALLEST SINGLE NUMBER"
+msgstr "EN KÜÇÜK TEK SAYI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Gather a group of people together in a circle. Have them each think of a whole number that they will use for this round of the game. One person is the announcer.\n"
+"\n"
+"**How to play.** The announcer starts slowly counting up starting at 1. With each number, any person who was thinking of that number raises their hand. If only one hand is raised, that person is the winner and the round is over. If more than one hand is raised, those people are out of the game for this round and the announcer continues counting up.\n"
+"\n"
+"Make this an active game by having all the players sitting down or crouched down. When their number is called, the person jumps up."
+msgstr ""
+"**Kurulum:** Bir grup kişiyi toplayın ve bir daire olacak şekilde oturmalarını sağlayın. Her kişiden, bu turda kullanacakları bir tam sayı düşünmelerini isteyin. Bir kişiyi sunucu olarak seçin.\n"
+"\n"
+"**Nasıl Oynanır?** Sunucu 1'den başlayarak yavaşça saymaya başlar. Her sayı söylendiğinde, o sayıyı düşünmüş olan kişi elini kaldırır. Eğer yalnızca bir kişi el kaldırdıysa, o kişi bu turun kazananı olur ve tur sona erer. Eğer birden fazla kişi aynı anda elini kaldırdıysa, bu kişiler o tur için oyundan elenir ve sunucu saymaya devam eder.\n"
+"\n"
+"Oyunu daha aktif hale getirmek isterseniz tüm oyuncuların oturmasını ya da çömelmesini isteyin. Seçtikleri sayı söylendiğinde, o kişi el kaldırmak yerine zıplamalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "İLERİ GERİ - 12"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers up to 10"
+msgstr "10’a Kadar Sayilar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr ""
+"**Kurulum:** Her oyuncu 0'dan 12'ye kadar boş bir tahta ile başlar.\n"
+"Her oyuncu 0'ın üzerine siyah bir işaretleyici koyar ve üç tane kırmızı işareti 0'dan büyük sayılardan nereye yerleştireceğine karar verir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**Nasıl Oynanır?** Oyuncu sırası geldiğinde, zar atar ve siyah işaretini zardaki sayı kadar ileriye yada geriye doğru hareket ettirir.\n"
+"Eğer siyah işaret bir kırmızı işaretin üzerine gelirse, o kırmızı işaret tahtadan alınır ve oyuncu geri alır.\n"
+"\n"
+"**Nasıl Kazanılır?** Tüm kırmızı işaretleri tahtadan ilk toplayan oyuncu kazanır.\n"
+"\n"
+"**Örnek Hamle:** Diyelim ki ilk zar 5 geldi. Oyuncu siyah işaretini 5'e götürür. Eğer sonraki zar 3 gelirse, işaretleyicisini 2'ye yada 8'e hareket ettirebilir."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8093,8 +8204,13 @@ msgstr "Hikâyelerinizde çocuğunuzun ilgisini çeken konuları seçin; örneğ
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Variable names"
+msgstr "Değişken İsimleri"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
-msgstr "Değişkenlere isim verme fikrini, aktivitelerinizdeki eksik olan sayılara komik isimler vererek öğretmeye başlayabilirsiniz."
+msgstr "Etkinliklerde eksik sayılar içim komik isimler kullanarak değişken isimler kavramını tanıtın."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8407,6 +8523,31 @@ msgstr ""
 "Çocuğunuzla, aranızda kimin en iyi tahminde bulunabileceğini görmek üzerine kurulu bir oyunla niceliklerle ilgili bir kavrama yetisi geliştirebilirsiniz. Örneğin, bir sırada bekleyen grupta kaç insan olduğunu tahmin etmek gibi.\n"
 "\n"
 "Kendinizi tahmin ettiğiniz şeyi hiç saymadan hızlı bir tahminde bulunmaya zorlayın. Herkes bir tahminde bulunduktan sonra nesneleri sayın ve gerçeğe en yakın tahminde bulunan kişiyi ödüllendirin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "AVUÇ DOLUSU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "Sayilarin Büyüklüğü"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Have a collection of small items that will fit easily in a child's hand.\n"
+"\n"
+"**How to play.** Show your children the items and ask them to estimate how many of these items they think they can grab with one hand. Give them a little bit of time to come up with an answer, and then collect all the answers. If you have a number line handy, put a mark by each estimate. Take a moment to discuss why some are larger and some are smaller. Finally, have one child grab a handful, count together how many they have, and see which estimates were the closest.\n"
+"\n"
+"**Variations.** Use two hands if you want to get larger numbers. Also, use different sizes of objects to add variety and to produce smaller or larger numbers."
+msgstr ""
+"**Kurulum:** Çocuğunuzun avucuna kolayca sığabilecek küçük nesnelerden oluşan bir koleksiyon hazırlayın.\n"
+"\n"
+"**Nasıl Oynanır?** Çocuğunuza hazırladığınız nesneleri gösterin ve bir elle kaç tanesini kavrayabileceklerini tahmin etmelerini isteyin. Tahminlerini oluşturmaları için onlara biraz zaman verin ve sonra tüm tahminleri toplayın. Elinizde bir sayı doğrusu varsa, her tahmini üzerinde işaretleyin. Neden bazı tahminlerin büyük, bazılarının ise küçük olduğunu kısaca tartışın. Ardından çocuğunuzdan nesneleri avuçlamasını isteyin, hep birlikte sayarak kaç tane aldığını bulun ve hangi tahminin en yakın olduğunu görün.\n"
+"\n"
+"**Varyasyonlar:** Daha büyük sayılar elde etmek istiyorsanız iki el kullanabilirsiniz. AYrıca farklı boyutlarda nesneler kullanarak çeşitlilik yaratabilir ve daha küçük ya da daha büyük sayılar elde edebilirsiniz."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8887,6 +9028,35 @@ msgstr ""
 "**İki çocuk:** Her çocuk bir kart çeker ve kartı yüzü dışa bakacak şekilde alnına koyar, kartı görmeden. Toplam kartları duyurursunuz ve çocuklar, diğer çocuğun kartına bakarak kendi kartlarını tahmin etmeye çalışırlar.\n"
 "\n"
 "**Bir yetişkin ve bir çocuk:** Her bir kart çiftinin toplamının bilindiği birkaç kart çifti önceden hazırlayın. Kullanılmayan kartlar kenara alınır. Rastgele bir kart çiftini seçin, kartları alnınıza koyun ve diğer kişinin kartına bakarak her kartı tahmin etmeye çalışın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "KALK / OTUR"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
+"\n"
+"**How to play:** Suppose the leader selects the number 10. If the leader says the number 10, or anything that equals 10, such as 7 + 3, everyone stands up. If the leader says any other number, or anything not equal to 10, then everyone sits down. The leader can try to trick everyone else by standing up or sitting down when everyone should do the opposite."
+msgstr ""
+"**Kurulum:** Herkesin kolayca kalkıp oturabileceği bir alanda buluşun. Bir kişiyi lider olarak seçin.\n"
+"\n"
+"**Nasıl Oynanır?** Diyelim ki lider 10 sayısını seçti. Eğer lide \"10\" ya da \"7+3\" gibi 10'a eşit olan bir şey söylerse, herkes kalkar. Eğer lider başka bir sayı ya da 10'a eşit olmayan bir şey söylerse, herkes oturur. Lider, tam tersi hareketler yaparak diğerlerini şaşırtmaya çalışabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"* 10 sayısını başka bir sayıyla değiştirin.\n"
+"* Sayı 5'ten büyükse ayağa kalkın; 5 veya 5'ten daha küçükse oturun.\n"
+"* Sayı çiftese ayağa kalkın; tekse oturun.\n"
+"* Sayının içinde 1 rakamı geçiyorsa ayağa kalkın; geçmiyorsa oturun."
 
 #. type=data_list
 msgctxt "data_list"
@@ -9452,6 +9622,11 @@ msgstr ""
 "**Nasıl Oynanır:** Bir oyuncu sırası geldiğinde, iki bitişik nokta arasında yatay veya dikey bir çizgi çizer. Eğer yeni.\n"
 "\n"
 "**Nasıl Kazanılır:** Daha fazla çizgi çizilemeyecek duruma geldiğinde, en fazla puanı toplayan oyuncu oyunu kazanır. Puanları takip etmek için, her kazanılan kutunun içine bir başlangıç harfi koymak kolay bir yöntemdir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use numbers.** One variation is to place numbers inside each square of the grid when the grid is first drawn. When a player completes a square, they receive the number of points inside the box. After all lines are drawn, the points are totaled up and the player with the most points wins."
+msgstr "**Sayıları Kullanın** Bir varyasyon olarak, ızgara ilk çizildiğinde her karenin içine bir sayı yerleştirmektir. Bir oyuncu kareyi tamamladığında, o kutunun içideki puanı alır. Tüm çizgiler çizildikten sonra puanlar toplanır ve en çok puanı toplayan oyuncu kazanır."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10676,6 +10851,11 @@ msgstr "Bu oyun, iki oyuncudan fazlasıyla da eşit şekilde çalışır."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "INVESTIGATIONS"
+msgstr "ARAŞTIRMALAR"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
 msgstr "Çocuğunuzun bu araştırmalarla oynamasına ve düşünmesine izin verin. Acele etmeyin. Önemli olan, oyun oynarken ve güzel desenler keşfederken geçirilen zamandır. Bu aktivitelerde bazı daha derin matematiksel fikirler bulunabilir, ancak bu fikirler çocuğunuz daha büyük olduğunda bekleyebilir."
 
@@ -10724,6 +10904,11 @@ msgstr "Bu sayılara baktıktan sonra, çocuğunuz her sayı çiftinin toplamın
 msgctxt "data_list"
 msgid "BALANCE SCALE"
 msgstr "DENGE TERAZISI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "Hesapla"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11020,6 +11205,53 @@ msgstr ""
 msgctxt "data_list"
 msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
 msgstr "**Harf yerine koyma bulmacaları:** Bu eksik sayı bulmacaları, basit değişkenler kullanmaya geçiş için oldukça anlaşılır bir başlangıçtır. Bu tür bulmacalarda iyileştikten sonra, çocuğunuz bu Aşamada daha sonra açıklanan Harf Yerine Koyma bulmacalarını çözmeye hazır olacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS REVISITED"
+msgstr "BOŞLUK DOLDURMA GÖZDEN GEÇİRME"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value, Add, and Subtract"
+msgstr "Basamak Değeri, Toplama ve Çıkarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9. Decide on which version of this game to play and make a game board for each person. One person is designated the dealer.\n"
+"\n"
+"The game boards can be as simple as two blanks to fill in to form 2-digit numbers. In this case the winner is the person with the largest number (or the smallest number, if you prefer). You can have zero, one, or two discard blanks for numbers not to be used.\n"
+"\n"
+"More complicated game boards can involve one or more 2-digit, 3-digit, or 4-digit numbers. The task may be to add up the numbers, or perhaps to take their difference. For adding, you might want to maximize the sum without going over some agreed upon limit. For subtracting, you might want it to be as small as possible without going below 0. There are a large number of possibilities which give you many ways to practice skills. \n"
+"\n"
+"**How to play:** The dealer draws random cards one at a time. The players decide where on their game board they will use that number. After deciding, the placement of that number cannot be changed for the remainder of the game.\n"
+"\n"
+"**How to win:** When the game boards are filled, the player who does the best job of achieving the objective wins."
+msgstr ""
+"**Kurulum:** 1'den 9'a kadar numaralandırılmış iskambil kartlarını karıştırın. Oynayacağınız oyunun versiyonuna karar verin ve her kişi için bir oyun tahtası hazırlayın. Bir kişiyi dağıtıcı olarak seçin.\n"
+"\n"
+"Oyun tahtaları, 2 basamaklı sayı oluşturmak için doldurulacak iki boşluktan oluşan basit yapı olabilir. Bu durumda, kazanan en büyük sayıyı (ya da tercihinize göre en küçük sayıyı) elde eden kişi olur. Kullanılmayacak sayılar için sıfır, bir veya iki boş alan olabilir.\n"
+"\n"
+"Daha karmaşık tahta oyunları bir ya da birden fazla iki, üç veya dört basamaklı sayılar içerebilir. Görev, sayıları toplamak yada farklarını bulmak olabilir. Toplama işleminde, anlaşılan üst sınırı aşmadan mümkün olduğunda büyük tutmak isteyebilirsiniz. Çıkarma işleminde ise sonucu sıfırın altına düşmeden olabildiğince küçük yapmak isteyebilirsiniz. Bu oyun çok sayıda olasılık sunarak becerilerinizi çeşitli yollarla pratik yapmanıza olanak sağlar.\n"
+"\n"
+"**Nasıl Oynanır?** Dağıtıcı kartları teker teker rastgele çeker.\n"
+"Oyuncular, gelen sayıya oyun tahtalarında hangi boşluğa yerleştirmek istediklerine karar verirler. Karar verildikten sonra yerleştirilen sayının yeri oyun sonuna kadar bir daha değiştirilemez.\n"
+"\n"
+"**Nasıl Kazanılır?** Oyun tahtaları dolduğunda, objektifi en iyi şekilde başaran oyuncu kazanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Play that the smaller number wins.\n"
+"* Decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"* Deal three cards to each player and let the players choose which one to put aside.\n"
+"* To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"* Daha küçük sayının kazandığı şekilde oyun.\n"
+"* Kartların tek tek çevirilerek gösterilmesi mi yoksa tüm kararlar verildikten ve son sayılar oluşturulduktan sonra açıklanması mı daha dramatik olur, buna karar verin.\n"
+"* Her oyuncuya üç kart dağıtın ve oyuncuların birini kenara ayırmalarına izin verin.\n"
+"* Biraz toplama pratiği yapmak ve kararları zorlaştırmak için, üç kart çekin ve bunları teker teker çevirerek bir iki basamaklı ve bir basamaklı sayı oluşturun. Amaç, bu iki sayının toplamnın mümkün olduğunca büyük yapmaktır."
 
 #. type=data_list
 msgctxt "data_list"
@@ -11615,7 +11847,7 @@ msgstr "**Bulmacalar ve Oyunları Yeniden Kullanma:** Üsler çarpılırken üss
 #. type=data_list
 msgctxt "data_list"
 msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
-msgstr "Solda, Aşama 3 - Şekil Toplamlarından iki örnek bulunmaktadır. Sağda ise aynı örnekler, toplama yerine çarpma kullanılarak Şekil Çarpanları olarak verilmiştir."
+msgstr "**Örnekler:** Yukarıda 3. Aşama - Şekil Toplamaları'ndan iki örnek bulunmaktadır. Aşağıda ise Şekil Ürünleri için toplama yerine çarpma kullanılan aynı örnekler yer almaktadır."
 
 #. type=data_list
 msgctxt "data_list"
@@ -14587,6 +14819,11 @@ msgstr "İlk oyuncu, alt sıradaki 1–9 karelerinden birine bir taş yerleştir
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Bigger Boards"
+msgstr "Büyük Tahtalar"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "These playing boards can be made as large as you like, though they do get to be quite large pretty quickly. Here are a few larger boards with the corresponding larger number ranges beneath them."
 msgstr "Bu oyun tahtaları istediğiniz kadar büyütülebilir, ancak boyutları oldukça hızlı şekilde artar. Aşağıda, daha büyük sayı aralıklarıyla birlikte hazırlanmış birkaç büyük tahta örneği yer almaktadır."
 
@@ -14602,6 +14839,11 @@ msgstr "Sınırlı Hesap Makineleri"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Puzzle"
+msgstr "Bulmaca"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. You can come up with a wide variety of scenarios that can provide interesting challenges with a quick puzzle description. This activity is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
 "\n"
@@ -14610,6 +14852,11 @@ msgstr ""
 "Diyelim ki bozuk bir hesap makineniz var ve size bu makineyle belirli bir sonuç üretme görevi verildi. Basit bir bulmaca tanımıyla, ilginç zorluklar sunabilecek pek çok senaryo oluşturabilirsiniz. Bu etkinlik, boş vakitlerde sözlü olarak oynanması oldukça kolay bir oyundur. Başlamanız için bazı örnekler aşağıda yer alıyor.\n"
 "\n"
 "Bu sorular zaman zaman daha derin matematiksel kavramlara değinse de, çoğunlukla sadece eğlence amaçlıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Working Number"
+msgstr "Tek Çalışan Sayı"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14658,6 +14905,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Two Working Numbers"
+msgstr "İki Çalışan Sayı"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "a) Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
 "\n"
@@ -14685,6 +14937,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Binary Numbers"
+msgstr "İkili Sayılar Sistemi"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Suppose you only had a 1 key and could only add or double. For example, 2 x (2 x 1) + 1 is 5.  What other numbers can you create? \n"
 "\n"
@@ -14698,6 +14955,16 @@ msgstr ""
 msgctxt "data_list"
 msgid "Double or Nothing"
 msgstr "Ya Hep Ya Hiç"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Game"
+msgstr "Oyun"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduction"
+msgstr "Giriş"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14761,6 +15028,31 @@ msgstr ""
 "20 - 3/20 (5, 10 ve 20’den)\n"
 "\n"
 "Açıkça görülüyor ki, en iyi seçimler 16, 12 ve 20’nin katlarıdır. Basit bir strateji bu beş sayıyı kullanmaktır: 32, 64, 24, 48 ve 40. Bu sayılar her zaman kazanmasa da, uzun vadede sizi oldukça başarılı kılacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "1. Aşama — Seni Anlayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "2. Aşama — 5’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "3. Aşama — 10’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "4. Aşama — 20’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "5. Aşama — 100’e Kadar Sayabiliyorum!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26071,4 +26363,195 @@ msgstr "Birisi sizden 10’a kadar saymanızı isteseydi, bunu, tek tek mi yoksa
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "Bir grup insan, sıklıkla, bir şey hakkında aynı şekillerde düşünürler ve bir sorunu çözmenin iyi yollarını kaçırırlar. İyi problem çözücüler ise problemlere yaklaşmanın yeni yollarını keşfederler!"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "Sonraki"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "Önceki"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "Tamamlandı"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "Gizlilik Politikası"
+
+#. type=template
+msgctxt "template"
+msgid "Template list"
+msgstr "Şablon Listesi"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "Tur Listesi"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "Uygulamayı Sıfırla"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "Dil"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "EFM Uygulaması bir güncelleme indirdi. Kurulumu tamalamak için lütfen uygulamayı yeniden başlatın."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Yeniden Başlat"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+"Her şeyden önce, matematik oyunları oynamak, ailenizin birlikte oynadığı diğer oyunlar gibi eğlenceli olmalıdır!\n"
+"\n"
+"Lütfen çocuğunuzun hatalı hamleler (yanlışlar) yapmasına izin verin ve onlara nasıl oynamaları söyleme dürtüsüne direnin. \n"
+"Zamanla, çocuğunuz oyunda daha iyi olacak ve oyunu kendi başına keşfetmesine izin verirseniz çok daha fazla öğrenecektir.\n"
+"Acele etmeye gerek yok.\n"
+"\n"
+"Çocuğunuz hata yaptığında, neden böyle bir karar verdiğini açıklamasını isteyin. Eğer çocuğunuz takılıp hangi hamleyi yapacağına karar veremiyorsa, seçeklerinin artılarını ve eksilerini anlatmasını ya da geçmişte benzer bir durumu nasıl çözdüğünü sormayı deneyin. Eğer hesaplama yapmayı unuttuysa, beraber hangi yöntemleri bildiğini ve nasıl çözülebileceğini tartışın.\n"
+"Bu tür sohbetler, çocuğunuzun matematiksel gelişimi için çok önemlidir.\n"
+"\n"
+"Matematik oyunları ve matematik sohbetleri aracılığıyla, çocuğunuzun matematiği sevmesini sağlıyor ve önemli problem çözme becerileri geliştirmesine yardımcı oluyorsunuz!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+"Bulmacalar zorlayıcı olması ve zaman alması için tasarlanmıştır, bu yüzden çocuğunuza nasıl çözüleceğini söyleyerek eğlencesini bozmayın. Bu bulmacalar, kolayca oluşturabileceğiniz ve ardından birlikte keyifle çözebileceğiniz şekilde seçilmiştir.\n"
+"\n"
+"Çocuğunuz bir bulmacada takılırsa birkaç seçeneğiniz var. \n"
+"Elbette, çözümü tamamen belli etmeyecek küçük ipuçları verebilirsiniz. Daha küçük veya daha basit versiyonlarına bakmayı önerebilirsiniz. Çocuğunuzu, bazen çıkmazlara götürse bile cesur fikirler denemesi konusunda teşvik edin. Hepimiz hatalarımızdan ve çıkmazlardan çok şey öğreniriz! Çocuğunuza, bir bulmacayı ilk (ya da ikinci ya da üçüncü) denemede çözememenin tamamen normal olduğunu ve eğer bulmacayı bir iki gün kenara bırakırlarsa akıllarına faydalı fikirler gelebileceğini söyleyin.\n"
+"\n"
+"Bu bulmacalar eğlenceli olmak ve problem çözme becerileri kazandırmak için tasarlanmıştır. Matematiğin en büyük zevklerinden biri, pek çok yanlış başlangıçtan ve uğraştan sonra gelen “AHA!” anıdır – cevabın nihayet keşfedildiği o an. \n"
+"Çocuğunuzun bu keşif duygusunu olabildiğince çok kez yaşamasına izin verin!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"Araştırmalar, çocuğunuzun oynaması ve üzerine düşünmesi için hazırlanmıştır. Çocuğunuzun bu etkinlikleri keşfetmesine, ilginç örüntüler ve güzel ilişkiler aramasına izin verin. Ne olduğunu hemen açıklama ve cevabı verme isteğine karşı koyun. Eğer çocuğunuz bir çıkmaza girmiş gibi görünüyorsa, ona daha sonra tekrar dönüp araştırmayla yeniden oynamasını önerebilirsiniz.\n"
+"\n"
+"Birçok araştırma etkinliği, sonuçların düzenlenmesinden fayda görür ve bu konuda çocuğunuza yardımcı olmanız harika olur.\n"
+"Onlara tablo hazırlamada, çizimler yapmada ve herhangi yöntemlerle neyin olup bittiğini daha kolay görmelerine yardımcı olun. Elbette zaman zaman nazikçe doğru yöne yönlendirmeniz de tamamen uygundur. Unutmayın ki çocuğunuz kalıcılığı geliştirmeyi ve olaylara daha derinlenmesine bakmayı öğrenerek çok şey kazanacaktır."
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
+msgstr "Çocuğunuza Yardımcı Olmak"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "Ek Materyali Oku"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "Etkinlikler - Ek Materyal"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "Girişler"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "Oyunlar"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "Bulmacalar"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "Araştırmalar"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "Şahsen/Bireysel olarak"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "Konuya Göre"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**Aşamalar**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**Ek Materyal**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "Ek Materyal - Etkinlikler"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "Eşleşme Yok"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "Etkinlik Listesi"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "Hikaye Kitabı Listesi"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**Matematik Öğrenme Adımı**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**Hikaye Kitabı**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**Etkinlikler**"
 
