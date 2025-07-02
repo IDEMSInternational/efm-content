@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-05-17 02:48\n"
+"PO-Revision-Date: 2025-07-02 00:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6841,6 +6841,11 @@ msgstr "**Условия победы:** Украденные предметы �
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "МАТЕРИАЛЫ И НОМЕРНЫЕ КАРТОЧКИ"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**Introduction**\n"
 "\n"
@@ -7055,6 +7060,93 @@ msgstr "Красный треугольник — единственный, ко
 
 #. type=data_list
 msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "КАЖДЫЙ ИЗ НИХ НЕ ПОХОЖЫ НА ДРУГИХ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Start with a group of four things with the following property: for each one of the things, the remaining three things have something in common that is not shared by the fourth.\n"
+"\n"
+"Challenge each other to find groups with this property. Be flexible and allow for any reasonable explanation that seems to work.\n"
+"\n"
+"**Example.** The first item is a triangle, while the others are squares. The second has a hole, while the others are solid. The third is a lot smaller than the others. The fourth is blue, while the others are red."
+msgstr ""
+"**Установка.** Начните с группы из четырёх вещей со следующим свойством: для каждой из вещей оставшиеся три вещи имеют что-то общее, чего нет у четвертой. \n"
+"\n"
+"Бросьте друг другу вызов, чтобы найти группы с этим свойством. Будьте cвободны и допускайте любое разумное объяснение, которое, как вам кажется работает.\n"
+"\n"
+"**Пример.** Первый предмет -- треугольник, а остальные -- квадраты. Во втором есть отверстие, а остальные сплошные. Третий намного меньше остальных. Четвёртый синий, а\n"
+"остальные красные."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "КВЕСТ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Make a stack of scavenger hunt cards in advance. The players can play individually or in small groups of two to three.\n"
+"\n"
+"Each card will describe a thing to find. It may be a specific thing, \"A stop sign,\" or it may be a description involving all sorts of descriptions and properties. Here are some examples that you might want to use individually or in combinations:\n"
+"\n"
+"* Colors\n"
+"* Size (bigger than a hand, smaller than a car)\n"
+"* Shapes (circle, triangle, square, ball, box)\n"
+"* Group size (two things together, three together, ...)\n"
+"* Patterns (A B A B ...)\n"
+"* Numbers\n"
+"* Position (under, over, on top of, next to)\n"
+"* Texture (smooth, rough, bumpy, pointy)\n"
+"* Uses (for writing, for sitting, ...)\n"
+"\n"
+"**How to play.** Randomly distribute three cards to each player or group of players. Their goal is to be the first to find things for each of their cards."
+msgstr ""
+"**Установка.** Заранее сделайте стопку карточек поиска сокровищ. Игроки могут играть индивидуально или в небольших группах по два-три человека.\n"
+"\n"
+"Каждая карточка будет описывать вещь, которую нужно найти. Это может быть конкретные вещи, знак «Стоп», или это может быть описание, включающее все виды описаний и свойств. \n"
+"Вот несколько примеров, которые вы можете использовать по отдельности или в комбинациях.\n"
+"\n"
+"* Цвета \n"
+"* Размер (больше руки, меньше машины)\n"
+"* Формы (круг, треугольник, квадрат, шар, коробка)\n"
+"* Размер группы (два предмета вместе, три предмета вместе, …)\n"
+"* Числовые закономерности (А Б А Б)\n"
+"* Числа \n"
+"* Положение (под, над, сверху, рядом)\n"
+"* Текстура (гладкая, широxоватая, неровная, заостренная)\n"
+"* Использование (для письма, для сидения, …)\n"
+"\n"
+"**Как играть.** Случайным образом раздайте По три карты каждому игроку или группе игроков. Их цель- первыми найти предметы для каждой своих карт."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TREASURE MAP"
+msgstr "КАРТА СОКРОВИЩ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Properties"
+msgstr "Свойства объекта"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Decide on an interesting place for the treasure. It can be just the place, or you could put some silly thing there that your child will enjoy finding.  \n"
+"\n"
+"The \"map\" can be done in one of two ways. It can be a drawing of the area with interesting landmarks drawn in, and with an \"X\" marks the spot where the treasure is. Or, it can be a series of directions that must be followed to get to the treasure. The directions can be as simple as \"face the clock and go forward 9 steps,\" or they can be descriptions similar to those in the Scavenger Hunt activity \"face something blue and round, then walk toward a group of three red things until you are next to something to sit on.\""
+msgstr ""
+"**Установка.** Выберите интересное место для Сокровища. Это может быть просто место или вы можете положить туда какую-нибудь глупую вещь, которую ваш ребёнок будет с \n"
+"удовольствием находить,\n"
+"\n"
+"«Карту» можно сделать одним из двух способов. Это может быть рисунок местности с нарисованными интересными ориентирами, а «Х» помечает место где находится сокровища. \n"
+"Или это может быть ряд указаний, к которым нужно следовать, чтобы добраться до сокровища. Указания могут быть такими простыми, как «повернитесь лицом к часам и пройдите вперёд \n"
+"9 шагов», или это могут быть описания, похоже на те, которые указаны в задании «Охота за сокровищами»: «повернитесь лицом к чему-то синему и круглому, затем Идите к группе из \n"
+"трёх красных вещей, пока не окажетесь рядом с чем-то, на чём можно сесть»."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "DESCRIBING SCENES"
 msgstr "ОБРИСОВКА"
 
@@ -7103,6 +7195,28 @@ msgstr "УГАДАЙ КТО?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "Эта активность для нескольких человек. Ведущий тайно выбирает одного человека из группы. Игроки задают вопросы, такие как: \"Этот человек в футболке с треугольником?\" или \"У этого человека волосы длиннее 30 см?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "ЧЬЯ ЭТА ФИГУРА ВООБЩЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a collection of cards with standards shapes drawn on them. These could be square, circle, triangle, rectangle, parallelogram, pentagon, hexagon, octagon, oval, star, or anything else you child is familiar with. \n"
+"\n"
+"**How to play:** A child can do this by themselves, or with a partner. Give a small random collection of the shape cards to the child or children for them to act out silently. They can use their body parts (but not their fingers) and the ground to do things that suggest the shape. Their goal is to have the other people guess the name of the shape. You can make it competitive by having a time limit and seeing which team can do the most shapes in the allotted time."
+msgstr ""
+"**Установка.** Возьмите набор карточек со стандартными фигурами, нарисованными на них. Это может быть квадрат, круг, треугольник, прямоугольник, параллелограмм, пятиугольник, шестиугольник, восьмиугольник, овал, или что-то ещё с чем ваш ребёнок знаком.\n"
+"\n"
+"**Как играть:** Ребёнок может сделать это самостоятельно или с партнёром. Дайте ребёнку или детям небольшую случайную коллекцию карточек с фигурами, чтобы они могли молча разыграть игру. Они могут использовать части своего тела (но не пальцы) и землю, чтобы делать то что подсказывает им фигуру. Их цель- заставить других людей угадать название фигуры. Вы можете сделать игру соревновательной, установив ограничение по времени и \n"
+"посмотрев какая команда сможет нарисовать больше фигур за отведенное время."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BUILDING WITH SHAPES"
+msgstr "СТРОИТЕЛЬСТВО С ФИГУРАМИ"
 
 #. type=data_list
 msgctxt "data_list"
