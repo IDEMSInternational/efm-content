@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-07-02 01:05\n"
+"PO-Revision-Date: 2025-07-02 02:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19840,4 +19840,458 @@ msgstr "Если кто-то попросил тебя посчитать до �
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "Группа людей часто думает о чём-то одинаково и упускает хороший способ решение проблемы. Хорошие решатели проблем находят новые способы подходя к проблемам!"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "Следующий"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "Предыдущий"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "Закончен"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "Политика Конфиденциальности"
+
+#. type=template
+msgctxt "template"
+msgid "Template list"
+msgstr "Список Шаблонов"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "Список Туров"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "Перезагрузить Приложение"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "Язык"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "Приложение ЕFM загрузило обновление. Пожалуйста, перезапустите приложение, чтобы завершить установку."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Перезапуск"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+"Прежде всего, математические игры должны быть увлекательными, как и любые другие игры, в которые вы играете всей семьёй!\n"
+"\n"
+"Пожалуйста, позвольте вашему ребёнку совершить плохие действия (ошибки) без исправления и не поддавайтесь искушению указывать ему, как лучше играть. Постепенно ваш ребёнок будет совершенствоваться в игре, и он узнает гораздо больше если вы позволите ему разобраться во всём самостоятельно. Не надо спешить.\n"
+"\n"
+"Если вы видите что ваш ребёнок совершил ошибку, попросите его описать почему он решил сделать то что сделал. Если ваш ребёнок застрял и не знает какую игру играть, попросите его описать плюсы и минусы своего выбора или спросите его о том, как он решил похожую \n"
+"ситуацию в прошлом. Если ваш ребёнок не помнит как выполнять вычисления, то обсудите с ним известные ему методы для их выполнения. Эти беседы важны для развития математических способностей вашего ребёнка \n"
+"\n"
+"С помощью математических игр и математических бесед вы помогаете своему ребёнку научиться получать удовольствие от математики и развить важные навыки решения задач!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+"Головоломки должны быть сложными и требуют времени на их решение, поэтому пожалуйста не портите удовольствие рассказывая ребёнку как их решать. Эти головоломки подобраны таким образом, что бомбы могли легко их придумать, а затем весело провести время, решай их вместе.\n"
+"\n"
+"Если ваш ребёнок Застрял на головоломке, у вас есть несколько вариантов. Конечно, вы можете дать очень маленькие подсказки, если вы можете придумать что-то, что не выдаст суть головоломки. Вы можете предложить рассмотреть более мелкие или простые версии головоломки. Поощряйте смелость идей вашего \n"
+"ребёнка, даже если иногда они ведут в тупик. Мы все многому учимся на своих ошибках и тупиках! Дайте ребёнку знать, что совершенно нормально не решить головоломку с первой (или со второй, или с третьей) попытки, и что полезные идеи могут прийти ему в голову, если он оставит головоломку в покое на день или два.\n"
+"\n"
+"Эти головоломки предназначены для развлечения и обучения решению проблем. Одно из величайших математических удовольствий это момент озарения когда после множества неудачных попыток и долгой борьбы с проблемой ответ наконец найден – обязательно Позвольте вашему ребёнку испытать это чувство открытия как можно чаще!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"Расследование предназначены для того, чтобы ваш ребёнок играл и думал о них. Позвольте вашему ребёнку исследовать их, ища интересные закономерности и красивые взаимосвязи. Не подавайте искушению раскрыть то, что происходит, и дать ответ. если ваш ребёнок, кажется зашёл в тупик, предложите ему вернуться к расследованию в будущем, чтобы снова с ним поиграть \n"
+"\n"
+"Многие исследования выигрывают от организации результатов, и это отличная вещь, в которой вы можете помочь своему ребёнку. Помогите им сделать таблицы, рисунки или что-то ещё, что может помочь им легче у видеть, что происходит. И, конечно, совершенно нормально время от времени давать им лёгкие подталкивания в правильном направлении. Помните, что ваш ребёнок многому научится, развивая настойчивость и обучаясь тому, как смотреть на вещи более глубоко."
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
+msgstr "Помогать своиму ребёнку"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "Прочтите Бонусный Материал"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "Упражнения - Бонусный Материал"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "Введение"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "Игры"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "Головоломки"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "Расследования"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "Индивидуально"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "По теме"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**Этапы**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**Бонусный Материал**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "Бонусный Материал - Упражнения"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "Нет Совпадений"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "Список упражнений"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "Список Рассказов"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**Шаг Изучения Математики**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**Сборник Рассказов**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**Упражнения**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "Стадия"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "Начальный"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "Средний"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "Продвинутый"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**Начальный Сбор Рассказов**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**Средний Сбор Рассказов**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**Продвинутый Сбор Рассказов**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "Текст Истории"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "Первое Чтение"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "Второе Чтение"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "Третье Чтение"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "Добро Пожаловать!"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "Сборники Рассказов"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "Упражнения"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "Этапы Изучения Математики"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "Игровая Встреча"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "Синхронизация"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Синхронизация..."
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "Скопировать"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Последняя синхронизация: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "Это устройство никогда не синхронизировалось."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Синхронизировать сейчас"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "Бонусный Материал"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "Некоторые из занятий имеют дополнительный материал с примерами и дальнейшими пояснениями. Вы можете посмотреть их здесь или в конце соответствующей страницы занятий."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "На каждом из этапов имеется около дюжины разделов увлекательных игр, головоломок, занятий и расследований, которыми вы сможете заняться всей семьёй."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "Этапы"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "Каждое название этапа описывает основное требование к вашему ребёнку для начала этого этапа. Например, если ваш ребёнок умеет считать до десяти и знает что означают эти числа, то начните с этапа 3. Материалы на этапах разработаны в прогрессии обучения, так что последующие разделы основываются на предыдущих."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "Пожалуйста, выберите виды деятельности, которыми вы хотели бы заниматься."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr ""
+"Пожалуйста, выберите, предпочитаете ли вы просматривать этапы упражнения по \n"
+"отдельности или по темам."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "Каждый этап обучения делится на десять основных шагов обучения. Каждый шаг описывает что изучает ваш ребёнок, как вы можете помочь в этом обучении, и как шаги связаны друг с другом."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "В каждом этапе есть десять игровых встреч, которыми ваша семья может наслаждаться с группой другой семьи. На каждом игровом дне предлагаются книги рассказов и занятия, которыми можно заняться вместе во время игрового дня. Игровые встречи соответствуют десяти шагам обучения математике на каждом этапе. Ссылки предоставляются для прямого и лёгкого доступа к каждому из этих ресурсов."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "Чтение с вашим ребёнком - это прекрасный опыт! Эти книги предназначены для чтения взрослым детям. Добавление математических комментариев и вопросов к чтению помогает вашему ребёнку расти в математическом плане, и создаёт прочные ассоциации математики с этим счастливым, уютным опытом."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "Пожалуйста, выберите типы историй, которые вы хотели бы выбрать."
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "Начальный Сбор Рассказов"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "Поговорите с вашим ребёнком до того как он начнёт говорить или даже понимать слова. Указывайте на вещи, называйте их и описывайте их, например, формы, цвета, сравнения, и количества. Когда ваш ребёнок начнёт понимать слова, спросите о чем-нибудь и попросите ребёнка указать на это. Когда ребёнок начнёт понимать и произносить слова, задавайте простые вопросы."
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "Средний Сбор Рассказов"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "Этот сбор рассказов немного длиннее, имея немного более сложные сюжетные идеи. Теперь ваш ребёнок может говорить и рассуждать о большем количестве вещей в мире."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "Продвинутый Сбор Рассказов"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "Сюжетные идеи становятся всё более подробными и сложными. Математика включает в себя более крупные числа и более сложные концепции. Описание объектов становится более подробным и сложным."
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "Добро Пожаловать!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr ""
+"Наслаждайтесь чтением и игрой с математикой вместе! Лучший способ изучать и\n"
+" использовать математику - это социальный и игровой способ. Ранняя Семейная Математика создала четыре вида материалов для вашей семьи, чтобы вы могли наслаждаться ими вместе."
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "Сборник Рассказов"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr ""
+"Эти рассказы предназначены для чтения взрослым детям. На каждой странице есть математические комментарии и наводящие вопросы. Помогите своему ребёнку расти в математическом плане и создайте прочные ассоциации математики со счастливым, \n"
+"уютным опытом совместного чтения."
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "Упражнения"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "Эти обучающие математические игры, головоломки, задания, и исследования разработанные для совместной игры всей семьёй и обеспечат массу приятного семейного времяпрепровождения, пока ваш ребёнок изучает всю математику, необходимую для школы."
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "Этапы Изучения Математики"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "Вы когда-нибудь задумывались, каковы начальные этапы обучения математики и как они связаны друг с другом? Вот краткие описания десяти этапов обучения математики, которые ваш ребёнок пройдёт по мере прохождения каждого из пяти этапов."
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "Игровые Встречи"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "Собирайтесь с другими семьями и устроите математическую игровую встречу. Эти игровые встречи предлагают книги, игры, и головоломки для вашей группы семей, чтобы наслаждаться ими вместе."
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "Помощь"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "Если вы захотите увидеть это введение ещё раз, просто нажмите на вопросительный знак."
 
