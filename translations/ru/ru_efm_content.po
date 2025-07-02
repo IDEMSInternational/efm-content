@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-07-02 02:06\n"
+"PO-Revision-Date: 2025-07-02 03:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20032,6 +20032,82 @@ msgstr "**Упражнения**"
 msgctxt "template"
 msgid "Stage"
 msgstr "Стадия"
+
+#. type=template
+msgctxt "template"
+msgid "Before Talking"
+msgstr "До Разговорного Возраста"
+
+#. type=template
+msgctxt "template"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
+msgstr "Ведите разговор с вашим ребенком, если он еще не достиг разговорного возраста или не понимает слова. Показывайте, называйте и описывайте вещи, которые вы видите, например, формы, цвета, сравнения и количества. Когда ваш ребенок начнет понимать слова, спрашивайте его о каких-то предметах и просите его указать на них. Например, \"Где мяч?\" Если ребенок не может найти предмет, покажите его сами."
+
+#. type=template
+msgctxt "template"
+msgid "Early Talking"
+msgstr "Ранний Разговорный Возраст"
+
+#. type=template
+msgctxt "template"
+msgid "As your child begins to understand and say words, mix in simple questions. Freely help with answers as needed. If you point and say \"Is this red?\" and they don't know, supply the answer. If you say \"Count the blocks.\" and your child does not know how, point and count the blocks with them \"one, two, three.\""
+msgstr "Когда ваш ребенок начинает понимать и говорить слова, добавляйте простые вопросы. Помогайте с ответами по мере необходимости. Если вы указываете и спрашиваете \"Это красное?\" и ребенок не знает, подскажите ответ. Если вы говорите \"Посчитай кубики.\" и ребенок не знает как, укажите и считайте кубики вместе с ним: \"один, два, три\"."
+
+#. type=template
+msgctxt "template"
+msgid "3 Levels of Discussion"
+msgstr "3 Уровня Обсуждения"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Pick an appropriate level for your child. Allow time for thought when asking questions or making comments. Help with the answer when your child stumbles, and follow up correct answers with questions or comments that are small expansions on the child's answer. \n"
+"\n"
+"**Level 1** Ask simple direct questions. Ask and point at what you see on the page. Where is the toy? What are they doing? What is its name? What color is it? How many balls are there? \n"
+"**Level 2** Ask general or open questions about this point in the story. What do you see happening here? What is this group of things? \n"
+"**Level 3** Ask about the story line. What has happened? What will happen next? Have you had experiences or seen things similar to this? How does she feel when this happens?"
+msgstr ""
+"Выберите подходящий уровень для вашего ребёнка. Когда вы задаете вопросы или комментируете что-то, дайте ребёнку время подумать. Помогайте с ответом когда ваш ребенок запинается и после правильных ответов задавайте вопросы или делайте комментарии, которые немного дополняют ответ ребенка.\n"
+"\n"
+"**Уровень 1** Спрашивайте простые, точные вопросы. Спрашивайте и указывайте на то, что вы видите на странице. “Где игрушка?” “Что они делают?” “Как это называется?” “Какого это цвета?” “Сколько там мячиков?”\n"
+"\n"
+"**Уровень 2** Спрашивайте общие или открытые вопросы о текущем моменте в истории.“Что здесь происходит?” “Что это за группа вещей?”\n"
+"\n"
+"**Уровень 3** Спрашивайте про сюжетную линию. “Что случилось?” “Что будет дальше?” “Ты когда-нибудь сталкивалась/сталкивался с чем-то подобным или видел/видела что-то подобное?” “Что она чувствует когда это происходит?”"
+
+#. type=template
+msgctxt "template"
+msgid "Read, Talk, and Have Fun!"
+msgstr "Читайте, разговаривайте и веселитесь!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The supplied questions and comments are just the beginning. \n"
+"\n"
+"1. For the first reading, read the red questions and comments. \n"
+"2. For the second reading, read the blue questions and comments. \n"
+"3. For the third reading, read the green questions and comments. \n"
+"\n"
+"After that, follow your child's interests and let your discussions go in fun directions."
+msgstr ""
+"Предложенные здесь вопросы и комментарии — это только начало.\n"
+"\n"
+"1. Для 1-го прочтения, читайте вопросы и комментарии красного цвета.\n"
+"2. Для 2-го прочтения, читайте вопросы и комментарии голубого цвета.\n"
+"3. Для 3-го прочтения, читайте вопросы и комментарии зеленого цвета.\n"
+"\n"
+"После этого следуйте интересам вашего ребенка и направляйте ваши обсуждения в разные увлекательные направления."
+
+#. type=template
+msgctxt "template"
+msgid "Math Themes and Words"
+msgstr "Математические темы и слова"
+
+#. type=template
+msgctxt "template"
+msgid "**Adult Readers**"
+msgstr "**Взрослый Читатель**"
 
 #. type=template
 msgctxt "template"
