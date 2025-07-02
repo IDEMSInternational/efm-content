@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-07-02 00:06\n"
+"PO-Revision-Date: 2025-07-02 01:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7221,7 +7221,22 @@ msgstr "СТРОИТЕЛЬСТВО С ФИГУРАМИ"
 #. type=data_list
 msgctxt "data_list"
 msgid "Unknown Shapes"
-msgstr "Открываем Фигуры"
+msgstr "Неизвестные Фигуры"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bring together an interesting collection of shapes for your child to play with.\n"
+"\n"
+"The shapes may all be flat polygons, in which case your child can play with making designs and tiling patterns. Explore which shapes fit together nicely and which don't. Name some of the shapes as your child picks them up.\n"
+"\n"
+"They may be things that can be stacked or placed together in interesting ways, such as boxes and cans. If two structures are built, talk about which is taller, wider, or stronger. Which one has more pieces in it? Which pieces are easy to put on top of each other and which ones are not?"
+msgstr ""
+"Соберите интересную коллекцию фигур для игры с вашим ребёнком. \n"
+"\n"
+"Все фигуры могут быть плоскими многоугольниками, в этом случае ваш ребёнок может играть, создавая дизайны и узоры для мозаика. Исследуйте, какие фигуры хорошо сочетаются друг с другом, а какие нет. Назовите некоторые фигуры, когда ваш ребёнок их подберёт.\n"
+"\n"
+"Это могут быть вещи, которые можно складывать или размешивать вместе интересными способами, например, коробки и банки. Если построены две конструкции, обсудите какая из них выше, шире, или прочнее? Какие детали легко ставить друг на друга, а какие нет?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7492,8 +7507,54 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SMALLEST SINGLE NUMBER"
+msgstr "НАИМЕНЬШЕЕ ОДНОЗНАЧНОЕ ЧИСЛО"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Gather a group of people together in a circle. Have them each think of a whole number that they will use for this round of the game. One person is the announcer.\n"
+"\n"
+"**How to play.** The announcer starts slowly counting up starting at 1. With each number, any person who was thinking of that number raises their hand. If only one hand is raised, that person is the winner and the round is over. If more than one hand is raised, those people are out of the game for this round and the announcer continues counting up.\n"
+"\n"
+"Make this an active game by having all the players sitting down or crouched down. When their number is called, the person jumps up."
+msgstr ""
+"**Установка.** Соберите группу людей в круг.. Пусть каждый из них придумает целое число, которое они будут использовать в этом раунде игры. Один человек будет ведущим.\n"
+"\n"
+"**Как играть.** Ведущая начинает медленно считать, начиная с 1. С каждым числом, любой человек который задумал это число поднимает руку. Если подняться только одна рука, этот \n"
+"человек становится победителем, и раунд заканчивается. Если поднято больше одной руки, эти люди выбывают из игры в этом раунде, и ведущий продолжает считать. \n"
+"\n"
+"Сделайте эту игру активной, попроси всех игроков сесть или присесть.. Когда называют их число, человек вскакивает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "НАЗАД И ВПЕРЁД - 12"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Numbers up to 10"
 msgstr "Цифры до 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr "**Установка:** Каждый игрок начинает с пустой доски от 0 до 12. Каждый игрок ставит чёрной маркер на ноль и решает, где разместить три красных маркера на числах больше 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**Как играть:** в свой ход бросьте кубик и переместите чёрный маркер вперёд или назад на число, выпавшие на кубике. Если вы приземлились на красный маркер, уберите его с доски и оставьте себе.\n"
+"\n"
+"**Как выиграть:** Первый игрок, который удалит все три красных маркера, побеждает.\n"
+"\n"
+"**Пример хода:** Вот первый ход с использованием броска 5. Если после этого игрок выбросил 3, он может переместиться на 2 или 8."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8080,7 +8141,7 @@ msgstr "Выбирайте темы, которые интересуют ваш�
 #. type=data_list
 msgctxt "data_list"
 msgid "Variable names"
-msgstr "Раздайте клички"
+msgstr "Имена Переменных"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8402,7 +8463,24 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "HANDFULS"
-msgstr "ПЯТНАШКИ"
+msgstr "ГОРСТНИЦЫ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Have a collection of small items that will fit easily in a child's hand.\n"
+"\n"
+"**How to play.** Show your children the items and ask them to estimate how many of these items they think they can grab with one hand. Give them a little bit of time to come up with an answer, and then collect all the answers. If you have a number line handy, put a mark by each estimate. Take a moment to discuss why some are larger and some are smaller. Finally, have one child grab a handful, count together how many they have, and see which estimates were the closest.\n"
+"\n"
+"**Variations.** Use two hands if you want to get larger numbers. Also, use different sizes of objects to add variety and to produce smaller or larger numbers."
+msgstr ""
+"**Установка.** Соберите набор небольших предметов, которые легко поместятся в детской руке.\n"
+"\n"
+"**Как играть.** Покажите детям предметы и попросите их оценить, сколько из них они могут схватить одной рукой. Дайте им немного времени, чтобы придумать ответ, а затем соберите \n"
+"все ответы. Если у вас есть под рукой числовая прямая, поставьте отметку возле каждой оценки. Уделите немного времени, чтобы обсудить почему некоторые больше, а некоторые меньше. Наконец, попросите одного ребёнка взять горсть, вместе подсчитайте сколько у него и посмотрите какие оценки были ближе всего.\n"
+"\n"
+"**Варианты.** Используйте две руки, если вы хотите получить большие числа. Также используйте предметы разных размеров, чтобы добавить разнообразие и получить меньшие \n"
+"или большие числа."
 
 #. type=data_list
 msgctxt "data_list"
