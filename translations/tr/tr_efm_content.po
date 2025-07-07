@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-07-06 23:34\n"
+"PO-Revision-Date: 2025-07-07 00:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13548,7 +13548,7 @@ msgstr "**Kropki Sudokular.** Bu varyasyon, klasik Sudoku’ya iki tür nokta ek
 #. type=data_list
 msgctxt "data_list"
 msgid "Sudokus With Adding and Subtracting"
-msgstr "Toplama ve Çıkarma Kurallı Sudokular"
+msgstr "Toplama ve Çıkarmalı Sudokular"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13579,7 +13579,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "How Many Ways?"
-msgstr "Kaç Farklı Yol"
+msgstr "Kaç Farklı Yol Var"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13677,7 +13677,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Card Deck Ordering"
-msgstr "Kart Destesi Sıralaması"
+msgstr "Kart Destesi Sıralamasa"
 
 #. type=data_list
 msgctxt "data_list"
