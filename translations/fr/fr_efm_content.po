@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-06-23 21:50\n"
+"PO-Revision-Date: 2025-07-07 01:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10928,6 +10928,16 @@ msgstr ""
 "**Question 5 :** Que se passe-t-il si vous utilisez des poids uniques dans la progression par triplement de 1, 3, 9 et 27 ? Quels objets pouvez-vous peser si vous permettez ces poids des deux côtés ?\n"
 "\n"
 "**Question 6 :** Que se passe-t-il si les poids sont des nombres de Fibonacci ? Existe-t-il plus d'une manière de peser certains objets ? Trouvez une restriction sur les poids de Fibonacci de manière à ce qu'il n'y ait qu'une seule façon d'obtenir chaque poids."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "ÉTAPE 5 - JE SAIS COMPTER JUSQU'À 100 !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Introduction"
+msgstr "Étape 5 Introduction"
 
 #. type=data_list
 msgctxt "data_list"
