@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-07-08 20:39\n"
+"PO-Revision-Date: 2025-07-09 01:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8054,6 +8054,22 @@ msgstr "ФЛЭШ-ЦИФРЫ"
 msgctxt "data_list"
 msgid "Beginning Finger Math"
 msgstr "Математика На пальцах"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"Помогите вашему ребёнку легко и быстро распознавать числа объектов. Практикуйтесь двумя способами.\n"
+"\n"
+"**Используйте десять кадров:** Используйте карточки с десятью ячейками. Случайно выберите карточку и весело проверьте, сможет ли ваш ребёнок распознать количество. Для разнообразия пусть ваш ребёнок иногда задаёт вам вопросы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**На пальцах:** Покажите несколько пальцев на одной или обеих руках и пусть ваш ребёнок определит общее количество. При использовании двух рук для чисел больше пяти, на одной из рук должно быть поднято пять пальцев так - это будет выглядеть как рамка из десяти."
 
 #. type=data_list
 msgctxt "data_list"
