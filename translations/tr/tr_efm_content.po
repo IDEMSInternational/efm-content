@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-07-10 01:05\n"
+"PO-Revision-Date: 2025-07-10 02:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16479,6 +16479,59 @@ msgstr ""
 "**Bir fazla ve bir eksik:** Bu çarpma işlemlerini, zaten bildiğiniz işlemleri temel alarak “bir fazla” ya da “bir eksik” yaklaşımıyla öğrenebilirsiniz. 3, 6 ve 11 çarpmayı zaten bildiğiniz sayıların bir fazlasıdır. Örneğin, 6 kere 7 işlemi, 5 kere 7’ye bir tane 7 eklemektir. Yani 6 kere 7 = 7 + 35, bu da 42 eder.\n"
 "\n"
 "4 ve 9 ise zaten bildiğiniz sayıların bir eksiğidir. Örneğin, 4 kere 7 işlemi, 5 kere 7’den bir tane 7 çıkarmaktır. Yani 4 kere 7 = 35 − 7, bu da 28 eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5.6 Single-Digit Multiplication"
+msgstr "Adım 46: Tek Basamaklı Sayılarla Çarpma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Missing piecees:** If your child memorizes the one or two remaining multiplication facts, they will then know all of single-digit multiplication! For example, they may not know what 7 times 7 is yet. Similar to adding twins, squares are a fun category for many children, and these can be practiced on their own. Keep all this practice light-hearted and do not get too goal oriented.\n"
+"\n"
+"**Pulling it all together and memorizing:** Bit by bit, with practice and repeated exposure, your child will memorize all the multiplication facts. While it is important that these eventually become easy and automatic for your child, it is not essential that this happens quickly. It is far more important that you make this fun and that your child enjoys seeing how the various multiplication facts in- terrelate – which ones are doubles or halves of others, which ones are one more or one less than others, and which ones have interesting patterns with their ones digits.\n"
+"\n"
+"**Limited and fun flashcards:** Used sparingly and lightheartedly, flash cards, or something similar, can be helpful. If your child has trouble remembering a handful of the multiplication facts, make a list of just those facts so they can be briefly practiced on their own."
+msgstr ""
+"**Eksik bilgiler:** Çocuğunuzun tüm tek basamaklı çarpma işlemlerini öğrenmiş olması için geriye yalnızca bir ya da iki bilgi kaldı! Örneğin, çocuğunuz henüz 7 kere 7’nin sonucunu bilmiyor olabilir. İkiz sayıların toplamı gibi, kare sayılar da birçok çocuk için eğlencelidir ve kendi başlarına pratik edilebilir. Bu alıştırmalardan keyif almaya bakın ve hedef odaklı olmaktan kaçının.\n"
+"\n"
+"**Tüm bilgileri birleştirme ve ezberleme:** Adım adım, bol pratik ve tekrar yoluyla, çocuğunuz tüm çarpmayla ilgili tüm bilgileri ezberleyecektir. Bu bilgilerin zamanla kolay ve kendiliğinden uygulanabilir hâle gelmesi önemlidir, ancak bunun hemen olması gerekmez. Asıl önemli olan, sürecin eğlenceli olması ve çocuğunuzun farklı çarpma işlemleri arasındaki ilişkileri keşfetmekten keyif almasıdır. Örneğin, hangi işlemler diğerlerinin iki katı ya da yarısıdır, hangileri bir fazla ya da bir eksiktir, hangileri birler basamağında ilginç desenler oluşturur.\n"
+"\n"
+"**Sınırlı ve eğlenceli kartlar:** Ara sıra ve keyifli şekilde kullanıldığında bilgi verici kartlar veya buna benzer araçlar faydalı olabilir. Çocuğunuz bazı çarpma işlemlerini hatırlamakta zorlanıyorsa, yalnızca bu işlemlerden oluşan kısa bir liste oluşturun ve bunları tek başına kısaca tekrar edebileceği şekilde çalıştırın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5.7 Divisors, Factors, and Multiples"
+msgstr "Adım 47: Bölenler, Çarpanlar ve Katlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Divisors and factors:** If a number evenly divides into a number, then it is called a divisor of it. For example, 3 is a divisor of 6 because 3 divides into 6 exactly 2 times. 4 is not a divisor by 6 because it goes into it 1 1/2 times. The word factor means the same thing as divisor.\n"
+"\n"
+"**Common divisors:** In some mathematical situations, particularly with simplifying fractions, it is useful to find numbers that evenly divide two given numbers. Such numbers are called common divisors or common factors. The common divisors of 20 and 8 are 1, 2, and 4. You may enjoy exploring together why all the common divisors for a pair of numbers are divisors of the greatest of the common divisors.\n"
+"\n"
+"**Multiples:** A multiple of a number is anything that can be produced by multiplying the number by a whole number. For example, some multiples of 6 are 0, 6, 12, and 18. Notice that any multiple of a number has that number as a divisor. For example, each of the multiples of 6 has 6 as a divisor.\n"
+"\n"
+"**Common multiples:** A number which is a multiple of two given numbers is said to be a common multiple for them. Some common multiples of 6 and 4 are 0, 12, 24, and 36. Notice that all the common multiples are multiples of the least of the positive common multiples. Common multiples will be useful in adding and subtracting fractions.\n"
+"\n"
+"**Introduce these words:** Slowly introduce these new words to your child as you discuss situations that involve multiplication and division. They are useful words that simplify many discussions once the words are understood."
+msgstr ""
+"**Bölenler ve çarpanlar:** Bir sayı başka bir sayıyı kalansız bölebiliyorsa o sayının böleni olarak adlandırılır. Örneğin, 3 sayısı 6’nın bölenidir çünkü 6’yı tam olarak 2 kez böler. Ancak 4, 6’nın böleni değildir çünkü 6’nın içinde 1.5 adet vardır. “Çarpan” kelimesi de burada “bölen” ile aynı anlamda kullanılır.\n"
+"\n"
+"**Ortak bölenler:** Matematikte bazı durumlarda (özellikle kesirleri sadeleştirirken) iki sayıyı ortak olarak kalansız bölen sayıları bulmak faydalı olur. Bu sayılara ortak bölenler ya da ortak çarpanlar denir. Örneğin, 20 ve 8’in ortak bölenleri 1, 2 ve 4’tür. İki sayının tüm ortak bölenlerinin en büyük ortak bölenin de bölenleri olduğunu keşfetmek eğlenceli olabilir.\n"
+"\n"
+"**Katlar:** Bir sayının katları, o sayının tam sayılarla çarpılmasıyla elde edilen sayılardır. Örneğin, 6’nın katlarından bazıları 0, 6, 12 ve 18’dir. Dikkat ederseniz, bir sayının katlarının o sayının çarpanlarını içerdiğini fark edersiniz. Örneğin, 6’nın tüm katları 6’nın çarpanlarını içerir.\n"
+"\n"
+"**Ortak katlar:** İki sayının katı olan sayılara ortak katlar denir. Örneğin, 6 ve 4’ün ortak katlarından bazıları 0, 12, 24 ve 36’dır. Tüm ortak katların, bu sayıların en küçük ortak katının katları olduğuna dikkat edin. Ortak katlar, özellikle kesirlerle toplama ve çıkarma işlemlerinde oldukça kullanışlıdır.\n"
+"\n"
+"**Bu kelimeleri tanıtın:** Çarpma ve bölme içeren durumlar hakkında konuşurken bu yeni kavramları çocuğunuza yavaş yavaş tanıtın. Bu terimler bir kez anlaşıldığında, pek çok matematiksel konuyu açıklamak çok daha kolay hale gelir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5.8 Primes, Composites, and Powers"
+msgstr "Adım 48: Asal Sayılar, Birleşik Sayılar ve Kuvvetler"
 
 #. type=data_list
 msgctxt "data_list"
