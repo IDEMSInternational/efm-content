@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-07-10 00:03\n"
+"PO-Revision-Date: 2025-07-10 01:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16431,6 +16431,54 @@ msgstr ""
 "**100’lük sayı tablosunda örüntüler:** Çocuğunuz atlayarak sayarken ortaya çıkan örüntülere dikkat edin. Bunu yapmanın en kolay yolu 100’lük bir sayı tablosu kullanmaktır. Aynı şekilde, sayıları bir sütun hâlinde yazarak ve aşağı doğru ilerledikçe birler ve onlar basamaklarında neyin değiştiğini gözlemleyerek de örüntüler fark edebilirsiniz. Bazı sayılarda (örneğin 8 ve 9’da) atlayarak sayıldığında birler basamağında ilginç örüntüler oluşur. Bazı sayılarda ise (örneğin 3’te) bu kadar belirgin ya da ilginç örüntüler görülmeyebilir.\n"
 "\n"
 "**Eğlenceli hale getirin:** Bu etkinliği iki ya da daha fazla kişiyle oynanabilecek bir oyuna dönüştürebilirsiniz. Bir kişi başlangıç sayısını, kaçar sayılacağını ve ileri mı yoksa geri mı sayılacağını söyler. Sonra sırayla herkes bir sonraki sayıyı söyler ve oyun böyle devam eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5.4 Multiplying by 2, 4, 8, 5, and 10"
+msgstr "Adım 44: Çarpma – 2, 4, 8, 5, 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Good framework:** These numbers are usually quick to learn, and once learned they provide a good framework for learning the remaining numbers.\n"
+"\n"
+"**Multiplying by 5 and 10:** Knowing how to multiply by 10 is quick to learn, and it is important for understanding place value. It also can make it easier to learn how to multiply by 5.\n"
+"\n"
+"The 5's can either be learned by skip counting by 5 until they become automatic, or they can be learned using the 10's. If you multiply 6 times 5, that will give you half as many 10's. Half of 6 is 3, so the answer is 30. If you multiply 7 times 5, you need to put one of the 5's off to the side and proceed as you would for 6 times 5. The answer for 6 times 5 is 30, and then adding in the 5 held in reserve gives the answer of 35.\n"
+"\n"
+"**Multiplying by 2, 4, and 8:** These three can be done with lots of doubling. Your child should have had lots of practice with doubling and multiplying by 2. Multiply by 4 either by skip counting or by doubling the answer from multiplying by 2. For example 4 times 3 is twice as much as 2 x 3, so the answer is 6 doubled, which is 12. Multiply by 8 by skip counting by 8 or by doubling the answer from multiplying by 4."
+msgstr ""
+"**İyi bir temel:** Bu sayılar genellikle çabuk öğrenilir ve bir kez öğrenildikten sonra diğer çarpım işlemlerini öğrenmek için sağlam bir temel oluşturur.\n"
+"\n"
+"**5 ve 10 ile çarpma:** 0 ile çarpmayı öğrenmek kolaydır ve basamak değeri kavramını anlamak açısından oldukça önemlidir. Aynı zamanda, 5 ile çarpmayı öğrenmeyi de kolaylaştırır.\n"
+"\n"
+"5’in katları iki şekilde öğrenilebilir: 5’erli atlayarak sayarak ya da 10’un katlarını kullanarak. Örneğin, 6 kere 5 işlemi size 6’nın yarısı kadar 10 verir. 6’nın yarısı 3 olduğuna göre, sonuç 30’dur. 77 kere 5 işlemini yaparken, 5’lerden birini kenara ayırıp kalan 6 adet 5 ile 6 kere 5 işlemini yapabilirsiniz. Sonuç 30’dur. Ardından, kenara ayırdığınız 5’i de eklediğinizde sonuca ulaşırsınız: 35.\n"
+"\n"
+"**2, 4 ve 8 ile çarpma:** Bu üç sayı için genellikle bolca iki katına çıkarma işlemi yapılır. Çocuğunuz bu aşamada ikiyle çarpma konusunda bolca pratik yapmış olmalıdır. 4 ile çarpma, ya doğrudan 4’erli atlayarak sayma yoluyla ya da önce 2 ile çarpıp ardından sonucu iki katına çıkararak yapılabilir. Örneğin, 4 kere 3 işlemi, 2 kere 3’ün iki katıdır. 2 kere 3 eşittir 6, bunun iki katı ise 12 eder. 8 ile çarpmaysa ya 8’erli atlayarak ya da 4 ile çarpmanın sonucunu iki katına çıkararak yapılabilir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5.5 Multiplying by 3, 4, 6, 9, and 11"
+msgstr "Adım 45: Çarpma – 3, 4, 6, 9, 11"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Several strategies:** These are grouped here because they can be done with the idea of using one more or one less, which is described in a moment. However, several of these can be done in other ways. They can all be done with skip counting, if your child prefers that approach. Multiplying by 4 is the double of multiplying by 2. Multiplying by 6 is the double of multiplying by 3. Multiplying by 11 is quite simple and barely needs any practice.\n"
+"\n"
+"Multiplying by 9 has a special rule, that some children enjoy. Use 6 times 9 as an example. For the answer, put one less than the number in the tens place (which is 5), and subtract the tens place from 9 to get the ones place (which is 4). So 6 times 9 is 54. As you'll see, this is no different than subtracting 6 from 6 times 10, but somehow it feels like more fun.\n"
+"\n"
+"**One more and one less:** Use the idea of one more or one less to learn these based on other numbers you now know how to multiply by. The numbers 3, 6, and 11 are one more than numbers you already know. For example, 6 times 7 is one more 7 than 5 times 7. So 6 times 7 is 7 + 35, which is 42.\n"
+"\n"
+"The numbers 4 and 9 are one less than numbers you already know. For example, 4 times 7 is one less 7 than 5 times 7. So 4 times 7 is 35 - 7, which is 28."
+msgstr ""
+"**Farklı stratejiler:** Bu sayıları burada bir arada ele alıyoruz çünkü hepsi, birazdan değineceğimiz “bir fazla” ya da “bir eksik” fikriyle çarpılabilir. Ancak bu sayıların birçoğu başka yollarla da öğrenilebilir. Çocuğunuz isterse hepsini atlayarak sayma yoluyla da yapabilir. Örneğin, 4 ile çarpmak, 2 ile çarpmanın iki katıdır. 6 ile çarpmak, 3 ile çarpmanın iki katıdır. 11 ile çarpmak ise oldukça basittir ve neredeyse hiç pratik gerektirmez.\n"
+"\n"
+"Çocuklar genellikle 9 ile çarpmayı öğrenirken özel bir kural kullanmaktan hoşlanırlar. Örneğin, 6 kere 9 işlemini ele alalım. Cevabı bulmak için, onlar basamağına 6’nın bir eksiği olan 5’i yazın. Sonra 9’dan 5’i çıkarın. Bu da birler basamağı olan 4’tür. Yani 6 × 9 = 54. Bu yöntem aslında 6 kere 10 eşittir 60 işleminden 6 çıkararak 54’e ulaşmakla aynıdır ama çocuklara daha eğlenceli gelebilir.\n"
+"\n"
+"**Bir fazla ve bir eksik:** Bu çarpma işlemlerini, zaten bildiğiniz işlemleri temel alarak “bir fazla” ya da “bir eksik” yaklaşımıyla öğrenebilirsiniz. 3, 6 ve 11 çarpmayı zaten bildiğiniz sayıların bir fazlasıdır. Örneğin, 6 kere 7 işlemi, 5 kere 7’ye bir tane 7 eklemektir. Yani 6 kere 7 = 7 + 35, bu da 42 eder.\n"
+"\n"
+"4 ve 9 ise zaten bildiğiniz sayıların bir eksiğidir. Örneğin, 4 kere 7 işlemi, 5 kere 7’den bir tane 7 çıkarmaktır. Yani 4 kere 7 = 35 − 7, bu da 28 eder."
 
 #. type=data_list
 msgctxt "data_list"
