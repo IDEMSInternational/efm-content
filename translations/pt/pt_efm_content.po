@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-07-10 22:33\n"
+"PO-Revision-Date: 2025-07-11 01:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6490,6 +6490,27 @@ msgstr ""
 msgctxt "data_list"
 msgid "Vary the size of the pile to correspond with the range of numbers your child is comfortable with."
 msgstr "Varie o tamanho da pilha para que corresponda a um intervalo de números com o qual seu filho se sinta confortável."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ONE MORE ONE LESS"
+msgstr "UM A MAIS, UM A MENOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
+msgstr "À medida que a compreensão dos primeiros números aumenta, faça perguntas ao seu filho sobre “mais um” ou “menos um”. Por exemplo: sem falar sobre quantos itens existem atualmente, pergunte “Você gostaria de mais um?” ou “Você gostaria de um a menos?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n"
+"\n"
+"**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
+msgstr ""
+"**Quantidade e mudança:** Lentamente, comece a enfatizar a quantidade atual e como ela muda. Conte o número de itens juntos, talvez duas fatias de maçã num prato. Resuma dizendo que há duas fatias de maçã e pergunte se seu filho gostaria de mais uma fatia de maçã ou talvez de uma a menos. Se a quantidade mudar, pergunte quantas fatias de maçã há agora.\n"
+"\n"
+"**Andando por aí:** Da mesma forma, quando estiver caminhando por aí, escolha coisas para contar. Suponha que haja três pessoas na fila na sua frente. Conte-as juntos e pergunte quantas pessoas restarão quando uma sair e houver uma a menos."
 
 #. type=data_list
 msgctxt "data_list"
