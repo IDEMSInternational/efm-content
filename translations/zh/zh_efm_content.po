@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-07-15 03:25\n"
+"PO-Revision-Date: 2025-07-15 05:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13159,6 +13159,36 @@ msgstr "二進制數字遊戲"
 msgctxt "data_list"
 msgid "Game"
 msgstr "遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "第一階段 – 我聽到你!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "第二階段 – 我能數到 5！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "第三階段 – 我可以數到10！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "第四階段 — 我能數到20！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "第五階段 – 我能數到100！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1.0 Stage 1 Introduction"
+msgstr "第一階段 – 簡介"
 
 #. type=data_list
 msgctxt "data_list"
