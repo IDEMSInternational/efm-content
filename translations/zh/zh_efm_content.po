@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-29 01:54\n"
+"PO-Revision-Date: 2025-07-15 02:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6684,6 +6684,16 @@ msgstr "模式"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Object Descriptions"
+msgstr "物件描述"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Patterns are everywhere! See how many you can make with your child."
+msgstr "模式無處不在！看看您和孩子能創造多少種模式。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Pattern types"
 msgstr "模式種類"
 
@@ -6821,6 +6831,11 @@ msgstr "**遊戲規則:** 讓您的孩子從碗裡數出一些東西，比如5�
 msgctxt "data_list"
 msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
 msgstr "**如何獲勝:** 被偷走的物品將成為您孩子的一部分，而您將保留剩下的物品。繼續玩下去，直到碗裡的食物都被拿完。最後，你們兩個將自己的物品擺在一起進行比較，看看誰的東西更多。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATERIALS AND NUMBER CARDS"
+msgstr "材料與數字卡"
 
 #. type=data_list
 msgctxt "data_list"
