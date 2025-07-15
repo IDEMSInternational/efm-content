@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-07-15 02:25\n"
+"PO-Revision-Date: 2025-07-15 03:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7053,6 +7053,94 @@ msgstr "紅色三角形是唯一的非正方形，帶孔的紅色正方形是唯
 
 #. type=data_list
 msgctxt "data_list"
+msgid "EACH OF THESE IS NOT LIKE THE OTHERS"
+msgstr "「每個都與眾不同」遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Start with a group of four things with the following property: for each one of the things, the remaining three things have something in common that is not shared by the fourth.\n"
+"\n"
+"Challenge each other to find groups with this property. Be flexible and allow for any reasonable explanation that seems to work.\n"
+"\n"
+"**Example.** The first item is a triangle, while the others are squares. The second has a hole, while the others are solid. The third is a lot smaller than the others. The fourth is blue, while the others are red."
+msgstr ""
+"**遊戲準備：**準備四樣物品，這組物品要有個特別的性質：其中每樣東西，都能找到一個其他三樣共有、但它自己沒有的特徵。\n"
+"\n"
+"大家可以互相出題，找找看符合這個條件的物品組合。只要解釋合理都可以接受，放寬標準讓遊戲更好玩哦！\n"
+"\n"
+"**範例：**\n"
+"第一個是三角形，其他三個都是正方形\n"
+"第二個中間有個洞，其他三個都是實心的\n"
+"第三個特別小，其他三個都比較大\n"
+"第四個是藍色的，其他三個都是紅色的"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SCAVENGER HUNT"
+msgstr "尋寶遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Make a stack of scavenger hunt cards in advance. The players can play individually or in small groups of two to three.\n"
+"\n"
+"Each card will describe a thing to find. It may be a specific thing, \"A stop sign,\" or it may be a description involving all sorts of descriptions and properties. Here are some examples that you might want to use individually or in combinations:\n"
+"\n"
+"* Colors\n"
+"* Size (bigger than a hand, smaller than a car)\n"
+"* Shapes (circle, triangle, square, ball, box)\n"
+"* Group size (two things together, three together, ...)\n"
+"* Patterns (A B A B ...)\n"
+"* Numbers\n"
+"* Position (under, over, on top of, next to)\n"
+"* Texture (smooth, rough, bumpy, pointy)\n"
+"* Uses (for writing, for sitting, ...)\n"
+"\n"
+"**How to play.** Randomly distribute three cards to each player or group of players. Their goal is to be the first to find things for each of their cards."
+msgstr ""
+"**遊戲準備** 事先準備好一疊尋寶任務卡，小朋友可以單獨玩，也可以2-3人一組一起玩。\n"
+"\n"
+"每張卡片會寫著要找到的東西——可以是具體物品（例如「一個停車標誌」），或者是需要觀察特徵才能找到的東西。以下是可以用來設計任務卡的一些點子：\n"
+"\n"
+"* 顏色\n"
+"* 大小（比手掌大、比汽車小）\n"
+"* 形狀（圓的、三角形的、方形的、球狀的、盒子狀的）\n"
+"* 數量（兩個放在一起的、三個一組的...）\n"
+"* 排列規律（A B A B...）\n"
+"* 數字\n"
+"* 位置（在...下面、在...上面、在...頂端、在...旁邊）\n"
+"* 摸起來的感覺（光滑的、粗糙的、凹凸不平的、尖尖的）\n"
+"* 用途（用來寫字的、用來坐的...）\n"
+"\n"
+"**遊戲玩法：** 每個玩家或小組隨機抽三張任務卡，看誰能最快找到符合卡片描述的東西！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TREASURE MAP"
+msgstr "藏寶圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Object Properties"
+msgstr "物品特徵"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Decide on an interesting place for the treasure. It can be just the place, or you could put some silly thing there that your child will enjoy finding.  \n"
+"\n"
+"The \"map\" can be done in one of two ways. It can be a drawing of the area with interesting landmarks drawn in, and with an \"X\" marks the spot where the treasure is. Or, it can be a series of directions that must be followed to get to the treasure. The directions can be as simple as \"face the clock and go forward 9 steps,\" or they can be descriptions similar to those in the Scavenger Hunt activity \"face something blue and round, then walk toward a group of three red things until you are next to something to sit on.\""
+msgstr ""
+"**遊戲準備**先想好一個特別的藏寶地點，可以單純是個有趣的地方，或者在這裡藏個小朋友會驚喜發現的可愛小玩意！\n"
+"\n"
+"製作「藏寶圖」有兩種趣味方式：\n"
+"\n"
+"手繪地圖：把周圍明顯的標記物畫出來，最後用醒目的\"✖\"標記寶藏位置\n"
+"文字線索：可以用簡單的指引像是「面對時鐘，往前走9步」，或者結合特徵描述：「先找到藍色圓形的東西，然後朝著三個紅色物品的方向前進，直到看見可以坐的地方為止。」"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "DESCRIBING SCENES"
 msgstr "場景描述"
 
@@ -7101,6 +7189,48 @@ msgstr "這是誰?"
 msgctxt "data_list"
 msgid "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\""
 msgstr "這是一個適合多人參與的活動。領導者秘密選擇小組中的一人。為了縮小範圍找到這個神秘人，玩家可以問諸如「這個人穿著一件前麵有三角形圖案的襯衫嗎？」或「這個人的頭髮超過12英寸長嗎？」這樣的問題。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHOSE SHAPE IS THIS ANYWAY"
+msgstr "形狀猜猜樂"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a collection of cards with standards shapes drawn on them. These could be square, circle, triangle, rectangle, parallelogram, pentagon, hexagon, octagon, oval, star, or anything else you child is familiar with. \n"
+"\n"
+"**How to play:** A child can do this by themselves, or with a partner. Give a small random collection of the shape cards to the child or children for them to act out silently. They can use their body parts (but not their fingers) and the ground to do things that suggest the shape. Their goal is to have the other people guess the name of the shape. You can make it competitive by having a time limit and seeing which team can do the most shapes in the allotted time."
+msgstr ""
+"**遊戲準備**準備一組形狀卡片，上面畫著各種常見形狀，例如：\n"
+"□ 正方形 ○ 圓形 △ 三角形 ▭ 長方形\n"
+"◇ 菱形 ⬠ 五邊形 ⬡ 六邊形 ⬢ 八邊形\n"
+"還有橢圓形、星星形等小朋友熟悉的圖形\n"
+"\n"
+"**遊戲玩法：** 這個遊戲可以單人玩，也可以分組競賽。發給每位小朋友幾張隨機的形狀卡片，他們要用身體（不能用手比劃喔！）和地面來表現這個形狀。其他人要猜出是什麼形狀。想增加挑戰性？可以計時比賽，看哪組在時間內能成功表演最多形狀！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BUILDING WITH SHAPES"
+msgstr "形狀積木樂"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unknown Shapes"
+msgstr "未知形狀"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bring together an interesting collection of shapes for your child to play with.\n"
+"\n"
+"The shapes may all be flat polygons, in which case your child can play with making designs and tiling patterns. Explore which shapes fit together nicely and which don't. Name some of the shapes as your child picks them up.\n"
+"\n"
+"They may be things that can be stacked or placed together in interesting ways, such as boxes and cans. If two structures are built, talk about which is taller, wider, or stronger. Which one has more pieces in it? Which pieces are easy to put on top of each other and which ones are not?"
+msgstr ""
+"準備一組有趣的形狀積木給小朋友玩。這些可以是平面多邊形，讓孩子自由拼組出各種圖案和鑲嵌花紋。在遊戲過程中，可以引導孩子觀察哪些形狀能夠完美拼合，哪些形狀組合起來會產生縫隙。當孩子拿起不同形狀時，不妨順便告訴他們這些形狀的名稱，讓孩子在玩樂中自然學習。\n"
+"\n"
+"如果準備的是立體形狀積木，像是盒子、罐子這類可以堆疊的物件，可以鼓勵孩子發揮創意搭建各種結構。當完成兩個不同的建築時，可以和孩子一起討論：哪一個建築比較高？哪一個佔的空間比較大？哪一個結構看起來比較穩固？也可以數數看哪個建築用了比較多的積木塊，或是聊聊哪些積木特別容易堆疊，哪些積木總是容易倒塌，這些都是很有趣的探索過程。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7388,8 +7518,53 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SMALLEST SINGLE NUMBER"
+msgstr "數字小冠軍"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Gather a group of people together in a circle. Have them each think of a whole number that they will use for this round of the game. One person is the announcer.\n"
+"\n"
+"**How to play.** The announcer starts slowly counting up starting at 1. With each number, any person who was thinking of that number raises their hand. If only one hand is raised, that person is the winner and the round is over. If more than one hand is raised, those people are out of the game for this round and the announcer continues counting up.\n"
+"\n"
+"Make this an active game by having all the players sitting down or crouched down. When their number is called, the person jumps up."
+msgstr ""
+"**準備步驟：** 讓大家圍成一圈，每個人先想好一個整數。選一個人當「報數員」。\n"
+"\n"
+"**遊戲玩法：** 報數員從1開始慢慢報數，當報到某個數字時，想到這個數字的人就要舉手。如果只有一個人舉手，他就是這輪的贏家！如果超過一個人舉手，這些人就淘汰，遊戲繼續進行。\n"
+"\n"
+"讓所有玩家一開始都蹲著，當聽到自己的數字時要立刻跳起來舉手，這樣會更有趣喔！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "數字跳跳樂（0-12版）"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Numbers up to 10"
 msgstr "直到數字十"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr "**準備步驟：** 每位玩家在遊戲開始前，要先準備一個標有0到12數字的遊戲板。首先把一個黑色標記物放在數字0的位置，然後可以自由選擇三個比0大的數字，在這些數字上各放一個紅色標記物。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**遊戲玩法：** 輪到你時，先擲骰子決定步數，可以選擇讓黑色棋子前進或後退相應的格數。如果剛好停在紅色棋子的位置，就可以把那個紅色棋子收起來。\n"
+"\n"
+"**獲勝方式：** 最先收齊三個紅色棋子的玩家就是贏家！\n"
+"\n"
+"**範例：** 假設第一次骰到5點，可以選擇從0移動到5。如果接下來骰到3點，就可以選擇從5移動到2（往後退3步）或是8（往前進3步）。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8011,8 +8186,13 @@ msgstr "選擇一些您孩子感興趣的話題，比如食物或動物。隨著
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Variable names"
+msgstr "變數名稱"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
-msgstr "透過在活動中進入變數名稱的概念，例如，在填空中用有意思的名字替代缺失的數字。"
+msgstr "用有趣的名稱來代替數字，讓孩子認識變數的概念！"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8325,6 +8505,33 @@ msgstr ""
 "通過對人群的規模做出準確的估計來培養對數量的概念。比如估算排隊的人數。 \n"
 "\n"
 "強迫自己在不數數的情況下進行快速估算。在每個人都給出估算結果後，數出準確的人數，然後獎勵估算人數最接近實際數量的人。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "抓抓樂遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "數字的大小"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Have a collection of small items that will fit easily in a child's hand.\n"
+"\n"
+"**How to play.** Show your children the items and ask them to estimate how many of these items they think they can grab with one hand. Give them a little bit of time to come up with an answer, and then collect all the answers. If you have a number line handy, put a mark by each estimate. Take a moment to discuss why some are larger and some are smaller. Finally, have one child grab a handful, count together how many they have, and see which estimates were the closest.\n"
+"\n"
+"**Variations.** Use two hands if you want to get larger numbers. Also, use different sizes of objects to add variety and to produce smaller or larger numbers."
+msgstr ""
+"**準備步驟：** 準備一些小朋友可以輕鬆抓握的小物品。\n"
+"\n"
+"**遊戲玩法** 先讓小朋友看看這些物品，請他們猜猜自己一次能抓多少個。給他們一點時間思考，然後收集所有人的猜測。如果有數字線的話，可以在上面標記每個人的猜測數字。一起討論為什麼有人猜得多、有人猜得少。最後請一個小朋友實際抓一把，大家一起數數看實際數量，看看誰的猜測最接近。\n"
+"\n"
+"**變化玩法**\n"
+"1.改用兩隻手抓，可以練習更大的數字\n"
+"2.換不同大小的物品，這樣會得到不一樣的數量結果"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8805,6 +9012,35 @@ msgstr ""
 "**兩個孩子的玩法：** 每個孩子抽一張卡片，並將其正面朝外放在額頭上。 您宣布他們兩張卡片數字總和，孩子們需要透過觀察對方的卡片來猜出自己額頭上的數字。\n"
 "\n"
 "**一個大人、一個小孩的玩法：** 提前準備幾對數字總和相同的卡片。 未使用的卡片放到一邊。 隨機抽取一對卡片，將卡片放在你們的額頭上，透過觀察對方的卡片來猜出每張卡片的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "起立/坐下"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
+"\n"
+"**How to play:** Suppose the leader selects the number 10. If the leader says the number 10, or anything that equals 10, such as 7 + 3, everyone stands up. If the leader says any other number, or anything not equal to 10, then everyone sits down. The leader can try to trick everyone else by standing up or sitting down when everyone should do the opposite."
+msgstr ""
+"**準備工作：** 找一個大家方便站立和坐下的空間，並選出一位遊戲主持人。\n"
+"\n"
+"**遊戲玩法：** 假設主持人選定數字10。當主持人說出「10」，或是任何等於10的算式（例如7+3），所有人就要立刻站起來。如果主持人說出其他數字或不等於10的算式，大家就要馬上坐下。主持人可以故意做出錯誤動作，試圖讓其他人搞錯喔！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"* 把10換成其他數字\n"
+"* 數字大於5就站起來，小於等於5就坐下\n"
+"* 偶數站起來，奇數坐下\n"
+"* 數字中有出現1就站起來，否則坐下"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9370,6 +9606,11 @@ msgstr ""
 "**遊戲玩法：** 在一個回合中，玩家畫一條水平線或垂直線，連接兩個未連接的相鄰點。 如果新線完成了一個 1x1 的方格，玩家就能獲得一分，並畫出另一條線。\n"
 "\n"
 "**如何取勝：** 當無法再畫線時，積分最高的玩家獲勝。 一個簡單的記分方法是在每個贏得的方格內填入玩家名字首字母。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use numbers.** One variation is to place numbers inside each square of the grid when the grid is first drawn. When a player completes a square, they receive the number of points inside the box. After all lines are drawn, the points are totaled up and the player with the most points wins."
+msgstr "**進階玩法：** 可以先在每個格子裡寫上數字。當玩家完成一個格子時，就能獲得格子裡的分數。等所有線條都畫完後，統計每位玩家的總分，得分最高的就是贏家！"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10588,6 +10829,11 @@ msgstr "該遊戲對於兩名以上玩家同樣適合。"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "INVESTIGATIONS"
+msgstr "探索活動"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
 msgstr "讓您的孩子玩耍並思考這些調查。不要太急。其活動的價值在於玩耍和發現美麗的數字模型。 這些活動中有一些更深層次的數學知識，但這些想法可以等到你的孩子長大一些。"
 
@@ -10940,6 +11186,52 @@ msgstr "**字母代換謎題：** 這些謎題為使用簡單變數提供了一�
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FILL IN THE BLANKS REVISITED"
+msgstr "填空遊戲再挑戰"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value, Add, and Subtract"
+msgstr "位值、加法與減法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9. Decide on which version of this game to play and make a game board for each person. One person is designated the dealer.\n"
+"\n"
+"The game boards can be as simple as two blanks to fill in to form 2-digit numbers. In this case the winner is the person with the largest number (or the smallest number, if you prefer). You can have zero, one, or two discard blanks for numbers not to be used.\n"
+"\n"
+"More complicated game boards can involve one or more 2-digit, 3-digit, or 4-digit numbers. The task may be to add up the numbers, or perhaps to take their difference. For adding, you might want to maximize the sum without going over some agreed upon limit. For subtracting, you might want it to be as small as possible without going below 0. There are a large number of possibilities which give you many ways to practice skills. \n"
+"\n"
+"**How to play:** The dealer draws random cards one at a time. The players decide where on their game board they will use that number. After deciding, the placement of that number cannot be changed for the remainder of the game.\n"
+"\n"
+"**How to win:** When the game boards are filled, the player who does the best job of achieving the objective wins."
+msgstr ""
+"**遊戲準備：** 將一副印有數字1至9的撲克牌洗勻，決定要玩哪種遊戲版本並為每位玩家準備遊戲板。指定一人擔任發牌員。\n"
+"\n"
+"遊戲板可以簡單設計為兩個空格用於組成兩位數，此時數字最大的玩家獲勝（亦可設定數字最小者勝出）。可選擇設置零至兩個棄牌區用於捨棄不使用的數字。\n"
+"\n"
+"更複雜的遊戲板可包含多位數組合，如兩位數、三位數或四位數。遊戲目標可以是數字相加，或計算差值。加法玩法可設定總和上限，挑戰在不超過限制的情況下取得最大總和；減法玩法則可設定差值下限，目標是讓差值盡可能小但不低於零。這些變化能提供豐富的數學練習機會。\n"
+"\n"
+"**遊戲玩法：** 發牌員逐一抽取並展示隨機卡片，玩家需即時決定將數字填入遊戲板的哪個位置。一旦放置完成，該數字的位置即固定不得更改。\n"
+"\n"
+"**如何獲勝：** 當所有玩家完成遊戲板填寫後，依照預設遊戲目標（如數字大小、加總結果等）判定最符合條件者獲勝。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Play that the smaller number wins.\n"
+"* Decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"* Deal three cards to each player and let the players choose which one to put aside.\n"
+"* To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"* 設定數字最小者獲勝。\n"
+"* 可選擇在翻牌時立即展示，或是等所有玩家決定後再一併揭曉，以增加遊戲的戲劇性。\n"
+"* 每位玩家發三張牌，讓他們自行選擇棄掉其中一張。\n"
+"* 若要練習加法並增加決策難度，可改為每次翻開三張牌，逐一用來組成一個兩位數和一個一位數，目標是讓這兩個數的總和最大。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "MAKING MULTIPLICATION CARDS"
 msgstr "製作乘法卡"
 
@@ -10962,10 +11254,10 @@ msgid ""
 "* an array\n"
 "* prime factoring"
 msgstr ""
-"* 算式\n"
-"* 物體組合\n"
-"* 陣列圖\n"
-"* 質因數分解"
+"* 數字表達\n"
+"* 物品分類\n"
+"* 矩陣\n"
+"* 質數與分解"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11538,7 +11830,7 @@ msgstr "**重用謎題和遊戲：** 由於冪相乘時指數相加，我們以�
 #. type=data_list
 msgctxt "data_list"
 msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
-msgstr "左邊是第三章的兩個「形狀求和」範例。右邊是使用乘法代替加法的相同範例「形狀乘積」"
+msgstr "**範例：** 以上是第三階段「圖形加法」的兩個範例。下方將展示相同的範例改用「圖形乘法」呈現，即以乘法運算取代加法。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12837,6 +13129,36 @@ msgstr ""
 "以本討論開始時的3 x 3拼圖為例。首先將4移至第二行。然後，列表為：6 1 2 4 8 5 3 7。此列表中有10對數字是順序顛倒的：6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7, 和5 3。因為顛倒數字的對數是偶數，所以這個遊戲是可以解決的。\n"
 "\n"
 "為什麼該規則有效？我不會在這裏進行詳細的推論。關鍵思想是每次移動時都要留意顛倒數字的對數。事實證明，如果您把空格放到最後一行中，那麼在進行任何一步移動之後，顛倒數字的對數始終以偶數變化。因此，如果顛倒數字的對數是奇數，那麽這個拼圖永遠不可能按順序排列。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger Boards"
+msgstr "更大的遊戲板"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle"
+msgstr "拼圖"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Working Number"
+msgstr "單鍵操作模式"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Working Numbers"
+msgstr "雙鍵操作模式"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Binary Numbers"
+msgstr "二進制數字遊戲"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Game"
+msgstr "遊戲"
 
 #. type=data_list
 msgctxt "data_list"
@@ -24122,4 +24444,524 @@ msgstr "如果有人讓你數到十，你會按1、2、5或10的倍數去數嗎�
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "同一群體的人經常以相同的方式思考，從而錯失解決問題的好方法。優秀的問題解決者會發現解決問題的新途徑！"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "下一步"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "上一步"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "完成"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "隱私政策"
+
+#. type=template
+msgctxt "template"
+msgid "Template list"
+msgstr "模板清單"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "導覽列表"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "重置應用"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "語言設置"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "EFM應用已下載更新，請重啟應用完成安裝。"
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "重啟"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+"首先，數學遊戲應該要和家人共玩的其他遊戲一樣有趣！\n"
+"\n"
+"請允許孩子在遊戲中犯錯，不要急著糾正，也請忍住指導他們「最佳玩法」的衝動。讓孩子慢慢摸索，他們會逐漸進步，而這樣的自主探索過程將讓他們學到更多。這完全不需要趕時間。\n"
+"\n"
+"當您發現孩子出錯時，請先問問他們為什麼會這樣決定；當孩子卡關時，請引導他們分析各個選項的優缺點，或是回憶過去如何解決類似情況；若孩子忘記計算方法，就和他們討論已知的解題策略。這些對話對培養孩子的數學思維至關重要。\n"
+"\n"
+"透過數學遊戲與數學對話，您正在幫助孩子享受數學，並培養關鍵的問題解決能力！"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+"益智謎題的本質就在於挑戰性與需要時間思考，請不要直接告訴孩子解答，這樣反而剝奪了遊戲的樂趣。這些精心挑選的遊戲設計，讓您能輕鬆準備，並與孩子一同享受解謎的過程。\n"
+"\n"
+"當孩子遇到困難時，您可以選擇給予一些小小的提示，只要這些提示不會直接揭曉答案。也可以建議孩子先從更簡單或規模較小的版本開始嘗試。鼓勵孩子勇敢嘗試各種想法，即使這些想法最後可能行不通也沒關係。要知道，我們往往能從錯誤和失敗中學到最多！請讓孩子明白，第一次、第二次甚至第三次解不出來都是很正常的，有時候把問題先放著一兩天，反而會突然靈光一現想到好方法。\n"
+"\n"
+"這些益智謎題的目的不僅是帶來樂趣，更是要培養解決問題的能力。數學最令人著迷的，就是經歷多次嘗試與反覆思考後，突然靈光乍現領悟答案的那種「頓悟時刻」——請務必讓孩子多多體驗這種發現的喜悅與成就感！"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"这些探索活動的設計初衷，是讓孩子能夠在遊戲中思考。請讓孩子自由探索，尋找其中有趣的規律與美妙的關聯。請克制住直接揭示答案的衝動。如果孩子似乎陷入了困境，不妨建議他們過段時間再來重新探索。\n"
+"\n"
+"許多探索活動都能透過整理結果而獲得更多發現，這正是您可以協助孩子的地方。幫助他們製作表格、繪圖，或任何能讓他們更清晰理解當前狀況的方式。當然，適時給予溫和的引導也是很好的。要記住，透過培養堅持力和學會深入觀察，孩子將從中獲得豐富的學習經驗。"
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
+msgstr "幫助你的孩子"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "閱讀附加材料"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "活動集錦 – 附加內容"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "介紹"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "遊戲"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "拼圖"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "調查"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "獨自地"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "按主題分類"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**階段學習**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**補充材料**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "補充材料 – 趣味活動"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "無匹配"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "活動列表"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "故事書清單"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**數學學習步驟**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**故事書**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**趣味活動**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "學習階段"
+
+#. type=template
+msgctxt "template"
+msgid "Before Talking"
+msgstr "學說話以前"
+
+#. type=template
+msgctxt "template"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
+msgstr "在你的孩子學會說話以及了解文字之前先與他們聊一聊。指向、說出名稱和描述你所看到的事物，例如形狀、顏色、比較和數量。當你的孩子開始理解單詞時，對你的孩子說出一個名詞並且讓你的孩子指向和那個名詞對應的事物。例如，「球在哪裡？」如果你的孩子找不到那一樣東西，請指給他們看。"
+
+#. type=template
+msgctxt "template"
+msgid "Early Talking"
+msgstr "初期對話"
+
+#. type=template
+msgctxt "template"
+msgid "As your child begins to understand and say words, mix in simple questions. Freely help with answers as needed. If you point and say \"Is this red?\" and they don't know, supply the answer. If you say \"Count the blocks.\" and your child does not know how, point and count the blocks with them \"one, two, three.\""
+msgstr "當你的孩子開始理解和說單詞時，融入一些簡單的問題。根據需要給予幫助。當你指著一個事物說 「這是紅色的嗎？」如果他們不知道，就為他們提供答案。當你說 「我們來數一數積木，」如果你的孩子不知道如何數數，帶著他們一邊拿著積木一邊數「一、二、三。」"
+
+#. type=template
+msgctxt "template"
+msgid "3 Levels of Discussion"
+msgstr "3個討論級別"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Pick an appropriate level for your child. Allow time for thought when asking questions or making comments. Help with the answer when your child stumbles, and follow up correct answers with questions or comments that are small expansions on the child's answer. \n"
+"\n"
+"**Level 1** Ask simple direct questions. Ask and point at what you see on the page. Where is the toy? What are they doing? What is its name? What color is it? How many balls are there? \n"
+"**Level 2** Ask general or open questions about this point in the story. What do you see happening here? What is this group of things? \n"
+"**Level 3** Ask about the story line. What has happened? What will happen next? Have you had experiences or seen things similar to this? How does she feel when this happens?"
+msgstr ""
+"為你的孩子選擇一個合適他們程度的級別。讓你的孩子有充足的思考和提出發問的時間。在你的孩子解答問題產生困難的時候給予適當的協助，並在正確答案解出以後再加上簡單的問題或評論，這些問題或評論將會成為答案的小幅延伸。\n"
+"\n"
+"提出簡單直接的問題。對於你在頁面上看到的內容向你的孩子提出問題。玩具在哪裡？它們在做什麼？玩具的名字是什麼？它是什麼顏色？那裏有多少球？\n"
+"就故事中的某一點提出一般性或開放性問題。你看到這裡發生了什麼？這組東西是什麼？ \n"
+"詢問故事情節。剛才發生了什麼事？接下來會發生什麼？你有過類似的經歷或者目睹過如此的事情嗎？當這種情況發生時，她會有什麼樣的感受？"
+
+#. type=template
+msgctxt "template"
+msgid "Read, Talk, and Have Fun!"
+msgstr "愉快的閱讀和談論！"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The supplied questions and comments are just the beginning. \n"
+"\n"
+"1. For the first reading, read the red questions and comments. \n"
+"2. For the second reading, read the blue questions and comments. \n"
+"3. For the third reading, read the green questions and comments. \n"
+"\n"
+"After that, follow your child's interests and let your discussions go in fun directions."
+msgstr ""
+"這裡提供的問題和評論只是一個開始。\n"
+"\n"
+"第一次閱讀，請看塗紅色的問題和評論。\n"
+"第二次閱讀，請看塗藍色的問題和評論。\n"
+"第三次閱讀，請看塗綠色的問題和評論。\n"
+"\n"
+"之後，跟隨著孩子的興趣，讓你們的討論朝著有趣的方向發展。"
+
+#. type=template
+msgctxt "template"
+msgid "Math Themes and Words"
+msgstr "數學主題和詞語"
+
+#. type=template
+msgctxt "template"
+msgid "**Adult Readers**"
+msgstr "**成人讀者**"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "初階"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "中階"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "高階"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**初階故事書**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**中階故事書**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**高階故事書**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "故事文本"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "初次閱讀"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "再次閱讀"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "第三次閱讀"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "歡迎！"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "故事書"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "活動"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "數學學習步驟"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "遊戲聚會"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "同步中"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "同步中…"
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "複製"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "已複製！"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "最後一次同步時間為： @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "此裝置從未同步過。"
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "立即同步"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "補充材料"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "部分活動附有補充教材，包含範例與進階說明。您可立即在此查看，或在對應活動頁面末端查閱。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "每個階段皆設計了十餘組趣味遊戲、謎題、互動活動與探索單元，讓您全家人能共同享受數學樂趣。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "階段"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "每個階段的名稱都標明了孩子開始該階段學習所需具備的主要能力。例如，如果您的孩子能數到10，並理解這些數字的含義，那麽就可以從第三階段開始學習。各階段的教材均按照循序漸進的學習進程設計，後續內容會建立在前期所學的基礎之上。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "請選擇您想要進行的活動類型。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "請選擇您希望按單個階段活動查看，還是按主題分類查看。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "每個學習階段都劃分為十個基礎學習步驟。每個步驟會說明孩子正在學習的內容、您如何協助孩子學習，以及各個步驟之間的關聯性。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "每個學習階段都規劃了十場「遊戲聚會」，邀請多個家庭共同參與。每場聚會都精心搭配了推薦故事書和互動活動，這些內容正好對應每個階段的十個數學學習步驟。所有相關資源都附上直達連結，方便您快速取用。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "親子共讀是最珍貴的陪伴時光！這些故事書專為家長與孩子共讀設計。在說故事時適時加入數學對話和提問，不僅能培養孩子的數學思維，更能讓孩子將數學與這份溫馨愉悅的共讀時光產生美好連結。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "請選擇您想挑選的故事類型。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "初階故事書"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "在您的孩子還不會說話、甚至還聽不懂語言時，就可以開始和他們對話。指著您看到的東西並說出名稱和描述，例如形狀、顏色、比較和數量。當孩子開始理解詞語時，可以詢問物品並讓孩子用手指指出來。隨著孩子逐漸能理解和說出詞語，再加入一些簡單的問題。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "中階故事書"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "這些故事書的篇幅較長，情節較為複雜，內容也包含更深入的概念。此時您的孩子已經能夠與您討論並理解周遭更多的事物了。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "高階故事書"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "这些故事的情节变得更加细腻复杂，涉及的数学概念也开始使用更大的数字和更进阶的内容。对于物品的描述也愈趋详细且深入。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "歡迎！"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "讓我們一起享受閱讀和玩數學的樂趣吧！最棒的數學學習方式，就是在社交互動和遊戲中體驗。我們為您設計了四類教材，讓全家都能一起同樂。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "故事書"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "這些故事書是專為家長與孩子共讀而設計，每一頁都精心設計了數學小註解和引導式提問。讓我們透過親子共讀的幸福時光，不僅培養孩子的數學思維，更讓數學與溫馨快樂的閱讀體驗產生美好連結！"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "活動"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "這些經過教育性編排的數學遊戲、謎題、互動活動與探索單元，專為家庭共玩設計，不僅能創造愉快的親子時光，更讓孩子在遊戲中自然掌握學校所需的各項數學能力。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "數學學習步驟"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "您是否曾好奇，數學的基礎學習步驟是如何建構的？這些步驟之間又如何相互連結？我們將為您簡要說明孩子在各個學習階段（共五個階段）中，將會體驗到的十個數學學習步驟及其關聯性。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "遊戲聚會"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "與其他家庭相約，來一場數學遊戲聚會吧！我們為每個聚會精心準備了推薦故事書、趣味遊戲和益智謎題，讓多個家庭在互動中共享數學樂趣。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "幫助"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "如需再次查看本介紹，請直接點擊問號圖示。"
 
