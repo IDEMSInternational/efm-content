@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-07-16 03:16\n"
+"PO-Revision-Date: 2025-07-16 03:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15136,8 +15136,36 @@ msgstr "第二階段"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**Overview for Stage 2 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"您的孩子已經掌握了從1數到5，並能夠理解這些數字所代錶的數量。他們也明白物體有不同的屬性，並且可以對這些屬性進行比較和對比。\n"
+"\n"
+"在這個階段，您的孩子將學會數到10，並開始理解小數的加減法。他們對少量物體的數量多少也會有更深的理解。\n"
+"\n"
+"每個遊戲都推薦了適合一起閱讀的故事書和活動。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-1"
 msgstr "遊戲聚會11"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction."
+msgstr "**游戏聚会重点:** 從1開始數，有時從0開始。這是理解數量的基礎，有助於初步學習加減法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors."
+msgstr "這包括從0到9的計數，並包含最小、最大、多一個、少一個，以及顔色的概念。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
+msgstr "一個活動介紹了反例的概念，另一個活動是一個兩人策略遊戲，用來製作三角形。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15146,8 +15174,38 @@ msgstr "遊戲聚會12"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction."
+msgstr "**游戏聚会重点:** 倒數到1為止，有時以0為終點。這加深了對數字順序的理解，也有助於學習減法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has the numbers from 1 to 7. It also has color descriptions on every page."
+msgstr "這本書包含從1到7的數字，並且每一頁都有顔色描述。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
+msgstr "這些活動涉及大量計數和小數量。其中一個活動還包括加減1和2。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-3"
 msgstr "遊戲聚會13"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Understand strategies for comparing small numbers and quantities."
+msgstr "**游戏聚会重点:** 理解比較小數字和小數量的策略。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under."
+msgstr "這包括從1到10的計數；如「太大」或「太小」的關係詞；以及如「上麵」和「下麵」的空間關係詞。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve  discovering shapes for quantities and playing with the order of numbers."
+msgstr "這些活動涉及發現數量對應的形狀，並嘗試數字順序的排列。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15156,8 +15214,33 @@ msgstr "遊戲聚會14"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition."
+msgstr "**游戏聚会重点:** 這引入了「接著數」的概念，幫助理解數量，並為學習加法打下基礎。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the order of numbers and how numbers compare to each other."
+msgstr "這些涉及數字的順序以及數字之間的比較。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-5"
 msgstr "遊戲聚會15"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners."
+msgstr "**游戏聚会重点:** 進一步培養孩子對形狀的理解。引入更多的形狀及其名稱和屬性。您可以現在用計數來討論邊和角的數量。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes on every page."
+msgstr "每一頁都有很多形狀。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve creating lots of geometric shapes."
+msgstr "這些活動涉及創建大量幾何形狀。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15166,8 +15249,38 @@ msgstr "遊戲聚會16"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction."
+msgstr "**游戏聚会重点:** 大量使用「多一個」和「少一個」的概念，以幫助理解數字順序，並初步了解加法和減法 。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 9, one more, one less, and many relationship words."
+msgstr "這包括計數到9、多一個、少一個，以及許多關係詞。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the ordering of numbers and the use of a number line."
+msgstr "這些活動涉及數字的排序以及數軸的使用。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-7"
 msgstr "遊戲聚會17"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5."
+msgstr "**游戏聚会重点:** 享受小數字相加，結果不超過5的樂趣。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 6, with colors and shapes."
+msgstr "這包括計數到6，以及顔色和形狀。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
+msgstr "這些涉及非常小的計數和加法。目前，在組合拚圖中僅使用較小的和（不超過 6）。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15176,8 +15289,38 @@ msgstr "遊戲聚會18"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less."
+msgstr "**游戏聚会重点:** 手指在計數、加法和減法中非常有用。教孩子如何用手指來數10以內的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 12, shapes, and comparing."
+msgstr "這包括計數到12、形狀和比較。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
+msgstr "這些活動涉及使用數軸進行計數、加法和減法，並使用 Bonded Groups 練習加法。Bonded Groups 的總和應保持較小（大約7左右），然後逐漸增大。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-9"
 msgstr "遊戲聚會19"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way."
+msgstr "**游戏聚会重点:** 和您的孩子一起享受按2跳躍計數的樂趣。這是一種有趣且快速的計數方式，可以幫助他們從新的角度看待數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting along with shapes and comparisons."
+msgstr "這包括跳躍計數、形狀和比較。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
+msgstr "這些活動涉及數字形狀（練習配對進行跳躍計數）和製作對稱形狀。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15186,8 +15329,56 @@ msgstr "遊戲聚會20"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful."
+msgstr "**游戏聚会重点:** 通過遊戲的方式探索數一組物體的不同方法。這有助於孩子理解數量，並意識到計數、加法和減法也可以很有趣。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and counting up to 14."
+msgstr "這包括跳躍計數和計數到14。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
+msgstr "這些活動包括將數量不同的物體排列成不同的形狀，並練習對數量進行估算。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Overview"
+msgstr "第三階段"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 3 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 3 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"您的孩子已經能夠熟練地數到10，並且對這些數字和數量有了更深刻的理解。在進行小數字的加法和減法時，您的孩子也變得更加熟練。\n"
+"\n"
+"在這一階段，計數範圍擴展至20，孩子能夠進行的加減運算範圍也有所增加。此外，還引入了乘法和除法的基礎知識。隨著孩子的分析能力和成熟度的提高，您可以開始與他們討論策略遊戲的初步概念。\n"
+"\n"
+"每個遊戲都推薦了適合一起閱讀的故事書和活動。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 3-1"
 msgstr "遊戲聚會21"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1."
+msgstr "**游戏聚会重点:** 通過使用「接著數」的概念來練習加法。所謂「接著數」指的是，當你在數兩個組時，比如4和3，你從4開始數，而不是從1開始 。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and groupings of objects."
+msgstr "這包括大量的形狀和物體的分組。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
+msgstr "這些涉及加法和減法。使用帶有編號的小數字點格遊戲來練習加法。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15196,8 +15387,38 @@ msgstr "遊戲聚會22"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**游戏聚会重点:** 通過從較大的數字往下數來練習減法。講解「減去」和「差」是進行減法的兩種重要方法 。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and comparisons."
+msgstr "這包括跳躍計數、形狀和比較。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing, adding, and subtracting."
+msgstr "這些涉及比較、加法和減法。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 3-3"
 msgstr "遊戲聚會23"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**游戏聚会重点:** 通過往上數來找到差值，以此練習減法。鞏固「減去」和「差」是減法的兩種重要方法 。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10 and shapes."
+msgstr "這包括計數到10和形狀。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and some estimating of small quantities."
+msgstr "這些活動涉及加法以及對小數量的估算。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15206,8 +15427,33 @@ msgstr "遊戲聚會24"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this."
+msgstr "**游戏聚会重点:** 整體與部分的關係，即將事物看作是由部分組成的，是童子發展的一個重要階段。與您的孩子一起練習數字組合（數字組合是總和相同的一組數字）。在此過程中，練習使用十格框架非常重要。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds."
+msgstr "這些活動涉及大量的數字組合練習。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 3-5"
 msgstr "遊戲聚會25"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more."
+msgstr "**游戏聚会重点:** 10在我們的數字中扮演著非常重要的角色。練習加10和減10。還要練習將10到19的數字拆分成10加上一些個位數，比如14可以拆分成10加上4。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and counting with small numbers."
+msgstr "這包括大量的形狀和小數字的計數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing and ordering numbers up to 20."
+msgstr "這些活動涉及比較和排列20以內的數字。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15216,8 +15462,38 @@ msgstr "遊戲聚會26"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds."
+msgstr "**游戏聚会重点:** 使用「事實家庭」來突出加法和減法之間的聯係。這是對上個步驟中數字組合主題的自然延伸。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 12, colors, shapes, and patterns."
+msgstr "這包括從1到12的計數，以及顔色、形狀和模式。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds and with addition and subtraction of small numbers."
+msgstr "這些活動包括大量數字組合練習，以及小數字的加法和減法練習。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 3-7"
 msgstr "遊戲聚會27"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected."
+msgstr "**游戏聚会重点:** 「雙胞胎加法」是指一個數加上它自己，這通常是孩子們樂於學習的加法概念。在學會雙胞胎加法之後，孩子們通常也很容易學會「近似雙胞胎加法」，即一個數加上它下一個數（例如3+4），這有助於他們理解加法的聯係。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, adding twins, and counting to 14."
+msgstr "這包括跳躍計數、雙胞胎加法和計數到14。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding practice and estimating using a number line."
+msgstr "這些活動涉及使用數軸進行加法練習和估算。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15226,8 +15502,33 @@ msgstr "遊戲聚會28"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally."
+msgstr "**游戏聚会重点:** 在進行了按2跳躍計數和雙胞胎加法後，現在可以開始學習倍增、乘以2、減半、除以2、將事物分成兩等份，以及識別奇數和偶數。雖然涉及的主題較多，但它們之間的聯係非常緊密。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of discussion of how to split something fairly among coorperating friends."
+msgstr "這包括大量關於如何在合作的朋友間公平分配事物的討論。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and taking halves."
+msgstr "這些活動涉及倍增和取半。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 3-9"
 msgstr "遊戲聚會29"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10."
+msgstr "**游戏聚会重点:** 多進行按2跳躍計數的練習——練習時既可以嚮上數，也可以嚮下數，並且可以從任何數開始（不局限於2的倍數）。當這種練習變得熟練後，再進行按5或10跳躍計數的練習。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
+msgstr "這些活動包括加法和減法的練習，以及觀察哪些數字可以視為成對的組合。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15236,8 +15537,54 @@ msgstr "遊戲聚會30"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills."
+msgstr "**游戏聚会重点:** 多陪孩子玩策略遊戲。即使遊戲不涉及數字，也包含豐富的數學內容，能夠幫助他們培養關鍵的問題解決能力。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10, comparisons, and a discussion of problem solving."
+msgstr "這包括計數到10、比較以及解決問題的討論。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of problem solving while playing strategy games."
+msgstr "這些活動在玩策略遊戲時涉及大量的問題解決。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Overview"
+msgstr "第四階段"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 4 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"在這個階段，孩子會將計數能力延伸到100。隨著計數能力的提升，他們需要對雙位數的位值有一個紮實的理解。孩子們還會熟練掌握所有個位數的加減法。這也是一個令人激動的時期，他們將開始掌握1到5的乘法。\n"
+"\n"
+"每個遊戲都推薦了適合一起閱讀的故事書和活動。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 4-1"
 msgstr "遊戲聚會31"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10."
+msgstr "**游戏聚会重点:** 和您的孩子一起從1數到100，並倒數回去，特別關註10的倍數處的過渡。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes, counting, and groupings of objects."
+msgstr "這包含很多形狀，數數和很多組物品。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
+msgstr "這些活動涉及數字的排序和比較。在“我在想一個數字”這個遊戲中使用100以內的數字。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15246,8 +15593,38 @@ msgstr "遊戲聚會32"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers."
+msgstr "**游戏聚会重点:** 使用展開式和雙位數位值來理解數字的價值和意義。展開式是將一個數字拆分成十位和個位，例如，43可以拆分為40 + 3。位值是理解43錶示4個十和3個一——數字所在的位置決定了它的價值。使用展開式和位值來幫助比較數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 20, descriptions, and shapes."
+msgstr "這包括計數到20、描述和形狀。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing games."
+msgstr "這些活動涉及排序和比較的遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 4-3"
 msgstr "遊戲聚會33"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier."
+msgstr "**游戏聚会重点:** 使用手指和「接著數」法，使個位數加到任意數字上更簡單。使用「補償法」來簡化一些加法題目 。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, quantities, and speeds."
+msgstr "這包括形狀、數量和速度。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of addition and subtraction, and some practice with number bonds."
+msgstr "這些活動涉及大量的加法和減法練習，以及一些數字組合練習。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15256,8 +15633,38 @@ msgstr "遊戲聚會34"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number."
+msgstr "**游戏聚会重点:** 使用手指可以更輕鬆地從任意數字中減去個位數，或減去兩個差值為個位數的數字。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and polygons (many-sided flat shapes)."
+msgstr "這包括許多形狀和多邊形（多邊的平麵形狀）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with addition and subtraction."
+msgstr "這些活動涉及大量加法和減法的練習。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 4-5"
 msgstr "遊戲聚會35"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier."
+msgstr "**游戏聚会重点:** 使用補償法可以讓加法和減法變得更簡單。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting of groups and lots of comparison words."
+msgstr "這涉及對組的計數和大量的比較用詞。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding and subtracting, as well as a little bit of probability."
+msgstr "包含加法和減法，以及一點點機率。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15266,8 +15673,38 @@ msgstr "遊戲聚會36"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships."
+msgstr "以10為中介點進行心算，可以讓加減法變得更加容易，同時加深對數字關係的理解。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and number properties."
+msgstr "這包括跳躍計算和數字的特性。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding, subtracting, and number bonds."
+msgstr "這些內容涉及加法、減法以及數字組合。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 4-7"
 msgstr "遊戲聚會37"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value."
+msgstr "**游戏聚会重点:** 練習從任意數字開始按2、5和10為間隔跳躍計數，既可以嚮上數也可以嚮下數。這對加法、減法、乘法和除法非常有幫助。按10跳躍計數也有助於理解位值。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 14 and skip counting."
+msgstr "這包含計數到14以及跳躍計數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve place value and simple additions with two-digit numbers."
+msgstr "這些活動包括位值和簡單的雙位數加法。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15276,8 +15713,38 @@ msgstr "遊戲聚會38"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it."
+msgstr "**游戏聚会重点:** 通過使用倍增和減半的方法，自然地引入乘法和除法的術語，而無需特別強調。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and shapes."
+msgstr "這涉及跳躍計數以及形狀的學習。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+msgstr "這些活動包含倍增、將單位數與兩位數相加或相減，以及位值。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 4-9"
 msgstr "遊戲聚會39"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
+msgstr "**游戏聚会重点:** 和您的孩子一起心算任意1到5的兩個數字相乘。這是掌握乘法的開始！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and colors."
+msgstr "這涉及跳躍計數、形狀和顔色的學習。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+msgstr "這些活動涉及加法、減法和乘法。數字拚圖遊戲現在可以包含這三種運算。在乘法遊戲中,「戰爭」遊戲隻使用1到5的牌，直到您的孩子熟練掌握更大的數字。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15286,8 +15753,44 @@ msgstr "遊戲聚會40"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse."
+msgstr "**游戏聚会重点:** 這是一個通過策略遊戲深入研究解決問題的機會。策略遊戲是指玩家可以做出影響遊戲結果的選擇的遊戲。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting, comparisons, and problem solving."
+msgstr "這涉及計數、比較以及問題解決。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+msgstr "這些活動涉及加法和減法。在點格遊戲中使用帶編號的版本，如果您的孩子能應對，可以使用兩位數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Overview"
+msgstr "第五階段"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr ""
+"在這一階段，計數擴展到100以上的三位數。位值的概念變得更加重要，使用展開式可以使許多概念更加清晰。現在已經掌握了個位數的加減法，是時候學習個位數的乘除法了。\n"
+"\n"
+"每個遊戲都推薦了適合一起閱讀的故事書和活動。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 5-1"
 msgstr "遊戲聚會41"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them."
+msgstr "**游戏聚会重点:** 您孩子掌握的數字已經超過100，並且他們在加減法中涉及到兩位數。可以和他們一起練習兩位數和三位數的展開式和位值。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15296,8 +15799,28 @@ msgstr "遊戲聚會42"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction."
+msgstr "**游戏聚会重点:** 通過使用展開式練習雙位數的加法和減法。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve two-digit addition and subtraction."
+msgstr "這些練習包括兩位數的加法和減法。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 5-3"
 msgstr "遊戲聚會43"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations."
+msgstr "**游戏聚会重点:** 練習從任意數字開始以任意步長進行上下（不限於倍數）。這種跳躍計數練習對四則運算非常有幫助。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with skip counting."
+msgstr "這些練習涉及大量的跳躍計數練習。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15306,8 +15829,28 @@ msgstr "遊戲聚會44"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy."
+msgstr "**游戏聚会重点:** 通過倍增法練習2、4和8的心算乘法，同時練習5和10的心算乘法，因為這些運算既實用又容易。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and general multiplication practice."
+msgstr "這些練習涉及倍增和基礎乘法練習。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 5-5"
 msgstr "遊戲聚會45"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5."
+msgstr "**游戏聚会重点:** 用「多一個」和「少一個」的方法進行心算乘法，練習乘以3、4、6、9和11。例如，乘以6相當於在乘以5的基礎上多一個倍數。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of multiplication practice along with some mixed operation practice."
+msgstr "這些練習包括大量的乘法練習以及一些混合運算。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15316,8 +15859,28 @@ msgstr "遊戲聚會46"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!"
+msgstr "**游戏聚会重点:** 一切準備就緒，您的孩子準備好掌握所有個位數的乘法！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+msgstr "這些練習重複了上個步驟的內容，涉及大量的乘法練習和一些混合運算。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 5-7"
 msgstr "遊戲聚會47"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple."
+msgstr "**游戏聚会重点:** 現在您的孩子已經熟練掌握乘法和除法，是時候讓他們理解數字如何整除其他數字了。這涉及學習和練習「因數」、「除數」和「倍數」這些概念 。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with factors and multiples."
+msgstr "這些內容包含大量因數和倍數的練習。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15326,13 +15889,43 @@ msgstr "遊戲聚會48"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power."
+msgstr "**游戏聚会重点:** 在乘法中，質數是構成數字的基礎。幫助您的孩子深入理解質因數分解。此次的新詞有：質數、合數、單位和冪。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+msgstr "這些活動涉及大量的乘法和整除性練習，可以通過玩顛倒乘法錶遊戲進行。在玩嗶聲遊戲時，使用質因數分解來練習。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 5-9"
 msgstr "遊戲聚會49"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division."
+msgstr "**游戏聚会重点:** 通過練習事實家族，可以加深孩子對乘法和除法相互關係的理解。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+msgstr "通過玩顛倒乘法錶遊戲，這些活動涵蓋大量關於乘法和可整除性的練習。在玩嗶聲遊戲時，通過使用倍數進行練習。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 5-10"
 msgstr "遊戲聚會50"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a quick first step at practicing division with and without remainders."
+msgstr "**游戏聚会重点:** 這是一個快速起步，練習除法時有餘數和無餘數的情況。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and division."
+msgstr "這些內容涉及大量乘法和除法的練習。"
 
 #. type=data_list
 msgctxt "data_list"
