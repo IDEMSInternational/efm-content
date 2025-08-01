@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-01 22:28\n"
+"PO-Revision-Date: 2025-08-01 23:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6900,6 +6900,42 @@ msgstr "DE QUEM É ESTA FORMA AFINAL DE CONTAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**The setup:** Have a collection of cards with standards shapes drawn on them. These could be square, circle, triangle, rectangle, parallelogram, pentagon, hexagon, octagon, oval, star, or anything else you child is familiar with. \n"
+"\n"
+"**How to play:** A child can do this by themselves, or with a partner. Give a small random collection of the shape cards to the child or children for them to act out silently. They can use their body parts (but not their fingers) and the ground to do things that suggest the shape. Their goal is to have the other people guess the name of the shape. You can make it competitive by having a time limit and seeing which team can do the most shapes in the allotted time."
+msgstr ""
+"**A preparação:** Faça uma coleção de cartas com formas padronizadas desenhadas. Estas formas podem ser quadrado, círculo, triângulo, retângulo, paralelogramo, pentágono, hexágono, octógono, oval, estrela ou qualquer outra forma com a qual a criança esteja familiarizada. \n"
+" \n"
+" **Como jogar:** Uma criança pode jogar sozinha ou com um(a) parceiro(a). Aleatoriamente dê um pequeno monte das cartas com as formas para a criança ou crianças encenarem silenciosamente. Elas podem usar partes do corpo (mas não os dedos) e o chão para fazer coisas que indicam qual é a forma. Seu objetivo é fazer com que as outras pessoas adivinhem o nome da forma. Você pode tornar o jogo mais competitivo estabelecendo um limite de tempo e vendo qual equipe consegue adivinhar mais formas no tempo determinado."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BUILDING WITH SHAPES"
+msgstr "CRIAR COM FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unknown Shapes"
+msgstr "Formas Desconhecidas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bring together an interesting collection of shapes for your child to play with.\n"
+"\n"
+"The shapes may all be flat polygons, in which case your child can play with making designs and tiling patterns. Explore which shapes fit together nicely and which don't. Name some of the shapes as your child picks them up.\n"
+"\n"
+"They may be things that can be stacked or placed together in interesting ways, such as boxes and cans. If two structures are built, talk about which is taller, wider, or stronger. Which one has more pieces in it? Which pieces are easy to put on top of each other and which ones are not?"
+msgstr ""
+"Reúna uma coleção interessante de formas para a sua criança brincar.\n"
+" \n"
+" As formas podem ser todas polígonos planos, neste caso ela pode brincar com a criação de modelos e padrões de azulejos. Explore quais formas se encaixam bem e quais não. Nomeie algumas das formas enquanto a sua criança as pega.\n"
+" \n"
+" Elas podem ser coisas que podem ser empilhadas ou colocadas juntas de maneiras interessantes, como caixas e latas. Se duas estruturas forem construídas, fale sobre qual é a mais alta, a mais larga ou a mais forte. Qual delas possuem mais peças? Quais peças são fáceis de colocar umas sobre as outras e quais não são?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "STAGE 2 – I CAN COUNT TO 5!"
 msgstr "ETAPA 2 – EU POSSO CONTAR ATÉ 5!"
 
@@ -7184,8 +7220,53 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SMALLEST SINGLE NUMBER"
+msgstr "MENOR NÚMERO DE UM ALGARISMO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Gather a group of people together in a circle. Have them each think of a whole number that they will use for this round of the game. One person is the announcer.\n"
+"\n"
+"**How to play.** The announcer starts slowly counting up starting at 1. With each number, any person who was thinking of that number raises their hand. If only one hand is raised, that person is the winner and the round is over. If more than one hand is raised, those people are out of the game for this round and the announcer continues counting up.\n"
+"\n"
+"Make this an active game by having all the players sitting down or crouched down. When their number is called, the person jumps up."
+msgstr ""
+"**A preparação.** Reúna um grupo de pessoas em um círculo. Peça para cada um deles pensar em um número inteiro que eles usarão para esta rodada do jogo. Uma pessoa será o(a) apresentador(a).\n"
+" \n"
+" **Como jogar.** O(A) apresentador(a) começa a contar lentamente a partir de 1. A cada número, a pessoa que estiver pensando nele, levanta a mão. Se apenas uma mão for levantada, essa pessoa será a vencedora e a rodada terminará. Se mais de uma mão for levantada, essas pessoas estão fora do jogo na rodada atual e o(a) apresentador(a) continua contando.\n"
+" \n"
+" Torne este jogo mais ativo fazendo com que todos os jogadores se sentem ou se agachem. Quando o número dela for chamado, a pessoa pula."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BACK AND FORTH – 12"
+msgstr "PARA FRENTE E PARA TRÁS – 12"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Numbers up to 10"
 msgstr "Números até 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player starts with an empty board from 0 to 12. Each player puts a black marker on 0, and decides where to place three red markers on the numbers bigger than 0."
+msgstr "**A preparação:** Cada jogador começa com um tabuleiro vazio de 0 a 12. Cada jogador coloca um marcador preto no 0 e decide onde colocar os três marcadores vermelhos nos números maiores que 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, roll the die and move your black marker either forward or backward by the amount of the die. If you land on a red marker, remove it from the board and keep it.\n"
+"\n"
+"**How to win:** The first player to remove all three red markers wins.\n"
+"\n"
+"**Example move:** Here is a first move using a roll of 5. If the player rolled a 3 after that, they could move to 2 or 8."
+msgstr ""
+"**Como jogar:** Na sua vez, role o dado e mova seu marcador preto para frente ou para trás de acordo com a quantidade que saiu nos dados. Se você parar em um marcador vermelho, remova-o do tabuleiro e guarde-o.\n"
+" \n"
+" **Como ganhar:** O primeiro jogador a remover todos os três marcadores vermelhos vence.\n"
+" \n"
+" **Exemplo de movimento:** Aqui está um primeiro movimento usando uma rolagem de 5. Se o jogador tirar um 3 depois disso, ele pode passar para 2 ou 8."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7809,6 +7890,11 @@ msgstr "Escolha temas que interessem ao seu filho, como comida ou animais. À me
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Variable names"
+msgstr "Nomes de variáveis"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
 msgstr "Introduza a ideia de nomes de variáveis usando nomes engraçados para números faltantes nas atividades."
 
@@ -8125,8 +8211,28 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "HANDFULS"
+msgstr "PUNHADOS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Number Sizes"
 msgstr "Tamanhos dos Números"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup.** Have a collection of small items that will fit easily in a child's hand.\n"
+"\n"
+"**How to play.** Show your children the items and ask them to estimate how many of these items they think they can grab with one hand. Give them a little bit of time to come up with an answer, and then collect all the answers. If you have a number line handy, put a mark by each estimate. Take a moment to discuss why some are larger and some are smaller. Finally, have one child grab a handful, count together how many they have, and see which estimates were the closest.\n"
+"\n"
+"**Variations.** Use two hands if you want to get larger numbers. Also, use different sizes of objects to add variety and to produce smaller or larger numbers."
+msgstr ""
+"**A preparação.** Faça uma coleção de pequenos itens que caberão facilmente na mão de uma criança.\n"
+" \n"
+" **Como jogar.** Mostre aos seus filhos os itens e peça-lhes que estimem quantos desses itens eles acham que podem pegar com uma mão. Dê a eles um pouco de tempo para chegar a uma resposta e, em seguida, junte todas as respostas. Se você tiver uma reta numérica à mão, marque cada estimativa. Reserve um momento para discutir por que alguns são maiores e alguns são menores. Por fim, peça a uma criança que pegue um punhado, conte quantas ela tem e veja quais estimativas foram as mais próximas.\n"
+" \n"
+" **Variações.** Use as duas mãos se quiser obter números maiores. Além disso, use diferentes tamanhos de objetos para adicionar variedade e produzir números menores ou maiores."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8268,6 +8374,45 @@ msgstr ""
 "**Como jogar:** Peça ao seu filho que conte um pequeno números de objetos. Enquanto eles olham para outro lugar, mude o número de objetos. Quando eles olham de volta, pergunte que mudança você fez. Eles podem testar sua teoria reconstituindo o que eles acham que aconteceu.\n"
 "\n"
 "**Variações** Quando isso estiver fácil, você poderá fazer com que eles sejam mais criativos em suas respostas. Por exemplo, se 4 virou 6, a resposta pode ser que você dobrou o 4 e depois tirou 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTRODUCING 10’S"
+msgstr "APRESENTANDO 10’S"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "LEVANTE-SE / SENTE-SE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
+"\n"
+"**How to play:** Suppose the leader selects the number 10. If the leader says the number 10, or anything that equals 10, such as 7 + 3, everyone stands up. If the leader says any other number, or anything not equal to 10, then everyone sits down. The leader can try to trick everyone else by standing up or sitting down when everyone should do the opposite."
+msgstr ""
+"**A preparação:** Coloque todos em um lugar onde seja fácil se levantar e se sentar. Nomeie alguém para liderar.\n"
+" \n"
+" **Como jogar:** Suponha que o líder escolha o número 10. Se o líder disser o número 10 ou qualquer coisa que seja igual a 10, como 7 + 3, todos se levantam. Se o líder disser qualquer outro número ou qualquer coisa que não seja igual a 10, todos se sentam. O líder pode tentar enganar todos os outros levantando-se ou sentando-se quando todos deveriam fazer o oposto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"* Substitua o 10 por algum outro número.\n"
+"* Levante-se quando o número for maior que 5; sente-se se ele for 5 ou menor.\n"
+"* Levante-se quando o número for par; sente-se quando for ímpar.\n"
+"* Levante-se caso o algarismo 1 aparecer no número; sente-se caso não."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use numbers.** One variation is to place numbers inside each square of the grid when the grid is first drawn. When a player completes a square, they receive the number of points inside the box. After all lines are drawn, the points are totaled up and the player with the most points wins."
+msgstr "**Use números.** Uma variação é colocar números dentro de cada quadrado da grade quando a desenhar pela primeira vez. Quando um(a) jogador(a) completa um quadrado, ela(a) recebe o número de pontos que está dentro do quadrículo. Depois que todas as linhas forem desenhadas, os pontos serão somados e o(a) jogador(a) com mais pontos vencerá."
 
 #. type=data_list
 msgctxt "data_list"
