@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-01 14:48\n"
+"PO-Revision-Date: 2025-08-01 15:47\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7252,6 +7252,82 @@ msgstr ""
 "**Opções de pontuação:** A pontuação do vencedor pode ser calculada de duas maneiras. A maneira tradicional é usar a soma dos pontos nas peças de todos os outros jogadores. As rodadas são jogadas até que um jogador atinja 50 ou 100. Para os pequeninos, um sistema de pontuação melhor é deixar que o vencedor fique com a pontuação, que é a contagem de todas as peças dos outros jogadores.\n"
 "\n"
 "**Variação:** Quando seu filho começar a somar, mude a regra de combinação - duas peças combinam se seus números somarem seis (ou nove, se estiver usando uma variedade maior de dominós)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "DENTRO DE UM OU DOIS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**A configuração:** Crie uma pilha de Cartas Numéricas com uma variedade de quantidades com as quais seu filho se sinta confortável. Divida as cartas igualmente entre dois jogadores e coloque-os com a face para baixo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**Como jogar:** Os jogadores se revezam colocando uma única carta na pilha no meio, entre eles. Se a carta for uma a mais, a mesma ou uma a menos que a carta anterior, o primeiro jogador a dizer \"uma a mais\", \"a mesma\" ou \"uma a menos\" ganha todas as cartas da pilha atual.\n"
+"\n"
+"**Como ganhar:** Ganha a pessoa que tiver a maior pilha de cartas quando você parar de jogar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* Incluir as relações de \"mais dois\" e \"menos dois\" como opções.\n"
+"* Use uma meta de soma, por exemplo, 10. Seja o primeiro a dizer que as duas primeiras cartas somam a meta."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "NIM COM UM E DOIS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "Números Próximos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 10. Let your child choose to go first or second. \n"
+"\n"
+"**How to play:** Start at 0. Players take turns adding 1 or 2 to the current total. Count aloud the progress for each turn.\n"
+"\n"
+"**How to win:** The player who lands on the target (e.g. 10) wins."
+msgstr ""
+"**A configuração:** Escolha um número-alvo, por exemplo, 10. Deixe seu filho escolher se quer ser o primeiro ou o segundo.\n"
+"\n"
+"**Como jogar:** Comece com 0. Os jogadores se revezam adicionando 1 ou 2 ao total atual. Conte em voz alta o progresso de cada turno.\n"
+"\n"
+"**Como ganhar:** O jogador que acertar o alvo (por exemplo, 10) vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Once children learn to play this verbally, it is a great travel game.\n"
+"• Use a pile of objects. Players add one or two objects to the pile until the target quantity\n"
+"is reached.\n"
+"• Use a number line. Advance a marker along the line one or two spaces during a move.\n"
+"• Use subtraction. Players start at the target, say 10. On their turn, players choose whether\n"
+"to subtract 1 or 2. The first person to reach 0 wins.\n"
+"• Use larger target numbers as your child’s skills improve.\n"
+"• Instead of winning, the player forced to hit or go beyond the target number loses.\n"
+"• Allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"* Quando as crianças aprendem a jogar verbalmente, esse é um ótimo jogo para viagens.\n"
+"* Use uma pilha de objetos. Os jogadores adicionam um ou dois à pilha até que a meta seja atingida.\n"
+"* Use uma reta numérica. Avance um marcador ao longo da linha em um ou dois espaços para uma jogada.\n"
+"* Use a subtração. Os jogadores começam com o alvo, por exemplo, 10. Em seu turno, os jogadores escolhem se querem subtrair 1 ou 2. A primeira pessoa a chegar a 0 vence.\n"
+"* Use números-alvo maiores à medida que as habilidades de seu filho melhorarem.\n"
+"* Em vez de ganhar, o jogador forçado a atingir ou ultrapassar o número-alvo perde.\n"
+"* Permita que um jogador adicione (ou subtraia) 1, 2 ou 3 para cada jogada."
 
 #. type=data_list
 msgctxt "data_list"
