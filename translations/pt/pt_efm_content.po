@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-01 15:47\n"
+"PO-Revision-Date: 2025-08-01 20:29\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7328,6 +7328,11 @@ msgstr ""
 "* Use números-alvo maiores à medida que as habilidades de seu filho melhorarem.\n"
 "* Em vez de ganhar, o jogador forçado a atingir ou ultrapassar o número-alvo perde.\n"
 "* Permita que um jogador adicione (ou subtraia) 1, 2 ou 3 para cada jogada."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – SINGLE-DIGIT COMPARING"
+msgstr "GUERRA - COMPARAÇÃO DE UM DÍGITO"
 
 #. type=data_list
 msgctxt "data_list"
