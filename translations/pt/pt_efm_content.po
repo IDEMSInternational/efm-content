@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-01 21:27\n"
+"PO-Revision-Date: 2025-08-01 22:28\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7995,6 +7995,279 @@ msgstr ""
 "* Permitir ou proibir números repetidos no código.\n"
 "* Use comprimentos menores ou maiores para o código.\n"
 "* Use um intervalo de números mais estreito ou mais amplo para cada lugar do código."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "ADIÇÃO COM OS DEDOS ATÉ 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "Usaremos 4 + 2 para demonstrar dois métodos para isso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**Método 1:** Use este método se ambos os números forem 5 ou menos. Coloque 4 dedos de uma mão e 2 dedos da outra. Junte as duas mãos - Tada! Seu filho verá que 4 e 2 somados resultam em 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**Método 2:** Use “contagem progressiva” a partir de um dos números para chegar a qualquer soma de até 10.\n"
+"\n"
+"**Exemplo:** Para somar 4 e 2, levante 4 dedos de uma mão e conte em voz alta de 0 a 2. Para cada número falado após 0, levante mais um dedo. Ao atingir 2, devem haver 6 dedos levantados.\n"
+"\n"
+"Este método permite a adição de números maiores que 5. Seu filho perceberá que é mais fácil começar com o maior número de dedos levantados e contar usando o número menor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "SUBTRAÇÃO COM OS DEDOS ATÉ 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "Matemática de Dedo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "Existem dois modelos mentais para subtração: \"tirar\" ou \"diferença\". Seu filho deve se sentir confortável com ambos os modelos. Aqui está 8 - 5 calculados em ambas as direções."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "**Tirar (à esquerda):** Pense em 8 - 5 como o que resta depois de começar com 8 itens e retirar 5 deles. Comece com 8 dedos levantados. Em seguida, conte em voz alta de 0 a 5 e, para cada número após 0, abaixe um dedo. Quando chegar a 5 na contagem, restarão três dedos levantados."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"**Diferença (à direita):** Este modelo considera 8 - 5 como a diferença ou distância entre dois números. Comece com 5 dedos levantados. Em seguida, conte os novos dedos levantados e, quando houver 8 dedos levantados, a diferença de 3 terá sido contada.\n"
+"\n"
+"Este método usa o método de adição “contagem progressiva“ para encontrar o número a ser adicionado a 5 para obter 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "Inclua problemas em que um número é subtraído de si mesmo e em que 0 está sendo subtraído."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n"
+"\n"
+"**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n"
+"\n"
+"**Example:** The Puzzler thinks of 11. The discussion could go like this:\n"
+"\n"
+"• Puzzler: Stripes is a number between 0 and 15.\n"
+"• Questioner: How does Stripes compare to 8?\n"
+"• Puzzler: Stripes is bigger than 8.\n"
+"• Questioner: How does Stripes compare to 12? \n"
+"• Puzzler: Stripes is less than 12.\n"
+"• Questioner: How does Stripes compare to 10? \n"
+"• Puzzler: Stripes is bigger than 10.\n"
+"• Questioner: Is your number 11?\n"
+"• Puzzler: Yes, congratulations!"
+msgstr ""
+"**A configuração:** Há duas pessoas: o Desafiador, que pensa em um número, e o Questionador, que descobre o número.\n"
+"\n"
+"**Como jogar:** Para começar, o Questionador diz: “Bowser é um número de 0 a 12”. O Questionador então faz perguntas do tipo “Como Bowser se compara a 4?” O Questionador então diz que Bowser é menor, igual ou maior que 4.\n"
+"\n"
+"**Exemplo:** O Desafiador pensa em 11. A discussão poderia ser assim:\n"
+"\n"
+"* Desafiador: Stripes é um número entre 0 e 15.\n"
+"* Questionador: Como Stripes se compara a 8?* Desafiador: Stripes é maior que 8.\n"
+"* Questionador: Como Stripes se compara a 12?\n"
+"* Desafiador: Stripes é menor que 12.\n"
+"* Questionador: Como Stripes se compara a 10?\n"
+"* Desafiador: Stripes é maior que 10.\n"
+"* Questionador: Seu número é 11?\n"
+"* Desafiador: Sim, parabéns!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n"
+"\n"
+"As your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”"
+msgstr ""
+"Transforme isso em um jogo contando as perguntas. Após turnos alternados, o jogador com o menor número total de perguntas vence.\n"
+"\n"
+"À medida que a matemática do seu filho se desenvolve, use outros tipos de perguntas, como \"Bowser é par?\" ou \"Bowser é um número primo?\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ESTIMATION GAME"
+msgstr "JOGO DA ESTIMATIVA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n"
+"\n"
+"Force yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest."
+msgstr ""
+"Desenvolva um senso de quantidade vendo quem consegue fazer a melhor estimativa para o tamanho de um grupo, como um grupo de pessoas em uma fila.\n"
+"\n"
+"Obriguem-se a fazer uma estimativa rápida sem fazer nenhuma contagem. Depois que todos derem uma estimativa, contem os objetos e recompensem a pessoa que chegar mais perto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "Tamanhos dos Números"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15 SLIDING PUZZLE"
+msgstr "QUEBRA-CABEÇA DESLIZANTE DE 15 PEÇAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "Números em Ordem"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid."
+msgstr "**A configuração:** Comece com uma grade vazia de quadrados 4 x 4, formada por 5 linhas horizontais e verticais. Use um conjunto de 15 pedaços de papel do tamanho dos quadrados da grade e numere-as de 1 a 15. O quebra-cabeça começa com alguém colocando as folhas de papel na grade."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"**O desafio:** O objetivo do quebra-cabeça é colocar os pedaços de papel em ordem, deixando apenas o canto inferior direito da grade vazio. Para isso, um pedaço de papel pode ser movido se estiver adjacente ao quadrado vazio – nesse caso, ele pode ser deslizado para esse espaço. Dependendo de como a pessoa monta o quebra-cabeça, ele pode ou não ser solucionável.\n"
+"\n"
+"**Como criar:** Para criar esses quebra-cabeças, você tem duas opções. A primeira é colocar os quadrados aleatoriamente, nesse caso você tem 50% de chance de a posição ser solucionável. Alternativamente, você pode começar colocando os pedaços de papel na posição final e, em seguida, fazer uma série de movimentos legais para mover o papel. Quando terminar, você terá a garantia de que o quebra-cabeça é solucionável."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Different sizes"
+msgstr "Tamanhos diferentes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr "Se uma grade 4 x 4 for muito difícil para um iniciante, comece com algo menor. A grade pode ser tão pequena quanto 2 x 2 ou tão grande quanto a criança desejar. O número de pedaços de papel numerados será sempre uma unidade a menos que o tamanho da grade. Por exemplo, em uma grade 2 x 3, use os cartões de 1 a 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 3 – I CAN COUNT TO 10!"
+msgstr "ETAPA 3 – EU POSSO CONTAR ATÉ 10!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Introduction"
+msgstr "Etapa 3 – Introdução"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n"
+"\n"
+"In addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them"
+msgstr ""
+"**Onde Você Já Chegou**\n"
+"\n"
+"Seu filho conta para cima e para baixo entre 0 e 10 e entende o que essas quantidades significam. Habilidades iniciais de adição e subtração estão se desenvolvendo. Uma base importante para essas habilidades é a confiança em somar e subtrair 1 ou 2 com números pequenos. Seu filho entende pequenas quantidades e raciocina com essas quantidades para fazer adição e subtração de números pequenos.\n"
+"\n"
+"Além dessas coisas maravilhosas, seu filho raciocina muito melhor agora! Eles entendem que objetos e números têm propriedades e podem raciocinar e resolver problemas iniciais. Seu filho é agora um membro pleno dos jogos e quebras-cabeças matemáticos da família e da exploração do mundo matemático ao seu redor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n"
+"* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n"
+"* Number Bonds – These are all pairs of numbers that add up to a specific number.\n"
+"* Ten Frames – Represent a number from 0 to 10 as that number of dots inside a 2 by 5 rectangular grid. For numbers greater than 4, the upper group of 5 squares is always filled.\n"
+"* Expanded Form – This refers to writing a multi-digit number broken down into the contribution of each of its digits. For example: 25 = 20 + 5 and 317 = 300 + 10 + 7.\n"
+"* Fact Families – This refers to a group of closely related math facts. For example, 2 + 5 = 7 is in the same family as 7 - 2 = 5 and 7 - 5 = 2.\n"
+"* Adding twins and near twins – An adding twin is adding a number to itself, such as 4 + 4. A near twin is one away from a twin, such as 4 + 5.\n"
+"* Doubling, multiplying by two, and halving, two equal parts, dividing in two – Children usu-\n"
+"ally enjoy adding twins. With that comes the idea of doubling and multiplying by 2. Also\n"
+"associated with that is halving, splitting something into two equal parts, and dividing by two.\n"
+"* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n"
+"* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
+msgstr ""
+"* Contagem Progressiva – Conte para cima começando com qualquer número em vez de sempre começar com 1. Isso é útil para somar e encontrar diferenças.\n"
+"* Contagem Regressiva – Isso refere a contagem decrescente começando com qualquer número. É útil para subtrair, bem como para desenvolver uma noção de relação entre os números.\n"
+"* Ligações Numéricas – São todos os pares de números que somados resultam em um número específico.\n"
+"* Dez Quadros – Represente um número de 0 a 10 com o número de pontos dentro de uma grade retangular de 2 por 5. Para números maiores que 4, o grupo dos 5 quadrados superiores é sempre preenchido.\n"
+"* Forma Expandida – Isso se refere a escrever um número de vários dígitos divididos na contribuição de cada um de seus dígitos. Por exemplo: 25 = 20 + 5 e 317 = 300 + 10 + 7.\n"
+"* Famílias de Fato – Isso refere a um grupo de fatos matemáticos intimamente relacionados. Por exemplo, 2 + 5 = 7 é da mesma família que 7 - 2 = 5 e 7 - 5 = 2.\n"
+"* Somando iguais e quase iguais – Uma soma de números iguais é somar um número com ele mesmo, com em 4 + 4. Os quases iguais são a soma de um número com outro que está próximo a ele, como em 4 + 5.\n"
+"* Duplicar, multiplicar por 2, reduzir pela metade, duas partes iguais, dividir em dois – Crianças geralmente gostam de somar números iguais. Com isso surge a ideia de duplicar e multiplicar por 2. Também associado a isso é a redução pela metade, dividir algo em duas partes iguais e dividir por dois.\n"
+"* Números Pares e Ímpares – Números pares podem ser divididos em duas partes iguais. Números ímpares tem um sobrando quando divididos em duas partes iguais. Números pares são resultados da soma de números iguais.\n"
+"* Contagem pulando de 2 em 2 – Conte para cima ou para baixo por 2 – como em 0, 2, 4, 6 ou 13, 11, 9, 7."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUMS"
+msgstr "SOMAS COM FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**O desafio:** Preencha os círculos que faltam para que cada círculo seja a soma de todos os círculos diretamente abaixo e conectados a ele."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"Os quebra-cabeças mais fáceis têm a maioria dos círculos preenchidos. Para crianças mais velhas, existem variações que envolvem números maiores e soluções mais inteligentes.\n"
+"\n"
+"**Números repetidos:** Uma opção é usar formas não circulares para números repetidos. Embora o valor em um círculo possa duplicar o valor em algum outro círculo, o valor em uma forma não circular deve corresponder ao valor em todos outros lugares com a mesma forma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"Por exemplo, todos os quadrados têm o mesmo valor em um determinado quebra-cabeça. Use formas correspondentes para praticar a adição de números iguais, quase iguais e redução pela metade – no primeiro exemplo, o solucionador é perguntado para encontrar um número que é metade de 8.\n"
+"\n"
+"**Como criar:** Faça esses quebra-cabeças começando com um diagrama completamente preenchido e então remova alguns números. Se o quebra-cabeça tiver alguns números repetidos, use um quadrado, triângulo ou outra forma em vez do círculo para esse número repetido."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MYSTERY CHANGE"
+msgstr "MUDANÇA MISTERIOSA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fact Families"
+msgstr "Famílias de Fato"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**Como jogar:** Peça ao seu filho que conte um pequeno números de objetos. Enquanto eles olham para outro lugar, mude o número de objetos. Quando eles olham de volta, pergunte que mudança você fez. Eles podem testar sua teoria reconstituindo o que eles acham que aconteceu.\n"
+"\n"
+"**Variações** Quando isso estiver fácil, você poderá fazer com que eles sejam mais criativos em suas respostas. Por exemplo, se 4 virou 6, a resposta pode ser que você dobrou o 4 e depois tirou 2."
 
 #. type=data_list
 msgctxt "data_list"
