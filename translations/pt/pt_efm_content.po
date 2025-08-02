@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-02 21:32\n"
+"PO-Revision-Date: 2025-08-02 22:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9345,6 +9345,781 @@ msgstr ""
 "Seu filho chegou tão longe! Eles podem contar em ambos os sentidos de 0 a 20 e entendem o que essas quantidades significam. Seu filho se sente confortável em \"contar\" ou \"fazer uma contagem regressiva\" começando em qualquer número entre 0 e 20. Há também uma compreensão crescente do valor posicional e de como isso se relaciona com a forma expandida.\n"
 "\n"
 "As habilidades de cálculo também cresceram! Além de adicionar e subtrair números pequenos, seu filho tem uma noção das relações numéricas de ligações numéricas e famílias de fatos. As ideias de adicionar e subtrair 1 ou 2, adicionar iguais e quase iguais estão prontas para serem a base para aprender todos os fatos de adição e subtração. Seu filho também aprendeu a contagem pulando de 2 em 2, multiplicando por 2, reduzindo pela metade e números pares e ímpares - todos os quais preparam o terreno para aprender multiplicação e divisão."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 100 – While it’s fun to hear your child count to 100, keep this practice grounded in understanding the numbers – place value and counting backwards will help a lot with this.\n"
+"* Expanded Form and Place Value – The earlier practice with this will be reinforced here. Understanding tens and ones, and using expanded form (such as 37 = 30 + 7), is essential to\n"
+"understanding numbers.\n"
+"* Comparing double-digit numbers – Understanding place value will make this easy.\n"
+"* All single-digit adding and subtracting – This is first done with manipulatives, especially fingers. Then, using number relationships, it will be extended to mental arithmetic.\n"
+"* Compensation for Addition and Subtraction – Adjusting addition and subtraction problems to make them easier helps with mental arithmetic, and teaches the structure of numbers.\n"
+"* Skip Counting – Skipping up and down by single-digit numbers starting anywhere is great for doing mental addition and subtraction, and helps with multiplication and division.\n"
+"* Beginning multiplying – Your child already knows how to multiply by 2. This will be extended, in part using skip counting, to all single-digit numbers.\n"
+"* Games, Puzzles, Problem Solving and Investigations – The games and puzzles will be more\n"
+"challenging in keeping with your child’s growing sophistication and abilities. Keep these activities fun and playful - enjoyment is the most important thing for your child’s long term mathematical success. Kindle sparks of joy when your child discovers or experiences particularly beautiful or satisfying mathematical patterns."
+msgstr ""
+"* Contando até 100 – Embora seja divertido ouvir seu filho contar até 100, mantenha essa prática fundamentada na compreensão dos números – o valor posicional e a contagem regressiva ajudarão muito nisso.\n"
+"* Forma Expandida e Valor Posicional – A prática anterior com isso será reforçada aqui. Compreender dezenas e unidades e usar a forma expandida (como 37 = 30 + 7) é essencial para entender os números.\n"
+"* Comparando números de dois dígitos – Entender o valor posicional tornará isso mais fácil.\n"
+"*Todas as adições e subtrações de um dígito – Isso é feito primeiro com manipuladores, especialmente dedos. Então, usando relações numéricas, será estendido para a aritmética mental.\n"
+"* Compensação por Adição e Subtração – Ajustar problemas de adição e subtração para torná-los mais fáceis ajuda na aritmética mental e ensina a estrutura dos números.\n"
+"* Contagem Pulando Números – Pular para cima e para baixo em números de um dígito começando em qualquer lugar é ótimo para fazer adição e subtração mental e ajuda na multiplicação e divisão.\n"
+"* Começando a multiplicar – Seu filho já sabe como multiplicar por 2. Isso será estendido, em parte usando a contagem pulando números, para todos os números de um dígito.\n"
+"* Jogos, Quebra-cabeças, Resolução de Problemas e Investigações – Os jogos e quebra-cabeças serão mais desafiadores de acordo com a crescente sofisticação e habilidades do seu filho. Mantenha essas atividades divertidas e lúdicas - o prazer é a coisa mais importante para o sucesso matemático de seu filho a longo prazo. Solte faíscas de alegria quando seu filho descobrir ou experimentar padrões matemáticos particularmente bonitos ou satisfatórios."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION W/ COMPENSATION"
+msgstr "ADIÇÃO DE DEDO COM COMPENSAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use compensation for sums between 11 and 18 to make them easier.\n"
+"\n"
+"**Giving away fingers:** Suppose you’re adding 7 + 8. One person puts up 7 fingers and the other person puts up 8 fingers. Then, one person gives away as many fingers as are needed to put up 10 fingers on the other person’s hands. In this example, 7 + 8 could turn into 5 + 10 (giving away 2) or 10 + 5 (giving away 3).\n"
+"\n"
+"**Magic:** Be dramatic and give away the fingers by having one person’s hand bang into the other person’s hand and having the fingers transfer “magically.”"
+msgstr ""
+"Use a compensação para somas entre 11 e 18 para torná-las mais fáceis.\n"
+"\n"
+"**Dando dedos:** Suponha que você esteja adicionando 7 + 8. Uma pessoa levanta 7 dedos e a outra levanta 8 dedos. Então, uma pessoa dá quantos dedos forem necessários para colocar 10 dedos nas mãos da outra pessoa. Neste exemplo, 7 + 8 podem se transformar em 5 + 10 (dando 2) ou 10 + 5 (dando 3).\n"
+"\n"
+"**Magia:** Seja dramático e dê os dedos fazendo com que a mão de uma pessoa bata na mão da outra pessoa e faça com que os dedos sejam transferidos \"magicamente\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION THE EASY WAY"
+msgstr "ADIÇÃO DE DEDO DA MANEIRA MAIS FÁCIL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Counting on:** Use the idea of 'counting on' to make addition easier. Counting on refers to doing addition by starting at one of the numbers, rather than starting at 0 and counting out both of the numbers."
+msgstr "**Contando:** Use a ideia de 'contar' para facilitar a adição. Contar refere-se a fazer a adição começando em um dos números, em vez de começar em 0 e contar os dois números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Let's use adding 8 + 3 as an example. It is easier if you pick the larger number being added as the starting point for the 'counting on.'\n"
+"\n"
+"Have your child make a closed fist and say '8.' Then, lift one more finger each time as your child counts out loud '9, 10, 11.' When 3 fingers are raised, you are done adding 3, and the counting stops. At that point, you have that 8 plus 3, which is 11."
+msgstr ""
+"Vamos usar a adição de 8 + 3 como exemplo. É mais fácil se você escolher o número maior que está sendo adicionado como ponto de partida para a 'contagem'.\n"
+"\n"
+"Peça ao seu filho que feche o punho e diga '8'. Em seguida, levante mais um dedo em cada vez que seu filho contar em voz alta '9, 10, 11'. Quando 3 dedos são levantados, você termina de adicionar 3 e a contagem para. Nesse ponto, você tem aquele 8 mais 3, que é 11."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With practice and further number relationship ideas, these math facts will become automatic for your child. However, there is no hurry for memorization, and it can wait until more experience with the quantities and relationships between the numbers has been gained."
+msgstr "Com a prática e mais ideias de relacionamento numérico, esses fatos matemáticos se tornarão automáticos para seu filho. No entanto, não há pressa para a memorização, e ela pode esperar até que mais experiência com as quantidades e relações entre os números tenha sido adquirida."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION THE EASY WAY"
+msgstr "SUBTRAÇÃO DE DEDO DA MANEIRA MAIS FÁCIL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math up to 20"
+msgstr "Matemática dos Dedos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two methods:** Subtraction can be thought of as 'take away' or 'difference.' Both models are essential to a complete understanding of subtraction. Have your child practice both ways of thinking of subtraction using these finger subtraction methods.\n"
+"\n"
+"We’ll use 11 - 3 for our examples."
+msgstr ""
+"**Dois métodos:** A subtração pode ser pensada como 'tirar' ou 'diferença'. Ambos os modelos são essenciais para uma compreensão completa da subtração. Faça com que seu filho pratique as duas maneiras de pensar na subtração usando esses métodos de subtração dos dedos.\n"
+"\n"
+"Usaremos 11 - 3 para nossos exemplos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Take Away method:** Start with a closed fist and say “11.” Then, lifting one more finger each time, count “10, 9, 8.” Each time you lift a finger and count down, you are taking one more away from the original number.\n"
+"\n"
+"When your child sees 3 fingers raised, the counting stops. They now see that taking 3 away from 11 leaves 8."
+msgstr ""
+"**Método de tirar:** Comece com o punho fechado e diga \"11\". Em seguida, levantando mais um dedo de cada vez, conte \"10, 9, 8\". Cada vez que você levanta um dedo e faz a contagem regressiva, você está tirando mais um do número original.\n"
+"\n"
+"Quando seu filho vê 3 dedos levantados, a contagem para. Eles agora veem que tirar 3 de 11 deixa 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference method:** This uses counting on, much as we did for Easy Way Finger Addition. What we are doing is finding out which number weneedtoaddto3toget11.\n"
+"\n"
+"Have your child make a closed fist and say “3.” Then, lifting one more finger each time, count “4, 5, 6, 7, 8, 9, 10, 11.” When your child says 11, there are 8 fingers raised. That shows that the difference between 3and11is8!"
+msgstr ""
+"**Método da diferença:** Isso usa a contagem, assim como fizemos para a adição de dedo da maneira mais fácil. O que estamos fazendo é descobrir qual número precisamos adicionar a 3 para obter 11.\n"
+"\n"
+"Peça ao seu filho que feche o punho e diga \"3\". Em seguida, levantando mais um dedo de cada vez, conte \"4, 5, 6, 7, 8, 9, 10, 11\". Quando seu filho diz 11, há 8 dedos levantados. Isso mostra que a diferença entre 3 e 11 é 8!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PIG"
+msgstr "PORCO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, roll a die as many times as you want. When a roll is not 1, you add that roll to your turn’s total. If it is 1, you lose everything for that turn and the turn is over. A player may choose to stop before rolling a 1, keep the turn’s points so far, and add them to the player’s running total.\n"
+"\n"
+"**How to win:** The first player to reach the target number, say 30, wins."
+msgstr ""
+"**Como jogar:** Durante um turno, jogue um dado quantas vezes quiser. Quando uma rolagem não é 1, você adiciona essa rolagem ao total do seu turno. Se for 1, você perde tudo naquele turno e o turno acaba. Um jogador pode optar por parar antes de rolar um 1, manter os pontos do turno até o ponto e adicioná-los ao total acumulado do jogador.\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a atingir o número-alvo, digamos 30, vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A two dice variation has these rules: If neither die shows a 1, the sum is added to the turn’s running total. If exactly one of the dice shows a 1, then nothing more is added to the running total and the turn ends. If two 1’s are rolled, the turn’s total becomes 0 and the turn ends."
+msgstr "Uma variação de dois dados tem estas regras: Se nenhum dado mostrar um 1, a soma é adicionada ao total acumulado do turno. Se exatamente um dos dados mostrar um 1, nada mais é adicionado ao total em execução e o turno termina. Se dois 1's forem lançados, o total do turno se torna 0 e o turno termina."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ENCLOSED SUMS"
+msgstr "SOMAS FECHADAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These puzzles have shapes connected by lines. Each enclosed region, such as where the 9 or the 7 are in this example, has a number that is the sum of the shapes that border it.\n"
+"\n"
+"While circles may have any value, a non-circle must have the same value as any other figure of the same shape."
+msgstr ""
+"**A configuração:** Esses quebra-cabeças têm formas conectadas por linhas. Cada região delimitada, como onde o 9 ou o 7 estão neste exemplo, tem um número que é a soma das formas que a cercam.\n"
+"\n"
+"Embora os círculos possam ter qualquer valor, um não-círculo deve ter o mesmo valor que qualquer outra figura da mesma forma."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers in the shapes and the inside of the regions.\n"
+"\n"
+"**How to create:** Create these puzzles by making a diagram of circles and maybe some squares. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers."
+msgstr ""
+"**O desafio:** Preencha os números que faltam nas formas e no interior das regiões.\n"
+"\n"
+"**Como criar:** Crie esses quebra-cabeças fazendo um diagrama de círculos e talvez alguns quadrados. Em seguida, preencha todas as figuras com números e preencha as regiões delimitadas com a soma das figuras que as cercam. Por fim, remova alguns dos números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – ADDITION AND SUBTRACTION"
+msgstr "GUERRA – ADIÇÃO E SUBTRAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead.\n"
+"\n"
+"**How to play:** Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes.\n"
+"\n"
+"**How to win:** The winner is the player who has the most cards."
+msgstr ""
+"**A configuração:** Divida uniformemente um baralho de cartas embaralhado, sem as figuras. Se preferir, use dominó.\n"
+"\n"
+"**Como jogar:** Ambos os jogadores viram suas duas cartas do topo e as adicionam. O jogador com a maior soma ganha todas as quatro cartas. Se as somas forem iguais, os próximos dois pares de cartas são adicionados e o vencedor recebe todas as oito cartas. Jogue isso com uma única passagem pelo baralho ou várias passagens.\n"
+"\n"
+"**Como ganhar:** O vencedor é o jogador que tiver mais cartas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr "Para variar, jogue usando a diferença das duas cartas. Ou você pode adicionar três cartas de cada vez. Outra opção é atribuir uma pessoa para ser ímpar e a outra par. Para isso, cada jogador vira uma carta e a paridade da soma determina quem recebe as cartas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET GIN RUMMY"
+msgstr "GIN RUMMY AO ALVO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds and Fact Families"
+msgstr "Ligações Numéricas e Famílias de Fatos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target.\n"
+"\n"
+"**How to play:** During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card.\n"
+"\n"
+"**How to win:** When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”"
+msgstr ""
+"**A configuração:** Concorde com uma soma-alvo, digamos 10. Remova as cartas com figuras e distribua sete cartas para cada jogador. As cartas restantes se tornam uma pilha de compra e sua carta do topo é virada para iniciar a pilha de descarte. O objetivo é manter sete cartas divididas em grupos separados de uma ou mais cartas que somam o alvo.\n"
+"\n"
+"**Como jogar:** Durante um turno, o jogador tem a opção de pegar a carta do topo da pilha de descarte ou a carta invisível no topo da pilha de compra. Aquele jogador então descarta uma carta.\n"
+"\n"
+"**Como ganhar:** Quando um jogador preenche com sucesso toda a sua mão, o jogador abaixa a mão e diz \"Gin!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "A técnica de somar a diferença com pares de cartas pode ser usado em vez de adição. Nesse caso, distribua um número par de cartas para cada jogador."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "CARTÕES DE MEMÓRIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"A facilidade de praticar fatos matemáticos usando cartões de memória os torna tentadores. No entanto, eles são frequentemente abusados por ajudantes bem-intencionados e podem contribuir para o ódio à matemática. Além do dano psicológico que ocorre com exercícios excessivamente entusiasmados, o uso de cartões de memória faz com que se perca o aprendizado de relações importantes entre os números. Sinta-se à vontade para usar cartões de memória para praticar um pequeno punhado de fatos, mas mantenha a prática limitada e relaxada.\n"
+"\n"
+"Esta página e a próxima têm métodos que praticam percepções estruturais que são úteis e muito mais interessantes para seu filho, e devem ser usados até que os fatos se tornem automáticos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "REVISANDO HABILIDADES DE ADIÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"Para fazer as atividades nesta página, seu filho deve saber como fazer mentalmente o seguinte:\n"
+"\n"
+"* Adicione e subtraia 0, 1, 2 (e talvez 3)\n"
+"* Fazer a adição de iguais e quase iguais\n"
+"* Conheça as relações numéricas para 10\n"
+"* Adicione 10 a números de um dígito.\n"
+"\n"
+"Se seu filho é fraco com qualquer uma dessas habilidades, este é o momento de praticar um pouco mais essas habilidades."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "COMPENSAÇÃO DE ADIÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"A compensação é uma ferramenta poderosa para tornar a matemática mental mais fácil. Ao adicionar dois números, você pode obter a mesma soma transferindo parte de um número para o outro. Adicionar 8 ou 9 é fácil usando a compensação. Por exemplo, adicione 6 + 9 deslocando 1 do 6 para o 9, o que dá 5 + 10. Da mesma forma, 4 + 8 torna-se 2 + 10.\n"
+"\n"
+"Use a compensação de iguais e quase iguais para facilitar todos os fatos matemáticos restantes: 3 + 5, 3 + 6, 4 + 7 e 5 + 7. Por exemplo, usando a compensação, 5 + 7 é o mesmo que 6 + 6.\n"
+"\n"
+"**Mais de uma maneira:** Alguns fatos matemáticos podem ser feitos de várias maneiras. Desafie seu filho a encontrar mais de uma maneira de resolver um problema. Por exemplo, 5 + 7 pode se tornar 6 + 6, mas também pode se tornar 2 + 10. Esse tipo de jogo matemático levará a percepções duradouras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "REVISANDO HABILIDADES DE SUBTRAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"Antes de iniciar essas atividades de subtração, pratique qualquer uma das seguintes habilidades que seu filho considere fracas:\n"
+"\n"
+"* Adicione e subtraia 0, 1, 2 (e talvez 3)\n"
+"* Subtraia números 1 ou 2 separados\n"
+"* Conheça as relações numéricas para 10 e como eles facilitam a subtração de 10\n"
+"* Subtraia 10 dos números de 11 a 19"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "USANDO 10 COMO UMA PARADA INTERMEDIÁRIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"Para problemas com números maiores que 10, como 13 - 8, divida-os em duas diferenças. Faça de 10 uma parada intermediária ao ir entre os dois números. A distância de 13 a 8 é a distância de 13 a 10 mais a distância de 10 a 8. Usando isso, 13 - 8 torna-se (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"Isso simplifica consideravelmente a carga mental, dividindo essas subtrações em duas partes gerenciáveis. Subtrair 10 de um número entre 10 e 20 é muito simples. Aprender a subtrair números de 10 é uma questão de aprender as ligações numéricas para 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "COMPENSAÇÃO DE SUBTRAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "Matemática Mental"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"Compensação por subtração significa adicionar ou subtrair o mesmo valor a ambos os números. Ao adicionar ou subtrair a mesma coisa, a distância ou diferença entre os dois números é mantida.\n"
+"\n"
+"Use a compensação em 13 - 8 adicionando 2 a ambos os números para transformar o problema em 15 - 10. Observe como o problema se tornou muito mais fácil usando esse pequeno ajuste!\n"
+"\n"
+"Problemas de um dígito também podem ser feitos dessa maneira. Por exemplo, 3 pode ser adicionado a ambos os números em 7 - 3 para torná-lo 10 - 6, que é 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "NÃO ULTRAPASSE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**A configuração:** Use 5 dados e 4 rolagens.\n"
+"\n"
+"**Como jogar:** Na primeira jogada, escolha salvar de 0 a 5 dos dados. Uma vez que um dado é salvo, ele não pode ser alterado. O mesmo vale para os dados restantes nas jogadas dois e três. Na jogada final, todos os dados são salvos. Qualquer pontuação menor ou igual a 20 conta, qualquer pontuação acima de 20 dá ao jogador 0.\n"
+"\n"
+"**Como ganhar:** Você pode jogar uma ou mais rodadas. A pontuação total mais alta vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "A meta de pontuação de 20, o número de dados e o número de jogadas podem ser alterados para se adequar a jogadores mais jovens ou mais velhos. Por exemplo, jogue isso com um alvo de 12 e 3 dados."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "PULANDO DE ILHA EM ILHA – COMPENSAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "Adição de um Dígito"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "Esses quebra-cabeças mostram como o uso da compensação cria problemas de adição mais fáceis."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**O desafio:** Encontre um caminho que conecte todas as ilhas que têm a mesma resposta. Duas ilhas só podem se conectar se os números de seus problemas diferirem em 1 - com um número aumentado em um e o outro diminuído em um.\n"
+"\n"
+"Por exemplo, '5 + 8' se conectaria com '6 + 7'. Apenas algumas das ilhas estarão no caminho. Neste exemplo, o caminho começa no canto inferior esquerdo e termina no canto superior direito.\n"
+"\n"
+"**Como criar:** Faça esses quebra-cabeças começando com cerca de dez círculos vazios com algumas conexões. Identifique um caminho de uma borda das ilhas para a outra. Ao longo desse caminho, coloque problemas cujos números diferem uns dos outros em um. Nas ilhas próximas, coloque problemas com pequenas mudanças que tenham respostas diferentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "TRIÂNGULOS E SUAS PARTES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**A configuração:** Use cartas numéricas de 1 a 13. Para começar, cada jogador recebe 6 cartas viradas para cima. Há uma pilha de compra com uma carta virada para iniciar uma pilha de descarte.\n"
+"\n"
+"**Como jogar:** Durante um turno, um jogador pega a carta de descarte superior ou a carta desconhecida da pilha de compras. A carta escolhida substitui uma carta que já possui, e a carta substituída é descartada.\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a criar uma pirâmide de 6 cartas, onde cada carta é a soma das duas cartas abaixo dela, vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "Use intervalos menores ou maiores de cartas para combinar com as habilidades de jogadores mais jovens ou mais velhos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "CARTAS PARA UM ALVO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**A configuração:** Comece colocando todas as cartas de baralho de 1 a 5 em uma grade de 4 por 5. Inicie o total acumulado em 0 e escolha um número-alvo, digamos 25.\n"
+"\n"
+"**Como jogar:** Os jogadores se revezam virando um número e adicionando-o ao total acumulado. O último jogador a escolher um número que não ultrapasse o número-alvo vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "Substitua de 1 a 5 por quaisquer cinco números que você deseja praticar. Para praticar a subtração, comece no número-alvo, subtraia os números selecionados e não permita ir abaixo de 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "SAIA DA MINHA CASA – ADIÇÃO E SUBTRAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**A configuração:** Use um baralho de cartas com números de 1 (Ás) a 10. Em uma folha de papel compartilhada, desenhe 20 caixas ou casas simples numeradas de 0 a 19. Cada jogador tem 7 fichas distintas das 7 fichas do outro jogador.\n"
+"\n"
+"**Como jogar:** Durante um turno, um jogador seleciona duas cartas aleatórias e pode optar por adicioná-las, subtraí-las ou multiplicá-las para colocar sua ficha em uma casa com menos de três fichas do oponente. Se a casa contiver uma ou duas fichas do oponente, essas fichas são devolvidas ao oponente e o jogador diz \"Saia da minha casa\".\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a colocar todas as suas fichas nas casas vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "DOMINÓ COMBINADO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them.\n"
+"\n"
+"**How to play:** To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes.\n"
+"\n"
+"For example, if [1, 5] is on top, then it matches [2, 4] because 1 + 5 = 2 + 4, and it also matches [2, 2] because 5 - 1 = 2 x 2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile.\n"
+"\n"
+"**How to win:** The first player to get rid of all their dominoes wins."
+msgstr ""
+"**A configuração:** Use um conjunto de dominós que vão de 1 a 6 ou de 1 a 9. Cada jogador começa com 5 dominós aleatórios sem deixar que o outro jogador os veja.\n"
+"\n"
+"**Como jogar:** Para começar, um dominó aleatório é colocado virado para cima no meio. Depois disso, um jogador deve combinar o dominó superior no meio. Correspondência significa que os dois números no dominó superior podem ser combinados com qualquer operação - adicionar, subtrair ou até multiplicar, se desejar - para obter o mesmo resultado que alguma operação, possivelmente diferente, atuando sobre os dois números de um de seus dominós.\n"
+"\n"
+"Por exemplo, se [1,5] estiver no topo, ele corresponderá a [2,4] porque 1+5 = 2+4 e também corresponderá a [2,2] porque 5-1 = 2x2. O dominó correspondente é colocado em cima do topo anterior. Se você não conseguir combinar, você deve pegar um novo dominó da pilha.\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a se livrar de todos os seus dominós vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "DIFTRIÂNGULOS E SOMATRIÂNGULOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Add & Sub"
+msgstr "Jogos para Adicionar e Subtrair"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**DiffTriangles:** These puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides – the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares."
+msgstr "**DifTriângulos:** Esses quebra-cabeças têm triângulos e quadrados que compartilham lados. Um triângulo sempre tem exatamente dois quadrados em seus lados – o lado restante tem um triângulo ou está vazio. O número de um triângulo é a diferença dos dois quadrados adjacentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**SomaTriângulos:** Esses quebra-cabeças usam adição no lugar de subtração. O valor de um triângulo é a soma de seus dois ou três vizinhos quadrados.\n"
+"\n"
+"**O desafio:** Preencha os números que faltam para fazer cada tipo de quebra-cabeça funcionar.\n"
+"\n"
+"**Como criar:** Fazer quebra-cabeças sem loops é fácil. Desenhe uma sequência alternada de quadrados e triângulos. Em seguida, insira os números começando em uma extremidade e indo até a extremidade mais distante. Quando terminar, remova alguns dos números. Veja o Material Bônus para ideias sobre como fazer esses quebra-cabeças com loops."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "CONTAGEM PULANDO NÚMEROS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"Seu filho já praticou a contagem pulando números por 2, 5 e 10 entre 0 e 20. Comece a praticar a contagem pulando por qualquer número, começando em qualquer número, indo em qualquer direção.\n"
+"\n"
+"Contagem pulando números para cima **e para baixo** ajuda em todas as operações aritméticas, bem como no valor posicional (ao pular por 5 ou 10). A parte complicada na contagem pulando números é quando o dígito das dezenas muda, então concentre-se nisso. Esta é uma atividade útil para fazer quando você está viajando ou tem algum tempo ocioso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "PASSOS CURTOS PARA UM ALVO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**Como jogar:** Crie um número inicial de 2 dígitos usando duas cartas de baralho de 1 a 9 - a primeira carta dá a casa das dezenas e a outra a casa das unidades. Começando com esse número, use 5 pulos, cada um dos quais é por 1 ou 10. O objetivo é chegar o mais próximo possível de 50, e a pontuação é a diferença de 50. A pontuação total mais baixa após várias rodadas vence.\n"
+"\n"
+"**Gráfico de 100:** Os jovens jogadores se beneficiam ao se referir a um gráfico de 100. O uso desse gráfico também enfatizará o valor posicional à medida que eles sobem ou descem em 10.\n"
+"\n"
+"**Variações:** Você pode variar este jogo permitindo etapas de 1, 2 ou 10, ou etapas de 1, 2, 5 ou 10. Além disso, use números de destino diferentes de 50 às vezes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "PULANDO DE ILHA EM ILHA – CONTAGEM PULANDO NÚMEROS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "Contagem Pulando Números"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "As ilhas (círculos) são conectadas por pontes (linhas), com conexões feitas por contagem pulando números. Algumas ilhas têm números e outras começam em branco. Acima do quebra-cabeça está o número inicial, o número final e o valor do pulo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**O desafio:** Preencha os números que faltam e encontre o caminho.\n"
+"\n"
+"Você também pode colocar os números e espaços em branco no chão para fazer um quebra-cabeça de passos.\n"
+"\n"
+"Assim como na atividade Contagem Pulando Números, crie quebra-cabeças para praticar avançar ou retroceder começando em uma variedade de números, não apenas números que são um múltiplo do valor de pulos.\n"
+"\n"
+"**Como criar:** Crie esses quebra-cabeças fazendo as ilhas primeiro, preenchendo o número de pulos da contagem, conectando essas ilhas na ordem correta e, em seguida, adicionando algumas conexões adicionais para ajudar a criar um quebra-cabeça. Na versão que você der ao seu filho, remova alguns números deixando números suficientes para que ainda possa ser descoberto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "EMPARELHANDO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**A configuração:** Comece com uma reta numérica que vai de 1 a algum número, digamos 20.\n"
+"\n"
+"**Como jogar:** Durante um turno, escolha dois números e um resultado, nenhum dos quais foi riscado, e escreva uma equação de adição ou subtração que envolva esses números. Os dois números na equação são riscados e o resultado é circulado. O próximo jogador deve usar o resultado como um dos dois números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**Como ganhar:** Se for jogado competitivamente, o vencedor é o último jogador com um movimento legal. Também pode ser jogado cooperativamente para ver como poucos números permanecem intocados."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "CONSERTE ISSO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "Isso começa com uma grade de números 4 por 4 completamente preenchida com uma soma-alvo. Uma versão alternativa usa somas-alvo individuais para cada linha e coluna."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**O desafio:** Encontre as entradas a serem removidas para que a soma dos números restantes em cada linha e coluna seja o alvo.\n"
+"\n"
+"**Como criar:** Faça esses quebra-cabeças colocando pares ou triplos de números cuja adição resulte na soma alvo. Em seguida, preencha os espaços restantes com números chamarizes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "FORMA EXPANDIDA DOBRÁVEL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "Isso fornece uma maneira física de ver como os números de dois dígitos são formados a partir de dezenas e unidades."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "Pegue um pedaço de papel que caiba exatamente quatro Cartas Numéricas lado a lado. Marque o papel com: Espaço - \"0\" - \"+\" - Espaço. Tenha dobras verticais em ambos os lados do sinal \"+\". Prenda os números com clipes de papel nos dois espaços. Se você usar 2 e 3, dobrado parece 23, mas desdobrado torna-se 20 + 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "ESTOU PENSANDO EM UM NÚMERO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"Um jogador pensa em um número entre 0 e 99. O outro jogador descobre o número fazendo perguntas sobre os dígitos das dezenas e unidades.\n"
+"\n"
+"Suponha que o número seja 23. O jogador pode perguntar se o dígito das dezenas é maior ou igual ao dígito das unidades – não é para 23. O jogador pode perguntar se a soma dos dois dígitos é menor que 8 – é para 23. O jogador pode então perguntar se duas vezes o dígito das dezenas é maior do que o dígito das unidades - é. Neste ponto, o número deve ser 23 ou 34. Perguntar se a soma dos dígitos é menor que 6 encerra o assunto.\n"
+"\n"
+"Os tipos de perguntas podem ser qualquer coisa com a qual os jogadores concordem, mas é melhor que as perguntas envolvam os dígitos de unidades e dezenas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "PULANDO DE ILHA EM ILHA POR UM E DEZ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "Forma Expandida e Valor Posicional"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "Uma grade retangular de números é dada com alguns números preenchidos. Preencha os números restantes de modo que quaisquer dois números que compartilhem um lado sejam diferentes apenas em um único lugar, e a diferença dos dígitos nesse lugar seja 1 (incluindo ir entre 0 e 9). Nenhum número pode ser usado mais de uma vez. Usar um gráfico 100 pode ser útil para solucionadores iniciantes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**Como criar:** Pegue uma grade vazia e preencha-a com números, sem nenhum número repetido. Em seguida, remova alguns dos números. No exemplo, os números vermelhos são os que faltam."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "JOGO DA VELHA MATEMÁTICO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**A configuração:** Use um tabuleiro de jogo da velha e fichas com os números de 1 a 9. Um jogador tem os números ímpares e o outro os pares.\n"
+"\n"
+"**Como jogar:** Os jogadores se revezam colocando uma ficha, com o jogador ímpar indo primeiro. O primeiro jogador a completar 3 seguidos cuja soma é 15 vence. Uma variação é continuar, preencher todos os quadrados e ver qual jogador fez mais 15's.\n"
+"\n"
+"Um jogo relacionado é ter um atacante e um defensor. O atacante vai primeiro (o primeiro movimento não pode ser um 5 no centro) e tenta obter 15, e o defensor tenta parar o atacante."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "DESAFIO DA MEMÓRIA REVISITADO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "Brincando de Somar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**A configuração:** Distribua uma grade de cartas viradas para baixo. Uma grade de 4 por 4 é um bom tamanho.\n"
+"\n"
+"**Como jogar:** Os jogadores se revezam virando duas cartas. Se as cartas 'combinarem', o jogador mantém as cartas, mais duas cartas são distribuídas nos espaços vazios e o jogador tem outra vez. Se as cartas não corresponderem, as cartas são viradas de volta e o turno do jogador termina.\n"
+"\n"
+"**Como ganhar:** No final do jogo, o jogador com mais cartas vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"Aqui estão algumas ideias de como as cartas podem combinar:\n"
+"\n"
+"* Use uma soma-alvo. Duas cartas correspondem se a soma delas for o alvo.\n"
+"* Use uma diferença-alvo. Duas cartas correspondem se a diferença for o alvo.\n"
+"* Use cartas com problemas de adição ou subtração junto com cartas que tenham as respostas - as cartas correspondem se o problema corresponder à resposta.\n"
+"* Use o formulário expandido. Selecione 20 números de 0 a 99. Escreva esses números em pedaços de papel. Além disso, escreva cada um em forma expandida em uma folha de papel. Por exemplo, crie 50 + 3 para 53, 30 + 0 para 30 e 0 + 7 para 7. Embaralhe esses dois baralhos de 20 cartas juntos. Duas cartas correspondem quando um número regular é emparelhado com sua forma expandida."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "CHEGUE MAIS PERTO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**A configuração:** Escreva os números 5, 10, 25 e 50 verticalmente em um pedaço de papel. Coloque um único espaço em branco em cada lado do 5 e dois espaços em branco em cada lado dos outros números. Um jogador preenche os espaços em branco no lado esquerdo e o outro preenche o outro lado. Cada jogador também tem um espaço em branco extra para usar uma vez com um número a ser ignorado.\n"
+"\n"
+"**Como jogar:** Jogue com um baralho de Cartas Numéricas de 0 a 9. Escolha aleatoriamente uma carta do baralho e coloque-a de volta depois de usada. Ambos os jogadores devem usar esse número em algum lugar nos espaços que ainda não foram preenchidos. Uma vez que todos os espaços são preenchidos, os valores do jogador são comparados com cada um dos números-alvo. O jogador que se aproximar de cada número-alvo ganha um ponto, com ambos os jogadores ganhando um ponto se estiverem igualmente próximos.\n"
+"\n"
+"**Como ganhar:** Quem tiver mais pontos, vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "Varie este jogo tendo um conjunto diferente de números-alvo. Você também pode pontuar o jogo somando todos os erros de cada jogador – o jogador com a menor pontuação vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "GUERRA – COMPARAÇÃO DE DOIS DÍGITOS"
 
 #. type=data_list
 msgctxt "data_list"
