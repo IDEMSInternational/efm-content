@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-03 04:46\n"
+"PO-Revision-Date: 2025-08-03 05:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11408,8 +11408,531 @@ msgstr "A área de um retângulo é seu comprimento vezes sua largura. Essa decl
 
 #. type=data_list
 msgctxt "data_list"
+msgid "The first way uses rectangles broken into an array of squares. The second uses number shapes to see how a quantity, such as 12, can be placed into an array – 3 by 4, 2 by 6, or 1 by 12. Playing with rectangle areas gives us an arena to play around with multiplication and factoring!"
+msgstr "A primeira utiliza retângulos divididos em uma grade de quadrados. A segunda usa formas numéricas para mostrar como uma quantidade, como 12, pode ser organizada em uma matriz – 3 por 4, 2 por 6 ou 1 por 12. Brincar com áreas de retângulos nos dá uma oportunidade para explorar multiplicação e fatoração!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES REVISITED"
+msgstr "FORMAS NUMÉRICAS REVISITADAS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Rectangle Area"
 msgstr "Área do Retângulo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a large collection of small objects, such as raisins. For each number, investigate which rectangles and other shapes you can make with that many objects.\n"
+"\n"
+"**Rectangles:** The sides of rectangles are values that evenly divide the number and multiply together to give the number. Making rectangles is a direct way to experience divisibility."
+msgstr ""
+"Comece com uma grande coleção de pequenos objetos, como passas. Para cada número, investigue quais retângulos e outras formas você pode criar com essa quantidade de objetos.\n"
+"\n"
+"**Retângulos:** Os lados dos retângulos são valores que dividem igualmente o número e multiplicam-se para formar o número. Criar retângulos é uma maneira direta de vivenciar a divisibilidade."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Unit, prime, composite:** 1 is a unit, and can only be made with a 1 by 1 rectangle. The numbers, such as 5, that only have flat rectangles, are called primes. Numbers that are not a unit or a prime are called composite because they are composed of primes being multiplied together, such as 12 = 2 × 2 × 3. Numbers, such as 9, are called squares because one of their rectangles is a square – one rectangle for 9 is the 3 by 3 square."
+msgstr "**Unidade, primo, composto:** O número 1 é uma unidade e só pode ser representado com um retângulo de 1 por 1. Os números, como 5, que só têm retângulos planos, são chamados de primos. Números que não são unidade nem primos são chamados de compostos, porque são compostos por primos multiplicados entre si, como 12 = 2 x 2 x 3. Números, como 9, são chamados de quadrados porque um de seus retângulos é um quadrado – um retângulo para 9 é o quadrado de 3 por 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Trapezoidal numbers:** There are other shapes that are fun to investigate. For example, which numbers are trapezoidal? These are the numbers that can be represented as stair steps (where each level changes its length by 1)? If you include triangular numbers in this group, the answer is surprising – it is all numbers that are not a power of 2!"
+msgstr "**Números trapezoidais:** Existem outras formas que são divertidas de investigar. Por exemplo, quais números são trapezoidais? Esses são os números que podem ser representados como degraus de escada (onde cada nível muda seu comprimento em 1). Se você incluir números triangulares nesse grupo, a resposta é surpreendente – são todos os números que não são uma potência de 2!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PADDOCK GAME"
+msgstr "O JOGO DO CERCADO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player gets a piece of graph paper.\n"
+"\n"
+"**How to play:** For a player’s turn, use two playing cards from 1 to 10 to determine the dimensions of a rectangle. If a player’s paper has room, the rectangle may be placed anywhere its interior does not overlap with an existing rectangle. Once placed, its interior is lightly shaded and its area and dimensions are written on it. If there is no room, the turn is skipped.\n"
+"\n"
+"**How to win:** The player with the largest total wins."
+msgstr ""
+"**A configuração:** Cada jogador recebe uma folha de papel quadriculado.\n"
+"\n"
+"**Como jogar:** Na vez de um jogador, use duas cartas de jogo numeradas de 1 a 10 para determinar as dimensões de um retângulo. Se houver espaço no papel do jogador, o retângulo pode ser colocado em qualquer lugar onde seu interior não sobreponha um retângulo já existente. Depois de colocado, seu interior é levemente sombreado, e sua área e dimensões são escritas sobre ele. Se não houver espaço, a vez é passada.\n"
+"\n"
+"**Como ganhar:** O jogador com o maior total vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For a normal piece of graph paper, this can be a long game – reduce the time by using half the paper or limiting the number of turns."
+msgstr "Para uma folha normal de papel quadriculado, este pode ser um jogo longo – reduza o tempo usando metade do papel ou limitando o número de turnos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIVIDE UP THE BOX"
+msgstr "DIVIDA A CAIXA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area Games"
+msgstr "Jogos de Área do Retângulo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** A rectangle, 4 by 4 or larger, with numbers in some of its squares, is to be divided into smaller rectangles. Each number must end up in a separate rectangle whose area is that number."
+msgstr "**O desafio:** Um retângulo, de 4 por 4 ou maior, com números em alguns de seus quadrados, deve ser dividido em retângulos menores. Cada número deve acabar em um retângulo separado cuja área seja igual ao número."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Out of the sight of your child, create these puzzles by first filling in the big rectangle with smaller rectangles. Next, place the area in each rectangle. Lastly, give your child the big rectangle with only the numbers."
+msgstr "**Como criar:** Longe da vista do seu filho, crie esses quebra-cabeças preenchendo primeiro o grande retângulo com retângulos menores. Em seguida, insira a área em cada retângulo. Por último, entregue ao seu filho o grande retângulo contendo apenas os números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving strategies"
+msgstr "Estratégias de resolução"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To solve these puzzles, look first at areas that are prime numbers – their shapes are tightly constrained.\n"
+"\n"
+"Next, consider regions that are boxed in. In this puzzle the upper “4” must relate to the upper left 2 by 2 square. Also, the upper right corner must be used in a vertical 3 by 1 rectangle."
+msgstr ""
+"Para resolver esses quebra-cabeças, comece observando as áreas que são números primos – suas formas são rigidamente limitadas.\n"
+"\n"
+"Em seguida, considere as regiões que estão delimitadas. Neste quebra-cabeça, o \"4\" superior deve estar relacionado ao quadrado de 2 por 2 no canto superior esquerdo. Além disso, o canto superior direito deve ser usado em um retângulo vertical de 3 por 1."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A DEFINITION AND A RULE"
+msgstr "UMA DEFINIÇÃO E UMA REGRA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The definition:** Just as 4 × 2 is a quick way to write 2 + 2 + 2 + 2, so 2<sup>4</sup> is a quick way to write 2 × 2 × 2 × 2. It’s much easier to say and understand the phrase “two to the fourth,” than to say “two times two times ... “\n"
+"\n"
+"**Special names:** The second power, 4<sup>2</sup> for example, can be said **four squared,** and the third power, 4<sup>3</sup> for example, can be said **four cubed.**\n"
+"\n"
+"**The rule:** When powers of the same number are multiplied, a simple rule governs how to simplify the result – add the powers. For example, if you do 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, we have two fours multiplied by three fours, so the result is five fours being multiplied.\n"
+"\n"
+"**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
+msgstr ""
+"**A definição:** Assim como 4 x 2 é uma forma rápida de escrever 2 + 2 + 2 + 2, 2<sup>4</sup> é uma forma rápida de escrever 2 x 2 x 2 x 2. É muito mais fácil dizer e entender a frase “dois elevado à quarta potência” do que dizer “dois vezes dois vezes...”.\n"
+"\n"
+"**Nomes especiais:** A segunda potência, 4<sup>2</sup>, por exemplo, pode ser chamada de **quatro ao quadrado**, e a terceira potência, 4<sup>3</sup> , por exemplo, pode ser chamada de **quatro ao cubo.**\n"
+"\n"
+"**A regra:** Quando potências do mesmo número são multiplicadas, uma regra simples governa como simplificar o resultado – basta somar as potências. Por exemplo, se você faz 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup></sup> temos dois quatros multiplicados por três quatros, então o resultado é cinco quatros sendo multiplicados.\n"
+"\n"
+"**Atenção:** Observe que esta regra de soma dos expoentes só funciona quando é o mesmo número sendo elevado a uma potência – você não pode simplificar facilmente 3<sup>2</sup> × 5<sup>3</sup>."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "REUTILIZE ATIVIDADES ANTIGAS DE ADIÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "Sinta o Poder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**Reutilize quebra-cabeças e jogos:** Como as potências se somam quando são multiplicadas, qualquer um de nossos jogos e quebra-cabeças antigos envolvendo adição pode ser usado para praticar a multiplicação de números que são potências. Alguns exemplos dessas atividades antigas de adição são: Estágio 3 - Somas com Formas e Grupos de Soma; Estágio 4 - Somas Fechadas, SomaTriângulos e Conserte Isso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr "**Exemplos:** Acima estão dois exemplos do Estágio 3 – Somas com Formas. Abaixo estão os mesmos exemplos para Produtos com Formas, usando multiplicação em vez de adição."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "Trabalhar com potências se tornará rotineiro e tão fácil quanto os problemas originais de adição."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "Se seu filho gostar desses problemas e quiser um desafio extra, comece a envolver mais de um número elevado a uma potência. Por exemplo, se você multiplicar (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>), pode aplicar a regra separadamente às potências de 4 e às potências de 3, obtendo o resultado 4<sup>7</sup> × 3<sup>5</sup>."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "ÁRVORES DE FATORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "Descobrindo Fatorações Primas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "O modelo para árvores de fatores é uma extensão dos Produtos de Formas da página anterior Sinta o Poder. O objetivo ao criar uma árvore de fatores é reduzir um número aos seus fatores primos. Muitas coisas podem ser aprendidas sobre um número no processo de construção de uma árvore de fatores."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr ""
+"**Exemplo:** Comece com um número, digamos 54. Ele pode ser dividido de várias maneiras. Uma forma é 9 x 6, outra é 18 x 3, e ainda outra é 3 x 3 x 6. Cada uma dessas formas dá início a uma árvore de fatores.\n"
+"\n"
+"Cada uma dessas árvores eventualmente produz os mesmos primos nas suas folhas. Em todos os casos, chegamos a 2 x 3 x 3 x 3, mas observe as diferentes formas de chegar lá!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "Questões"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"Após fazer alguns exemplos como esses, seu filho pode naturalmente começar a fazer algumas perguntas.\n"
+"\n"
+"* Por que algumas árvores têm mais níveis do que outras?\n"
+"* Por que algumas árvores são mais largas do que outras?\n"
+"* Por que as folhas sempre param nos primos?\n"
+"* Por que as folhas sempre têm a mesma lista de primos, talvez com rearranjo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "PRATICAR FATORAÇÕES PRIMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "Faça fatorações primas enquanto viaja ou quando tiver tempo livre. Isso também oferece prática ao falar sobre potências. Saber as fatorações primas com facilidade será útil em muitas coisas que virão, como trabalhar com frações. Divirta-se com isso e não pressione seu filho além do nível de conforto dele."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "Recitação"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"A recitação segue assim:\n"
+"\n"
+"1. é uma unidade\n"
+"2. é um primo\n"
+"3. é um primo\n"
+"4. é 2 ao quadrado\n"
+"5. é um primo\n"
+"6. é 2 x 3\n"
+"7. é um primo\n"
+"8. é 2 ao cubo\n"
+"9. é 3 ao quadrado\n"
+"10. é 2 x 5\n"
+"11. é um primo\n"
+"12. é 2 ao quadrado x 3\n"
+"13. é um primo\n"
+"14. é 2 x 7\n"
+"15. é 3 x 5\n"
+"16. é 2 elevado à quarta\n"
+"17. é um primo\n"
+"18. é 2 x 3 ao quadrado\n"
+"19. é um primo\n"
+"20. é 2 ao quadrado x 5\n"
+"21. é 3 x 7\n"
+"22. é 2 x 11\n"
+"23. é um primo\n"
+"24. é 2 ao cubo x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "PIRÂMIDE DE PRODUTOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "Fatoração com Primos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"Esses quebra-cabeças são a versão multiplicativa das Pirâmides de Adição vistas no Estágio 4. Você recebe um número-alvo e uma pirâmide de números.\n"
+"\n"
+"**O desafio:** O desafio é encontrar um caminho de números conectados na pirâmide, de modo que o produto dos números selecionados seja igual ao alvo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"Nesta pirâmide, o alvo é 36, e as linhas vermelhas indicam o caminho que funciona.\n"
+"\n"
+"Esses quebra-cabeças são mais fáceis se você começar fazendo a fatoração prima do número-alvo. Como 36 = 2 x 2 x 3 x 3, esses fatores primos devem ser selecionados ao longo do caminho, e isso ajuda a orientar a busca.\n"
+"\n"
+"Saber sobre fatorações primas também torna muito mais fácil criar esses quebra-cabeças."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100 RISADAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**A configuração:** Use um baralho de cartas com Q’s (como 0’s), A’s (como 1’s), e 2-9’s. Defina o número-alvo como 100. Quatro cartas aleatórias são escolhidas na ordem e usadas para formar um par de números de 2 dígitos, um recurso compartilhado.\n"
+"\n"
+"**Como jogar:** Cada jogador recebe 14 cartas aleatórias viradas para cima. Os jogadores alternam turnos. Durante o turno, o jogador deve usar exatamente duas de suas cartas para colocar em cima de duas das quatro cartas. O jogador ganha um ponto se os dois números de dois dígitos somarem exatamente o número-alvo. O nome do jogo vem da ação opcional de o jogador rir toda vez que conseguir alcançar o valor alvo.\n"
+"\n"
+"**Como ganhar:** Quando todas as cartas forem usadas, o jogador com mais pontos vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* Ter um alvo de 100 é bom para praticar combinações numéricas para 10. No entanto, outros alvos são úteis para variar e praticar outras combinações numéricas.\n"
+"* Dê aos jogadores menos ou mais de 14 cartas.\n"
+"* Use subtração juntamente com um número-alvo menor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "5 CARTAS PARA UM ALVO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "Adição e Subtração"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**A configuração:** Escolha um número-alvo, por exemplo, 100.\n"
+"\n"
+"**Como jogar:** Cada jogador pega cinco cartas aleatórias de 0 a 9. Com essas cartas, formam-se dois números de 2 dígitos, enquanto a quinta carta não é usada. Os dois números são somados, e o jogador cuja soma estiver mais próxima do número-alvo ganha um ponto para aquela rodada.\n"
+"\n"
+"**Como ganhar:** O maior número de pontos após um número fixo de rodadas vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "Uma opção é usar números de três dígitos, um número-alvo de 1000 e cada jogador receber sete cartas. Outra opção é usar subtração com um número-alvo menor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "SUBSTITUIÇÕES DE LETRAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "Substituição de Letras"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**A configuração:** Nesses quebra-cabeças, dígitos únicos são substituídos por letras. À primeira vista, esses quebra-cabeças parecem iguais aos quebra-cabeças de \"Número Faltante\" apresentados anteriormente nesta etapa. No entanto, o uso de letras oferece oportunidades mais interessantes para a resolução de problemas. Se seu filho estiver confortável com os quebra-cabeças de Número Faltante, você deve fazer a transição para esses quebra-cabeças.\n"
+"\n"
+"O uso de letras nesses quebra-cabeças segue três regras:\n"
+"\n"
+"* Uma letra específica sempre representa o mesmo dígito de 0 a 9.\n"
+"* O dígito mais à esquerda de um número nunca é 0.\n"
+"* Letras diferentes devem representar dígitos diferentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**Como criar:** Escolha um problema comum de adição ou subtração e substitua um ou mais dos dígitos. Use a mesma letra ao substituir o mesmo dígito. Neste exemplo, o número 6 foi substituído pela letra 'A' em ambos os lugares."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**Quebra-cabeças especiais:** As circunstâncias desse tipo de quebra-cabeça permitem a criação de desafios interessantes para resolução de problemas. Estes exigem um pouco de planejamento, mas o resultado é uma série de quebra-cabeças divertidos.\n"
+"\n"
+"Observe que os valores das letras não se mantêm de um quebra-cabeça para outro. A letra 'B,' que tem o valor 1 no primeiro quebra-cabeça, tem o valor 4 no segundo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "PREENCHENDO REGIÕES COM FORMAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"Suponha que você tenha um tabuleiro de xadrez 8 por 8 e uma coleção de peças de 1 por 2. Encontrar uma maneira de cobrir exatamente o tabuleiro com 32 dessas peças de 1 por 2 é simples o suficiente.\n"
+"\n"
+"**Remova os cantos:** Vamos começar brincando com a remoção de quadrados do tabuleiro de xadrez. Se você remover um canto do tabuleiro, sabe imediatamente que não pode mais cobri-lo com as peças, porque as peças cobrem um número par de quadrados e agora há 63 quadrados. Certo, remova dois cantos para deixar um número par de quadrados restantes – você consegue cobri-lo agora? A resposta depende de quais dois cantos você remove. Por quê? E se você não se restringir mais a remover apenas cantos, o que acontece?\n"
+"\n"
+"**Aprenda com exemplos menores:** Uma lição importante ao lidar com questões como essas é aprender com problemas menores. Experimente essas questões em um tabuleiro de 4 por 4 ou 6 por 6 primeiro."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "Expanda o uso de outras formas para preencher o tabuleiro. Experimente preenchê-lo com peças de 1 por 3 ou com 3 quadrados em forma de L. Que padrões e regras você descobre com essas? Quais outras formas podem ser interessantes para explorar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "PREENCHENDO QUADRADOS COM QUADRADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "Formas dentro de Formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**O desafio:** De que maneiras você pode preencher um quadrado com outros quadrados, onde os quadrados não precisam ser todos do mesmo tamanho? A questão é: quais são todos os números de quadrados que são possíveis? Para aqueles que são possíveis, existe uma maneira fácil de descrever como fazer isso?\n"
+"\n"
+"Deixe seu filho brincar com isso ao longo de muitos dias, sem pressa de obter uma resposta. Aqui está um diagrama mostrando como 6 é possível."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr ""
+"O que acontece se você permitir apenas quadrados de certos tamanhos, como 1x1, 2x2 e 3x3? O que acontece ao preencher outras figuras com figuras que têm a mesma forma?\n"
+"\n"
+"Por exemplo, use figuras que são triângulos regulares (triângulos com todos os lados do mesmo comprimento). Quais figuras são interessantes de investigar dessa maneira?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "O JOGO DO PRODUTO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**A configuração:** Use uma folha compartilhada preenchida como mostrado."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**Como jogar:** O primeiro jogador move uma ficha para qualquer número de 1 a 9 nos quadrados 1-9. O segundo jogador coloca outra ficha em um dos quadrados 1-9 e reivindica o produto na grade 6 por 6. A partir daí, cada jogador escolhe mover uma das duas fichas e reivindica o produto (se puder)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**Como ganhar:** O primeiro jogador a completar 3 quadrados consecutivos vence.\n"
+"\n"
+"**Variações:** Misture os números dos produtos para oferecer ao seu filho uma melhor prática em identificar os produtos. Além disso, consulte o Material Bônus do Estágio 5 para designs de tabuleiros maiores com intervalos maiores."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "PULANDO DE ILHA EM ILHA COM PRODUTOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "Multiplicação e Múltiplos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"Esses quebra-cabeças têm ilhas (círculos e quadrados) conectadas por pontes (linhas). Se houver dois círculos de cada lado de um quadrado, então o quadrado contém o produto dos dois círculos.\n"
+"\n"
+"**O desafio:** Preencha os números faltantes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**Como criar:** Crie esses quebra-cabeças preenchendo os círculos, depois os quadrados, e finalmente removendo alguns dos números antes de entregar para o seu filho.\n"
+"\n"
+"Além de praticar multiplicação, esses quebra-cabeças também podem ser estruturados para praticar fatores comuns. No primeiro quebra-cabeça, o único número, além de 1, que divide 14 e 21 é 7, então esse é o número no círculo inferior."
 
 #. type=data_list
 msgctxt "data_list"
