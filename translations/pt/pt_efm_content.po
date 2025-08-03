@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-03 14:15\n"
+"PO-Revision-Date: 2025-08-03 14:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12068,6 +12068,205 @@ msgstr "BOLA DE BILHAR SALTITANTE"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "Fatores e Múltiplos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "Imagine uma mesa de bilhar que tenha um buraco em cada um dos quatro cantos. Quando uma bola bate na lateral da mesa, ela salta com o mesmo ângulo em que entrou."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"Esta investigação explora a questão: Se dispararmos uma bola a um ângulo de 45 graus de um canto, onde ela vai parar?\n"
+"\n"
+"A resposta depende do tamanho da mesa. Veja o que acontece em uma mesa de 3 por 4.\n"
+"\n"
+"**Investigação:** Após brincar com diferentes tamanhos de mesas, desafie seu filho a prever a resposta com antecedência para novos tamanhos. Começando no canto inferior esquerdo, qual canto será atingido primeiro e quantos saltos serão necessários?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "DOBRO OU NADA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**A configuração:** Os jogadores começam o jogo escolhendo secretamente 5 números distintos maiores que 20 e menores que 121. Após todas as escolhas, os números são escritos para que todos possam vê-los.\n"
+"\n"
+"**Como jogar:** Usando Cartas Numéricas ou algum outro dispositivo, um número aleatório entre 1 e 20 é gerado. Esse número é dobrado repetidamente até que o número de alguém seja atingido pela primeira vez ou até que o número se torne maior que 120.\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a ter todos os cinco números atingidos é o vencedor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "Estratégias para selecionar números"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "É uma má ideia escolher um número, como 46, que não seja uma potência de 2 multiplicada por algum número entre 1 e 20 – ele nunca será atingido. Alguns números com muitos fatores de 2, como 32, têm mais chances de serem atingidos porque mais números iniciais podem chegar a eles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "Você pode triplicar o número a cada vez, em vez de dobrá-lo. Você pode dobrá-lo e adicionar 1 a cada vez. Para jogadores mais jovens, selecione números acima de 10 e não acima de 60, e selecione um número aleatório entre 1 e 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "GUERRA COM FATORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "Contagem de Fatores"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**A configuração:** Tenha dois conjuntos de cartas, de 1 a 25, por exemplo.\n"
+"\n"
+"**Como jogar:** Jogue o jogo padrão de guerra com essas cartas, mas agora o vencedor é a carta que tem mais fatores. Por exemplo, 12 vence 16 porque 12 tem 6 fatores (1, 2, 3, 4, 6 e 12), enquanto 16 tem 5 fatores (1, 2, 4, 8 e 16). O jogador com a carta vencedora deve ser capaz de listar corretamente os fatores para ganhar as cartas – caso contrário, as cartas são embaralhadas de volta para o monte de cada jogador. Como no jogo de Guerra padrão, quando há um empate, as próximas cartas são viradas e o vencedor recebe todas as cartas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "Você pode jogar de forma que o número com menor quantidade de fatores vença. Você pode contar o total apenas dos fatores primos em vez de todos os fatores. Você pode jogar de forma que potências de primos (números que são uma potência de um primo) vençam outros números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "ATRAVESSANDO O VULCÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**A configuração:** Use um gráfico de 100 com os 36 quadrados nas quatro bordas coloridos de cinza. Use cartas de baralho com as cartas de figura removidas ou use Cartas Numéricas de 1 a 10.\n"
+"\n"
+"**Como jogar:** Em uma rodada, se você tirar um 1, pode reivindicar qualquer número ímpar; se tirar qualquer outro número, pode reivindicar qualquer múltiplo dele. Se você reivindicar um número, seu oponente não pode reivindicá-lo. O objetivo é fazer um caminho de uma borda para a borda oposta, em qualquer direção. Você não precisa reivindicar os quadrados na ordem do seu caminho."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "Você pode jogar permitindo que conexões diagonais sejam permitidas ou não. Outra opção é incluir cartas de figura – se você tirar uma dessas, pode colocar um quadrado bloqueado que não pode ser incluído no caminho de ninguém."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "JOGO DE DAMAS MATEMÁTICO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "Jogos de Tabuleiro de Multiplicação"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**A configuração:** Este jogo é levemente inspirado no jogo de damas. Cada jogador tem 10 peças. As peças são numeradas de 1 a 10, com a peça \"10\" marcada com 10 e 11. As peças começam nas linhas finais de um gráfico de 100 – um jogador nas casas de 1 a 10 e o outro nas casas de 91 a 100.\n"
+"\n"
+"**Como jogar:** Inicialmente, as peças só podem se mover \"para frente\" uma fileira para qualquer múltiplo do número (ou números) na marca que escolherem – para o jogador que começa nas casas de 1 a 10, para frente significa números maiores, e para o jogador que começa nas casas de 91 a 100, para frente significa números menores. Depois que uma peça atravessa completamente o tabuleiro, ela se torna uma dama e pode então se mover para frente ou para trás uma fileira a partir daí. Uma peça do oponente é capturada ao aterrissar sobre ela. A peça de um jogador não pode se dobrar com outra peça do mesmo jogador.\n"
+"\n"
+"**Como ganhar:** Você vence capturando todas as peças do seu oponente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "Variações"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "Para jogadores mais jovens, encurte o tabuleiro para usar as primeiras 6 fileiras – os números de 1 a 60. Uma criança que ainda não sabe todos os múltiplos pode usar a contagem pulando números para calcular os movimentos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "BINGO DE MULTIPLICAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**A configuração:** Cada jogador começa com uma grade 4 por 4 de números que são possíveis produtos de multiplicação – esses números podem ser atribuídos aleatoriamente ou escolhidos cuidadosamente pelo jogador.\n"
+"\n"
+"**Como jogar:** Para começar, duas cartas são distribuídas e colocadas viradas para cima na mesa. Se algum dos jogadores tiver o produto desses dois números, ele cobre esse número. A partir daí, os jogadores se alternam pegando a carta do topo da pilha e escolhendo qual das duas cartas substituir. Todos os jogadores que tiverem uma correspondência com o produto cobrem essa carta.\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a obter 4 números em uma linha vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "PRODUTOS CRUZADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "Produtos Interessantes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"Este quebra-cabeça de multiplicação é ou 3 por 3 envolvendo cada um dos números de 1 a 6 exatamente uma vez, ou 4 por 4 envolvendo os números de 1 a 8 exatamente uma vez.\n"
+"\n"
+"**O desafio:** Preencha algumas das casas, duas casas para cada linha e cada coluna, de modo que o produto dos números de uma linha seja o número marcado na extremidade esquerda e o produto dos números de uma coluna seja o número marcado acima da coluna. Algumas linhas ou colunas podem não estar marcadas – se for o caso, não há restrição sobre o produto dessas linhas ou colunas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**Exemplos de resolução:** Resolva este quebra-cabeça encontrando colunas e linhas onde você pode identificar os dois números. A coluna 30 deve ter 5 e 6, e a linha 10 deve ter 2 e 5. Em seguida, a coluna 12 deve ter 3 e 4 e a linha 4 deve ter 1 e 4. O resto segue rapidamente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"A linha 5 neste quebra-cabeça deve ter 1 e 5, a linha 21 tem 3 e 7, a linha 32 tem 4 e 8, e a linha superior tem, por eliminação, 2 e 6. A coluna 7 tem 1 e 7, a coluna 40 tem 5 e 8, a coluna 18 tem 3 e 6, e a segunda coluna tem 2 e 4. Junte isso para a solução.\n"
+"\n"
+"**Como criar:** Como é comum nesses quebra-cabeças, o adulto pode criá-los preenchendo primeiro os números no interior do quebra-cabeça, escrevendo os produtos e, em seguida, removendo todos os números internos."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "One of These is Not Like the Others"
 msgstr "Um desses não é como os outros"
 
@@ -12649,6 +12848,36 @@ msgstr ""
 "Por exemplo, considere o quebra-cabeça 3 x 3 do início desta discussão. Comece movendo o número 4 para a segunda linha. A lista fica: 6 1 2 4 8 5 3 7. Existem 10 inversões nesta lista: (6 1), (6 2), (6 4), (6 5), (6 3), (4 3), (8 5), (8 3), (8 7) e (5 3). Como 10 é um número par, o quebra-cabeça é solucionável.\n"
 "\n"
 "Por que essa regra funciona? Não vou entrar em uma análise detalhada, mas a ideia principal é acompanhar o número de inversões a cada movimento. Acontece que, ajustando para o quadrado vazio estar na última linha, o número de inversões sempre muda em múltiplos de dois a cada movimento. Portanto, se o número de inversões começar ímpar, ele nunca poderá chegar a zero inversões."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger Boards"
+msgstr "Tabuleiros Maiores"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle"
+msgstr "Quebra-cabeça"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Working Number"
+msgstr "Um Número Funcionando"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Working Numbers"
+msgstr "Dois Números Funcionando"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Binary Numbers"
+msgstr "Números Binários"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Game"
+msgstr "Jogo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20787,4 +21016,450 @@ msgstr "Se alguém lhe pedisse para contar até dez, você contaria de 1 em 1, 2
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "Geralmente quando um grupo de pessoas pensa igual, acaba perdendo uma boa maneira de resolver um problema. Bons solucionadores de problemas descobrem novas maneiras de abordar os problemas!"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "Próximo"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "Anterior"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "Concluído"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "Política de privacidade"
+
+#. type=template
+msgctxt "template"
+msgid "Template list"
+msgstr "Lista de modelos"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "Lista de roteiro"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "Redefinir aplicativo"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "Idioma"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "O aplicativo EFM baixou uma atualização. Reinicie o aplicativo para concluir a instalação."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Reiniciar"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+"Em primeiro lugar, jogar jogos de matemática deve ser divertido como qualquer outro jogo que sua família joga juntos!\n"
+" \n"
+" Por favor, deixe a criança fazer jogadas ruins (erros) sem corrigí-la e resista ao desejo de dizer a ela as melhores maneiras de jogar. Pouco a pouco, a criança ficará melhor no jogo e aprenderá muito mais se você deixá-la descobrir as coisas. Não há pressa.\n"
+" \n"
+" Se você vir a criança cometer um erro, peça que ela descreva por que decidiu fazer o que fez. Se a criança estiver travada e não souber que jogada fazer, peça a ela que descreva os prós e os contras das suas escolhas ou pergunte a ela sobre como ela resolveu uma situação semelhante no passado. Se a criança não se lembra de como fazer um cálculo, aborde os métodos que ela conheça para descobrir isso. Essas conversas são importantes para ajudar a criança a se desenvolver matematicamente. \n"
+" \n"
+" Através de jogos de matemática e conversas matemáticas, você estará ajudando-a a aprender a gostar de matemática e a desenvolver habilidades importantes de resolução de problemas!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+"Os quebra-cabeças devem ser desafiadores e levarem tempo, então, por favor, não estrague a diversão dizendo à criança como fazê-los. Esses quebra-cabeças são escolhidos para que você possa criá-los facilmente e depois se divertir resolvendo-os juntos.\n"
+" \n"
+" Se a criança ficar travada em um quebra-cabeça, você tem várias opções. Você pode dar dicas muito pequenas e, se puder, pense em coisas que não revelarão o quebra-cabeça. Você pode sugerir ver versões menores ou mais simples do quebra-cabeça. Incentive a criança a ser ousada em suas ideias, mesmo que isso as levem a becos sem saída às vezes. Todos nós aprendemos muito com nossos erros e becos sem saída! Deixe a criança saber que não há problema em não resolver um quebra-cabeça na primeira (ou segunda ou terceira) tentativa, e que ideias úteis podem aparecer se ela deixar o quebra-cabeça sozinho por um dia ou dois.\n"
+" \n"
+" Esses quebra-cabeças devem ser divertidos e ensinarem a resolver problemas. Um dos maiores prazeres matemáticos é aquele momento ARRÁ, depois de muitos começos errados e muita luta com um problema, quando a resposta finalmente é descoberta – certifique-se de deixar a criança experimente esse sentimento de descoberta o máximo de vezes que puder!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"As investigações são feitas para a criança brincar e pensar. Deixe-a explorar em busca de padrões interessantes e vínculos bonitos. Resista à tentação de desvendar o que está acontecendo e dar a resposta. Se a criança parecer ter chegado a um beco sem saída, sugira que ela volte à investigação mais tarde para brincar novamente.\n"
+" \n"
+" Muitas investigações se beneficiam com a organização dos resultados, e isso é ótimo para ajudar a criança. Ajude-a a fazer tabelas, desenhos ou o que quer que possa ajudá-la a ver mais facilmente o que está acontecendo. E, claro, não há problema em dar a ela, de vez em quando, pequenas sugestões na direção certa. Lembre-se de que a criança aprenderá muito ao desenvolver a persistência e aprender a olhar mais profundamente para as coisas."
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
+msgstr "Ajudando a sua criança"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "Leia o Material Bônus"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "Atividades – Material Bônus"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "Apresentações"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "Jogos"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "Quebra-cabeças"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "Investigações"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "Individualmente"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "Por tópico"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**Estágios**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**Material Bônus**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "Material Bônus – Atividades"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "Sem Correspondência"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "Lista de atividades"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "Lista de livros de histórias"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**Etapa de Aprendizagem Matemática**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**Livro de histórias**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**Atividades**"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "Etapa"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "Início"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "Intermediário"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "Avançado"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**Livros de Histórias para Iniciantes**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**Livros de Histórias para Intermediários**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**Livros de Histórias para Avançados**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "Texto de história"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "Primeira leitura"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "Segunda leitura"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "Terceira leitura"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "Bem-vindo(a)!\n"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "Livros de Histórias"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "Atividades"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "Etapas de Aprendizagem Matemática"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "Brincadeiras"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "Sincronizando"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Sincronizando..."
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "Copiar"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Copiado!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Última sincronização: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "Este dispositivo nunca foi sincronizado."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Sincronizar agora"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "Material Bônus"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "Algumas das atividades têm material extra com exemplos e explicações adicionais. Você pode vê-los aqui ou no final da página de atividades correspondente."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "Cada um dos Estágios tem cerca de uma dúzia de seções com jogos divertidos, quebra-cabeças, atividades e investigações para a sua família desfrutar juntos."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "Etapas"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "O nome dos Etapas descreve o principal requisito para a criança iniciá-las. Por exemplo, se a criança consegue contar até dez e sabe o que esses números significam, então comece pelo Etapa 3. Os materiais nos Etapas são projetados seguindo uma progressão de aprendizagem para que as seções posteriores se baseiem nas anteriores."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "Selecione os tipos de atividades que você gostaria de fazer."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "Selecione se prefere visualizar as atividades do Etapa individualmente ou por tópico."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "Cada Etapa de aprendizagem é dividida em dez etapas básicos de aprendizagem. Cada etapa descreve o que a criança está aprendendo, como você pode ajudá-la com esse aprendizado e como as etapas estão conectadas entre si."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "Cada Etapa tem dez brincadeiras para a sua família desfrutar com um grupo de outras famílias. Cada brincadeira sugere livros de histórias e atividades para desfrutar juntos durante os jogos. As brincadeiras correspondem às dez etapas de aprendizagem de matemática para cada Etapa. Os links são fornecidos para dar acesso direto e fácil a cada um desses recursos."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "Ler junto com a criança é uma experiência maravilhosa! Esses livros de histórias são para um adulto ler para uma criança. Adicionar comentários e perguntas de matemática à sua leitura ajuda a criança a crescer matematicamente e a criar fortes associações matemáticas devido a essa experiência feliz e aconchegante."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "Selecione os tipos de histórias que você gostaria de escolher."
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "Livros de Histórias para Iniciantes"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "Converse com a criança antes que ela possa falar ou até mesmo entender as palavras. Aponte, nomeie e descreva as coisas que você vê, como formas, cores, comparações e quantidades. À medida que a criança começa a entender as palavras, peça-lhe uma coisa e a faça apontar para ela. À medida que a criança começa a entender e a falar palavras, misture-as em perguntas simples."
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "Livros de Histórias para Intermediários"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "Esses livros de histórias são um pouco mais longos, têm histórias um pouco mais complexas e envolvem ideias mais elaboradas. Agora a criança é capaz de falar e raciocinar sobre mais coisas no mundo."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "Livros de Histórias para Avançados"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "As histórias estão ficando cada vez mais detalhadas e complexas. A matemática envolve números maiores e conceitos mais avançados. A descrição dos objetos está ficando mais detalhada e complicada."
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "Bem-vindo(a)!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "Divirtam-se lendo e brincando com a matemática juntos! A melhor maneira de aprender e vivenciar a matemática é de forma social e lúdica. A Early Family Math criou quatro tipos de materiais para a sua família desfrutar juntos."
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "Livros de Histórias"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "Esses livros de histórias são para um adulto ler para uma criança. Eles têm comentários matemáticos e perguntas orientadoras em todas as páginas. Ajude a sua criança a crescer matematicamente e a criar fortes associações matemáticas com uma experiência feliz e aconchegante de ler juntos!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "Atividades"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "Esses jogos, quebra-cabeças, atividades e investigações de matemática sequenciados educacionalmente, projetados para a sua família brincar juntos, proporcionam um tempo agradável para a família enquanto a criança aprende toda a matemática de que precisa para a escola."
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "Etapas de Aprendizagem Matemática"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "Você já se perguntou quais são as etapas iniciais de aprendizagem para a matemática e como elas se conectam entre si? Aqui estão breves descrições dos dez passos de aprendizagem de matemática que a sua criança conhecerá ao passar por cada um dos cinco Estágios."
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "Brincadeiras"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "Reúna-se com outras famílias e tenha uma brincadeira de matemática. Essas brincadeiras sugerem livros de histórias, jogos e quebra-cabeças para o seu grupo de famílias desfrutar juntos."
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "Ajuda"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "Se você quiser ver esta introdução novamente, basta clicar no ponto de interrogação."
 
