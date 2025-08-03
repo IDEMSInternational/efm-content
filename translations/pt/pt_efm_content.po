@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-03 05:46\n"
+"PO-Revision-Date: 2025-08-03 14:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11933,6 +11933,138 @@ msgstr ""
 "**Como criar:** Crie esses quebra-cabeças preenchendo os círculos, depois os quadrados, e finalmente removendo alguns dos números antes de entregar para o seu filho.\n"
 "\n"
 "Além de praticar multiplicação, esses quebra-cabeças também podem ser estruturados para praticar fatores comuns. No primeiro quebra-cabeça, o único número, além de 1, que divide 14 e 21 é 7, então esse é o número no círculo inferior."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "CONTANDO VIZINHOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**A configuração:** Use três dados e um tabuleiro 8 por 8 com números de 1 a 64.\n"
+"\n"
+"**Como jogar:** Um jogador lança os dados e usa adição, subtração, multiplicação e divisão para formar qualquer número não marcado no tabuleiro. O jogador marca essa casa e recebe um ponto por ela, mais um ponto adicional por cada casa marcada que ela toque, incluindo as diagonais. Se um jogador não puder jogar, qualquer outro jogador que encontrar uma jogada pode reivindicar aquele ponto.\n"
+"\n"
+"**Como ganhar:** Jogue cinco ou mais rodadas, com o maior placar ganhando."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "Algumas opções do jogo são usar um quarto dado e usar um tabuleiro menor ou maior."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "FAZENDO UM MÓBILE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**A configuração:** Você recebe alguns pesos e um design para um móbile com alguns pontos de fixação. O desafio é colocar no máximo um peso por ponto de fixação, de forma que o móbile fique equilibrado ao longo de cada braço. Suponha que os fios sejam sem peso. Cada braço do móbile é uma alavanca que precisa de equilíbrio, então esses quebra-cabeças são uma extensão do quebra-cabeça de Equilíbrio da Alavanca apresentado anteriormente nesta fase - pratique esses quebra-cabeças antes de começar esses."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**Exemplo simples:** Comece com os móbiles mais simples, que são apenas alavancas no ar. Aqui está uma solução para colocar os pesos de 1 a 4 neste móbile para equilibrá-lo. Isso funciona porque 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2.\n"
+"\n"
+"**Exemplo mais complicado:** Use o total dos pesos abaixo dele para equilibrar cada lado do fio superior (1 + 3) x 3 = (4 + 2) x 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "Vá para o Material de Bônus da Fase 5 para mais exemplos e uma discussão mais longa sobre móbiles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "CALCULADORAS LIMITADAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "Adicionar, Subtrair e Multiplicar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**A configuração:** Suponha que você tenha uma calculadora que está muito quebrada e você é desafiado a produzir algum resultado nela. Isso é fácil de jogar oralmente sempre que você tiver um momento livre. Aqui estão alguns exemplos para começar.\n"
+"\n"
+"**Exemplo:** Suponha que você tenha uma calculadora com +, -, x e /, mas com apenas uma tecla numérica funcionando, o 4. Você conseguiria obter o resultado 21? Se sim, qual é o menor número de passos necessários? Suponha que você possa usar o 4 no máximo quatro vezes - que números você conseguiria produzir? Suponha que você tenha que usar o 4 exatamente quatro vezes. Brinque com a ideia de ter outras teclas únicas e criar outros resultados."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**Exemplo:** Suponha que sua calculadora só possa adicionar 4 ou 7. Quais números você poderia produzir?\n"
+"\n"
+"**Exemplo:** Suponha que a calculadora tenha apenas 4 ou 7, mas agora ela pode somar e subtrair. Quais números adicionais você poderia produzir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"Essas são as mesmas atividades que vimos anteriormente em outros contextos, como com a balança de pratos.\n"
+"\n"
+"**Exemplo:** Suponha que você só tenha a tecla 1 e possa apenas somar ou dobrar. Por exemplo, 2 x (2 x 1) + 1 é igual a 5. Quais outros números você pode criar?\n"
+"\n"
+"**Exemplo:** Um desafio divertido é o desafio dos quatro 4's. Suponha que você tenha uma calculadora com apenas a tecla 4, com todas as operações funcionando. Começando de 1, quantos números você pode criar se precisar usar exatamente quatro 4's no seu trabalho na calculadora?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "PEGANDO FATORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**A configuração:** Use um tabuleiro com uma grade de 4 por 6 e números de 1 a 24.\n"
+"\n"
+"**Como jogar:** Em um turno, o jogador escolhe um número que esteja descoberto e tenha pelo menos um fator descoberto – o jogador fica com o número selecionado e o outro jogador fica com qualquer um ou todos os fatores descobertos (a escolha é deles quantos pegar). O jogo alterna até que não haja mais números válidos.\n"
+"\n"
+"**Como ganhar:** Os jogadores somam seus números e a maior soma vence.\n"
+"\n"
+"**Coletor de Impostos solitário:** Este também pode ser jogado como um quebra-cabeça solitário, chamado Coletor de Impostos. O único jogador seleciona cada número e o coletor de impostos fica com todos os fatores disponíveis. O jogo continua até que o jogador não tenha mais um movimento válido. Nesse ponto, o coletor de impostos recebe os números restantes. O objetivo é ter a maior soma possível – maior que a do coletor de impostos quando isso for possível."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "Defina o intervalo de números de acordo com o nível de habilidade dos jogadores. Pode ser de 1 a 12, ou até de 1 a 60."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "BOLA DE BILHAR SALTITANTE"
 
 #. type=data_list
 msgctxt "data_list"
