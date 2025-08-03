@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-03 03:44\n"
+"PO-Revision-Date: 2025-08-03 04:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10778,6 +10778,638 @@ msgstr "Embora a multiplicação por 9 seja abordada pela última estratégia, �
 msgctxt "data_list"
 msgid "MAKING 100"
 msgstr "FAZENDO 100"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player has a sheet of paper with 7 rows and 3 columns. The columns are marked “10’s,” “1’s,” and “Running Total.”\n"
+"\n"
+"**How to play:** Each player’s running total starts at 0. Roll a die or pick a random playing card from 1 to 9. Each player chooses to use this number in their 1’s or 10’s column for the current row. For example, if it is a 4, this can become 4 or 40. The chosen number is added to the running total.\n"
+"\n"
+"**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
+msgstr ""
+"**A configuração:** Cada jogador tem uma folha de papel com 7 linhas e 3 colunas. As colunas são marcadas como “10’s,” “1’s” e “Total Acumulado.”\n"
+"\n"
+"**Como jogar:** O total acumulado de cada jogador começa em 0. Lance um dado ou escolha uma carta de baralho aleatória de 1 a 9. Cada jogador decide usar este número na coluna de 1’s ou 10’s para a linha atual. Por exemplo, se o número for 4, ele pode ser considerado como 4 ou 40. O número escolhido é adicionado ao total acumulado.\n"
+"\n"
+"**Como ganhar:** Um jogador que ultrapassa o alvo de 100 “estoura” e perde. Se nenhum jogador ultrapassar, vence aquele que estiver mais próximo de 100."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many options for this game:\n"
+"\n"
+"* Use a different target number\n"
+"* Use fewer or more rows.\n"
+"* Don’t go bust if you go over the target. The closer player on either side wins. \n"
+"* Use a fourth column of 100’s to practice 3-digit numbers.\n"
+"* Practice subtraction by starting at the target number and subtract down to 0."
+msgstr ""
+"Há muitas opções para este jogo:\n"
+"\n"
+"* Use um número-alvo diferente.\n"
+"* Use menos ou mais linhas.\n"
+"* Não perca se ultrapassar o número-alvo. O jogador mais próximo, de qualquer lado, vence.\n"
+"* Adicione uma quarta coluna de \"100’s\" para praticar números de 3 dígitos.\n"
+"* Pratique subtração começando pelo número-alvo e subtraindo até chegar a 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAKE YOUR CLAIM"
+msgstr "MARQUE SEU TERRITÓRIO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value and Addition Games"
+msgstr "Jogos de Valor Posicional e Adição"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have a paper with a number line from 0 to 99 to share.\n"
+"\n"
+"**How to play:** On a turn, a player uses two random cards from 0 to 9, choosing the order of these two digits, to generate a number from 00 to 99, and then puts that number on their side of the number line.\n"
+"\n"
+"**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
+msgstr ""
+"**A configuração:** Tenha um papel com uma reta numérica de 0 a 99 para compartilhar.\n"
+"\n"
+"**Como jogar:** Em sua vez, um jogador utiliza duas cartas aleatórias de 0 a 9, escolhendo a ordem desses dois dígitos, para gerar um número de 00 a 99, e então coloca esse número no seu lado da reta numérica.\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a obter quatro números em uma região sem nenhum número do oponente entre eles vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variation"
+msgstr "Variação"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The game can also be played from 000 to 999."
+msgstr "O jogo também pode ser jogado de 000 a 999."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BONDED GROUPS"
+msgstr "GRUPOS VINCULADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two versions of these puzzles."
+msgstr "Há duas versões desses quebra-cabeças."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
+msgstr "**Versão 1:** Esta é igual aos quebra-cabeças de Grupos de Soma do Estágio 3, mas agora as somas-alvo podem ser maiores. Os tabuleiros podem ter qualquer tamanho, e aqui usamos um tabuleiro de 4 por 4. O número-alvo está à esquerda, que neste caso é 13."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
+msgstr "**O desafio:** Identificar grupos de números conectados cuja soma seja o número-alvo (13)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
+msgstr "**Versão 2:** Aqui está um exemplo de um tabuleiro de 4 por 4 com um número-alvo de 20. Como nos Grupos de Soma, o tabuleiro é preenchido com pares e trios de números que somam o número-alvo. No entanto, agora haverá um quadrado que não faz parte de nenhum desses grupos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
+msgstr "**O desafio:** O desafio é encontrar o único quadrado que contém esse número. Neste exemplo, é o '5.'"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MISSING NUMBERS"
+msgstr "NÚMEROS FALTANTES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Create these puzzles by taking a simple addition or subtraction equation and leaving out some of the digits. If you accidentally leave out too many numbers, that can open up a discussion of what all the possible solutions are – for example, if you start with 2 + 5 = 7 and leave out the first and third numbers, there are many solutions to ? + 5 = ?\n"
+"\n"
+"**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
+msgstr ""
+"**Como criar:** Crie esses quebra-cabeças a partir de uma equação simples de adição ou subtração, deixando de fora alguns dos dígitos. Se você acidentalmente omitir muitos números, isso pode abrir uma discussão sobre todas as possíveis soluções – por exemplo, se você começar com 2 + 5 = 7 e omitir o primeiro e o terceiro números, haverá muitas soluções para ? + 5 = ?\n"
+"\n"
+"**Exemplo:** Os dois problemas a seguir se transformam em quebra-cabeças de Números Faltantes ao deixar de fora alguns dígitos em cada um."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
+msgstr "**Quebra-cabeças de substituição de letras:** Esses quebra-cabeças de números faltantes formam uma etapa muito compreensível para começar a usar variáveis simples. Após se familiarizar com esses quebra-cabeças, seu filho estará pronto para resolver alguns quebra-cabeças de Substituição de Letras que serão descritos mais adiante nesta etapa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS REVISITED"
+msgstr "PREENCHA AS LACUNAS REVISITADAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Place Value, Add, and Subtract"
+msgstr "Colocar Valor, Adicionar e Subtrair"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9. Decide on which version of this game to play and make a game board for each person. One person is designated the dealer.\n"
+"\n"
+"The game boards can be as simple as two blanks to fill in to form 2-digit numbers. In this case the winner is the person with the largest number (or the smallest number, if you prefer). You can have zero, one, or two discard blanks for numbers not to be used.\n"
+"\n"
+"More complicated game boards can involve one or more 2-digit, 3-digit, or 4-digit numbers. The task may be to add up the numbers, or perhaps to take their difference. For adding, you might want to maximize the sum without going over some agreed upon limit. For subtracting, you might want it to be as small as possible without going below 0. There are a large number of possibilities which give you many ways to practice skills. \n"
+"\n"
+"**How to play:** The dealer draws random cards one at a time. The players decide where on their game board they will use that number. After deciding, the placement of that number cannot be changed for the remainder of the game.\n"
+"\n"
+"**How to win:** When the game boards are filled, the player who does the best job of achieving the objective wins."
+msgstr ""
+"**A preparação:** Embaralhe um baralho de cartas com números de 1 a 9. Decida em qual versão deste jogo jogar e faça um tabuleiro de jogo para cada pessoa. Uma pessoa será designada como a distribuidora das cartas.\n"
+"\n"
+"Os tabuleiros do jogo podem ser simples como dois espaços em branco para preencher e formar números de 2 dígitos. Neste caso, a pessoa com o maior número (ou com o menor número, se preferir) será a vencedora. Você pode ter zero, um ou dois espaços em branco para eliminar os números que não sejam usados.\n"
+"\n"
+"Tabuleiros de jogo mais complicados podem combinar um ou mais números de 2 dígitos, 3 dígitos ou 4 dígitos. A tarefa pode ser somar os números ou talvez tirar a diferença entre eles. Para adicionar, você pode querer maximizar a soma sem ultrapassar um limite acordado. Para subtrair, você pode querer que ele seja o menor possível sem ficar abaixo de 0. Há um grande número de possibilidades que lhe dão muitas maneiras de praticar as habilidades.\n"
+"\n"
+"**Como jogar:** O(a) distribuidor(a) compra cartas aleatórias uma de cada vez. Os jogadores decidem onde usarão esse número em seu tabuleiro de jogo. Depois de decidir, esse número não pode ser alterado pelo restante do jogo.\n"
+"\n"
+"**Como ganhar:** Quando os tabuleiros estiverem cheios, quem tiver feito o melhor trabalho para alcançar o objetivo vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Play that the smaller number wins.\n"
+"* Decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"* Deal three cards to each player and let the players choose which one to put aside.\n"
+"* To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"* Jogue para que o número menor ganhe.\n"
+"* Decida se é melhor mostrar as cartas à medida que são viradas ou esperar até que todas as decisões sejam tomadas e os números finais estejam formados.\n"
+"* Distribua três cartas para cada um e deixe os jogadores escolherem qual delas deixarão de lado.\n"
+"* Para praticar um pouco de adição, bem como tornar as decisões mais complicadas, compre três cartas e vire uma de cada vez para formar um número de dois dígitos e um número de um dígito. O objetivo é criar a maior soma dos dois números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING MULTIPLICATION CARDS"
+msgstr "CRIE CARTAS DE MULTIPLICAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a set of multiplication cards to practice these math facts while playing matching games your family played earlier: Stage 1 - Go Fish, Memory Challenge; Stage 2 - Bingo; Stage 3 - Hot Potato; and Stage 4 - Gin Rummy.\n"
+"\n"
+"**How to create:** Hand draw four cards for each math fact. These are the four cards for 3 × 4."
+msgstr ""
+"Crie um conjunto de cartas de multiplicação para praticar esses conceitos matemáticos enquanto joga os jogos de correspondência que sua família jogou anteriormente: Estágio 2 - Vá Pescar, Desafio da Memória, Bingo; Estágio 3 - Batata Quente; e Estágio 4 - Gin Rummy.\n"
+"\n"
+"**Como criar:** Desenhe à mão quatro cartas para cada fato matemático."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* the expression \n"
+"* groups of objects\n"
+"* an array\n"
+"* prime factoring"
+msgstr ""
+"* a expressão \n"
+"* grupos de objetos\n"
+"* uma matriz\n"
+"* fatoração primária"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Options:** One option is to include 3 × 4 and not include 4 × 3. This has the drawback that seeing 3 groups of 4 is different from seeing 4 groups of 3.\n"
+"\n"
+"For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
+msgstr ""
+"**Opções:** Uma opção é incluir 3 x 4 e não incluir 4 x 3. O ponto negativo disso é que visualizar 3 grupos de 4 é diferente de visualizar 4 grupos de 3.\n"
+"\n"
+"Para as cartas de matriz, coloque o número de pulos da contagem ao longo de um ou ambos os lados para ajudar seu filho a praticar a contagem pulando números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
+msgstr "Para as cartas de expressão, substitua cada número pelo símbolo de fatoração primária correspondente. Isso torna mais fácil enxergar como as fatorações primárias se encaixam ao multiplicar dois números."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVEALING PRODUCTS"
+msgstr "REVELANDO PRODUTOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Cards and Tables"
+msgstr "Cartas e Tabelas de Multiplicação"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Use a blank table with 4 product rows and columns. There are also groups of four missing numbers at the top and left sides – these will have some of the numbers, possibly with duplication, from 2 to 9. Fill in the table out of sight of your child, and then flip over or cover the numbers.\n"
+"\n"
+"**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
+msgstr ""
+"**Como criar:** Use uma tabela em branco com 4 linhas e colunas de produtos. Há também grupos de quatro números faltantes na parte superior e nas laterais – esses números serão alguns dos números, possivelmente com repetições, de 2 a 9. Preencha a tabela fora da vista do seu filho e, em seguida, vire ou cubra os números.\n"
+"\n"
+"**O desafio:** Seu filho pode pedir para revelar, um de cada vez, até 10 das 16 entradas de produtos. O objetivo é descobrir os números das partes superior e lateral antes de esgotar as tentativas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
+msgstr "**Exemplo:** Imagine que todas as cartas estão viradas para baixo neste exemplo. Se seu filho escolher virar a carta que tem o 63 embaixo, ele saberá que veio de 7 e 9. Virar qualquer outra carta na mesma linha ou coluna do 63 mostraria onde estão o 7 e o 9. Suponha que a segunda carta que eles viraram seja o 56. A terceira coluna deve ser 7, e também a segunda linha é 9 e a terceira linha é 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER FACTORS AND MULTIPLES"
+msgstr "COBRINDO FATORES E MÚLTIPLOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Have a board of numbers from 1 to 24. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens."
+msgstr "**A configuração:** Tenha um tabuleiro de números de 1 a 24. Existem dois tipos de fichas – uma peça reservada para “a última jogada” e uma pilha de outras fichas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** The first player gets to pick any number and cover it with the last move token. After that, a player replaces the last move token with the other type of token and moves the last move token to any number that is a factor or multiple of the number from the last move.\n"
+"\n"
+"**How to win:** The losing player is the one forced to cover the number 1.\n"
+"\n"
+"**Example:** This board shows the middle of a game that started 10 -> 5 -> 15 -> 3."
+msgstr ""
+"**Como jogar:** O primeiro jogador escolhe qualquer número e o cobre com a ficha da última jogada. Depois disso, o jogador substitui a ficha da última jogada por outro tipo de ficha e move a ficha da última jogada para qualquer número que seja um fator ou múltiplo do número da última jogada.\n"
+"\n"
+"**Como ganhar:** O jogador perdedor é aquele que for forçado a cobrir o número 1.\n"
+"\n"
+"**Exemplo:** Este tabuleiro mostra o meio de um jogo que começou 10 -> 5 -> 15 -> 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As children get better at this game, they will discover rules they need to follow governing reasonable first moves. The most basic rule is that the first move cannot be on a prime number in the upper half of the numbers.\n"
+"\n"
+"Adjust the range of numbers to the skill level of the players – 1 to 30, 1 to 48, or 1 to 60."
+msgstr ""
+"À medida que as crianças melhoram neste jogo, elas descobrirão regras que governam os primeiros movimentos razoáveis. A regra mais básica é que o primeiro movimento não pode ser em um número primo na metade superior dos números.\n"
+"\n"
+"Ajuste o intervalo de números de acordo com o nível de habilidade dos jogadores – de 1 a 30, de 1 a 48 ou de 1 a 60."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH FACTORS"
+msgstr "NIM COM FATORES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with any number, say 20. Let your child decide whether to go first or second. How to play: During their turn, a player may subtract any divisor of the current number from the number. For example, starting at 20, the first player can subtract 1, 2, 4, 5, or 10 for their first move.\n"
+"\n"
+"**How to win:** The player forced to 0 loses."
+msgstr ""
+"**A configuração:** Escolha qualquer número, digamos 20. Deixe seu filho decidir se vai jogar primeiro ou segundo.\n"
+"\n"
+"**Como jogar:** Durante a vez de um jogador, ele pode subtrair qualquer divisor do número atual. Por exemplo, começando com 20, o primeiro jogador pode subtrair 1, 2, 4, 5 ou 10 em sua primeira jogada.\n"
+"\n"
+"**Como ganhar:** O jogador forçado a chegar em 0 perde."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy"
+msgstr "Estratégia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for always winning - once they discover it, see if they can explain why it works."
+msgstr "Depois que seu filho se familiarizar com o jogo, incentive-o a procurar pela estratégia extremamente simples para ganhar sempre - uma vez que ele descobrir, veja se ele consegue explicar por que funciona."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIEVE OF ERATOSTHENES"
+msgstr "CRIVO DE ERATÓSTENES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding Primes"
+msgstr "Encontrando Primos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Children have fun putting in X’s and watching primes fall through this sieve. This investigation\n"
+"creates opportunities for discovering many interesting properties of divisibility and primes. \n"
+"\n"
+"Start with a number line numbered from 1 to 25 (or larger if space and patience allows). \n"
+"\n"
+"Write the number 2 below itself. On this new line put X’s below each multiple of 2.\n"
+"\n"
+"Next, pull down the lowest number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples."
+msgstr ""
+"Crianças se divertem colocando X’s e vendo os números primos caírem por essa peneira. Esta investigação cria oportunidades para descobrir muitas propriedades interessantes de divisibilidade e números primos.\n"
+"\n"
+"Comece com uma linha numérica com números de 1 a 25 (ou maior, se houver espaço e paciência).\n"
+"\n"
+"Escreva o número 2 abaixo de si mesmo. Nesta nova linha, coloque X’s abaixo de cada múltiplo de 2.\n"
+"\n"
+"Em seguida, puxe para baixo o menor número sem X’s abaixo dele (3 neste caso) e coloque-o na próxima linha. Escreva o 3 e coloque X’s nessa linha para todos os seus múltiplos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Keep pulling down numbers and marking their multiples.\n"
+"\n"
+"When you are finished, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!"
+msgstr ""
+"Continue puxando os números para baixo e marcando seus múltiplos.\n"
+"\n"
+"Quando terminar, você terá puxado todos os números primos. Lembre-se de que 1 é uma unidade e não um primo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Discuss these questions with your child as they play with the sieve:\n"
+"\n"
+"* Why are primes the numbers the numbers that are pulled down?\n"
+"* What is the last prime whose multiples you need to cross out? Why were the other\n"
+"primes not useful?\n"
+"* For all the primes that were useful, which of their multiples produced new restrictions\n"
+"and which were not useful? Is there a pattern in that answer?\n"
+"* If you had a number, say 53, which prime numbers would you need to divide it by to\n"
+"confirm that it’s a prime?"
+msgstr ""
+"Discuta estas questões com seu filho enquanto eles brincam com o crivo:\n"
+"\n"
+"* Por que os números primos são os números que são puxados para baixo?\n"
+"* Qual é o último número primo cujos múltiplos você precisa riscar? Por que os outros primos não foram úteis?\n"
+"* Para todos os primos que foram úteis, quais de seus múltiplos geraram novas restrições e quais não foram úteis? Existe um padrão nessa resposta?\n"
+"* Se você tivesse um número, digamos 53, por quais números primos você precisaria dividi-lo para confirmar que ele é primo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MIX IT UP"
+msgstr "MISTURE TUDO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use numbered cards from 1 to 25, or a range your child is comfortable with.\n"
+"\n"
+"**How to play:** A card is selected at random and used as everyone’s target number. That card is returned to the deck. Each player is dealt five cards to be used, in any order and with any operations, to get as close as possible to the target number.\n"
+"\n"
+"**Examples:** Suppose the target number is 14, and you are dealt 3, 6, 12, 17, and 20. 17 - 3 or 20 - 6 work, but only use two cards. 20 - 12 + 6 uses three cards. 17 x (6 / 3) - 20 or 20 - (12 /  (6  /  3)) use four cards, so that's an improvement, if you're trying to use all the cards. Can you find a way to use all five?"
+msgstr ""
+"**A configuração:** Use cartas numeradas de 1 a 25, ou um intervalo com o qual seu filho se sinta confortável.\n"
+"\n"
+"**Como jogar:** Uma carta é selecionada aleatoriamente e usada como o número-alvo para todos. Essa carta é devolvida ao baralho. Cada jogador recebe cinco cartas que devem ser usadas, em qualquer ordem e com qualquer operação, para chegar o mais próximo possível do número-alvo.\n"
+"\n"
+"**Exemplos:** Suponha que o número-alvo seja 14, e você tenha recebido as cartas 3, 6, 12, 17 e 20. 17 - 3 ou 20 - 6 funcionam, mas usam apenas duas cartas. 20 - 12 + 6 usa três cartas. 17 x (6 / 3) - 20 ou 20 - (12 / (6 / 3)) usam quatro cartas, então isso é uma melhoria, caso queira usar todas as cartas. Você consegue encontrar uma maneira de usar todas as cinco?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring options"
+msgstr "Opções de pontuação"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are several options for scoring, and you may think of your own.\n"
+"\n"
+"* 1 point to each player who hits the target. Total over several rounds.\n"
+"* A player's score for a round is the difference between their result and the target. The\n"
+"scores are totaled over several rounds, and the lowest total score wins.\n"
+"* A player earns twice as many points as the number of cards they use to reach the target; a player receives 5 points for hitting the target with help; and a player receives\n"
+"6 points for helping someone hit the target."
+msgstr ""
+"Existem várias opções de pontuação, e você pode pensar em outras por conta própria.\n"
+"\n"
+"* 1 ponto para cada jogador que atingir o número-alvo. Totalize ao longo de várias rodadas.\n"
+"* A pontuação de um jogador para uma rodada é a diferença entre o seu resultado e o alvo. As pontuações são somadas ao longo de várias rodadas, e o total de menor pontuação vence.\n"
+"* Um jogador ganha o dobro de pontos do número de cartas que usa para atingir o alvo; um jogador recebe 5 pontos por atingir o alvo com ajuda; e um jogador recebe 6 pontos por ajudar alguém a atingir o alvo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PARENTHESES PUZZLES"
+msgstr "QUEBRA-CABEÇAS DE PARÊNTESES"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Take an expression, such as \n"
+"\n"
+"2 + 7 × 5 − 2 × 2\n"
+"\n"
+"and add parentheses to it so that a target result, say 9, is obtained.\n"
+"\n"
+"**How to create:** These are easy to create and tailor to you child's skill set. Take any equation, in our case \n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+"and then remove the parentheses. It's as simple as that! \n"
+"\n"
+"Use the operations and numbers that your child is comfortable with. Use shorter expressions and fewer parentheses to make simpler puzzles."
+msgstr ""
+"**O desafio:** Considere uma expressão, como \n"
+"\n"
+"2 + 7 \\times 5 - 2 \\times 2\n"
+"\n"
+"e adicione parênteses nela de forma que o resultado final seja o alvo, digamos 9, é obtido.\n"
+"\n"
+"**Como criar:** Estes são fáceis de criar e ajustar ao nível de habilidade do seu filho. Pegue qualquer equação, neste caso\n"
+"\n"
+"9 = (2 + 7) \\times (5 - 2 \\times 2)\n"
+"\n"
+"e depois remova os parênteses. É tão simples quanto isso!\n"
+"\n"
+"Use as operações e números com os quais seu filho se sinta confortável. Utilize expressões mais curtas e menos parênteses para criar quebra-cabeças mais simples."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SECRET OPS"
+msgstr "OPERAÇÕES SECRETAS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Near the end of Stage 4, the Sum Difference activity had one person think of two numbers and then challenge the other person to find the numbers by telling them the sum and difference of the numbers. Secret Ops uses the same idea, only now the challenger can use any two operations, such as multiplying and subtracting.\n"
+"\n"
+"**Examples:** The challenger might say “Which two numbers have a product of 12 and a difference of 4?” You can extend this to three numbers, if you like - “Which three numbers have a product of 12 and a sum of 8?”"
+msgstr ""
+"Perto do final da Etapa 4, a atividade Diferença de Soma tinha uma pessoa pensando em dois números e desafiando a outra pessoa a encontrar os números informando a soma e a diferença dos números. Operações Secretas usa a mesma ideia, só que agora o desafiador pode usar quaisquer duas operações, como multiplicação e subtração.\n"
+"\n"
+"**Exemplos:** O desafiador pode dizer “Quais dois números têm um produto de 12 e uma diferença de 4?” Você pode expandir isso para três números, se preferir – “Quais três números têm um produto de 12 e uma soma de 8?”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LEVER BALANCE"
+msgstr "EQUILÍBRIO DA ALAVANCA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mixed Operations"
+msgstr "Operações Mistas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Levers:** Use the lever principle to practice multiplication and addition. The principle says that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
+msgstr "**Alavancas:** Use o princípio da alavanca para praticar multiplicação e adição. O princípio diz que a força exercida por uma massa de um lado de uma alavanca é igual à massa multiplicada pela sua distância do ponto de apoio, o fulcro. As forças de vários objetos de um lado somam-se para dar a força total. As forças totais dos dois lados devem ser iguais para que a alavanca fique equilibrada."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Examples:** You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be distances 5 and 3, but it can also be 10 and 6, or even larger answers like 15 and 9.\n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? What if the two weights are on different sides of the lever? This question continues the questions on the Make It Count page at the end of Stage 4."
+msgstr ""
+"**Exemplos:** Você tem um peso de 3 unidades e um peso de 5 unidades para colocar em lados opostos do fulcro. Onde eles devem ser colocados para equilibrar? A resposta para isso pode ser distâncias 5 e 3, mas também pode ser 10 e 6, ou até respostas maiores como 15 e 9.\n"
+"\n"
+"Se você tem um peso de 3 unidades e um peso de 5 unidades para colocar de um lado de uma alavanca, quais pesos você pode colocar em quais distâncias do outro lado? E se os dois pesos estiverem em lados diferentes da alavanca? Esta pergunta continua as perguntas na página Contando pra Valer no final da Etapa 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BEEP"
+msgstr "BEEP"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Put the players in a circle. Start by identifying a group of numbers to use for a round of the game. Choose any group of numbers that would be fun or that provide practice with a concept. Some standard choice are:\n"
+"\n"
+"* odd numbers or even numbers\n"
+"* multiples of 3 (or some other number)\n"
+"* multiples of 3 together with multiples of 7\n"
+"* multiples of 3 that are not multiples of 5\n"
+"* multiples of 3 together with numbers that have the digit 3 in them \n"
+"* prime numbers\n"
+"\n"
+"**How to play:** Going around the circle, the players take turns saying the numbers starting at 1. When a player has a number in the group, they must say 'beep' instead of the number. If a player fails to say beep, or says beep for an incorrect number, they’re out.\n"
+"\n"
+"**How to win:** The last player remaining in wins!"
+msgstr ""
+"**A configuração:** Ponha os jogadores em um círculo. Comece identificando um grupo de números a ser usado para uma rodada do jogo. Escolha qualquer grupo de números que seja divertido ou que proporcione prática com um conceito. Algumas escolhas padrão são:\n"
+"\n"
+"* números ímpares ou pares\n"
+"* múltiplos de 3 (ou outro número)\n"
+"* múltiplos de 3 junto com múltiplos de 7\n"
+"* múltiplos de 3 que não são múltiplos de 5\n"
+"* múltiplos de 3 junto com números que têm o dígito 3 neles\n"
+"* números primos\n"
+"\n"
+"**Como jogar:** Andando pelo círculo, os jogadores se revezam dizendo os números começando de 1. Quando um jogador tiver um número no grupo, ele deve dizer \"beep\" em vez do número. Se um jogador falhar em dizer \"beep\", ou disser \"beep\" para um número incorreto, ele está fora.\n"
+"\n"
+"**Como ganhar:** O último jogador restante vence!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 IN A ROW"
+msgstr "3 EM LINHA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9, or use four sets of Number Cards from 0 to 9. Use a 4 by 5 grid on a paper with 20 spaces randomly filled out with multiples of 5 and 10. Have a set of tokens for each player.\n"
+"\n"
+"**How to play:** Select a random card and put your token on that number times 5 or 10 - your choice. Once occupied, the other player cannot move there.\n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**A configuração:** Use um baralho de cartas com Q’s (como 0’s), A’s (como 1’s) e 2-9, ou use quatro conjuntos de Cartas Numéricas de 0 a 9. Use uma grade 4 por 5 em um papel com 20 espaços preenchidos aleatoriamente com múltiplos de 5 e 10. Tenha um conjunto de fichas para cada jogador.\n"
+"\n"
+"**Como jogar:** Selecione uma carta aleatória e coloque sua ficha naquele número vezes 5 ou 10 – à sua escolha. Uma vez ocupado, o outro jogador não pode se mover para lá.\n"
+"\n"
+"**Como ganhar:** O primeiro jogador a fazer 3 em linha vence."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The numbers 5 and 10 can be replaced by other pairs such as 2 and 4, or 3 and 6. These pairings help with practicing doubling strategies for multiplication. For example, if the player does not know 6 × 7, they can double 3 × 7."
+msgstr "Os números 5 e 10 podem ser substituídos por outros pares, como 2 e 4, ou 3 e 6. Esses pares ajudam a praticar estratégias de duplicação para multiplicação. Por exemplo, se o jogador não souber 6 x 7, ele pode duplicar 3 x 7."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – MULTIPLICATION"
+msgstr "GUERRA – MULTIPLICAÇÃO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck and split it evenly between two players. To give more focused practice, remove the A’s and 10’s as well.\n"
+"\n"
+"**How to play:** Each player turns over two cards, multiplies them, and the player with the larger product wins those four cards. If the products are equal, two more cards are turned over and the winner gets to keep all eight cards.\n"
+"\n"
+"**How to win:** The player with the most cards after playing for a set time is the winner."
+msgstr ""
+"**A configuração:** Remova as cartas de figuras de um baralho e divida-o igualmente entre dois jogadores. Para dar uma prática mais focada, remova também as cartas de A’s e 10’s.\n"
+"\n"
+"**Como jogar:** Cada jogador vira duas cartas, multiplica-as, e o jogador com o maior produto ganha as quatro cartas. Se os produtos forem iguais, duas cartas adicionais são viradas e o vencedor fica com todas as oito cartas.\n"
+"\n"
+"**Como ganhar:** O jogador com mais cartas após jogar por um tempo determinado é o vencedor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TURNING THE TABLES"
+msgstr "VIRANDO A MESA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Tables"
+msgstr "Multiplicação e Tabelas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Filling in a standard multiplication table is boring, and children quickly realize they can fill it using repeated addition rather than multiplication. To really practice multiplication, as well as practicing problem solving and factoring, create a mixed-up multiplication table.\n"
+"\n"
+"**How to create:** Make these tables by moving the rows and columns around, and then leaving out most of the headings and entries in the middle.\n"
+"\n"
+"**Example:** Here is an example using headings of 2 through 9:"
+msgstr ""
+"Preencher uma tabela de multiplicação padrão é entediante, e as crianças rapidamente percebem que podem preenchê-la usando adição repetida em vez de multiplicação. Para realmente praticar multiplicação, além de praticar resolução de problemas e fatoração, crie uma tabela de multiplicação embaralhada.\n"
+"\n"
+"**Como criar:** Faça essas tabelas movendo as linhas e colunas, e depois deixe de fora a maior parte dos cabeçalhos e entradas no meio.\n"
+"\n"
+"**Exemplo:** Aqui está um exemplo usando os cabeçalhos de 2 a 9:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to solve:** Start with the distinctive entries.\n"
+"\n"
+"The 20 forces its row to be multiplying by 4, and then the 36 makes its column be 9.\n"
+"\n"
+"The 49 forces its column and row to be multiplying by 7. The 9 forces its column and row to be multiplying by 3."
+msgstr ""
+"**Como resolver:** Comece pelas entradas distintas.\n"
+"\n"
+"O 20 força sua linha a ser multiplicada por 4, e então o 36 faz com que sua coluna seja multiplicada por 9.\n"
+"\n"
+"O 49 força sua coluna e linha a serem multiplicadas por 7. O 9 força sua coluna e linha a serem multiplicadas por 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue the detective work in this way and fill in the entries as the headings are discovered."
+msgstr "Continue o trabalho de detetive dessa maneira e preencha as entradas à medida que os cabeçalhos forem descobertos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Level of difficulty:** Increase or decrease the difficulty by leaving out more or less of the numbers. In this example, the '5' in the 5 column could have been left out – there must be a factor of 5 in 20, and that factor cannot come from 20's row because there is a 36 in that row.\n"
+"\n"
+"**Your child can make them:** Challenge your child to make one of these puzzles for you. A lot of good thought can go into creating one of these!"
+msgstr ""
+"**Nível de dificuldade:** Aumente ou diminua a dificuldade omitindo mais ou menos números. Neste exemplo, o '5' na coluna 5 poderia ter sido omitido – deve haver um fator de 5 no 20, e esse fator não pode vir da linha do 20 porque há um 36 nessa linha.\n"
+"\n"
+"**Seu filho pode criar:** Desafie seu filho a criar um desses quebra-cabeças para você. Um bom raciocínio pode ser muito utilizado na criação de um desses!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "RECTANGLE AREA"
+msgstr "ÁREA DO RETÂNGULO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The area of a rectangle is its length times its width. That dry statement can be made tangible to your child in at least two ways."
+msgstr "A área de um retângulo é seu comprimento vezes sua largura. Essa declaração teórica pode ser tornada tangível para seu filho de pelo menos duas maneiras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangle Area"
+msgstr "Área do Retângulo"
 
 #. type=data_list
 msgctxt "data_list"
