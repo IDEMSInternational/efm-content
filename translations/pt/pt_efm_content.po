@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-02 23:35\n"
+"PO-Revision-Date: 2025-08-03 03:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10636,6 +10636,148 @@ msgstr ""
 "**Pergunta 5:** O que acontece se você usar pesos únicos na progressão tripla 1, 3, 9 e 27? Quais coisas você pode pesar se permitir esses pesos em ambos os lados?\n"
 "\n"
 "**Pergunta 6:** O que acontece se os pesos forem os números de Fibonacci? Existe mais de uma maneira de pesar alguns pesos? Encontre uma restrição nos pesos de Fibonacci para que haja apenas uma maneira de obter cada peso."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "Etapa 5 – Eu Posso Contar até 100!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Introduction"
+msgstr "Etapa 5 – Introdução"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child can now count to 100! They can comfortably do mental single-digit addition and subtraction. They can also count or skip count up or down by any number, and tied to that skill is their ability to add or subtract a single-digit number with a double-digit number. They can compare two double-digit numbers, and they have a beginning sense of place value with 10’s and 1’s.\n"
+"\n"
+"As their skip counting is improving, they are also developing skills with multiplying by 2, 3, 4, 5, and 10. The idea of even and odd numbers now makes a lot more sense to them.\n"
+"\n"
+"Extend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
+msgstr ""
+"**Onde Você Já Chegou**\n"
+"\n"
+"Seu filho agora consegue contar até 100! Ele consegue realizar confortavelmente adições e subtrações mentais de números de um dígito. Ele também pode contar ou pular a contagem para cima ou para baixo por qualquer número e, atrelada a essa habilidade, está a capacidade de adicionar ou subtrair um número de um dígito de um número de dois dígitos. Ele consegue comparar dois números de dois dígitos e já tem um senso inicial de valor posicional com as dezenas e unidades.\n"
+"\n"
+"Conforme melhora a habilidade de contagem pulando números, ele também está desenvolvendo competências em multiplicar por 2, 3, 4, 5 e 10. A ideia de números pares e ímpares agora faz muito mais sentido para ele.\n"
+"\n"
+"Amplie as atividades das etapas anteriores para incluir esses números maiores: Etapa 3: Somas com Formas, Subindo; Etapa 4: Guerra - Adição e Subtração com Dois Dígitos, DifTriângulos e SomaTriângulos, Conserte Isso, Pulando de Ilha em Ilha por 1’s e 10’s, Preencha os Espaços em Branco - Comparações, Quadrado de Soma e Pirâmide de Adição."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New ideas for this stage"
+msgstr "Novas Ideias nesta Etapa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 200 – Introduce the 100’s place by looking at the numbers from 100 to 200.\n"
+"* Skip Counting to 100 – This is not new, but it is an important skill to reinforce.\n"
+"* Expanded Form and Place Value – This is a foundational skill, so it will be reinforced further.\n"
+"* Double-digit Addition and Subtraction – Skip counting will help make this seem effortless.\n"
+"* All Single-digit Multiplication – It is time to fill in the missing gaps for 6, 7, 8, and 9.\n"
+"* Rectangle Area is Length x Width – This is an important idea in its own right. This fact will also provide many opportunities for fun games and puzzles involving multiplication and factoring.\n"
+"* Factoring – Your child will learn the beauty of how numbers break apart into factors. 1 is a unit. A number bigger than 1 only divisible by 1 and itself is prime. A number bigger than 1 that is not prime is composite. 3 **squared** is 3 × 3. 3 **cubed** is 3 × 3 × 3. And 3 raised to a power means to multiply 3 by itself that many times - for example, 3 to the fourth is 3 × 3 × 3 × 3.\n"
+"* Factors, Divisors, and Multiples – 3 divides evenly into 12. That makes 3 a factor or divisor of 12, and 12 a multiple of 3. 3 is a common factor of 12 and 15, and 12 is a common multiple of 4 and 6.\n"
+"* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
+"* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
+msgstr ""
+"* Contando até 200 – Introduza a casa das centenas observando os números de 100 a 200.\n"
+"* Contagem Pulando Números até 100 – Isso não é novo, mas é uma habilidade importante a ser reforçada.\n"
+"* Forma Expandida e Valor Posicional – Esta é uma habilidade fundamental, então será reforçada ainda mais.\n"
+"* Adição e Subtração com Dois Dígitos – Contagem pulando números ajudará a tornar isso mais fácil.\n"
+"* Toda a Multiplicação de Um Dígito – É o momento de preencher as lacunas que faltam para os números 6, 7, 8 e 9.\n"
+"* A Área de um Retângulo é Comprimento x Largura – Esta é uma ideia importante por si só. Este conceito também proporcionará muitas oportunidades para jogos e puzzles divertidos envolvendo multiplicação e fatorização.\n"
+"* Fatorização – A criança irá aprender a beleza de como os números se decompõem em fatores. 1 é uma unidade. Um número maior do que 1, que só é divisível por 1 e por ele próprio, é primo. Um número maior do que 1 que não é primo é composto. 3 ao quadrado é 3 x 3. 3 ao cubo é 3 x 3 x 3. E 3 elevado a uma potência significa multiplicar 3 por ele próprio esse número de vezes – por exemplo, 3 à quarta potência é 3 x 3 x 3 x 3.\n"
+"* Fatores, Divisores e Múltiplos – 3 divide exatamente 12. Isso faz de 3 um fator ou divisor de 12, e de 12 um múltiplo de 3. 3 é um fator comum de 12 e 15, e 12 é um múltiplo comum de 4 e 6.\n"
+"* Divisão de Um Dígito – A criança irá aprender a divisão de forma indireta, encontrando o fator que falta num problema de multiplicação.\n"
+"* Famílias de Fatos para Multiplicação e Divisão – Vamos reforçar a ligação entre estas duas operações. Por exemplo, 2 x 5 = 10, 5 x 2 = 10, 10 / 2 = 5 e 10 / 5 = 2 formam uma família de fatos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MENTAL MULTIPLICATION"
+msgstr "MULTIPLICAÇÃO MENTAL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
+msgstr "Estes métodos de ensino fornecem estratégias estruturadas para aprender a multiplicação de números de um dígito. Seu filho já deve ser bom em duplicar qualquer número, fazer contagem pulando qualquer número e multiplicar por 5 e 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3 x 4 = 4 x 3"
+msgstr "3 x 4 = 4 x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
+msgstr "Seu filho já está tão familiarizado com a adição que não é surpresa que 2 + 3 seja o mesmo que 3 + 2. Embora não seja tão óbvio, o mesmo é verdade para a multiplicação."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
+msgstr ""
+"Esta ilustração mostra que duas linhas de três são o mesmo que três linhas de dois – é só mudar o ponto de vista! Não importa a ordem em que você multiplica dois números, você obtém a mesma resposta.\n"
+"\n"
+"É ótimo que esta observação interessante signifique que a criança só precisa de dominar cerca de metade dos fatos de multiplicação – uma vez que a criança saiba 3 x 4, também sabe 4 x 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SQUARES"
+msgstr "QUADRADOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
+msgstr "Assim como a adição de duplas é um dos fatos matemáticos favoritos, os quadrados são frequentemente favoritos na multiplicação. Aprender estes fornece uma outra base para aprender outros fatos de multiplicação."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1 MORE OR 1 LESS"
+msgstr "1 MAIS OU 1 MENOS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When combined with the other earlier skills, the strategy of using '1 more' or '1 less' is effective for calculating the remaining multiplication facts. \n"
+"\n"
+"For example, 9 × 7 is one 7 less than 10 × 7. So 9 × 7 = 70 – 7 = 63. This works for all 9’s. \n"
+"\n"
+"Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
+msgstr ""
+"Quando combinado com as outras habilidades anteriores, a estratégia de usar '1 mais' ou '1 menos' é eficaz para calcular os fatos restantes da multiplicação.\n"
+"\n"
+"Por exemplo, 9 x 7 é um 7 a menos do que 10 x 7. Assim, 9 x 7 = 70 - 7 = 63. Isto funciona para todos os 9s.\n"
+"\n"
+"De forma semelhante, 3 x 7 é um 7 a mais do que duplicar 7, então 3 x 7 = 7 + 14 = 21. Isto funciona para todos os 3s."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 9"
+msgstr "MULTIPLICAR POR 9"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Multiplication"
+msgstr "Multiplicação Mental"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
+msgstr "Embora a multiplicação por 9 seja abordada pela última estratégia, é divertida de aprender por si mesma. Se escreveres os múltiplos de 9 em ordem, verá que o dígito das dezenas é sempre um a menos do que o número pelo qual estás a multiplicar, e o dígito das unidades somado ao dígito das dezenas sempre dá 9!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING 100"
+msgstr "FAZENDO 100"
 
 #. type=data_list
 msgctxt "data_list"
