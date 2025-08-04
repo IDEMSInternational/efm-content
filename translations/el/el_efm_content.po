@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-08-03 22:17\n"
+"PO-Revision-Date: 2025-08-04 04:47\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -868,4 +868,75 @@ msgstr "Ξέρετε κάποιον που έχει γάτες; Πόσες γά�
 msgctxt "data_list"
 msgid "Do you think nine cats is too many?"
 msgstr "Νομίζετε ότι εννέα γάτες είναι πάρα πολλές;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "Μετρήστε μαζί τα μουστάκια, τα αυτιά, τα πόδια, τα μάτια και τις ουρές."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "Ποια αποτελέσματα είναι τα ίδια, ποια είναι διαφορετικά, ποιο αποτέλεσμα είναι το μεγαλύτερο και ποιο το μικρότερο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "Ποιο ζώο είναι κόκκινο και ποιο είναι κίτρινο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"Η Γάτα και ο Σκύλος ζουν σε ένα σπίτι.\n"
+"\n"
+" Ένα σπίτι με μια πόρτα.\n"
+"\n"
+" Ένα σπίτι με μια στέγη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "Η Γάτα και ο Σκύλος ζουν σε ένα στρογγυλό σπίτι. Το δικό σπίτι είναι στρογγυλό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "Δείξτε οποιαδήποτε άλλα στρογγυλά αντικείμενα στην εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "Πόσα δωμάτια φαίνεται να έχει το σπίτι τους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"Η Γάτα και ο Σκύλος έχουν μια μπάλα.\n"
+"\n"
+"Η μπάλα είναι κόκκινη, μπλε και πράσινη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "Μετρήστε μαζί τον αριθμό των χρωμάτων στη μπάλα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "Ποιο χρώμα στη μπάλα δεν είναι χρώμα της Γάτας ή του Σκύλου;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "Υπάρχει κάτι εκεί που βρίσκεστε εσείς που έχει ρίγες όπως αυτή η μπάλα;"
 
