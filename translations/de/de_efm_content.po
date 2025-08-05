@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-08-04 23:17\n"
+"PO-Revision-Date: 2025-08-05 02:18\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -312,4 +312,34 @@ msgstr "Hast du jemals jemanden angelogen? Wenn ja, tat es dir leid oder schämt
 msgctxt "data_list"
 msgid "Count the number of difficult moments in Akadeli's day. All turned out well in the end. Life can be full of surprises!"
 msgstr "Zähle die Anzahl schwieriger Momente in Akadeli’s Tag. Es endete alles gut. Das Leben kann voller Überraschungen sein!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "His hoe was too short."
+msgstr "Seine Hacke war zu klein."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out the vivid colors -- the yellow sun, the blue sky, the green bushes, and the red shoes."
+msgstr "Benenne die leuchtenden Farben – die gelbe Sonne, der blaue Himmel, das grüne Gebüsch und die roten Schuhe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the two bushes and the two red shoes with your child."
+msgstr "Zähle mit deinem Kind die zwei Gebüsche und die beiden roten Schuhe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out how uncomfortable the man looks bending over so far to hoe."
+msgstr "Zeige auf, wie unbequem der Mann aussieht, so sehr verbogen, um zu hacken."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "His doorway was too low."
+msgstr "Sein Türbogen war zu tief."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comment that the doorway is too low -- the man is taller than the door."
+msgstr "Kommentiere, dass der Türbogen zu tief ist für ihn – der Mann ist grösser als die Tür."
 
