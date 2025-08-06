@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-08-06 17:10\n"
+"PO-Revision-Date: 2025-08-06 18:09\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2362,6 +2362,1010 @@ msgstr "Είναι παράξενο που ο Κύριος Κίο αφήνει �
 msgctxt "data_list"
 msgid "Safi sits in the doorway to watch over the house."
 msgstr "Η Σάφι κάθεται στην είσοδο για να επιτηρεί το σπίτι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. This floor is tiled with square tiles."
+msgstr "Ένα τετράγωνο είναι ένα σχήμα όπως αυτή η σελίδα που έχει τέσσερις ίσες πλευρές. Αυτό το πάτωμα είναι καλυμμένο με τετράγωνα πλακάκια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have tiles where you live? If so, what shape are they?"
+msgstr "Έχει πλακάκια το πάτωμα εκεί που μένετε; Αν ναι, τι σχήμα έχουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi like being a house watcher?"
+msgstr "Της αρέσει της Σάφι να είναι φύλακας του σπιτιού;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the neighbor's dog comes close, Safi scares him away."
+msgstr "Όταν ο σκύλος του γείτονα πλησιάζει, η Σάφι τον τρομάζει και τον διώχνει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is trying to scare the dog?"
+msgstr "Πώς μπορείτε να καταλάβετε ότι η Σάφι προσπαθεί να τρομάξει τον σκύλο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the circles of colors and name the colors. Those circles aren't really in the house."
+msgstr "Δείξτε τους κύκλους με τα χρώματα και ονομάστε τα χρώματα. Αυτοί οι κύκλοι δεν βρίσκονται πραγματικά μέσα στο σπίτι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Circles that share the same central point are called \"concentric.\""
+msgstr "Κύκλοι που μοιράζονται το ίδιο κέντρο ονομάζονται \"ομόκεντροι\"."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog runs away."
+msgstr "Ο σκύλος τρέχει μακριά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the dog feeling?"
+msgstr "Τι αισθάνεται ο σκύλος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is bigger, the cat or the dog?"
+msgstr "Ποιο ζώο είναι μεγαλύτερο, η γάτα ή ο σκύλος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These bands of color going from yellow to orange give a sense of motion. Compare this to the concentric circles on the previous page."
+msgstr "Αυτό το χρώμα που πάει από το κίτρινο ως το πορτοκαλί δίνει μια αίσθηση κίνησης. Συγκρίνετέ το με τους ομόκεντρους κύκλους στην προηγούμενη σελίδα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When a neighbor knocks at the door, Safi is ready to scratch."
+msgstr "Όταν κάποια γειτόνισσα χτυπάει την πόρτα, η Σάφι είναι έτοιμη να γρατζουνίσει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is being scary? Is the neighbor scared?"
+msgstr "Πώς μπορείτε να καταλάβετε ότι η Σάφι γίνεται τρομακτική; Η γειτόνισσα φοβάται;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the neighbor need to be scared away, or is Safi doing too much?"
+msgstr "Χρειάζεται η γειτόνισσα να φοβηθεί, ή μήπως η Σάφι υπερβάλλει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name different things in this picture that are in a group of 2, 3, or 4."
+msgstr "Δείξτε και ονομάστε διαφορετικά πράγματα σε αυτή την εικόνα που είναι σε ομάδες των 2, 3 ή 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor turns and runs away."
+msgstr "Η γειτόνισσα γυρίζει και τρέχει μακριά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at the neighbor's clothes, what is her favorite color?"
+msgstr "Κοιτάζοντας τα ρούχα της γειτόνισσας, ποιο είναι το αγαπημένο της χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite color?"
+msgstr "Ποιο είναι το δικό σας αγαπημένο χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor is frightened by Safi. Have you ever been frightened by a cat or other small animal?"
+msgstr "Η γειτόνισσα φοβάται τη Σάφι. Έχετε φοβηθεί ποτέ μια γάτα ή άλλο μικρό ζώο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Safi is hungry, she closes the door."
+msgstr "Όταν η Σάφι πεινάσει, κλείνει η ίδια την πόρτα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi should just close the door as soon as Mr. Kio leaves."
+msgstr "Η Σάφι θα έπρεπε απλά να κλείσει την πόρτα μόλις φύγει ο Κύριος Κίο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is little Safi big enough to close that big door?"
+msgstr "Είναι αρκετά μεγάλη η μικρή Σάφι για να κλείσει αυτή τη μεγάλη πόρτα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After the door closes, will Safi be able to reach the handle and open it?"
+msgstr "Αφού κλείσει η πόρτα, θα καταφέρει η Σάφι να φτάσει το χερούλι για να την ανοίξει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi eats her food."
+msgstr "Η Σάφι τρώει το φαγητό της."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the straight and curved lines in this picture."
+msgstr "Δείξτε τις ευθείες και τις καμπύλες γραμμές σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi look happy to be eating? Do you like to eat your food?"
+msgstr "Φαίνεται η Σάφι χαρούμενη που τρώει; Σας αρέσει να τρώτε το φαγητό σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you wait to eat if you were left with a plate of food you liked?"
+msgstr "Θα περιμένατε να φάτε αν σας άφηναν με ένα πιάτο φαγητό που σας αρέσει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Afterwards, Safi jumps onto the sofa and sleeps, \"Purr! Purr! Purr!\""
+msgstr "Μετά, η Σάφι πηδάει στον καναπέ και κοιμάται. \"Γρου! Γρου! Γρου!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people feel sleepy after eating and sometimes it gives them fresh energy. What does it do to you?"
+msgstr "Μερικές φορές οι άνθρωποι νυστάζουν μετά το φαγητό και άλλες φορές αποκτούν περισσότερη ενέργεια. Σε σας τι κάνει το φαγητό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Safi dreaming? If so, what do you think Safi is dreaming about?"
+msgstr "Ονειρεύεται η Σάφι; Αν ναι, τι πιστεύετε ότι ονειρεύεται;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the things you dream about?"
+msgstr "Ποια είναι μερικά πράγματα που εσείς ονειρεύεστε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio returns, Safi stretches happily and welcomes him home."
+msgstr "Όταν ο Κύριος Κίο επιστρέφει, η Σάφι τεντώνεται χαρούμενη και τον καλωσορίζει σπίτι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the beautiful circle inside the orange square."
+msgstr "Δείξτε τον υπέροχο κύκλο μέσα στο πορτοκαλί τετράγωνο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have some circles and squares where you are?"
+msgstr "Έχετε κύκλους και τετράγωνα στον χώρο σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point together at the white circles Safi has on her back and belly."
+msgstr "Δείξτε μαζί τους άσπρους κύκλους που έχει η Σάφι στην πλάτη και στην κοιλιά της."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mister Kio and Safi sit down, and each of them reads the newspaper."
+msgstr "Ο Κύριος Κίο και η Σάφι κάθονται κάτω, και ο καθένας τους διαβάζει την εφημερίδα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is warm and cozy. Do cats read the newspaper?"
+msgstr "Είναι ζεστά και άνετα. Διαβάζουν οι γάτες εφημερίδες;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides with corners like this page. Point at the rectangles you see in this picture and around you."
+msgstr "Ένα ορθογώνιο είναι ένα σχήμα με τέσσερις ευθείες πλευρές και γωνίες, όπως αυτή η σελίδα. Δείξτε τα ορθογώνια που βλέπετε σε αυτή την εικόνα ή γύρω σας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
+msgstr "Οι περισσότερες εφημερίδες έχουν σχήμα ορθογωνίου. Η εφημερίδα του Κυρίου Κίο έχει περίεργο σχήμα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rainbow has seven colors."
+msgstr "Ένα ουράνιο τόξο έχει επτά χρώματα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the colors of the rainbow."
+msgstr "Μετρήστε μαζί τα χρώματα του ουράνιου τόξου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a rainbow after it rains? Sometimes, you can even see a double rainbow if you're lucky!"
+msgstr "Έχετε δει ποτέ ουράνιο τόξο μετά από βροχή; Μερικές φορές μπορείτε να δείτε ακόμα και διπλό ουράνιο τόξο, αν είστε τυχεροί!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out that her dress and the background on this page go through many of the same colors as the rainbow."
+msgstr "Παρατηρήστε ότι το φόρεμά του κοριτσιού και το φόντο σε αυτή τη σελίδα έχουν πολλά από τα χρώματα του ουράνιου τόξου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The first color is red."
+msgstr "Το πρώτο χρώμα είναι το κόκκινο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does the color red make you feel? Red is often thought of as an active, high energy color."
+msgstr "Πώς σας κάνει να νιώθετε το κόκκινο χρώμα; Το κόκκινο θεωρείται συχνά ένα έντονο, γεμάτο ενέργεια χρώμα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes red is an angry color. People may say they \"see red\" when they are angry."
+msgstr "Μερικές φορές το κόκκινο είναι το χρώμα του θυμού. Οι άνθρωποι μπορεί να λένε ότι \"τα βλέπουν όλα κόκκινα\" όταν θυμώνουν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often paint things red or choose red things because of the color's high energy. Have you seen cars that are red?"
+msgstr "Οι άνθρωποι συχνά χρωματίζουν πράγματα κόκκινα ή επιλέγουν κόκκινα πράγματα λόγω της έντονης ενέργειας του χρώματος. Έχετε δει αυτοκίνητα που είναι κόκκινα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kewyu is wearing a red shirt."
+msgstr "Ο Κιουγιού φοράει ένα κόκκινο πουκάμισο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any red clothes?"
+msgstr "Έχετε κόκκινα ρούχα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have any red flowers near where you live?"
+msgstr "Έχετε κόκκινα λουλούδια κοντά στο σπίτι σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of people in this picture."
+msgstr "Μετρήστε μαζί τον αριθμό των ανθρώπων στην εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The second color is orange."
+msgstr "Το δεύτερο χρώμα είναι το πορτοκαλί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does orange feel compared to red? It is still high energy, but perhaps a bit less so."
+msgstr "Πώς σας κάνει να νιώθετε το πορτοκαλί σε σύγκριση με το κόκκινο; Είναι κι αυτό έντονο, αλλά ίσως λίγο λιγότερο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks all alone in the middle of all that orange with her hands stretched out like that."
+msgstr "Η γυναίκα φαίνεται μόνη της στη μέση όλου αυτού του πορτοκαλί με τα χέρια της τεντωμένα έτσι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An orange is a fruit named after its color. Can you think of other orange things around you?"
+msgstr "Ένα πορτοκάλι είναι ένα φρούτο που πήρε το όνομά του από το χρώμα του. Μπορείτε να σκεφτείτε άλλα πορτοκαλί πράγματα γύρω σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is an orange. What else can you see that is the color orange?"
+msgstr "Αυτό είναι ένα πορτοκάλι. Τι άλλο μπορείτε να δείτε που έχει πορτοκαλί χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat and fish are orange. Have you seen an orange cat or fish before?"
+msgstr "Η γάτα και το ψάρι είναι πορτοκαλί. Έχετε δει ποτέ πορτοκαλί γάτα ή ψάρι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sphere is a ball -- round in all directions. Is an orange a sphere?"
+msgstr "Κάτι που είναι σαν μπάλα -- στρογγυλό προς όλες τις κατευθύνσεις ονομάζεται σφαιρικό. Είναι το πορτοκάλι σφαιρικό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the fish bowl different from a sphere?"
+msgstr "Είναι το μπολ του ψαριού απολύτως σφαιρικό; Γιατί όχι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The third color is yellow."
+msgstr "Το τρίτο χρώμα είναι το κίτρινο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up something that she is pointing at."
+msgstr "Φανταστείτε κάτι που δείχνει με το δάχτυλό της η γυναίκα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks excited about what is coming next. I bet it is something yellow!"
+msgstr "Φαίνεται ενθουσιασμένη για αυτό που είναι δίπλα. Στοιχηματίζω ότι είναι κάτι κίτρινο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How has her dress changed from earlier pictures? Hint: It is now broken up into two sections."
+msgstr "Πώς έχει αλλάξει το φόρεμά της από τις προηγούμενες εικόνες; Υπόδειξη: Τώρα είναι χωρισμένο σε δύο μέρη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The yolk of an egg is yellow. What else can you see that is the color yellow?"
+msgstr "Ο κρόκος ενός αυγού είναι κίτρινος. Τι άλλο μπορείτε να δείτε που έχει κίτρινο χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that she is hungry?"
+msgstr "Πώς μπορείτε να καταλάβετε ότι πεινάει η γυναίκα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She has a yellow sunflower on her table. Do you have flowers around you sometimes when you eat?"
+msgstr "Έχει ένα κίτρινο ηλιοτρόπιο στο τραπέζι της. Έχετε λουλούδια κοντά σας μερικές φορές όταν τρώτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name something in the sky that is yellow."
+msgstr "Πείτε κάτι στον ουρανό που είναι κίτρινο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fourth color is green."
+msgstr "Το τέταρτο χρώμα είναι το πράσινο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does green feel to you? This green is a lot calmer than the red, orange, or yellow."
+msgstr "Πώς σας κάνει να νιώθετε το πράσινο; Το πράσινο είναι πολύ πιο ήρεμο από το κόκκινο, το πορτοκαλί ή το κίτρινο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name some things that are green -- they are all around you!"
+msgstr "Πείτε μερικά πράγματα που είναι πράσινα -- είναι γύρω σας!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Green comes in many different types. How many types of green can you name?"
+msgstr "Το πράσινο έχει πολλές διαφορετικές αποχρώσεις. Πόσες διαφορετικές αποχρώσεις πράσινου μπορείτε να βρείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Our banana garden is green."
+msgstr "Ο κήπος μας είναι πράσινος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the animals you see on this page -- look carefully!"
+msgstr "Δείξτε και μετρήστε τα ζώα που βλέπετε σε αυτή τη σελίδα -- κοιτάξτε προσεκτικά!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out the yellow greens, lime greens, bright greens, and dark greens on this page."
+msgstr "Παρατηρήστε τα κιτρινωπά πράσινα, τα λαχανί, τα λαμπερά πράσινα και τα σκούρα πράσινα σε αυτή τη σελίδα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A lot of trees are brown and green. Brown is not one of the main colors of the rainbow. Where does it show up in the rainbow?"
+msgstr "Πολλά δέντρα είναι καφέ και πράσινα. Το καφέ δεν είναι ένα από τα κύρια χρώματα του ουράνιου τόξου. Πού εμφανίζεται στο ουράνιο τόξο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fifth color is blue."
+msgstr "Το πέμπτο χρώμα είναι το μπλε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks so happy in the middle of all that blue. Does blue make you feel happy?"
+msgstr "Φαίνεται τόσο χαρούμενη η γυναίκα στη μέση όλου αυτού του μπλε. Σας κάνει το μπλε να νιώθετε χαρούμενοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people say they feel blue when they are sad. Does blue seem like a sad color to you?"
+msgstr "Μερικοί λένε ότι το μπλε είναι το χρώμα της λύπης. Το μπλε σάς φαίνεται σαν ένα λυπημένο χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sky and water are usually blue, but it is not common in plants. Have you seen flowers that are blue?"
+msgstr "Ο ουρανός και το νερό είναι συνήθως μπλε, αλλά δεν είναι συνηθισμένο στα φυτά. Έχετε δει λουλούδια που είναι μπλε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sky is blue."
+msgstr "Ο ουρανός είναι μπλε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bodies of water, such as oceans, seas, lakes, and rivers, are often blue."
+msgstr "Τα νερά, όπως οι ωκεανοί, οι θάλασσες, οι λίμνες και τα ποτάμια, είναι συχνά μπλε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to these birds and clouds and count them together."
+msgstr "Δείξτε τα πουλιά και τα σύννεφα και μετρήστε τα μαζί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which are there more of -- clouds or birds?"
+msgstr "Ποια είναι περισσότερα – τα σύννεφα ή πουλιά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The sixth color is indigo."
+msgstr "Το έκτο χρώμα είναι το λουλακί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Flowers are sometimes indigo. Have you seen flowers whose color is close to being indigo?"
+msgstr "Τα λουλούδια είναι μερικές φορές λουλακί. Έχετε δει λουλούδια που το χρώμα τους είναι κοντά στο λουλακί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes her hands are stretched out wide. Having hands on hips often shows defiance and strength."
+msgstr "Μερικές φορές τα χέρια της γυναίκας είναι τεντωμένα προς τα έξω. Το να έχει κανείς τα χέρια του στους γοφούς συχνά δείχνει αποφασιστικότητα και δύναμη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Indigo is very powerful. How do you feel if you stare at this big square of indigo?"
+msgstr "Το λουλακί είναι πολύ δυνατό χρώμα. Πώς νιώθετε αν κοιτάτε αυτό το μεγάλο λουλακί τετράγωνο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These berries are the color indigo."
+msgstr "Αυτά τα μούρα έχουν το χρώμα λουλακί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buttons or snaps on her jacket."
+msgstr "Μετρήστε μαζί τα κουμπιά στο μπουφάν της."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you like to eat some of those berries? Do you think you could eat all of them?"
+msgstr "Θα θέλατε να φάτε από αυτά τα μούρα; Νομίζετε ότι θα μπορούσατε να τα φάτε όλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of the largest number you can. Does she have more berries than that number?"
+msgstr "Σκεφτείτε τον μεγαλύτερο αριθμό που μπορείτε. Έχει περισσότερα μούρα από τον αριθμό που σκεφτήκατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The seventh color is violet."
+msgstr "Το έβδομο χρώμα είναι το βιολετί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Violet is a very intense color. Is it too intense for you, or do you enjoy how intense it is?"
+msgstr "Το βιολετί είναι ένα πολύ έντονο χρώμα. Είναι πολύ έντονο για εσάς ή σας αρέσει το πόσο έντονο είναι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now she has her arms crossed. Crossed arms can indicate being closed off from others."
+msgstr "Τώρα η γυναίκα έχει τα χέρια της σταυρωμένα. Τα σταυρωμένα χέρια μπορεί να δείχνουν απομάκρυνση από τους άλλους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People tell us a lot without saying any words. Sometimes people do that with an expression on their face, and sometimes they do it with the way they hold their body."
+msgstr "Οι άνθρωποι μας λένε πολλά χωρίς να λένε λέξεις. Μερικές φορές το κάνουν με μια έκφραση στο πρόσωπό τους και μερικές φορές με τον τρόπο που κρατούν το σώμα τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My dress is violet. Violet is my favorite color! What is your favorite color?"
+msgstr "Το φόρεμά μου είναι βιολετί. Το βιολετί είναι το αγαπημένο μου χρώμα! Ποιο είναι το αγαπημένο σας χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the flowers she is next to are violet flowers -- they are named after their color."
+msgstr "Παρατηρήστε ότι τα λουλούδια που είναι δίπλα της είναι βιολέτες -- πήραν το όνομά τους από το χρώμα τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looks very happy wearing a dress with her favorite color. Do you have clothes that are in your favorite color?"
+msgstr "Φαίνεται πολύ χαρούμενη που φοράει ένα φόρεμα στο αγαπημένο της χρώμα. Έχετε ρούχα στο αγαπημένο σας χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors make you happy? Are there colors you don't like?"
+msgstr "Ποια χρώματα σας κάνουν χαρούμενους; Υπάρχουν χρώματα που δεν σας αρέσουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know the seven colors of the rainbow?"
+msgstr "Ξέρετε τα επτά χρώματα του ουράνιου τόξου;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you remember what each color is?"
+msgstr "Μπορείτε να θυμηθείτε ποιο είναι το κάθε χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people use the fake name Roy G. Biv to remind them of the order of the seven colors of the rainbow."
+msgstr "Μερικοί άνθρωποι χρησιμοποιούν το ψεύτικο όνομα Κοποκί Π. Μπλουβί για να θυμούνται τη σειρά των επτά χρωμάτων του ουράνιου τόξου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Brown is not one of the main colors of the rainbow. Are there other colors you know that are not one of the seven?"
+msgstr "Το καφέ δεν είναι ένα από τα κύρια χρώματα του ουράνιου τόξου. Υπάρχουν άλλα χρώματα που ξέρετε και που δεν είναι από τα επτά αυτά χρώματα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is going to drink water."
+msgstr "Ένας ελέφαντας πηγαίνει να πιει νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the elephants, the tusks, the feet, the eyes, and the tails."
+msgstr "Μετρήστε μαζί τους ελέφαντες, τους χαυλιόδοντες, τα πόδια, τα μάτια και τις ουρές."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which items are there the most of and which are there the least of?"
+msgstr "Ποια απ' αυτά είναι τα περισσότερα και ποια τα λιγότερα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think the elephant is about to do?"
+msgstr "Τι νομίζετε ότι πρόκειται να κάνει ο ελέφαντας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are going to drink water."
+msgstr "Δύο καμηλοπαρδάλεις πηγαίνουν να πιουν νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each giraffe has four feet. Count the number of giraffes and the number of feet."
+msgstr "Κάθε καμηλοπάρδαλη έχει τέσσερα πόδια. Μετρήστε πόσες είναι οι καμηλοπαρδάλεις και πόσα είναι τα πόδια τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The giraffes are very tall. They must bend way down to get to the water."
+msgstr "Οι καμηλοπαρδάλεις είναι πολύ ψηλές. Πρέπει να σκύψουν πολύ χαμηλά για να φτάσουν στο νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two giraffes are one more animal than one elephant. What is one more animal than two animals?"
+msgstr "Δύο καμηλοπαρδάλεις είναι ένα ζώο περισσότερο από έναν ελέφαντα. Πόσα ζώα είναι ένα περισσότερο από δύο ζώα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes and four birds are also going to drink water."
+msgstr "Τρεις βούβαλοι και τέσσερα πουλιά πηγαίνουν επίσης να πιουν νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buffaloes, the birds, the horns, and the tails."
+msgstr "Μετρήστε μαζί τους βούβαλους, τα πουλιά, τα κέρατα και τις ουρές."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When there is one source of water, all the thirsty animals come to that one place. If a lion wants to hunt animals, this is a good place to find them!"
+msgstr "Όταν υπάρχει μία πηγή νερού, όλα τα διψασμένα ζώα έρχονται σε αυτό το μέρος. Αν ένα λιοντάρι θέλει να κυνηγήσει ζώα, αυτό είναι ένα καλό σημείο να τα βρει!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three buffaloes is one less animal than four animals. What is one less animal than three animals?"
+msgstr "Τρεις βούβαλοι είναι ένα ζώο λιγότερο από τέσσερα ζώα. Πόσα ζώα είναι ένα λιγότερο από τα τρία ζώα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Five antelopes and six warthogs are walking to the water."
+msgstr "Πέντε αντιλόπες και έξι αγριογούρουνα περπατούν προς το νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the antelopes and the warthogs. How many of the warthogs are babies?"
+msgstr "Μετρήστε τις αντιλόπες και τα αγριογούρουνα. Πόσα από τα αγριογούρουνα είναι μωρά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the antelopes are looking around rather than looking at each other. The pack stays safe by having some of them looking for danger!"
+msgstr "Μερικές από τις αντιλόπες κοιτάζουν τριγύρω αντί να κοιτάζουν η μία την άλλη. Το κοπάδι διατηρείται ασφαλές επειδή μερικές από αυτές κοιτούν για κίνδυνο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Of antelopes and warthogs, which are there more of and which are there less of?"
+msgstr "Από τις αντιλόπες και τα αγριογούρουνα, ποια είναι τα περισσότερα και ποια είναι τα λιγότερα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Seven zebras are running to the water."
+msgstr "Επτά ζέβρες τρέχουν προς το νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the zebras and the trees."
+msgstr "Μετρήστε τις ζέβρες και τα δέντρα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that the zebras have been running? They must be very thirsty to be running to the water!"
+msgstr "Πώς μπορείτε να καταλάβετε ότι οι ζέβρες έχουν τρέξει; Πρέπει να διψούν πολύ για να τρέχουν προς το νερό!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try counting the black stripes on some of the zebras. Do some zebras have more stripes than others?"
+msgstr "Προσπαθήστε να μετρήσετε τις μαύρες ρίγες σε μερικές από τις ζέβρες. Έχουν κάποιες ζέβρες περισσότερες ρίγες από άλλες;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eight frogs and nine fish are swimming in the water."
+msgstr "Οκτώ βάτραχοι και εννιά ψάρια κολυμπούν στο νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the frogs and the fish. Can you count that high?"
+msgstr "Μετρήστε μαζί τους βατράχους και τα ψάρια. Μπορείτε να μετρήσετε μέχρι τόσο πολλά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are packed very tightly together. Do you think they feel crowded or do they like having the company?"
+msgstr "Είναι πολύ στριμωγμένα μεταξύ τους. Νομίζετε ότι αισθάνονται άβολα ή τους αρέσει να έχουν παρέα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is one more than eight frogs? What is one less than nine fish?"
+msgstr "Πόσα είναι ένα περισσότερο από τους οκτώ βατράχους; Πόσα είναι ένα λιγότερο από τα εννιά ψάρια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many different kinds of animals can you count?"
+msgstr "Πόσα διαφορετικά είδη ζώων μπορείτε να μετρήσετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One lion roars. He also wants to drink. Who is afraid of the lion?"
+msgstr "Ένα λιοντάρι βρυχάται. Θέλει κι αυτό να πιει νερό. Ποιος φοβάται το λιοντάρι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the lions, warthogs, birds, zebras, antelopes, giraffes, water buffaloes, and elephants. That's a lot of counting!"
+msgstr "Μετρήστε μαζί τα λιοντάρια, τα αγριογούρουνα, τα πουλιά, τις ζέβρες, τις αντιλόπες, τις καμηλοπαρδάλεις, τους βούβαλους και τους ελέφαντες. Είναι πολύ μέτρημα!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most of the animals start to run away from the lion. Which animals will stay?"
+msgstr "Τα περισσότερα ζώα αρχίζουν να τρέχουν μακριά από το λιοντάρι. Ποια ζώα θα μείνουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One elephant is drinking water with the lion."
+msgstr "Ένας ελέφαντας πίνει νερό με το λιοντάρι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The elephant, birds, fish, and frogs did not run away."
+msgstr "Ο ελέφαντας, τα πουλιά, τα ψάρια και οι βάτραχοι δεν έτρεξαν μακριά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you run away from a lion?"
+msgstr "Εσείς θα τρέχατε μακριά από ένα λιοντάρι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would it be fun to go for a swim in this watering hole?"
+msgstr "Θα ήταν διασκεδαστικό το κολύμπι σ' αυτό το νερόλακκο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Izinzawu family was a happy family. The children learned cooking, gardening, and hunting from their parents."
+msgstr "Η οικογένεια Ιζινζάου ήταν μια ευτυχισμένη οικογένεια. Τα παιδιά έμαθαν από τους γονείς τους να μαγειρεύουν, να φροντίζουν τα φυτά και να κυνηγούν για φαγητό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do plants need watering?"
+msgstr "Γιατί τα φυτά χρειάζονται πότισμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name the colors in this picture."
+msgstr "Δείξτε και ονομάστε τα χρώματα σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the green colors in this picture similar and how are they different?"
+msgstr "Σε τι μοιάζουν τα πράσινα χρώματα σε αυτή την εικόνα και σε τι διαφέρουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At dinner time every day, they talked about what they had done that day."
+msgstr "Κάθε μέρα κατά τη διάρκεια του βραδινού φαγητού, μιλούσαν για αυτά που είχαν κάνει εκείνη τη μέρα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. The tablecloth has a checkerboard design with lots of squares. Find some squares in a pattern where you are."
+msgstr "Ένα τετράγωνο είναι ένα σχήμα όπως αυτή η σελίδα που έχει τέσσερις ίσες πλευρές. Το τραπεζομάντηλο έχει σχέδιο σκακιέρας με πολλά τετράγωνα. Βρείτε μερικά τετράγωνα σε ένα σχέδιο εκεί που βρίσκεστε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name the shapes you see in this picture."
+msgstr "Ονομάστε τα σχήματα που βλέπετε σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This family talks about their day at dinner. What do you talk about when you eat dinner?"
+msgstr "Αυτή η οικογένεια μιλάει για την ημέρα της στο βραδινό φαγητό. Εσείς τι λέτε όταν τρώτε βραδινό φαγητό στην οικογένεια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The father usually warned the children not to go deep into the forest. He told the family about a strange creature that lived in the forest. \"This creature is like two of us put together!\""
+msgstr "Ο πατέρας συνήθως προειδοποιούσε τα παιδιά να μην πηγαίνουν βαθιά μέσα στο δάσος. Τους έλεγε για ένα παράξενο πλάσμα που ζούσε στο δάσος. \"Αυτό το πλάσμα είναι σαν δύο από εμάς μαζί!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe what you think the father's \"strange creature\" might look like."
+msgstr "Περιγράψτε πώς νομίζετε ότι μπορεί να είναι \"το παράξενο πλάσμα\" του πατέρα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the different patterns you see in this picture?"
+msgstr "Ποια είναι τα διαφορετικά σχέδια που βλέπετε σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How are the bowls on this page different from the bowls on the last page?"
+msgstr "Σε τι διαφέρουν τα μπολ σε αυτή τη σελίδα από τα μπολ στην προηγούμενη σελίδα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, the girls were playing at the river. Suddenly, from behind a tree, there was a strange creature! The creature had two eyes, two ears, two arms, and two legs."
+msgstr "Μια μέρα, τα κορίτσια έπαιζαν στο ποτάμι. Ξαφνικά, από πίσω από ένα δέντρο, εμφανίστηκε ένα παράξενο πλάσμα! Το πλάσμα είχε δύο μάτια, δύο αυτιά, δύο χέρια και δύο πόδια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the \"strange creature\" look like what you imagined?"
+msgstr "Το \"παράξενο πλάσμα\" μοιάζει με αυτό που φανταστήκατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the number of children in this picture."
+msgstr "Δείξτε και μετρήστε τον αριθμό των παιδιών σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shaking with fear, they ran to tell their brothers about what they had seen. But the boys didn't believe them. \"The girls are being silly!\" they said."
+msgstr "Τρέμοντας από φόβο, έτρεξαν να πουν στα αδέρφια τους τι είχαν δει. Αλλά τα αγόρια δεν τους πίστευαν. \"Τα κορίτσια φέρονται ανόητα!\" είπαν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four children and four heads. How many legs do you see? How many arms do you see? Is that surprising?"
+msgstr "Υπάρχουν τέσσερα παιδιά και τέσσερα κεφάλια. Πόσα πόδια βλέπετε; Πόσα χέρια βλέπετε; Είναι αυτό περίεργο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more girls or boys in this picture?"
+msgstr "Υπάρχουν περισσότερα κορίτσια ή αγόρια σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their mouths and eyebrows. What do their faces tell you about what these children are thinking and feeling?"
+msgstr "Κοιτάξτε τα στόματα και τα φρύδια τους. Τι σας λένε τα πρόσωπά τους για το τι σκέφτονται και αισθάνονται αυτά τα παιδιά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eventually, curiosity got the better of the boys. They followed the girls to the river to see this strange creature for themselves."
+msgstr "Τελικά, η περιέργεια νίκησε τα αγόρια. Ακολούθησαν τα κορίτσια στο ποτάμι για να δουν αυτό το παράξενο πλάσμα από κοντά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from their size in the picture that the girls are far away and the boys are nearby?"
+msgstr "Πώς μπορείτε να καταλάβετε από το μέγεθός τους στην εικόνα ότι τα κορίτσια είναι μακριά και τα αγόρια κοντά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the girls far away behind some bushes?"
+msgstr "Γιατί τα κορίτσια είναι μακριά πίσω από κάποιους θάμνους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The grass, bushes, and trees are different shades of green. Are there different shades of some color where you are?"
+msgstr "Το χόρτο, οι θάμνοι και τα δέντρα έχουν διαφορετικές αποχρώσεις του πράσινου. Υπάρχουν διαφορετικές αποχρώσεις κάποιου χρώματος εκεί που είστε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They searched and searched, but all they could see was the tall grass and trees.\n"
+"\n"
+"Suddenly, they heard a noise, and looked up."
+msgstr ""
+"Έψαξαν, έψαξαν, αλλά το μόνο που μπορούσαν να δουν ήταν τα ψηλά χόρτα και τα δέντρα.\n"
+"\n"
+"Ξαφνικά, ακούστηκε ένας θόρυβος, και κοίταξαν ψηλά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think made that noise above them?"
+msgstr "Τι νομίζετε ότι έκανε αυτόν τον θόρυβο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of things make noises above our heads?"
+msgstr "Τι είδους πράγματα κάνουν θόρυβο πάνω από τα κεφάλια μας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That is really tall grass! What part of their bodies does the grass reach up to?"
+msgstr "Αυτό είναι πραγματικά πολύ ψηλό χόρτο! Μέχρι πού φτάνει στο σώμα τους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Up on a tree swung the strangest creature they had ever seen. It had two arms, two hands, two legs and two feet. Instead of one each, like them."
+msgstr "Πάνω σε ένα δέντρο κρεμόταν το πιο παράξενο πλάσμα που είχαν δει ποτέ. Είχε δύο χέρια, δύο παλάμες, δύο πόδια, και δύο πέλματα. Αντί για ένα, όπως εκείνοι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many arms, legs, hands, and eyes does each member of the family have?"
+msgstr "Πόσα χέρια, πόδια, παλάμες και μάτια έχει κάθε μέλος της οικογένειας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you assume the unseen side of each family member had another arm, leg, hand, and eye, just like the side you could see?"
+msgstr "Υποθέσατε ότι η αθέατη πλευρά κάθε μέλους της οικογένειας έχει ακόμα ένα χέρι, πόδι, παλάμη και μάτι, όπως η πλευρά που μπορείτε να δείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you see only one side of something, it is easy to assume the other side looks the same -- that it is the mirror reflection of what you can see."
+msgstr "Όταν βλέπετε μόνο μία πλευρά από κάτι, είναι εύκολο να υποθέσετε ότι η άλλη πλευρά είναι ίδια -- ότι είναι το καθρέφτισμα αυτού που μπορείτε να δείτε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The frightened children ran home to call their parents. Soon the whole family was at the river to see the creature."
+msgstr "Τα τρομαγμένα παιδιά έτρεξαν πίσω στο σπίτι για να φωνάξουν τους γονείς τους. Σύντομα όλη η οικογένεια ήταν στο ποτάμι για να δει το πλάσμα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of arms in this picture. If each person had two arms, how many arms would there be?"
+msgstr "Μετρήστε τον αριθμό των χεριών σε αυτή την εικόνα. Αν είχε κάθε άνθρωπος δύο χέρια, πόσα χέρια θα υπήρχαν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Arms and legs are called limbs. How many limbs does this family have?"
+msgstr "Τα χέρια και τα πόδια ονομάζονται άκρα. Πόσα άκρα έχει αυτή η οικογένεια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice that the grass was tall, but now it is short? Did someone cut the grass?"
+msgstr "Παρατηρήσατε ότι το χόρτο ήταν ψηλό, αλλά τώρα είναι κοντό; Έκοψε κάποιος το χόρτο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Don't hurt me! the creature said, as it hid behind the tree. Now the family could only see the creature's one foot, one leg, one hand, one arm and one eye."
+msgstr "\"Μη μου κάνετε κακό!\" είπε το πλάσμα, καθώς κρυβόταν πίσω από το δέντρο. Τώρα η οικογένεια μπορούσε να δει μόνο το ένα πόδι, το ένα χέρι, την μία παλάμη, το ένα μάτι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature is hiding behind a tree. Where are some places you like to hide?"
+msgstr "Το πλάσμα κρύβεται πίσω από ένα δέντρο. Ποια είναι μερικά μέρη που αρέσει σε σας να κρύβεστε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the creature is halfway behind the tree, it looks just like each of the family members. Why is that?"
+msgstr "Όταν το πλάσμα είναι μισό πίσω από το δέντρο, μοιάζει ακριβώς με κάθε μέλος της οικογένειας. Γιατί συμβαίνει αυτό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature feels \"outnumbered.\" How many people are in the family and how many creatures are there? Which is more and which is less?"
+msgstr "Το πλάσμα αισθάνεται ότι το έχουν \"ξεπεράσει αριθμητικά\". Πόσα άτομα είναι στην οικογένεια και πόσα πλάσματα υπάρχουν; Ποια είναι περισσότερα και ποια λιγότερα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I am just like you, continued the creature. \"The only difference is that I was made with two of almost everything.\""
+msgstr "\"Είμαι ακριβώς σαν εσάς,\" συνέχισε το πλάσμα. \"Η μόνη διαφορά είναι ότι φτιάχτηκα με δύο από σχεδόν τα πάντα.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which body parts do you have two of and which do you have one of?"
+msgstr "Ποια μέρη του σώματός σας έχετε δύο και ποια έχετε ένα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For the body parts you have one of, are they on the sides or the middle line of your body?"
+msgstr "Τα μέρη του σώματος που έχετε ένα, βρίσκονται στα πλάγια ή στη μεσαία γραμμή του σώματός σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of someone you know. List three ways they are similar to you and three ways that they are different."
+msgstr "Σκεφτείτε κάποιον που γνωρίζετε. Πείτε τρεις τρόπους με τους οποίους είναι παρόμοιος με εσάς και τρεις τρόπους με τους οποίους διαφέρει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So this was how the Izanzawu family discovered that it was not a creature to be scared of. It was simply a different form of them."
+msgstr "Έτσι η οικογένεια Ιζινζάου ανακάλυψε ότι δεν ήταν ένα πλάσμα που έπρεπε να φοβηθούν. Ήταν απλά μια διαφορετική εκδοχή από αυτούς."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature has a striped shirt with two colors and everyone else's shirt has just one. Why did the writer do that?"
+msgstr "Το πλάσμα έχει μια ριγέ μπλούζα με δύο χρώματα και όλοι οι άλλοι έχουν μπλούζα με μόνο ένα. Γιατί το έκανε αυτό ο συγγραφέας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are six people in the Izanzawu family. When you add one more for the \"creature,\" how many people are there?"
+msgstr "Υπάρχουν έξι άτομα στην οικογένεια Ιζινζάου. Όταν προσθέσετε ένα ακόμα για το \"πλάσμα\", πόσα άτομα είναι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
+msgstr "Αν τακτοποιήσετε αυτά τα επτά άτομα κατά ύψος, ξεκινώντας από το πιο κοντό στα αριστερά και το πιο ψηλό στα δεξιά, ποια θα ήταν η σειρά; Περιγράψτε αυτήν τη σειρά χρησιμοποιώντας το χρώμα των ρούχων τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drum has always been an important musical instrument in our community. We love drums!\n"
+"\n"
+"We have drums of different sizes: big, medium-sized, and small."
+msgstr ""
+"Το τύμπανο ήταν πάντα ένα σημαντικό μουσικό όργανο στην κοινότητά μας. Αγαπάμε τα τύμπανα!\n"
+"\n"
+" Έχουμε τύμπανα διαφορετικών μεγεθών: μεγάλα, μεσαίου μεγέθους και μικρά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of things that have the same shape with different sizes. Perhaps one big and one small, or three with big, medium, and small."
+msgstr "Σκεφτείτε πράγματα που έχουν το ίδιο σχήμα αλλά διαφορετικά μεγέθη. Ίσως ένα μεγάλο και ένα μικρό, ή τρία σε μεγάλο, μεσαίο και μικρό μέγεθος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of stories about three things. Some examples are: The Three Little Pigs and Goldilocks."
+msgstr "Σκεφτείτε ιστορίες για τρία πράγματα. Ένα παράδειγμα είναι: Τα Τρία Μικρά Γουρουνάκια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever beat on a drum? Which of these three would you choose?"
+msgstr "Έχετε χτυπήσει ποτέ τύμπανο; Ποιο από αυτά τα τρία θα επιλέγατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We play drums using beaters, or with our fingers.\n"
+"\n"
+"We play drums for various reasons: We play drums with songs and dances, for feasts, and in bad times."
+msgstr ""
+"Παίζουμε τύμπανα με μπαγκέτες ή με τα δάχτυλά μας.\n"
+"\n"
+"Παίζουμε τύμπανα για διάφορους λόγους: παίζουμε τύμπανα για τραγούδια και χορούς, σε γιορτές αλλά και σε δύσκολες στιγμές."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People use drums to make rhythms. Make up your own rhythm and count it. For example:  (clapping for each number) \"1, 2, pause, 3, 1, 2, pause 3.\""
+msgstr "Οι άνθρωποι χρησιμοποιούν τα τύμπανα για να δημιουργούν ρυθμούς. Φτιάξε ένα δικό σου ρυθμό και μέτρα τον. Για παράδειγμα: (παλαμάκια τόσα για κάθε αριθμό) \"1, 2, παύση, 3, 1, 2, παύση 3.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you suppose a beater sounds different than using fingers?"
+msgstr "Πώς νομίζετε ότι ακούγεται μια μπαγκέτα σε σύγκριση με τα δάχτυλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does the small drum sound different than the large one?"
+msgstr "Πώς ακούγεται το μικρό τύμπανο σε σχέση με το μεγάλο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Drums enrich songs and make people want to dance. Drums make ceremonies colorful.\n"
+"\n"
+"We play drums during ceremonies for marriage and child naming. We play drums when celebrating a new harvest or a twin birth."
+msgstr ""
+"Τα τύμπανα εμπλουτίζουν τα τραγούδια και κάνουν τον κόσμο να θέλει να χορέψει. Τα τύμπανα κάνουν τις τελετές πολύχρωμες.\n"
+"\n"
+"Παίζουμε τύμπανα στους γάμους και στις βαφτίσεις. Παίζουμε τύμπανα όταν γιορτάζουμε τη νέα σοδειά ή τη γέννηση δίδυμων παιδιών."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People are wearing special wedding clothes. Count together the people wearing orange."
+msgstr "Οι άνθρωποι φοράνε ειδικά ρούχα γάμου. Μετρήστε μαζί τους ανθρώπους που φορούν πορτοκαλί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color are the drummers wearing?"
+msgstr "Τι χρώμα είναι τα ρούχα των ανθρώπων που παίζουν τα τύμπανα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the people at the wedding. Can you count that high?"
+msgstr "Μετρήστε μαζί όλους τους ανθρώπους στον γάμο. Μπορείτε να μετρήσετε μέχρι τόσο μεγάλο αριθμό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We sound drums to announce grief and call people when death occurs."
+msgstr "Χτυπάμε τύμπανα για να ανακοινώσουμε και λυπητερά γεγονότα και για να καλέσουμε κόσμο όταν συμβαίνει ένας θάνατος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does sad drumming sound like? Can you make a soft, sad rhythm with your hands?"
+msgstr "Πώς ακούγεται ένα λυπητερό τύμπανο; Μπορείτε να δημιουργήσετε έναν απαλό, λυπητερό ρυθμό με τα χέρια σας;"
 
 #. type=data_list
 msgctxt "data_list"
