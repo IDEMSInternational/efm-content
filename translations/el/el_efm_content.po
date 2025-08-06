@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-08-04 23:17\n"
+"PO-Revision-Date: 2025-08-06 16:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2317,4 +2317,29 @@ msgstr ""
 "Αυτή είναι η Γάτα.\n"
 "\n"
 "Αυτός είναι ο Σκύλος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A Very Tall Man"
+msgstr "Ένας πολύ ψηλός άνδρας"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story looks at counting to 5, descriptions, and comparisons. Practice describing words: too, very, short, tall, long, low, high, big, small; color names; and comparison words: shorter, taller, longer, lower, higher, bigger, smaller"
+msgstr "Αυτή η ιστορία περιλαμβάνει το μέτρημα μέχρι το 5, περιγραφές και συγκρίσεις. Εξάσκηση λέξεων περιγραφής: πάρα πολύ, πολύ, κοντός, ψηλός, μακρύς, χαμηλός, ψηλός, μεγάλος, μικρός, ονόματα χρωμάτων και λέξεις σύγκρισης: μικρότερος, ψηλότερος, μακρύτερος, χαμηλότερος, ψηλότερος, μεγαλύτερος, μικρότερος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akadeli's Lucky Day"
+msgstr "Η τυχερή μέρα της Ακαντέλι"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has  counting to 12, colors, and shapes. Practice words: one, two, to twelve, estimate, take away, color names, shortest, tallest, similar, and different."
+msgstr "Αυτή η ιστορία περιλαμβάνει μέτρημα μέχρι το 12, χρώματα και σχήματα. Λέξεις εξάσκησης: ένα, δύο… μέχρι το δώδεκα, εκτιμώ, αφαιρώ, ονόματα χρωμάτων, το πιο κοντό, το πιο ψηλό, παρόμοιο και διαφορετικό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can We Count Our Cats?"
+msgstr "Μπορούμε να μετρήσουμε τις γάτες μας;"
 
