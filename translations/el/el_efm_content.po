@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-08-07 18:54\n"
+"PO-Revision-Date: 2025-08-07 19:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9610,6 +9610,658 @@ msgstr "Αναπνέετε κυρίως από το στόμα ή τη μύτη 
 msgctxt "data_list"
 msgid "Watch the time for half a minute and count your breaths. How many were there?"
 msgstr "Κοιτάξτε τον χρόνο για μισό λεπτό και μετρήστε τις αναπνοές σας. Πόσες ήταν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"And I can make my breath noisier. \n"
+"Ssssssssssss!\n"
+"\n"
+"And softer.\n"
+"Mmmmmmmm."
+msgstr ""
+"Και μπορώ να κάνω την αναπνοή μου πιο θορυβώδη.\n"
+"Σσσσσσσσ!\n"
+"\n"
+"Και πιο απαλή.\n"
+"Μμμμμμμμμ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is making her toy fly around by blowing on it very hard. When have you blown hard on something?"
+msgstr "Κάνει το παιχνίδι της να πετάει ξεφυσώντας πάνω του πολύ δυνατά. Έχετε φυσήξει πότε δυνατά σε κάτι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you blown out candles on a birthday cake or maybe blown on a fire to help it burn?"
+msgstr "Έχετε σβήσει κεριά από μια τούρτα γενεθλίων ή μήπως φυσήξατε σε μια φωτιά για να την κάνετε να ανάψει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How old were you at your last birthday?"
+msgstr "Πόσο χρονών ήσασταν στα τελευταία σας γενέθλια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now I can hear my heart beating!\n"
+"\n"
+"Doodom, doodoom, dooo dooom."
+msgstr ""
+"Τώρα μπορώ να ακούσω την καρδιά μου να χτυπά!\n"
+"\n"
+"Ντού-ντούμ, ντού-ντούμ, ντούουου ντούμ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is not easy to hear your own heart beating. Can you hear yours?"
+msgstr "Δεν είναι εύκολο να ακούσεις την καρδιά σου να χτυπάει. Μπορείς να τη ακούσεις;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Put your ear on someone's chest so you can hear their heart beating."
+msgstr "Βάλε το αυτί σου πάνω στο στήθος κάποιου για να ακούσεις την καρδιά του να χτυπά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think your heart ever stops beating? Most of your muscles can get tired, but your heart muscle never does!"
+msgstr "Νομίζετε ότι η καρδιά σας σταματάει ποτέ να χτυπάει; Οι περισσότεροι μύες σας μπορούν να κουραστούν, αλλά ο μυς της καρδιάς σας ποτέ!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Can I make my heart go faster or louder?\n"
+"\n"
+"Yes, by jumping up and down twenty times."
+msgstr ""
+"Μπορώ να κάνω την καρδιά μου να χτυπά πιο γρήγορα ή πιο δυνατά;\n"
+"\n"
+"Ναι, πηδώντας πάνω και κάτω είκοσι φορές."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count to 20 to count the jumps?"
+msgstr "Μπορείτε να μετρήσετε μέχρι το 20 για να μετρήσετε τα πηδήματα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you can't count to 20, you can count to 10 and then immediately count to 10 again. That will be just the same."
+msgstr "Αν δεν μπορείτε να μετρήσετε μέχρι το 20, μπορείτε να μετρήσετε μέχρι το 10 και μετά να ξαναμετρήσετε μέχρι το 10. Αυτό είναι ακριβώς το ίδιο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you run around and start breathing hard, do you sometimes feel your heart beating in your chest?"
+msgstr "Όταν τρέχετε και αρχίζετε να αναπνέετε δυνατά, νιώθετε μερικές φορές την καρδιά σας να χτυπά στο στήθος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now see, my heart is beating faster."
+msgstr "Τώρα δες, η καρδιά μου χτυπά πιο γρήγορα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen your own heart beating in your chest? Is it possible to see it?"
+msgstr "Έχετε δει ποτέ την καρδιά σας να χτυπά στο στήθος σας; Είναι δυνατόν να τη δείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The storyteller and artist are stretching the truth a bit here. Have you ever stretched the truth a bit to make a story a little more interesting?"
+msgstr "Ο αφηγητής και ο καλλιτέχνης υπερβάλλουν λίγο εδώ. Έχετε υπερβάλλει ποτέ λίγο για να κάνετε μια ιστορία πιο ενδιαφέρουσα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her toy is covering its ears because the heart is beating so loudly. Is it possible to hear someone else's heart from a distance?"
+msgstr "Το παιχνίδι της κρατά τα αυτιά του επειδή η καρδιά χτυπά τόσο δυνατά. Είναι δυνατό να ακούσεις την καρδιά κάποιου άλλου από μακριά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If I put my fingers on my wrist, then I can feel my pulse!"
+msgstr "Αν βάλω τα δάχτυλά μου στον καρπό μου, τότε μπορώ να νιώσω τον παλμό μου!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you feel your pulse on your wrist? Some people like to feel their pulse on their neck or on their head. Try it!"
+msgstr "Μπορείτε να νιώσετε τον παλμό σας στον καρπό σας; Μερικοί άνθρωποι προτιμούν να νιώθουν τον παλμό τους στον λαιμό ή στο κεφάλι τους. Δοκιμάστε το!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count your pulse for ten seconds. Did you get a count between 7 and 20?"
+msgstr "Μετρήστε τον παλμό σας για δέκα δευτερόλεπτα. Πήρατε ένα αποτέλεσμα ανάμεσα στο 7 και το 20;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have another person do the same thing and compare the counts you got. Whose count was more and whose was less?"
+msgstr "Ζητήστε από κάποιο άλλο άτομο να κάνει το ίδιο και συγκρίνετε τα αποτελέσματα που πήρατε. Ποιος από τους δύο είχε τους περισσότερους χτύπους και ποιος είχε τους λιγότερους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear myself laughing.\n"
+"\n"
+"Haha, haha, haaah, haaa!"
+msgstr ""
+"Μπορώ να ακούσω τον εαυτό μου να γελάει.\n"
+"\n"
+"Χαχα, χαχα, χαααα, χααα!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is very expressive, so her laughter is probably very loud. Is it possible to laugh softly? Can you do it?"
+msgstr "Είναι πολύ εκφραστική, οπότε το γέλιο της μάλλον είναι πολύ δυνατό. Είναι δυνατόν να γελάσετε ήσυχα; Μπορείτε να το κάνετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People often like to laugh together. When you laugh, do other people laugh with you?"
+msgstr "Οι άνθρωποι συχνά θέλουν να γελούν μαζί. Όταν γελάτε, γελούν και άλλοι άνθρωποι μαζί σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even when there is nothing funny happening, sometimes just laughing out loud can make you feel better."
+msgstr "Ακόμα και όταν δεν συμβαίνει κάτι αστείο, μερικές φορές το να γελάτε δυνατά μπορεί να σας κάνει να νιώσετε καλύτερα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I can hear myself crying. Boohoooo hooo!"
+msgstr "Μπορώ να ακούσω τον εαυτό μου να κλαίει. Μπουχουχου χουου!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she is really crying, or is she just pretending?"
+msgstr "Νομίζετε ότι κλαίει πραγματικά ή απλώς προσποιείται;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you ever pretend to cry so that people will feel sorry for you?"
+msgstr "Έχετε προσποιηθεί ποτέ ότι κλαίτε, ώστε οι άλλοι να σας λυπηθούν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people feel much better after they cry. Do you feel better after you cry?"
+msgstr "Μερικοί άνθρωποι αισθάνονται πολύ καλύτερα αφού κλάψουν. Εσείς νιώθετε καλύτερα μετά το κλάμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear myself clapping.\n"
+"\n"
+"Clap, clap, clap."
+msgstr ""
+"Μπορώ να ακούσω τον εαυτό μου να χειροκροτεί.\n"
+"\n"
+"Πατ, πατ, πατ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a pattern using claps and foot stomps on the ground."
+msgstr "Βρείτε ένα μοτίβο χρησιμοποιώντας παλαμάκια και χτυπήματα των ποδιών στο έδαφος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was your pattern complicated, or was it as simple as: clap clap stomp, clap clap stomp?"
+msgstr "Ήταν το μοτίβο σας περίπλοκο ή τόσο απλό όσο: παλαμάκια, παλαμάκια, χτύπημα, παλαμάκια, παλαμάκια, χτύπημα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dancing is often a pattern of movements with your arms and legs. Do you like to dance?"
+msgstr "Ο χορός είναι συχνά ένα μοτίβο κινήσεων με τα χέρια και τα πόδια. Σας αρέσει να χορεύετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I can hear my stomach rumbling!\n"
+"\n"
+"Guddu, guddu, guddu."
+msgstr ""
+"Μπορώ να ακούσω το στομάχι μου να γουργουρίζει!\n"
+"\n"
+"Γκρου, γκρου, γκρου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your stomach rumbles, what is your body feeling?"
+msgstr "Όταν το στομάχι σας γουργουρίζει, τι νιώθει το σώμα σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does your stomach ever rumble when it is having trouble digesting something or when you're sick?"
+msgstr "Το στομάχι σας γουργουρίζει ποτέ όταν έχει πρόβλημα να χωνέψει κάτι ή όταν είστε άρρωστοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at her face, what is she feeling right now?"
+msgstr "Κοιτάζοντας το πρόσωπό της, τι πιστεύετε ότι νιώθει αυτή τη στιγμή;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My stomach is saying, \"Feed me!\""
+msgstr "Το στομάχι μου λέει, \"Τάισέ με!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been so hungry you couldn't wait and you had to eat immediately?"
+msgstr "Έχετε νιώσει ποτέ τόσο πεινασμένοι που δεν μπορείτε να περιμένετε και πρέπει να φάτε αμέσως;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think her stomach is really shoving her to get some food?"
+msgstr "Νομίζετε ότι το στομάχι της πραγματικά την σπρώχνει να πάει προς το φαγητό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each time she bounds forward, she takes two steps. You can count those steps by counting by 2's -- 2, 4, 6, 8, ..."
+msgstr "Κάθε φορά που κινείται μπροστά, κάνει δύο βήματα. Μπορείτε να μετρήσετε αυτά τα βήματα με πηδηματάκια ανά 2 — 2, 4, 6, 8, ..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"My nose can smell cakes baking in mother's kitchen.\n"
+"\n"
+"And now I want to hear my jaws chewing those cakes!"
+msgstr ""
+"Η μύτη μου μπορεί να μυρίσει τα κέικ που ψήνονται στην κουζίνα της μαμάς.\n"
+"\n"
+"Και τώρα θέλω να ακούσω τα σαγόνια μου να μασούν αυτά τα κέικ!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many really small cakes do you think she will eat?"
+msgstr "Πόσα μικρά κέικ νομίζετε ότι θα φάει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the most cookies or other snack you've eaten at one time?"
+msgstr "Πόσα είναι τα περισσότερα μπισκότα ή άλλο σνακ που έχετε φάει ποτέ μεμιάς;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
+msgstr "Η ιστορία μίλησε για πολλούς διαφορετικούς ήχους που μπορεί να κάνει το σώμα σας. Πόσους από αυτούς μπορείτε να θυμηθείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I have a very big problem, cried Chief Short and Round in a loud voice. \"Everyone, come here! I have a very big problem.\"\n"
+"\n"
+"The people of the Village of Many Shapes formed a big circle around Chief Short and Round. They wanted to hear what he had to say."
+msgstr ""
+"\"Έχω ένα πολύ μεγάλο πρόβλημα,\" φώναξε ο Αρχηγός Κοντός και Στρογγυλός με δυνατή φωνή. \" Ελάτε όλοι, εδώ! Έχω ένα πολύ μεγάλο πρόβλημα.\"\n"
+"\n"
+"Οι άνθρωποι του Χωριού των Πολλών Σχημάτων σχημάτισαν έναν μεγάλο κύκλο γύρω από τον Αρχηγό Κοντό και Στρογγυλό. Ήθελαν να ακούσουν τι είχε να πει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A polygon is a shape with several straight sides. Triangles have 3 sides, quadrilaterals have 4, pentagons have 5, and hexagons have 6. Name some polygons where you are."
+msgstr "Ένα πολύγωνο είναι ένα σχήμα με πολλές ευθείες πλευρές. Τα τρίγωνα έχουν 3 πλευρές, τα τετράπλευρα 4, τα πεντάγωνα 5 και τα εξάγωνα 6. Ονομάστε μερικά πολύγωνα εκεί που βρίσκεστε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the shapes of the buildings in this picture?"
+msgstr "Ποια είναι τα σχήματα των κτιρίων σε αυτήν την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are snowflakes in the sky on a sunny day on  this page. Have you ever seen this?"
+msgstr "Υπάρχουν νιφάδες χιονιού στον ουρανό σε μια ηλιόλουστη μέρα σε αυτή τη σελίδα. Έχετε δει ποτέ κάτι τέτοιο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Chief Short and Round began, \"This is the worst news ever. I have lost my spring horn.\" \n"
+"\n"
+"The villagers whispered to each other, \"Oh no!\" Chief Short and Round continued talking, \"If I don't find my spring horn then I can't blow my spring horn! And we can't start the springtime party if I can't blow my spring horn. And spring won't come if we don't have a springtime party.\""
+msgstr "Ο Αρχηγός Κοντός και Στρογγυλός άρχισε να μιλάει: \"Αυτό είναι το χειρότερο νέο που έχω ακούσει ποτέ. Έχασα το ανοιξιάτικο κέρας μου.\" Οι κάτοικοι ψιθύρισαν μεταξύ τους, \"Ω όχι!\" Ο Αρχηγός Κοντός και Στρογγυλός συνέχισε: \"Αν δεν βρω το ανοιξιάτικο κέρας μου, τότε δεν μπορώ να φυσήξω το ανοιξιάτικο κέρας! Και δεν μπορούμε να ξεκινήσουμε τη γιορτή της άνοιξης αν δεν φυσήξω το ανοιξιάτικο κέρας. Και η άνοιξη δεν θα έρθει αν δεν κάνουμε γιορτή της άνοιξης.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many of these people have very colorful clothes. What are your favorite colors to wear to a party?"
+msgstr "Πολλοί από αυτούς τους ανθρώπους φοράνε πολύχρωμα ρούχα. Ποια είναι τα αγαπημένα σας χρώματα για μια γιορτή;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever looked forward to a party and then worried that it might not happen?"
+msgstr "Περιμένατε ποτέ με ανυπομονησία μια γιορτή και ανησυχήσατε ότι μπορεί να μη γίνει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many beautiful polygons on these clothes! There are patterns with squares (polygons with four equal sides and four square corners), and some with hexagons. Notice how the hexagons on the back of the shirt are made of six triangles in a lively pattern!"
+msgstr "Υπάρχουν πολλά όμορφα πολύγωνα σε αυτά τα ρούχα! Υπάρχουν μοτίβα με τετράγωνα (πολύγωνα με τέσσερις ίσες πλευρές και τέσσερις τετραγωνισμένες γωνίες) και κάποια με εξάγωνα. Παρατηρήστε πώς τα εξάγωνα στην πλάτη του πουκαμίσου σχηματίζονται από έξι τρίγωνα σε ένα έντονο μοτίβο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Little Square Jojo stepped into the circle and lifted up his hand. \"I will find your spring horn, Chief Short and Round.\" \"Good, good,\" said the chief with a smile. \"You can start looking in the last place I visited this morning. Go to Tata Rectangle's house. I remember having my horn with me there.\""
+msgstr "Ο Μικρός Τετράγωνος Τζότζο μπήκε στον κύκλο και σήκωσε το χέρι του. \"Θα βρω το ανοιξιάτικο κέρας σου, Αρχηγέ Κοντέ και Στρογγυλέ.\" \"Καλά, καλά,\" είπε ο αρχηγός με χαμόγελο. \"Μπορείς να αρχίσεις να ψάχνεις στο τελευταίο μέρος που επισκέφτηκα σήμερα το πρωί. Πήγαινε στο σπίτι του Τάτα Ορθογώνιου. Θυμάμαι ότι είχα μαζί μου το κέρας μου εκεί.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does Little Square Jojo deserve his name?"
+msgstr "Γιατί ο Μικρός Τετράγωνος Τζότζο ταιριάζει με το όνομά του;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many circles in this picture. How many circles can you find?"
+msgstr "Υπάρχουν πολλοί κύκλοι σε αυτή την εικόνα. Πόσους κύκλους μπορείτε να βρείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many squares are there on Jojo's clothes? That is a very tricky question because there are squares of different sizes on his clothes -- some of the squares are made up of smaller squares!"
+msgstr "Πόσα τετράγωνα υπάρχουν στα ρούχα του Τζότζο; Αυτή είναι μια πολύ δύσκολη ερώτηση, γιατί υπάρχουν τετράγωνα διαφορετικών μεγεθών στα ρούχα του — μερικά από τα τετράγωνα αποτελούνται από μικρότερα τετράγωνα!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Tata Rectangle was happy to see Jojo. He opened his door and welcomed Jojo inside. \"I remember seeing Chief Short and Round earlier this morning,\" said Tata Rectangle, \"but I don't think he had his spring horn with him.\" \n"
+"\n"
+"Little Square Jojo looked under Tata Rectangle's bed and behind his books. He even looked into his fridge. But Jojo couldn't find the spring horn anywhere."
+msgstr "Ο Τάτα Ορθογώνιος ήταν χαρούμενος που είδε τον Τζότζο. Άνοιξε την πόρτα του και καλωσόρισε τον Τζότζο. \"Θυμάμαι ότι είδα τον Αρχηγό Κοντό και Στρογγυλό σήμερα το πρωί,\" είπε ο Τάτα Ορθογώνιος, \"αλλά δεν νομίζω ότι είχε μαζί του το ανοιξιάτικο κέρας του.\" Ο Μικρός Τετράγωνος Τζότζο έψαξε κάτω από το κρεβάτι του Τάτα Ορθογώνιου και πίσω από τα βιβλία του. Έψαξε ακόμα και μέσα στο ψυγείο του. Αλλά ο Τζότζο δεν μπορούσε να βρει το ανοιξιάτικο κέρας πουθενά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle has four straight sides with corners like the corners of this page. A square is always a rectangle, but rectangles are not always squares. What would make a rectangle not be a square?"
+msgstr "Ένα ορθογώνιο έχει τέσσερις ευθείες πλευρές με γωνίες όπως οι γωνίες αυτής της σελίδας. Ένα τετράγωνο είναι πάντα ορθογώνιο, αλλά τα ορθογώνια δεν είναι πάντα τετράγωνα. Τι θα έκανε ένα ορθογώνιο να μην είναι τετράγωνο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there any rectangles that are squares in this picture?"
+msgstr "Υπάρχουν ορθογώνια που είναι τετράγωνα σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which objects in this room are rectangles? There are rectangles everywhere on this page! Point to as many rectangles as you can."
+msgstr "Ποια αντικείμενα σε αυτό το δωμάτιο είναι ορθογώνια; Υπάρχουν ορθογώνια παντού σε αυτή τη σελίδα! Δείξτε όσο περισσότερα ορθογώνια μπορείτε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Go and see if Mama Triangle has the spring horn, said Tata Rectangle. \"Chief Short and Round visited her before he came to see me.\" \"Thank you, Tata,\" said Jojo as he waved goodbye.\n"
+"\n"
+"Mama Triangle's house is about three kilometers from here, thought Jojo. That is a far distance to walk. I will stop at my house along the way and have a rest."
+msgstr ""
+"\"Πήγαινε να δεις αν η Μαμά Τρίγωνο έχει το ανοιξιάτικο κέρας,\" είπε ο Τάτα Ορθογώνιος. \"Ο Αρχηγός Κοντός και Στρογγυλός την επισκέφτηκε πριν έρθει σε εμένα.\" \"Ευχαριστώ, Τάτα,\" είπε ο Τζότζο καθώς τον αποχαιρετούσε.\n"
+"\n"
+"\"Το σπίτι της Μαμάς Τρίγωνο είναι περίπου τρία χιλιόμετρα από εδώ,\" σκέφτηκε ο Τζότζο. \"Αυτή είναι μεγάλη απόσταση για να περπατήσω. Θα σταματήσω στο σπίτι μου στη διαδρομή και θα ξεκουραστώ.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the tallest things in this picture? Have you ever seen a person almost as tall as a house?"
+msgstr "Ποια είναι τα πιο ψηλά πράγματα σε αυτή την εικόνα; Έχετε δει ποτέ κάποιον σχεδόν τόσο ψηλό όσο ένα σπίτι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo is going for a long 3km (about two miles) walk. What is the farthest you have ever walked?"
+msgstr "Ο Τζότζο κάνει έναν μεγάλο περίπατο 3 χμ. Ποια είναι η πιο μακρινή απόσταση που έχετε περπατήσει ποτέ;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you ever walk a long, long time? How many minutes was that walk? 10? 20? 60? more?"
+msgstr "Έχετε περπατήσει ποτέ για πολλή ώρα; Πόσα λεπτά διήρκησε εκείνος ο περίπατος; 10; 20; 60; περισσότερο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo was hot and tired by the time he reached his house. He went inside to open his freezer and pour a glass of cold water with ice blocks. \"I must be half the way to Mama Triangle's house,\" he said. \"I hope she has the chief's horn.\"\n"
+"\n"
+"Then Jojo had an idea. \"I can visit Dudu Diamond. Her house is only half a kilometer from here and it's on the way."
+msgstr ""
+"Ο Μικρός Τετράγωνος Τζότζο είχε ζεσταθεί και είχε κουραστεί όταν έφτασε στο σπίτι του. Μπήκε μέσα, άνοιξε την κατάψυξη και έβαλε ένα ποτήρι παγωμένο νερό με παγάκια. \"Πρέπει να είμαι στη μέση της διαδρομής για το σπίτι της Μαμάς Τρίγωνο,\" είπε. \"Ελπίζω να έχει το κέρας του αρχηγού.\"\n"
+"\n"
+"Τότε ο Τζότζο είχε μια ιδέα. \"Μπορώ να επισκεφτώ τη Ντούντου Ρόμβο. Το σπίτι της είναι μόνο μισό χιλιόμετρο από εδώ και είναι στη διαδρομή.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "On this floor, you can hop from one square to another square of the same color. Choose one color with your finger and hop around that room."
+msgstr "Στο πάτωμα, μπορείτε να πηδήξετε από το ένα τετράγωνο στο άλλο με το ίδιο χρώμα. Επιλέξτε ένα χρώμα με το δάχτυλό σας και πηδήξτε γύρω-γύρω στο δωμάτιο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a pattern on the floor where you are? Do you ever hop around a room trying to stay on just one color?"
+msgstr "Έχετε σχέδια στο πάτωμα εκεί που είστε; Έχετε ποτέ πηδήξει σε ένα δωμάτιο προσπαθώντας να παραμείνετε σε ένα μόνο χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo has walked half way of his 3 km (2 mi) walk. How far has he walked?"
+msgstr "Ο Τζότζο έχει περπατήσει τη μισή διαδρομή από τα 3 χμ. Πόσο έχει περπατήσει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond was cleaning her house when Jojo arrived. Her earrings were making a lovely tinkling sound as she worked. \n"
+"\n"
+"\"Hello, Jojo,\" she said. \"What are you doing today?\" \"I am on my way to Mama Triangle's house to find the chief's spring horn,\" said Little Square Jojo. \"That's nice of you,\" said Dudu. \"I am happy to come with you. How much further do you have to go?\""
+msgstr "Η Ντούντου Ρόμβος καθάριζε το σπίτι της όταν έφτασε ο Τζότζο. Τα σκουλαρίκια της έκαναν έναν όμορφο ήχο καθώς δούλευε. \"Γεια σου, Τζότζο,\" είπε. \"Τι κάνεις σήμερα;\" \"Είμαι καθ' οδόν για το σπίτι της Μαμάς Τρίγωνο για να βρω το ανοιξιάτικο κέρας του αρχηγού,\" είπε ο Μικρός Τετράγωνος Τζότζο. \"Αυτό είναι πολύ καλό από μέρους σου,\" είπε η Ντούντου. \"Θα χαρώ να έρθω μαζί σου. Πόσο ακόμα έχεις να περπατήσεις;\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another name for a diamond is a rhombus. A rhombus is a quadrilateral with four equal sides. A square is always a rhombus, but not every rhombus is a square. Point to some diamonds in this picture that aren't squares."
+msgstr "Ένας ρόμβος είναι ένα τετράπλευρο με τέσσερις ίσες πλευρές. Ένα τετράγωνο είναι πάντα ρόμβος, αλλά δεν είναι όλοι οι ρόμβοι τετράγωνα. Δείξτε μερικούς ρόμβους σε αυτή την εικόνα που δεν είναι τετράγωνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room is full of diamond shapes. What shape are the diamond windows if you turn them on their side? Jojo should feel right at home with those windows!"
+msgstr "Αυτό το δωμάτιο είναι γεμάτο σχέδια με ρόμβους. Τι σχήμα έχουν τα παράθυρα-ρόμβοι αν τα γυρίσετε στο πλάι; Ο Τζότζο θα πρέπει να αισθάνεται σαν στο σπίτι του με αυτά τα παράθυρα!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This room has many pairs of things. Which pairs do you see?"
+msgstr "Αυτό το δωμάτιο έχει πολλά ζευγάρια πραγμάτων. Ποια ζευγάρια βλέπετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Little Square Jojo scratched his head. \"Let's see. Mama Triangle's house was three kilometers away from where I started. I walked about half the way to get to my house, that's one and a half kilometers. Then I walked another half a kilometer to get to your house. That makes 2 kilometers. So we only have one more kilometer to go!\" \n"
+"\n"
+"\"That's not so far then!\" smiled Dudu. \"I'll pack some things to take with.\""
+msgstr "Ο Μικρός Τετράγωνος Τζότζο έξυσε το κεφάλι του. \"Για να δούμε. Το σπίτι της Μαμάς Τρίγωνο ήταν τρία χιλιόμετρα μακριά από το σημείο που ξεκίνησα. Περπάτησα περίπου τη μισή διαδρομή για να φτάσω στο σπίτι μου, δηλαδή ενάμιση χιλιόμετρο. Μετά περπάτησα άλλο μισό χιλιόμετρο για να φτάσω στο σπίτι σου. Αυτό κάνει 2 χιλιόμετρα. Έτσι μας μένει μόνο ένα ακόμα χιλιόμετρο να περπατήσουμε!\" \" Τότε δεν είναι και πολύ μακριά!\" χαμογέλασε η Ντούντου. \"Θα πάρω κάποια πράγματα μαζί μου.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo added 1 1/2 km plus 1/2 km to get 2 km. He subtracted 2 km from 3 km to get 1 km."
+msgstr "Ο Τζότζο πρόσθεσε 1 1/2 χμ και 1/2 χμ για να φτάσει στα 2 χμ. Αφαίρεσε 2 χμ από τα 3 χμ για να βρει 1 χμ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another way is: He had 1 1/2 km to go and he walked 1/2 km, so there was only 1 km left."
+msgstr "Ένας άλλος τρόπος είναι: είχε 1 1/2 χμ να διανύσει και περπάτησε 1/2 χμ, οπότε του έμεινε μόνο 1 χμ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yet another way: Think of 3 km as 6 half kms. When he did half of 6 of those, that meant he did 3 halves and had 3 halves to go. When he did another half km, then he only had 2 halves left. It's a fun puzzle to find different ways to calculate the same thing!"
+msgstr "Ακόμα ένας άλλος τρόπος: Σκεφτείτε 3 χμ ως 6 μισά χιλιόμετρα. Όταν έκανε τα μισά από αυτά, έκανε 3 μισά και του έμεναν 3 μισά να κάνει. Όταν έκανε ακόμα μισό χιλιόμετρο, τότε του έμεναν μόνο 2 μισά. Είναι ένα διασκεδαστικό παιχνίδι να βρίσκετε διαφορετικούς τρόπους για να υπολογίσετε το ίδιο πράγμα!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Dudu Diamond and Little Square Jojo walked until they reached the bottom of a tall mountain. \"Mama Triangle's house is right up there at the top,\" said Dudu.\n"
+"\n"
+"\"Let's stop for a while and have a rest. You can have the sandwich I packed.\" Jojo cut the sandwich into four smaller pieces. \"Here, let's share the sandwich, you have two pieces and I'll have two.\""
+msgstr ""
+"Η Ντούντου Ρόμβος και ο Μικρός Τετράγωνος Τζότζο περπατούσαν μέχρι που έφτασαν στη βάση ενός ψηλού βουνού. \"Το σπίτι της Μαμάς Τρίγωνο είναι ακριβώς εκεί πάνω στην κορυφή,\" είπε η Ντούντου.\n"
+"\n"
+"\"Ας σταματήσουμε για λίγο και να ξεκουραστούμε. Μπορείς να φας το σάντουιτς που έβαλα στην τσάντα μου.\" Ο Τζότζο έκοψε το σάντουιτς σε τέσσερα μικρότερα κομμάτια. \"Έλα, ας το μοιραστούμε, εσύ πάρε δύο κομμάτια κι εγώ άλλα δύο.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We can't see the top of the mountain. What do you think the shape is of the part we can't see?"
+msgstr "Δεν μπορούμε να δούμε την κορυφή του βουνού. Τι σχήμα νομίζετε ότι είναι το μέρος που δεν βλέπουμε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some different ways to cut a sandwich into four parts. Which shapes can you make that way?"
+msgstr "Σκεφτείτε διαφορετικούς τρόπους για να κόψετε ένα σάντουιτς σε τέσσερα μέρη. Ποια σχήματα μπορείτε να φτιάξετε έτσι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A round shape that comes to a point is called a cone. The mountain next to them is in the shape of a cone. Find some other cones in this picture."
+msgstr "Ένα στρογγυλό σχήμα που καταλήγει σε κορυφή ονομάζεται κώνος. Το βουνό δίπλα τους έχει το σχήμα κώνου. Βρείτε μερικούς άλλους κώνους σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Soon Dudu Diamond and Little Square Jojo were half the way up the mountain. Things were very different there.\n"
+"\n"
+"\"Look,\" said Jojo. \"That's the strangest spider I've ever seen.\" \"Wow,\" said Dudu. \"It has spun a beautiful web. Let's count the sides. One, two, three, four, five, and six! That makes it a hexagon then!\""
+msgstr ""
+"Σύντομα η Ντούντου Ρόμβος και ο Μικρός Τετράγωνος Τζότζο ήταν στα μισά της διαδρομής πάνω στο βουνό. Τα πράγματα ήταν πολύ διαφορετικά εκεί.\n"
+"\n"
+"\"Κοίτα,\" είπε ο Τζότζο. \"Αυτός είναι ο πιο παράξενος ιστός αράχνης που έχω δει ποτέ.\" \"Ουάου,\" είπε η Ντούντου. \"Έχει φτιάξει έναν όμορφο ιστό. Ας μετρήσουμε τις πλευρές. Ένα, δύο, τρία, τέσσερα, πέντε και έξι! Αυτό σημαίνει ότι είναι εξάγωνο!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of any other hexagons you see or know about? Are there any where you are right now? Perhaps there are some hexagons on a bathroom floor?"
+msgstr "Μπορείτε να σκεφτείτε άλλα εξάγωνα που βλέπετε ή γνωρίζετε; Υπάρχουν εξάγωνα εκεί που βρίσκεστε τώρα; Ίσως υπάρχουν εξάγωνα στο πάτωμα του μπάνιου;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know any stories or songs about spiders?"
+msgstr "Ξέρετε καμία ιστορία ή τραγούδι για αράχνες;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spiders make webs in trees, in holes in the ground, and even across water. Where have you seen spider webs where you live? Why do spiders make webs?"
+msgstr "Οι αράχνες φτιάχνουν ιστούς σε δέντρα, σε τρύπες στο έδαφος και ακόμη και πάνω από το νερό. Πού έχετε δει ιστούς αράχνης εκεί που ζείτε; Γιατί οι αράχνες φτιάχνουν ιστούς;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After climbing over a very big rock, Little Square Jojo and Dudu Diamond finally arrived at Mama Triangle's house. They were high up now and felt a bit dizzy.\n"
+"\n"
+"\"Hello, you two,\" said Mama Triangle with a smile. \"I am so happy to have visitors. Most of the time I'm all alone here on the top of my mountain. Come inside and sit down at my table."
+msgstr ""
+"Αφού ανέβηκαν σε έναν πολύ μεγάλο βράχο, ο Μικρός Τετράγωνος Τζότζο και η Ντούντου Ρόμβος έφτασαν τελικά στο σπίτι της Μαμάς Τρίγωνο. Ήταν τώρα πολύ ψηλά και ένιωθαν λίγο ζαλισμένοι.\n"
+"\n"
+"\"Γεια σας,\" είπε η Μαμά Τρίγωνο με χαμόγελο. \"Είμαι τόσο χαρούμενη που έχω επισκέπτες. Τις περισσότερες φορές είμαι μόνη εδώ στην κορυφή του βουνού μου. Ελάτε μέσα και καθίστε στο τραπέζι μου.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mama Triangle knows where the Chief's spring horn is? Do you think they wasted their time coming to the top of the mountain?"
+msgstr "Νομίζετε ότι η Μαμά Τρίγωνο ξέρει πού είναι ανοιξιάτικο κέρας του Αρχηγού; Νομίζετε ότι σπατάλησαν τον χρόνο τους ανεβαίνοντας στην κορυφή του βουνού;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a great many polygons in this picture and they are of many types. Point at some polygons and name their types."
+msgstr "Υπάρχει μια μεγάλη ποικιλία από πολύγωνα σε αυτή την εικόνα και είναι διαφόρων ειδών. Δείξτε μερικά πολύγωνα και ονομάστε τα είδη τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a few shapes that are not polygons. These shapes have at least one side that is curved and not straight. Can you find them?"
+msgstr "Υπάρχουν λίγα σχήματα που δεν είναι πολύγωνα. Αυτά τα σχήματα έχουν τουλάχιστον μία πλευρά που είναι καμπύλη και όχι ευθεία. Μπορείτε να τα βρείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle, said Jojo after catching his breath, \"We've come to find Chief Short and Round's spring horn. Tata Rectangle said that the chief visited you this morning.\" \"Yes, that is correct,\" said Mama Triangle. \"The chief came to ask me to help prepare for the springtime party. But he didn't leave his spring horn here.\" \"Oh no,\" said Jojo sadly, \"We've come all this way for nothing!\""
+msgstr "\"Μαμά Τρίγωνο,\" είπε ο Τζότζο αφού πήρε μια ανάσα, \"Ήρθαμε να βρούμε το ανοιξιάτικο κέρας του Αρχηγού Κοντού και Στρογγυλού. Ο Τάτα Ορθογώνιος είπε ότι ο αρχηγός σε επισκέφτηκε σήμερα το πρωί.\" \"Ναι, σωστά,\" είπε η Μαμά Τρίγωνο. \"Ο αρχηγός ήρθε για να μου ζητήσει βοήθεια για την προετοιμασία της γιορτής της άνοιξης. Αλλά δεν άφησε εδώ το ανοιξιάτικο κέρας του.\" \"Ω όχι,\" είπε ο Τζότζο λυπημένα. \"Ήρθαμε όλον αυτόν τον δρόμο για το τίποτα!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think they went all that way for nothing? They may not know where the horn is, but they have learned a lot during their travels."
+msgstr "Νομίζετε ότι ήρθαν όλον αυτόν τον δρόμο για το τίποτα; Μπορεί να μη γνωρίζουν πού είναι το κέρας, αλλά έχουν μάθει πολλά κατά τη διάρκεια του ταξιδιού τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes, finding out what something can't be can be almost as valuable as finding out what it is. Useful information comes in many forms!"
+msgstr "Μερικές φορές, το να μάθετε τι δεν μπορεί να είναι κάτι μπορεί να είναι εξίσου πολύτιμο με το να ανακαλύψετε τι είναι. Οι χρήσιμες πληροφορίες έχουν πολλές μορφές!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next in the story? Create an ending for how this story turns out. Do they find the horn, and if so, how do they find it?"
+msgstr "Τι πιστεύετε ότι θα συμβεί στη συνέχεια στην ιστορία; Δημιουργήστε ένα τέλος για το πώς τελειώνει αυτή η ιστορία. Βρίσκουν το κέρας και αν ναι, πώς το βρίσκουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mama Triangle held Jojo's hand as she led him outside. \"Don't worry Jojo,\" she said. \"Chief Short and Round didn't leave his spring horn here, but I know where it is. That chief can be such a silly thing!\" Mama Triangle, Little Square Jojo and Dudu Diamond all ran down the mountain and in no time at all they were safely at the bottom."
+msgstr "Η Μαμά Τρίγωνο έπιασε το χέρι του Τζότζο καθώς τον οδήγησε προς τα έξω. \"Μην ανησυχείς, Τζότζο,\" είπε. \"Ο Αρχηγός Κοντός και Στρογγυλός δεν άφησε το ανοιξιάτικο κέρας του εδώ, αλλά ξέρω πού είναι. Αυτός ο αρχηγός μπορεί να είναι τόσο αστείος καμιά φορά!\" Η Μαμά Τρίγωνο, ο Μικρός Τετράγωνος Τζότζο και η Ντούντου Ρόμβος κατέβηκαν τρέχοντας το βουνό, και μέσα σε ελάχιστο χρόνο έφτασαν με ασφάλεια στη βάση του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a lot of triangles in this picture! Can you count them all, or is it higher than you can count?"
+msgstr "Υπάρχουν πολλά τρίγωνα σε αυτή την εικόνα! Μπορείτε να τα μετρήσετε όλα ή είναι περισσότερα από όσα μπορείτε να μετρήσετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why were they able to go down the mountain so much more quickly than when they went up?"
+msgstr "Γιατί κατάφεραν να κατέβουν το βουνό τόσο πιο γρήγορα από ό,τι ανέβηκαν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oddly enough, going down a steep hill can be harder than going up. Has this happened to you?"
+msgstr "Παράξενο, αλλά το να κατεβαίνεις έναν απότομο λόφο μπορεί να είναι πιο δύσκολο από το να τον ανεβαίνεις. Σας έχει συμβεί αυτό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It was evening by the time they reached Chief Short and Round's house. Mama Triangle knocked on the door and when it was opened everyone rushed inside.\n"
+"\n"
+"\"Hello,\" said Chief Short and Round, blinking sleepily. \"Did you find my spring horn? Will we be able to have the springtime party?\" Little Square Jojo felt very bad and shook his head."
+msgstr ""
+"Ήταν βραδάκι όταν έφθασαν στο σπίτι του Αρχηγού Κοντού και Στρογγυλού. Η Μαμά Τρίγωνο χτύπησε την πόρτα και όταν άνοιξε, όλοι έτρεξαν μέσα.\n"
+"\n"
+"\"Γεια σας,\" είπε ο Αρχηγός Κοντός και Στρογγυλός, ανοιγοκλείνοντας νυσταγμένος τα μάτια του. \"Βρήκατε το ανοιξιάτικο κέρας μου; Θα μπορέσουμε να κάνουμε τη γιορτή της άνοιξης;\" Ο Μικρός Τετράγωνος Τζότζο ένιωσε πολύ άσχημα και κούνησε το κεφάλι του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief's room is round and is filled with round things. Point at and count as many circles as you can."
+msgstr "Το δωμάτιο του Αρχηγού είναι στρογγυλό και γεμάτο από στρογγυλά πράγματα. Δείξτε και μετρήστε όσους περισσότερους κύκλους μπορείτε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The circles in the rug have the same center. Circles that share a common center are called concentric circles. Do you see any concentric circles where you are?"
+msgstr "Οι κύκλοι στο χαλί έχουν το ίδιο κέντρο. Κύκλοι που μοιράζονται ένα κοινό κέντρο ονομάζονται ομόκεντροι κύκλοι. Βλέπετε ομόκεντρους κύκλους εκεί που βρίσκεστε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Chief is wearing his pajamas. What do you think his bedtime is? What is your bedtime?"
+msgstr "Ο Αρχηγός φοράει τις πιτζάμες του. Τι νομίζετε ότι ώρα κοιμάται; Τι ώρα πηγαίνετε εσείς για ύπνο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Jojo looked for your spring horn all day, said Mama Triangle. \"It is not his fault that he didn't find it. It is your fault, Chief Short and Round. Don't you remember?\" Mama Triangle pointed at the chief. \"You are wearing your spring horn on your head!\"\n"
+"\n"
+"Chief Short and Round gasped, \"Oh my, I remember it now. I was so hot from climbing up that mountain that I put my horn on my head.\""
+msgstr ""
+"\"Ο Τζότζο έψαχνε για το ανοιξιάτικο κέρας σου όλη μέρα,\" είπε η Μαμά Τρίγωνο. \"Δεν φταίει αυτός που δεν το βρήκε. Φταις εσύ, Αρχηγέ Κοντέ και Στρογγυλέ. Δεν το θυμάσαι;\" Η Μαμά Τρίγωνο έδειξε τον αρχηγό με το δάχτυλό της. \"Φοράς το ανοιξιάτικο κέρας σου στο κεφάλι σου!\"\n"
+"\n"
+"Ο Αρχηγός Κοντός και Στρογγυλός έμεινε έκπληκτος. \"Μα την αλήθεια,\" είπε, \"τώρα το θυμάμαι. Είχα ζεσταθεί τόσο όταν ανέβαινα το βουνό που έβαλα το κέρας στο κεφάλι μου.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think the Chief felt when he realized the horn was on his head?"
+msgstr "Πώς νομίζετε ότι ένιωσε ο Αρχηγός όταν συνειδητοποίησε ότι το κέρας ήταν στο κεφάλι του;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long in this story has the horn been on his head?"
+msgstr "Πόση ώρα στην ιστορία ήταν το κέρας στο κεφάλι του;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a story about a time when you thought you lost something and then found out it was in an obvious place all along."
+msgstr "Πείτε μια ιστορία για μια φορά που νομίζατε ότι χάσατε κάτι και μετά ανακαλύψατε ότι ήταν σε ένα προφανές μέρος όλη την ώρα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I am so embarrassed, said Chief Short and Round as he took his spring horn off his head. Then he passed it to Little Square Jojo. \"You have done all the hard work, Jojo. You should blow the horn.\"\n"
+"\n"
+"Little Square Jojo smiled. He lifted up the horn and gave a loud blow. \"Now we can have the springtime party!\" All was well in the Village of Many Shapes."
+msgstr ""
+"\"Νιώθω τόση ντροπή,\" είπε ο Αρχηγός Κοντός και Στρογγυλός καθώς έβγαλε το κέρας της άνοιξης από το κεφάλι του. Μετά το έδωσε στον Μικρό Τετράγωνο Τζότζο. \"Εσύ έκανες όλη τη δύσκολη δουλειά, Τζότζο. Εσύ πρέπει να φυσήξεις το κέρας.\"\n"
+"\n"
+"Ο Μικρός Τετράγωνος Τζότζο χαμογέλασε. Σήκωσε το κέρας και το φύσηξε δυνατά. \"Τώρα μπορούμε να κάνουμε τη γιορτή της άνοιξης!\" Όλα ήταν ωραία στο Χωριό των Πολλών Σχημάτων."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unlike real snowflakes, the snowflakes in this sky come in many, very different shapes. Point to a few and describe them."
+msgstr "Σε αντίθεση με αληθινές νιφάδες χιονιού, οι νιφάδες χιονιού σε αυτόν τον ουρανό έχουν πολλά, πολύ διαφορετικά σχήματα. Δείξτε μερικές και περιγράψτε τες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Jojo did a great job of problem solving. He thought about the problem, he discussed ideas with others, and he persisted even when he was having trouble solving the problem."
+msgstr "Ο Τζότζο έκανε εξαιρετική δουλειά στην επίλυση του προβλήματος. Σκέφτηκε το πρόβλημα, συζήτησε ιδέες με άλλους και συνέχισε ακόμα και όταν είχε δυσκολίες στη λύση του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a fun story, real or make believe, of a time when someone was searching all over for something for a long time and then finally found it."
+msgstr "Πείτε μια διασκεδαστική ιστορία, πραγματική ή φανταστική, για μια φορά που κάποιος έψαχνε παντού για κάτι για πολύ χρόνο και μετά τελικά το βρήκε."
 
 #. type=data_list
 msgctxt "data_list"
