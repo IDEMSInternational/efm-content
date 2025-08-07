@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-08-07 04:06\n"
+"PO-Revision-Date: 2025-08-07 05:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2422,6 +2422,21 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many people are sharing the meal? Who do you think is the oldest and who is the youngest?"
+msgstr "Πόσοι άνθρωποι μοιράζονται το γεύμα; Ποιος νομίζετε ότι είναι ο μεγαλύτερος και ποιος ο μικρότερος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are they eating inside or outside the house? Which do you like to do better – eat inside or outside?"
+msgstr "Τρώνε μέσα ή έξω από το σπίτι; Τι σας αρέσει περισσότερο — να τρώτε μέσα ή έξω;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We can't see the face of the person in the green shirt. Why? Have you ever licked a plate clean because you liked the food so much?"
+msgstr "Δεν μπορούμε να δούμε το πρόσωπο του ατόμου με το πράσινο πουκάμισο. Γιατί; Έχετε γλείψει ποτέ ένα πιάτο εντελώς επειδή σας άρεσε τόσο πολύ το φαγητό;"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Count together the whiskers, ears, legs, eyes, and tails."
 msgstr "Μετρήστε μαζί τα μουστάκια, τα αυτιά, τα πόδια, τα μάτια και τις ουρές."
 
@@ -3868,6 +3883,515 @@ msgstr ""
 "Αυτή είναι η Γάτα.\n"
 "\n"
 "Αυτός είναι ο Σκύλος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These two are a pair of friends. Point out all the pairs and groups of three you can find in this picture."
+msgstr "Αυτοί είναι δύο φίλοι. Δείξτε όλες τις ομάδες των δύο και τις ομάδες των τριών που μπορείτε να βρείτε σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cats and dogs are mammals. Mammals have fur (or hair), they give birth to babies (not eggs), and the mother feeds her baby milk. Can you think of other animals that are mammals (don't forget yourself!)?"
+msgstr "Γάτες και σκύλοι είναι θηλαστικά. Τα θηλαστικά έχουν τρίχωμα (ή μαλλιά), γεννούν μωρά (όχι αυγά) και η μητέρα ταΐζει τα μωρά της με γάλα. Μπορείτε να σκεφτείτε άλλα ζώα που είναι θηλαστικά (σκεφτείτε και τον εαυτό σας!);"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some ways that Cat and Dog are similar, and some other ways that they are different."
+msgstr "Περιγράψτε μερικά κοινά που έχουν ο Γάτος και ο Σκύλος και μερικές διαφορές που έχουν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog want to draw.\n"
+"\n"
+"Cat and Dog want to color.\n"
+"\n"
+"Cat and Dog want to make art.\n"
+"\n"
+"Dog starts.\n"
+"\n"
+"He takes a pencil and he takes a paper. The paper is a square."
+msgstr ""
+"Ο Γάτος και ο Σκύλος θέλουν να ζωγραφίσουν.\n"
+"\n"
+"Ο Γάτος και ο Σκύλος θέλουν να χρωματίσουν.\n"
+"\n"
+"Ο Γάτος και ο Σκύλος θέλουν να δημιουργήσουν τέχνη.\n"
+"\n"
+"Ο Σκύλος ξεκινά.\n"
+"\n"
+"Παίρνει ένα μολύβι και παίρνει και ένα χαρτί. Το χαρτί είναι τετράγωνο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides, like this page. A square is a rectangle with four equal sides. Point out some squares where you are now."
+msgstr "Ένα ορθογώνιο είναι ένα σχήμα με τέσσερις ευθύγραμμες πλευρές, όπως αυτή η σελίδα. Ένα τετράγωνο είναι ένα ορθογώνιο με τέσσερις ίσες πλευρές. Δείξτε μερικά τετράγωνα εκεί που βρίσκεστε τώρα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes when we draw, we know exactly what we want to draw. Other times, we have to think and think. If you drew something right now, what would you draw?"
+msgstr "Μερικές φορές, όταν ζωγραφίζουμε, ξέρουμε ακριβώς τι θέλουμε να ζωγραφίζουμε. Άλλες φορές, χρειάζεται να σκεφτούμε και να ξανασκεφτούμε. Αν ζωγραφίζατε κάτι αυτή τη στιγμή, τι θα κάνατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog is holding the pencil in his right paw. When you write or draw, which hand do you use?"
+msgstr "Ο Σκύλος κρατάει το μολύβι με το δεξί του πόδι. Όταν γράφετε ή ζωγραφίζετε, ποιο χέρι χρησιμοποιείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"First, Dog draws an oval.\n"
+"\n"
+"The oval is the body of Cat.\n"
+"\n"
+"Wow, that is simple!"
+msgstr ""
+"Πρώτα ο Σκύλος σχεδιάζει ένα ωοειδές.\n"
+"\n"
+"Το ωοειδές είναι το σώμα του Γάτου.\n"
+"\n"
+"Ουάου, είναι απλό!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An oval is like a squished or pulled circle. Ellipses are also ovals. Look for some ovals around where you are."
+msgstr "Ένα ωοειδές μοιάζει με έναν πλατυσμένο ή τραβηγμένο κύκλο. Η έλλειψη είναι επίσης ωοειδές σχήμα. Ψάξτε για ωοειδή σχήματα γύρω σας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the tails for Cat and Dog. Describe how they are similar and how they are different."
+msgstr "Κοιτάξτε τις ουρές του Γάτου και του Σκύλου. Περιγράψτε σε τι μοιάζουν και σε τι διαφέρουν μεταξύ τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dog draws Cat one step at a time. Which part of Cat do you think Dog will draw next?"
+msgstr "Ο Σκύλος ζωγραφίζει τον Γάτο βήμα-βήμα. Ποιο μέρος του Γάτου νομίζετε ότι θα ζωγραφίσει μετά ο Σκύλος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws two triangles on top of the oval.\n"
+"\n"
+"The two triangles are the ears of Cat and he draws a black triangle in the oval.\n"
+"\n"
+"The black triangle is the nose of Cat and he draws a line above the nose."
+msgstr ""
+"Έπειτα ζωγραφίζει δύο τρίγωνα πάνω από το ωοειδές.\n"
+"\n"
+"Τα δύο τρίγωνα είναι τα αυτιά του Γάτου και ζωγραφίζει ένα μαύρο τρίγωνο μέσα στο ωοειδές.\n"
+"\n"
+"Το μαύρο τρίγωνο είναι η μύτη του Γάτου και ζωγραφίζει μια γραμμή πάνω από τη μύτη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An arc is part of a circle. Point to each part of this drawing and name the shape (oval, triangle, arc)."
+msgstr "Ένα τόξο είναι μέρος ενός κύκλου. Δείξτε κάθε μέρος αυτού του σχεδίου και ονομάστε το σχήμα (ωοειδές, τρίγωνο, τόξο)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look around where you are and see how many of the shapes you can name."
+msgstr "Κοιτάξτε γύρω σας και δείτε πόσα σχήματα μπορείτε να αναγνωρίσετε και να ονομάσετε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the line above the nose. That is a surprising line. See what happens to this line in the next two pages."
+msgstr "Παρατηρήστε τη γραμμή πάνω από τη μύτη. Είναι μια γραμμή έκπληξη. Δείτε τι θα συμβεί με αυτή τη γραμμή στις επόμενες δύο σελίδες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now he draws the eyes and the eyebrows of Cat.\n"
+"\n"
+"The eyes are two dots.\n"
+"\n"
+"The eyebrows are two lines.\n"
+"\n"
+"Wow, that is easy!"
+msgstr ""
+"Τώρα ζωγραφίζει τα μάτια και τα φρύδια του Γάτου.\n"
+"\n"
+"Τα μάτια είναι δύο βουλίτσες.\n"
+"\n"
+"Τα φρύδια είναι δύο γραμμές.\n"
+"\n"
+"Ουάου, είναι εύκολο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That unusual line from the last page is the start of Cat's muzzle. That line separates the muzzle from the rest of Cat's face."
+msgstr "Η ασυνήθιστη γραμμή από την προηγούμενη σελίδα είναι η αρχή της μουσούδας του Γάτου. Αυτή η γραμμή χωρίζει τη μουσούδα από το υπόλοιπο πρόσωπο του Γάτου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The way people move their eyebrows can tell us what they are feeling. Can you move your eyebrows to show you are surprised? Angry?"
+msgstr "Ο τρόπος που οι άνθρωποι κουνάνε τα φρύδια τους μπορεί να δείξει τι αισθάνονται. Μπορείτε να κουνήσετε τα φρύδια σας για να δείξετε ότι εκπλήσσεστε; Ότι είστε θυμωμένοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do Cat's eyebrows tell us about how Cat is feeling?"
+msgstr "Τι μας λένε τα φρύδια του Γάτου για το πώς αισθάνεται;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws the mouth of Cat.\n"
+"\n"
+"The mouth is a line.\n"
+"\n"
+"It looks like the letter 'w' and he draws the hairs of Cat.\n"
+"\n"
+"Three hairs on the left side and three hairs on the right side."
+msgstr ""
+"Κατόπιν ζωγραφίζει το στόμα του Γάτου.\n"
+"\n"
+"Το στόμα είναι μια γραμμή.\n"
+"\n"
+"Μοιάζει με το γράμμα 'ω' και ζωγραφίζει τρίχες στη μουσούδα του Γάτου.\n"
+"\n"
+"Τρεις τρίχες στην αριστερή πλευρά και τρεις τρίχες στη δεξιά πλευρά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The lines beside Cat's nose are whiskers. They are very sensitive to touch. They help a cat sense things in the dark."
+msgstr "Οι γραμμές δίπλα από τη μύτη του Γάτου είναι τα μουστάκια του. Είναι πολύ ευαίσθητα στην αφή. Τον βοηθούν να αντιλαμβάνεται πράγματα στο σκοτάδι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the fourth step in the drawing. See if you can describe the steps in order, calling each one by its number."
+msgstr "Αυτό είναι το τέταρτο βήμα στο σχέδιο. Δείτε αν μπορείτε να περιγράψετε τα βήματα με τη σειρά, δίνοντας σε καθένα τον αριθμό της σειράς του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of something you do step by step. Perhaps it is getting dressed or going to the store. List as many of the steps in order that you can think of."
+msgstr "Σκεφτείτε κάτι που κάνετε βήμα προς βήμα. Ίσως να ντυθείτε ή να πάτε σε ένα κατάστημα. Καταγράψτε όσες περισσότερες από τις ενέργειες με τη σειρά μπορείτε να σκεφτείτε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drawing is almost finished.\n"
+"\n"
+"He draws the arms and legs of Cat.\n"
+"\n"
+"The arms and legs are lines and he draws the toes of Cat.\n"
+"\n"
+"The toes are circles and he draws the tail of Cat.\n"
+"\n"
+"The tail is a long line."
+msgstr ""
+"Η ζωγραφιά είναι σχεδόν τελειωμένη.\n"
+"\n"
+"Ζωγραφίζει τα χέρια και τα πόδια του Γάτου.\n"
+"\n"
+"Τα χέρια και τα πόδια είναι γραμμές και ζωγραφίζει τα δάχτυλα του Γάτου.\n"
+"\n"
+"Τα δάχτυλα είναι κύκλοι και ζωγραφίζει την ουρά του Γάτου.\n"
+"\n"
+"Η ουρά είναι μια μακριά γραμμή."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which details still need to be added to this picture?"
+msgstr "Ποια λεπτομέρεια πρέπει ακόμα να προστεθεί σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count by 3's to count how many of Cat's toes you can see (3 + 3)."
+msgstr "Μετρήστε ανά 3 για να βρείτε πόσα δάχτυλα του Γάτου μπορείτε να δείτε (3 + 3)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cats usually have 4 toes on a back leg. How many toes would that make? How many more toes would that be than 3 + 3?"
+msgstr "Οι γάτες συνήθως έχουν 4 δάχτυλα σε κάθε πίσω πόδι. Πόσα δάχτυλα έχουν συνολικά; Πόσα περισσότερα δάχτυλα είναι αυτά από το 3 + 3;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"At last he draws some stripes on the body of Cat and colors the body orange.\n"
+"\n"
+"The drawing is finished.\n"
+"\n"
+"Wow, that is beautiful!"
+msgstr ""
+"Στο τέλος ζωγραφίζει κάποιες ρίγες στο σώμα του Γάτου και χρωματίζει το σώμα πορτοκαλί.\n"
+"\n"
+"Η ζωγραφιά είναι έτοιμη.\n"
+"\n"
+"Ουάου, είναι πανέμορφο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe what Cat and Dog are each feeling by looking at their faces."
+msgstr "Βλέποντας τα πρόσωπά τους, περιγράψτε τι αισθάνονται ο Γάτος και ο Σκύλος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are lots of groups of 3 in the picture now. Can you skip count by 3's to count them all?"
+msgstr "Υπάρχουν πολλές ομάδες τριών πραγμάτων στην εικόνα. Μπορείτε να μετρήσετε ανά 3 για να τα μετρήσετε όλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that one side of Cat is the mirror image of the other side. That is called mirror symmetry. Many things in the world have that symmetry. Look around you and find a few."
+msgstr "Παρατηρήστε ότι η μία πλευρά του Γάτου είναι καθρέφτισμα της άλλης πλευράς. Αυτό ονομάζεται συμμετρία. Πολλά πράγματα στον κόσμο έχουν αυτή τη συμμετρία. Κοιτάξτε γύρω σας και βρείτε μερικά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now it is Cat's turn.\n"
+"\n"
+"He takes a pencil and he takes a paper.\n"
+"\n"
+"The paper is a rectangle."
+msgstr ""
+"Τώρα είναι η σειρά του Γάτου.\n"
+"\n"
+"Παίρνει ένα μολύβι και παίρνει και ένα χαρτί.\n"
+"\n"
+"Το χαρτί είναι ένα ορθογώνιο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which paw is Cat holding the pencil in?"
+msgstr "Με ποιο πόδι κρατάει το μολύβι ο Γάτος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat's piece of paper is a rectangle which is not a square. Describe why it is not a square."
+msgstr "Το χαρτί του Γάτου είναι ορθογώνιο αλλά όχι τετράγωνο. Περιγράψτε γιατί δεν είναι τετράγωνο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keep an eye on that little tear on the bottom of the piece of paper as the story goes forward."
+msgstr "Παρακολουθήστε αυτό το μικρό σκίσιμο στο κάτω μέρος του χαρτιού καθώς η ιστορία προχωρά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"First, Cat draws an oval.\n"
+"\n"
+"The oval is the body of Dog.\n"
+"\n"
+"Wow, that is good!"
+msgstr ""
+"Πρώτα ο Γάτος ζωγραφίζει ένα ωοειδές.\n"
+"\n"
+"Το ωοειδές είναι το σώμα του Σκύλου.\n"
+"\n"
+"Ουάου, αυτό είναι καλό!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat is now drawing with the other paw. Cat is probably right-handed (or is that right-pawed)."
+msgstr "Ο Γάτος τώρα ζωγραφίζει με το άλλο πόδι. Ο Γάτος μάλλον είναι δεξιόχειρας (ή μήπως δεξιόποδος!)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat is starting the drawing with the same first step. Predict what the next two steps will be."
+msgstr "Ο Γάτος ξεκινά το σχέδιο με το ίδιο πρώτο βήμα. Προβλέψτε ποια θα είναι τα επόμενα δύο βήματα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the bottom of the rectangular sheet of paper. Something has changed!"
+msgstr "Κοιτάξτε το κάτω μέρος του ορθογώνιου χαρτιού. Κάτι έχει αλλάξει!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws two black forms on top of the oval.\n"
+"\n"
+"The two black forms are the ears of Dog and he draws a black circle in the oval.\n"
+"\n"
+"The black circle is the nose of Dog and he draws a line above the nose."
+msgstr ""
+"Έπειτα ζωγραφίζει δύο μαύρες μορφές στην κορυφή του ωοειδούς.\n"
+"\n"
+"Οι δύο μαύρες μορφές είναι τα αυτιά του Σκύλου και σχεδιάζει έναν μαύρο κύκλο μέσα στο ωοειδές.\n"
+"\n"
+"Ο μαύρος κύκλος είναι η μύτη του Σκύλου και ζωγραφίζει μια γραμμή πάνω από τη μύτη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat's nose and Dog's nose are two different shapes. What are the shapes and how are they different?"
+msgstr "Η μύτη του Γάτου και η μύτη του Σκύλου είναι δύο διαφορετικά σχήματα. Ποια είναι τα σχήματα και σε τι διαφέρουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The picture doesn't look like Dog yet. Use your imagination to think of what else the drawing might become. Perhaps a ladybug, or a water bottle squirting water, or a space alien?"
+msgstr "Το σχέδιο ακόμα δεν μοιάζει με τον Σκύλο. Χρησιμοποιήστε τη φαντασία σας για να σκεφτείτε τι άλλο θα μπορούσε να γίνει η ζωγραφιά. Ίσως μία πασχαλίτσα, ένα μπουκάλι νερού που ραντίζει ή ένας εξωγήινος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you noticed what came back on the rectangular piece of paper?"
+msgstr "Έχετε παρατηρήσει τι ξαναεμφανίστηκε στο ορθογώνιο χαρτί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Now he draws the eyes and the eyebrows of Dog.\n"
+"\n"
+"The eyes are two dots.\n"
+"\n"
+"The eyebrows are two lines.\n"
+"\n"
+"Wow, that is perfect!"
+msgstr ""
+"Τώρα ζωγραφίζει τα μάτια και τα φρύδια του Σκύλου.\n"
+"\n"
+"Τα μάτια είναι δύο βουλίτσες.\n"
+"\n"
+"Τα φρύδια είναι δύο γραμμές.\n"
+"\n"
+"Ουάου, είναι τέλειο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you see any rectangles in addition to the piece of paper? There are probably many rectangles where you are. How many can you find?"
+msgstr "Βλέπετε άλλα ορθογώνια εκτός από το χαρτί; Πιθανώς υπάρχουν πολλά ορθογώνια εκεί που βρίσκεστε. Πόσα μπορείτε να βρείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog aren't talking to each other in this story. They are communicating without words. What are they doing to communicate?"
+msgstr "Ο Γάτος και ο Σκύλος δεν μιλούν ο ένας στον άλλο σε αυτή την ιστορία. Επικοινωνούν χωρίς λέξεις. Τι κάνουν για να επικοινωνήσουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which things come in pairs and which come in 3's in this picture?"
+msgstr "Ποια αντικείμενα είναι σε δυάδες και ποια σε τριάδες σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then he draws the mouth of Dog.\n"
+"\n"
+"The mouth is a line.\n"
+"\n"
+"The shape is again the letter 'w' and he draws some dots around the mouth of Dog.\n"
+"\n"
+"Three on the left side and three on the right side."
+msgstr ""
+"Κατόπιν ζωγραφίζει το στόμα του Σκύλου.\n"
+"\n"
+"Το στόμα είναι μια γραμμή.\n"
+"\n"
+"Το σχήμα μοιάζει πάλι με το γράμμα ‘ω’ και σχεδιάζει μερικές βουλίτσες γύρω από το στόμα του Σκύλου.\n"
+"\n"
+"Τρεις στην αριστερή πλευρά και τρεις στη δεξιά πλευρά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lines can be straight or curved. Other than their mouths, what are some other curved lines in this picture?"
+msgstr "Οι γραμμές μπορούν να είναι ευθείες ή καμπύλες. Εκτός από τα στόματα, ποιες άλλες καμπύλες γραμμές βλέπετε σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog have 3 dots on each side of their face. Skip count by 3's to count the total number of dots."
+msgstr "Ο Γάτος και ο Σκύλος έχουν 3 βουλίτσες σε κάθε πλευρά του προσώπου τους. Μετρήστε ανά 3 για να βρείτε τον συνολικό αριθμό από βουλίτσες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They have very different ears. Describe the shapes. How are they similar and how are they different?"
+msgstr "Έχουν πολύ διαφορετικά αυτιά. Περιγράψτε τα σχήματα. Σε τι μοιάζουν και σε τι διαφέρουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drawing is almost finished.\n"
+"\n"
+"He draws the arms and legs of Dog.\n"
+"\n"
+"The arms and legs are lines and he draws the toes of Dog.\n"
+"\n"
+"The toes are circles and he draws the tail of Dog.\n"
+"\n"
+"The tail looks like a flower."
+msgstr ""
+"Η ζωγραφιά είναι σχεδόν τελειωμένη.\n"
+"\n"
+"Ζωγραφίζει τα χέρια και τα πόδια του Σκύλου.\n"
+"\n"
+"Τα χέρια και τα πόδια είναι γραμμές και ζωγραφίζει και τα δάχτυλα του Σκύλου.\n"
+"\n"
+"Τα δάχτυλα είναι κύκλοι, και ζωγραφίζει και την ουρά του Σκύλου.\n"
+"\n"
+"Η ουρά μοιάζει με λουλούδι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dogs have the same number of toenails as toes. Skip count by 3's to find the total number of toes and toenails."
+msgstr "Οι σκύλοι έχουν τον ίδιο αριθμό νυχιών με τα δάχτυλά τους. Μετρήστε ανά 3 για να βρείτε τον συνολικό αριθμό δακτύλων και νυχιών."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This picture has many things that come in pairs. Count them all by skip counting by 2's."
+msgstr "Αυτή η εικόνα έχει πολλά πράγματα που είναι σε δυάδες. Μετρήστε τα όλα μετρώντας ανά 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Suppose you had five pairs. You could skip count them by 2's five times or skip count them by 5's two times. Why do you get the same answer both ways?"
+msgstr "Υποθέστε ότι έχετε πέντε δυάδες. Θα μπορούσατε να τα μετρήσετε ανά 2 πέντε φορές ή ανά 5 δύο φορές. Γιατί έχετε το ίδιο αποτέλεσμα και στις δύο περιπτώσεις;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"At last he draws some black circles on the body of Dog and he colors the body yellow.\n"
+"\n"
+"Then the drawing is finished.\n"
+"\n"
+"Wow, that is wonderful!"
+msgstr ""
+"Τελικά ζωγραφίζει μερικούς μαύρους κύκλους στο σώμα του Σκύλου και χρωματίζει το σώμα κίτρινο.\n"
+"\n"
+"Έπειτα η ζωγραφιά είναι έτοιμη.\n"
+"\n"
+"Ουάου, αυτό είναι υπέροχο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many steps did this drawing take? Was it less than, the same as, or more than the number of steps for the first drawing?"
+msgstr "Πόσα βήματα χρειάστηκε αυτή η ζωγραφιά; Ήταν λιγότερα, ίδια ή περισσότερα από τα βήματα για την πρώτη ζωγραφιά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In this drawing, you don't see Dog's mouth. Even still, you can tell Dog is happy in the drawing. How can you tell?"
+msgstr "Σε αυτή τη ζωγραφιά, δεν βλέπετε το στόμα του Σκύλου. Παρόλα αυτά, μπορείτε να καταλάβετε ότι ο Σκύλος είναι χαρούμενος στη ζωγραφιά. Πώς μπορείτε να το καταλάβετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen cats and dogs stand on their back two feet? Some can do it for a short time, but it is unusual."
+msgstr "Έχετε δει ποτέ γάτες ή σκύλους να στέκονται στα πίσω δύο πόδια τους; Μερικά μπορούν να το κάνουν για λίγο, αλλά είναι ασυνήθιστο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye drawing of Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye drawing of Dog."
+msgstr ""
+"Αντίο Γάτε.\n"
+"\n"
+"Αντίο ζωγραφιά του Γάτου.\n"
+"\n"
+"Αντίο Σκύλε.\n"
+"\n"
+"Αντίο ζωγραφιά του Σκύλου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In which ways does this picture have mirror symmetry and in which ways does it fail?"
+msgstr "Με ποιους τρόπους έχει αυτή η εικόνα συμμετρία και με ποιους τρόπους δεν έχει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you draw a picture of someone it's called a portrait. Have you ever drawn a portrait of someone? How did it turn out?"
+msgstr "Όταν φτιάχνετε μια ζωγραφιά ενός ατόμου, αυτό το λέμε πορτραίτο. Έχετε φτιάξει ποτέ ένα πορτραίτο κάποιου; Πώς πήγε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Drawing a picture of yourself is called a self-portrait. If you drew a self-portrait where would you start? Would you use an oval for your body, or would you start somewhere else?"
+msgstr "Το να ζωγραφίσετε μια εικόνα του εαυτού σας λέγεται αυτοπροσωπογραφία. Αν ζωγραφίζατε μια αυτοπροσωπογραφία, από πού θα ξεκινούσατε; Θα χρησιμοποιούσατε ένα ωοειδές για το σώμα σας ή θα ξεκινούσατε από κάπου αλλού;"
 
 #. type=data_list
 msgctxt "data_list"
