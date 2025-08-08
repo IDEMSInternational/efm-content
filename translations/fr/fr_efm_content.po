@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-08-08 18:08\n"
+"PO-Revision-Date: 2025-08-08 19:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16701,7 +16701,7 @@ msgstr ""
 "\n"
 "**Factorisations premières :** Bien connaître les factorisations premières sera très utile pour de nombreux aspects des mathématiques que votre enfant va apprendre. Répéter les factorisations premières des nombres jusqu'à 20, voire 30, est un bon exercice pour les apprendre. Il suffit de parcourir la liste des nombres dans l'ordre suivant : 1 - unité, 2 - nombre premier, 3 - nombre premier, 4 - 2 fois 2, 5 - nombre premier, 6 - 2 fois 3, 7 - nombre premier, 8 - 2 fois 2 fois 2, 9 - 3 fois 3 et 10 - 2 fois 5.\n"
 "\n"
-"**Puissances :** Les factorisations en nombres premiers impliquent souvent des facteurs premiers répétés; c'est donc le moment idéal pour apprendre les puissances et les mettre en pratique. Il est plus rapide et plus facile de dire « 2 puissance quatre » que « 2 fois 2 fois 2 fois 2 ». 2 au carré signifie 2 fois 2, et 2 au cube signifie 2 fois 2 fois 2."
+"**Puissances :** Les factorisations en nombres premiers impliquent souvent des facteurs premiers répétés ; c'est donc le moment idéal pour apprendre les puissances et les mettre en pratique. Il est plus rapide et plus facile de dire « 2 puissance quatre » que « 2 fois 2 fois 2 fois 2 ». 2 au carré signifie 2 fois 2, et 2 au cube signifie 2 fois 2 fois 2."
 
 #. type=data_list
 msgctxt "data_list"
@@ -16837,7 +16837,7 @@ msgstr "Cela décrit des lieux et des objets, et comment suivre des indications.
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 1-4"
-msgstr "Jeu n° 4: Les maths à haute voix – Décrire et comparer"
+msgstr "Jeu n° 4 : Les maths à haute voix – Décrire et comparer"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16857,7 +16857,7 @@ msgstr "Cela parle des différentes propriétés des objets et comment ces propr
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 1-5"
-msgstr "Jeu n° 5: Les maths à haute voix – Compter"
+msgstr "Jeu n° 5 : Les maths à haute voix – Compter"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16877,7 +16877,308 @@ msgstr "Cette activité fait compter des quantités d’objets et créer différ
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 1-6"
-msgstr "Jeu n° 6: Les maths à haute voix – Montrer, décrire et questionner"
+msgstr "Jeu n° 6 : Les maths à haute voix – Montrer, décrire et questionner"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions."
+msgstr "**Point sur les jeux :** Vos bavardages mathématiques prennent une autre tournure quand votre enfant est capable de réagir à vos commentaires et de vous questionner."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story."
+msgstr "Il faut compter jusqu’à 5 et utiliser des mots de relation, que vous pouvez aussi utiliser pour questionner votre enfant sur ce qu’il se passe dans l’histoire."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-7"
+msgstr "Jeu n° 7 : Les propriétés des objets"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Continue to emphasize words that describe properties and relationships."
+msgstr "**Point sur les jeux :** Insistez sur les mots qui décrivent les propriétés et les relations."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has relative sizes and shapes."
+msgstr "Cela comprend des dimensions et des formes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve using properties to compare things and find patterns."
+msgstr "Il faut utiliser les propriétés afin de comparer des objets et des motifs différents."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-8"
+msgstr "Jeu n° 8 : Identique et différent"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is centered on what makes objects the same and different."
+msgstr "**Point sur les jeux :** Cette activité se concentre sur ce qui fait que les objets sont identiques ou différents."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, colors, relationships, and counting up to 5."
+msgstr "Il y a des formes, des couleurs, des relations et il faut compter jusqu’à 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve grouping things with the same property."
+msgstr "Il faut regrouper les objets qui sont identiques."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-9"
+msgstr "Jeu n° 9 : Les motifs"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics."
+msgstr "**Point sur les jeux :** Utilisez les propriétés des objets pour reconnaître des motifs. Les formes géométriques sont essentielles en maths."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This talks about the daily feeding of hungry animals."
+msgstr "Cela parle des repas quotidiens d’animaux affamés."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve properties and finding patterns involving those properties."
+msgstr "Il faut utiliser les propriétés et trouver les formes associées à ces propriétés."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-10"
+msgstr "Jeu n° 10 : Les formes de base I"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions."
+msgstr "**Point sur les jeux :** Discussion sur les formes basiques, leurs noms et leurs descriptions."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "his has shapes on every page."
+msgstr "On trouve des formes sur toutes les pages"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These continue the ongoing discussions about properties and patterns."
+msgstr "Cette partie prolonge la discussion sur les propriétés et les motifs."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Overview"
+msgstr "Séances de jeux étape 2: Je peux compter jusqu’à 5 !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 2 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"Votre enfant a appris à compter jusqu’à 5 et comprend que ces nombres se réfèrent à des quantités. Il a aussi compris que les objets ont des propriétés différentes et que ces propriétés peuvent être comparées et différenciées.\n"
+"\n"
+"Lors de cette étape, votre enfant apprendra à compter jusqu’à 10 et commencera l’addition et la soustraction de petits nombres. Il va arriver à mieux reconnaître la taille de petites quantités d’objets."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-1"
+msgstr "Jeu n° 11 : Compter à partir de 1 et 0"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction."
+msgstr "**Point sur les jeux :** Comptez à partir de 1, commencez parfois à 0. C’est la base pour comprendre les quantités et cela aide à commencer l’apprentissage de l’addition et de la soustraction."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors."
+msgstr "On peut compter de 0 jusqu’à 9. Il y a aussi des comparaisons entre nombres plus petits, plus grands, un nombre de plus, un nombre de moins et les couleurs."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
+msgstr "Une des activités parle des exceptions. L’autre activité est un jeu de stratégie à 2 pour former des triangles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-2"
+msgstr "Jeu n° 12 : Compter à rebours jusqu’à 1 et 0."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction."
+msgstr "**Point sur les jeux :** Compter à rebours jusqu’à 1, en allant parfois jusqu’à 0. Cela permet d’approfondir la compréhension des suites de nombres. Cela aide aussi avec les soustractions."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has the numbers from 1 to 7. It also has color descriptions on every page."
+msgstr "Cela comprend les chiffres entre 1 et 7. Il y a aussi une description des couleurs à chaque page."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
+msgstr "Il faut beaucoup compter avec des petites quantités. Une des activités comprend aussi l’addition et la soustraction avec les chiffres 1 et 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-3"
+msgstr "Jeu n° 13 : Comparer des petites quantités."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Understand strategies for comparing small numbers and quantities."
+msgstr "**Point sur les jeux :** Comprendre les stratégies pour comparer des petites nombres et des petites quantités."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under."
+msgstr "Il faut compter de 1 à 10 ; il y a des mots de relation comme trop grand ou trop petit ; et des mots de localisation spatiale comme au-dessus ou en dessous."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve  discovering shapes for quantities and playing with the order of numbers."
+msgstr "Il faut découvrir différentes quantités et jouer avec l’ordre des nombres."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-4"
+msgstr "Jeu n° 14 : Compter"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition."
+msgstr "**Point sur les jeux :** Cela introduit l’idée de compter ainsi que son importance pour comprendre les quantités et les bases de l’addition."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the order of numbers and how numbers compare to each other."
+msgstr "Cela parle de l’ordre des nombres et comment comparer les nombres entre eux."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-5"
+msgstr "Jeu n° 15 : Les formes de base II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners."
+msgstr "**Point sur les jeux :** Familiarisez votre enfant avec les formes. Faites lui découvrir de nouvelles formes ainsi que leurs noms et leurs propriétés. Vous pouvez compter le nombre d’arêtes et d’angles."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes on every page."
+msgstr "Il y a beaucoup de formes différentes sur chaque page."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve creating lots of geometric shapes."
+msgstr "Il faut créer beaucoup de formes différentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-6"
+msgstr "Jeu n° 16 : Un de plus et un de moins"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction."
+msgstr "**Point sur les jeux :** Utilisez l’expression “un de plus” et “un de moins” pour aider l’enfant à comprendre les suites de nombre et l’initier à l’addition et à la soustraction."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 9, one more, one less, and many relationship words."
+msgstr "Il faut compter jusqu’à 9, un de plus, un de moins et il y a beaucoup de mots de relation."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the ordering of numbers and the use of a number line."
+msgstr "Il faut remettre les chiffres dans l’ordre et utiliser une ligne de nombre."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-7"
+msgstr "Jeu n° 17 : Additionner et soustraire avec les doigts jusqu’à 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5."
+msgstr "**Point sur les jeux :** Amusez-vous à additionner des petits nombres jusqu’à 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 6, with colors and shapes."
+msgstr "Il faut compter jusqu’à 6, avec des couleurs et des formes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
+msgstr "Il faut compter et additionner des petits nombres. Pour commencer, utilisez seulement des petites sommes (jusqu’à 6 environ) pour le puzzle Bonded Groups."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-8"
+msgstr "Jeu n° 18 : Additionner et soustraire avec les doigts jusqu’à 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less."
+msgstr "**Point sur les jeux :** Les doigts sont très utiles pour compter, additionner et soustraire. Montrez à votre enfant comment bien utiliser ses doigts avec les nombres allant jusqu’à 10 ou moins."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 12, shapes, and comparing."
+msgstr "Il faut compter jusqu’à 12, il y a des formes et il faut faire des comparaisons."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
+msgstr "Il faut utiliser une ligne de nombres pour compter, additionner et soustraire et il faut utiliser les groupes associés pour additionner. Gardez les sommes totales assez petites pour les groupes associés (jusqu'à 7 maximum) et progressez lentement jusqu’à des sommes plus importantes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-9"
+msgstr "Jeu n° 19 : Compter de 2 en 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way."
+msgstr "**Point sur les jeux :** Amusez-vous à compter de 2 en 2 avec votre enfant. C’est une façon amusante et rapide de compter qui les aide à envisager les nombres autrement."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting along with shapes and comparisons."
+msgstr "Il faut compter de 2 en 2 des formes et les comparer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
+msgstr "Il faut associer les nombres à des formes (regrouper des formes pour les compter de 2 en 2) et créer des formes symétriques."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-10"
+msgstr "Jeu n° 20 : Compter des groupes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful."
+msgstr "**Point sur les jeux :** Amusez-vous à trouver différentes façons de compter des groupes d’objets. Cela aide à comprendre les quantités et cela montre que compter, additionner et soustraire, c’est amusant."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and counting up to 14."
+msgstr "Il faut compter de 2 en 2 jusqu’à 14."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
+msgstr "Il faut insérer des quantités dans des formes différentes et jouer à faire des estimations de quantités."
 
 #. type=data_list
 msgctxt "data_list"
