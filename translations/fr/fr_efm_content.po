@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-08-08 20:48\n"
+"PO-Revision-Date: 2025-08-13 22:48\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16888,6 +16888,11 @@ msgstr "**Point sur les jeux :** Vos bavardages mathématiques prennent une autr
 msgctxt "data_list"
 msgid "This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story."
 msgstr "Il faut compter jusqu’à 5 et utiliser des mots de relation, que vous pouvez aussi utiliser pour questionner votre enfant sur ce qu’il se passe dans l’histoire."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve describing things and finding properties that make things similar or different."
+msgstr "Il s’agit de décrire des choses et de trouver des propriétés qui rendent les choses similaires ou différentes."
 
 #. type=data_list
 msgctxt "data_list"
