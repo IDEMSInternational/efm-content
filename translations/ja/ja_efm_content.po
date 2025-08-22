@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-08-21 23:17\n"
+"PO-Revision-Date: 2025-08-22 00:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9143,6 +9143,301 @@ msgstr "この物語には、８まで数えること、説明と比較、図形
 msgctxt "data_list"
 msgid "Aku the Sun Maker"
 msgstr "太陽の創造者アク"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has colors, descriptions, and shapes. Practice words: white, red, yellow, orange, brown, rainbow colors, same, matching, different, difference, long, longer, short, very, curved, straight, round, triangle, and rectangle."
+msgstr "このお話には、色、説明、形が出てきます。練習単語：白、赤、黄色、オレンジ、茶色、虹色、同じ、一致、違う、違い、長い、より長い、短い、とても、曲がった、まっすぐ、丸い、三角形、長方形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Amazing Daisy"
+msgstr "すごいデイジー"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has geometry and shape ideas. Practice words: circle, rectangle, sides, corner, vertical line, horizontal line, big, small, low, and high"
+msgstr "このお話には、図形ととび数えが登場します。勉強することば： 円形、円すい、長方形、縦線、横線、直角、傾き、ゼロ、1の足し算、2とび、3とび、4とび、6とびのとび数え。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cassava and Palm"
+msgstr "キャッサバとヤシの木"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 20, descriptions, and shapes.  Practice words: very, extremely, more, difference, rectangle, square, round, cone, triangle, alike, different, dividing by 1, 2, and 1/2, vertical, horizontal, perpendicular, oldest, youngest, inside, and outside."
+msgstr "このお話には、20までの数え方、説明、形が含まれています。練習単語：非常に、きわめて、もっと、違い、長方形、正方形、円形、円錐形、三角形、似ている、違う、1、2、1/2で割る、水平線に対して垂直、水平、対象の何かに対して垂直、1番古い、1番若い、内側、外側。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog Draw and Color"
+msgstr "ねこといぬ 絵をかいて色をぬろう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes, comparisons, and skip counting.  Practice words: rectangle, square, oval, circle, arc, triangle, line, straight, curved, mirror symmetry, similar, different, less, same, more, pair, difference, right, left, skip counting by 2's, 3's, and 5's."
+msgstr "このお話しには、図形、比較、数を飛ばして数える内容が含まれています。 勉強することば：長方形、正方形、たまご形、円、弧（弓の形）、三角形、線、まっすぐな（直線の）、曲がった（曲線の）、鏡像、似ている、違う、より少ない、同じ、より多い、１組（ペア）、違い、右、左、２とび・３とび・５とびの数え方。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Curious Baby Elephant"
+msgstr "知りたがりやの 子ゾウ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has skip counting and number properties. Practice words: skip counting, counting by a number, even, odd, more, less, above, and below."
+msgstr "このお話にはとび数えと数の性質が出てきます。 勉強することば: とび数え、 数字の数え方、偶数、奇数、多い、少ない、上に、下に。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father's Advice"
+msgstr "父さんの教え"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and skip counting.  Practice words: round, cone, rectangle, long, vertical line, horizontal line, right angle, steep, zero, adding one, skip counting by 2's, 3's, 4's, and 6's."
+msgstr "このお話には、図形ととび数えが登場します。勉強することば： 円形、円すい、長方形、縦線、横線、直角、傾き、ゼロ、1の足し算、2とび、3とび、4とび、6とびのとび数え。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fati and the Green Snake"
+msgstr "ファチと緑のへび"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 10 and comparing sizes. Practice words: numbers to 10, big, bigger, small, smaller, wide, wider, narrow, narrower, more, less, same, one more, and twice."
+msgstr "このお話には、10までの数え方と大きさの比較が出てきます。 勉強することば: 10までの数、大きい、より大きい、小さい、より小さい、広い、より広い、せまい、よりせまい、多い、少ない、同じ、1つ多い、2倍。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How Many?"
+msgstr "いくつかな?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
+msgstr "このお話では、14までの数え方ととび数えが出てきます。勉強することば: 14までの数、とび数え、多い、少ない、1つ増える、3つ増える、2倍。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I Love Forests"
+msgstr "森が大好き"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to ten and comparing quantities. Practice words: numbers to ten, counting by 2's, one more, one less, most, and least."
+msgstr "このお話には10までの数え方と数量の比較が出てきます。勉強することば: 10までの数、2とびで数える、1つ多い、1つ少ない、1番多い、1番少ない。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is There Anyone Like Me?"
+msgstr "ぼくみたいな誰かはいるの？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 8 and comparing. Practice words: one more, one less, take away, fact family, symmetry, mirror symmetry, similarity, difference, and same."
+msgstr "このお話には、8までの数え方と比較が出てきます。 勉強することば: 1つ増える、1つ減る、取りさる、ファクトファミリー、対称、鏡面対称、似ているところ、違うところ、同じ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Listen to My Body"
+msgstr "聞いて 体の音を"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has  counting to 10 and comparing. Practice words: more, less, difference, and counting by 2's."
+msgstr "この物語には10まで数えて比較する話があります。 単語の練習: 多い、少ない、違い、2 ずつ数える。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Little Jojo's Long Tall Tale"
+msgstr "小さなジョジョの長くて高い物語"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has many shapes. Practice words: circle, round, short, polygon, side, triangle, quadrilateral, pentagon, hexagon, square, rectangle, diamond, rhombus, cone, pattern, concentric circles, colors, tall, tallest, far, farthest, long, half, pair, add, subtract, easy, hard, easier, harder, and problem solving."
+msgstr "このお話には、たくさんの形が出てきます。 練習する単語：円、丸、短い、多角形、辺、三角形、四角形、五角形、六角形、正方形、長方形、ダイヤモンド、ひし形、円すい、模様、同心円、色、高い、一番高い、遠い、一番遠い、長い、半分、組み合わせ、足し算、引き算、やさしい、難しい、よりやさしい、より難しい、問題解決です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lory Dory"
+msgstr "ローリー・ドーリー"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's."
+msgstr "このお話には図形と描写が出てきます。勉強することば: うすい、ペア、線、平行の、水平の、直立した、垂直な、余白の部分、違う、三角形、辺、まっすぐな、球、円、弧、赤、青、右、左、5とびでの数え方。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Maguru Gives Legs"
+msgstr "足を与えるマグル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero."
+msgstr "この物語には形とグループ分けがあります。練習する単語：長い、丸い、円すい、平らな、長方形、正方形、近い、より近い、見積もる、２つずつと４つずつ数え飛ばす、色、多い、少ない、物の特性、特性によるグループ分け、少ない、最初、最後、後、前、より速い、より遅い、なし、ゼロ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun Moon and Water"
+msgstr "太陽と月と水"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has many shapes. Practice words: rainbow, circle, arc, polygon, rectangle, pentagon, big, large, straight, curved, box, top, many, color names, rainbow, next, and too much."
+msgstr "この物語にはたくさんの図形があります。勉強することば：虹、円形、孤、多角形、長方形、五角形、大きい、広い、直線、曲線、箱、頂点、多い、色の名前、次、多すぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise Finds his House"
+msgstr "リクガメ君の お家探し大冒険"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
+msgstr "このお話には、解説と比較が登場します。 勉強することば： 高い、上に、 平均、 速さ、 5倍、 対、 奇数、 偶数、分ける , ～すぎる、 とても、 速い、 長い、 距離、軽い、重い、 ～より低い、 ～より高い、違う、推測、もっと、 ますます強く、垂直に、斜めに、 平行線、大きい。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai's Special Mat"
+msgstr "アカイの特別な敷物"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes, colors, and skip counting. Practice words: patterns, row, lighter, darker, rectangle, triangle, round, side, circle, concentric circles, shallow, faint, closer, farther, differences, color names, colors of the rainbow, pair, doubling, and skip counting by 2's, 3's, and 4's."
+msgstr "この物語では、形、色、スキップカウント（2、4、6、8、10のように数を飛ばして数える）練習をします。練習内容：パターン、列、明るい、暗い、長方形、三角形、丸、側面、円、同心円（中心が同じ重なった円）、浅い、薄い、近い、遠い、違い、色の名前、虹の色、ペア、倍数、スキップカウント。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Emeka and the Old Man"
+msgstr "エメカと おじいさん"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and geometry.  Practice words: side, triangle, rectangle, pentagon, circle, oval, arc, big, flat, faint, faded, distance, far away, problem solving, horizontal lines, parallel lines, perspective, width, and dividing 8 evenly."
+msgstr "この物語には、図形や幾何学が登場します。練習内容：側面、三角形、長方形、五角形、円、楕円、弧、大きい、平ら、薄い、色あせ、距離、遠い、問題解決、水平線、平行線、遠近、幅、8等分。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father, Son, and Donkey"
+msgstr "親子と ロバ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's."
+msgstr "この物語には、図形や幾何学が登場します。 練習内容: 距離、真ん中、長方形、三角形、薄い、2倍、ペア、20・50・100ずつ数える。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Horses of Debre Birhan"
+msgstr "デブレ・ベルハンの馬"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
+msgstr "このお話には、比較する言葉や、数をいくつかにまとめて数える方法が含まれています。学習する単語は、重い、より速い、十分、より多い、きつ過ぎる、年取った、2つずつ数える、等分する、対、対になる/する、奇数、偶数、推計、百、千、百万、辺、反対側、円、長方形です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyena and Tortoise"
+msgstr "ハイエナとカメ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
+msgstr "この物語には形と量が出てきます。練習する単語：丸、円すい、異なった形、六角形、正六角形、タイルのデザイン、正方形、模様、多い、少ない、より少ない、同じ、等しい、数の違い、見積もる、強い、弱い、速い、遅い、ゆっくり、スピード。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keeper and his Nursery"
+msgstr "飼育員と動物保育所"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: triangle, rectangle, pentagon, hexagon, sides, diagonal, circle, oval, cylinder, ball, sphere, stripe, thin, small, big, flat, pairs, opposite, center, long, high, twice, measurement, and estimate."
+msgstr "このお話には形と描写が出てきます。 勉強することば: 三角形、長方形、五角形、六角形、辺、対角線、円、楕円、円柱、ボール、球、縞模様、細い、小さい、大きい、平らな、ペア、反対、中央、長い、高い、2度、測定、見積もる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magical Rainbow River"
+msgstr "魔法の虹の川"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: circle, arc, oval, lines, sides, straight, rectangle, curve, color names, rainbow colors, double, high, pairs, and skip counting by 2's."
+msgstr "この物語には形と説明があります。 単語の練習: 円、円弧、楕円、線、辺、直線、長方形、曲線、色の名前、虹の色、二重、高、ペア、2 ずつ数えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sakima's Song"
+msgstr "サキマの歌"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes, descriptions, and perspective. Practice words: rectangle, sides, square, straight, curved, parallel lines, color names, rainbow colors, little, twice, tall, taller, short, shorter, far, farthest, farther, apart, large, thick, close, too close, small, too small, below, and estimate."
+msgstr "この話は形、描写、と遠近法が出てきます。練習する単語：長方形、側面、正方形、直線、曲線、平行線、色の名前、虹色、少し、二倍、高い、もっと高い、低い、もっと低い、遠い、一番遠い、もっと遠い、離れ、推定、大きい、太い、近い、近すぎ、小さい、小さすぎる。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Searching for the Spirit of Spring"
+msgstr "春を祝うこころを さがして"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: circle, oval, arc, cone, rectangle, triangle, long, longest, far, far away, distance, big, bigger, pattern, color, bright, dull, muted, drab, giant, dark, too dark, and problem solving."
+msgstr "このお話には形と描写が出てきます。 勉強することば: 円、楕円、弧、円すい、長方形、三角形、長い、1番長い、遠い、遠く離れた、距離、大きい、より大きい、柄、色、明るい、どんよりした、くすんだ、くすんだ茶色、巨大な、暗い、暗すぎる、問題解決。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Share it Fair!"
+msgstr "公平に分けよう！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
+msgstr "このお話には図形と等分が出てきます。勉強することば: 長方形、正方形、丸い、円、弧、卵形、楕円、縞模様、等しい、等分、視点、考え方、半分、3分の1、4分の1、4等分、問題解決、より簡単なバージョンの問題、粘り強さ、1、2、3を引く、見積もる、3の倍数。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Singing the Truth: The Story of Miriam Makeba"
+msgstr "真実を歌う"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
+msgstr "この物語には色んな形が出てきます。練習単語: 形、長方形、直線、円、円弧、楕円、アーチ、円錐、楕円、異なる、同じ、平ら、アウトライン、ストライプ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sizwe's Smile"
+msgstr "シズウェの笑顔"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and progressions. Practice words: muted, bright, rectangle, circle, arc, oval, ellipse, big, biggest, curve, vertical lines, parallel lines, stripe, twice, doubling, exponential growth, estimate, and counting by 2's and 4's."
+msgstr "このお話には図形と進行形が出てきます。練習する単語：おさえた色、明るい色、長方形、円、アーチ、楕円形、楕円、ビッグ、一番大きい、曲線、縦の線、平行線、縞模様、二倍、倍増、指数関数的な増加、見積もり、2つずつと4つずつ数えること。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Smell Thief"
+msgstr "匂い泥棒"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle."
+msgstr "この物語ではスキップ・カウンティング(飛ばし数え)と形について練習します。練習内容:飛ばし数え(1、2、3、4、6)による数え方、かけ算、わり算、予測、長方形、三角形。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who Can Count to Ten?"
+msgstr "誰が10まで 数えられる？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
+msgstr "このお話には、数え方、比較、問題解決が出てきます。練習する単語：１０までの数、飛ばし計算、２、３、４、５、１０で数える、奇数、もっと、差、足し算、組み合わせ、合計、縞模様、斑点、大きい、最大、速い、最速、強い、最強、大きい最大、高い、より高い、パターン、問題解決。"
 
 #. type=data_list
 msgctxt "data_list"
