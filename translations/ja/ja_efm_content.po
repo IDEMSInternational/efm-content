@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-08-26 21:36\n"
+"PO-Revision-Date: 2025-08-26 22:37\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6738,9 +6738,11 @@ msgid ""
 msgstr ""
 "プレーヤー1：パターンを作り、相手にそれを繰り返すように要求します。(ステップ、拍手、ジャンプ）\n"
 "\n"
-"プレーヤー2：繰り返すことができ、最終的にはパターンを追加することができるので、プレーヤー1にその繰り返しを要求することができます。(ステップ、拍手、ジャンプ、鼻を触る）上達してきたら、記憶しているパターンをどんどん長く繰り返すことに挑戦し会いましょう。 \n"
+"プレーヤー2：繰り返すことができ、最終的にはパターンを追加することができるので、プレーヤー1にその繰り返しを要求することができます。(ステップ、拍手、ジャンプ、鼻を触る）\n"
 "\n"
-"パターンを、通路を通るための秘密の暗号として使うこともできます。また、紐にビーズや食べ物のかけらを通し、繰り返しのパターンを作ることで、お子さんと一緒にネックレスを作ることもできます。手をつないで歩きながら、押しつぶしパターン（短い　短い　長いなど）を使うこともできます。\n"
+"上達してきたら、記憶しているパターンをどんどん長く繰り返すことに挑戦し会いましょう。\n"
+"\n"
+"パターンを、通路を通るための秘密の暗号として使うこともできます。また、紐にビーズや食べ物のかけらを通し、繰り返しのパターンを作ることで、お子さんと一緒にネックレスを作ることもできます。手をつないで歩きながら、手をつないで歩くときには、「トントン・ながく」などのリズムを使って遊ぶこともできます。\n"
 "\n"
 "**パズル:** 年齢の高いお子さん向けには、紙に図形のパターンを描いてパズルを作ります。一人がパターンを作り、その後で他の人が埋めるための空白を残します。"
 
@@ -6752,12 +6754,12 @@ msgstr "数字探し"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Go hunting:** Pick a number, say 2. Challenge your child to go on a treasure hunt to find as many ways as possible that 2 shows up around you. It may show up as the numeral 2 on a wall, sign, or building. It may show up as two of something, such as two chairs, two dishes, or two cups, as it does in this illustration."
-msgstr "**探しに行く：** 数字を1つ選んでください。お子さんが宝探しに挑戦して、身の回りに\"2\"が現れる方法をできるだけたくさん見つけてください。壁や看板、建物に\"2\"という数字があるかもしれません。このイラストのように、椅子が2つ、食器が2つ、コップが2つなど、何かが2つある場合もあります。"
+msgstr "**探しに行く：** 数字を1つ選んでください。例えば2です。お子さんを宝探しに挑戦させ、身の回りにある\"2\"をできるだけたくさん見つけさせてください。壁や看板、建物に\"2\"という数字があるかもしれません。このイラストのように、椅子が2つ、食器が2つ、コップが2つなど、何かが2つある場合もあります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "If you like, you can make this into a contest by seeing who can find the most of whatever number you are looking for."
-msgstr "もしよければ、探している数字を誰が最も多く見つけられるか競うコンテストにすることもできます。"
+msgstr "探している数字を誰が一番多く見つけられるかを競うコンテストにしてもいいでしょう。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6772,7 +6774,7 @@ msgstr "5まで数える"
 #. type=data_list
 msgctxt "data_list"
 msgid "**The setup:** Make a 21-piece triangle with some food item. Put 1 piece in the top row, 2 pieces in the next row, and 6 pieces in the last."
-msgstr "**準備：** ある食べ物で21個の三角形を作ります。一番上の段に1個、次の段に2個、最後の段に6個置きます。"
+msgstr "**準備：** 小さな食べ物21個で三角形を作ります。一番上の段に1個、次の段に2個、最後の段に6個置きます。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6781,9 +6783,9 @@ msgid ""
 "\n"
 "**How to win:** Beginning players can do a 1-to-1 match of the dots on the die with the food pieces in a row. The player with the bigger pile of food wins! To determine the winner, do a 1-to-1 match of the two piles to see whose pile is larger."
 msgstr ""
-"**遊び方：** 順番にサイコロを振ります。出た目が三角形の中に残っている列と一致するたびに、プレイヤーはその列を取り除き、食べるか（おいしい）、自分の個人の山に置くか選べます。\n"
+"**遊び方：** 順番にサイコロを振ります。出た目が三角形の中に残っている行と一致するたびに、プレイヤーはその行を取り除き、食べるか（おいしい）、自分の山に置くかを選べます。\n"
 "\n"
-"**勝ち方：** 初心者のプレイヤーは、サイコロの点と食べ物の列を1対1でマッチさせることができます。食べ物の山が大きい方が勝ちです！勝者を決めるには、2つの山を1対1でマッチさせ、どちらの山が大きいかを確認します。"
+"**勝ち方：** 最初のプレイヤーは、サイコロの目の数と食べ物の行が1対1で合います。食べ物の山が大きい方が勝ちです！勝者を決めるには、2つの山を1対1で勝負させ、どちらの山が大きいかを確認します。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6798,7 +6800,7 @@ msgstr "1つ多い、1つ少ない"
 #. type=data_list
 msgctxt "data_list"
 msgid "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”"
-msgstr "最初の数個の数を理解するようになったら、お子さんに“1つ多い”　“1つ少ない”という質問をしてみましょう。例えば、現在いくつの商品があるかは話さずに、”もう一つ欲しい？”、”一つ少ない方がいい？”と尋ねます。"
+msgstr "最初のいくつかの数字を理解するようになったら、お子さんに“1つ多い？”　“1つ少ない？”というような質問をしてみましょう。例えば、今いくつ物があるかは話さずに、”もう一つ欲しい？”、”一つ少ない方がいい？”と尋ねます。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6807,9 +6809,9 @@ msgid ""
 "\n"
 "**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less."
 msgstr ""
-"**数量と変化：** ゆっくりと現在の数量とその変化を強調し始めましょう。一緒に数を数え、たとえば皿の上のリンゴのスライスが2つあるとします。お子さんにリンゴのスライスを1枚増やしたいか、あるいは1枚減らしたいか尋ねます。もし量が変わったら、リンゴのスライスが今いくつあるか聞いて終わりましょう。\n"
+"**数量と変化：** ゆっくりと今の数とその変化を強調し始めましょう。一緒に数を数え、たとえば皿の上にリンゴのスライスが2つあるとして、お子さんにリンゴのスライスを1枚増やしたいか、あるいは1枚減らしたいか尋ねます。もし量が変わったら、リンゴのスライスが今いくつあるかを聞いて終わりましょう。\n"
 "\n"
-"**歩き回ること：** 同じように、歩いているときにも、数えるべきものを選びます。あなたの前に3人の人が並んでいるとします。一緒に数えて、一人が去って一人少なくなったら何人になるかを尋ねます。"
+"**歩き回ること：** 同じように、歩いているときにも、数えるべきものを選びます。あなたの前に3人の人が並んでいるとします。一緒に数えて、一人が去って一人少なくなったら何人になるかを尋ねましょう。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6829,17 +6831,17 @@ msgstr "もう一方の手で"
 #. type=data_list
 msgctxt "data_list"
 msgid "**The setup:** Start with a bowl of small pieces of food."
-msgstr "**準備：** 小さな食べ物のかけらを入れたボールを用意します。"
+msgstr "**準備：** 小さな食べ物を入れたボールを用意します。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand."
-msgstr "**遊び方：** お子さんにボールから5個を声に出して数えさせ、それをあなたに渡してもらいます。秘密にその商品を両手に分け、片方の手は開き、もう片方は閉じたままにします。お子さんは、開いた手の中の商品を声に出して数え、どちらの手から“奪う”かを選びます。手を開く前に、何個の商品が奪われるかを予測させましょう。"
+msgstr "**遊び方：** お子さんにボールから食べ物を、例えば5つ、声に出して数えながら取り出してもらい、それをあなたに渡してもらいます。あなたはこっそりそれを両手に分け、一方の手は開いたまま、もう一方は閉じたままにします。お子さんに、開いた手の中の食べ物の数を声に出して数えてもらい、そのあとどちらの手から食べ物を“取る”かを選んでもらいます。手を開く前に、お子さんに何個取られたのかを予想させてください。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more."
-msgstr "**勝つ方法：** 奪った商品はお子さんの山の一部となり、残った品物はあなたが保持します。ボールが空になるまで、必要なラウンド数だけ遊び続けます。最後に、お互いの商品を横に並べて、どちらが多いかを比べましょう。"
+msgstr "**勝つ方法：** 取ったものはお子さんの山になり、残ったものがあなたのものです。ゲームは、ボールが空になるまで、必要なラウンド数だけ遊び続けます。最後に、お互いに自分のものを並べて、どちらが多いかを比べましょう。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6860,17 +6862,15 @@ msgid ""
 msgstr ""
 "**紹介**\n"
 "\n"
-"Early Family Mathの活動に必要な材料はほんの少しで、どれもとても安価で簡単に手に入ります。以下に簡単なリストを示します：\n"
+"Early Family Mathの活動に必要な材料はほんの少しで、どれもとても安く簡単に手に入ります。以下に簡単なリストを示します：\n"
 "\n"
 "* サイコロ5個\n"
 "* トランプ1組\n"
 "* ひも（任意）\n"
 "* 歩道用チョーク（任意）\n"
-"* 様々な色の堅い紙（任意）\n"
+"* 様々な色の厚紙（任意）\n"
 "\n"
-"**数字カードを作る**\n"
-"\n"
-"EFMの活動の多くは、トランプを使って遊べます。しかし、番号カードデッキを使うことで、普通のトランプでは強調されないアイデアを練習することができます。カードストックや厚紙を使って、オリジナルのカードを作りましょう。リソースにあるPDFを使っても、自分で描いてもかまいません。"
+"EFMの活動の多くは、トランプを使って遊びます。しかし、番号カードデッキを使うことで、普通のトランプでは強調されないアイデアを練習することができます。カードストックや厚紙を使って、オリジナルのカードを作りましょう。リソースにあるPDFを使っても、自分で描いてもかまいません。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6916,7 +6916,7 @@ msgstr "自分だけのお店"
 #. type=data_list
 msgctxt "data_list"
 msgid "Kids love to play store! Create tags with silly prices that are small numbers. If your child hasn't learned the numerals yet, you can use quantities of dots on the tags."
-msgstr "お子さんたちはお店屋さんごっこが大好きです！おかしな価格で小さな数字のタグを作りましょう。 お子さんがまだ数字を覚えていない場合は、タグに点の数量を使ってもいいでしょう。"
+msgstr "お子さんたちはお店屋さんごっこが大好きです！小さな数字で、おかしな値段のタグを作りましょう。 お子さんがまだ数字を覚えていない場合は、タグに点で値段を表してもいいでしょう。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6925,7 +6925,7 @@ msgid ""
 "\n"
 "After each 'purchase,' have your child count out the number of bills to pay for it and then count out how much money is left."
 msgstr ""
-"家にあるもの（おもちゃ、食べ物、本など）に値札をつけます。 “1”と書かれた紙を使って、お店で使う仮のお金として使います。\n"
+"家にあるもの（おもちゃ、食べ物、本など）に値札をつけます。“1”と書かれた紙を使って、お店で使う仮のお金として使います。\n"
 "\n"
 "それぞれの“買い物”が終わったら、お子さんにその支払いに必要なお札の枚数を数えさせ、その後、残っているお金の額も数えさせましょう。"
 
@@ -6942,7 +6942,7 @@ msgstr "5までの数字"
 #. type=data_list
 msgctxt "data_list"
 msgid "The game of hopscotch provides great counting practice, both forward and backward. Copy this design, or use a simpler one. Use chalk if outside, or masking or painter's tape if inside."
-msgstr "石跳びゲームは、前へ進んでも後ろへ進んでも、数を数える練習に最適です。このデザインを真似るか、もっと簡単なものを使ってください。屋外の場合はチョークを、室内の場合はマスキングテープや画材用のテープを使います。"
+msgstr "石跳びゲームは、数を前からでも、後ろからでも数える練習に最適です。このデザインを真似するか、もっと簡単なものを使ってください。屋外の場合はチョークを、室内の場合はマスキングテープや画材用のテープを使います。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6957,9 +6957,9 @@ msgid ""
 msgstr ""
 "1. 最初の四角にマーカーを投げます。マーカーが線上に落ちたり、四角の外に落ちた場合はターンを失い、マーカーを次のプレイヤーに渡します。\n"
 "\n"
-"2. H最初の空いた四角に片足で飛び込む。マーカーが置かれている四角はスキップします。\n"
+"2. 最初の空いた四角に片足で飛び込みます。マーカーが置かれている四角はスキップします。\n"
 "\n"
-"3. ペア（4-5と7-8）では両足で跳びます。\n"
+"3. ペアになっているところ（4-5と7-8）では両足で跳びます。\n"
 "\n"
 "4. 10回目で両足で跳び、振り返ってスタート地点に戻ります。"
 
@@ -6986,7 +6986,7 @@ msgstr "より簡単なバリエーション"
 #. type=data_list
 msgctxt "data_list"
 msgid "For younger children, relax many of the rules and replace hopping with stepping. Also, use a jumping pattern with fewer squares, perhaps as simple as having the numbers from1to5infivesquaresinarow."
-msgstr "幼いお子さんには、ルールの多くを緩和し、跳ぶ代わりに歩くようにします。また、四角の数を減らし、1から5までの数字を並べた5つの四角を使うなど、より簡単なジャンプパターンを取り入れると良いでしょう。"
+msgstr "幼いお子さんには、ルールを緩和し、跳ぶ代わりに歩くようにします。また、四角の数を減らし、1から5までの数字を並べた5つの四角を使うなど、より簡単なジャンプのパターンを取り入れると良いでしょう。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6996,7 +6996,7 @@ msgstr "円に入る"
 #. type=data_list
 msgctxt "data_list"
 msgid "**A circle for each property:** Create large circles on the ground using Hula Hoops, string, or draw them with sidewalk chalk. Use a collection of objects and have each circle represent a property of some of the objects. Possible properties are: has four legs, is bigger than a doll, has some red coloring. The challenge for your child is to put everything that has the property in the circle and everything without the property outside the circle."
-msgstr "**各特性ごとに円を作る：** 歩道にフラフープやひもを使い、チョークで地面に大きな円を描きます。物体のコレクションを使い、それぞれの円が物体の特性を表すようにします。例えば、足が4本ある、人形より大きい、赤い色をしている、などです。お子さんの課題は、その特性を持つものはすべて円の中に入れ、その特性を持たないものはすべて円の外に置くことです。"
+msgstr "**各特性ごとに円を作る：** 歩道にフラフープやひも、チョークなどを使い地面に大きな円を描きます。いくつかの物を集めて、それぞれの円が、いくつかの物の特徴を表すようにします。例えば、足が4本ある、人形より大きい、赤い色をしている、などです。お子さんの課題は、その特徴を持つものすべてを円の中に入れ、その特徴を持たないものはすべて円の外に置くことです。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7005,9 +7005,9 @@ msgid ""
 "\n"
 "**Example:** For example, if you have a box of blocks, the two properties might be having a round shape and being wooden. Your child should tell you how they are deciding to place each object."
 msgstr ""
-"**2つの円：** まずは1つの円を使って、お子さんがこのアイデアに慣れるようにします。2つの円に変えるときは、部分的に重なるようにし、いくつかの物体が両方の特性を持つように特性を選びます。\n"
+"**2つの円：** まずは1つの円を使って、お子さんがこのアイデアに慣れるようにします。2つの円に変えるときは、部分的に重なるようにし、いくつかの物体が両方の特徴を持つように特徴を選びます。\n"
 "\n"
-"**例：** 例えば、積み木の箱がある場合、丸い形をしていることと、木製であることの2つの特性が考えられます。お子さんには、それぞれの物をどのように配置するか、その理由を説明してもらいます。"
+"**例：** 例えば、積み木の箱がある場合、丸い形をしていることと、木製であることの2つの特徴が考えられます。お子さんには、それぞれの物をどのように配置するか、その理由を説明してもらいます。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7026,19 +7026,19 @@ msgid ""
 "\n"
 "**Example:** Pick a spoon and a fork. They are similar because you eat with them and they are both kept in the kitchen. They are different because one is pointy and one is round."
 msgstr ""
-"**遊び方：** ある程度似ているものを2つ選んでください。どのように似ていますか？どう違いますか？お子さんに、独自の理由を考える自由を与えましょう。時には、お子さんに2つの品物を選ばせて、類似点と相違点を見つけるように挑戦させましょう。\n"
+"**遊び方：** ある程度似ているものを2つ選んでください。それはどのように似ていますか？どう違いますか？お子さんに、独自の理由を考える自由を与えましょう。時には、お子さんに2つの物を選ばせて、似ている点と違う点を見つけるように挑戦させましょう。\n"
 "\n"
 "**例：** スプーンとフォークを選びます。これらは、食事に使い、どちらも台所に保管されているため似ています。一方は先がとがっていて、一方は丸いので、異なる点もあります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "One variation is to choose an item and ask which things in the room are similar to it and which things are very different from it."
-msgstr "ひとつの変化として、あるものを1つ選び、部屋の中でそれと似ているものとそれと大きく違うものを探してもらう方法があります。"
+msgstr "ひとつ何かものを選び、部屋の中でそれと似ているものとそれと大きく違うものを探してもらうのも一つの方法です。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "ONE OF THESE IS NOT LIKE THE OTHERS"
-msgstr "これらの中で一つだけ違う"
+msgstr "一つだけ他のものと違う"
 
 #. type=data_list
 msgctxt "data_list"
