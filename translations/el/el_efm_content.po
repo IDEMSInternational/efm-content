@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-08-08 00:54\n"
+"PO-Revision-Date: 2025-08-11 05:04\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6361,6 +6361,36 @@ msgstr "Αυτή η ιστορία περιέχει σχήματα και περ
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Maguru Gives Legs"
+msgstr "Ο Μαγκούρου δίνει πόδια"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero."
+msgstr "Αυτή η ιστορία περιέχει σχήματα και ομαδοποιήσεις. Λέξεις για εξάσκηση: μακρύ, στρογγυλό, κώνος, επίπεδο, ορθογώνιο, τετράγωνο, κοντά, πιο κοντά, εκτίμηση, αρίθμηση με παραλείψεις ανά 2 και ανά 4, χρώματα, περισσότερο, λιγότερο, χαρακτηριστικά αντικειμένων, ομαδοποίηση ανά χαρακτηριστικό, πιο λίγα, πρώτο, τελευταίο, μετά, πριν, πιο γρήγορα, πιο αργά, κανένα και μηδέν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun Moon and Water"
+msgstr "Ο Ήλιος, Η Σελήνη και το Νερό"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has many shapes. Practice words: rainbow, circle, arc, polygon, rectangle, pentagon, big, large, straight, curved, box, top, many, color names, rainbow, next, and too much."
+msgstr "Αυτή η ιστορία έχει πολλά σχήματα. Λέξεις για εξάσκηση: ουράνιο τόξο, κύκλος, τόξο, πολύγωνο, ορθογώνιο, πεντάγωνο, μεγάλο, πλατύ, ευθύ, καμπύλο, κουτί, κορυφή, πολλά, ονόματα χρωμάτων, ουράνιο τόξο, επόμενο, και πάρα πολύ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise Finds his House"
+msgstr "Η Χελώνα Βρίσκει το Σπίτι της"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
+msgstr "Αυτή η ιστορία περιέχει περιγραφές και συγκρίσεις. Λέξεις για εξάσκηση: ψηλά, πάνω, επάνω σε, μέσος όρος, ταχύτητα, 5 φορές, ζευγάρια, μονοί, ζυγοί, μοίρασμα, επίσης, πολύ, γρήγορα, μακρύ, απόσταση, ελαφρύ, βαρύ, χαμηλότερο, υψηλότερο, διαφορετικό, εκτίμηση, περισσότερο, δυνατότερο, κατακόρυφα, διαγωνίως, παράλληλες γραμμές και μεγάλο."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Horses of Debre Birhan"
 msgstr "Τα Άλογα του Ντέμπρε Μπίρχαν"
 
@@ -6378,6 +6408,26 @@ msgstr "Η Ύαινα και η Χελώνα"
 msgctxt "data_list"
 msgid "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
 msgstr "Αυτή η ιστορία περιέχει σχήματα και ποσότητες. Λέξεις για εξάσκηση: στρογγυλό, κώνος, διαφορετικό σχήμα, εξάγωνο, κανονικό εξάγωνο, σχέδια με πλακάκια, τετράγωνα, μοτίβα, περισσότερο, λιγότερο, πιο λίγα, το ίδιο, ίσο, αριθμητική διαφορά, εκτίμηση, πιο δυνατό, πιο αδύναμο, πιο γρήγορο, πιο αργό, αργά και ταχύτητα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Singing the Truth: The Story of Miriam Makeba"
+msgstr "Τραγουδώντας την Αλήθεια: Η Ιστορία της Μίριαμ Μακέμπα"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
+msgstr "Αυτή η ιστορία έχει πολλά σχήματα. Λέξεις για εξάσκηση: σχήμα, ορθογώνιο, ευθύ, κύκλος, τόξο, οβάλ, καμάρα, κώνος, έλλειψη, διαφορετικό, ίδιο, επίπεδο, περίγραμμα και ρίγες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who Can Count to Ten?"
+msgstr "Ποιος Μπορεί να Μετρήσει μέχρι το Δέκα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
+msgstr "Αυτή η ιστορία έχει μέτρημα, συγκρίσεις και επίλυση προβλημάτων. Λέξεις για εξάσκηση: αριθμοί μέχρι το δέκα, μέτρημα με παραλήψεις, μέτρημα ανά 2, 3, 4, 5 και 10, μονοί αριθμοί, περισσότερο, διαφορά, προσθέτω, συνδυασμός, σύνολο, ρίγες, βούλες, μεγάλο, μεγαλύτερο, γρήγορο, γρηγορότερο, δυνατό, δυνατότερο, μεγάλο, μεγαλύτερο, ψηλό, ψηλότερο, μοτίβο και επίλυση προβλημάτων."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10715,6 +10765,404 @@ msgstr "Μερικά είδη ποιημάτων χρησιμοποιούν ομ
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Long time ago, animals had no legs.\n"
+"\n"
+"They all used to crawl."
+msgstr ""
+"Πολύ παλιά, τα ζώα δεν είχαν πόδια.\n"
+"\n"
+"Όλα σερνόταν για να μετακινηθούν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine if you had to crawl everywhere. How hard would that be?"
+msgstr "Φανταστείτε αν έπρεπε να σέρνεστε παντού. Πόσο δύσκολο θα ήταν αυτό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An estimate is an educated guess. Without counting, estimate how many spots the giraffe has. Now count the spots and see how close you came."
+msgstr "Η εκτίμηση είναι μια υπολογισμένη υπόθεση. Χωρίς να μετράτε, εκτιμήστε πόσες βούλες έχει η καμηλοπάρδαλη. Τώρα μετρήστε τις βούλες και δείτε πόσο κοντά πέσατε στην εκτίμησή σας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do the estimation game with a friend. When you see a group of things, both of you make a quick estimate for the count. Now count the things and see which of you was closer."
+msgstr "Παίξτε το παιχνίδι εκτίμησης με έναν φίλο. Όταν βλέπετε μια ομάδα αντικειμένων κάντε και οι δύο μια γρήγορη εκτίμηση για το πόσα είναι. Τώρα μετρήστε τα αντικείμενα και δείτε ποιανού η εκτίμηση ήταν πιο κοντά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Only people had legs, which Maguru gave to them."
+msgstr "Μόνο οι άνθρωποι είχαν πόδια, τα οποία τους έδωσε ο Μαγκούρου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Arms and legs are called limbs. How many limbs does one person have? How many limbs do two people have?"
+msgstr "Τα χέρια και τα πόδια ονομάζονται άκρα. Πόσα άκρα έχει ένας άνθρωπος; Πόσα άκρα έχουν δύο άνθρωποι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To find all the limbs for two people, you can count them by 4's as four plus four more. Another way is to count the pairs of limbs by 2's as 2, 4, 6, 8. Of course you can just count them all one at a time. Which way do you like best?"
+msgstr "Για να βρείτε όλα τα άκρα για δύο ανθρώπους, μπορείτε να τα μετρήσετε ανά 4 δηλαδή τέσσερα συν τέσσερα ακόμα. Ένας άλλος τρόπος είναι να μετρήσετε τα ζεύγη των άκρων ανά 2: 2, 4, 6, 8. Φυσικά, μπορείτε απλά να τα μετρήσετε όλα ένα-ένα. Ποιος τρόπος σας αρέσει περισσότερο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are lots of colors in this picture. Which colors of the rainbow are missing?"
+msgstr "Υπάρχουν πολλά χρώματα σε αυτή την εικόνα. Ποια χρώματα του ουράνιου τόξου λείπουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One day, Maguru decided to give legs to every animal. He wanted them to walk.\n"
+"\n"
+"He told them about it."
+msgstr ""
+"Μια μέρα, ο Μαγκούρου αποφάσισε να δώσει πόδια σε κάθε ζώο. Ήθελε να περπατούν.\n"
+"\n"
+"Τους το ανακοίνωσε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count as many round shapes in this picture as you can."
+msgstr "Μετρήστε όσες περισσότερα στρογγυλά σχήματα μπορείτε σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A round shape that comes to a point is called a cone. The megaphone and the tops of the houses are all cones. Have you ever had food, such as ice cream, out of a cone?"
+msgstr "Ένα στρογγυλό σχήμα που καταλήγει σε κορυφή ονομάζεται κώνος. Το μεγάφωνο και οι σκεπές των σπιτιών είναι όλοι κώνοι. Έχετε φάει ποτέ κάτι, όπως παγωτό, από έναν κώνο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Maguru's hand has an unusual number of fingers. Who has more fingers, you or Maguru?"
+msgstr "Το χέρι του Μαγκούρου έχει έναν ασυνήθιστο αριθμό δαχτύλων. Ποιος έχει περισσότερα δάχτυλα, εσείς ή ο Μαγκούρου;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The animals said, \"It will be very nice to have legs.\"\n"
+"\n"
+"They sang and danced."
+msgstr ""
+"Τα ζώα είπαν: \"Θα είναι πολύ ωραίο να έχουμε πόδια.\"\n"
+"\n"
+"Τραγούδησαν και χόρεψαν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can dance sitting down and you can dance lying down. Have you ever tried dancing on your knees?"
+msgstr "Μπορείτε να χορέψετε καθιστοί και μπορείτε ακόμα να χορέψετε και ξαπλωμένοι. Έχετε δοκιμάσει ποτέ να χορέψετε γονατιστοί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These animals can be grouped in many ways. Some have ears and some do not seem to. Some have bodies with just one color and others do not. Some have skinny tails and others do not. Can you think of some other groupings?"
+msgstr "Αυτά τα ζώα μπορούν να ομαδοποιηθούν με πολλούς τρόπους. Μερικά έχουν αυτιά και μερικά δεν φαίνεται να έχουν. Μερικά έχουν σώματα μόνο με ένα χρώμα και άλλα όχι. Κάποια έχουν λεπτές ουρές και άλλα όχι. Μπορείτε να σκεφτείτε κάποιες άλλες ομαδοποιήσεις;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Grouping things using their properties is an important way we understand things in the world. What are some of your most important properties?"
+msgstr "Η ομαδοποίηση των πραγμάτων με βάση τα χαρακτηριστικά τους είναι ένας σημαντικός τρόπος για να κατανοούμε τον κόσμο. Ποια θεωρείτε τα πιο σημαντικά χαρακτηριστικά σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The animals said it was hard to crawl.\n"
+"\n"
+"They felt pain."
+msgstr ""
+"Τα ζώα είπαν ότι ήταν δύσκολο να σέρνονται.\n"
+"\n"
+"Πονούσαν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you rather crawl or walk?"
+msgstr "Θα προτιμούσατε να σέρνεστε ή να περπατάτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the mouse will get legs long enough to put him in the clouds?"
+msgstr "Νομίζετε ότι το ποντίκι θα πάρει πόδια αρκετά μακριά ώστε να φτάσει στα σύννεφα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think the crocodile has band-aids on?"
+msgstr "Γιατί νομίζετε ότι ο κροκόδειλος έχει αυτοκόλλητους επιδέσμους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When the day came, many animals went to Maguru's house.\n"
+"\n"
+"Giraffes, lions, elephants, rabbits, crocodiles, and birds stood in a line."
+msgstr ""
+"Όταν ήρθε η μέρα, πολλά ζώα πήγαν στο σπίτι του Μαγκούρου.\n"
+"\n"
+"Καμηλοπαρδάλεις, λιοντάρια, ελέφαντες, λαγοί, κροκόδειλοι και πουλιά σχημάτισαν μια γραμμή."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That's a very long line! Estimate how many animals are in that line."
+msgstr "Αυτή είναι μια πολύ μεγάλη γραμμή! Εκτιμήστε πόσα ζώα υπάρχουν στη γραμμή."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the animals and see how close your estimate was. Can you count that high? Was it too high, too low, or exactly right?"
+msgstr "Μετρήστε όλα τα ζώα και δείτε πόσο κοντά ήταν η εκτίμησή σας. Μπορείτε να μετρήσετε τόσο πολύ; Ήταν η εκτίμησή σας πολύ μεγάλη, πολύ μικρή ή ακριβώς;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you see any animals going down? Do you think there is a different path on the backside of the mountain for going down?"
+msgstr "Βλέπετε κανένα ζώο που κατεβαίνει; Νομίζετε ότι υπάρχει διαφορετικός δρόμος στο πίσω μέρος του βουνού για να κατεβούν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Each animal was given four legs.\n"
+"\n"
+"Birds were given two legs each."
+msgstr ""
+"Κάθε ζώο πήρε από τέσσερα πόδια.\n"
+"\n"
+"Στα πουλιά δόθηκαν δύο πόδια το καθένα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Birds are animals, so why are they being treated differently than the other animals?"
+msgstr "Τα πουλιά είναι ζώα, οπότε γιατί αντιμετωπίζονται διαφορετικά από τα άλλα ζώα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many fewer feet did birds get than the other animals?"
+msgstr "Πόσα λιγότερα πόδια πήραν τα πουλιά από τα άλλα ζώα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you were a bird, would you feel short-changed getting only two feet, or do you think having two feet is more fun than having four?"
+msgstr "Αν ήσασταν πουλί, θα νιώθατε ότι πήρατε λιγότερα πόδια και αυτό σας αδίκησε, ή νομίζετε ότι είναι πιο διασκεδαστικό να έχετε δύο πόδια από ό,τι τέσσερα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Everything was different after they got legs.\n"
+"\n"
+"Some danced for joy. Others fell down."
+msgstr ""
+"Όλα ήταν διαφορετικά από την ώρα που πήραν πόδια.\n"
+"\n"
+"Κάποια χόρευαν από χαρά. Άλλα έπεσαν κάτω."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their faces. What are the different feelings these animals have?"
+msgstr "Κοιτάξτε τα πρόσωπά τους. Ποια είναι τα διαφορετικά συναισθήματα που έχουν αυτά τα ζώα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the animals are having trouble with their new legs. Is it fun for you when you try something new, or is it frustrating sometimes? What is something new you tried that was difficult for you?"
+msgstr "Μερικά από τα ζώα δυσκολεύονται με τα νέα τους πόδια. Σας διασκεδάζει να δοκιμάζετε κάτι καινούριο, ή σας αποθαρρύνει μερικές φορές; Τι είναι κάτι που δοκιμάσατε και σας φάνηκε δύσκολο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of these animals have four legs and how many have two? What is the total number of legs on this page?"
+msgstr "Πόσα από αυτά τα ζώα έχουν τέσσερα πόδια και πόσα έχουν δύο; Ποιος είναι ο συνολικός αριθμός ποδιών σε αυτή τη σελίδα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They went to show people.\n"
+"\n"
+"The animals said, \"We will never crawl again.\""
+msgstr ""
+"Πήγαν να δείξουν τα πόδια τους στους ανθρώπους.\n"
+"\n"
+"Τα ζώα είπαν: \"Δεν θα συρθούμε ποτέ ξανά.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People are animals and only have two legs. According to this story, does that mean that people are birds?"
+msgstr "Και οι άνθρωποι είναι ζώα και έχουν μόνο δύο πόδια. Σύμφωνα με αυτή την ιστορία, σημαίνει αυτό ότι οι άνθρωποι είναι πουλιά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it possible for two types of animals to have a property in common, such as having two legs, and still be different? How much do two things have to have in common to be the same?"
+msgstr "Είναι δυνατόν δύο τύποι ζώων να έχουν ένα κοινό χαρακτηριστικό, όπως το να έχουν δύο πόδια, και ακόμα κι έτσι να είναι διαφορετικά; Πόσα κοινά πρέπει να έχουν δύο πράγματα για να είναι ίδια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of these animals has four legs, but it is standing on two of them. Which one is it?"
+msgstr "Ένα από αυτά τα ζώα έχει τέσσερα πόδια, αλλά στέκεται σε δύο από αυτά. Ποιο είναι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The last one in the line was Millipede. Maguru asked, \"Is there anyone else after you?\"\n"
+"\n"
+"Millipede answered, \"No, I am the last one.\""
+msgstr ""
+"Το τελευταίο στη γραμμή ήταν η Χιλιοποδαρούσα. Ο Μαγκούρου ρώτησε: \"Υπάρχει κανείς άλλος μετά από εσένα;\"\n"
+"\n"
+"Η Χιλιοποδαρούσα απάντησε: \"Όχι, είμαι το τελευταίο.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you are in line and there is no one after you, you are the last one. Where are you in line if there is no one before you?"
+msgstr "Όταν είστε στη σειρά και δεν υπάρχει κανείς μετά από εσάς, είστε ο τελευταίος. Πού βρίσκεστε στη σειρά αν δεν υπάρχει κανείς μπροστά σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why was it important to Maguru that Millipede is last? Do you think Maguru is tired of giving legs to animals?"
+msgstr "Γιατί ήταν σημαντικό για τον Μαγκούρου ότι η Χιλιοποδαρούσα είναι το τελευταίο; Νομίζετε ότι ο Μαγκούρου έχει κουραστεί να δίνει πόδια στα ζώα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen next?"
+msgstr "Τι νομίζετε ότι θα συμβεί στη συνέχεια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maguru thought, \"He is the last one. What will I do with the rest of the legs?\"\n"
+"\n"
+"Maguru gave Millipede all the remaining legs."
+msgstr ""
+"Ο Μαγκούρου σκέφτηκε: \"Αυτό είναι το τελευταίο. Τι θα κάνω με τα υπόλοιπα πόδια;\"\n"
+"\n"
+"Ο Μαγκούρου έδωσε στην Χιλιοποδαρούσα όλα τα υπόλοιπα πόδια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Millipede looks very happy to have so many legs. Would you like to have that many legs?"
+msgstr "Η Χιλιοποδαρούσα φαίνεται πολύ χαρούμενη που έχει τόσα πολλά πόδια. Θα θέλατε να έχετε τόσα πολλά πόδια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you had so many legs, think of all the shoes you would need. Tying your shoes in the morning would take forever!"
+msgstr "Αν είχατε τόσα πολλά πόδια, σκεφτείτε πόσα παπούτσια θα χρειαζόσασταν. Το να δέσετε τα κορδόνια σας κάθε πρωί θα έπαιρνε πάρα πολύ χρόνο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count high enough to count all of Millipede's feet? Millipede's name means \"thousand feet.\" The record for a millipede is 750 feet, so the name is not exactly correct."
+msgstr "Μπορείτε να μετρήσετε τόσο πολύ για να μετρήσετε όλα τα πόδια της Χιλιοποδαρούσας; Το όνομα \"Χιλιοποδαρούσα\" σημαίνει \"χίλια πόδια\". Το ρεκόρ για μια χιλιοποδαρούσα είναι 750 πόδια, οπότε το όνομα δεν είναι εντελώς ακριβές."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Millipede was very happy. He said, \"I will move faster than others.\""
+msgstr "Η Χιλιοποδαρούσα ήταν ενθουσιασμένη. Είπε, \"Θα κινούμαι πιο γρήγορα από τους άλλους.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think an animal moves faster because it has more feet? Can you think of four-legged animals that move more slowly than people?"
+msgstr "Νομίζετε ότι ένα ζώο κινείται πιο γρήγορα επειδή έχει περισσότερα πόδια; Μπορείτε να σκεφτείτε ζώα με τέσσερα πόδια που κινούνται πιο αργά από τους ανθρώπους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a millipede? They do not move very quickly at all! Why do you suppose they are so slow?"
+msgstr "Έχετε δει ποτέ χιλιοποδαρούσα; Δεν κινείται και πολύ γρήγορα! Γιατί νομίζετε ότι κινείται τόσο αργά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Clouds often look like the clouds in this picture; they have flat bottoms and fluffy tops. Do you have any ideas on why that would be?"
+msgstr "Τα σύννεφα συχνά μοιάζουν με αυτά που φαίνονται στην εικόνα· έχουν επίπεδη βάση και αφράτη κορυφή. Έχετε καμία ιδέα γιατί συμβαίνει αυτό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After Millipede left, Snake came to Maguru's house. He said to Maguru, \"Please give me some legs.\""
+msgstr "Αφού έφυγε η Χιλιοποδαρούσα, το Φίδι πήγε στο σπίτι του Μαγκούρου. Είπε στον Μαγκούρου, \"Σε παρακαλώ, δώσε μου μερικά πόδια.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Uh oh! There are no more legs and Snake needs some. How would you solve this problem?"
+msgstr "Ωχ! Δεν υπάρχουν άλλα πόδια και το φίδι χρειάζεται μερικά. Πώς θα λύνατε αυτό το πρόβλημα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles are shapes with four straight sides that look like this page. How many rectangles can you find on this page?"
+msgstr "Ορθογώνια είναι σχήματα με τέσσερις ευθείες πλευρές όπως αυτή η σελίδα. Πόσα ορθογώνια μπορείτε να βρείτε σε αυτή τη σελίδα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Squares are rectangles with four equal sides. Can you find the rectangle on this page that is a square?"
+msgstr "Τα τετράγωνα είναι ορθογώνια με τέσσερις ίσες πλευρές. Μπορείτε να βρείτε σε αυτή τη σελίδα ποιο από τα ορθογώνια είναι τετράγωνο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maguru said, \"I have given out all the legs. Where were you?\"\n"
+"\n"
+"Snake answered, \"I overslept.\""
+msgstr ""
+"Ο Μαγκούρου είπε, \"Έχω δώσει όλα τα πόδια. Πού ήσουν;\"\n"
+"\n"
+"Το Φίδι απάντησε, \"Με πήρε ο ύπνος.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their faces. How do they feel?"
+msgstr "Κοιτάξτε τα πρόσωπά τους. Πώς νιώθουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever overslept? Was it fun to sleep in, or did you feel guilty about sleeping so long?"
+msgstr "Έχετε κοιμηθεί ποτέ παραπάνω απ’ όσο πρέπει; Σας άρεσε να κοιμάστε τόσες ώρες, ή νιώσατε άσχημα ότι κοιμηθήκατε τόσο πολύ;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count all the stripes on this page? Can you count that high?"
+msgstr "Μπορείτε να μετρήσετε όλες τις ρίγες σε αυτή τη σελίδα; Μπορείτε να μετρήσετε τόσο πολύ;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maguru looked to see if there were legs remaining.\n"
+"\n"
+"He did not find any."
+msgstr ""
+"Ο Μαγκούρου κοίταξε για να δει αν είχαν απομείνει πόδια.\n"
+"\n"
+"Δεν βρήκε κανένα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe some of the rectangles on this page. Are any of  them squares?"
+msgstr "Περιγράψτε μερικά από τα ορθογώνια σε αυτή τη σελίδα. Βλέπετε κάποια από αυτά να είναι τετράγωνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you can only see part of something that has a stripe, it can look like a rectangle. Describe a few of those on this page."
+msgstr "Όταν μπορείτε να δείτε μόνο μέρος κάποιου πράγματος που έχει ρίγες, μπορεί να μοιάζει σαν ορθογώνιο. Περιγράψτε μερικά από αυτά σε αυτή τη σελίδα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are no legs where Maguru looked. When you have none of something, you have 0 of them. Zero is a very useful number for describing not having anything. Name some silly things that you have zero of!"
+msgstr "Δεν υπάρχουν πόδια εκεί που κοίταξε ο Μαγκούρου. Όταν δεν έχετε τίποτα, έχετε 0 από αυτό. Το μηδέν είναι ένας πολύ χρήσιμος αριθμός για να περιγράψετε ότι δεν έχετε τίποτα. Ονομάστε μερικά αστεία πράγματα από τα οποία δεν έχετε καθόλου!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Maguru said to Snake, \"Sorry. There are no legs left.\" Snake crawled home without legs.\n"
+"\n"
+"From that day, Snake does not sleep much. He is waiting to be first in line to get legs."
+msgstr ""
+"Ο Μαγκούρου είπε στο Φίδι, \"Συγγνώμη. Δεν έχουν απομείνει άλλα πόδια.\" Το Φίδι πήγε σπίτι του σέρνοντας χωρίς πόδια.\n"
+"\n"
+"Από εκείνη την ημέρα, το Φίδι δεν κοιμάται πολύ. Περιμένει να είναι το πρώτο στη σειρά για να πάρει πόδια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a very sad day for Snake! Have you ever been sad that others got something that you did not? Were you happy for the others, or just sad that you were left out?"
+msgstr "Είναι μια πολύ θλιβερή μέρα για το Φίδι! Έχετε νιώσει ποτέ άσχημα επειδή άλλοι πήραν κάτι που δεν πήρατε εσείς; Ήσασταν χαρούμενοι για αυτούς ή μόνο λυπημένοι που εσείς μείνατε έξω απ’ τη μοιρασιά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you think of some other animals that have zero legs?"
+msgstr "Μπορείτε να σκεφτείτε μερικά άλλα ζώα που δεν έχουν καθόλου πόδια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There is a cloud next to Maguru that is quite strange! The cloud is between Snake and Maguru's home. It must be a very tiny cloud!"
+msgstr "Υπάρχει ένα σύννεφο δίπλα στον Μαγκούρου που είναι αρκετά παράξενο! Το σύννεφο βρίσκεται ανάμεσα στο Φίδι και το σπίτι του Μαγκούρου. Πρέπει να είναι ένα πολύ μικρό σύννεφο!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My sister's dress is too big for me!"
 msgstr "Το φόρεμα της αδερφής μου είναι πολύ μεγάλο για μένα!"
 
@@ -11287,6 +11735,528 @@ msgstr "Είστε ευγνώμονες για το μέρος από όπου �
 
 #. type=data_list
 msgctxt "data_list"
+msgid "A long time ago, in the vast city of Johannesburg, a baby girl was born. That baby was me. My mom called me Miriam. Miriam Makeba."
+msgstr "Πριν από πολλά χρόνια, στη μεγάλη πόλη του Γιοχάνεσμπουργκ, γεννήθηκε ένα κοριτσάκι. Εκείνο το μωρό ήμουν εγώ. Η μαμά μου με ονόμασε Μίριαμ. Μίριαμ Μακέμπα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She is sitting on a three-legged stool. Most chairs have four legs. What is better about having three legs?"
+msgstr "Κάθεται σε ένα σκαμνί με τρία πόδια. Οι περισσότερες καρέκλες έχουν τέσσερα πόδια. Γιατί είναι καλύτερο το να έχει το κάθισμα τρία πόδια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has lots of rectangles. A rectangle is a shape with four straight sides and corners that are right angles, like the corners of this page. Point to some rectangles in this picture."
+msgstr "Αυτή η ιστορία έχει πολλά ορθογώνια. Ένα ορθογώνιο είναι σχήμα με τέσσερις ευθείες πλευρές και γωνίες που είναι ορθές, όπως οι γωνίες αυτής της σελίδας. Δείξτε μερικά ορθογώνια σε αυτήν την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are rectangles all around you. Point to some rectangles where you are."
+msgstr "Υπάρχουν ορθογώνια παντού γύρω σας. Δείξτε μερικά ορθογώνια εκεί όπου βρίσκεστε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mom was a sangoma, but she also worked to make other people's homes neat and clean. It was hard for my mom to earn enough for both of us. She started selling homemade beer to bring in more money."
+msgstr "Η μαμά ήταν σαγκόμα (θεραπεύτρια της παραδοσιακής αφρικανικής ιατρικής), αλλά επίσης δούλευε σε σπίτια άλλων για να είναι καθαρά και τακτοποιημένα. Ήταν δύσκολο για τη μαμά μου να βγάζει αρκετά για τις δυο μας. Άρχισε να πουλά σπιτική μπύρα για να βγάζει περισσότερα χρήματα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sangoma is an herbalist or a healer. Do you like going to the doctor?"
+msgstr "Μια σαγκόμα είναι βοτανολόγος ή θεραπεύτρια. Σας αρέσει να πηγαίνετε στον γιατρό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the rectangles that are beautiful shades of blue in this picture. How many do you count? Did you count them by 1's, 2's, or in some other way?"
+msgstr "Κοιτάξτε τα ορθογώνια που έχουν όμορφες αποχρώσεις του μπλε σε αυτή την εικόνα. Πόσα μπορείτε να μετρήσετε; Τα μετρήσατε ανά ένα, ανά δύο ή με κάποιον άλλον τρόπο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to some rectangles that are not blue, if you can find any."
+msgstr "Δείξτε μερικά ορθογώνια που δεν είναι μπλε, αν μπορείτε να βρείτε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The laws of the land said that selling homemade beer was wrong. The police sent my mom to jail for six long months. I was only 18 days old, and needed my mom. So even though I was a baby, I went to jail too."
+msgstr "Οι νόμοι της χώρας έλεγαν ότι η πώληση σπιτικής μπύρας ήταν παράνομη. Η αστυνομία έστειλε τη μαμά μου στη φυλακή για έξι ολόκληρους μήνες. Ήμουν μόλις 18 ημερών και χρειαζόμουν τη μητέρα μου. Έτσι, παρ’ όλο που ήμουν μωρό, πήγα κι εγώ στη φυλακή."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at their faces, how are Miriam and her mother feeling? How were they feeling on the previous page?"
+msgstr "Κοιτάζοντας τα πρόσωπά τους, πώς νιώθουν η Μίριαμ και η μητέρα της; Πώς ένιωθαν στην προηγούμενη σελίδα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More and more rectangles! There are lots of rectangles, but there are also some other shapes -- can you find them?"
+msgstr "Όλο και περισσότερα ορθογώνια! Υπάρχουν πολλά ορθογώνια, αλλά υπάρχουν επίσης και άλλα σχήματα — μπορείτε να τα βρείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are circles for the eyes, beads, and hoop earrings. There is a downturned arc, which is a part of a circle, for the mother's mouth."
+msgstr "Στην εικόνα υπάρχουν κύκλοι (για τα μάτια, για τις χάντρες και για τα σκουλαρίκια κρίκους). Υπάρχει και ένα καμπύλο τόξο, που είναι μέρος ενός κύκλου, για το στόμα της μητέρας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As a little girl I loved to sing. When I was older, I helped my mom clean houses. Singing songs as I worked made the chores go faster and the days seem brighter. Singing made me happier than I can explain."
+msgstr "Όταν ήμουν μικρό κορίτσι, λάτρευα το τραγούδι. Όταν μεγάλωσα, βοηθούσα τη μαμά μου να καθαρίζει σπίτια. Το να τραγουδώ καθώς δούλευα έκανε τις δουλειές να περνούν πιο γρήγορα και τις μέρες να φαίνονται πιο φωτεινές. Το τραγούδι με έκανε τόσο χαρούμενη που δεν έχω λόγια να το περιγράψω."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What in this page shows that she is singing? Do you know how to read music notes on a page?"
+msgstr "Σ’ αυτή τη σελίδα τι δείχνει ότι τραγουδά; Ξέρετε να διαβάζετε νότες σε μια παρτιτούρα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like to sing? Some people have trouble hearing the right notes to sing, but with practice and listening they can get much better at it."
+msgstr "Σας αρέσει να τραγουδάτε; Κάποιοι δυσκολεύονται να ακολουθήσουν τις σωστές νότες στο τραγούδι, αλλά με εξάσκηση και προσεκτική ακρόαση μπορούν να βελτιωθούν πολύ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles are a very common shape in most rooms. How many rectangles can you find in this picture?"
+msgstr "Τα ορθογώνια είναι πολύ συνηθισμένο σχήμα στους περισσότερους χώρους. Πόσα ορθογώνια μπορείτε να βρείτε σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I sang in my church, and this made others happy too. Music has the power to bring people together. When we were singing we felt brave and strong."
+msgstr "Τραγουδούσα στην εκκλησία, και αυτό έκανε και τους άλλους χαρούμενους. Η μουσική έχει τη δύναμη να φέρνει τους ανθρώπους κοντά. Όταν τραγουδούσαμε νιώθαμε γενναίοι και δυνατοί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does it surprise you to read that she felt brave and strong while singing? What do you think she meant by that?"
+msgstr "Σας εκπλήσσει να διαβάζετε ότι ένιωθε γενναία και δυνατή ενώ τραγουδούσε; Τι νομίζετε ότι εννοούσε με αυτό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These windows are not rectangles! One of the windows is a circle. We can't see the whole scene, but it looks like the other windows have arched tops. An arch is part of an oval."
+msgstr "Αυτά τα παράθυρα δεν είναι ορθογώνια! Ένα από τα παράθυρα είναι κύκλος. Δεν μπορούμε να δούμε όλη τη σκηνή, αλλά φαίνεται ότι τα άλλα παράθυρα έχουν στο επάνω μέρος καμάρες. Μια καμάρα είναι μέρος ενός οβάλ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at the particularly interesting interplay of shapes on the blue dress. Shapes can be combined in such interesting ways!"
+msgstr "Κοιτάξτε το ιδιαίτερα ενδιαφέρον ανακάτεμα των σχημάτων στο μπλε φόρεμα. Τα σχήματα μπορούν να συνδυαστούν με τόσο ενδιαφέροντες τρόπους!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People said my voice was a gift and my songs were special. I sang with other musicians and our music was heard all over the world."
+msgstr "Οι άνθρωποι έλεγαν ότι η φωνή μου ήταν δώρο και τα τραγούδια μου ξεχωριστά. Τραγούδησα με άλλους μουσικούς και η μουσική μας ακούστηκε σε όλον τον κόσμο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Miriam is standing in a spotlight shining down from a bright light in the ceiling. The spotlight makes a cone of light that the singer can be in and stand on the stage. People can have cones that are funnels or ice cream cones."
+msgstr "Η Μίριαμ στέκεται σε έναν σημείο που πέφτει ένα έντονο φως από προβολέα από το ταβάνι. Ο προβολέας δημιουργεί έναν κώνο φωτός στον οποίο μπορεί να βρίσκεται η τραγουδίστρια πάνω στη σκηνή. Οι άνθρωποι γνωρίζουν κώνους όπως οι χωνιά ή τα χωνάκια παγωτού."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When a spotlight shines straight down it makes a circle on the stage floor. When it shines from the side, the shape on the floor is called an oval or an ellipse. Do you see any ellipses where you are?"
+msgstr "Όταν ένας προβολέας λάμπει κατακόρυφα προς τα κάτω, σχηματίζει έναν κύκλο στο πάτωμα της σκηνής. Όταν φωτίζει από το πλάι, το σχήμα στο πάτωμα ονομάζεται οβάλ ή έλλειψη. Βλέπετε καμιά έλλειψη εκεί όπου βρίσκεστε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Other than the spotlight, what other ovals or parts of ovals do you see in this picture?"
+msgstr "Εκτός από τον προβολέα, ποια άλλα οβάλ ή τμήματα οβάλ βλέπετε σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My home was Sophiatown, a place of culture and music. Sophiatown is a place where South Africans could make music and harmony and dance together. But the people who ruled the land at the time did not like this togetherness. Those rulers didn't want black and white people to be friends."
+msgstr "Το μέρος που αισθανόμουν σπίτι μου ήταν το Σοφιάταουν, ένας τόπος γεμάτος κουλτούρα και μουσική. Το Σοφιάταουν ήταν ένα μέρος όπου οι Νοτιοαφρικανοί μπορούσαν να δημιουργούν μουσικές και μελωδίες και να χορεύουν όλοι μαζί. Όμως στους ανθρώπους που κυβερνούσαν τότε τη χώρα δεν άρεσε αυτή η συνύπαρξη. Εκείνοι οι άρχοντες δεν ήθελαν οι μαύροι και οι λευκοί να είναι φίλοι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unfortunately, some people pay attention to things that are different about people, such as skin color, how tall they are, or the place where they come from. Are there some differences that keep you away from some people?"
+msgstr "Δυστυχώς, κάποιοι άνθρωποι δίνουν σημασία σε πράγματα που διαφέρουν στους άλλους, όπως το χρώμα του δέρματος, το ύψος ή ο τόπος καταγωγής. Υπάρχουν κάποιες διαφορές που σας κρατούν μακριά από κάποιους ανθρώπους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Music is something that can be shared and it can help bring people together. What brings you together with your friends?"
+msgstr "Η μουσική είναι κάτι που μπορεί να διαμοιραστεί και να βοηθήσει τους ανθρώπους να έρθουν κοντά. Τι σας φέρνει κοντά με τους φίλους σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think doing math is something that can be shared and bring people together?"
+msgstr "Πιστεύετε ότι τα μαθηματικά είναι κάτι που μπορεί να διαμοιραστεί και να φέρει τους ανθρώπους κοντά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I knew it was wrong to treat people differently because of their skin color. I did not hide my beliefs, and so those people in charge wanted me out of the country. When I was singing in America, I was told I could never return home."
+msgstr "Ήξερα ότι ήταν λάθος να αντιμετωπίζεις τους ανθρώπους διαφορετικά λόγω του χρώματος του δέρματός τους. Δεν έκρυψα τις πεποιθήσεις μου, και έτσι οι άνθρωποι στην εξουσία ήθελαν να με βγάλουν από τη χώρα. Όταν τραγουδούσα στην Αμερική, έμαθα ότι δεν θα μπορούσα ποτέ να επιστρέψω σπίτι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is Miriam feeling? How can you tell?"
+msgstr "Πώς νιώθει η Μίριαμ; Πώς μπορείτε να το καταλάβετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been away from home and worried about getting back? Did it make you sad, or was it just hard to wait?"
+msgstr "Έχετε βρεθεί ποτέ μακριά από το σπίτι και ανησυχούσατε αν θα γυρίσετε; Σας έκανε να νιώσετε λυπημένοι ή ήταν απλώς δύσκολο να περιμένετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Clouds can come in many shapes! Notice that the bottoms of these clouds are flat. That often happens with clouds. Look at the clouds where you are, or remember a time when there were lots of clouds -- were they flat on the bottom?"
+msgstr "Τα σύννεφα μπορούν να έχουν πολλά σχήματα! Παρατηρήστε ότι το κάτω μέρος αυτών των σύννεφων είναι επίπεδο. Αυτό συμβαίνει συχνά με τα σύννεφα. Κοιτάξτε τα σύννεφα εκεί που είστε, ή θυμηθείτε μια φορά που υπήρχαν πολλά σύννεφα — ήταν επίπεδα στον πάτο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People all over the world heard my story. My songs and my story helped many to see how there was no fairness in South Africa for those with black skin. I decided to go on singing and telling the truth about my country, no matter what."
+msgstr "Άνθρωποι σε όλον τον κόσμο άκουσαν την ιστορία μου. Τα τραγούδια και η ιστορία μου βοήθησαν πολλούς να δουν ότι δεν υπήρχε δικαιοσύνη στη Νότια Αφρική για όσους είχαν μαύρο δέρμα. Αποφάσισα να συνεχίσω να τραγουδώ και να λέω την αλήθεια για τη χώρα μου, ό,τι κι αν γίνει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever done something that some people thought was a bad idea, but you knew it was the right thing to do? What was it? Were you glad you stood up for what you believed in?"
+msgstr "Έχετε κάνει ποτέ κάτι που κάποιοι θεωρούσαν κακή ιδέα, αλλά εσείς ξέρατε ότι ήταν το σωστό; Τι ήταν; Χαρήκατε που υπερασπιστήκατε αυτό που πιστεύατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do the eyebrows and mouths in this picture show that the people are dismayed?"
+msgstr "Πώς δείχνουν τα φρύδια και τα στόματα σε αυτή την εικόνα ότι οι άνθρωποι είναι απογοητευμένοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use your eyebrows to show different feelings. Try to show that you are happy, sad, surprised, or worried."
+msgstr "Χρησιμοποιήστε τα φρύδια σας για να δείξετε διαφορετικά συναισθήματα. Προσπαθήστε να δείξετε ότι είστε χαρούμενοι, λυπημένοι, έκπληκτοι ή ανήσυχοι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The world loved my music and I was welcomed in many countries. I won awards and sang for important people all over the globe. My life was good, but something was missing. I could not sing in my home country, and people there were not free."
+msgstr "Ο κόσμος αγάπησε τη μουσική μου και με καλωσόρισε σε πολλές χώρες. Κέρδισα βραβεία και τραγούδησα για σημαντικούς ανθρώπους σε όλη τη γη. Η ζωή μου ήταν καλή, αλλά κάτι έλειπε. Δεν μπορούσα να τραγουδήσω στη χώρα μου και οι άνθρωποι εκεί δεν ήταν ελεύθεροι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice how the spotlight creates part of an oval on the floor."
+msgstr "Παρατηρήστε πώς ο προβολέας δημιουργεί μέρος ενός οβάλ στο πάτωμα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes an outline of a shape is enough to tell what it is. The two dark outlines show people wearing something special on their heads. Who do you think these people are?"
+msgstr "Κάποιες φορές το περίγραμμα ενός σχήματος αρκεί για να καταλάβετε τι είναι. Τα δύο σκοτεινά περιγράμματα δείχνουν ανθρώπους που φορούν κάτι ιδιαίτερο στο κεφάλι τους. Ποιοι νομίζεις ότι είναι αυτοί οι άνθρωποι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever done some singing, dancing, or other performing in front of people? How did you feel?"
+msgstr "Έχετε τραγουδήσει, χορέψει ή κάνει άλλη παράσταση μπροστά σε κόσμο; Πώς νιώσατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then a wonderful day dawned when Nelson Mandela became president of South Africa. New people were in charge and the unfair laws belonged to the past. I finally went home with new hope in my heart."
+msgstr "Και τότε ξημέρωσε μια υπέροχη μέρα όταν ο Νέλσον Μαντέλα έγινε πρόεδρος της Νότιας Αφρικής. Νέοι άνθρωποι ανέλαβαν και οι άδικοι νόμοι ανήκαν πια στο παρελθόν. Επέστρεψα επιτέλους στο σπίτι με νέα ελπίδα στην καρδιά μου."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which arcs on their faces show that they are happy?"
+msgstr "Ποια τόξα στα πρόσωπά τους δείχνουν ότι είναι χαρούμενοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The stripes on the shirt of President Mandela are made up of rectangles. There are shapes all around us!"
+msgstr "Οι ρίγες στο πουκάμισο του προέδρου Μαντέλα αποτελούνται από ορθογώνια. Υπάρχουν σχήματα παντού γύρω μας!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice the flat-bottomed clouds in this picture?"
+msgstr "Προσέξτε τα σύννεφα με το επίπεδο κάτω μέρος σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After that, I could sing in a free, fair country. People of different colors could enjoy music together. I helped make this happen because I was brave and strong. I sang the truth in all of my songs."
+msgstr "Μετά από αυτό, μπορούσα να τραγουδώ σε μια ελεύθερη, δίκαιη χώρα. Άνθρωποι με διαφορετικά χρώματα δέρματος μπορούσαν να απολαμβάνουν τη μουσική μαζί. Βοήθησα να συμβεί αυτό επειδή ήμουν γενναία και δυνατή. Τραγουδούσα την αλήθεια σε όλα μου τα τραγούδια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some times when you have been brave and strong? How did you feel?"
+msgstr "Ποιες είναι μερικές φορές που σταθήκατε γενναίοι και δυνατοί; Πώς νιώσατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the people on this page. If you take away the people on the stage, how many are left?"
+msgstr "Μετρήστε μαζί όλους τους ανθρώπους σε αυτή τη σελίδα. Αν αφαιρέσετε τους ανθρώπους πάνω στη σκηνή, πόσοι απομένουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How wonderful to see all these people enjoying Miriam's music and dancing together!"
+msgstr "Τι υπέροχο να βλέπεις όλους αυτούς τους ανθρώπους να απολαμβάνουν τη μουσική της Μίριαμ και να χορεύουν μαζί!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many years ago, Sun and Water were great friends. Both lived on earth together."
+msgstr "Πριν από πολλά χρόνια, ο Ήλιος και το Νερό ήταν πολύ καλοί φίλοι. Ζούσαν μαζί και οι δύο στη γη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever thought of Sun, Moon, and Water as beings that could talk to each other?"
+msgstr "Έχετε ποτέ σκεφτεί τον Ήλιο, η Σελήνη και το Νερό ως πλάσματα που θα μπορούσαν να μιλούν μεταξύ τους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would it be like if the sun were not in the sky? What do you think would change?"
+msgstr "Πώς θα ήταν αν ο ήλιος δεν βρισκόταν στον ουρανό; Τι νομίζετε ότι θα άλλαζε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many colors in this picture. Can you name them all?"
+msgstr "Υπάρχουν πολλά χρώματα σε αυτή την εικόνα. Μπορείτε να τα ονομάσετε όλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun used to visit Water very often, but Water never went to visit Sun."
+msgstr "Ο Ήλιος συνήθιζε να επισκέπτεται το Νερό πολύ συχνά, αλλά το Νερό δεν πήγαινε ποτέ να επισκεφτεί τον Ήλιο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun is very hot! What do you think would happen to Water if Sun got close to it?"
+msgstr "Ο Ήλιος είναι πολύ ζεστός! Τι νομίζετε ότι θα συνέβαινε στο Νερό αν ο Ήλιος ερχόταν κοντά του;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun's shape is drawn as a circle. A partial circle is called an arc. Many of the parts of Sun's face are drawn as arcs. See if you can find some circles and arcs around where you are now."
+msgstr "Το σχήμα του Ήλιου είναι σχεδιασμένο σαν κύκλος. Ένα τμήμα κύκλου λέγεται τόξο. Πολλά από τα μέρη του προσώπου του Ήλιου είναι σχεδιασμένα ως τόξα. Δείτε αν μπορείτε να βρείτε κύκλους και τόξα γύρω σας τώρα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many colors of the rainbow in this picture. Are any rainbow colors missing?"
+msgstr "Υπάρχουν πολλά χρώματα του ουράνιου τόξου σε αυτή την εικόνα. Λείπει κάποιο χρώμα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"At last Sun asked Water why he never came to visit.\n"
+"\n"
+"Water replied that Sun's house was too small. \"If I come with my family we will drive you out,\" he said."
+msgstr ""
+"Τελικά ο Ήλιος ρώτησε το Νερό γιατί δεν ερχόταν ποτέ να τον επισκεφτεί.\n"
+"\n"
+"Το Νερό απάντησε ότι το σπίτι του Ήλιου ήταν πολύ μικρό. «Αν έρθω με την οικογένειά μου, θα σε διώξουμε έξω απ’ το σπίτι», είπε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors do you see on this page that you didn't see on the previous two pages?"
+msgstr "Ποια χρώματα βλέπετε σε αυτή τη σελίδα που δεν υπήρχαν στις δύο προηγούμενες;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you recognize something familiar inside Sun's house?"
+msgstr "Αναγνωρίζετε κάτι γνώριμο μέσα στο σπίτι του Ήλιου;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Polygons are flat shapes with straight sides. Sun's house is made up of polygons. Find as many rectangles (polygons with four sides and square corners) and pentagons (polygons with five sides) as you can."
+msgstr "Τα πολύγωνα είναι επίπεδα σχήματα με ευθείες πλευρές. Το σπίτι του Ήλιου αποτελείται από πολύγωνα. Βρείτε όσα περισσότερα ορθογώνια (πολύγωνα με τέσσερις πλευρές και ορθές γωνίες) και πεντάγωνα (πολύγωνα με πέντε πλευρές) μπορείτε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Water said, \"If you wish me to visit you, build a very large compound. My people are very many, and take up a lot of room.\"\n"
+"\n"
+"Sun promised to build a very big compound."
+msgstr ""
+"Τότε το Νερό είπε: «Αν θέλεις να σε επισκεφτώ, χτίσε έναν πολύ μεγάλο περίβολο. Οι δικοί μου είναι πάρα πολλοί και πιάνουν πολύ χώρο».\n"
+"\n"
+"Ο Ήλιος υποσχέθηκε να χτίσει έναν πολύ μεγάλο περίβολο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The story is leading up to Water coming to visit Sun's home. On the previous page Water said \"we will drive you out.\" What problem may occur when Water comes to visit?"
+msgstr "Η ιστορία οδηγεί στο να έρθει το Νερό στο σπίτι του Ήλιου. Στην προηγούμενη σελίδα το Νερό είπε «θα σε διώξουμε». Ποιο πρόβλημα μπορεί να προκύψει όταν το Νερό έρθει να επισκεφτεί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think this story will end after Water comes to visit?"
+msgstr "Πώς νομίζετε ότι θα τελειώσει η ιστορία μετά την επίσκεψη του Νερού;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who do you think is in Water's family? Why does Water describe his family as being big?"
+msgstr "Ποιοι νομίζετε ότι είναι μέλη της οικογένειας του Νερού; Γιατί το Νερό χαρακτηρίζει την οικογένειά του μεγάλη;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun returned home to his wife, Moon, who greeted him with a broad smile. Sun told Moon what he had promised Water."
+msgstr "Ο Ήλιος γύρισε σπίτι στη σύζυγό του, τη Σελήνη, που τον καλωσόρισε με ένα πλατύ χαμόγελο. Ο Ήλιος είπε στη Σελήνη τι είχε υποσχεθεί στο Νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you can only see part of Moon like this, it is called a crescent moon. The outline of a crescent moon is made of two arcs."
+msgstr "Όταν βλέπετε μόνο ένα τμήμα της Σελήνης όπως εδώ, λέγεται μισοφέγγαρο. Το περίγραμμα ενός μισοφέγγαρου αποτελείται από δύο τόξα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you look at a crescent moon in the sky, you are only seeing part of the moon. What happened to the part of the moon you don't see? Has that part disappeared, or is something going on that makes that part hard to see?"
+msgstr "Όταν κοιτάτε ένα μισοφέγγαρο στον ουρανό, βλέπεις μόνο ένα κομμάτι της Σελήνης. Τι έχει συμβεί στο μέρος που δεν βλέπετε; Εξαφανίστηκε, ή συμβαίνει κάτι που το κάνει δύσκολο να φανεί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's fun to start tracking the relationship of the sun and the moon. For example, where is the sun relative to the moon when the moon is full?"
+msgstr "Είναι διασκεδαστικό να παρακολουθεί κανείς τη σχέση Ήλιου και Σελήνης. Για παράδειγμα, πού βρίσκεται ο Ήλιος σε σχέση με τη Σελήνη όταν η Σελήνη είναι πανσέληνος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The next day he started building a huge compound in which to entertain his friend."
+msgstr "Την επόμενη μέρα άρχισε να χτίζει έναν τεράστιο περίβολο για να φιλοξενήσει τον φίλο του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun is building a very large wall. Will it be big enough to hold Water and all Water's friends?"
+msgstr "Ο Ήλιος χτίζει έναν πολύ μεγάλο τοίχο. Θα είναι αρκετά μεγάλος για να χωρέσει το Νερό και όλους τους φίλους του;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun's wall is straight up and down, but follows a curved path. Have you ever seen a wall near you that follows a curved path?"
+msgstr "Ο τοίχος του Ήλιου είναι κατακόρυφος αλλά ακολουθεί καμπύλη πορεία. Έχετε δει ποτέ κοντά σας έναν τοίχο που ακολουθεί καμπύλη;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wall is made of bricks that are shaped like boxes. How many sides does a brick have? Name the shapes you see on the sides of a brick."
+msgstr "Ο τοίχος είναι φτιαγμένος από τούβλα που έχουν σχήμα κουτιού. Πόσες πλευρές έχει ένα τούβλο; Ονομάστε τα σχήματα που βλέπετε στις πλευρές του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As soon as the compound was completed, he asked Water to come and visit them."
+msgstr "Μόλις ο περίβολος ολοκληρώθηκε, ζήτησε από το Νερό να έρθει να τους επισκεφτεί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The pictures of the wall are a little confusing. On this page the wall looks a little taller than the house. On other pages, the wall looks about half as high as the house. Which do you think it is?"
+msgstr "Οι εικόνες του τοίχου είναι λίγο μπερδεμένες. Σε αυτή τη σελίδα ο τοίχος φαίνεται λίγο ψηλότερος από το σπίτι. Σε άλλες σελίδες φαίνεται περίπου μισός στο ύψος του σπιτιού. Τι πιστεύετε ότι ισχύει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think Sun made some of the wall straight and some of it curved?"
+msgstr "Γιατί νομίζετε ότι ο Ήλιος έκανε ένα μέρος του τοίχου ευθύ και ένα μέρος καμπύλο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's time for Water to visit. What do you think will happen next?"
+msgstr "Ήρθε η ώρα να τον επισκεφτεί το Νερό. Τι νομίζετε ότι θα συμβεί μετά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When Water arrived, he asked Sun whether it would be safe for him to enter.\n"
+"\n"
+"\"Yes, come in, my friend,\" Sun answered."
+msgstr ""
+"Όταν έφτασε το Νερό, ρώτησε τον Ήλιο αν θα ήταν ασφαλές να μπει.\n"
+"\n"
+"«Ναι, φίλε μου, πέρασε», απάντησε ο Ήλιος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Water is bringing lots of friends. What are some plants and animals that like to live in water?"
+msgstr "Το Νερό φέρνει πολλούς φίλους. Ποια φυτά και ζώα τους αρέσει να ζουν στο νερό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a lot of water comes into our houses, we say that they are flooded. Why is having too much water in a house bad for most houses?"
+msgstr "Αν μπει πολύ νερό στα σπίτια μας, λέμε ότι πλημμυρίζουν. Γιατί είναι κακό για τα περισσότερα σπίτια να έχουν πάρα πολύ νερό μέσα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like to swim? With all the water near their home, it looks like Sun and Moon had better like to swim!"
+msgstr "Σας αρέσει να κολυμπάτε; Με τόσο νερό κοντά στο σπίτι τους, φαίνεται πως ο Ήλιος και η Σελήνη μάλλον θα είναι καλό να αγαπούν το κολύμπι!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Water began to flow in.\n"
+"\n"
+"He was accompanied by crocodiles, fish, frogs, snakes, snails, flukes, turtles, and all the water animals."
+msgstr ""
+"Το Νερό άρχισε να ρέει μέσα.\n"
+"\n"
+"Το συνόδευαν κροκόδειλοι, ψάρια, βάτραχοι, φίδια, σαλιγκάρια, χελώνες και όλα τα υδρόβια ζώα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That's a lot of animals! All those animals coming into the house look very happy to be there!"
+msgstr "Πολλά ζώα! Όλα αυτά που μπαίνουν στο σπίτι φαίνονται πολύ χαρούμενα!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals do you see in this picture? How many more are coming? Do you think they will all fit?"
+msgstr "Πόσα ζώα βλέπετε σε αυτή την εικόνα; Πόσα ακόμη έρχονται; Θα χωρέσουν όλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun and Moon are very welcoming! Perhaps they are too welcoming?"
+msgstr "Ο Ήλιος και η Σελήνη είναι πολύ φιλόξενοι! Μήπως υπερβολικά φιλόξενοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Very soon Water was knee-deep. He asked Sun if it was still safe.\n"
+"\n"
+"\"Yes,\" Sun again answered. So more of water's people came in."
+msgstr ""
+"Πολύ σύντομα το Νερό έφτασε μέχρι τα γόνατα. Ρώτησε τον Ήλιο αν ήταν ακόμη ασφαλές.\n"
+"\n"
+"«Ναι», απάντησε ξανά ο Ήλιος. Έτσι μπήκαν κι άλλοι από τους δικούς του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count how many animals are in the house and how many are still on their way in. How many animals does that make in total?"
+msgstr "Μετρήστε πόσα ζώα είναι μέσα στο σπίτι και πόσα ακόμη έρχονται. Πόσα είναι συνολικά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun still looks happy. Does Moon feel the same way? How can you tell?"
+msgstr "Ο Ήλιος ακόμη φαίνεται χαρούμενος. Αισθάνεται το ίδιο η Σελήνη; Πώς το καταλαβαίνετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever told someone it was okay for them to do something and then regretted it? Did you do anything about it?"
+msgstr "Έχετε πει ποτέ σε κάποιον ότι μπορεί να κάνει κάτι και μετά το μετανιώσατε; Κάνατε κάτι για αυτό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Water reached the level of the top of a person's head. He asked Sun, \"Can more of my people come in?\" Sun and Moon both answered, \"Yes.\"\n"
+"\n"
+"Water flowed on, until Sun and Moon had to perch themselves on the top of the roof."
+msgstr ""
+"Το Νερό έφτασε στο ύψος του κεφαλιού ενός ανθρώπου. Ρώτησε τον Ήλιο: «Μπορούν να μπουν κι άλλοι δικοί μου;» Ο Ήλιος και η Σελήνη απάντησαν και οι δύο «Ναι».\n"
+"\n"
+"Το Νερό συνέχισε να ρέει, μέχρι που ο Ήλιος και η Σελήνη χρειάστηκε να βολευτούν πάνω στην κορυφή της στέγης."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun and Moon both said yes, but they don't look entirely happy about having to move to their roof!"
+msgstr "Ο Ήλιος και η Σελήνη είπαν και οι δύο ναι, αλλά δεν φαίνονται και πολύ ευχαριστημένοι που χρειάστηκε να μετακινηθούν στη στέγη!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun and Moon had to move to the roof. If Water gets any higher, where will they be able to go next?"
+msgstr "Ο Ήλιος και η Σελήνη έπρεπε να μετακινηθούν στη στέγη. Αν το Νερό ανέβει κι άλλο, πού θα μπορέσουν να πάνε μετά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Before you turn the page, how do you think this story ends?"
+msgstr "Πριν γυρίσεις σελίδα, πώς νομίζεις ότι τελειώνει αυτή η ιστορία;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Water's people continued to rush in. Very soon they reached the top of the roof.\n"
+"\n"
+"Sun and Moon were forced to go up to the sky. They have remained in the sky ever since."
+msgstr ""
+"Οι φίλοι του Νερού συνέχισαν να ορμούν μέσα. Πολύ σύντομα έφτασαν στην κορυφή της στέγης.\n"
+"\n"
+"Ο Ήλιος και η Σελήνη αναγκάστηκαν να ανέβουν στον ουρανό. Έκτοτε έχουν μείνει εκεί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many things in the sky other than Sun and Moon. Make up a story about how the stars ended up in the sky and why there are so many of them."
+msgstr "Υπάρχουν πολλά πράγματα στον ουρανό εκτός από τον Ήλιο και τη Σελήνη. Φτιάξτε μια ιστορία για το πώς βρέθηκαν τα αστέρια στον ουρανό και γιατί είναι τόσα πολλά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's fun to make up stories about why something came to be the way it is. Perhaps you have a favorite tree, rock, lake, or mountain you can think of a story for?"
+msgstr "Είναι διασκεδαστικό να φτιάχνεις ιστορίες για το πώς έγινε κάτι όπως είναι. Ίσως έχετε ένα αγαπημένο δέντρο, βράχο, λίμνη ή βουνό για το οποίο μπορείτε να επινοήσετε μια ιστορία;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sun and Moon look happy together in the sky. When they are close to each other in the sky the moon is a new moon and can barely be seen. From now on you can look up and see Sun and Moon in a new way!"
+msgstr "Ο Ήλιος και η Σελήνη φαίνονται χαρούμενοι μαζί στον ουρανό. Όταν είναι ο ένας κοντά στον άλλο, η Σελήνη είναι νέα και μόλις που φαίνεται. Από τώρα και στο εξής μπορείς να κοιτάς ψηλά και να βλέπεις τον Ήλιο και τη Σελήνη με νέο τρόπο!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Mother Sun decided to visit her sister, the moon. Sister Moon lives on the other side of the sky. \"I will be back soon,\" said Sun to the clouds."
 msgstr "Ο πατέρας Ήλιος αποφάσισε να επισκεφθεί την αδερφή του, τη Σελήνη. Η αδερφή του η Σελήνη ζει στην άλλη πλευρά του ουρανού. \"Θα γυρίσω σύντομα,\" είπε ο Ήλιος στα σύννεφα."
 
@@ -11530,6 +12500,324 @@ msgstr "Ποια είναι τα λιγότερα σε αυτή τη σελίδ�
 msgctxt "data_list"
 msgid "Which are there the most of? Sometimes there are two things with the same amount with the most -- that's okay, just say both of them."
 msgstr "Ποια είναι τα περισσότερα; Μερικές φορές υπάρχουν δύο πράγματα που έχουν τον ίδιο αριθμό– τότε είναι εντάξει να τα πείτε και τα δύο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day Tortoise was walking through the countryside. He was looking for something. He gazed into the distance and squinted at the grass. Then he walked past Snail."
+msgstr "Μια μέρα, η Χελώνα περπατούσε στην εξοχή. Έψαχνε κάτι. Κοίταξε μακριά και μισόκλεισε τα μάτια της στα χόρτα. Έπειτα πέρασε δίπλα από το Σαλιγκάρι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise is looking for his house. Do you think he forgot it or did he never know where it was? Do you know where Tortoise's house is?"
+msgstr "Η Χελώνα ψάχνει για το σπίτι της. Νομίζετε ότι το ξέχασε ή ποτέ δεν ήξερε πού ήταν; Ξέρετε πού βρίσκεται το σπίτι της Χελώνας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know where Snail's house is?"
+msgstr "Ξέρετε πού είναι το σπίτι του Σαλιγκαριού;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you live? Is your house easy to find, or do you need help finding your house sometimes?"
+msgstr "Εσείς πού μένετε; Είναι εύκολο να βρείτε το σπίτι σας ή χρειάζεστε μερικές φορές βοήθεια για να το βρείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "\"Are you looking for something?\" Snail asked. \"Yes, Snail, I'm looking for my house. Have you seen it, by any chance?\""
+msgstr "«Ψάχνεις κάτι;» τη ρώτησε το Σαλιγκάρι. «Ναι, Σαλιγκάρι, ψάχνω το σπίτι μου. Μήπως το είδες;»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you remember having trouble finding something and discovering it was easy to find all along?"
+msgstr "Θυμάστε ποτέ να δυσκολευτήκατε να βρείτε κάτι και τελικά ανακαλύψατε ότι ήταν εύκολο να το βρείτε από την αρχή;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you don't think of how to do something that is easy to do, how do you feel? Does it frustrate you? People overlook things all the time, it's very easy to do!"
+msgstr "Όταν δεν καταφέρνετε να βρείτε πώς να κάνετε κάτι που είναι εύκολο, πώς αισθάνεστε; Αισθάνεστε απογοήτευση; Οι άνθρωποι συχνά παραβλέπουν πράγματα, είναι πολύ εύκολο να συμβεί αυτό!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's fun to imagine animals talking together like this. If you could talk with an animal, what would you ask them?"
+msgstr "Έχει πλάκα να φαντάζεσαι τα ζώα να μιλούν μεταξύ τους. Αν μπορούσατε να μιλήσετε με ένα ζώο, τι θα το ρωτούσατε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Snail said, \"No, I haven't, but I'll help you look!\" She climbed onto Tortoise's shell.\n"
+"\n"
+"Tortoise walked on with Snail on his back. They looked and looked, but there was no sign of a house. The sun was high in the sky."
+msgstr ""
+"Το Σαλιγκάρι είπε: «Όχι, δεν το έχω δει, αλλά θα σε βοηθήσω να το ψάξουμε!» Σκαρφάλωσε επάνω στο καβούκι της Χελώνας.\n"
+"\n"
+"Η Χελώνα συνέχισε να περπατά με το Σαλιγκάρι στην πλάτη της. Έψαχναν, έψαχναν, αλλά δεν υπήρχε κανένα σημάδι από το σπίτι. Ο ήλιος βρισκόταν ψηλά στον ουρανό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why didn't Snail and Tortoise walk together side by side?"
+msgstr "Γιατί το Σαλιγκάρι και η Χελώνα δεν περπατούσαν δίπλα-δίπλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise."
+msgstr "Η μέση ταχύτητα μιας χελώνας είναι περίπου 20 φορές μεγαλύτερη από του σαλιγκαριού. Η μέση ταχύτητα ενός ανθρώπου είναι περίπου πέντε φορές μεγαλύτερη από της χελώνας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the story mention where the sun is? Do you think something interesting is going to happen with the sun?"
+msgstr "Γιατί η ιστορία ανέφερε πού βρίσκεται ο ήλιος; Νομίζετε ότι θα συμβεί κάτι ενδιαφέρον με τον ήλιο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A little later they passed Sparrow.\n"
+"\n"
+"\"Are you looking for something?\" asked Sparrow. \"Yes, Sparrow, I'm looking for my house. Have you seen it, by any chance?\" Sparrow said, \"No, I haven't, but I'll help you look!\""
+msgstr ""
+"Λίγο αργότερα πέρασαν δίπλα από το Σπουργίτι.\n"
+"\n"
+"«Ψάχνετε κάτι;» ρώτησε το Σπουργίτι. «Ναι, Σπουργίτι, ψάχνω το σπίτι μου. Μήπως το είδες;» Το Σπουργίτι είπε: «Όχι, δεν το είδα, αλλά θα σε βοηθήσω να ψάξουμε!»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The leaves of each branch are paired up except for one leaf at the very end. When things are paired up with one left over, that means there are an odd number of them."
+msgstr "Τα φύλλα κάθε κλαδιού είναι σε ζευγάρια εκτός από ένα φύλλο στην άκρη. Όταν τα αντικείμενα είναι σε ζευγάρια και περισσεύει ένα, αυτό σημαίνει ότι ο αριθμός τους είναι μονός."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you have an odd number of something, you can't share it equally with two people. If you can share something equally, that means you have an even number of things. Two and four are examples of even numbers. Can you think of some other even numbers?"
+msgstr "Όταν έχεις μονό αριθμό από κάτι, δεν μπορείς να το μοιράσεις εξίσου σε δύο άτομα. Αν μπορείς να το μοιράσεις δίκαια, τότε έχεις ζυγό αριθμό. Το 2 και το 4 είναι παραδείγματα ζυγών αριθμών. Μπορείτε να σκεφτείτε κι άλλους ζυγούς αριθμούς;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's even trickier to think of numbers that can be shared equally by three people? Can you think of any examples of this?"
+msgstr "Είναι ακόμη πιο δύσκολο να σκεφτείτε αριθμούς που μπορούν να μοιραστούν εξίσου σε τρία άτομα. Μπορείτε να δώσετε παραδείγματα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\""
+msgstr "Χτύπησε τα φτερά του και πέταξε μακριά. «Μα πηγαίνεις πολύ γρήγορα για μένα», παραπονέθηκε η Χελώνα. Το Σπουργίτι γύρισε πίσω. «Εντάξει, τότε θα ανέβω κι εγώ.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The average speed of a sparrow is at least 10 times faster than a person, so it is about 50 times faster than a tortoise!"
+msgstr "Η μέση ταχύτητα ενός σπουργιτιού είναι τουλάχιστον 10 φορές μεγαλύτερη από ενός ανθρώπου, άρα περίπου 50 φορές μεγαλύτερη από μιας χελώνας!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What a huge range of speeds! Sparrow is 50 times faster than Tortoise, and Tortoise is 20 times faster than Snail!"
+msgstr "Τι μεγάλη ποικιλία ταχυτήτων! Το Σπουργίτι είναι 50 φορές γρηγορότερο από τη Χελώνα, και η Χελώνα είναι 20 φορές γρηγορότερη από το Σαλιγκάρι!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fortunately for Tortoise, Sparrow and Snail are very light to carry. Have you ever carried a heavy load for a long distance?"
+msgstr "Ευτυχώς για τη Χελώνα, το Σπουργίτι και το Σαλιγκάρι είναι πολύ ελαφριά για να τα κουβαλήσει. Έχετε κουβαλήσει ποτέ βαρύ φορτίο για μεγάλη απόσταση;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise carried on, with Snail and Sparrow perched on his shell. They looked and looked, but there was no sign of a house. The sun had inched lower in the sky."
+msgstr "Η Χελώνα συνέχισε, με το Σαλιγκάρι και το Σπουργίτι κουρνιασμένα στο καβούκι της. Έψαχναν, έψαχναν, αλλά δεν υπήρχε κανένα σημάδι από το σπίτι. Ο ήλιος είχε κατέβει λίγο χαμηλότερα στον ουρανό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does the story keep mentioning where the sun is? Where was the sun the last time it was mentioned?"
+msgstr "Γιατί η ιστορία συνεχίζει να αναφέρει πού βρίσκεται ο ήλιος; Πού ήταν ο ήλιος την τελευταία φορά που αναφέρθηκε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mentioning the sun's position is a way for the story to let us know that time is passing and it is getting later in the day."
+msgstr "Η αναφορά στη θέση του ήλιου είναι ένας τρόπος για να μας δείξει η ιστορία ότι περνάει ο χρόνος και πλησιάζει το απόγευμα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is getting later and the group is still not successful. What do you think happens next? WIll Tortoise give up?"
+msgstr "Η ώρα περνά και η ομάδα δεν έχει ακόμη επιτυχία. Τι νομίζετε ότι θα γίνει στη συνέχεια; Θα τα παρατήσει η Χελώνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A little later they passed Ladybird. \"Are you looking for something?\" asked Ladybird. \"Yes, Ladybird, I'm looking for my house. Have you seen it, by any chance?\""
+msgstr "Λίγο αργότερα πέρασαν δίπλα από την Πασχαλίτσα. «Ψάχνετε κάτι;» ρώτησε η Πασχαλίτσα. «Ναι, Πασχαλίτσα, ψάχνω το σπίτι μου. Μήπως το είδες;»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many names for ladybirds -- they are also called ladybugs, lady beetles, lady clocks, and lady flies. There are many thousands of types of ladybirds in the world!"
+msgstr "Υπάρχουν πολλά ονόματα για την πασχαλίτσα — λέγεται επίσης κοκκινέλλη, επτάστικτος και λαμπρίτσα. Υπάρχουν χιλιάδες είδη πασχαλίτσας στον κόσμο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although ladybugs do not fly for very long, they can briefly fly as fast as a sparrow!"
+msgstr "Αν και οι πασχαλίτσες δεν πετούν για πολύ, μπορούν για λίγο να πετάξουν τόσο γρήγορα όσο ένα σπουργίτι!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ladybirds can have different numbers of spots. How many spots have you seen on a ladybird?"
+msgstr "Οι πασχαλίτσες μπορεί να έχουν διαφορετικό αριθμό βούλες. Πόσες βούλες έχετε δει ποτέ σε μια πασχαλίτσα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Ladybird said, \"No, I haven't, but I'll help you look!\" She hopped onto Tortoise's back and on he went, with Snail and Sparrow and Ladybird on his back.\n"
+"\n"
+"They looked and looked, but there was no sign of a house. A breeze started to blow."
+msgstr ""
+"Η Πασχαλίτσα είπε: «Όχι, δεν το είδα, αλλά θα βοηθήσω!» Πήδηξε στην πλάτη της Χελώνας και εκείνη συνέχισε, με το Σαλιγκάρι, το Σπουργίτι και την Πασχαλίτσα στην πλάτη της.\n"
+"\n"
+" Έψαχναν, έψαχναν, αλλά δεν υπήρχε κανένα σημάδι από το σπίτι. Άρχισε να φυσά ένα αεράκι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise is lucky. A ladybird is another very light animal to carry."
+msgstr "Η Χελώνα είναι τυχερή. Η Πασχαλίτσα είναι ακόμη ένα πολύ ελαφρύ ζώο για να κουβαλήσει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is getting later in the day and a breeze is starting to blow. Hmm ... What do you think will happen with the weather?"
+msgstr "Πλησιάζει το απόγευμα και αρχίζει να φυσάει. Χμμ... Τι νομίζετε ότι θα γίνει με τον καιρό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's hard to see all of Tortoise's shell. What's your best estimate for how many yellow regions are in his shell? An estimate is an educated guess."
+msgstr "Είναι δύσκολο να δείτε ολόκληρο το καβούκι της Χελώνας. Ποια είναι η καλύτερη εκτίμησή σας για το πόσες κίτρινες περιοχές έχει το καβούκι της; Μια εκτίμηση είναι μια υπολογισμένη υπόθεση."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A little later they passed Mouse. He was making a garland of daisies. \"Are you looking for something?\" asked Mouse. \"Yes, Mouse, I'm looking for my house. Have you seen it, by any chance?\""
+msgstr "Λίγο αργότερα πέρασαν δίπλα από το Ποντίκι. Έφτιαχνε ένα στεφάνι από μαργαρίτες. «Ψάχνετε κάτι;» ρώτησε το Ποντίκι. «Ναι, Ποντίκι, ψάχνω το σπίτι μου. Μήπως το είδες;»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Estimate and then count the number of daisies. Do the same for the number of dark spots on Tortoise."
+msgstr "Κάντε μια εκτίμηση και μετά μετρήστε τον αριθμό των μαργαριτών. Κάντε το ίδιο για τον αριθμό των σκούρων κηλίδων στη Χελώνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more daisies or spots, and how many more are there?"
+msgstr "Υπάρχουν περισσότερες μαργαρίτες ή κηλίδες, και πόσες περισσότερες είναι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What happened to all the animals Tortoise was carrying? Where do you think they went?"
+msgstr "Τι συνέβη με όλα τα ζώα που κουβαλούσε η Χελώνα; Πού νομίζετε ότι πήγαν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mouse said: \"No, I haven't, but I'll help you look!\" She hopped onto Tortoise's back. \"Wait, I can't leave my flowers behind.\" Tortoise waited. Mouse stretched and stretched and scooped up her daisies."
+msgstr "Το Ποντίκι είπε: «Όχι, δεν το είδα, αλλά θα βοηθήσω!» Πήδηξε στην πλάτη της Χελώνας. «Περίμενε, δεν μπορώ να αφήσω τα λουλούδια μου πίσω.» Η Χελώνα περίμενε. Το Ποντίκι τεντώθηκε, τεντώθηκε και μάζεψε τις μαργαρίτες του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How much help have the other animals been? Do you think Tortoise could have done just as well alone?"
+msgstr "Βοήθησαν καθόλου τα άλλα ζώα; Νομίζετε ότι η Χελώνα θα τα κατάφερνε εξίσου καλά μόνη της;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which kinds of things do you like to do with others, and which do you like to do by yourself?"
+msgstr "Ποια πράγματα σας αρέσει να κάνετε με άλλους και ποια προτιμάτε να κάνετε μόνοι σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Estimate and count the leaves blowing around Tortoise. Are your estimates getting better?"
+msgstr "Κάντε εκτίμηση και μετρήστε τα φύλλα που φυσούν γύρω από τη Χελώνα. Γίνονται καλύτερες οι εκτιμήσεις σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise walked on, with Snail and Sparrow and Ladybird and Mouse on his back. They looked and looked, but there was no sign of a house. The wind swept leaves off the ground and swirled them around Tortoise's feet. He was tired. \"You lot are heavy,\" he sighed."
+msgstr "Η Χελώνα περπατούσε με το Σαλιγκάρι, το Σπουργίτι, την Πασχαλίτσα και το Ποντίκι στην πλάτη της. Έψαχναν, έψαχναν, αλλά δεν υπήρχε κανένα σημάδι από το σπίτι. Ο άνεμος σήκωνε φύλλα από το έδαφος και τα στριφογύριζε γύρω από τα πόδια της Χελώνας. Ήταν κουρασμένη. «Είστε βαριοί», αναστέναξε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind is getting stronger. The weather is changing!"
+msgstr "Ο άνεμος δυναμώνει. Ο καιρός αλλάζει!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you notice the weather changing when a storm comes? The wind picks up and there are more clouds."
+msgstr "Εσείς παρατηρείτε την αλλαγή του καιρού όταν έρχεται καταιγίδα; Ο άνεμος δυναμώνει και υπάρχουν περισσότερα σύννεφα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you enjoy the excitement of a storm coming in? Sometimes there is lightning and thunder! Do you enjoy the thunder, or is it scary, or perhaps some of both?"
+msgstr "Σας αρέσει η προσμονή όταν πλησιάζει μια καταιγίδα; Μερικές φορές υπάρχουν αστραπές και βροντές! Σας αρέσουν οι βροντές ή σας φοβίζουν ή ίσως και τα δύο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind got stronger. The sky turned dark. \"Oh, where is my house?\" asked Tortoise. Thunder roared in the hills. Lightning flashed in the distance. Drip-drip came the rain."
+msgstr "Ο άνεμος δυνάμωσε. Ο ουρανός σκοτείνιασε. «Ω, πού είναι το σπίτι μου;» ρώτησε η Χελώνα. Βροντές αντήχησαν στους λόφους. Αστραπές έλαμψαν στο βάθος. Πλιτς-πλιτς έπεσε η βροχή."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does Tortoise want to find his house so urgently now?"
+msgstr "Γιατί η Χελώνα θέλει τώρα τόσο απελπισμένα να βρει το σπίτι της;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Usually, people look for shelter when a storm comes. Do you see anyplace that could give them shelter?"
+msgstr "Συνήθως οι άνθρωποι αναζητούν καταφύγιο όταν έρχεται καταιγίδα. Βλέπετε κάποιο μέρος που θα μπορούσε να προσφέρει καταφύγιο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever been caught out in an open area when a storm came up suddenly? If you don't mind getting wet, it can be fun to experience being in the storm!"
+msgstr "Έχετε βρεθεί ποτέ σε ανοιχτό χώρο όταν ξαφνικά ξέσπασε καταιγίδα; Αν δεν σε πειράζει να βραχείς, μπορεί να είναι και διασκεδαστικό να είσαι στη βροχή!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind swirled and whipped. It blew Snail and Sparrow and Ladybird and Mouse right off Tortoise's back."
+msgstr "Ο άνεμος στριφογύριζε και λυσσομανούσε. Έριξε το Σαλιγκάρι, το Σπουργίτι, την Πασχαλίτσα και το Ποντίκι κάτω από την πλάτη της Χελώνας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many parts of this picture that show how strongly the wind is blowing things around. Describe a few of them."
+msgstr "Υπάρχουν πολλά σημεία σε αυτή την εικόνα που δείχνουν πόσο δυνατά φυσά ο άνεμος. Περιγράψτε μερικά από αυτά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the rain coming down vertically (straight up and down), or is the wind blowing the rain diagonally?"
+msgstr "Η βροχή πέφτει κατακόρυφα (ακριβώς πάνω-κάτω) ή ο άνεμος την φυσά διαγώνια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The diagonal rain is all falling in the same direction. Parallel lines are lines that go in the same direction. Find some parallel lines around where you are."
+msgstr "Η διαγώνια βροχή πέφτει όλη προς την ίδια κατεύθυνση. Παράλληλες γραμμές είναι γραμμές που πηγαίνουν στην ίδια κατεύθυνση. Βρείτε μερικές παράλληλες γραμμές γύρω σας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "And then came the hail, tip-tip-tip. Tortoise got such a fright he shrank into his shell. It was warm and cozy in there. \"Oh, here is my house!\" smiled Tortoise."
+msgstr "Και τότε ήρθε το χαλάζι, τακ-τακ-τακ. Η Χελώνα τρόμαξε τόσο που τρύπωσε μέσα στο καβούκι της. Εκεί μέσα ήταν ζεστά και άνετα. «Ω, να το, το σπίτι μου!» χαμογέλασε η Χελώνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise solved his problem when he got distracted and stopped looking for the answer. Sometimes, when we focus too hard on something, it's hard to have new ideas and find an answer."
+msgstr "Η Χελώνα έλυσε το πρόβλημά της όταν αποσπάστηκε και σταμάτησε να σκέφτεται την απάντηση. Μερικές φορές, όταν επικεντρωνόμαστε υπερβολικά σε κάτι, είναι δύσκολο να έχουμε νέες ιδέες και να βρούμε λύση."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever stopped thinking about something, relaxed for a while, and then suddenly realized the answer? It can be very powerful to let a different part of your brain work on a problem!"
+msgstr "Έχει συμβεί ποτέ να σταματήσετε να σκέφτεστε κάτι, να χαλαρώσετε για λίγο και ξαφνικά να συνειδητοποιήσετε την απάντηση; Μπορεί να είναι πολύ αποτελεσματικό να αφήνεις ένα διαφορετικό μέρος του μυαλού σου να δουλέψει πάνω σε ένα πρόβλημα!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tortoise found his shell was a warm and cozy place, and that meant home to Tortoise! What does home mean to you?"
+msgstr "Η Χελώνα ανακάλυψε ότι το καβούκι της ήταν ένας ζεστός και άνετος χώρος, και αυτό σήμαινε «σπίτι» για εκείνη! Τι σημαίνει σπίτι για σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oh, here is Tortoise's house! said Snail and Sparrow and Ladybird and Mouse."
+msgstr "«Ω, να το, το σπίτι της Χελώνας!» είπαν το Σαλιγκάρι, η Πασχαλίτσα και το Ποντίκι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The hail coming down on Tortoise's shell probably made a lot of noise. Imagine the racket! Have you ever heard hail falling on a roof or hard surface?"
+msgstr "Το χαλάζι που έπεφτε πάνω στο καβούκι της Χελώνας πιθανότατα έκανε πολύ θόρυβο. Φαντάσου τον πάταγο! Έχεις ακούσει ποτέ χαλάζι να πέφτει σε στέγη ή σκληρή επιφάνεια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is easy for Tortoise to carry his home wherever he goes. Is your home easy to carry around, or is it a structure that would be very hard to move?"
+msgstr "Είναι εύκολο για τη Χελώνα να κουβαλά το σπίτι της όπου κι αν πηγαίνει. Είναι εύκολο να κουβαλάτε το δικό σας σπίτι ή είναι μια κατασκευή που θα ήταν πολύ δύσκολο να μετακινηθεί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A nice thing about a home, if it is big enough, is that it can be shared with friends. It looks like a happy time for our group of friends in the story!"
+msgstr "Ένα ωραίο πράγμα για ένα σπίτι, αν είναι αρκετά μεγάλο, είναι ότι μπορεί να το μοιραστεί κανείς με φίλους. Φαίνεται πως είναι μια χαρούμενη στιγμή για την παρέα των φίλων στην ιστορία!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12598,4 +13886,426 @@ msgstr "Έπαιζε η γάτα ένα παιχνίδι με το αγόρι;"
 msgctxt "data_list"
 msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
 msgstr "Τι πιστεύετε ότι θα κάνει το αγόρι με τη γάτα τώρα; Ίσως την ταΐσει ή παίξει μαζί της; Τι πιστεύετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A long time ago, deep in the forests, King Leopard began to think about the future.\n"
+"\n"
+"He thought, \"I'm getting old and one day, I'm going to die. A wise ruler should pick a successor while still young and healthy.\"\n"
+"\n"
+"But how could King Leopard choose? He loved all the members of the animal kingdom the same!"
+msgstr ""
+"Πριν από πολύ καιρό, βαθιά μέσα στα δάση, ο Βασιλιάς Λεοπάρδαλης άρχισε να σκέφτεται το μέλλον.\n"
+"\n"
+"Σκέφτηκε: «Γερνάω και μια μέρα θα πεθάνω. Ένας σοφός ηγέτης πρέπει να επιλέγει διάδοχο όσο είναι ακόμη νέος και υγιής».\n"
+"\n"
+"Μα πώς θα μπορούσε ο Βασιλιάς Λεοπάρδαλης να διαλέξει; Αγαπούσε όλα τα μέλη του ζωικού βασιλείου το ίδιο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you were going to pick a leader, which skills would you want them to have?"
+msgstr "Αν επρόκειτο να επιλέξετε έναν ηγέτη, ποιες ικανότητες θα θέλατε να έχει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess what King Leopard will look for in a successor. Do you think he will look for the largest, the fastest, or the friendliest animal?"
+msgstr "Μαντέψτε τι θα αναζητήσει ο Βασιλιάς Λεοπάρδαλης σε έναν διάδοχο. Νομίζετε ότι θα ψάξει για το πιο μεγάλο, το πιο γρήγορο ή το πιο φιλικό ζώο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the tree trunks you can see. Can you count that high?"
+msgstr "Μετρήστε μαζί όλους τους κορμούς δέντρων που μπορείτε να δείτε. Μπορείτε να μετρήσετε τόσο πολύ;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"King Leopard had an idea. He sent his messengers out into the forests. He told them to ask all the animals of the kingdom to come to the palace.\n"
+"\n"
+"He was going to have a big party and he was going to make an important announcement.\n"
+"\n"
+"Away the messengers ran, to all four corners of the forest."
+msgstr ""
+"Ο Βασιλιάς Λεοπάρδαλης είχε μια ιδέα. Έστειλε τους αγγελιοφόρους του μέσα στα δάση. Τους είπε να ζητήσουν απ’ όλα τα ζώα του βασιλείου να έρθουν στο παλάτι.\n"
+"\n"
+"Θα έκανε ένα μεγάλο γλέντι και θα ανακοίνωνε κάτι σημαντικό.\n"
+"\n"
+"Οι αγγελιοφόροι έτρεξαν ως τα τέσσερα σημεία του δάσους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many messengers does the King have? Are there enough to go to four corners? How many more does he need?"
+msgstr "Πόσους αγγελιοφόρους έχει ο Βασιλιάς; Αρκούν για να πάνε σε τέσσερις γωνιές; Πόσους ακόμη χρειάζεται;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the forest really has four corners?"
+msgstr "Νομίζετε ότι το δάσος έχει πραγματικά τέσσερις γωνίες;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does the writer mean by the phrase \"all four corners of the forest?\" If forests don't have four corners, what shape are they?"
+msgstr "Τι εννοεί ο συγγραφέας με τη φράση «και στα τέσσερα σημεία του δάσους»; Αν τα δάση δεν έχουν τέσσερις γωνίες, τι σχήμα έχουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"On the night of the party, all the animals were at the palace. They sang and they danced and had a great time.\n"
+"\n"
+"After the moon had risen above the trees, King Leopard came and stood in the middle of the clearing. The animals stopped their singing and dancing. They listened quietly as their king began to speak."
+msgstr ""
+"Τη νύχτα του γλεντιού, όλα τα ζώα βρέθηκαν στο παλάτι. Τραγουδούσαν και χόρευαν και περνούσαν υπέροχα.\n"
+"\n"
+"Αφού το φεγγάρι ανέβηκε πάνω από τα δέντρα, ο Βασιλιάς Λεοπάρδαλης ήρθε και στάθηκε στη μέση του ξέφωτου. Τα ζώα σταμάτησαν το τραγούδι και τον χορό. Άκουσαν σιωπηλά τον βασιλιά τους να αρχίζει να μιλά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals can you count in this picture? Are there more animals or more trees?"
+msgstr "Πόσα ζώα μπορείτε να μετρήσετε σε αυτή την εικόνα; Υπάρχουν περισσότερα ζώα ή περισσότερα δέντρα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals do you think are in the forest? 10, 20, 30, ... ? A forest usually has hundreds or even thousands of animals, so this will be a very large party!"
+msgstr "Πόσα ζώα νομίζετε ότι υπάρχουν στο δάσος; 10, 20, 30…; Ένα δάσος συνήθως φιλοξενεί εκατοντάδες ή ακόμη και χιλιάδες ζώα, οπότε αυτό θα είναι ένα πολύ μεγάλο γλέντι!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a non-human animal dance?"
+msgstr "Έχετε δει ποτέ κάποιο ζώο εκτός από τον άνθρωπο να χορεύει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\""
+msgstr "Καθάρισε τον λαιμό του και είπε: «Σκέφτομαι ότι ήρθε η ώρα να επιλέξω διάδοχο. Όμως, επειδή σας αγαπώ όλους εξίσου, δεν μπορώ να αποφασίσω ποιος από εσάς είναι πιο άξιος. Έτσι, αποφάσισα να βάλω έναν διαγωνισμό να το καθορίσει για μένα»."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of these animals would usually hunt some of these other animals. Can you think of some examples in this picture of animals who would hunt and others who would be hunted?"
+msgstr "Κάποια από αυτά τα ζώα κανονικά κυνηγούν άλλα. Μπορείτε να σκεφτείτε παραδείγματα σε αυτή την εικόνα ζώων που θα ήταν κυνηγοί και άλλων που θα ήταν θηράματα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kind of contest would be good for picking a successor? Would you have a race to see who can run the fastest or longest?"
+msgstr "Τι είδους διαγωνισμός θα ήταν καλός για να επιλεγεί ένας διάδοχος; Θα κάνατε έναν αγώνα για να δείτε ποιος τρέχει πιο γρήγορα ή πιο μακριά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would be good contests if you want to find the largest or the strongest?"
+msgstr "Ποιος θα ήταν ο καλύτερος διαγωνισμός αν θέλατε να βρείτε τον μεγαλύτερο ή τον δυνατότερο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "King Leopard held up a spear. He said, \"The first one among you who can throw this spear up into the sky and count to ten before it touches the ground, will be my successor.\""
+msgstr "Ο Βασιλιάς Λεοπάρδαλης σήκωσε ένα δόρυ. Είπε: «Ο πρώτος από εσάς που θα μπορέσει να πετάξει αυτό το δόρυ ψηλά στον ουρανό και να μετρήσει μέχρι το δέκα προτού αυτό αγγίξει το έδαφος, θα γίνει ο διάδοχός μου.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Will this contest produce a good successor? Predict which animal is going to win."
+msgstr "Θα βγάλει αυτός ο διαγωνισμός έναν καλό διάδοχο; Προβλέψτε ποιο ζώο θα κερδίσει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the animal skins have stripes, some have spots, some are segmented, and some have just one color. Do you see any that involve more than two colors?"
+msgstr "Κάποια δέρματα ζώων έχουν ρίγες, κάποια βούλες, κάποια έχουν σχέδια σε τμήματα και κάποια έχουν ένα μόνο χρώμα. Βλέπετε κάποιο που να έχει περισσότερα από δύο χρώματα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of these animals have horns, antlers, or tusks? Are there more of these animals than the other animals on this page?"
+msgstr "Πόσα από αυτά τα ζώα έχουν κέρατα ή χαυλιόδοντες; Είναι περισσότερα αυτά τα ζώα από τα άλλα ζώα σε αυτή τη σελίδα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As King Leopard finished talking, the animals heard a loud noise from behind them. They turned around and saw elephant stomping through the crowd to the front.\n"
+"\n"
+"\"Move out of my way. I'm the biggest, I should be king,\" said Elephant."
+msgstr ""
+"Μόλις ο Βασιλιάς Λεοπάρδαλης τελείωσε, τα ζώα άκουσαν έναν δυνατό θόρυβο πίσω τους. Γύρισαν και είδαν τον Ελέφαντα να ποδοπατά το πλήθος για να φτάσει μπροστά.\n"
+"\n"
+"«Κάντε άκρη. Είμαι ο μεγαλύτερος, εγώ πρέπει να γίνω βασιλιάς», είπε ο Ελέφαντας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did the Elephant listen to the King? Was being the biggest important to the King?"
+msgstr "Άκουσε ο Ελέφαντας τον Βασιλιά; Ήταν το να είναι ο μεγαλύτερος σημαντικό για τον Βασιλιά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When we have our own ideas about the way something should be, we sometimes don't listen to others. Can you think of a time when you were like the elephant and didn't listen well?"
+msgstr "Όταν έχουμε τις δικές μας ιδέες για το πώς πρέπει να γίνει κάτι, καμιά φορά δεν ακούμε τους άλλους. Μπορείτε να θυμηθείτε μια φορά που ήσασταν σαν τον Ελέφαντα και δεν ακούγατε καλά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A lion is often called the King of the Jungle. Do you think a lion will win this contest and be the next king?"
+msgstr "Το λιοντάρι συχνά αποκαλείται «Βασιλιάς της Ζούγκλας». Νομίζετε ότι το λιοντάρι θα κερδίσει αυτόν τον διαγωνισμό και θα γίνει ο επόμενος βασιλιάς;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant took the spear and held it up with his trunk. He put his head back and threw the spear up into the sky. \"One! Two! Three! Oh!\" Elephant cried.\n"
+"\n"
+"The spear hit the ground on the count of three. Elephant was angry and started stomping. King Leopard told him, \"You've had your chance.\"\n"
+"\n"
+"And so Elephant had to leave."
+msgstr ""
+"Ο Ελέφαντας πήρε το δόρυ και το κράτησε με την προβοσκίδα του. Έριξε πίσω το κεφάλι και πέταξε το δόρυ ψηλά στον ουρανό. «Ένα! Δύο! Τρία! Ω!» φώναξε ο Ελέφαντας.\n"
+"\n"
+"Το δόρυ έπεσε στο έδαφος στο τρία. Ο Ελέφαντας θύμωσε και άρχισε να ποδοπατά. Ο Βασιλιάς Λεοπάρδαλης του είπε: «Είχες την ευκαιρία σου».\n"
+"\n"
+"Κι έτσι ο Ελέφαντας έπρεπε να φύγει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does it help to get angry when you lose? How do you feel and what do you show to other people when you lose?"
+msgstr "Βοηθά να θυμώνεις όταν χάνεις; Πώς νιώθετε και τι δείχνετε στους άλλους όταν χάνετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many four-legged animals in this picture. Name some animals that don't have four legs."
+msgstr "Υπάρχουν πολλά τετράποδα ζώα σε αυτή την εικόνα. Ονομάστε μερικά ζώα που δεν έχουν τέσσερα πόδια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "An odd number is a number that can't be split into two equal parts -- 7 is an example. Can you think of any animals that have an odd number of arms or legs?"
+msgstr "Ένας μονός αριθμός είναι αριθμός που δεν μπορεί να διαιρεθεί σε δύο ίσα μέρη — το 7 είναι παράδειγμα. Μπορείς να σκεφτείς ζώα που έχουν μονό αριθμό χεριών ή ποδιών;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After Elephant left, the animals started to talk excitedly amongst themselves. They were again disturbed by a loud noise coming from the back of the crowd.\n"
+"\n"
+"Boar came charging through saying, \"Get out of my way. Get out of my way. I'm going to be king. I've got the biggest muscles. I'm the strongest. I should be king.\""
+msgstr ""
+"Αφού έφυγε ο Ελέφαντας, τα ζώα άρχισαν να μιλούν ενθουσιασμένα μεταξύ τους. Και πάλι ταράχτηκαν από έναν δυνατό θόρυβο που ερχόταν από το πίσω μέρος του πλήθους.\n"
+"\n"
+"Ο Αγριόχοιρος εισέβαλε λέγοντας: «Κάντε στην άκρη. Κάντε στην άκρη. Θα γίνω βασιλιάς. Έχω τους μεγαλύτερους μύες. Είμαι ο πιο δυνατός. Εγώ πρέπει να γίνω βασιλιάς.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Boar did not listen to the King either. Do you think the King wants someone who is the strongest?"
+msgstr "Ο Αγριόχοιρος επίσης δεν άκουσε τον Βασιλιά. Νομίζετε ότι ο Βασιλιάς θέλει κάποιον που είναι ο δυνατότερος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think leaders need to be good listeners to help them know how to lead?"
+msgstr "Νομίζετε ότι οι ηγέτες χρειάζεται να είναι καλοί ακροατές για να ξέρουν πώς να ηγούνται;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In this picture, there is only one of most of the animals. Can you spot the animals that there are more than one of?"
+msgstr "Σε αυτή την εικόνα, υπάρχει μόνο ένα από τα περισσότερα είδη ζώων. Μπορείτε να εντοπίσετε τα είδη ζώων που υπάρχουν περισσότερα από ένα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Boar leaned back, clenched the spear, and threw it into the sky. \"One! Two! Three! Four! Five! Oh!\" he shouted.\n"
+"\n"
+"The spear dropped on the count of five. He was so angry. He fumed and threw clouds of dirt into the air.\n"
+"\n"
+"Leopard told him \"Boar, you only throw once and you've had your chance.\" Boar had to leave."
+msgstr ""
+"Ο Αγριόχοιρος έγειρε πίσω, έσφιξε το δόρυ και το πέταξε στον ουρανό. «Ένα! Δύο! Τρία! Τέσσερα! Πέντε! Ω!» φώναξε.\n"
+"\n"
+"Το δόρυ έπεσε στο πέντε. Θύμωσε πολύ. Φούσκωσε από θυμό και πέταξε σύννεφα χώματος στον αέρα.\n"
+"\n"
+"Ο Λεοπάρδαλης του είπε: «Αγριόχοιρε, ρίχνεις μόνο μία φορά και είχες την ευκαιρία σου». Ο Αγριόχοιρος έπρεπε να φύγει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is an animal who gets angry when they lose likely to be a good leader?"
+msgstr "Ένα ζώο που θυμώνει όταν χάνει είναι πιθανό να είναι καλός ηγέτης;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So far, it looks like the King's contest is removing poor leaders. The contest is working! Who do you think will win?"
+msgstr "Μέχρι τώρα φαίνεται ότι ο διαγωνισμός του Βασιλιά απομακρύνει κακούς ηγέτες. Ο διαγωνισμός λειτουργεί! Ποιος νομίζετε ότι θα κερδίσει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories sometimes vary from reality. This story does that in many ways. A boar does not have any fingers! How would a boar be able to clench a spear and throw it? Have you seen other ways this story seems unreal?"
+msgstr "Οι ιστορίες μερικές φορές διαφέρουν από την πραγματικότητα. Αυτό συμβαίνει σε πολλά σημεία εδώ. Ένας αγριόχοιρος δεν έχει δάχτυλα! Πώς θα μπορούσε να σφίξει ένα δόρυ και να το ρίξει; Έχετε δει άλλα σημεία που αυτή η ιστορία φαίνεται μη ρεαλιστική;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After that, the animals started to say things like, \"This contest is difficult! Elephant couldn't do it, and he's really big. Boar couldn't do it either, and he's really strong. No one can win this contest!\"\n"
+"\n"
+"Right about then, they heard another sound coming from the back of the crowd. When the animals looked around, they couldn't believe their eyes."
+msgstr ""
+"Μετά από αυτό, τα ζώα άρχισαν να λένε πράγματα όπως: «Αυτός ο διαγωνισμός είναι δύσκολος! Ο Ελέφαντας δεν τα κατάφερε κι είναι πραγματικά μεγάλος. Ο Αγριόχοιρος δεν τα κατάφερε κι είναι πραγματικά δυνατός. Κανείς δεν μπορεί να κερδίσει!»\n"
+"\n"
+"Τότε ακριβώς, άκουσαν έναν άλλο ήχο από το πίσω μέρος του πλήθους. Όταν τα ζώα γύρισαν, δεν πίστευαν στα μάτια τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is unusual about the body positions these animals are in?"
+msgstr "Τι είναι ασυνήθιστο στις στάσεις των σωμάτων αυτών των ζώων;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of animals as best you can. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
+msgstr "Μετρήστε τον αριθμό των ζώων — είναι λίγο δύσκολο, αλλά προσπαθήστε. Κάθε ζώο έχει δύο μάτια, οπότε μπορείτε να διπλασιάσετε αυτόν τον αριθμό για να βρείτε το συνολικό πλήθος των ματιών. Μπορείτε επίσης να μετρήσετε τα μάτια με μέτρημα ανά δύο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can count all the legs by multiplying the number of animals by 4, skip counting by 4, or by doubling the number of eyes! Which do you like best? Why does this work?"
+msgstr "Μπορείτε να μετρήσετε όλα τα πόδια πολλαπλασιάζοντας τον αριθμό των ζώων επί 4, μετρώντας ανά 4 ή διπλασιάζοντας τον αριθμό των ματιών! Ποια μέθοδο προτιμάτε; Γιατί αυτό λειτουργεί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They saw a big ape coming forward. As Ape moved, he chanted \"I can do it. I know I can do it. I can do it.\"\n"
+"\n"
+"Ape took the spear and he backed way up. He pulled his arm back, charged forward, leapt into the air and threw the spear into the sky.\n"
+"\n"
+"\"One! Two! Three! Four! Five! Six! Seven! Oh!\" cried Ape."
+msgstr ""
+"Είδαν έναν μεγάλο πίθηκο να προχωρά. Καθώς ο Πίθηκος προχωρούσε, έλεγε: «Μπορώ να το κάνω. Ξέρω ότι μπορώ. Μπορώ να το κάνω.»\n"
+"\n"
+"Ο Πίθηκος πήρε το δόρυ και απομακρύνθηκε πολύ. Τράβηξε πίσω το χέρι του, όρμησε μπροστά, πηδώντας στον αέρα, και πέταξε το δόρυ ψηλά.\n"
+"\n"
+"«Ένα! Δύο! Τρία! Τέσσερα! Πέντε! Έξι! Εφτά! Ω!» φώναξε ο Πίθηκος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Ape start by saying \"I can do it?\" Having confidence often helps with success."
+msgstr "Γιατί ο Πίθηκος ξεκίνησε λέγοντας «Μπορώ να το κάνω»; Η αυτοπεποίθηση συχνά βοηθά στην επιτυχία."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your attitude can make a big difference! Have you ever started to do something by saying to yourself that you wouldn't be able to do it -- do it help or did it get in your way?"
+msgstr "Η στάση σου μπορεί να κάνει μεγάλη διαφορά! Έχετε αρχίσει ποτέ να κάνετε κάτι λέγοντας στον εαυτό σας ότι δεν θα τα καταφέρετε — βοήθησε αυτό ή σας εμπόδισε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How much higher was Ape able to count before the spear landed than Boar could count?"
+msgstr "Πόσο πιο πολύ μέτρησε ο Πίθηκος πριν το δόρυ πέσει, σε σχέση με τον Αγριόχοιρο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The spear hit the ground on the count of seven.\n"
+"\n"
+"Ape was upset. He was so angry that he started turning around, complaining and making all sorts of excuses.\n"
+"\n"
+"But King Leopard told him \"No, Ape, you only get one chance.\" And so the ape had to leave."
+msgstr ""
+"Το δόρυ χτύπησε το έδαφος στο εφτά.\n"
+"\n"
+"Ο Πίθηκος αναστατώθηκε. Θύμωσε τόσο που άρχισε να στριφογυρίζει, να παραπονιέται και να βρίσκει δικαιολογίες.\n"
+"\n"
+"Αλλά ο Βασιλιάς Λεοπάρδαλης του είπε: «Όχι, Πίθηκε, έχεις μόνο μία ευκαιρία». Κι έτσι ο Πίθηκος έπρεπε να φύγει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So far, no animal has done it. Make up an ending for this story. Either think of a way an animal can win, change the contest, or figure out what to do if no animal can win."
+msgstr "Μέχρι στιγμής κανένα ζώο δεν τα έχει καταφέρει. Φτιάξτε ένα τέλος για αυτή την ιστορία. Είτε βρείτε τρόπο να κερδίσει ένα ζώο, αλλάξτε τον διαγωνισμό, είτε αποφασίστε τι θα γίνει αν κανένα ζώο δεν μπορεί να κερδίσει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How long does it take you to count to ten? Do you think you can throw something in the air long enough to count to ten?"
+msgstr "Πόσο χρόνο σας παίρνει να μετρήσετε μέχρι το δέκα; Νομίζετε ότι μπορείτε να πετάξετε κάτι στον αέρα αρκετά ώστε να μετρήσετε μέχρι το δέκα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use their facial expressions to describe what each of the animals in this picture is feeling."
+msgstr "Χρησιμοποιώντας τις εκφράσεις του προσώπου, περιγράψτε τι νιώθει κάθε ζώο σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Some of the animals turned and started to leave for home. As they were leaving, they saw a little antelope coming through the crowd. As she trotted, she said, \"Wait, wait, Let me try. I can do it. I can do it. Let me try.\"\n"
+"\n"
+"When the animals heard her words, they all started laughing."
+msgstr ""
+"Μερικά από τα ζώα γύρισαν και άρχισαν να φεύγουν για τα σπίτια τους. Καθώς έφευγαν, είδαν μια μικρή αντιλόπη να περνά μέσα από το πλήθος. Καθώς κάλπαζε, έλεγε: «Περιμένετε, περιμένετε, αφήστε με να δοκιμάσω. Μπορώ να το κάνω. Μπορώ να το κάνω. Αφήστε με να δοκιμάσω».\n"
+"\n"
+"Όταν τα ζώα άκουσαν τα λόγια της, άρχισαν όλα να γελούν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the other animals laugh at the little antelope? Were they being nice?"
+msgstr "Γιατί τα άλλα ζώα γέλασαν με τη μικρή αντιλόπη; Ήταν ευγενικά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What skill might the antelope have that the others did not?"
+msgstr "Ποια ικανότητα μπορεί να έχει η αντιλόπη που δεν είχαν οι άλλοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen people laugh at someone and just assume that person would do poorly? How did that make the person feel?"
+msgstr "Έχετε δει ποτέ ανθρώπους να γελούν με κάποιον και απλώς να υποθέτουν ότι θα τα πάει άσχημα; Πώς έκανε αυτή η πράξη το άτομο να αισθανθεί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "King Leopard jumped up and shouted angrily. \"Stop it! Do not make fun of Antelope! Who is to say that small animals can't do things that big animals can do? If Antelope wants to have a chance, she will be given the same chance that all the animals had. So stand back and let Antelope throw the spear.\""
+msgstr "Ο Βασιλιάς Λεοπάρδαλης πήδηξε επάνω και φώναξε θυμωμένος: «Σταματήστε! Μην κοροϊδεύετε την Αντιλόπη! Ποιος λέει ότι τα μικρά ζώα δεν μπορούν να κάνουν ό, τι κάνουν τα μεγάλα; Αν η Αντιλόπη θέλει μια ευκαιρία, θα της δοθεί η ίδια ευκαιρία που είχαν όλα τα ζώα. Λοιπόν, κάντε πίσω και αφήστε την Αντιλόπη να ρίξει το δόρυ.»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It sounds like there might be a surprise coming. What do you think will be surprising about Antelope?"
+msgstr "Φαίνεται πως έρχεται μια έκπληξη. Τι νομίζετε ότι θα είναι αυτή η έκπληξη σχετικά με την Αντιλόπη;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A good leader takes care of everyone. Do you think King Leopard is a good leader?"
+msgstr "Ένας καλός ηγέτης νοιάζεται για όλους. Νομίζετε ότι ο Βασιλιάς Λεοπάρδαλης είναι καλός ηγέτης;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of a good leader who you know. Describe some qualities that you think make that person a good leader."
+msgstr "Σκεφτείτε έναν καλό ηγέτη που γνωρίζετε. Περιγράψτε κάποια χαρακτηριστικά που τον κάνουν καλό ηγέτη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Antelope bowed to her king, turned and took the spear in her mouth. She backed up, and with all the strength in her tiny body she started running. When she reached the center of the clearing, she jumped high.\n"
+"\n"
+"She took a deep breath, released the spear and shouted, \"Five and five is ten.\" The spear hit the ground."
+msgstr ""
+"Η Αντιλόπη υποκλίθηκε στον βασιλιά της, γύρισε και πήρε το δόρυ στο στόμα της. Οπισθοχώρησε και με όλη τη δύναμη του μικρού της σώματος άρχισε να τρέχει. Όταν έφτασε στο κέντρο του ξέφωτου, πήδηξε ψηλά.\n"
+"\n"
+"Πήρε μια βαθιά ανάσα, άφησε το δόρυ και φώναξε: «Πέντε και πέντε κάνουν δέκα». Το δόρυ έπεσε στο έδαφος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The surprise is Math! Antelope used her intelligence and the power of math to win the contest!"
+msgstr "Η έκπληξη είναι τα Μαθηματικά! Η Αντιλόπη χρησιμοποίησε την εξυπνάδα της και τη δύναμη των μαθηματικών για να κερδίσει τον διαγωνισμό!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other combinations of numbers that add up to ten. How many ways can you think of?"
+msgstr "Σκεφτείτε άλλους συνδυασμούς αριθμών που κάνουν δέκα. Πόσους τρόπους μπορείτε να βρείτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try some smaller numbers, such as three, four, or five, and find all the ways to make combinations of numbers add up to those totals. Do you notice any patterns that can save you time? Discovering interesting patterns is what math is all about!"
+msgstr "Δοκιμάστε μικρότερους αριθμούς, όπως το τρία, το τέσσερα ή το πέντε, και βρείτε όλους τους συνδυασμούς αριθμών που αθροίζονται στον αριθμό που διαλέξατε. Παρατηρείτε κάποια μοτίβα που μπορούν να σε εξοικονομήσουν χρόνο; Η ανακάλυψη ενδιαφερόντων μοτίβων είναι αυτό που κάνει τα μαθηματικά συναρπαστικά!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The animals were quiet. They were confused. King Leopard explained, \"Yes, Antelope! Five plus five is another way to get to ten. There is more than one way to count to ten.\"\n"
+"\n"
+"The contest was not to find the biggest or the strongest animal. It was a contest to find the smartest animal! That is how Antelope became queen when leopard died."
+msgstr ""
+"Τα ζώα σιώπησαν. Ήταν μπερδεμένα. Ο Βασιλιάς Λεοπάρδαλης εξήγησε: «Ναι, Αντιλόπη! Πέντε συν πέντε είναι ένας άλλος τρόπος να φτάσεις στο δέκα. Υπάρχουν περισσότεροι από ένας τρόποι για να μετρήσεις μέχρι το δέκα».\n"
+"\n"
+"Ο διαγωνισμός δεν ήταν για να βρεθεί το μεγαλύτερο ή το δυνατότερο ζώο. Ήταν διαγωνισμός για να βρεθεί το εξυπνότερο! Έτσι η Αντιλόπη έγινε βασίλισσα όταν πέθανε ο Λεοπάρδαλης."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Antelope listened carefully to the rules and found a new solution. Did Antelope cheat or was she clever?"
+msgstr "Η Αντιλόπη άκουσε προσεκτικά τους κανόνες και βρήκε μια νέα λύση. Έκλεψε ή ήταν έξυπνη;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If someone asked you to count to ten, would you count by 1's, 2's, 5's, or 10's? What would happen if you counted by 3's or 4's? Why don't those numbers come out evenly?"
+msgstr "Αν κάποιος σας ζητούσε να μετρήσετε μέχρι το δέκα, θα μετρούσατε ανά 1, 2, 5 ή 10; Τι θα συνέβαινε αν μετρούσατε ανά 3 ή 4; Γιατί αυτοί οι αριθμοί δεν «βγαίνουν» ακριβώς;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
+msgstr "Συχνά σε μια ομάδα ανθρώπων σκέφτονται όλοι με τον ίδιο τρόπο και δεν βρίσκουν μια καλή λύση. Αυτός που είναι καλός στην επίλυση προβλημάτων ανακαλύπτει νέους τρόπους προσέγγισης του προβλήματος!"
 
