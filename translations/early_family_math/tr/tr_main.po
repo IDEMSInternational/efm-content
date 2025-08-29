@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: db7c1cb5fdd50829d3b1058a037b7b6a\n"
+"X-Crowdin-Project-ID: 8\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/translations/early_family_math/en/main.pot\n"
+"X-Crowdin-File-ID: 888\n"
+"Project-Id-Version: db7c1cb5fdd50829d3b1058a037b7b6a\n"
+"Language-Team: Turkish\n"
+"\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2025-08-29 12:43\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "Bıyıkları, kulakları, bacakları, gözleri ve kuyrukları çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "Sayımınıza göre hangileri eşit, hangileri farklı, hangileri en büyük ve hangileri en küçüktür?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "Hangi hayvan kırmızı ve hangisi sarıdır?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"Kedi ve Köpek, bir evde yaşıyorlar.\n"
+"\n"
+"Bir kapısı olan bir ev.\n"
+"\n"
+"Bir çatısı olan bir ev."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "Kedi ve Köpek, yuvarlak bir evde yaşıyorlar. Sizin eviniz yuvarlak mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "Resimdeki diğer yuvarlak şeyleri gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "Evlerinin kaç odası var gibi görünüyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"Kedi ve Köpek, bir topa sahiptir.\n"
+"\n"
+"Top kırmızı, mavi ve yeşildir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "Topun üzerindeki renklerin sayısını çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "Topun üzerindeki hangi renk Kedi veya Köpek’in rengi değildir?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "Sizin bulunduğunuz yerde bu top gibi çizgili olan bir şey var mı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog.\n"
+"\n"
+"Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Cat.\n"
+"\n"
+"Cat catches the ball."
+msgstr ""
+"Kedi ve Köpek topla oynuyorlar.\n"
+"\n"
+"Kedi topu Köpek’e atıyor.\n"
+"\n"
+"Köpek topu yakalıyor.\n"
+"\n"
+"Köpek topu Kedi’ye atıyor.\n"
+"\n"
+"Kedi topu yakalıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times did they throw the ball?"
+msgstr "Topu kaç kere attılar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like playing with balls? Do you throw them, catch them, or kick them?"
+msgstr "Siz toplarla oynamayı sever misiniz? Topları atar mısınız, yakalar mısınız yoksa tekmeler misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can real cats and dogs play catch with a ball? How can they play with balls?"
+msgstr "Gerçek kediler ve köpekler top yakalamaca oyunu oynarlar mı? Onlar toplarla nasıl oynarlar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat throws the ball very high.\n"
+"\n"
+"Oh! Oh!"
+msgstr ""
+"Daha sonra, Kedi topu çok yükseğe atıyor.\n"
+"\n"
+"Ah! Ah!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Dog. How much higher than Dog did Cat throw it?"
+msgstr "Top, Köpek’ten daha yüksekte. Kedi topu Köpek’ten ne kadar yükseğe attı?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat mean to do that? How can you tell from Cat's face?"
+msgstr "Kedi öyle mi yapmak istedi? Kedi’nin yüzüne bakarak bunu nasıl anlayabilirsiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball sometimes not go where you want it when you play catch?"
+msgstr "Siz top yakalamaca oynarken, top bazen sizin istediğiniz yere gitmiyor mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball is on the roof.\n"
+"\n"
+"The ball is on the roof of the house."
+msgstr ""
+"Top, çatının üzerinde.\n"
+"\n"
+"Top, evin çatısının üzerinde."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The roof is slanted. Does the ball look like it would roll off the roof?"
+msgstr "Çatı eğimlidir. Top çatıdan yuvarlanıp düşecek gibi mi görünüyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are Cat and Dog?"
+msgstr "Kedi ve Köpek neredeler?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the shape of the ball and the house similar and how are they different?"
+msgstr "Topun şekli evle hangi yönden benzerdir, top ve ev birbirlerinden nasıl farklılar?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog can see the ball.\n"
+"\n"
+"Cat and Dog cannot get to the ball.\n"
+"\n"
+"How will they get the ball down?"
+msgstr ""
+"Kedi ve Köpek, topu görebiliyor.\n"
+"\n"
+"Kedi ve Köpek, topa ulaşamıyor.\n"
+"\n"
+"Topu aşağıya nasıl indirecekler?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is too high for Cat and Dog to reach. How will they solve this problem?"
+msgstr "Top, Kedi ve Köpek’in ona ulaşamayacağı kadar çok yüksekte. Bu problemi nasıl çözecekler?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What can you do to get something that is too high? Would you ask for help?"
+msgstr "Siz çok yüksekte olan bir şeyi almak için ne yapabilirsiniz? Yardım ister miydiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball look bigger than it did when they were throwing it?"
+msgstr "Top onların attığı zamandakinden daha mı büyük görünüyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog are sad.\n"
+"\n"
+"They want to find something tall to reach the ball.\n"
+"\n"
+"Then Elephant comes by."
+msgstr ""
+"Kedi ve Köpek, üzgün.\n"
+"\n"
+"Topa erişebilecek uzun bir şey bulmak istiyorlar.\n"
+"\n"
+"Ondan sonra, yanlarından Fil geçiyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog are crying. Is their crying helping them solve their problem?"
+msgstr "Kedi ve Köpek ağlıyor. Onların ağlaması problemlerini çözmelerine yardım ediyor mu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the big animals, birds, and trees in the picture."
+msgstr "Resimdeki büyük hayvanları, kuşları ve ağaçları çocuğunuzla birlikte sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant is big.\n"
+"\n"
+"Elephant can see the ball.\n"
+"\n"
+"Elephant can get to the ball.\n"
+"\n"
+"Elephant gets the ball from the roof.\n"
+"\n"
+"Elephant takes the ball from the roof of the house."
+msgstr ""
+"Fil, büyük.\n"
+"\n"
+"Fil, topu görebilir.\n"
+"\n"
+"Fil, topa erişebilir.\n"
+"\n"
+"Fil, topu çatıdan alıyor.\n"
+"\n"
+"Fil, topu, evin çatısından alıyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What other animals stand on two legs?"
+msgstr "Başka hangi hayvanlar iki bacak üzerinde durur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant gives the ball to Cat and Dog.\n"
+"\n"
+"Cat and Dog smile. Elephant smiles.\n"
+"\n"
+"Cat and Dog and Elephant smile."
+msgstr ""
+"Fil, topu, Kedi ve Köpek’e veriyor.\n"
+"\n"
+"Kedi ve Köpek gülümsüyor. Fil gülümsüyor.\n"
+"\n"
+"Kedi, Köpek ve Fil gülümsüyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these animals is the biggest and which is the smallest?"
+msgstr "Bu hayvanlardan hangisi en büyük ve hangisi en küçüktür?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are good at taking turns. Are you good at taking turns?"
+msgstr "Onlar, sırayla yapmakta iyiler. Siz sırayla hareket etmekte iyi misiniz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye Elephant."
+msgstr ""
+"Güle güle, Kedi.\n"
+"\n"
+"Güle güle, Köpek.\n"
+"\n"
+"Güle güle, Fil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With fewer balls than animals, the animals must be good at sharing."
+msgstr "Hayvanlardan daha az sayıda toplarla, hayvanlar paylaşmada iyi olmalılar!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?"
+msgstr "Eğer sadece bir kelimeniz varsa (\"Möö\"), farklı şeyler ifade etmesi için onu farklı şekillerde söylemek zorundasınız. Sizce inek ne istiyor?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The goat says, \"Meh, meh.\""
+msgstr "Keçi, \"Mee, mee!\" diyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns does a goat have? Name some other animals that have two hard things growing on their head."
+msgstr "Bir keçinin kaç boynuzu vardır? Başlarında iki adet sert şeyler büyüyen başka hayvanlardan bazılarının isimlerini söyleyin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse says, \"Neigh.\""
+msgstr "At, \"Neğihii!\" diye kişniyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the horse's legs. Can you think of a farm animal that has only two legs?"
+msgstr "Çocuğunuzla birlikte atın bacaklarını sayın. Sadece iki bacağı olan bir çiftlik hayvanı düşünebiliyor musunuz?"
+
