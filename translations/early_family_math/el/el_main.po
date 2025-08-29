@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: db7c1cb5fdd50829d3b1058a037b7b6a\n"
+"X-Crowdin-Project-ID: 8\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /main/translations/early_family_math/en/main.pot\n"
+"X-Crowdin-File-ID: 888\n"
+"Project-Id-Version: db7c1cb5fdd50829d3b1058a037b7b6a\n"
+"Language-Team: Greek\n"
+"\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2025-08-29 12:43\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "Μετρήστε μαζί τα μουστάκια, τα αυτιά, τα πόδια, τα μάτια και τις ουρές."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "Ποια αποτελέσματα είναι τα ίδια, ποια είναι διαφορετικά, ποιο αποτέλεσμα είναι το μεγαλύτερο και ποιο το μικρότερο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "Ποιο ζώο είναι κόκκινο και ποιο είναι κίτρινο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"Η Γάτα και ο Σκύλος ζουν σε ένα σπίτι.\n"
+"\n"
+" Ένα σπίτι με μια πόρτα.\n"
+"\n"
+" Ένα σπίτι με μια στέγη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "Η Γάτα και ο Σκύλος ζουν σε ένα στρογγυλό σπίτι. Το δικό σπίτι είναι στρογγυλό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "Δείξτε οποιαδήποτε άλλα στρογγυλά αντικείμενα στην εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "Πόσα δωμάτια φαίνεται να έχει το σπίτι τους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"Η Γάτα και ο Σκύλος έχουν μια μπάλα.\n"
+"\n"
+"Η μπάλα είναι κόκκινη, μπλε και πράσινη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "Μετρήστε μαζί τον αριθμό των χρωμάτων στη μπάλα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "Ποιο χρώμα στη μπάλα δεν είναι χρώμα της Γάτας ή του Σκύλου;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "Υπάρχει κάτι εκεί που βρίσκεστε εσείς που έχει ρίγες όπως αυτή η μπάλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog.\n"
+"\n"
+"Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Cat.\n"
+"\n"
+"Cat catches the ball."
+msgstr ""
+"Η Γάτα και ο Σκύλος παίζουν με την μπάλα.\n"
+"\n"
+"Η Γάτα πετάει την μπάλα στον Σκύλο.\n"
+"\n"
+"Ο Σκύλος πιάνει την μπάλα.\n"
+"\n"
+"Ο Σκύλος πετάει την μπάλα στη Γάτα.\n"
+"\n"
+"Η Γάτα πιάνει την μπάλα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times did they throw the ball?"
+msgstr "Πόσες φορές πέταξαν την μπάλα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like playing with balls? Do you throw them, catch them, or kick them?"
+msgstr "Σας αρέσει να παίζετε με μπάλες; Τις πετάτε, τις πιάνετε ή τις κλωτσάτε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can real cats and dogs play catch with a ball? How can they play with balls?"
+msgstr "Μπορούν αληθινές γάτες και σκύλοι να παίξουν αυτό το παιχνίδι με την μπάλα; Πώς μπορούν να παίξουν με μπάλες;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat throws the ball very high.\n"
+"\n"
+"Oh! Oh!"
+msgstr ""
+"Τότε η Γάτα πετάει την μπάλα πολύ ψηλά.\n"
+"\n"
+"Ω! Ω!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Dog. How much higher than Dog did Cat throw it?"
+msgstr "Η μπάλα είναι πιο ψηλά από τον Σκύλο. Πόσο πιο ψηλά από τον Σκύλο την πέταξε η Γάτα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat mean to do that? How can you tell from Cat's face?"
+msgstr "Ήθελε η Γάτα να το κάνει αυτό; Πώς μπορείτε να το καταλάβετε από το πρόσωπο της Γάτας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball sometimes not go where you want it when you play catch?"
+msgstr "Όταν παίζετε συμβαίνει μερικές φορές η μπάλα να μην πάει εκεί που θέλετε;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball is on the roof.\n"
+"\n"
+"The ball is on the roof of the house."
+msgstr ""
+"Η μπάλα είναι στη στέγη.\n"
+"\n"
+"Η μπάλα είναι στη στέγη του σπιτιού."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The roof is slanted. Does the ball look like it would roll off the roof?"
+msgstr "Η στέγη είναι λοξή. Φαίνεται η μπάλα να μπορεί να κυλήσει από τη στέγη;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are Cat and Dog?"
+msgstr "Πού είναι η Γάτα και ο Σκύλος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the shape of the ball and the house similar and how are they different?"
+msgstr "Πώς το σχήμα της μπάλας και του σπιτιού είναι παρόμοιο και πώς είναι διαφορετικό;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog can see the ball.\n"
+"\n"
+"Cat and Dog cannot get to the ball.\n"
+"\n"
+"How will they get the ball down?"
+msgstr ""
+"Η Γάτα και ο Σκύλος μπορούν να δουν την μπάλα.\n"
+"\n"
+"Η Γάτα και ο Σκύλος δεν μπορούν να φτάσουν την μπάλα.\n"
+"\n"
+"Πώς θα την κατεβάσουν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is too high for Cat and Dog to reach. How will they solve this problem?"
+msgstr "Η μπάλα είναι πολύ ψηλά για να τη φτάσει η Γάτα και ο Σκύλος. Πώς θα λύσουν αυτό το πρόβλημα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What can you do to get something that is too high? Would you ask for help?"
+msgstr "Τι μπορείτε να κάνετε για να πάρετε κάτι που είναι πολύ ψηλά; Θα ζητούσατε βοήθεια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball look bigger than it did when they were throwing it?"
+msgstr "Φαίνεται η μπάλα μεγαλύτερη τώρα από ό, τι φαινόταν όταν την πετούσαν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog are sad.\n"
+"\n"
+"They want to find something tall to reach the ball.\n"
+"\n"
+"Then Elephant comes by."
+msgstr ""
+"Η Γάτα και ο Σκύλος είναι λυπημένοι.\n"
+"\n"
+"Θέλουν να βρουν κάτι ψηλό για να φτάσουν την μπάλα.\n"
+"\n"
+"Τότε περνάει ο Ελέφαντας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog are crying. Is their crying helping them solve their problem?"
+msgstr "Η Γάτα και ο Σκύλος κλαίνε. Βοηθάει το κλάμα τους να λύσουν το πρόβλημά τους;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the big animals, birds, and trees in the picture."
+msgstr "Μετρήστε μαζί τα μεγάλα ζώα, τα πουλιά και τα δέντρα της εικόνας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant is big.\n"
+"\n"
+"Elephant can see the ball.\n"
+"\n"
+"Elephant can get to the ball.\n"
+"\n"
+"Elephant gets the ball from the roof.\n"
+"\n"
+"Elephant takes the ball from the roof of the house."
+msgstr ""
+"Ο Ελέφαντας είναι μεγάλος.\n"
+"\n"
+"Ο Ελέφαντας μπορεί να δει την μπάλα.\n"
+"\n"
+"Ο Ελέφαντας μπορεί να φτάσει την μπάλα.\n"
+"\n"
+"Ο Ελέφαντας παίρνει την μπάλα από τη στέγη.\n"
+"\n"
+"Ο Ελέφαντας παίρνει την μπάλα από τη στέγη του σπιτιού."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What other animals stand on two legs?"
+msgstr "Ποια άλλα ζώα στέκονται στα δύο πόδια;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant gives the ball to Cat and Dog.\n"
+"\n"
+"Cat and Dog smile. Elephant smiles.\n"
+"\n"
+"Cat and Dog and Elephant smile."
+msgstr ""
+"Ο Ελέφαντας δίνει την μπάλα στη Γάτα και τον Σκύλο.\n"
+"\n"
+"Η Γάτα και ο Σκύλος χαμογελούν. Ο Ελέφαντας χαμογελάει.\n"
+"\n"
+"Η Γάτα, ο Σκύλος και ο Ελέφαντας χαμογελούν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these animals is the biggest and which is the smallest?"
+msgstr "Ποιο από αυτά τα ζώα είναι το μεγαλύτερο και ποιο είναι το μικρότερο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They are good at taking turns. Are you good at taking turns?"
+msgstr "Είναι καλοί στο να κρατάνε τη σειρά τους. Εσείς είστε καλοί στο να κρατάτε τη σειρά σας;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Bye bye Cat.\n"
+"\n"
+"Bye bye Dog.\n"
+"\n"
+"Bye bye Elephant."
+msgstr ""
+"Αντίο Γάτα.\n"
+"\n"
+"Αντίο Σκύλε.\n"
+"\n"
+"Αντίο Ελέφαντα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With fewer balls than animals, the animals must be good at sharing."
+msgstr "Αφού οι μπάλες είναι λιγότερες από τα ζώα, τα ζώα πρέπει να μπορούν να μοιράζονται."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?"
+msgstr "Αν έχετε μόνο μία λέξη (\"Μου\"), πρέπει να τη λέτε με διαφορετικούς τρόπους για να σημαίνει διαφορετικά πράγματα. Τι νομίζετε ότι θέλει η αγελάδα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The goat says, \"Meh, meh.\""
+msgstr "Η κατσίκα λέει, \"Μπε, μπε.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns does a goat have? Name some other animals that have two hard things growing on their head."
+msgstr "Πόσα κέρατα έχει μια κατσίκα; Πείτε μερικά άλλα ζώα που έχουν δύο σκληρά πράγματα που μεγαλώνουν στο κεφάλι τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse says, \"Neigh.\""
+msgstr "Το άλογο χλιμιντρίζει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the horse's legs. Can you think of a farm animal that has only two legs?"
+msgstr "Μετρήστε μαζί τα πόδια του αλόγου. Μπορείτε να σκεφτείτε ένα ζώο της φάρμας που έχει μόνο δύο πόδια;"
+
