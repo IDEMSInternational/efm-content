@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: db7c1cb5fdd50829d3b1058a037b7b6a\n"
+"X-Crowdin-Project-ID: 8\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/translations/early_family_math/en/main.pot\n"
+"X-Crowdin-File-ID: 888\n"
+"Project-Id-Version: db7c1cb5fdd50829d3b1058a037b7b6a\n"
+"Language-Team: French\n"
+"\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2025-08-29 12:43\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the whiskers, ears, legs, eyes, and tails."
+msgstr "Comptons ensemble le nombre de moustache, d’oreille, de jambe, d’œil et de queue."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which counts are the same, which are different, which are the largest, and which are the smallest?"
+msgstr "Quels nombres sont les mêmes, lesquels sont différents, lesquels sont plus grands et lesquels sont plus petits ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is red and which one is yellow?"
+msgstr "Quel animal est rouge et lequel est jaune ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog live in a house.\n"
+"\n"
+"A house with a door.\n"
+"\n"
+"A house with a roof."
+msgstr ""
+"Chat et Chien vivent dans une maison.\n"
+"\n"
+"Une maison avec une porte.\n"
+"\n"
+"Une maison avec un toit."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog live in a round house. Is your house round?"
+msgstr "Chat et Chien vivent dans une maison ronde. Ta maison est-elle ronde ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to any other round things in the picture."
+msgstr "Indique du doigt une autre chose ronde dans l’image."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many rooms does their house seem to have?"
+msgstr "Combien de chambres cette maison semble-t-elle avoir ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog have a ball.\n"
+"\n"
+"The ball is red and blue and yellow."
+msgstr ""
+"Chat et Chien ont un ballon.\n"
+"\n"
+"Le ballon est rouge, bleu et jaune."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of colors on the ball."
+msgstr "Comptons ensemble le nombre de couleurs sur le ballon."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color on the ball is not a color for Cat or Dog?"
+msgstr "Quelle couleur du ballon ne correspond à aucune des couleurs du chat et du chien ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is there anything where you are that is striped like this ball?"
+msgstr "Y-a-t-il d’autres objets rayés à l’endroit où tu te trouves ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog play with the ball.\n"
+"\n"
+"Cat throws the ball to Dog.\n"
+"\n"
+"Dog catches the ball.\n"
+"\n"
+"Dog throws the ball to Cat.\n"
+"\n"
+"Cat catches the ball."
+msgstr ""
+"Chat et Chien jouent avec le ballon.\n"
+"\n"
+"Chat jette le ballon à Chien.\n"
+"\n"
+"Chien attrape le ballon.\n"
+"\n"
+"Chien jette le ballon à Chat.\n"
+"\n"
+"Chat attrape le ballon."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times did they throw the ball?"
+msgstr "Combien de fois ont-ils jeté le ballon ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like playing with balls? Do you throw them, catch them, or kick them?"
+msgstr "Aimes-tu jouer avec les ballons ? Les jettes-tu, les attrapes-tu ou les frappes-tu ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can real cats and dogs play catch with a ball? How can they play with balls?"
+msgstr "Les vrais chats et chiens peuvent-ils jouer avec un ballon ? Comment peuvent-ils jouer avec des ballons ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Then Cat throws the ball very high.\n"
+"\n"
+"Oh! Oh!"
+msgstr ""
+"Ensuite, Chat jette le ballon très haut.\n"
+"\n"
+"Oh ! Oh !"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is higher than Dog. How much higher than Dog did Cat throw it?"
+msgstr "Le ballon est plus haut que Chien. À quelle hauteur de Chien Chat l'a-t-il lancé ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Cat mean to do that? How can you tell from Cat's face?"
+msgstr "Chat l’a-t-il fait exprès ? Comment peux-tu le savoir de l’expression du visage de Chat ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball sometimes not go where you want it when you play catch?"
+msgstr "Est-ce que le ballon ne va pas où tu veux parfois quand tu joues au ballon ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ball is on the roof.\n"
+"\n"
+"The ball is on the roof of the house."
+msgstr ""
+"Le ballon est sur le toit.\n"
+"\n"
+"Le ballon est sur le toit de la maison."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The roof is slanted. Does the ball look like it would roll off the roof?"
+msgstr "Le toit est incliné. Selon toi, le ballon va-t-il tomber ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are Cat and Dog?"
+msgstr "Où sont Chat et Chien ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How is the shape of the ball and the house similar and how are they different?"
+msgstr "En quoi les formes du ballon et de la maison sont-elles semblables et en quoi sont-elles différentes ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog can see the ball.\n"
+"\n"
+"Cat and Dog cannot get to the ball.\n"
+"\n"
+"How will they get the ball down?"
+msgstr ""
+"Chat et Chien peuvent voir le ballon.\n"
+"\n"
+"Chat et Chien ne peuvent pas prendre le ballon.\n"
+"\n"
+"Comment vont-ils récupérer le ballon ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The ball is too high for Cat and Dog to reach. How will they solve this problem?"
+msgstr "La balle est trop élevée pour que Chat et Chien puissent l'atteindre. Comment vont-ils résoudre ce problème ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What can you do to get something that is too high? Would you ask for help?"
+msgstr "Que peux-tu faire pour récupérer quelque chose qui est trop élevé ? Demanderais-tu de l’aide ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the ball look bigger than it did when they were throwing it?"
+msgstr "Le ballon semble-t-il être plus grand que lorsqu’ils l’ont jeté ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog are sad.\n"
+"\n"
+"They want to find something tall to reach the ball.\n"
+"\n"
+"Then Elephant comes by."
+msgstr ""
+"Chat et Chien sont tristes.\n"
+"\n"
+"Ils veulent trouver quelque chose de haute taille pour récupérer le ballon.\n"
+"\n"
+"Puis Éléphant passe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cat and Dog are crying. Is their crying helping them solve their problem?"
+msgstr "Chat et Chien pleurent. Pleurer les aide-t-il à résoudre leur problème ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the big animals, birds, and trees in the picture."
+msgstr "Comptons ensemble le nombre de grands animaux, d’oiseaux et d’arbres sur l'image."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant is big.\n"
+"\n"
+"Elephant can see the ball.\n"
+"\n"
+"Elephant can get to the ball.\n"
+"\n"
+"Elephant gets the ball from the roof.\n"
+"\n"
+"Elephant takes the ball from the roof of the house."
+msgstr ""
+"Éléphant est grand.\n"
+"\n"
+"Éléphant peut voir le ballon.\n"
+"\n"
+"Éléphant peut atteindre le ballon.\n"
+"\n"
+"Éléphant récupère le ballon.\n"
+"\n"
+"Éléphant prend le ballon du toit de la maison."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What other animals stand on two legs?"
+msgstr "Quels autres animaux se tiennent sur deux pattes ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Elephant gives the ball to Cat and Dog.\n"
+"\n"
+"Cat and Dog smile. Elephant smiles.\n"
+"\n"
+"Cat and Dog and Elephant smile."
+msgstr ""
+"Éléphant donne le ballon à Chat et Chien.\n"
+"\n"
+"Chat et Chien sourient. Éléphant sourit.\n"
+"\n"
+"Chat, Chien et Éléphant sourient."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these animals is the biggest and which is the smallest?"
+msgstr "Lequel de ces animaux est le plus grand et lequel est le plus petit ?"
+
