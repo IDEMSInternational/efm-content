@@ -1,5 +1,6 @@
 files:
   - source: /translations/en/*.pot
     translation: /translations/%two_letters_code%/%two_letters_code%_%file_name%.po
-  - source: /translations/early_family_math/en/*.pot
-    translation: /translations/early_family_math/%two_letters_code%/%two_letters_code%_%file_name%.po
+  - source: /translations/early_family_math/en/main.pot
+    translation: /translations/%two_letters_code%/%two_letters_code%_%file_name%.po
+    dest: /translations/en/efm_content.pot
