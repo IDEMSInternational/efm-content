@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-09-03 18:54\n"
+"PO-Revision-Date: 2025-09-03 20:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14308,4 +14308,44 @@ msgstr "Αν κάποιος σας ζητούσε να μετρήσετε μέχ
 msgctxt "data_list"
 msgid "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!"
 msgstr "Συχνά σε μια ομάδα ανθρώπων σκέφτονται όλοι με τον ίδιο τρόπο και δεν βρίσκουν μια καλή λύση. Αυτός που είναι καλός στην επίλυση προβλημάτων ανακαλύπτει νέους τρόπους προσέγγισης του προβλήματος!"
+
+#. type=template
+msgctxt "template"
+msgid "Before Talking"
+msgstr "Πριν από τη Συζήτηση"
+
+#. type=template
+msgctxt "template"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
+msgstr "Να μιλάτε με το παιδί σας πριν ακόμα να μπορεί να μιλήσει αυτό ή ακόμη και πριν να κατανοεί τις λέξεις. Δείξτε, κατονομάστε και περιγράψτε πράγματα που βλέπετε, όπως σχήματα, χρώματα, συγκρίσεις και ποσότητες. Καθώς το παιδί σας αρχίζει να κατανοεί λέξεις, ρωτήστε για κάτι και αφήστε το να το δείξει. Για παράδειγμα, \"Πού είναι η μπάλα;\" Αν το παιδί σας δεν μπορεί να το βρει, δείξτε το στο παιδί εσείς."
+
+#. type=template
+msgctxt "template"
+msgid "Early Talking"
+msgstr "Πρώιμη Ομιλία"
+
+#. type=template
+msgctxt "template"
+msgid "As your child begins to understand and say words, mix in simple questions. Freely help with answers as needed. If you point and say \"Is this red?\" and they don't know, supply the answer. If you say \"Count the blocks.\" and your child does not know how, point and count the blocks with them \"one, two, three.\""
+msgstr "Καθώς το παιδί σας αρχίζει να καταλαβαίνει και να λέει λέξεις, κάντε και απλές ερωτήσεις. Μπορείτε ελεύθερα να το βοηθάτε στις απαντήσεις όταν χρειάζεται. Αν δείξετε κάτι και ρωτήσετε \"Είναι αυτό κόκκινο;\" και δεν ξέρει, δώστε εσείς την απάντηση. Αν πείτε \"Μετρήστε τα τουβλάκια.\" και το παιδί σας δεν ξέρει πώς, δείξτε και μετρήστε τα τουβλάκια μαζί του \"ένα, δύο, τρία.\""
+
+#. type=template
+msgctxt "template"
+msgid "3 Levels of Discussion"
+msgstr "3 Επίπεδα Συζήτησης"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Pick an appropriate level for your child. Allow time for thought when asking questions or making comments. Help with the answer when your child stumbles, and follow up correct answers with questions or comments that are small expansions on the child's answer. \n"
+"\n"
+"**Level 1** Ask simple direct questions. Ask and point at what you see on the page. Where is the toy? What are they doing? What is its name? What color is it? How many balls are there? \n"
+"**Level 2** Ask general or open questions about this point in the story. What do you see happening here? What is this group of things? \n"
+"**Level 3** Ask about the story line. What has happened? What will happen next? Have you had experiences or seen things similar to this? How does she feel when this happens?"
+msgstr ""
+"Επιλέξτε το κατάλληλο επίπεδο για το παιδί σας. Δώστε χρόνο για σκέψη όταν κάνετε ερωτήσεις ή σχόλια. Βοηθήστε στην απάντηση όταν το παιδί δυσκολεύεται και, όταν δίνει σωστές απαντήσεις, συνεχίστε με ερωτήσεις ή σχόλια που αποτελούν μικρές επεκτάσεις της απάντησης του παιδιού.\n"
+"\n"
+"**Επίπεδο 1** Κάντε απλές άμεσες ερωτήσεις. Ρωτήστε και δείξτε τι βλέπετε στη σελίδα. Πού είναι το παιχνίδι; Τι κάνουν; Πώς το λένε; Τι χρώμα είναι; Πόσες μπάλες υπάρχουν;\n"
+"**Επίπεδο 2** Κάντε γενικές ή ανοιχτές ερωτήσεις για αυτό το σημείο της ιστορίας. Τι βλέπεις να συμβαίνει εδώ; Τι είναι αυτή η ομάδα πραγμάτων;\n"
+"**Επίπεδο 3** Ρωτήστε για τη ροή της ιστορίας. Τι έχει συμβεί; Τι θα συμβεί στη συνέχεια; Έχεις ζήσει ή δει πράγματα παρόμοια με αυτά; Πώς αισθάνεται εκείνη όταν συμβαίνει αυτό;"
 
