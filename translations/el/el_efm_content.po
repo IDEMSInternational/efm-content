@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-09-05 00:08\n"
+"PO-Revision-Date: 2025-09-05 18:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14380,4 +14380,44 @@ msgstr "Θέματα και Λέξεις Μαθηματικών"
 msgctxt "template"
 msgid "**Adult Readers**"
 msgstr "**Ενήλικοι Αναγνώστες**"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "Αρχικό"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "Μεσαίο"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "Προχωρημένο"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**Ιστορίες Αρχικού Επιπέδου**"
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**Ιστορίες Μεσαίου Επιπέδου**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**Ιστορίες Προχωρημένου Επιπέδου**"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "Κείμενο Ιστορίας"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "Πρώτη ανάγνωση"
 
