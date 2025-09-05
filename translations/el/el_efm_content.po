@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-09-05 18:55\n"
+"PO-Revision-Date: 2025-09-05 19:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14420,4 +14420,220 @@ msgstr "Κείμενο Ιστορίας"
 msgctxt "template"
 msgid "First reading"
 msgstr "Πρώτη ανάγνωση"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "Δεύτερη ανάγνωση"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "Τρίτη ανάγνωση"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "Καλωσορίσατε!"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "Βιβλία Ιστοριών"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "Δραστηριότητες"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "Βήματα Μαθηματικής Μάθησης"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "Ζευγάρια Παιχνιδιού"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "Συγχρονισμός"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Συγχρονισμός…"
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Αντιγράφηκε!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Τελευταίος συγχρονισμός: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "Αυτή η συσκευή δεν έχει συγχρονιστεί ποτέ."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Συγχρονισμός τώρα"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "Επιπρόσθετο Υλικό"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "Μερικές από τις δραστηριότητες διαθέτουν επιπλέον υλικό με παραδείγματα και περισσότερες εξηγήσεις. Μπορείτε να το δείτε εδώ ή στο τέλος της αντίστοιχης σελίδας δραστηριότητας."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "Κάθε ένα από τα Στάδια περιλαμβάνει περίπου δώδεκα ενότητες με διασκεδαστικά παιχνίδια, γρίφους, δραστηριότητες και διερευνήσεις που μπορείτε να απολαύσετε μαζί στην οικογένειά σας."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "Στάδια"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "Κάθε όνομα Σταδίου περιγράφει την κύρια προϋπόθεση για να ξεκινήσει το παιδί σας αυτό το Στάδιο. Για παράδειγμα, αν το παιδί σας μπορεί να μετρήσει μέχρι το δέκα και γνωρίζει τι σημαίνουν αυτοί οι αριθμοί, ξεκινήστε από το Στάδιο 3. Τα υλικά των Σταδίων είναι οργανωμένα κατά μαθησιακή εξέλιξη, ώστε οι μεταγενέστερες ενότητες να βασίζονται στις προηγούμενες."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "Παρακαλούμε επιλέξτε τα είδη των δραστηριοτήτων που θέλετε να κάνετε."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "Παρακαλούμε επιλέξτε αν προτιμάτε να βλέπετε τις δραστηριότητες κάθε Σταδίου χωριστά ή ανά θέμα."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "Κάθε Στάδιο μάθησης χωρίζεται σε δέκα βασικά μαθησιακά βήματα. Κάθε βήμα περιγράφει τι μαθαίνει το παιδί σας, πώς μπορείτε να βοηθήσετε στη μάθηση και πώς συνδέονται τα βήματα μεταξύ τους."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "Κάθε Στάδιο περιλαμβάνει δέκα παιχνιδοραντεβού για να τα απολαύσει η οικογένειά σας με μια ομάδα άλλων οικογενειών. Κάθε παιχνιδοραντεβού περιλαμβάνει προτεινόμενα βιβλία ιστοριών και δραστηριότητες για να απολαύσετε όλοι μαζί κατά τη διάρκειά του. Τα παιχνιδοραντεβού αντιστοιχούν στα δέκα μαθησιακά βήματα μαθηματικών κάθε Σταδίου. Παρέχονται σύνδεσμοι για άμεση και εύκολη πρόσβαση σε καθεμία από αυτές τις πηγές."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "Το να διαβάζετε με το παιδί σας είναι μια υπέροχη εμπειρία! Αυτά τα βιβλία ιστοριών προορίζονται για τον ενήλικα που διαβάζει σε ένα παιδί. Η προσθήκη μαθηματικών σχολίων και ερωτήσεων κατά την ανάγνωση βοηθά το παιδί σας να αναπτύσσεται μαθηματικά και δημιουργεί ισχυρούς συνειρμούς μαθηματικών με αυτή τη χαρούμενη, γλυκιά εμπειρία."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "Παρακαλούμε επιλέξτε τα είδη των ιστοριών από τα οποία θα θέλατε να διαλέξετε."
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "Ιστορίες Αρχικού Επιπέδου"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "Μιλήστε στο παιδί σας πριν ακόμη να μπορεί να μιλήσει αυτό ή να κατανοεί τις λέξεις. Δείχνετε, ονομάζετε και περιγράφετε ό,τι βλέπετε, όπως σχήματα, χρώματα, συγκρίσεις και ποσότητες. Όταν το παιδί αρχίσει να καταλαβαίνει λέξεις, ρωτήστε για κάτι και ζητήστε του να το δείξει. Καθώς το παιδί αρχίζει να καταλαβαίνει και να λέει λέξεις, προσθέστε απλές ερωτήσεις."
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "Ιστορίες Μεσαίου Επιπέδου"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "Αυτά τα βιβλία ιστοριών είναι λίγο μεγαλύτερα, έχουν πιο σύνθετες πλοκές και περιλαμβάνουν πιο προχωρημένες ιδέες. Το παιδί σας τώρα μπορεί να μιλάει και να σκέφτεται για περισσότερα πράγματα στον κόσμο."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "Ιστορίες Προχωρημένου Επιπέδου"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "Οι ιστορίες γίνονται ακόμη πιο λεπτομερείς και πολύπλοκες. Τα μαθηματικά περιλαμβάνουν μεγαλύτερους αριθμούς και πιο προχωρημένες έννοιες. Η περιγραφή των αντικειμένων γίνεται πιο λεπτομερής και εκτενής."
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "Καλωσορίσατε!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "Απολαύστε το διάβασμα και το παιχνίδι με τα μαθηματικά μαζί! Ο καλύτερος τρόπος να μάθει και να βιώσει κανείς τα μαθηματικά είναι με τρόπο κοινωνικό και παιγνιώδη. Το \"Early Family Math\" (Πρώιμα Μαθηματικά στην Οικογένεια) έχει δημιουργήσει τέσσερις κατηγορίες υλικών για να απολαύσει η οικογένειά σας."
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "Βιβλία Ιστοριών"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "Αυτά τα βιβλία ιστοριών προορίζονται για τον ενήλικα που διαβάζει σε ένα παιδί. Περιέχουν μαθηματικά σχόλια και καθοδηγητικές ερωτήσεις σε κάθε σελίδα. Βοηθήστε το παιδί σας να αναπτυχθεί μαθηματικά και δημιουργήστε ισχυρούς συνειρμούς των μαθηματικών με τη χαρούμενη, γλυκιά εμπειρία του κοινού διαβάσματος!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "Δραστηριότητες"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "Αυτά τα μαθηματικά παιχνίδια, παζλ, δραστηριότητες και διερευνήσεις βρίσκονται σε μια εκπαιδευτική σειρά και σχεδιάστηκαν για να τα παίζετε όλοι μαζί. Προσφέρουν άφθονο ευχάριστο οικογενειακό χρόνο, ενώ το παιδί μαθαίνει όλα τα μαθηματικά που χρειάζεται για το σχολείο."
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "Βήματα Μαθηματικής Μάθησης"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "Έχετε αναρωτηθεί ποια είναι τα αρχικά βήματα μάθησης στα μαθηματικά και πώς συνδέονται μεταξύ τους; Εδώ θα βρείτε σύντομες περιγραφές των δέκα βημάτων μαθηματικής μάθησης που θα βιώσει το παιδί σας καθώς προχωρά στα πέντε Στάδια."
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "Παιχνιδοραντεβού"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "Συναντηθείτε με άλλες οικογένειες σε ένα μαθηματικό παιχνιδοραντεβού. Αυτά τα παιχνιδοραντεβού περιλαμβάνουν προτεινόμενα βιβλία ιστοριών, παιχνίδια και παζλ για να απολαύσετε όλοι μαζί."
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "Βοήθεια"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "Όποτε θελήσετε να ξαναδείτε αυτήν την εισαγωγή, απλώς κάντε κλικ στο ερωτηματικό."
 
