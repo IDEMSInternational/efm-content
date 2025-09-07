@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-09-07 04:24\n"
+"PO-Revision-Date: 2025-09-07 05:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -312,6 +312,306 @@ msgstr "Έχεις πει ποτέ ψέματα σε κάποιον; Αν ναι
 msgctxt "data_list"
 msgid "Count the number of difficult moments in Akadeli's day. All turned out well in the end. Life can be full of surprises!"
 msgstr "Μέτρησε τις δύσκολες στιγμές στη μέρα της Ακαντέλι. Όλα πήγαν καλά στο τέλος. Η ζωή μπορεί να είναι γεμάτη εκπλήξεις!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Akai was a little girl, her mother used to put her to sleep on a beautiful mat. Akai's aunt made this special mat from palm leaves."
+msgstr "Όταν η Ακάι ήταν μικρό κορίτσι, η μητέρα της την έβαζε να κοιμηθεί πάνω σε ένα όμορφο χαλί. Αυτό το ξεχωριστό χαλί το έφτιαξε η θεία της Ακάι από φύλλα φοίνικα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the beautiful colors and patterns everywhere in this room!"
+msgstr "Παρατήρησε τα όμορφα χρώματα και τα μοτίβα παντού σε αυτό το δωμάτιο!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name and describe as many shapes as you can in this picture."
+msgstr "Ονόμασε και περίγραψε όσα περισσότερα σχήματα μπορείς σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a favorite blanket or item you like to sleep with?"
+msgstr "Εσύ έχεις μια αγαπημένη κουβέρτα ή αντικείμενο με το οποίο σου αρέσει να κοιμάσαι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The mat had bright pink, blue, and green colors. It was different from other mats that Akai's mother had in the hut."
+msgstr "Το χαλί είχε έντονα ροζ, μπλε και πράσινα χρώματα. Ήταν διαφορετικό από τα άλλα χαλιά που είχε η μητέρα της Ακάι στη καλύβα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discuss the patterns in Akai's mat. The rows alternate between lighter and darker colors. It has pairs of rows of reds, greens, and blues."
+msgstr "Συζητήστε για τα μοτίβα στο χαλί της Ακάι. Στις σειρές εναλλάσσονται πιο ανοιχτά και πιο σκούρα χρώματα. Έχει ζευγάρια σειρών κόκκινων, πράσινων και μπλε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a 4-sided shape like this page. This mat is a rectangle and it has 30 rows of 9 rectangles."
+msgstr "Ένα ορθογώνιο είναι σχήμα με 4 πλευρές, όπως αυτή η σελίδα. Αυτό το χαλί είναι ορθογώνιο και έχει 30 σειρές από 9 ορθογώνια."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "30 rows of 9 rectangles makes 270 rectangles for the mat. Can you skip count by 30's to 270? If not, perhaps you can skip count by 3's to 27."
+msgstr "30 σειρές από 9 ορθογώνια κάνουν 270 ορθογώνια συνολικά. Μπορείς να μετρήσεις με βήματα των 30 μέχρι το 270; Αν όχι, ίσως μπορείς να μετρήσεις με βήματα των 3 μέχρι το 27."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The land around Akai's home was very dry, hot, and full of stones. There were many scorpions, spiders, and snakes too. But Akai was never in danger of being bitten by these dangerous creatures."
+msgstr "Η γη γύρω από το σπίτι της Ακάι ήταν πολύ ξηρή, ζεστή και γεμάτη πέτρες. Υπήρχαν επίσης πολλοί σκορπιοί, αράχνες και φίδια. Όμως η Ακάι δεν κινδύνεψε ποτέ να τη δαγκώσουν αυτά τα επικίνδυνα πλάσματα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Find all the little creatures around Akai on the ground. Do you think her mat protected her somehow from these dangerous creatures?"
+msgstr "Βρες όλα τα μικρά πλάσματα γύρω από την Ακάι στο έδαφος. Νομίζεις ότι το χαλί της την προστάτευε με κάποιον τρόπο από αυτά τα επικίνδυνα πλάσματα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you were surrounded by dangerous things, do you think you would be as happy as Akai looks in this picture?"
+msgstr "Αν ήσουν περικυκλωμένος από επικίνδυνα πράγματα, πιστεύεις ότι θα ήσουν τόσο χαρούμενος όσο φαίνεται η Ακάι σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the hills that are farther away are fainter and lighter than the closer hills. You can often use the degree of faintness to help you tell what is closer and what is farther away in a picture."
+msgstr "Παρατήρησε ότι οι λόφοι που βρίσκονται πιο μακριά είναι πιο αχνοί και πιο ανοιχτοί από τους κοντινούς λόφους. Μπορείς να χρησιμοποιείς αυτόν τον βαθμό αχνάδας για να καταλάβεις τι είναι πιο κοντά και τι πιο μακριά σε μια εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her mother said, \"Her special mat protects Akai from any harm.\""
+msgstr "Η μητέρα της είπε: «Το ξεχωριστό της χαλί προστατεύει την Ακάι από κάθε κακό»."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you believe that objects, such as a mat, can have special, magical powers?"
+msgstr "Πιστεύεις ότι αντικείμενα, όπως ένα χαλί, μπορούν να έχουν ιδιαίτερες, μαγικές δυνάμεις;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have anything that you believe helps you in a magical way?"
+msgstr "Έχεις κάτι που πιστεύεις ότι σε βοηθά με μαγικό τρόπο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many shapes here in addition to the rectangles. Find the triangles and the round shapes in this picture."
+msgstr "Υπάρχουν πολλά σχήματα εδώ εκτός από τα ορθογώνια. Βρες τα τρίγωνα και τα στρογγυλά σχήματα σε αυτή την εικόνα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai was a clever child. She discovered where the nearest shallow well was."
+msgstr "Η Ακάι ήταν έξυπνο παιδί. Ανακάλυψε πού βρισκόταν το κοντινότερο ρηχό πηγάδι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In a very dry place, finding a shallow well would be very important to her village. They must have all thought very highly of Akai."
+msgstr "Σε έναν πολύ ξηρό τόπο, το να βρεις ένα ρηχό πηγάδι θα ήταν πολύ σημαντικό για το χωριό της. Πρέπει όλοι να εκτιμούσαν πολύ την Ακάι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many different beautiful colors in their clothes. Do you know which of the seven colors of the rainbow are missing in this picture?"
+msgstr "Υπάρχουν πολλά διαφορετικά όμορφα χρώματα στα ρούχα τους. Ξέρεις ποια από τα επτά χρώματα του ουράνιου τόξου λείπουν σε αυτή την εικόνα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You  can count all their legs by counting by 2's. You can count their arms the same way. How would you count their arms and legs together? Would you count by 2's or by 4's?"
+msgstr "Μπορείς να μετρήσεις όλα τους τα πόδια μετρώντας ανά 2. Μπορείς να μετρήσεις τα χέρια τους με τον ίδιο τρόπο. Πώς θα μετρούσες τα χέρια και τα πόδια μαζί; Θα μετρούσες ανά 2 ή ανά 4;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai also knew where her grandmother's manyatta was located. She often went to drink camel milk with her grandmother."
+msgstr "Η Ακάι ήξερε επίσης πού βρισκόταν η μανιάτα της γιαγιάς της. Συχνά πήγαινε να πιει γάλα καμήλας με τη γιαγιά της."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A manyatta is a small village. Akai was very good at finding her way around the area where she lived. How are you at finding things around the area where you live?"
+msgstr "Μια μανιάτα είναι ένα μικρό χωριό. Η Ακάι ήταν πολύ καλή στο να βρίσκει τον δρόμο της στην περιοχή που ζούσε. Εσύ είσαι καλός στο να βρίσκεις πράγματα γύρω από την περιοχή σου;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people have a strong sense of direction, and others can get easily confused. Which are you?"
+msgstr "Μερικοί άνθρωποι έχουν έντονη αίσθηση προσανατολισμού, ενώ άλλοι μπερδεύονται εύκολα. Εσύ σε ποια κατηγορία ανήκεις;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Her grandmother's mat looks very similar to Akai's mat. Describe some differences you see between the two mats."
+msgstr "Το χαλί της γιαγιάς της μοιάζει πολύ με το χαλί της Ακάι. Περίγραψε μερικές διαφορές που βλέπεις ανάμεσα στα δύο χαλιά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, Akai was not so lucky. She left to go to her grandmother's manyatta, but she got lost in the hills. Akai was afraid."
+msgstr "Μια μέρα, η Ακάι δεν στάθηκε τόσο τυχερή. Έφυγε για τη μανιάτα της γιαγιάς της, αλλά χάθηκε στους λόφους. Η Ακάι φοβόταν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No matter how good we are at things, everyone can make a mistake. Can you think of a time recently when that happened to you?"
+msgstr "Όσο καλοί κι αν είμαστε σε κάτι, όλοι μπορούμε να κάνουμε ένα λάθος. Μπορείς να σκεφτείς μια φορά που σου συνέβη αυτό πρόσφατα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As much as we may not like our own mistakes, we should not ignore them. Mistakes are often very interesting and have a lot to teach us about ourselves."
+msgstr "Όσο κι αν δεν μας αρέσουν τα λάθη μας, δεν πρέπει να τα αγνοούμε. Τα λάθη συχνά έχουν πολύ ενδιαφέρον και έχουν να μας διδάξουν πολλά για τον εαυτό μας."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What about the way Akai looks in this picture tells you that she is afraid?"
+msgstr "Τι είναι αυτό στην έκφραση της Ακάι σε αυτή την εικόνα που σου δείχνει ότι φοβάται;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She sat under an edome tree and waited for help. Soon she fell asleep and had a dream."
+msgstr "Κάθισε κάτω από ένα δέντρο και περίμενε βοήθεια. Σύντομα αποκοιμήθηκε και είδε ένα όνειρο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you are lost on a hot day, it is wise to find a cool, shady place and hope to be rescued. High heat can be a very dangerous thing and it should be handled carefully."
+msgstr "Αν χαθείς μια ζεστή μέρα, είναι σοφό να βρεις ένα δροσερό, σκιερό μέρος και να περιμένεις ελπίζοντας ότι θα σε βρουν. Η μεγάλη ζέστη μπορεί να είναι πολύ επικίνδυνη και πρέπει να τη διαχειρίζεσαι προσεκτικά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People have many kinds of dreams. Some are scary, some are fun, some seem ridiculous, and some seem very real. What kinds of dreams do you have?"
+msgstr "Οι άνθρωποι βλέπουν πολλά είδη ονείρων. Μερικά είναι τρομακτικά, μερικά διασκεδαστικά, κάποια φαίνονται γελοία και κάποια πολύ αληθινά. Τι είδους όνειρα βλέπεις εσύ;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As they go up, most of these branches split into two branches. So, 1 branch becomes 2, and those become 4, and so on. How high can you keep doubling before it gets to be too big a number?"
+msgstr "Καθώς ανεβαίνουν, τα περισσότερα από αυτά τα κλαδιά χωρίζονται σε δύο κλαδιά. Έτσι, 1 κλαδί γίνεται 2 κι αυτά γίνονται 4 και ούτω καθεξής. Μέχρι ποιον αριθμό μπορείς να συνεχίσεις να διπλασιάζεις πριν γίνει πολύ μεγάλος;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is what Akai dreamed. She was lying on her special mat. A woman who looked like her grandmother was watching over her. The old woman smiled and gave her a bowl of camel milk. Just when Akai stretched out her hand to take the milk, she woke up."
+msgstr "Αυτό ονειρεύτηκε η Ακάι. Ήταν ξαπλωμένη πάνω στο ξεχωριστό χαλί της. Μια γυναίκα που έμοιαζε με τη γιαγιά της την πρόσεχε. Η ηλικιωμένη γυναίκα χαμογέλασε και της έδωσε ένα μπολ με γάλα καμήλας. Μόλις η Ακάι άπλωσε το χέρι της για να πάρει το γάλα, ξύπνησε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think you can receive a message from a dream, or are they meaningless? What do you think this dream was trying to tell Akai?"
+msgstr "Πιστεύεις ότι μπορείς να λάβεις ένα μήνυμα από ένα όνειρο ή είναι χωρίς νόημα; Τι νομίζεις ότι προσπαθούσε να πει αυτό το όνειρο στην Ακάι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the circles of color centered just in front of grandmother's face. When circles have a common center they are called concentric circles."
+msgstr "Παρατήρησε τους κύκλους χρώματος που έχουν το κέντρο τους ακριβώς μπροστά από το πρόσωπο της γιαγιάς. Όταν οι κύκλοι έχουν κοινό κέντρο λέγονται ομόκεντροι κύκλοι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors are repeated in her clothing and jewelry, and which appear only once?"
+msgstr "Ποια χρώματα επαναλαμβάνονται στα ρούχα και τα κοσμήματά της και ποια εμφανίζονται μόνο μία φορά;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai opened her eyes slowly. When she looked up, she saw a small blue bird on a branch above her."
+msgstr "Η Ακάι άνοιξε τα μάτια της αργά. Όταν κοίταξε ψηλά, είδε ένα μικρό γαλάζιο πουλί σε ένα κλαδί πάνω από το κεφάλι της."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes writers use special things in stories as symbols. Do you think the blue bird symbolizes something special in this story, or is it just a blue bird with no special meaning?"
+msgstr "Μερικές φορές οι συγγραφείς χρησιμοποιούν ιδιαίτερα στοιχεία στις ιστορίες ως σύμβολα. Πιστεύεις ότι το γαλάζιο πουλί συμβολίζει κάτι ξεχωριστό σε αυτή την ιστορία ή είναι απλώς ένα γαλάζιο πουλί χωρίς ιδιαίτερη σημασία;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two pages ago we saw that same tree, but there are a few differences between the two pictures of the tree. How many differences can you find?"
+msgstr "Δύο σελίδες πριν είδαμε το ίδιο δέντρο, αλλά υπάρχουν κάποιες διαφορές ανάμεσα στις δύο εικόνες του δέντρου. Πόσες διαφορές μπορείς να βρεις;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai and the bird are looking at each other. If they could talk to each other, what would they say?"
+msgstr "Η Ακάι και το πουλί κοιτάζονται. Αν μπορούσαν να μιλήσουν μεταξύ τους, τι θα έλεγαν;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Akai got up, the small blue bird flapped its wings and led the way for Akai. She followed the bird."
+msgstr "Όταν η Ακάι σηκώθηκε, το μικρό γαλάζιο πουλί χτύπησε τα φτερά του και της έδειξε τον δρόμο. Η Ακάι το ακολούθησε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Birds can be fast and hard to follow. Have you ever tried to follow a wild animal to see where it was going?"
+msgstr "Τα πουλιά μπορεί να είναι γρήγορα και δύσκολα να τα ακολουθήσεις. Έχεις δοκιμάσει ποτέ να ακολουθήσεις ένα άγριο ζώο για να δεις πού πηγαίνει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you were lost in a dangerous place, would you trust your safety to an unusual animal? Akai is being very trusting."
+msgstr "Αν ήσουν χαμένος σε έναν επικίνδυνο τόπο, θα εμπιστευόσουν την ασφάλειά σου σε ένα ασυνήθιστο ζώο; Η Ακάι δείχνει μεγάλη εμπιστοσύνη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you think this will turn out? Will the bird lead Akai to safety or will she get even more lost following this silly bird?"
+msgstr "Πώς νομίζεις ότι θα εξελιχθεί αυτό; Θα οδηγήσει το πουλί την Ακάι στην ασφάλεια ή θα χαθεί ακόμη περισσότερο ακολουθώντας αυτό το «ανόητο» πουλί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai came to a place where the path went in two directions. The blue bird dropped a piece of a mat that was like Akai's own mat."
+msgstr "Η Ακάι έφτασε σε ένα σημείο όπου το μονοπάτι χωριζόταν σε δύο κατευθύνσεις. Το γαλάζιο πουλί άφησε να πέσει ένα κομμάτι χαλιού που έμοιαζε με το χαλί της Ακάι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dropping a piece of mat is quite an unusual thing for any bird to do. Maybe trusting this bird is not such a bad idea after all. What do you think?"
+msgstr "Το να ρίξει ένα κομμάτι χαλιού είναι κάτι αρκετά ασυνήθιστο για οποιοδήποτε πουλί. Ίσως τελικά δεν ήταν τόσο κακή ιδέα να εμπιστευτεί αυτό το πουλί. Τι νομίζεις;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We didn't see that piece of mat in any other pictures of the bird. Where did that piece of mat come from and how did the bird get it?"
+msgstr "Δεν είδαμε αυτό το κομμάτι χαλιού σε καμία άλλη εικόνα με το πουλί. Από πού ήρθε αυτό το κομμάτι και πώς το βρήκε το πουλί;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at Akai's face. What does her expression tell you about how she is feeling?"
+msgstr "Κοίτα το πρόσωπο της Ακάι. Τι σου λέει η έκφρασή της για το πώς νιώθει;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Picking up the piece of mat, Akai saw footprints that she knew were her mother's. Soon she saw the shallow well from where they fetched water."
+msgstr "Σηκώνοντας το κομμάτι χαλιού, η Ακάι είδε πατημασιές που ήξερε ότι ήταν της μητέρας της. Σύντομα είδε το ρηχό πηγάδι από όπου έπαιρναν νερό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's good she trusted that strange bird. She ended up being taken to safety by following her instincts and trusting the bird."
+msgstr "Καλά που εμπιστεύτηκε εκείνο το παράξενο πουλί. Τελικά οδηγήθηκε με ασφάλεια ακολουθώντας το ένστικτό της και εμπιστευόμενη το πουλί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever had to trust something or someone in an unusual situation? You have to be very careful about the people you choose to trust."
+msgstr "Έχεις χρειαστεί ποτέ να εμπιστευτείς κάτι ή κάποιον σε μια ασυνήθιστη κατάσταση; Πρέπει να είσαι πολύ προσεκτικός με τους ανθρώπους που επιλέγεις να εμπιστευτείς."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you know what anyone else's footprints look like? When you live where it is important to be able to follow paths, do you suppose you get good at recognizing tracks made by various people and animals?"
+msgstr "Ξέρεις πώς φαίνονται οι πατημασιές κάποιου άλλου; Όταν ζεις σε μέρος όπου είναι σημαντικό να μπορείς να ακολουθείς μονοπάτια, νομίζεις ότι γίνεσαι καλός στο να αναγνωρίζεις ίχνη από διάφορους ανθρώπους και ζώα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai's family sang and danced to welcome her home. They made a feast to celebrate their child's safe return."
+msgstr "Η οικογένεια της Ακάι τραγούδησε και χόρεψε για να την καλωσορίσει στο σπίτι. Έκαναν ένα γλέντι για να γιορτάσουν την ασφαλή επιστροφή του παιδιού τους."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at how happy they all are with Akai's safe return. How can you tell that they are happy?"
+msgstr "Κοίτα πόσο χαρούμενοι είναι όλοι με την ασφαλή επιστροφή της Ακάι. Πώς το καταλαβαίνεις ότι είναι χαρούμενοι;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Their clothes have beautiful colors and patterns. Which of these do you like the most?"
+msgstr "Τα ρούχα τους έχουν όμορφα χρώματα και μοτίβα. Ποιο από αυτά σου αρέσει περισσότερο;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai likes to go barefoot a lot, while many of the other people in this story wear sandals. Which do you prefer?"
+msgstr "Η Ακάι προτιμά συχνά να περπατά ξυπόλυτη, ενώ πολλοί από τους άλλους στην ιστορία φορούν σανδάλια. Εσύ τι προτιμάς;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Akai sat on her special mat and enjoyed eating some delicious food."
+msgstr "Η Ακάι κάθισε πάνω στο ξεχωριστό της χαλί και απολάμβανε το νόστιμο φαγητό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At the end of a scary day, she looks very happy. After a disturbing incident, it can be wonderful to be back in a familiar and safe place."
+msgstr "Στο τέλος μιας τρομακτικής ημέρας, φαίνεται πολύ χαρούμενη. Μετά από ένα ανησυχητικό γεγονός, είναι υπέροχο να επιστρέφεις σε έναν οικείο και ασφαλή χώρο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have a favorite place where you feel particularly safe and comfortable?"
+msgstr "Έχεις ένα αγαπημένο μέρος όπου νιώθεις ιδιαίτερα ασφαλής και άνετα;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does her happiness come from her mat or from herself?"
+msgstr "Η ευτυχία της προέρχεται από το χαλί της ή από την ίδια;"
 
 #. type=data_list
 msgctxt "data_list"
