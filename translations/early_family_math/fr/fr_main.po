@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-09-08 15:17\n"
+"PO-Revision-Date: 2025-09-09 21:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -29112,6 +29112,12 @@ msgid "**Beginning Storybooks**"
 msgstr "**Livres d’histoires pour débutants**"
 
 #. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
+
+#. type=template
 msgctxt "template"
 msgid "**Intermediate Storybooks**"
 msgstr "**Livres d’histoires pour élèves intermédiaires**"
@@ -29452,6 +29458,11 @@ msgstr "Stade"
 msgctxt "template"
 msgid "Language"
 msgstr "Langue"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Continuer"
 
 #. type=tour
 msgctxt "tour"
