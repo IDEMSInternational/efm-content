@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-10-02 17:45\n"
+"PO-Revision-Date: 2025-10-02 18:31\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -444,12 +444,368 @@ msgstr "Zeige auf die Mädchen und zähle ihre Anzahl auf diesem Bild."
 #. type=data_list
 msgctxt "data_list"
 msgid "Shaking with fear, they ran to tell their brothers about what they had seen. But the boys didn't believe them. \"The girls are being silly!\" they said."
-msgstr "Gibt’s mehr Mädchen oder Jungen auf diesem Bild?"
+msgstr "Zitternd vor Angst rannten sie zu ihren Brüdern, um ihnen zu erzählen, was sie gesehen hatten. Aber die Jungen glaubten ihnen nicht. \"Die Mädchen sind albern\", sagten sie."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "There are four children and four heads. How many legs do you see? How many arms do you see? Is that surprising?"
-msgstr "Zitternd vor Angst rannten sie zu ihren Brüdern, um ihnen zu erzählen, was sie gesehen hatten. Aber die Jungen glaubten ihnen nicht. \"Die Mädchen sind albern\", sagten sie."
+msgstr "Da sind vier Kinder und vier Köpfe. Wie viele Beine siehst du? Überrascht dich das?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more girls or boys in this picture?"
+msgstr "Sind da mehr Jungen oder mehr Mädchen auf diesem Bild?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at their mouths and eyebrows. What do their faces tell you about what these children are thinking and feeling?"
+msgstr "Schau auf deren Münder und Augenbrauen. Was sagen ihre Gesichter darüber, was diese Kinder denken und fühlen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Eventually, curiosity got the better of the boys. They followed the girls to the river to see this strange creature for themselves."
+msgstr "Schließlich gewann die Neugier der Jungen. Sie folgten den Mädchen zum Fluss, um diese seltsame Kreatur selber zu sehen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell from their size in the picture that the girls are far away and the boys are nearby?"
+msgstr "Wie kannst du von deren Größe im Bild ableiten, dass die Mädchen weit weg und die Jungen nahe sind?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the girls far away behind some bushes?"
+msgstr "Warum sind die Mädchen weit weg hinter Gebüschen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The grass, bushes, and trees are different shades of green. Are there different shades of some color where you are?"
+msgstr "Das Gras, die Gebüsche und Bäume sind verschiedene Zwischentöne von Grün. Gibt es verschiedene Abstufungen einer Farbe, dort wo du bist?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"They searched and searched, but all they could see was the tall grass and trees.\n"
+"\n"
+"Suddenly, they heard a noise, and looked up."
+msgstr ""
+"Sie suchten und suchten, doch alles, was sie sehen konnten, war das hohe Gras und die Bäume.\n"
+"\n"
+"Plötzlich hörten sie ein Geräusch und schauten auf."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think made that noise above them?"
+msgstr "Was, meinst du, machte dieses Geräusch über ihnen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of things make noises above our heads?"
+msgstr "Welche Art von Dingen machen Geräusche über unseren Köpfen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That is really tall grass! What part of their bodies does the grass reach up to?"
+msgstr "Das ist wirklich hohes Gras! Bis zu welchem Teil ihres Körpers reicht das Gras?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Up on a tree swung the strangest creature they had ever seen. It had two arms, two hands, two legs and two feet. Instead of one each, like them."
+msgstr "Auf einem Baum schwang die seltsamste Kreatur, die sie jemals gesehen hatten. Sie hatte zwei Arme, zwei Hände, zwei Beine und zwei Füße. Statt jeweils einem, wie sie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many arms, legs, hands, and eyes does each member of the family have?"
+msgstr "Wie viele Arme, Beine, Hände und Augen hat jedes Mitglied der Familie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you assume the unseen side of each family member had another arm, leg, hand, and eye, just like the side you could see?"
+msgstr "Hast du angenommen, dass die verborgene Seite jedes Familienmitglieds einen weiteren Arm, ein weiteres Bein, eine weitere Hand und ein weiteres Auge hatte, genau wie die Seite, die du sehen konntest?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you see only one side of something, it is easy to assume the other side looks the same -- that it is the mirror reflection of what you can see."
+msgstr "Wenn du nur eine Seite siehst von etwas, scheint es naheliegend zu vermuten, die andere Seite sähe gleich aus – das ist die Spiegelreflektion davon, was du siehst."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The frightened children ran home to call their parents. Soon the whole family was at the river to see the creature."
+msgstr "Die verängstigten Kinder rannten nach Hause, um ihre Eltern zu rufen. Bald war die ganze Familie am Fluss, um die Kreatur zu sehen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of arms in this picture. If each person had two arms, how many arms would there be?"
+msgstr "Zähle die Zahl der Arme auf diesem Bild. Wenn jede Person zwei Arme hätte, wie viele Arme wären da?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Arms and legs are called limbs. How many limbs does this family have?"
+msgstr "Arme und Beine werden Gliedmaßen genannt. Wie viele Gliedmaßen hat diese Familie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you notice that the grass was tall, but now it is short? Did someone cut the grass?"
+msgstr "Ist dir aufgefallen, dass das Gras hoch stand und dass es jetzt kurz ist? Hat jemand das Gras geschnitten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Don't hurt me! the creature said, as it hid behind the tree. Now the family could only see the creature's one foot, one leg, one hand, one arm and one eye."
+msgstr "\"Tut mir nicht weh!\" sagte die Kreatur, als sie sich hinter dem Baum versteckte. Jetzt konnte die Familie nur einen Fuß, ein Bein, eine Hand, einen Arm und ein Auge sehen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature is hiding behind a tree. Where are some places you like to hide?"
+msgstr "Die Kreatur versteckt sich hinter einem Baum. Wo versteckst du dich gerne?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the creature is halfway behind the tree, it looks just like each of the family members. Why is that?"
+msgstr "Wenn die Kreatur auf halbem Weg hinter dem Baum ist, sieht sie gleich aus wie jedes Familienmitglied. Warum ist das so?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature feels \"outnumbered.\" How many people are in the family and how many creatures are there? Which is more and which is less?"
+msgstr "Die Kreatur fühlt sich \"zahlenmäßig überlegen\". Wie viele Leute zählt die Familie und wie viele Kreaturen sind es? Vom wem gibt es mehr, und von wem weniger?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I am just like you, continued the creature. \"The only difference is that I was made with two of almost everything.\""
+msgstr "\"Ich bin genau wie du,\" fuhr die Kreatur fort. \"Der einzige Unterschied ist, dass ich aus zwei von fast jedem gemacht wurde.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which body parts do you have two of and which do you have one of?"
+msgstr "Von welchen Körperteilen hast du zwei und von welchen einen Teil?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For the body parts you have one of, are they on the sides or the middle line of your body?"
+msgstr "Von den Körperteilen, von welchen du einen hast, sind sie auf der Seite oder der Mittellinie deines Körpers?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of someone you know. List three ways they are similar to you and three ways that they are different."
+msgstr "Denke an jemanden, den du kennst. Liste drei Gemeinsamkeiten und drei Unterschiede zu dir auf."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So this was how the Izanzawu family discovered that it was not a creature to be scared of. It was simply a different form of them."
+msgstr "Also war dies wie die Izinzawu Familie herausgefunden hat, dass es nicht eine Kreatur war, vor der man sich fürchten musste. Es war einfach eine andere Form von ihnen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The creature has a striped shirt with two colors and everyone else's shirt has just one. Why did the writer do that?"
+msgstr "Die Kreatur trägt ein gestreiftes Hemd mit zwei Farben und die Hemden aller anderen haben nur eine Farbe. Warum hat der Author dies gemacht?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are six people in the Izanzawu family. When you add one more for the \"creature,\" how many people are there?"
+msgstr "Es sind sechs Menschen in der Izinzawu Familie. Wenn du einen mehr für die \"Kreatur\" rechnest, wie viele sind es dann?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
+msgstr "Wenn du diese sieben Personen nach Höhe, den kleinsten links und den größtenrechts stellen würdest, was wäre die Reihenfolge? Beschreibe diese Reihenfolge, indem du die Farben ihrer Kleidung benutzt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The drum has always been an important musical instrument in our community. We love drums!\n"
+"\n"
+"We have drums of different sizes: big, medium-sized, and small."
+msgstr ""
+"Die Trommel war schon immer ein wichtiges Musikinstrument in unserer Gemeinschaft. Wir lieben Trommeln!\n"
+"\n"
+"Wir haben Trommeln verschiedener Größen: Groß, mittelgroß und klein."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of things that have the same shape with different sizes. Perhaps one big and one small, or three with big, medium, and small."
+msgstr "Denke an Dinge mit derselben Form in verschiedenen Größen. Vielleicht ein großes und ein kleines, oder drei mit groß, mittel und klein."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of stories about three things. Some examples are: The Three Little Pigs and Goldilocks."
+msgstr "Denke an Geschichten über drei Dinge. Ein Beispiel sind die heiligen drei Könige."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever beat on a drum? Which of these three would you choose?"
+msgstr "Hast du jemals eine Trommel gespielt? Welche dieser drei Trommeln würdest du dir aussuchen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We play drums using beaters, or with our fingers.\n"
+"\n"
+"We play drums for various reasons: We play drums with songs and dances, for feasts, and in bad times."
+msgstr ""
+"Wir trommeln mit Schlägern oder mit unseren Fingern.\n"
+"\n"
+"Wir spielen aus unterschiedlichen Gründen: Wir trommeln mit Liedern und Tänzen, für Feste und in schlechten Zeiten."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People use drums to make rhythms. Make up your own rhythm and count it. For example:  (clapping for each number) \"1, 2, pause, 3, 1, 2, pause 3.\""
+msgstr "Leute benutzen Trommeln, um Rhythmen zu erzeugen. Mache deinen eigenen Rhythmus und zähle ihn. Zum Beispiel: (Klatschen zu jeder Nummer) \"1, 2, Pause, 3, 1, 2, Pause 3.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do you suppose a beater sounds different than using fingers?"
+msgstr "Wie, denkst du, unterscheidet sich Trommeln mit einem Schläger vom Klopfen mit den Fingern?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does the small drum sound different than the large one?"
+msgstr "Wie klingt eine kleine Trommel anders als eine große?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Drums enrich songs and make people want to dance. Drums make ceremonies colorful.\n"
+"\n"
+"We play drums during ceremonies for marriage and child naming. We play drums when celebrating a new harvest or a twin birth."
+msgstr ""
+"Trommeln bereichern Lieder und bringen die Leute zum Tanzen. Trommeln machen Zeremonien bunt.\n"
+"\n"
+"Wir spielen Trommeln bei Hochzeitszeremonien und Kinder-Namensgebungen. Wir spielen Trommel, wenn wir eine Ernte oder eine Zwillingsgeburt feiern."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People are wearing special wedding clothes. Count together the people wearing orange."
+msgstr "Die Leute tragen spezielle Hochzeitskleider. Zähle die Leute, die orange gekleidet sind."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which color are the drummers wearing?"
+msgstr "Welche Farbe tragen die Trommler?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the people at the wedding. Can you count that high?"
+msgstr "Zähle alle Leute auf dieser Hochzeit zusammen. Kannst du so hoch rechnen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We sound drums to announce grief and call people when death occurs."
+msgstr "Wir schlagen Trommeln, um Trauer anzukündigen und um bei Todesfällen die Leute zusammenzurufen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does sad drumming sound like? Can you make a soft, sad rhythm with your hands?"
+msgstr "Wie klingt trauriges Trommeln? Kannst du einen sanften, traurigen Rhythmus machen mit deinen Händen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many kinds of drumming, such as soft background rhythms or fast loud rhythms. Which kinds of drumming have you heard?"
+msgstr "Es gibt viele verschiedene Arten zu Trommeln, wie zum Beispiel weiche Hintergrund-Rhythmen oder schnelle laute Rhythmen. Welche Art von Trommeln hast du schon gehört?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does a drumbeat make you want to dance?"
+msgstr "Macht dir ein Trommelrhythmus Lust zum Tanzen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"We sound drums to call people to clean wells, clear roads, or to build a hut for a needy old person.\n"
+"\n"
+"We sound drums to call people when cattle are stolen in our village."
+msgstr ""
+"Wir spielen Trommeln, um Leute dazu aufzurufen, Brunnen zu reinigen, Straßen zu säubern oder eine Hütte für einen bedürftigen alten Menschen zu bauen.\n"
+"\n"
+"Wir spielen Trommeln, um die Leute zusammenzubringen, wenn Vieh in unserem Dorf gestohlen wird."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where you live, what sound or method do people use to call people together for food, school, or special events?"
+msgstr "Welche Klänge oder Methoden benutzen die Leute da, wo du lebst, um sich wegen Essenszeiten, in den Schulen oder bei speziellen Anlässen zu versammeln?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you rather beat the drum or do the work?"
+msgstr "Würdest du lieber die Trommel spielen oder die Arbeit machen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of tools people are using in this picture."
+msgstr "Zähle die Anzahl Werkzeuge, welche die Leute auf diesem Bild benutzen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We sound drums to gather for meetings at our chief's palace."
+msgstr "Wir spielen die Trommel für Zusammenkünfte im Palast unseres Häuptlings."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is something in this picture that shows this is a special place?"
+msgstr "Was ist etwas auf diesem Bild, das zeigt, dass es sich um einen speziellen Ort handelt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many people are gathering in this picture?"
+msgstr "Wie viele Leute versammeln sich auf diesem Bild?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you think the chief will sit?"
+msgstr "Wo, denkst du, wird der Häuptling sitzen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Drums call people to go to church for prayers on Sundays and other prayer days.\n"
+"\n"
+"We also play drums to enrich songs when singing in churches."
+msgstr ""
+"Trommeln rufen die Leute dazu auf, zum Gebet in die Kirche zu gehen.\n"
+"\n"
+"Wir spielen auch Trommeln, um Lieder zu untermalen, wenn wir in Kirchen singen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Items made from wood come from trees. Which items in this picture are made of wood?"
+msgstr "Dinge aus Holz kommen von Bäumen. Was, auf diesem Bild, ist aus Holz gefertigt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which things are made of wood where you are?"
+msgstr "Welche Dinge sind aus Holz, da wo du bist?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are straps on the drums in each picture. Why are the straps useful?"
+msgstr "Es gibt Bänder auf den Trommeln in jedem Bild. Warum sind die Bänder nützlich?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The big drum sounds, \"An a bul mba, an a bul mba, an a bul mba-mba-mba-mba bul.\"\n"
+"\n"
+"The small drums sing in their high pitches, \"Tindiri, tindiri tindiri ti.\"\n"
+"\n"
+"Together they chorus, \"Tindiri mba, tindiri mba, tindiri mba-mba-mba-mba, tindiri ti!\""
+msgstr ""
+"Die große Trommel klingt, \"An a bul mba, an a bul mba, an a bul mba-mba-mba-mba bul.\"\n"
+"\n"
+"Die kleinen Trommeln singen in ihren hohen Höhen, \"Tindiri, tindiri tindiri ti.\"\n"
+"\n"
+"Zusammen ergeben sie den Chor, \"Tindiri mba, tindiri mba, tindiri mba-mba-mba-mba, tindiri ti!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A duet is when two intruments are played together. Have you sung duets with your family or friends?"
+msgstr "Ein Duett ist, wenn zwei Instrumente zusammen gespielt werden. Hast du schon einmal Duette gesungen mit deiner Familie oder Freunden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a clapping duet. One person starts with a clapping pattern, and then the other person creates a clapping pattern that goes well with it."
+msgstr "Stelle ein Klatsch-Duett auf. Eine Person fängt an mit einem Klatsch-Muster, und dann macht die andere Person ein Muster, das gut dazu passt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you hear music, listen for the instruments that create the beat."
+msgstr "Wenn du Musik hörst, höre aufmerksam auf die Instrumente, die den Beat ausmachen."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1683,18 +2039,179 @@ msgstr "Braun ist nicht eine der Hauptfarben des Regenbogens. Gibt es andere Far
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Fana and her family live in a busy town."
+msgstr "Fana und ihre Familie wohnen in einer lebhaften Stadt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana lives in a very colorful town. Is your town colorful too?"
+msgstr "Fana lebt in einer sehr farbenfrohen Stadt. Ist deine Stadt auch farbig?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and name all the colors of the clothes and buildings."
+msgstr "Zeige auf und benenne alle Farben der Kleider und Gebäude."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana has a cat, two hens, a goat and a dove."
+msgstr "Fana hat eine Katze, zwei Hennen, eine Ziege und eine Taube."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals does Fana have?"
+msgstr "Wie viele Tiere hat Fana?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal does Fana have the most of?"
+msgstr "Von welchen Tieren hat Fana am meisten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most people living in a city do not have so many different animals."
+msgstr "Die meisten Menschen, die in einer Stadt leben, haben nicht so viele verschiedene Tiere."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One day, Fana saw other children throwing stones at doves."
+msgstr "Eines Tages sah Fana, wie andere Kinder Steine auf Tauben warfen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Throwing stones at animals is a mean thing to do!"
+msgstr "Steine auf Tiere zu werfen ist etwas gemeines!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would you do if you saw someone doing something that was mean?"
+msgstr "Was würdest du tun, wenn du jemanden sehen würdest, der etwas Gemeines macht?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the birds. Which is more and which is less -- birds in the air or birds on the ground?"
+msgstr "Zähle alle Vögel. Wovon gibt es mehr – Vögel in der Luft, oder am Boden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Fana ran towards the children.\n"
+"\n"
+"She shouted, \"Stop throwing stones!\""
+msgstr ""
+"Fana rannte zu den Kindern.\n"
+"\n"
+"Sie schrie: \"Hört auf Steine zu werfen!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is not easy to tell other people that you think they are being bad. Why did Fana do it?"
+msgstr "Es ist nicht einfach, anderen Leuten zu sagen, dass du denkst, sie würden sich schlecht benehmen. Warum tat es Fana?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides like the shape of this page. Point out rectangles you see in this picture."
+msgstr "Ein Rechteck ist eine Form mit vier geraden Seiten wie die Form dieses Blattes. Zeige auf die Rechtecke, die du auf diesem Bild siehst."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you see any rectangles around where you are?"
+msgstr "Siehst du Rechtecke, wo du dich befindest?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana took the two doves home to look after them."
+msgstr "Fana nahm die zwei Tauben mit nach Hause, um sich um sie zu kümmern."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is very nice of Fana to help these animals. It can be dangerous to handle wild animals."
+msgstr "Es ist sehr lieb von Fana, diesen Tieren zu helfen. Es kann gefährlich sein mit wilden Tieren umzugehen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the number of people and the number of birds. Which group is bigger and which group is smaller?"
+msgstr "Zähle die Anzahl der Leute und die Anzahl der Vögel. Welche Gruppe ist größer, welche kleiner?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do their faces tell you about what they are feeling?"
+msgstr "Was sagen dir ihre Gesichter darüber, wie sie sich fühlen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She fed them and told her family how she saved them."
+msgstr "Sie hat sie gefüttert und ihrer Familie erzählt, wie sie sie gerettet hat."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many children and how many adults are there in Fana's family? When you put those groups together, how many people are there in her family?"
+msgstr "Wie viele Kinder und wie viele Erwachsene gibt es in Fanas Familie? Wenn du diese Gruppen zusammenzählst, wie viele Menschen sind dann in ihrer Familie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many colors of the rainbow here. Which colors are present and which ones are missing?"
+msgstr "Es gibt hier viele Farben des Regenbogens. Welche sind da, und welche fehlen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors and patterns are your favorite to wear?"
+msgstr "Welche Farben und Muster ziehst du am liebsten an?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana and her parents took the doves to the clinic."
+msgstr "Fana und ihre Eltern brachten die Tauben zur Klinik."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most doctors either help people or they help animals. Which kind of doctor is at this clinic?"
+msgstr "Die meisten Ärzte helfen entweder Menschen oder Tieren. Welche Art von Arzt ist in dieser Klinik zu finden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who is the shortest person in this picture? Who is the tallest?"
+msgstr "Wer ist die kleinste Person auf diesem Bild? Wer die größte?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The red cross on the cabinet shows that it has medical supplies in it."
+msgstr "Das rote Kreuz am Schrank zeigt an, dass sich darin medizinische Versorgung befindet."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana tells her friends, \"Animals are our friends. We protect them.\""
+msgstr "Fana erzählt ihren Freunden: \"Tiere sind unsere Freunde. Wir beschützen sie.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Should we only protect our friends, or should we protect everything we can?"
+msgstr "Sollten wir nur unsere Freunde beschützen oder sollten wir alles schützen, das wir können?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Look at all the color patterns in these clothes. Point out which ones are solid, striped, or have a checkered pattern."
+msgstr "Schau dir alle Farbmuster in dieser Kleidung an. Zeige auf, welche einfarbig oder gestreift sind, oder ein Schachbrettmuster haben."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana has worn many different colors during this story. Can you remember them all?"
+msgstr "Fana hat viele verschiedene Farben in dieser Geschichte getragen. Kannst du dich an alle erinnern?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "A Very Tall Man"
-msgstr "Ein sehr grosser Mann"
+msgstr "Ein sehr großer Mann"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "This story looks at counting to 5, descriptions, and comparisons. Practice describing words: too, very, short, tall, long, low, high, big, small; color names; and comparison words: shorter, taller, longer, lower, higher, bigger, smaller"
-msgstr "Diese Geschichte sieht sich das Zählen bis 5, Beschreibungen und Vergleiche an. Übe die beschreibenden Worte: auch, sehr, kurz, hoch, lang, tief, hoch, gross, klein, dazu Farbnamen und folgende vergleichende Worte: kleiner, grösser, länger, tiefer, höher, grösser, kleiner."
+msgstr "Diese Geschichte befasst sich mit Zählen bis 5, Beschreibungen und Vergleichen. Übe die beschreibenden Worte: auch, sehr, kurz, hoch, lang, tief, hoch, groß, klein, dazu Farbnamen und folgende vergleichende Worte: kürzer, größer, länger, tiefer, höher, größer, kleiner."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Akadeli's Lucky Day"
-msgstr "Akadeli's Glückstag"
+msgstr "Akadelis Glückstag"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1719,7 +2236,7 @@ msgstr "Der Kater, der Hund und der Ball"
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has counting to 6, colors, and descriptions. Practice counting words, color names, and words: high, too, similar, different, smallest, biggest, short, tall, biggest, smallest, fewer, and more."
-msgstr "Diese Geschichte umfasst das Zählen bis 6, Farben und Umschreibungen.Übungen für das Zählen von Worten, Farbnamen und den Begriffen: hoch, auch, ähnlich, verschieden, kleinste, grösste, kurz, lang, grösst, kleinst weniger und mehr."
+msgstr "Diese Geschichte umfasst das Zählen bis 6, Farben und Umschreibungen. Übungen für das Zählen von Worten, Farbnamen und den Begriffen: hoch, auch, ähnlich, verschieden, kleinste, größte, kurz, lang, grösst, kleinst weniger und mehr."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1729,7 +2246,7 @@ msgstr "Der Kater, der Hund und der Schmetterling"
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has speed descriptions, colors, and counting to 6. Practice counting words, color words, and these words: very, too, fast, slow, faster, slower, fastest, slowest, most, and least."
-msgstr "Diese Geschichte enthält Geschwindigkeitsbeschreibungen, Farben, und Zählen bis 6. Übe das Zählen von Worten, Farbworten und die folgenden Worte: sehr, auch, schnell, langsam, schneller, am langsamsten, am schnellsten, am meisten und am wenigsten."
+msgstr "Diese Geschichte enthält Geschwindigkeitsbeschreibungen, Farben, und Zählen bis 6. Übe das Zählen von Worten, Farbworten und die folgenden Worte: sehr, auch, schnell, langsam, schneller, langsamer, am langsamsten, am schnellsten, am meisten und am wenigsten."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1739,7 +2256,7 @@ msgstr "Der Kater, der Hund und das Ei"
 #. type=data_list
 msgctxt "data_list"
 msgid "This story has counting to 5, comparing, colors, and shapes. Practice words: round, above, below, similar, round, kite, different, bigger, and longer."
-msgstr "Diese Geschichte behandelt das Zählen bis 5, Vergleichen, Farben und Formen. Übungsworte: Rund, über, unter, ähnlich, rund, Drachen, unterschiedlich, grösser und länger."
+msgstr "Diese Geschichte behandelt das Zählen bis 5, Vergleichen, Farben und Formen. Übungsworte: Rund, über, unter, ähnlich, rund, Drachen, unterschiedlich, größer und länger."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1749,7 +2266,57 @@ msgstr "Kater und Hund: Dem Hund ist kalt"
 #. type=data_list
 msgctxt "data_list"
 msgid "This story talks about extremes of describing words, and counting to 6 with one more or one less. Words to practice are: too, cold, warm, hot, light, dark, day, night, clean, dirty, small, big, short, long, wet, dry, thin, thick, low, high, new, and old."
-msgstr "In dieser Geschichte geht es um die Extreme in der Beschreibung von Worten, und ums Zählen bis 6 mit einem mehr und einem weniger. Übungsworte sind: auch, kalt, warm, heiss, leicht, dunkel, tagsüber, nachts, sauber, dreckig, klein, gross, kurz, lang, nass, trocken, dünn, dick, tief, hoch, neu und alt."
+msgstr "In dieser Geschichte geht es um die Extreme in der Beschreibung von Worten, und ums Zählen bis 6 mit einem mehr und einem weniger. Übungsworte sind: auch, kalt, warm, heiß, leicht, dunkel, tagsüber, nachts, sauber, dreckig, klein, gross, kurz, lang, nass, trocken, dünn, dick, tief, hoch, neu und alt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Clever Cat"
+msgstr "Clevere Katze"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has geometry ideas and colors. Practice words: square, rectangle, circle, concentric, open, closed, least, little, small, big, and color names."
+msgstr "Diese Geschichte enthält geometrische Begriffe und Farben. Übungswörter: Quadrat, Rechteck, Kreis, mittig, offen, geschlossen, kleinst, klein, gering, groß und Farbnamen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Colors of a Rainbow"
+msgstr "Die Farben eines Regenbogens"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story talks about the numbers to seven, the ordinals to seventh, and colors. Practice the words: one, two, three, to seven; the ordinals first, second, third, to seventh; and the many names of colors."
+msgstr "In dieser Geschichte geht es um die Nummern bis sieben, die Ordinalzahlen / Ordnungszahlen bis siebtens, und Farben. Übung der Wörter: Eins, zwei, drei, bis sieben, die Ordnungszahlen erste/r, zweite/r, dritte/r bis siebente/r und die vielen Farbnamen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Creature with Two"
+msgstr "Kreatur mit Zwei"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to seven and shapes. Practice words: small numbers, especially one and two; and comparing words such as more, equal, same, and less. Also, talk about squares, circles, solids, stripes, bigger, and smaller."
+msgstr "Diese Geschichte beinhaltet das Zählen bis sieben und Formen. Übung der folgenden Worte: Kleine Nummern, vor allem eins und zwei und das Vergleichen von Worten wie mehr, gleich, dasselbe und weniger. Sprechen sie ebenfalls über Vierecke, Kreise, feste Formen, Streifen, größer und kleiner."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Drum"
+msgstr "Die Trommel"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has patterns, sizes, and shapes. Practice words: size, big, little, medium, small, same, shape, and pattern."
+msgstr "Diese Geschichte beinhaltet Muster, Größen und Formen. Übungsworte: Größe, groß, gering, mittel, klein, gleich, Umriss und Muster."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana Loves Animals"
+msgstr "Fana liebt Tiere"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has quantities to ten, comparing, and colors. Practice words: counting to ten, most, more, less, bigger, smaller, shortest, tallest, color names, solid, striped, and checkerboard."
+msgstr "Diese Geschichte hat Mengen bis zu zehn, vergleichen, und Farben. Übe die Worte: Bis zehn zählen, am meisten, mehr, weniger, größer, kleiner, kürzeste, größte, Farbnamen, solide, gestreift und Schachbrett."
 
 #. type=data_list
 msgctxt "data_list"
