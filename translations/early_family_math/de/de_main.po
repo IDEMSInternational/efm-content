@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-10-02 03:15\n"
+"PO-Revision-Date: 2025-10-02 04:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1713,24 +1713,24 @@ msgid ""
 "\n"
 "For Dog it is too warm."
 msgstr ""
-"Es ist Tag. Es ist leicht. Es ist warm. Es ist sehr warm.\n"
+"Es ist Tag. Es ist hell. Es ist warm. Es ist sehr warm.\n"
 "\n"
 "Für den Hund ist es zu warm."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "List all the pieces of clothing Dog has on."
-msgstr "Zähle alle Kleidungsstücke, die der Hund anhat."
+msgstr "Zähle alle Kleidungsstücke, die der Hund an hat."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "What is Dog doing with his right hand? What motion do you use to try to cool off?"
-msgstr "Was macht der Hund mit seiner rechten Hand? Welche Bewegung benützt du um zu versuchen, abzukühlen?"
+msgstr "Was macht der Hund mit seiner rechten Hand? Welche Bewegung machst du, um zu versuchen, dich abzukühlen?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Are Dog's clothes finally making him warm, or too warm?"
-msgstr "Geben die Kleider des Hundes ihm endlich warm, oder zu warm?"
+msgstr "Halten die Kleider des Hundes ihn endlich warm, oder zu warm?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1741,12 +1741,12 @@ msgid ""
 msgstr ""
 "Tschüss Kater.\n"
 "\n"
-"Tschüss heisser Hund."
+"Tschüss heißer Hund."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Count Cat's whiskers. How many whiskers does Dog have?"
-msgstr "Zähle die Schnurrhaare des Katers. Wieviele Schnurrhaare hat der Hund?"
+msgstr "Zähle die Schnurrhaare des Katers. Wie viele Schnurrhaare hat der Hund?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1756,7 +1756,247 @@ msgstr "Wer hat mehr Schnurrhaare – Kater oder Hund? Sie haben dieselbe Anzahl
 #. type=data_list
 msgctxt "data_list"
 msgid "In the end, how many pieces of clothing does Dog have? Too many!"
-msgstr "Am Ende hat der Hund wie viele Kleidungsstücke? Zuviele!"
+msgstr "Am Ende hat der Hund wie viele Kleidungsstücke? Zu viele!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In my village lives Mister Kio. Mister Kio has a cat called Safi."
+msgstr "In meinem Dorf lebt Herr Kio. Herr Kio hat eine Katze Namens Safi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point out and name each of the strong colors on this page."
+msgstr "Zeige auf und benenne jede kräftige Farbe auf dieser Seite."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which has the least number of legs -- the table, Mr. Kio, or Safi?"
+msgstr "Wer hat weniger Beine – der Tisch, Herr Kio, oder Safi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many of Safi's legs can you see? How many can't you see?"
+msgstr "Wie viele Beine von Safi kannst du sehen? Wie viele kannst du nicht sehen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio goes to work, he leaves the door open."
+msgstr "Wenn Herr Kio arbeiten geht, lässt er die Türe offen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are the two things that used to be hanging on the pegs by the door?"
+msgstr "Wo sind die zwei Dinge, die an der Wäscheklammer bei der Türe gehangen haben?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that Safi looks happy when Mr. Kio leaves?"
+msgstr "Siehst du, wie glücklich Safi aussieht, als Herr Kio weggeht?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is odd that  Mr. Kio leaves the door open when he leaves."
+msgstr "Es ist seltsam, dass Herr Kio die Türe offen lässt wenn er geht."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi sits in the doorway to watch over the house."
+msgstr "Safi sitzt im Türbogen, um das Haus zu bewachen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A square is a shape like this page that has four equal sides. This floor is tiled with square tiles."
+msgstr "Ein Viereck ist eine Form wie diese Seite mit vier gleichen Seiten. Dieser Boden ist gefliest mit viereckigen Fliesen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have tiles where you live? If so, what shape are they?"
+msgstr "Gibt es Fliesen, wo du lebst? Wenn ja, welche Form haben sie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi like being a house watcher?"
+msgstr "Gefällt es Safi, das Haus zu bewachen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When the neighbor's dog comes close, Safi scares him away."
+msgstr "Wenn der Hund des Nachbars naht, schreckt ihn Safi weg."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is trying to scare the dog?"
+msgstr "Wie erkennst du, dass Safi den Hund erschrecken will?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the circles of colors and name the colors. Those circles aren't really in the house."
+msgstr "Zeige auf die farbigen Kreise und benenne die Farben. Diese Kreise sind nicht wirklich im Haus."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Circles that share the same central point are called \"concentric.\""
+msgstr "Kreise mit demselben Mittelpunkt nennt man \"konzentrisch.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog runs away."
+msgstr "Der Hund rennt weg."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the dog feeling?"
+msgstr "Was fühlt der Hund?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal is bigger, the cat or the dog?"
+msgstr "Welches Tier ist größer, die Katze oder der Hund?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These bands of color going from yellow to orange give a sense of motion. Compare this to the concentric circles on the previous page."
+msgstr "Diese Farbbänder von gelb zu orange geben dem Bild eine Art Bewegung. Vergleiche dies mit den konzentrischen Kreisen der vorherigen Seite."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When a neighbor knocks at the door, Safi is ready to scratch."
+msgstr "Wenn ein Nachbar an der Tür klopft, ist Safi bereit zu kratzen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell that Safi is being scary? Is the neighbor scared?"
+msgstr "Wie bemerkst du, dass Safi Angst hat? Ist der Nachbar verängstigt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does the neighbor need to be scared away, or is Safi doing too much?"
+msgstr "Muss der Nachbar verscheucht werden oder macht Safi zu viel?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and name different things in this picture that are in a group of 2, 3, or 4."
+msgstr "Zeige auf und benenne die verschiedenen Dinge in diesem Bild, die in Gruppen von 2, 3 oder 4 vorkommen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor turns and runs away."
+msgstr "Der Nachbar dreht um und rennt weg."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at the neighbor's clothes, what is her favorite color?"
+msgstr "Wenn man sich die Kleidung der Nachbarin ansieht, was ist wohl ihre Lieblingsfarbe?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite color?"
+msgstr "Was ist deine Lieblingsfarbe?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The neighbor is frightened by Safi. Have you ever been frightened by a cat or other small animal?"
+msgstr "Der Nachbar hat Angst vor Safi. Hattest du jemals Angst vor einer Katze oder einem kleinen Tier?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Safi is hungry, she closes the door."
+msgstr "Wenn Safi Hunger hat, schließt sie die Türe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi should just close the door as soon as Mr. Kio leaves."
+msgstr "Safi sollte einfach die Türe schließen, sobald Herr Kio weggeht."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is little Safi big enough to close that big door?"
+msgstr "Ist die kleine Safi groß genug, um diese große Tür zu schließen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After the door closes, will Safi be able to reach the handle and open it?"
+msgstr "Wenn die Tür sich schließt, wird Safi fähig sein, die Klinke zu betätigen und die Tür zu öffnen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safi eats her food."
+msgstr "Safi frisst ihre Nahrung."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the straight and curved lines in this picture."
+msgstr "Zeige auf die geraden und gebogenen Linien in diesem Bild."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Does Safi look happy to be eating? Do you like to eat your food?"
+msgstr "Sieht Safi glücklich aus, während sie frisst? Isst du gerne dein Essen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you wait to eat if you were left with a plate of food you liked?"
+msgstr "Würdest du mit dem Essen warten wollen, wenn man dich mit einem Teller Nahrung, die du magst, alleine lassen würde?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Afterwards, Safi jumps onto the sofa and sleeps, \"Purr! Purr! Purr!\""
+msgstr "Danach springt Safi auf das Sofa und schläft. \"Schnurr! Schnurr! Schnurr!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sometimes people feel sleepy after eating and sometimes it gives them fresh energy. What does it do to you?"
+msgstr "Manchmal werden Leute nach dem Essen müde und legen sich hin und manchmal bekommen sie so neue Energie. Was macht es mit dir, wenn du dich kurz hinlegst?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is Safi dreaming? If so, what do you think Safi is dreaming about?"
+msgstr "Träumt Safi? Wenn ja, wovon, denkst du, träumt sie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of the things you dream about?"
+msgstr "Was sind Dinge, von denendu träumst?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mister Kio returns, Safi stretches happily and welcomes him home."
+msgstr "Wenn Herr Kio zurückkommt, streckt sich Safi zufrieden und heißt ihn willkommen zuhause."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the beautiful circle inside the orange square."
+msgstr "Zeige auf den schönen Kreis im orangen Viereck."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have some circles and squares where you are?"
+msgstr "Hast du ein paar Kreise und Vierecke wo du bist?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point together at the white circles Safi has on her back and belly."
+msgstr "Zeige auf die weißen Kreise, die Safi auf ihrem Rücken und Bauch hat."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mister Kio and Safi sit down, and each of them reads the newspaper."
+msgstr "Herr Kio und Safi setzen sich, und sie lesen beide die Zeitung."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is warm and cozy. Do cats read the newspaper?"
+msgstr "Es ist warm und gemütlich. Lesen Katzen die Zeitung?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a shape with four straight sides with corners like this page. Point at the rectangles you see in this picture and around you."
+msgstr "Ein Rechteck ist eine Form mit vier geraden Linien mit Ecken wie diese Seite. Zeige auf die Rechtecke, die du auf diesem Bild und um dich herum siehst."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
+msgstr "Die meisten Papiere sind rechteckig. Herrn Kios Papier ist seltsam geformt."
 
 #. type=data_list
 msgctxt "data_list"
