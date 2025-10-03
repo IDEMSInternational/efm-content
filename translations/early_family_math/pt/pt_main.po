@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-10-02 23:44\n"
+"PO-Revision-Date: 2025-10-03 01:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -24612,6 +24612,11 @@ msgstr ""
 "**Passo 38: Iniciando a Multiplicação** Introduza de forma suave as palavras \"multiplicar\" e \"vezes\" para descrever o ato de dobrar e a contagem pulando números.\n"
 "**Passo 39: Multiplicando de 1 a 5 por 1 a 5** Neste ponto, seu filho sabe todos os fatos da multiplicação de 1 a 5.\n"
 "**Passo 40: Jogos de Estratégia II** Discuta ideias mais profundas sobre jogos de estratégia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.1 Counting to 100"
+msgstr "Passo 31: Contando até 100"
 
 #. type=data_list
 msgctxt "data_list"
