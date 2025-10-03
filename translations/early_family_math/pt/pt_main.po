@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-10-03 03:55\n"
+"PO-Revision-Date: 2025-10-03 12:18\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26222,6 +26222,42 @@ msgstr "Você acha que Bebê Elefante deveria ser amiga de Corvo novamente?"
 msgctxt "data_list"
 msgid "Make up a story like this that explains how the giraffe got such a long neck."
 msgstr "Faça uma história como esta que explique como a girafa ficou com um pescoço tão longo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 Overview"
+msgstr "Etapa 1: Eu Consigo te Ouvir!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 1 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 1 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"Esta Etapa começa tão cedo quanto aos 4 meses de idade. Expor seu filho a todos os tipos de experiências é muito importante. Comece a conversar com seu filho mesmo que ele não demonstre sinais externos de que o compreende. Crie o hábito de apontar e descrever todo tipo de coisas. À medida que seu filho começar a reagir às suas palavras, comece a misturar perguntas para que ele responda.\n"
+"\n"
+"Quando seu filho começar a entender que os objetos têm propriedades, comece a apontar as propriedades que tornam as coisas semelhantes ou diferentes. Essas propriedades também são úteis para brincar com padrões. Finalmente, comece a descrever as formas em termos de suas muitas propriedades."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-1"
+msgstr "Encontro Para Brincar 1: Conversa sobre Matemática – Desde Cedo e com Frequência"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects."
+msgstr "**Foco do encontro:** Use a Conversa sobre Matemática para apontar e descrever objetos para seu filho. Fale sobre as propriedades desses objetos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has color words."
+msgstr "Esse livro tem nomes de cores."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the properties of things."
+msgstr "Essas atividades abordam as propriedades das coisas cotidianas."
 
 #. type=global
 msgctxt "global"
