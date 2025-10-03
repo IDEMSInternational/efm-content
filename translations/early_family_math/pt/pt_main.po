@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-10-03 14:47\n"
+"PO-Revision-Date: 2025-10-03 19:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26494,6 +26494,16 @@ msgstr "Esse livro contém os números de 1 a 7. Ele também contém descriçõe
 msgctxt "data_list"
 msgid "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
 msgstr "Essas atividades envolvem muita contagem e pequenas quantidades. Uma atividade também envolve a adição ou a subtração de 1 e 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-3"
+msgstr "Encontro Para Brincar 13: Comparando pequenas quantidades"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Understand strategies for comparing small numbers and quantities."
+msgstr "**Foco do encontro:** Entender estratégias para comparar números e pequenas quantidades."
 
 #. type=global
 msgctxt "global"
