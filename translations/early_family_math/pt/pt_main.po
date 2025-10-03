@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-10-03 19:42\n"
+"PO-Revision-Date: 2025-10-03 23:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -27607,6 +27607,11 @@ msgstr "Etapa"
 msgctxt "template"
 msgid "Language"
 msgstr "Idioma"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Continuar"
 
 #. type=tour
 msgctxt "tour"
