@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-09-08 15:17\n"
+"PO-Revision-Date: 2025-10-17 23:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26397,6 +26397,12 @@ msgid "**Beginning Storybooks**"
 msgstr "**초급 동화책**"
 
 #. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
+
+#. type=template
 msgctxt "template"
 msgid "**Intermediate Storybooks**"
 msgstr "**중급 동화책**"
@@ -26734,6 +26740,11 @@ msgstr "단계"
 msgctxt "template"
 msgid "Language"
 msgstr "언어"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "계속하기"
 
 #. type=tour
 msgctxt "tour"
