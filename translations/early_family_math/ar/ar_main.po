@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-09-08 15:17\n"
+"PO-Revision-Date: 2025-10-19 22:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26085,6 +26085,12 @@ msgstr "المتقدم"
 msgctxt "template"
 msgid "**Beginning Storybooks**"
 msgstr "**قصص البداية**"
+
+#. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
 
 #. type=template
 msgctxt "template"
