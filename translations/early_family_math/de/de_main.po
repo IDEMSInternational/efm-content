@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-10-23 22:01\n"
+"PO-Revision-Date: 2025-10-23 23:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -368,6 +368,166 @@ msgstr "Mit weniger Bällen als Tieren müssen die Tiere gut darin sein, zu teil
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Look at the animals."
+msgstr "Schau, die Tiere."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count and name together all the animals you see."
+msgstr "Zähle und benenne alle Tiere, die du siehst."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are all the animals looking at?"
+msgstr "Was sehen sich all die Tiere an?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do the animals want something from the farmer?"
+msgstr "Wollen die Tiere etwas vom Bauern?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow says, \"Moo.\""
+msgstr "Die Kuh sagt: “Muh.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cow is looking at an empty trough. What do you think \"Moo\" means?"
+msgstr "Die Kuh schaut auf einen leeren Trog. Was, meinst du, bedeutet \"Muh\"?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?"
+msgstr "Wenn du nur ein Wort hast (\"Muh\"), kannst du es auf verschiedene Arten sagen, damit es verschiedene Dinge bedeutet. Was, meinst du, will die Kuh?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some of the cow's black spots are small and some are large. Count how many spots the cow has."
+msgstr "Einige der schwarzen Flecken auf dem Rücken der Kuh sind klein und manche sind groß. Zähle auf, wie viele Flecken die Kuh hat."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The goat says, \"Meh, meh.\""
+msgstr "Die Ziege sagt: \"Mäh, mäh.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is the goat looking at the drip of water from the faucet?"
+msgstr "Warum schaut die Ziege auf das tropfende Wasser vom Wasserhahn?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the goat thirsty, hungry, or both?"
+msgstr "Ist die Ziege durstig, hungrig oder beides?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns does a goat have? Name some other animals that have two hard things growing on their head."
+msgstr "Wie viele Hörner hat eine Ziege? Benenne andere Tiere die zwei harte Dinge haben, die auf ihren Köpfen wachsen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse says, \"Neigh.\""
+msgstr "Das Pferd sagt: \"Wieher.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The horse is also looking at an empty trough. What is the horse pointing at with its front left leg?"
+msgstr "Das Pferd sieht auch auf einen leeren Trog. Wohin zeigt das Pferd mit seinem vorderen linken Bein?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the horse's legs. Can you think of a farm animal that has only two legs?"
+msgstr "Zähle die Beine des Pferdes zusammen. Kannst du an ein Bauernhoftier denken mit nur zwei Beinen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there animals that have any other number of legs than two or four? What about insects or spiders? -- do you know how many legs they have?"
+msgstr "Gibt es Tiere mit einer anderen Anzahl Beinen als zwei oder vier? Wie steht es mit Insekten oder Spinnen? – Weißt du wie viele Beine diese haben?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The pig says, \"Grunt.\""
+msgstr "Das Schwein sagt, \"Grunz.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people think that pigs say \"Oink.\" What do you think they say?"
+msgstr "Manche Leute denken, dass Schweine \"Oink.\" sagen. Was denkst du, sagen sie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The pig has two ears, two eyes, and two nostrils. Imagine what it would be like if it had two mouths!"
+msgstr "Das Schwein hat zwei Ohren, zwei Augen und zwei Nasenlöcher. Stell dir vor, was wäre, wenn es zwei Münder hätte!!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the posts that make up the fence in front of the pig."
+msgstr "Zähle die Pfosten zusammen, die den Zaun vor dem Schwein ausmachen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The chicken says, \"Cluck.\""
+msgstr "Das Huhn sagt, \"Gock.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A chicken is a farm animal with just two legs. Are there any others?"
+msgstr "Ein Huhn ist ein Bauernhoftier mit nur zwei Beinen. Gibt es noch andere davon?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the baby chicks and count how many chickens there are all together."
+msgstr "Zähle die Küken und zähle alle Hühner die es gibt zusammen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One more than three makes how many?"
+msgstr "Wie viel macht eins mehr als drei?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog says, \"Woof.\""
+msgstr "Der Hund sagt, \"Wuff.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The dog bowl is empty and the dog looks hungry."
+msgstr "Der Hundenapf ist leer und der Hund sieht hungrig aus."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of bags by the fence."
+msgstr "Zähle die Taschen beim Zaun zusammen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of tines on the rake in the corner. Can you find other things to count?"
+msgstr "Zähle die Anzahl Zacken am Rechen in der Ecke zusammen. Findest du noch andere Dinge zum Zusammenzählen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The farmer says, \"Shhh!\""
+msgstr "Der Bauer sagt, \"Shhh!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does the farmer say \"Shhh?\"  Is the farmer tired of being pestered by the animals?"
+msgstr "Warum sagt der Bauer \"Shhh?\"  Ist der Bauer es Leid, von den Tieren gestört zu werden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the animals waiting for?"
+msgstr "Worauf warten die Tiere?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals are waiting for their food?"
+msgstr "Wie viele Tiere warten auf ihre Nahrung?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "The Izinzawu family was a happy family. The children learned cooking, gardening, and hunting from their parents."
 msgstr "Die Izinzawu-Familie war eine glückliche Familie. Die Kinder lernten zu kochen, gärtnern und jagen von ihren Eltern."
 
@@ -606,6 +766,178 @@ msgstr "Es sind sechs Menschen in der Izinzawu Familie. Wenn du einen mehr für 
 msgctxt "data_list"
 msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
 msgstr "Wenn du diese sieben Personen nach Höhe, den kleinsten links und den größtenrechts stellen würdest, was wäre die Reihenfolge? Beschreibe diese Reihenfolge, indem du die Farben ihrer Kleidung benutzt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My sister's dress is too big for me!"
+msgstr "Die Kleidung meiner Schwester ist zu groß für mich!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you sometimes wear someone else's clothes? Is it fun to imagine you are that other person when you do it?"
+msgstr "Trägst du manchmal die Kleidung von jemand anderem? Macht es Spaß, dir vorzustellen, du wärst diese andere Person, wenn du sie trägst?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell the dress and belt are too big?"
+msgstr "Woran erkennst du, dass das Kleid und der Gürtel zu groß sind?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. Point to rectangles in the picture. Do you see any rectangles where you are?"
+msgstr "Ein Rechteck ist eine vierseitige Form wie diese Seite. Zeige auf Rechtecke im Bild. Gibt es Rechtecke, dort wo du bist?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My brother's jersey is also too big for me."
+msgstr "Das Trikot meines Bruders ist auch zu groß für mich."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at her face, how does she feel about having a jersey that is too big?"
+msgstr "Wenn du dir ihr Gesicht anschaust, wie fühlt sie sich darüber, ein Trikot zu haben, das zu groß ist?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the orange dress she has on the right size for her?"
+msgstr "Passt ihr das orangefarbene Kleid?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the new rectangles in this picture."
+msgstr "Beachte die neuen Rechtecke in diesem Bild."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"My bag is big.\n"
+"\n"
+"But not too big!"
+msgstr ""
+"Meine Tasche ist groß.\n"
+"\n"
+"Aber nicht zu groß!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is this bag too big for her?"
+msgstr "Ist diese Tasche zu groß für sie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the clasps on the bag."
+msgstr "Zähle die Schnallen an der Tasche zusammen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What would you put in this bag if it were yours?"
+msgstr "Was würdest du in diese Tasche packen, wenn es deine wäre?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This old belt is too small for me."
+msgstr "Dieser alte Gürtel ist zu klein für mich."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why might this child's old belt from when she was younger be too small for her?"
+msgstr "Warum ist wohl dieser alte Gürtel aus ihrer frühen Kindheit zu klein für sie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What does the expression on her face tell you about how she is feeling about the belt?"
+msgstr "Was sagt der Ausdruck auf ihrem Gesicht darüber, wie sie sich wegen dem Gürtel fühlt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many pieces of clothing has she tried on?"
+msgstr "Wie viele Kleidungsstücke hat sie anprobiert?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is my doll's hat."
+msgstr "Dies ist der Hut meiner Puppe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the fourth piece of clothing that is a bad fit for her. How does she feel about it? Do you think she is feeling discouraged?"
+msgstr "Dies ist das vierte Kleidungsstück, das ihr nicht passt. Wie fühlt sie sich dabei? Denkst du, sie fühlt sich entmutigt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of pieces of wood that make up the back of the chair."
+msgstr "Zähle die Anzahl Holzstücke zusammen, die die Rückenlehne des Stuhls ausmachen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She has two eyes, ears, and arms, but only one mouth and nose. Where do the body parts that she has one of line up on her body?"
+msgstr "Sie hat zwei Augen, Ohren und Arme, aber nur einen Mund und eine Nase. Wo befinden sich die Körperteile, von denen sie eins hat, an ihrem Körper?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"My socks are the right size.\n"
+"\n"
+"But the wrong color!"
+msgstr ""
+"Meine Socken haben die richtige Größe.\n"
+"\n"
+"Aber die falsche Farbe!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Including her hair ties, which colors is she wearing?"
+msgstr "Wenn du ihre Haarbänder dazuzählst, welche Farben trägt sie dann?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think her socks are the wrong color?"
+msgstr "Findest du, dass ihre Socken die falsche Farbe haben?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The picture of the chair is made up of several rectangles. How many can you find?"
+msgstr "Die Darstellung des Stuhls ist aus verschiedenen Rechtecken gebildet. Wie viele kannst du finden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These are my new shoes."
+msgstr "Dies sind meine neuen Schuhe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After all the other clothes, do you think these shoes will fit?"
+msgstr "Meinst du, die Schuhe werden passen, nach all den anderen Kleidern?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where did she go?"
+msgstr "Wo ist sie hingegangen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These shoes must be in a different room -- the door and windows are a different color. What colors were they before?"
+msgstr "Diese Schuhe müssen in einem anderen Raum sein – die Türe und Fenster haben eine andere Farbe. Welche Farben hatten sie vorher?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They fit me very well."
+msgstr "Sie passen mir sehr gut."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is her hat the same as her doll's hat? Does it seem too small to you?"
+msgstr "Ist ihr Hut derselbe wie der Hut der Puppe? Scheint er dir zu klein zu sein?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she needs a belt with her dress?"
+msgstr "Denkst du, sie braucht einen Gürtel mit ihrem Kleid?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is she ready for school now?"
+msgstr "Ist sie jetzt bereit für die Schule?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1658,6 +1990,161 @@ msgstr "Ich spiele Fußball mit Zizo."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Count the fingers on Zizo's left hand. Is Zizo missing a finger, or was the artist being careless again?"
+msgstr "Zähle die Finger an Zizos linker Hand. Fehlt Zizo ein Finger oder war der / die Zeichnerin wieder unachtsam?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people are born with six fingers on a hand. What is one less than six? What is two less than six? How many fingers seems like a good number to you?"
+msgstr "Es gibt Leute, die mit sechs Fingern an einer Hand geboren wurden. Was ist eins weniger als sechs? Was sind zwei weniger als sechs? Wie viele Finger scheinen für dich eine gute Anzahl zu sein?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Zizo has a solid shirt with striped socks, while Simo has a striped shirt with solid socks. Which way do you like better?"
+msgstr "Zizo hat ein einfarbiges Hemd mit gestreiften Socken an, während Simo ein gestreiftes Hemd mit einfarbigen Socken anhat. Was findest du besser?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I swim with Lele."
+msgstr "Ich schwimme mit Lele."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the fingers on Lele's left hand. She has one more finger than she had before! Did she grow a finger?"
+msgstr "Zähle die Finger an Leles linker Hand. Sie hat einen Finger mehr als zuvor! Ist ihr ein Finger gewachsen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about the shades of green in this picture. Some shades are darker, some yellower, and some bluer."
+msgstr "Rede über die Grüntöne auf diesem Bild. Einige Töne sind dunkler, einige gelber, und einige blauer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lele is swimming with a buddy now -- that is much safer (and more fun)!"
+msgstr "Lele schwimmt jetzt mit einem Kumpel — das ist viel sicherer (und lustiger)!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I play hide-and-seek with Sisa."
+msgstr "Ich spiele Verstecken mit Sisa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Simo take his shoes off?"
+msgstr "Warum hat Simo seine Schuhe ausgezogen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who do you think is hiding and who is seeking in this picture?"
+msgstr "Wer, denkst du, versteckt sich, und wer ist auf der Suche in diesem Bild?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of these two can hide better in this place -- whose clothes blend in better with the surrounding colors?"
+msgstr "Welcher von diesen Zweien kann sich besser verstecken an diesem Ort – wessen Kleidung fügt sich besser mit den umgebenden Farben ein?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Come, friend, what do you like?"
+msgstr "Komm, Freund, was magst du?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some of your favorite activities?"
+msgstr "Was sind einige deiner Lieblingsaktivitäten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the different activities in this story. Of these, which one would you pick?"
+msgstr "Zähle die verschiedenen Aktivitäten in dieser Geschichte zusammen. Welchen würdest du dir aus diesen aussuchen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There were four activities and you picked your favorite. What is one less than four? Of the remaining activities, which one is your least favorite?"
+msgstr "Es gab vier Aktivitäten und du hast deine Lieblingsaktivität ausgesucht. Was ist einer weniger als vier? Welche der verbleibenden Aktivitäten magst du am wenigsten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Come, play soccer with us."
+msgstr "Komm, spiel Fußball mit uns."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are they playing on teams, or are they just kicking the ball around?"
+msgstr "Spielen sie in Teams oder kicken sie nur den Ball herum?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five people. Can you split them into two teams with the same number of people?"
+msgstr "Es gibt fünf Leute. Kannst du sie in zwei Teams aufteilen mit derselben Anzahl an Leuten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Whose shoes are the worst for playing soccer?"
+msgstr "Wessen Schuhe sind die schlechtesten, um Fußball zu spielen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Come, swim with us."
+msgstr "Komm, schwimm mit uns."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two pairs of children and one child alone. Can you put them all into pairs so no one is left out?"
+msgstr "Es sind zwei Paare von Kindern und ein alleiniges Kind. Kannst du sie alle in Paare aufteilen, so dass keines ausgelassen ist?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A number is said to be \"odd\" if there is no way of splitting that many things into pairs. It is also \"odd\" if that number of things cannot be split into two equal groups."
+msgstr "Man sagt von einer Nummer, sie sei \"ungerade\", wenn es keine Möglichkeit gibt, so viele Dinge in Paare zu trennen. Es ist auch \"ungerade\", wenn diese Anzahl nicht in zwei gleiche Gruppen teilbar ist."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are the two ideas for \"odd\" the same? Why is being able to split something into pairs the same as being able to split it into two equal groups?"
+msgstr "Warum sind die zwei Ideen für \"ungerade\" dasselbe? Warum ist etwas in Paare teilen dasselbe wie es in zwei gleiche Gruppen zu teilen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Come, play hide-and-seek with us."
+msgstr "Komm, spiele Verstecken mit uns."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like Simo is \"it.\" Will he have a hard time finding the other children?"
+msgstr "Es sieht aus wie wenn Simo der Zähler ist. Wird es ihm schwerfallen, die anderen Kinder zu finden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the children on top of the branch and the number hiding on the other side of the tree. Do they add up to four children?"
+msgstr "Zähle die Kinder zuoberst auf dem Ast und die Anzahl, die sich auf der anderen Seite des Baumes versteckt. Sind es insgesamt vier Kinder?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There is one in the tree, one counting, and three behind the tree. You can get five in many ways from this. One way is to start with three, add one more, and then add one more. Think together of other ways to get five."
+msgstr "Einer ist im Baum, Einer zählt und Drei sind hinter dem Baum. Du kannst aus diesem in vielerlei Art auf Fünf kommen. Eine davon ist, mit Drei zu beginnen, eins dazuzuzählen und dann einen mehr zu addieren. Denke dir andere Wege aus, um fünf zu erreichen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Come, read with us!"
+msgstr "Komm, lies mit uns!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One person is reading alone, and the rest are reading in pairs."
+msgstr "Eine Person liest alleine, und der Rest liest in Zweiergruppen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They all seem very happy together, no matter which activity they do. Do you have some friends you like to do things with?"
+msgstr "Sie scheinen alle sehr glücklich zusammen zu sein, welche Aktivität sie auch immer tun. Hast du Freunde, mit denen du gerne zusammen etwas unternimmst?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of the children only has four fingers on a hand -- which one?"
+msgstr "Eines der Kinder hat nur vier Finger an einer Hand – welches?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "His hoe was too short."
 msgstr "Seine Hacke war zu klein."
 
@@ -1881,6 +2368,266 @@ msgstr "Zähle mit deinem Kind die Sprossen auf der Leiter."
 msgctxt "data_list"
 msgid "Notice that the bird is yellow again!"
 msgstr "Beachte: der Vogel ist wieder gelb."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is Ndalo."
+msgstr "Das ist Ndalo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Identify together the kinds of animals you see and count each type."
+msgstr "Identifiziere alle Arten von Tieren, die du siehst, und zähle jede Art auf."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which type of animal in this picture is there the most of?"
+msgstr "Von welcher Art Tier gibt es auf diesem Bild am meisten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buttons on Ndalo's shirt."
+msgstr "Zähle die Knöpfe auf Ndalos Hemd."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod the toad was tired of living in water."
+msgstr "Mod, die Kröte, war es satt, im Wasser zu leben."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why do you think Mod was tired of water?"
+msgstr "Warum, denkst du, hatte Mod das Wasser satt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod has four \"fingers\" on each leg. Who has more fingers -- you or Mod? How many more?"
+msgstr "Mod hat vier \"Finger\" an jedem Bein. Wer hat mehr Finger – Du oder Mod? Wie viele mehr?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With four fingers on each leg, how many fingers does Mod have all together? You can count them by 1's, 2's, or 4's. Is it too high for you to count?"
+msgstr "Mit vier Fingern an jedem Bein, wie viele hat Mod insgesamt? Du kannst sie zählen in 1ern, 2ern, oder 4ern. Ist es zu hoch zum Zusammenzählen für dich?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Be careful, said the turtle. \"Your skin will dry out.\""
+msgstr "\"Sei vorsichtig\", sagte die Schildkröte. \"Deine Haut wird austrocknen.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why don't turtles worry about their skin drying out?"
+msgstr "Warum sorgen sich Schildkröten nicht darum, dass ihre Haut austrocknet?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think a big turtle would be able to climb onto a narrow log like that?"
+msgstr "Denkst du, eine große Schildkröte könnte auf so einen schmalen Baumstamm klettern?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think toads and turtles talk to each other?"
+msgstr "Denkst du, Kröten und Schildkröten reden miteinander?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But Mod was curious. She hopped away."
+msgstr "Aber Mod war neugierig. Sie hüpfte weg."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod looks very excited to be going on an adventure!"
+msgstr "Mod sieht sehr begeistert dafür aus, auf ein Abenteuer zu gehen!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever done something even though you were told it was a bad idea? Were you glad you did it?"
+msgstr "Hast du jemals etwas getan, obwohl man dir gesagt hat, es wäre eine schlechte Idee? Warst du froh darüber, es getan zu haben?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mod had ever been out of the river before? Are there places you would like to explore?"
+msgstr "Denkst du, Mod war jemals schon draußen auf dem Fluss gewesen? Gibt es Orte, die du erkunden möchtest?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She looked all around."
+msgstr "Sie schaute rund umher."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the trees in the background behind Mod."
+msgstr "Zähle die Bäume im Hintergrund hinter Mod."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it easier for you to count the trees one at a time or to count them by 2's?"
+msgstr "Ist es einfacher für dich, die Bäume einer nach dem anderen zu zählen oder sie in 2ern zu zählen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice the shades of colors. Mod's colors go from light yellow to dark brown. The grass goes from very light yellow to the yellow greens of the tree tops to the darker shades directly beneath the tree canopy."
+msgstr "Bemerke die Farbtöne. Mods Farben reichen von hellgelb bis dunkelbraun. Das Gras reicht von sehr hellem Gelb zu den gelben Grüntönen der Baumkronen bis zu den dunkleren Tönen direkt neben dem Baumkronendach."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She met a purple chameleon next to a puddle of water."
+msgstr "Sie traf ein violettes Chamäleon neben einer Wasserlache."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod looks surprised to see the chameleon!"
+msgstr "Mod wirkt überrascht, das Chamäleon zu sehen!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is the chameleon holding that bug? Do you eat insects sometimes?"
+msgstr "Warum hält das Chamäleon diesen Käfer? Isst du manchmal Insekten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the bugs flying around. If you add one more for the one the chameleon is holding, how many does that make in total?"
+msgstr "Zähle die Käfer, die umherschwirren. Wenn du noch eins zu dem hinzufügst, das das Chamäleon hält, wie viele macht das dann insgesamt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The chameleon started turning pink! Mod jumped away."
+msgstr "Das Chamäleon begann, pink zu werden! Mod sprang weg."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Chameleons and some other animals can change colors to blend in."
+msgstr "Chamäleons und einige andere Tiere können ihre Farbe ändern, um sich ihrer Umgebung anzupassen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think this chameleon is blending in?"
+msgstr "Denkst du, dieses Chamäleon tarnt sich gut?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think Mod knew the chameleon could change colors? Mod looks surprised and afraid!"
+msgstr "Denkst du, Mod wusste, dass das Chamäleon die Farbe wechseln kann? Mod sieht überrascht und verängstigt aus!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Then she saw a hyena starting a fire."
+msgstr "Dann sah sie eine Hyäne, die ein Feuer machte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It's silly to think that hyenas go around starting fires with torches."
+msgstr "Es ist albern zu denken, dass Hyänen mit Fackeln herumlaufen und Feuer legen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If they could do it, why would they want to?"
+msgstr "Wenn sie es könnten, warum würden sie es wollen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hyenas are sometimes described as bad characters in stories. Do you think hyenas would go to all the trouble to start a fire just to be mean?"
+msgstr "Hyänen werden manchmal in Geschichten als schlechte Charaktere beschrieben. Denkst du, Hyänen würden durch all diese Schwierigkeiten gehen und ein Feuer machen, nur um böse zu sein?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fire spread around Mod. She was afraid."
+msgstr "Das Feuer verbreitete sich um Mod. Sie hatte Angst."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen or been near a big wildfire? If so, how did you feel about it?"
+msgstr "Hast du jemals einen großen Waldbrand gesehen? Wenn ja, wie fühltest du dich dabei?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did Mod pick a good place to hide?"
+msgstr "Hat sich Mod einen guten Platz ausgesucht, um sich zu verstecken?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think will happen to Mod -- is Mod in a safe place?"
+msgstr "Was, denkst du, wird ihr geschehen – ist sie an einem sicheren Ort?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The fire burned her skin. She jumped back, into the puddle."
+msgstr "Das Feuer brannte auf ihrer Haut. Sie sprang zurück in die Pfütze."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Getting burned hurts a lot! Have you ever been burned or known someone who was?"
+msgstr "Sich zu verbrennen schmerzt sehr! Hast du dich jemals verbrannt oder kennst du jemanden, der sich verbrannt hat?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did Mod cover her eyes?"
+msgstr "Warum bedeckte Mod ihre Augen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding something cool to put on your wound is often a very good idea to stop further burning inside the wound."
+msgstr "Etwas kühles auf die Wunde zu legen ist oft eine sehr gute Idee, um weitere Verbrennungen in der Wunde zu stoppen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "But her skin was already full of blisters."
+msgstr "Aber ihre Haut war schon voller Brandblasen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Mod splashed, what shape were the ripples in the water around where Mod went in?"
+msgstr "Als Mod planschte, welche Form hatten die Wellen im Wasser, wo Mod hineinging?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever watched the ripples a stone makes when it falls into quiet water?"
+msgstr "Hast du jemals die Wellen, die ein Stein macht, wenn er in ruhiges Wasser fällt, gesehen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Those ripples are circles that have a common center point. Such circles are called concentric."
+msgstr "Diese Wellen sind Kreise, die einen gemeinsamen Mittelpunkt haben. Solche Kreise nennt man konzentrisch."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mod found a home under a rock. Her new skin was dry and rough."
+msgstr "Mod fand ein Zuhause unter einem Stein. Ihre neue Haut war trocken und rau."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Even if things did not go so well, she had some interesting experiences. Do you think Mod regrets her adventure?"
+msgstr "Auch wenn die Dinge nicht so gut liefen, hatte sie ein paar interessante Erlebnisse. Meinst du, Mod bereut ihr Abenteuer?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think toads have homes with doors, windows, and tables?"
+msgstr "Denkst du, Kröten haben Häuser mit Türen, Fenstern und Tischen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like Mod has three fingers now. Is that more or less than she had before?"
+msgstr "Es sieht aus, als hätte Mod jetzt drei Finger. Ist das mehr oder weniger, als sie zuvor hatte?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now only frogs have smooth skin and live near water."
+msgstr "Nun haben nur Frösche zarte Haut und nur sie leben in der Nähe des Wassers."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you know that there are differences between frogs and toads?"
+msgstr "Wusstest du, dass es Unterschiede gibt zwischen Fröschen und Kröten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen a frog or toad? Could you tell which one it was?"
+msgstr "Hast du jemals eine Kröte oder einen Frosch gesehen? Konntest du erkennen, was es war?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever gone to a pond, river, or lake to explore water life?"
+msgstr "Bist du jemals zu einem Teich, Fluss oder See gegangen, um das Leben im Wasser zu erkunden?"
 
 #. type=data_list
 msgctxt "data_list"
