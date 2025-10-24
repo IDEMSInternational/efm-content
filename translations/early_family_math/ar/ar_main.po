@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-10-19 22:15\n"
+"PO-Revision-Date: 2025-10-24 20:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26431,6 +26431,11 @@ msgstr "المرحلة"
 msgctxt "template"
 msgid "Language"
 msgstr "اللغة"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "متابعة"
 
 #. type=tour
 msgctxt "tour"
