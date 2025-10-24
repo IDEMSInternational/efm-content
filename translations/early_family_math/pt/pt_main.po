@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-10-24 22:03\n"
+"PO-Revision-Date: 2025-10-24 23:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13085,7 +13085,7 @@ msgstr "Crie desenhos dobrando uma folha de papel e cortando o papel enquanto el
 #. type=data_list
 msgctxt "data_list"
 msgid "One Fold"
-msgstr "Uma dobra"
+msgstr "Uma Dobra"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13095,7 +13095,7 @@ msgstr "Dobrar o papel uma vez e cortá-lo cria um desenho em que um lado é a i
 #. type=data_list
 msgctxt "data_list"
 msgid "Two Folds"
-msgstr "Duas dobras"
+msgstr "Duas Dobras"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13105,7 +13105,7 @@ msgstr "Dobrar o papel uma vez e, em seguida, dobrá-lo mais uma vez na direçã
 #. type=data_list
 msgctxt "data_list"
 msgid "Three Folds"
-msgstr "Três dobras"
+msgstr "Três Dobras"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13146,9 +13146,9 @@ msgstr ""
 "\n"
 "Faça uma dobra temporária nesse triângulo e use-a para marcar o meio do lado ABC. Em seguida, desfaça a dobra temporária.\n"
 "\n"
-"Faça uma dobra sobre o ponto F. Ao dobrar sobre F, você deverá posicionar o ponto G de forma que ele divida o ângulo ao meio.\n"
+"Faça uma dobra sobre o ponto F. Ao dobrar sobre F, você deverá posicionar G de forma que ele divida o ângulo ao meio.\n"
 "\n"
-"Dobre ao longo do ponto G – faça essa dobra por baixo, de modo que essa nova parte dobrada fique embaixo do restante do papel.\n"
+"Dobre ao longo de G – faça essa dobra por baixo, de modo que essa nova parte dobrada fique embaixo do restante do papel.\n"
 "\n"
 "Embora não seja estritamente necessário, é uma boa ideia cortar a parte superior dessa figura. Caso contrário, você pode acabar usando a região acima da linha vermelha pontilhada sem perceber que não há papel em todos os níveis.\n"
 "\n"
@@ -13164,7 +13164,7 @@ msgstr "Nim com 1 e 2"
 #. type=data_list
 msgctxt "data_list"
 msgid "The Game Rules"
-msgstr "Regras do jogo"
+msgstr "Regras do Jogo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13175,16 +13175,16 @@ msgid ""
 "\n"
 "Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
 msgstr ""
-"Escolha um número alvo, por exemplo, 10. Deixe seu filho decidir se vai jogar primeiro ou segundo. O total começa em 0. Durante a vez de cada um, a pessoa escolhe adicionar 1 ou 2 ao total atual. A primeira pessoa a atingir o número alvo vence.\n"
+"Escolha um número-alvo, por exemplo, 10. Deixe seu filho decidir se vai jogar primeiro ou segundo. O total começa em 0. Em uma rodada, a pessoa escolhe adicionar 1 ou 2 ao total atual. A primeira pessoa a atingir o número-alvo vence.\n"
 "\n"
-"Esse jogo também pode ser jogado com subtração. Nessa versão, o total inicial começa no número alvo, que neste exemplo é 10. Em cada turno, o jogador escolhe se vai subtrair 1 ou 2 do total. A primeira pessoa a chegar a 0 vence.\n"
+"Esse jogo também pode ser jogado com subtração. Nessa versão, o total inicial começa no número-alvo, que neste exemplo é 10. Em cada rodada, o jogador escolhe se vai subtrair 1 ou 2 do total. A primeira pessoa a chegar a 0 vence.\n"
 "\n"
-"Outra variação é que, em vez de vencer, o jogador que for forçado a atingir ou ultrapassar o número alvo perde. Você também pode experimentar o que acontece se permitir que o jogador adicione (ou subtraia) 1, 2 ou 3 a cada turno."
+"Outra variação é que, em vez de vencer, o jogador que for forçado a atingir ou ultrapassar o número-alvo perde. Você também pode experimentar o que acontece se permitir que o jogador adicione (ou subtraia) 1, 2 ou 3 a cada rodada."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Understanding the Game"
-msgstr "Compreendendo o jogo"
+msgstr "Compreendendo o Jogo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13195,9 +13195,9 @@ msgid ""
 "\n"
 "1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
 msgstr ""
-"Sem analisar nada, esse jogo é divertido de jogar e oferece uma boa prática de adição e subtração de 1 e 2. Poderíamos parar por aí. No entanto, ele também é um excelente exemplo de duas técnicas de resolução de problemas que você pode ensinar ao seu filho quando ele estiver pronto: 1) aprender com exemplos mais.\n"
+"Sem analisar nada, esse jogo é divertido de jogar e oferece uma boa prática de adição e subtração de 1 e 2. Poderíamos parar por aí. No entanto, é também um excelente exemplo de duas técnicas de resolução de problemas que você pode ensinar ao seu filho quando ele estiver pronto: 1) aprender com exemplos mais simples, e 2) procurar por padrões. \n"
 "\n"
-"Qualquer uma das variações pode ser estudada dessa forma. Vamos analisar uma delas: subtraindo a partir de 10, e quem chegar a 0 vence. A parte difícil desse jogo é que o número 10 está muito longe do 0. Então, vamos olhar para uma versão mais simples. Quando as crianças são convidadas a fazer isso, elas frequentemente sugerem começar do 5 ou do 6 — parece absurdo para elas começar do 1, mas é exatamente isso que elas deveriam fazer! Muitas vezes, o melhor é começar da forma mais simples possível — ou seja, começando pelo 1. Se for a sua vez e a contagem estiver em 1, você vence. Vamos fazer os seguintes casos: Se a contagem for 2, você vence. Se a contagem for 3, você vai perder — subtraindo 1 ou 2, você entregará ao seu oponente uma posição vencedora. Se a contagem for 4, você vence — pois poderá subtrair 1 e deixar seu oponente em uma posição de derrota. Continuando dessa forma, construa uma tabela de resultados:\n"
+"Qualquer uma das variações pode ser estudada dessa forma. Vamos analisar uma delas: subtraindo a partir de 10, e quem chegar a 0 vence. A parte difícil desse jogo é que o número 10 está muito longe do 0. Então, vamos olhar para uma versão mais simples. Quando as crianças são convidadas a fazer isso, elas frequentemente sugerem começar do 5 ou do 6 — parece absurdo para elas começar do 1, mas é exatamente isso que elas deveriam fazer! Muitas vezes, o melhor é começar da forma mais simples possível — ou seja, começando pelo 1. Se for a sua vez e a contagem estiver em 1, você vence. Vamos fazer os seguintes casos. Se a contagem for 2, você vence. Se a contagem for 3, você vai perder — subtraindo 1 ou 2, você entregará ao seu oponente uma posição vencedora. Se a contagem for 4, você vence — pois poderá subtrair 1 e deixar seu oponente em uma posição de derrota. Continuando dessa forma, construa uma tabela de resultados:\n"
 "\n"
 "1V - 2V - 3P - 4V - 5V - 6P - 7V - 8V - 9P - 10V"
 
@@ -13215,12 +13215,12 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Connect The Dots"
-msgstr "Ligue os Pontos"
+msgstr "Conecte os Pontos"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Making Everyday Scenes With Dots"
-msgstr "Fazendo cenas do cotidiano com pontos"
+msgstr "Fazendo Cenas do Cotidiano Com Pontos"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13235,7 +13235,7 @@ msgstr "Criando Padrões Geométricos com Ângulos"
 #. type=data_list
 msgctxt "data_list"
 msgid "Make abstract drawings by connecting points with the same number along opposite sides of an angle. The numbers may not be needed - if so, feel free to omit them - this will make the finished designs a little less cluttered. You can add variety to these by having your child draw with colors. There are lots of amazing examples of this to be found under the category of String Art on the Internet. This circle drawing was made by moving ahead by one dot on one side of the line segment and ahead by two dots on the other side."
-msgstr "Faça desenhos abstratos conectando pontos com o mesmo número em lados opostos de um ângulo. Os números podem não ser necessários — se for o caso, sinta-se à vontade para omiti-los — isso deixará os desenhos finais um pouco menos poluídos. Você pode adicionar variedade a esses desenhos fazendo seu filho usar cores. Há muitos exemplos incríveis disso na internet, geralmente encontrados na categoria de String Art. Este desenho circular foi feito avançando um ponto de cada vez em um lado do segmento de linha e dois pontos de cada vez no outro lado."
+msgstr "Faça desenhos abstratos conectando pontos com o mesmo número em lados opostos de um ângulo. Os números podem não ser necessários — se for o caso, sinta-se à vontade para omiti-los — isso deixará os desenhos finais um pouco menos poluídos. Você pode adicionar variedade a esses desenhos fazendo seu filho usar cores. Há muitos exemplos incríveis disso na internet, geralmente encontrados na categoria de String Art (“Arte com linhas”). Este desenho circular foi feito avançando um ponto de cada vez em um lado do segmento de linha e dois pontos de cada vez no outro lado."
 
 #. type=data_list
 msgctxt "data_list"
@@ -13249,7 +13249,7 @@ msgid ""
 "\n"
 "If your child is intrigued by the patterns that are produced, you can look at questions such as: For a circle with 8 dots, why is only one string needed to skip by 1, 3, 5, or 7, but 2 or 4 strings are needed for skipping 2, 4, or 6. Similarly, for a circle with 9 dots, why is only one string needed to skip by 1, 2, 4, 5, 7, or 8, but 3 strings are needed for 3 and 6? It’s too young to understand the idea that 2, 4, and 6 have a factor in common with 8, and 3 and 6 have a factor in common in 9 - however, seeing the patterns may plant the seeds for later ideas."
 msgstr ""
-"Esta é uma variação especial da ideia anterior. Coloque alguns pontos, por exemplo 8 ou 9, espaçados uniformemente ao redor de um círculo. Seu filho pode se divertir criando diferentes padrões conectando os pontos em ordem, ou conectando a cada segundo ponto, ou a cada terceiro ponto. Para facilitar os experimentos, use alfinetes em um pedaço de papelão ou madeira e depois passe um fio entre os alfinetes.\n"
+"Este é um caso especial da ideia anterior. Coloque alguns pontos, por exemplo 8 ou 9, espaçados uniformemente ao redor de um círculo. Seu filho pode se divertir criando diferentes padrões conectando os pontos em ordem, ou conectando a cada segundo ponto, ou a cada terceiro ponto. Para facilitar os experimentos, use alfinetes em um pedaço de papelão ou madeira e depois passe um fio entre os alfinetes.\n"
 "\n"
 "Se seu filho se interessar pelos padrões que surgem, vocês podem explorar questões como: Para um círculo com 8 pontos, por que é necessário apenas um fio para pular 1, 3, 5 ou 7 pontos, mas são necessários 2 ou 4 fios para pular 2, 4 ou 6 pontos? Da mesma forma, para um círculo com 9 pontos, por que um fio só é suficiente para pular 1, 2, 4, 5, 7 ou 8 pontos, mas são necessários 3 fios para pular 3 e 6 pontos? Talvez seja cedo para entender que 2, 4 e 6 têm um fator em comum com 8, e que 3 e 6 têm um fator em comum com 9 — mas observar esses padrões pode plantar as sementes para ideias futuras."
 
@@ -13280,7 +13280,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Finished Sudokus"
-msgstr "Sudokus completos"
+msgstr "Sudokus Completos"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13289,14 +13289,14 @@ msgid ""
 "\n"
 "The examples below are distinctly different from each other and cannot be made from each other by doing interchanges. You can create more examples from these by doing such interchanges if you like."
 msgstr ""
-"Antes de dar a você uma coleção de Sudokus completos, há uma coisa a se observar. Você pode pegar qualquer um deles e criar mais 23 deles simplesmente trocando os tipos de fichas - por exemplo, você pode pegar um quebra-cabeça acabado e criar um “novo” trocando os círculos e triângulos e trocando os diamantes e quadrados.\n"
+"Antes de dar a você uma coleção de Sudokus completos, há uma coisa a se observar. Você pode pegar qualquer um deles e criar mais 23 deles simplesmente trocando os tipos de fichas - por exemplo, você pode pegar um quebra-cabeça acabado e criar um “novo” trocando os círculos e triângulos e trocando os losangos e quadrados.\n"
 "\n"
 "Os exemplos abaixo são distintamente diferentes uns dos outros e não podem ser feitos um do outro por meio de trocas. Você pode criar mais exemplos a partir desses, fazendo essas trocas, se quiser."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Methods for Creating Sudokus From Solved Ones"
-msgstr "Métodos para criar Sudokus a partir dos resolvidos"
+msgstr "Métodos para Criar Sudokus a Partir dos Resolvidos"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13314,7 +13314,7 @@ msgid ""
 "\n"
 "Of course, these are not the only methods you can use. They are just supplied here as sure-fire general methods that will quickly create puzzles."
 msgstr ""
-"Depois de finalizar o Sudoku, você pode usar qualquer uma das seguintes estratégias para criar um quebra-cabeça que tenha uma solução única. De modo geral, quanto mais tokens você remover, mais difícil será o quebra-cabeça.\n"
+"Depois de finalizar o Sudoku, você pode usar qualquer uma das seguintes estratégias para criar um quebra-cabeça que tenha uma solução única. De modo geral, quanto mais peças você remover, mais difícil será o quebra-cabeça.\n"
 "\n"
 "* Remova uma única ficha de cada linha ou coluna.\n"
 "* Remova uma única ficha de cada canto 2 por 2.\n"
@@ -13323,14 +13323,14 @@ msgstr ""
 "* Remova uma linha inteira e uma coluna inteira.\n"
 "* Remova todos os tipos de fichas e cada um dos outros tipos de fichas.\n"
 "* Remova todas as fichas de dois cantos opostos 2 por 2.\n"
-"* Remova todas as fichas de dois cantos opostos 2 por 2 e 1 token cada um dos outros dois cantos.\n"
+"* Remova todas as fichas de dois cantos opostos 2 por 2 e 1 ficha de cada um dos outros dois cantos.\n"
 "\n"
 "Claro, esses não são os únicos métodos que você pode usar. Eles são fornecidos aqui apenas como métodos gerais infalíveis que criarão quebra-cabeças rapidamente."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Number Sudoku With Jigsaws"
-msgstr "Sudoku numérico com padrões de quebra-cabeça"
+msgstr "Sudoku Numérico com Padrões de Quebra-Cabeça"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13341,7 +13341,7 @@ msgid ""
 "\n"
 "Create these puzzles for your child by starting with a completed puzzle with moveable pieces of numbered paper and then removing some of the pieces of paper."
 msgstr ""
-"Esse é semelhante aos quebra-cabeças Sudoku de forma, só que agora usa números. Se seu filho ainda não está pronto para reconhecer números, você pode usar pontos para representar quantidades. Para evitar apagar, utilize tiras de papel numeradas (ou com pontinhos) para resolver os quebra-cabeças.\n"
+"Esse é semelhante aos quebra-cabeças Sudoku de Formas, só que agora usa números. Se seu filho ainda não está pronto para reconhecer números, você pode usar pontos para representar quantidades. Para evitar apagar, utilize tiras de papel numeradas (ou com pontinhos) para resolver os quebra-cabeças.\n"
 "\n"
 "Para um quebra-cabeça 4 por 4, cada linha e coluna tem os números de 1 a 4 uma vez. Além disso, cada sub-região marcada tem os números de 1 a 4 uma vez.\n"
 "\n"
@@ -13369,7 +13369,7 @@ msgid ""
 "\n"
 "Pieces that consist of 5 little squares are called “pentominoes.” Making shapes with pentominoes can be lots of fun. Maybe cut out some pentomino shapes out of stiff thick colored paper and see what designs you can make!"
 msgstr ""
-"Existem muitos desses quebra-cabeças para que seja possível mostrar todas as geometrias de quebra-cabeça possíveis. Estes exemplos servem apenas para sugerir o que é possível criar. Seu filho pode se divertir explorando diferentes maneiras de dividir um quadrado 5 por 5 em peças que contenham 5 quadradinhos cada.\n"
+"Existem demasiados desses quebra-cabeças para que seja possível mostrar todas as geometrias de quebra-cabeça possíveis. Estes exemplos servem apenas para sugerir o que é possível criar. Seu filho pode se divertir explorando diferentes maneiras de dividir um quadrado 5 por 5 em peças que contenham 5 quadradinhos cada.\n"
 "\n"
 "Peças formadas por 5 quadradinhos são chamadas de “pentaminós”. Criar formas com pentaminós pode ser muito divertido. Que tal recortar algumas dessas peças em papel colorido, firme e grosso, e ver que tipos de desenhos vocês conseguem montar?"
 
@@ -13386,7 +13386,7 @@ msgstr "Certo, você está entendendo a ideia. Existem muitos desses! Aqui estã
 #. type=data_list
 msgctxt "data_list"
 msgid "Greater Than Sudoku"
-msgstr "Maior que o Sudoku"
+msgstr "Sudoku de Maior Que"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13395,9 +13395,9 @@ msgid ""
 "\n"
 "Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
 msgstr ""
-"Os quebra-cabeças “maiores que o Sudoku” começam com as mesmas regras do Sudoku normal - cada número aparece exatamente uma vez em cada linha, coluna e sub-região. Além disso, se houver um símbolo de “menor que” ou “maior que” entre duas células, os números nessas células devem obedecer a essa relação.\n"
+"Os quebra-cabeças “Sudoku de Maior Que” começam com as mesmas regras do Sudoku normal - cada número aparece exatamente uma vez em cada linha, coluna e sub-região. Além disso, se houver um símbolo de “menor que” ou “maior que” entre duas células, os números nessas células devem obedecer a essa relação.\n"
 "\n"
-"Para criar esses quebra-cabeças, comece com um Sudoku completo — todos os exemplos de Sudoku Numérico com padrões de quebra-cabeça apresentados anteriormente nestes recursos serão úteis para isso. Coloque os sinais de maior e menor em uma grade em branco com a mesma geometria. Se você omitir todos os números e colocar apenas as desigualdades (menor que ou maior que), geralmente é relativamente fácil resolver o quebra-cabeça. Uma estratégia útil para seu filho é primeiro identificar onde os menores e maiores números devem estar."
+"Para criar esses quebra-cabeças, comece com um Sudoku completo — todos os exemplos de Sudoku Numérico com padrões de quebra-cabeça apresentados anteriormente nestes Recursos serão úteis para isso. Coloque os sinais de maior e menor em uma grade em branco com a mesma geometria. Se você omitir todos os números e colocar apenas as desigualdades (menor que ou maior que), geralmente é relativamente fácil resolver o quebra-cabeça. Uma estratégia útil para seu filho é primeiro identificar onde os menores e maiores números devem estar."
 
 #. type=data_list
 msgctxt "data_list"
@@ -13407,7 +13407,7 @@ msgstr "Quando seu filho estiver começando a aprender a fazer esses quebra-cabe
 #. type=data_list
 msgctxt "data_list"
 msgid "Make Me a Liar"
-msgstr "Me Faça Mentir"
+msgstr "Faça de Mim um Mentiroso"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13436,11 +13436,11 @@ msgstr ""
 "\n"
 "* Todos os caminhões têm quatro rodas. - Caminhões grandes geralmente têm 6, 10 ou mais rodas.\n"
 "* Todos os retângulos são quadrados. - Os retângulos não precisam ter todos os lados do mesmo comprimento.\n"
-"* Todos os pássaros podem voar. - Avestruzes, emas e kiwis são pássaros que não podem voar.\n"
-"* A lua só é visível à noite. - A lua geralmente é visível durante o dia.\n"
+"* Todos os pássaros podem voar. - Avestruzes, emas e quivis são pássaros que não podem voar.\n"
+"* A lua só é visível à noite. - A lua frequentemente é visível durante o dia.\n"
 "* Todas as formas têm lados retos. - Um círculo não tem um lado reto.\n"
 "* Todos os parques infantis têm conjuntos de balanço. - Alguns parques infantis não têm conjuntos de balanço.\n"
-"* Todos os quartos possuem cadeiras. Os quartos e banheiros geralmente não têm uma cadeira."
+"* Todos os quartos possuem cadeiras. - Os quartos e banheiros geralmente não têm uma cadeira."
 
 #. type=data_list
 msgctxt "data_list"
@@ -13462,14 +13462,14 @@ msgstr ""
 "\n"
 "* Se hoje for segunda-feira, então é dia de aula. — Algumas segundas são feriados e algumas segundas ocorrem durante as férias de verão.\n"
 "* Se eu não comer por três horas, então estarei com fome. — A maioria das pessoas pode dormir por mais de três horas sem acordar com fome.\n"
-"* Se uma pessoa é mais alta que outra, então ela é mais velha. — Crianças frequentemente crescem e ficam mais altas que seus pais.\n"
-"* Se o sol está brilhando, o dia é quente. — Dias de inverno podem ser ensolarados e frios.\n"
+"* Se uma pessoa é mais alta que outra, então ela é mais velha. — Os filhos frequentemente crescem e ficam mais altos que seus pais.\n"
+"* Se o sol está brilhando, é um dia quente. — Dias de inverno podem ser ensolarados e frios.\n"
 "* Se alguém está atrasado, algo ruim deve ter acontecido com essa pessoa. — Às vezes as pessoas se atrasam por descuido ou por razões fora do seu controle (trânsito, mau tempo, problemas no carro)."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "15-Sliding Puzzle"
-msgstr "Quebra-Cabeça Deslizante 15 Peças"
+msgstr "Quebra-Cabeça Deslizante – 15 Peças"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13490,12 +13490,12 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
-msgstr "Para criar esses quebra-cabeças, você tem duas opções. A primeira é posicionar as peças aleatoriamente, o que dá uma chance de 50% de o quebra-cabeça ser solucionável. A segunda opção é começar colocando as peças de papel na posição final correta e, então, fazer uma série de movimentos legais para embaralhá-las. Quando terminar, você terá a garantia de que o quebra-cabeça pode ser resolvido."
+msgstr "Para criar esses quebra-cabeças, você tem duas opções. A primeira é posicionar as peças aleatoriamente, o que dá uma chance de 50% de o quebra-cabeça ser solucionável. A segunda opção é começar colocando as peças de papel na posição final correta e, então, fazer uma série de movimentos válidos para embaralhá-las. Quando terminar, você terá a garantia de que o quebra-cabeça pode ser resolvido."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Solving the Puzzle"
-msgstr "Como Resolver o Quebra-Cabeça"
+msgstr "Resolvendo o Quebra-Cabeça"
 
 #. type=data_list
 msgctxt "data_list"
