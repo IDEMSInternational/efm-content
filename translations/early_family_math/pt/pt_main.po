@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-10-24 23:06\n"
+"PO-Revision-Date: 2025-10-30 17:37\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13555,6 +13555,61 @@ msgstr ""
 "Por exemplo, considere o quebra-cabeça 3 x 3 do início desta discussão. Comece movendo o número 4 para a segunda linha. A lista fica: 6 1 2 4 8 5 3 7. Existem 10 inversões nesta lista: (6 1), (6 2), (6 4), (6 5), (6 3), (4 3), (8 5), (8 3), (8 7) e (5 3). Como 10 é um número par, o quebra-cabeça é solucionável.\n"
 "\n"
 "Por que essa regra funciona? Não vou entrar em uma análise detalhada, mas a ideia principal é acompanhar o número de inversões a cada movimento. Acontece que, ajustando para o quadrado vazio estar na última linha, o número de inversões sempre muda em múltiplos de dois a cada movimento. Portanto, se o número de inversões começar ímpar, ele nunca poderá chegar a zero inversões."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Sums"
+msgstr "Somas com Formas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles use numbered circles connected in an upward fashion, and every circle is the sum of all the circles directly below and connected to it. \n"
+"\n"
+"The easiest puzzles have most of the circles filled in. Here are two examples that are straightforward to solve."
+msgstr ""
+"Estes quebra-cabeças utilizam círculos numerados conectados de forma ascendente, e cada círculo é a soma de todos os círculos que estão diretamente abaixo dele e a ele conectados.\n"
+"\n"
+"Os quebra-cabeças mais fáceis possuem a maioria dos círculos já preenchidos. Aqui estão dois exemplos que são simples de resolver."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles can be made more difficult by having one circle used in more than one direction. All of the next seven puzzles are direct calculations except the rightmost one of the first row. It is trickier because the one circle in the middle is shared by two unknown circles above it. That puzzle involves small enough numbers that it can be solved easily with a little trial and error."
+msgstr "Esses desafios podem ficar mais difíceis ao ter um círculo conectado em mais de uma direção. Todos os sete próximos quebra-cabeças são cálculos diretos exceto o que está mais à direita na primeira fileira. É mais complexo pois o círculo no meio está sendo dividido por dois círculos desconhecidos acima. Esse quebra-cabeça envolve números pequenos o suficiente que podem ser facilmente resolvidos por tentativa e erro."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Another option for adding complexity to these puzzles is to use non-circular shapes. While the value in a circle may or may not duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape. For example, all squares have the same value. Use matching shapes to practice adding twins, near twins, and halving. \n"
+"\n"
+"If you like, you can add the rule that two non-circular shapes that have different shapes must have different values - for example, a square and a hexagon would have to have different values.\n"
+"\n"
+"Make any of these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square or other shape instead of a circle for that repeated number.\n"
+"\n"
+"The next two puzzles illustrate the psychological difference between using a circle from two directions and replacing the circle with two squares. These two puzzles are essentially the same, but a young child will find the first one much easier to understand and work with. Please give your child plenty of practice with circle-only puzzles before venturing into more sophisticated puzzles with non-circular shapes."
+msgstr ""
+"Outra opção para acrescentar complexidade a esses quebra-cabeças é utilizar formas não circulares. Enquanto que o valor em um círculo pode ou não duplicar o valor em algum outro círculo ou forma, o valor de uma forma não circular deve possuir o mesmo valor em todos os outros lugares com a mesma forma. Por exemplo, todos os quadrados possuem o mesmo valor. Use formas correspondentes para praticar adicionar iguais, quase iguais, e dividir pela metade.\n"
+"\n"
+"Se você quiser, você pode acrescentar a regra que duas formas não circulares que possuem formatos diferentes devem ter valores diferentes - por exemplo, um quadrado e um hexágono teriam que ter valores diferentes.\n"
+"\n"
+"Faça qualquer um desses quebra-cabeças começando com um diagrama que está completamente preenchido e então remova alguns números. Se o quebra-cabeça possui alguns números repetidos, use um quadrado ou alguma outra forma diferente de um círculo para aquele número repetido.\n"
+"\n"
+"Os próximos dois quebra-cabeças ilustram a diferença psicológica entre usar um círculo de duas direções e substituir o círculo com dois quadrados. Os dois quebra-cabeças são essencialmente os mesmos, mas uma criança pequena vai achar o primeiro muito mais fácil de entender e de trabalhar. Por favor, dê ao seu filho bastante prática com quebra-cabeças que utilizam apenas círculos antes de se aventurarem em quebra-cabeças mais sofisticados com formas não circulares."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzles similar to the next three are useful for practicing adding twins, near twins, and triples."
+msgstr "Quebra-cabeças semelhantes aos próximos três são úteis para praticar somar iguais, quase iguais, e triplos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some examples of using non-circular shapes to make trickier puzzles. If your child enjoys these, there are a great many more variations to explore. Happy puzzling!"
+msgstr "Aqui estão alguns exemplos usando formas não circulares para fazer quebra-cabeças mais desafiadores. Se o seu filho gostar desses, há muitas outras variações para explorar. Divirta-se com os quebra-cabeças!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim – Doubling the Limit"
+msgstr "Nim Dobrando o Limite"
 
 #. type=data_list
 msgctxt "data_list"
