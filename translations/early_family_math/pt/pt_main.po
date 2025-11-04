@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-10-30 18:35\n"
+"PO-Revision-Date: 2025-11-04 23:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14217,6 +14217,67 @@ msgstr ""
 "8 3 10 9,   6 1 10 8,   8 1 10 6\n"
 "\n"
 "Pirâmides de tamanhos 15, 21, ou mais são para aqueles verdadeiramente dedicados. Boa sorte e aproveite!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Enclosed Sums"
+msgstr "Somas Fechadas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes  that border it. Similar to Shape Sums puzzles, circles may have any value, and the value for a non-circular shape must be the same as any other shape of the same type. For example, all squares must have the same value and all hexagons would have the same value. You can optionally add the rule that different non-circular shapes must have different values - for example, that squares and hexagons must have different values.\n"
+"\n"
+"The puzzle for your child is to figure out the numbers in the shapes and regions that are not supplied."
+msgstr ""
+"Esses quebra-cabeças têm formas conectadas por linhas. Cada região fechada possui um número que é a soma das formas que a contornam. De maneira similar aos quebra-cabeças de Somas de Formas, os círculos podem ter qualquer valor, e o valor para uma forma que não seja um círculo deve ser o mesmo que qualquer outra forma do mesmo tipo. Por exemplo, todos os quadrados devem ter o mesmo valor e todos os hexágonos teriam o mesmo valor. Opcionalmente, você pode adicionar a regra de que formas não circulares diferentes devem ter valores diferentes - por exemplo, que quadrados e hexágonos devem ter valores diferentes.\n"
+"\n"
+"O desafio para seu filho é descobrir os números nas formas e nas regiões que não são fornecidos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Create these puzzles by making a diagram of circles and maybe some other shapes. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers.\n"
+"\n"
+"As with Shape Sums puzzles in Chapter 3, start with simple puzzles with just one or two numbers missing and slowly progress to puzzles with more numbers missing, more enclosed regions next to each other, and more use of values in non-circular regions."
+msgstr ""
+"Crie esses quebra-cabeças desenhando um diagrama de círculos e talvez outras formas. Em seguida, preencha todas as figuras com números e preencha as regiões delimitadas com a soma das figuras que as rodeiam. Por fim, remova alguns dos números.\n"
+"\n"
+"Assim como nos quebra-cabeças de “Somas de Formas” no Capítulo 3, comece com quebra-cabeças simples com apenas um ou dois números ausentes e avance lentamente para quebra-cabeças com mais números ausentes, mais regiões adjacentes e mais uso de valores em regiões não circulares."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Compensation"
+msgstr "Pulando de Ilha em Ilha – Compensação"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"O uso da compensação para a adição é uma forma de tornar os problemas de adição muito mais fáceis. A ideia é tirar uma quantidade de um dos números que estão sendo adicionados e dar para o outro número - o resultado permanece o mesmo, mas um dos números se torna mais fácil de trabalhar.\n"
+"\n"
+"Por exemplo, quando você soma 7 + 8, se você tirar 2 do 7 e der para o 8, o problema se torna 5 + 10. Alternativamente, se você tirar 3 do 8 e der para o 7, o problema se torna 10 + 5. Sempre que você puder tornar um dos números um múltiplo de 10, você terá um problema muito mais simples.\n"
+"\n"
+"Esses quebra-cabeças fornecem prática na criação de novos problemas usando a compensação. O desafio é encontrar um caminho que conecte todas as ilhas com a mesma resposta. É permitido conectar duas ilhas apenas se os números de seus problemas diferem por 1. Apenas algumas das ilhas estarão no caminho.\n"
+"\n"
+"Crie esses quebra-cabeças começando com cerca de dez ilhas com algumas conexões. Identifique um caminho de uma extremidade das ilhas para a outra. Ao longo desse caminho, coloque problemas que diferem uns dos outros por um - talvez comece com um problema que envolve somar 10 e, em seguida, faça variações sobre ele. Nas ilhas próximas ao caminho, coloque problemas com pequenas alterações que tenham respostas diferentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "De fato, há pouco a ser feito para variar a dificuldade desses quebra-cabeças. Introduzir caminhos falsos provavelmente levará à confusão em vez de desafio, e por isso é geralmente uma má ideia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "DifTriângulos e SomaTriângulos"
 
 #. type=data_list
 msgctxt "data_list"
