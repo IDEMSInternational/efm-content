@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-09-22 13:26\n"
+"PO-Revision-Date: 2025-11-04 20:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -27591,6 +27591,11 @@ msgstr "學習階段"
 msgctxt "template"
 msgid "Language"
 msgstr "語言設置"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "繼續"
 
 #. type=tour
 msgctxt "tour"
