@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-11-04 23:36\n"
+"PO-Revision-Date: 2025-11-05 00:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14281,8 +14281,434 @@ msgstr "DifTriângulos e SomaTriângulos"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "DiffTriangles"
+msgstr "DifTriângulos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "Os DifTriângulos têm triângulos e quadrados que compartilham lados. Um triângulo sempre tem exatamente dois quadrados em seus lados, e o lado restante tem outro triângulo ou está vazio. O número de um triângulo é a diferença dos dois quadrados adjacentes. O desafio é preencher os números que estão faltando."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Constructing Puzzles** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, put in numbers starting at one end, and then work your way to the far end. When you are done, remove some of the numbers. Making puzzles with loops or more complicated interactions is trickier; however, the effort pays off with some challenging puzzles!\n"
+"\n"
+"When your child gets very comfortable with these, they may want to take a turn creating some new puzzles of their own. They should have fun and learn a lot by figuring out how the numbers fit together.\n"
+"\n"
+"**Strategies for Solving** The places to do first are any triangles between two filled in squares. Another easy case is a square next to a filled triangle that has a smaller filled square next to it - in this case, because we are not working with negative numbers, there is only one choice for filling in the empty square. The most common case is a square that has two possible values looking in one direction, and two other possibilities looking in the other direction - there is usually only one number that overlaps in those possibilities."
+msgstr ""
+"**Criando Quebra-Cabeças:** Fazer quebra-cabeças sem circuitos fechados é fácil. Desenhe uma sequência alternada de quadrados e triângulos, coloque os números começando em uma das pontas e siga até a outra ponta. Quando terminar, remova alguns dos números. Fazer quebra-cabeças com circuitos fechados ou interações mais complicadas é mais difícil; no entanto, o esforço compensa com quebra-cabeças desafiadores!\n"
+"\n"
+"Quando seu filho se sentir muito à vontade com eles, ele pode querer criar alguns novos quebra-cabeças por conta própria. Ele vai se divertir e aprender muito ao descobrir como os números se encaixam.\n"
+"\n"
+"**Estratégias para Resolver:** Os primeiros lugares a serem preenchidos são os triângulos que estão entre dois quadrados já preenchidos. Outro caso fácil é um quadrado ao lado de um triângulo preenchido que tem um quadrado menor preenchido ao seu lado - neste caso, como não estamos trabalhando com números negativos, há apenas uma escolha para preencher o quadrado vazio. O caso mais comum é um quadrado que tem dois valores possíveis em uma direção e duas outras possibilidades na outra direção - geralmente há apenas um número que se sobrepõe a essas possibilidades."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some examples with lots of interconnections."
+msgstr "Aqui estão alguns exemplos com muitas interconexões."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles"
+msgstr "SomaTriângulos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles puzzles are just like DiffTriangles only they use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors. Make these puzzles using methods similar to DiffTriangles. SumTriangles puzzles are typically simpler to solve than DiffTriangles."
+msgstr "Os SomaTriângulos são exatamente como os DifTriângulos, mas usam a adição no lugar da subtração. O valor de um triângulo é a soma de seus dois ou três quadrados vizinhos. Crie esses quebra-cabeças usando métodos semelhantes aos dos DifTriângulos. Os SomaTriângulos são tipicamente mais simples de resolver do que os DifTriângulos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Skip Counting"
+msgstr "Pulando de Ilha em Ilha – Contagem Pulando Números"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have islands (circles) connected by bridges (lines). In this version of Island Hopping, the connections are made by skip counting. Some of the islands have numbers written on them and some will start off blank. Above the puzzle is the starting number, ending number, and the skip amount. The challenge is to fill in the missing numbers and find the path. You can also place the numbers and blanks on pieces of paper on the floor to make a stepping puzzle."
+msgstr "Esses quebra-cabeças têm ilhas (círculos) conectadas por pontes (linhas). Nesta versão de \"Pulando de Ilha em Ilha\", as conexões são feitas por contagem pulando números. Algumas das ilhas têm números escritos nelas e algumas começarão em branco. Acima do quebra-cabeça estão o número inicial, o número final e a quantidade do salto. O desafio é preencher os números que faltam e encontrar o caminho. Você também pode colocar os números e os espaços em branco em pedaços de papel no chão para criar um quebra-cabeça de pisar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount. \n"
+"\n"
+"Creating these puzzles is the same as creating the Island Hopping - Counting puzzles from early in Chapter 2. Make the islands first, fill in the skip counting numbers, connect those islands in the correct order, and then add some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out.\n"
+"\n"
+"You can revisit the puzzle construction strategies described in the Bonus Material for Chapter 2 for Island Hopping - Counting. Also, if you still have any of those puzzles, it is very easy to convert one of those puzzles to one of these. Take the following puzzle from Chapter 2. It involves counting from 0 to 6. The red numbers are the ones that would normally be left out when the puzzle is given to your child. To convert it to a puzzle that starts at 3 and skip counts by 2, simply multiply all the numbers by 2 and then add 3 to them (leaving out the red ones, of course)."
+msgstr ""
+"A criação desses quebra-cabeças é a mesma que a criação dos quebra-cabeças de \"Pulando de Ilha em Ilha - Contando\" do início do Capítulo 2. Primeiro, faça as ilhas, preencha os números da contagem, conecte essas ilhas na ordem correta e depois adicione algumas conexões extras para ajudar a transformá-lo em um quebra-cabeça. Na versão que você der ao seu filho, remova alguns números, deixando uma quantidade suficiente para que ele ainda possa ser resolvido.\n"
+"\n"
+"Você pode revisitar as estratégias de construção de quebra-cabeças descritas no Material Bônus para o Capítulo 2 sobre \"Pulando de Ilha em Ilha - Contando\". Além disso, se você ainda tiver algum desses quebra-cabeças, é muito fácil converter um deles para um deste tipo. Pegue o seguinte quebra-cabeça do Capítulo 2. Ele envolve a contagem de 0 a 6. Os números em vermelho são os que normalmente seriam omitidos quando o quebra-cabeça é dado ao seu filho. Para convertê-lo em um quebra-cabeça que começa em 3 e pula de 2 em 2, simplesmente multiplique todos os números por 2 e depois some 3 a eles, como na tabela abaixo. Depois disso, substitua os números originais pelos novos (deixando de fora os vermelhos, é claro)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fix It"
+msgstr "Conserte Isso"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 4 by 4 grid of numbers with a target sum. The challenge is to find entries to remove so that the sum of the remaining numbers in every row and column is the target. An alternative version uses individual target sums for each row and column.\n"
+"\n"
+"Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers. You can make these trickier by having alternative pairs or triples of numbers that partially work. If your child is enjoying these, but finding them too easy, you can always make larger ones that are 4 by 5, 5 by 5, or even larger.\n"
+"\n"
+"Red stars have been added here to show which entries would be removed to make the puzzles work."
+msgstr ""
+"Comece com uma grade de números de 4 por 4 com uma soma-alvo. O desafio é encontrar entradas para remover, de modo que a soma dos números restantes em cada linha e coluna seja o alvo. Uma versão alternativa usa somas-alvo individuais para cada linha e coluna.\n"
+"\n"
+"Faça esses quebra-cabeças colocando pares ou trios de números que resultem na soma-alvo. Em seguida, preencha os espaços restantes com números de distração. Você pode torná-los mais complicados ao ter pares ou trios alternativos de números que funcionam parcialmente. Se seu filho estiver gostando, mas achando-os muito fáceis, você sempre pode fazer maiores que sejam de 4 por 5, 5 por 5 ou ainda maiores.\n"
+"\n"
+"Estrelas vermelhas foram adicionadas aqui para mostrar quais entradas seriam removidas para que os quebra-cabeças funcionem."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are two puzzles using individual target sums for the rows and columns."
+msgstr "Aqui estão dois quebra-cabeças usando somas-alvo individuais para as linhas e colunas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping by Ones and Tens"
+msgstr "Pulando de Ilha em Ilha por Um e Dez"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A rectangular grid of numbers is given with some of the numbers filled in. The challenge is to fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once in the entire grid. Referencing a 100-Chart may be helpful for beginning solvers.\n"
+"\n"
+"Make this puzzle by taking an empty grid and filling it with numbers, with no number repeated. Next, remove some of the numbers, making sure that it is not too hard for your child. In these examples, the red numbers are the missing ones."
+msgstr ""
+"É dada uma grade retangular de números com alguns dos números preenchidos. O desafio é preencher os números restantes para que quaisquer dois números que compartilhem um lado sejam diferentes apenas em uma única casa, e a diferença dos dígitos nesta casa seja 1 (incluindo a passagem entre 0 e 9). Nenhum número pode ser usado mais de uma vez na grade inteira. A referência a uma Tabela de 100 pode ser útil para solucionadores iniciantes.\n"
+"\n"
+"Faça este quebra-cabeça pegando uma grade vazia e preenchendo-a com números, sem repetições. Em seguida, remova alguns dos números, garantindo que não seja muito difícil para seu filho. Nestes exemplos, os números em vermelho são os ausentes."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using only one-digit and two-digit numbers, there is not a lot of trickiness that can be introduced. However, they are great practice for thinking about place value. One wrinkle that may surprise your child are transitions such as 95 to 5 to 15 or 11 to 10 to 0 to 9 - they may not realize there is a 0 in the tens place for single-digit numbers and they may be surprised by 0 and 9 being connected.\n"
+"\n"
+"Grids are a natural way to present these problems. However, the puzzles can also be represented in the same way as other Island Hopping puzzles using circles, and this representation allows for some additional freedom in creating puzzles."
+msgstr ""
+"Usando apenas números de um e dois dígitos, não há muita complicação que possa ser introduzida. No entanto, eles são uma ótima prática para pensar sobre o valor posicional. Uma peculiaridade que pode surpreender seu filho são as transições como 95 para 5 para 15 ou 11 para 10 para 0 para 9 - eles podem não perceber que há um 0 na casa das dezenas para números de um dígito e podem ficar surpresos com 0 e 9 sendo conectados.\n"
+"\n"
+"Grades são uma maneira natural de apresentar esses problemas. No entanto, os quebra-cabeças também podem ser representados da mesma forma que outros quebra-cabeças de “Pulando de Ilha em Ilha” usando círculos, e essa representação permite alguma liberdade adicional na criação de quebra-cabeças."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Triangles"
+msgstr "Triângulos Mágicos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make a triangle of six circles with three circles on a side. In the circles, use each of the numbers from 1 to 6 once so that each side of the triangle has the same sum. This involves two challenges - finding out which sums will work and then figuring out how to get those sums. It is better to let your child play with this to figure out which sums are possible, but if frustration wins out, the possible sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys figuring this out, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23.\n"
+"\n"
+"As with so many of the puzzles for this age group, the main reason to have your child play with this is to encourage having fun exploring how numbers interact with each other and to practice number facts. They do not yet have the math or reasoning skills to be systematic with their exploration. However, these puzzles can be explored more deeply, and here are some ideas to dig into if you or an older child are interested.\n"
+"\n"
+"Let SUM represent the sum of one side of the triangle. If you add up the three sides of the triangle, the total will be 3 x SUM. However, the total of the three sides will also be the sum of all the numbers plus one extra copy for each corner of the triangle. Let C-SUM be the sum of the values in the three corners. We end up with the relationship that 3 x SUM = (Total of all the numbers) + C-SUM."
+msgstr ""
+"Faça um triângulo de seis círculos com três círculos em cada lado. Nos círculos, use cada um dos números de 1 a 6 uma vez, de modo que cada lado do triângulo tenha a mesma soma. Isso envolve dois desafios - descobrir quais somas funcionarão e, em seguida, descobrir como obter essas somas. É melhor deixar seu filho brincar com isso para descobrir quais somas são possíveis, mas se a frustração vencer, as somas possíveis são 9, 10, 11 e 12.\n"
+"\n"
+"Se seu filho gostar de resolver isso, isso também pode ser feito para triângulos maiores. Para um triângulo com nove círculos e quatro círculos em cada lado, as somas possíveis são 17, 19, 20, 21 e 23.\n"
+"\n"
+"Como em tantos quebra-cabeças para essa faixa etária, a principal razão para fazer seu filho brincar com isso é para encorajar a diversão de explorar como os números interagem uns com os outros e praticar fatos numéricos. Eles ainda não têm as habilidades matemáticas ou de raciocínio para serem sistemáticos em sua exploração. No entanto, esses quebra-cabeças podem ser explorados mais profundamente, e aqui estão algumas ideias para aprofundar, se você ou um filho mais velho estiver interessado.\n"
+"\n"
+"Deixe SOMA representar a soma de um lado do triângulo. Se você somar os três lados do triângulo, o total será 3 x SOMA. No entanto, o total dos três lados também será a soma de todos os números mais uma cópia extra para cada canto do triângulo. Deixe C-SOMA ser a soma dos valores nos três cantos. Chegamos à relação de 3 x SOMA = (Total de todos os números) + C-SOMA."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6-Circle Puzzle"
+msgstr "Quebra-Cabeça de 6 Círculos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Apply this to the triangle with six circles. The sum of all the numbers is the sum of the numbers from one to six, which is 21. So the equation becomes 3 x SUM = 21 + C-SUM The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 4 + 5 + 6 = 15. So, 3 x SUM is between 21 + 6 = 27 and 21 + 15 = 36. This forces SUM to be 9, 10, 11, 12. Note also that C-SUM = 3 x SUM - 21, which is handy for finding the corners.\n"
+"\n"
+"Another thing to notice is the symmetry of the possible values. What is causing this symmetry is that for every solution, there is another solution created by subtracting all the numbers from 7 (or from 10 for the nine circle puzzle). A little calculating will show that this symmetry takes a puzzle with sum SUM and creates a new one with sum (21 - SUM) (or 40 - SUM for the nine circle puzzle).\n"
+"\n"
+"The last thing to notice before we dig in with actual numbers is that for any solution for the three corners, we can assume that they are in increasing order going around clockwise, with the smallest number at the top. If they are not in that configuration to begin with, you can rotate or flip the diagram until they are.\n"
+"\n"
+"All these observations save a tremendous amount of work. We only need to look at SUM equal to 9 and 10, and we only need to have the corners in increasing order. If SUM is 9, then C-SUM = 3 x 9 - 21 = 6, so the trio is 1, 2, and 3. If SUM is 10, then a + b + c = 3 x 10 - 21 = 9. This leaves two possibilities - either corner values of 1, 2, and 6, or 1, 3, and 5. A quick trial rules out 1, 2, and 6 as a possibility.\n"
+"\n"
+"After much work, we have the solutions for SUM being 9 and 10 for the six circle puzzle. Remember that you can get the solutions for SUM being 11 and 12 by subtracting all the entries from 7."
+msgstr ""
+"Aplique isso ao triângulo com seis círculos. A soma de todos os números é a soma dos números de um a seis, que é 21. Então a equação se torna 3 x SOMA = 21 + C-SOMA. O menor C-SOMA possível é 1 + 2 + 3 = 6, e o maior que pode ser é 4 + 5 + 6 = 15. Portanto, 3 x SOMA está entre 21 + 6 = 27 e 21 + 15 = 36. Isso força a SOMA a ser 9, 10, 11, 12. Observe também que C-SOMA = 3 x SOMA - 21, o que é útil para encontrar os cantos.\n"
+"\n"
+"Outra coisa a notar é a simetria dos valores possíveis. O que causa essa simetria é que, para cada solução, há outra solução criada pela subtração de todos os números de 7 (ou de 10 para o quebra-cabeça de nove círculos). Um pequeno cálculo mostrará que essa simetria pega um quebra-cabeça com a soma SOMA e cria um novo com a soma (21 - SOMA) (ou 40 - SOMA para o quebra-cabeça de nove círculos).\n"
+"\n"
+"A última coisa a notar antes de nos aprofundarmos com números reais é que, para qualquer solução para os três cantos, podemos assumir que eles estão em ordem crescente no sentido horário, com o menor número no topo. Se eles não estiverem nessa configuração para começar, você pode girar ou inverter o diagrama até que estejam.\n"
+"\n"
+"Todas essas observações economizam uma quantidade tremenda de trabalho. Precisamos apenas olhar para SOMA igual a 9 e 10, e precisamos apenas que os cantos estejam em ordem crescente. Se SOMA for 9, então C-SOMA = 3 x 9 - 21 = 6, então o trio é 1, 2 e 3. Se SOMA for 10, então a + b + c = 3 x 10 - 21 = 9. Isso deixa duas possibilidades - ou os valores dos cantos são 1, 2 e 6, ou 1, 3 e 5. Uma rápida tentativa descarta 1, 2 e 6 como possibilidade.\n"
+"\n"
+"Depois de muito trabalho, temos as soluções para SOMA sendo 9 e 10 para o quebra-cabeça de seis círculos. Lembre-se que você pode obter as soluções para SOMA sendo 11 e 12 subtraindo todas as entradas de 7."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9-Circle Puzzle"
+msgstr "Quebra-Cabeça de 9 Círculos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use the same approach for the 9 circle puzzle. The sum of the numbers from 1 to 9 is 45. Hence, 3 x SUM = 45 + C-SUM. The smallest C-SUM can be is 1 + 2 + 3 = 6, and the largest it can be is 7 + 8 + 9 = 24. So 3 x SUM is between 45 + 6 = 51 and 45 + 24 = 69, which forces SUM to be between 17 and 23. Taking a solution and subtracting all the entries from 10 gives the following SUM pairings: 17 - 23, 18 - 22, 19 - 21, and 20 - 20. So, solutions are only needed for 17, 18, 19, and 20. The corresponding values for C-SUM are 6, 9, 12, and 15. \n"
+"\n"
+"* SUM = 17 and C-SUM = 6. For this, the corners must be 1, 2, 3, and it works.\n"
+"* SUM = 18 and C-SUM = 9. For this, the corners must be either 1, 2, 6 or 1, 3, 5. Neither works.\n"
+"* SUM = 19 and C-SUM = 12. There are quite a few possibilities for the corners, but the only combinations that work are 1, 4, 7 and 2, 3, 7.\n"
+"* SUM = 20 and C-SUM = 15. There are too many combinations for the corners, and many of them work. Two that work are 1, 5, 9 and 2, 5, 8."
+msgstr ""
+"Use a mesma abordagem para o quebra-cabeça de 9 círculos. A soma dos números de 1 a 9 é 45. Portanto, 3 x SOMA = 45 + C-SOMA. O menor C-SOMA possível é 1 + 2 + 3 = 6, e o maior que pode ser é 7 + 8 + 9 = 24. Então 3 x SOMA está entre 45 + 6 = 51 e 45 + 24 = 69, o que força o SOMA a ser entre 17 e 23. Pegar uma solução e subtrair todas as entradas de 10 dá as seguintes duplas de SOMA: 17 - 23, 18 - 22, 19 - 21 e 20 - 20. Portanto, as soluções são necessárias apenas para 17, 18, 19 e 20. Os valores correspondentes para C-SOMA são 6, 9, 12 e 15.\n"
+"\n"
+"* SOMA = 17 e C-SOMA= 6. Para isso, os cantos devem ser 1, 2, 3, e funciona.\n"
+"* SOMA = 18 e C-SOMA = 9. Para isso, os cantos devem ser 1, 2, 6 ou 1, 3, 5. Nenhum funciona.\n"
+"* SOMA = 19 e C-SOMA = 12. Existem algumas possibilidades para os cantos, mas as únicas combinações que funcionam são 1, 4, 7 e 2, 3, 7. \n"
+"* SOMA = 20 e C-SOMA = 15. Existem muitas combinações para os cantos, e muitas delas funcionam. Duas que funcionam são 1, 5, 9 e 2, 5, 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Magic Designs"
+msgstr "Desenhos Mágicos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Similar to Magic Triangles, these have circles connected in a geometric pattern and an associated group of numbers. Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"The analysis of these puzzles is similar to what was done for Magic Triangles. Let SUM be the common sum that all the rows share. Let c be the value of the middle circle, for puzzles that have one. The general strategy will be to add up all the rows and investigate the relationship that is revealed. Note also that, just as for Magic Triangles, a new solution can be created by subtracting all the entries from one more than the largest number.\n"
+"\n"
+"1. The numbers from 1 to 4 are in a plus sign shape with no circles in common. The numbers 1 to 4 add up to 10, and this is split evenly between the two directions. So SUM = 5 and the answer is easy."
+msgstr ""
+"Semelhante aos Triângulos Mágicos, estes têm círculos conectados em um padrão geométrico e um grupo de números associado. Coloque os números nos círculos de modo que cada linha reta de círculos conectados tenha a mesma soma. \n"
+"\n"
+"A análise desses quebra-cabeças é semelhante ao que foi feito para os Triângulos Mágicos. Deixe SOMA ser a soma comum que todas as linhas compartilham. Deixe c ser o valor do círculo do meio, para quebra-cabeças que têm um. A estratégia geral será somar todas as linhas e investigar a relação que é revelada. Observe também que, assim como nos Triângulos Mágicos, uma nova solução pode ser criada subtraindo todas as entradas de um a mais do que o maior número. \n"
+"\n"
+"1. Os números de 1 a 4 estão em forma de cruz sem círculos em comum. Os números de 1 a 4 somam 10, e isso é dividido uniformemente entre as duas direções. Então SOMA = 5 e a resposta é fácil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2. The numbers from 1 to 5 are in a plus sign with one circle in common in the middle. The numbers 1 to 5 add up to 15. Adding up the two directions gives 2 x SUM = 15 + c. Because 15 + c must be even, c can be 1, 3, and 5. Get the solution for c = 5 (SUM = 10) from the c = 1 solution by subtracting all the numbers from 6."
+msgstr "2. Os números de 1 a 5 estão em forma de cruz com um círculo em comum no meio. Os números de 1 a 5 somam 15. Somar as duas direções dá 2 x SOMA = 15 + c. Como 15 + c deve ser par, c pode ser 1, 3 e 5. Obtenha a solução para c = 5 (SOMA = 10) a partir da solução para c = 1, subtraindo todos os números de 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3. The numbers from 1 to 7 are in lines of 3 circles with one common circle in the middle. Adding up the three directions gives 3 x SUM = 28 + 2 x c. Because 3 evenly divides 28 + 2 x c, this forces c to be 1, 4, or 7. The solutions for c = 1 and 4 are given."
+msgstr "3. Os números de 1 a 7 estão em linhas de 3 círculos com um círculo comum no meio. Somar as três direções dá 3 x SOMA = 28 + 2 x c. Como 3 divide 28 + 2 x c, isso força c a ser 1, 4 ou 7. As soluções para c = 1 e 4 são dadas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4. The numbers from 1 to 9 are in lines of 3 circles with one common circle in the middle. Adding up the four directions gives 4 x SUM = 45 + 3 x c. Because 4 evenly divides 45 + 3 x c, this forces c = 1, 5, or 9."
+msgstr "4. Os números de 1 a 9 estão em linhas de 3 círculos com um círculo comum no meio. Somar as quatro direções dá 4 x SOMA = 45 + 3 x c. Como 4 divide 45 + 3 x c, isso força c = 1, 5 ou 9."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"5. The numbers from 1 to 5 are placed in an L shape with one circle in common in the corner. This is really the same as problem #2, so the solutions are essentially the same.\n"
+"\n"
+"6. The numbers from 1 to 8 are in a plus sign with no circles in common. The two directions evenly split 36, the sum of all the numbers, so SUM = 18. There are many ways to solve this by splitting the set of numbers into two groups that add up to 18. One solution is 1, 2, 7, 8 and 3, 4, 5, 6, and another is 1, 3, 6, 8 and 2, 4, 5, 7.\n"
+"\n"
+"7. The numbers from 1 to 9 are in a plus sign with one circle in common in the middle. Adding up the two directions gives 2 X SUM = 45 + c, so c = 1, 3, 5, 7, and 9. Solutions for c = 1, 3, and 5 are given."
+msgstr ""
+"5. Os números de 1 a 5 são colocados em forma de L com um círculo em comum no canto. Isso é realmente o mesmo que o problema nº 2, então as soluções são essencialmente as mesmas.\n"
+"\n"
+"6. Os números de 1 a 8 estão em forma de cruz sem círculos em comum. As duas direções dividem uniformemente 36, a soma de todos os números, então SOMA = 18. Existem muitas maneiras de resolver isso, dividindo o conjunto de números em dois grupos que somam 18. Uma solução é 1, 2, 7, 8 e 3, 4, 5, 6, e outra é 1, 3, 6, 8 e 2, 4, 5, 7.\n"
+"\n"
+"7. Os números de 1 a 9 estão em forma de cruz com um círculo em comum no meio. Somar as duas direções dá 2 x SOMA = 45 + c, então c = 1, 3, 5, 7 e 9. As soluções para c = 1, 3 e 5 são dadas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "8. The numbers from 1 to 12 are in a star shape. This has 6 directions of lines of 4 circles. This one is much harder than the others. If you add up all the directions, every number will be involved twice. The numbers from 1 to 12 add up to 78. Thus we have 6 x SUM = 2 x 78, which means SUM = 26 (as given in the hint). A solution is given below. As always, another solution can be obtained by subtracting all the entries from 13."
+msgstr "8. Os números de 1 a 12 estão em forma de estrela. Isso tem 6 direções de linhas de 4 círculos. Este é muito mais difícil do que os outros. Se você somar todas as direções, cada número estará envolvido duas vezes. Os números de 1 a 12 somam 78. Assim, temos 6 x SOMA = 2 x 78, o que significa SOMA = 26 (conforme a dica). Uma solução é dada abaixo. Como sempre, outra solução pode ser obtida subtraindo todas as entradas de 13."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "9. The numbers from 1 to 7 are in an H shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. There are 5 possible lines of 3 connected circles. If the 5 directions are added up, all the circles will be used twice, with the exception of the center which is used three times. Adding up the five directions gives 5 x SUM = 2 x 28 + c. Because 5 evenly divides 56 + c, this forces c = 4, and in that case SUM = 12 (as given in the hint). Note that neither 2 nor 3 can be on the same side as the 1, and this leads to the following solution."
+msgstr "9. Os números de 1 a 7 estão em forma de H - 3 na vertical à esquerda, 1 no centro, 3 na vertical à direita. Existem 5 linhas possíveis de 3 círculos conectados. Se as 5 direções forem somadas, todos os círculos serão usados duas vezes, com exceção do centro que é usado três vezes. Somar as cinco direções dá 5 x SOMA = 2 x 28 + c. Como 5 divide 56 + c, isso força c = 4 e, nesse caso, SOMA = 12 (conforme dado na dica). Note que nem 2 nem 3 podem estar do mesmo lado que o 1, e isso leva à seguinte solução."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Square"
+msgstr "Quadrados de Soma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a 3 by 3 grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid. For the numbers that are not yet placed, the challenge is to place them to make the row and column sums be the target values.\n"
+"\n"
+"To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid. For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper you removed to your child and ask “where were these?” Because these are so easy to create, they are great puzzles for your child to create for you to solve.\n"
+"\n"
+"One variation that keeps the sums a little smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid, or even 1 to 16 in a 4 by 4 grid."
+msgstr ""
+"Comece com uma grade de 3 por 3 que tem somas-alvo dadas para cada linha e coluna. Alguns dos números de 1 a 9 já estão colocados na grade. Para os números que ainda não estão colocados, o desafio é colocá-los para que as somas das linhas e colunas sejam os valores-alvo.\n"
+"\n"
+"Para fazer um desses quebra-cabeças, coloque pedaços de papel com os números de 1 a 9 em uma grade 3 x 3. Para cada linha e coluna, escreva a soma à direita ou abaixo. Em seguida, remova alguns dos números da grade. Por último, entregue os pedaços de papel que você removeu ao seu filho e pergunte \"onde eles estavam?\" Como eles são tão fáceis de criar, eles são ótimos quebra-cabeças para seu filho criar para você resolver.\n"
+"\n"
+"Uma variação que mantém as somas um pouco menores é usar os números de 0 a 8. Uma variação mais difícil é fazer a mesma coisa com os números de 1 a 12 em uma grade de 3 por 4, ou até mesmo de 1 a 16 em uma grade de 4 por 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making the original filled in puzzle is easy enough. As mentioned above, just put in all the numbers and write down the sums. The challenge for the puzzle maker is to remove just the right amount of information so that the puzzle is challenging but not too hard."
+msgstr "Fazer o quebra-cabeça original preenchido é fácil o suficiente. Como mencionado acima, basta colocar todos os números e anotar as somas. O desafio para o criador do quebra-cabeça é remover a quantidade certa de informação para que o quebra-cabeça seja desafiador, mas não muito difícil."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategies for Solving and Creating"
+msgstr "Estratégias para Resolver e Criar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start by filling in squares that are the single missing numbers in a row or column. The leftmost of these three puzzles is pretty easy to solve because, after the 5 and the 7 are filled in, then the 3 and 2 are easy to solve, and then lastly the 8 will be easy- solving each singleton creates new singletons that are easy to calculate.\n"
+"\n"
+"Easy to calculate puzzles are good practice for your child, so don’t worry about making all the puzzles tricky.\n"
+"\n"
+"The middle puzzle is a bit harder. There are no singletons. A good strategy for these is to look for rows or columns that have particularly large or small missing sums - these will have relatively few choices to choose from. The bottom row and the rightmost column are good places to start for this puzzle. The missing numbers in the bottom row add up to 16, so they must be 7 and 9. The 9 cannot go in the column with the 6 (the sum would be too big for that column), so that places the 7 and 9. The rest follows as in the previous puzzle.\n"
+"\n"
+"In the rightmost puzzle, two of the side numbers are left out. Once your child realizes that the side numbers add up to 45, which is the sum of the numbers from 1 to 9, it is easy to fill in a single missing side number."
+msgstr ""
+"Comece preenchendo os quadrados que são os únicos números ausentes em uma linha ou coluna. O quebra-cabeça mais à esquerda desses três é bastante fácil de resolver porque, depois que o 5 e o 7 são preenchidos, então o 3 e o 2 são fáceis de resolver, e então, por último, o 8 será fácil - resolver cada número único cria novos números únicos que são fáceis de calcular.\n"
+"\n"
+"Quebra-cabeças fáceis de calcular são uma boa prática para seu filho, então não se preocupe em tornar todos os quebra-cabeças complicados.\n"
+"\n"
+"O quebra-cabeça do meio é um pouco mais difícil. Não há números únicos. Uma boa estratégia para estes é procurar linhas ou colunas que tenham somas ausentes particularmente grandes ou pequenas - estas terão relativamente poucas opções para escolher. A linha de baixo e a coluna mais à direita são bons lugares para começar este quebra-cabeça. Os números ausentes na linha de baixo somam 16, então eles devem ser 7 e 9. O 9 não pode ir na coluna com o 6 (a soma seria muito grande para essa coluna), então isso coloca o 7 e o 9. O resto segue como no quebra-cabeça anterior.\n"
+"\n"
+"No quebra-cabeça mais à direita, dois dos números laterais são omitidos. Uma vez que seu filho perceba que os números laterais somam 45, que é a soma dos números de 1 a 9, é fácil preencher um único número lateral ausente."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition Pyramid"
+msgstr "Pirâmide de Adição"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A pyramid of 10 numbers placed in 4 rows is given with a target number. The challenge is to find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must touch each other.\n"
+"\n"
+"Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid. The number of possible paths through the pyramid doubles with the addition of each row, so making larger pyramids is a way to challenge a child who finds the 10-number puzzle  easy. For a child who finds a 10-number puzzle hard, start with 6-number puzzles until they become easy and quick to solve."
+msgstr ""
+"É dada uma pirâmide de 10 números colocados em 4 linhas com um número-alvo. O desafio é encontrar um caminho através da pirâmide usando um número de cada linha para que a soma dos números seja o número-alvo. Os números no caminho devem se tocar.\n"
+"\n"
+"Faça um desses quebra-cabeças preenchendo os números que você quer que formem o caminho e registre a soma desses números. Em seguida, preencha os “números de distração” restantes na pirâmide. O número de caminhos possíveis através da pirâmide dobra com a adição de cada linha, então fazer pirâmides maiores é uma maneira de desafiar uma criança que acha o quebra-cabeça de 10 números fácil. Para uma criança que acha um quebra-cabeça de 10 números difícil, comece com quebra-cabeças de 6 números até que se tornem fáceis e rápidos de resolver."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For larger puzzles, it can be a challenge for the puzzle maker to ensure that there is only one correct path through the pyramid. Don’t concern yourself too much with that. Even though it’s nice if there is only one path, your child will enjoy showing you that there is more than one way to solve it."
+msgstr "Para quebra-cabeças maiores, pode ser um desafio para o criador do quebra-cabeça garantir que haja apenas um caminho correto através da pirâmide. Não se preocupe muito com isso. Embora seja bom se houver apenas um caminho, seu filho vai gostar de lhe mostrar que há mais de uma maneira de resolvê-lo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Investigations"
 msgstr "Investigações"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Flower Petals"
+msgstr "Pétalas de Flores"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In a magical garden there are two kinds of flowers. One has 4 petals and the other has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could it be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"By trying many pairs of numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur.\n"
+"\n"
+"What is the pattern and what creates that pattern? Those are often questions that come up, and it is where many interesting things happen. \n"
+"\n"
+"It’s easiest to see what happens when some number evenly divides both numbers. Take 3 and 6 for example. Think of these numbers as 1 x 3 and 2 x 3. When you add these numbers together, you will always get some number of 3’s. There is no way to add 3’s and 6’s together to get 10, because 10 is not a multiple of 3.\n"
+"\n"
+"When 1 is the only number that evenly divides both numbers, there will always come a point where every number can be attained. For 4 and 7, that number is 18. To find that number, subtract 1 from each of the numbers in the pair and multiply those new numbers together. In this case, that gives 3 x 6 = 18. Another interesting facet of this situation is that exactly half of the numbers below 18 will be reachable. Why this works takes some math a bit too sophisticated for a young child; however, it is fun to play with these calculations and your child’s experiences with these patterns may suddenly click into place much later on."
+msgstr ""
+"Em um jardim mágico, há dois tipos de flores. Uma tem 4 pétalas e a outra tem 7 pétalas. Uma criança foi solicitada a colher algumas flores para que o número total de pétalas fosse 13. Isso poderia ser feito? E 15 pétalas? Para quais números de pétalas é possível? Para os números que são possíveis, pode ser feito de mais de uma maneira? Por exemplo, 32 pétalas são quatro de 7 e uma de 4, e também são oito de 4.\n"
+"\n"
+"Ao tentar muitos pares de números, há muitos exemplos para brincar. Para alguns pares de números, chega um ponto em que todos os números de pétalas são possíveis, e para outros pares de números não há tal ponto. Para 4 e 7, todo número a partir de 18 é possível. Para 3 e 6, não há ponto a partir do qual todos os números ocorrem.\n"
+"\n"
+"Qual é o padrão e o que cria esse padrão? Essas são frequentemente perguntas que surgem, e é onde muitas coisas interessantes acontecem.\n"
+"\n"
+"É mais fácil ver o que acontece quando algum número divide uniformemente ambos os números. Pegue 3 e 6, por exemplo. Pense nestes números como 1 x 3 e 2 x 3. Quando você soma esses números, você sempre obterá algum número de 3s. Não há como somar 3s e 6s para obter 10, porque 10 não é um múltiplo de 3.\n"
+"\n"
+"Quando 1 é o único número que divide uniformemente ambos os números, sempre chegará um ponto em que cada número pode ser alcançado. Para 4 e 7, esse número é 18. Para encontrar esse número, subtraia 1 de cada um dos números no par e multiplique esses novos números. Neste caso, isso dá 3 x 6 = 18. Outro aspecto interessante desta situação é que exatamente metade dos números abaixo de 18 será alcançável. Por que isso funciona requer alguma matemática um pouco sofisticada demais para uma criança pequena; no entanto, é divertido brincar com esses cálculos e as experiências de seu filho com esses padrões podem de repente fazer sentido muito mais tarde."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Climbing Steps – How Many Ways?"
+msgstr "Subindo Degraus – Quantas Maneiras"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose your child likes to take steps two at a time sometimes, but one at a time other times. If your child wants to go up some steps, a natural question is: How many ways can this be done?\n"
+"For example, for 0 steps there is just one way - you just stand there. For 1 step there is one way - you take a single step. For two steps, you can either take one double step or two single steps. \n"
+"\n"
+"Your child should carefully count many cases of this and make a table of the results. When there is lots of information, a table often helps organize the information and allow patterns to stand out. The table would look like this (okay, going beyond 6 may require too much patience, but here are the numbers):\n"
+"\n"
+"1 - 1 - 2 - 3 - 5 - 8 - 13 - 21 - 34 - 55\n"
+"\n"
+"After looking at these numbers, your child may notice that each pair of consecutive numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers. The rule for creating the official Fibonacci Numbers is that each number is the sum of the previous two. This also happens for the steps. Hmmm ...\n"
+"\n"
+"Let’s look closely at one example - say 5 steps. The 8 possibilities are: 1+1+1+1+1, 1+1+2+1, 1+2+1+1, 2+1+1+1, 2+2+1, 1+1+1+2, 1+2+2, and 2+1+2. The first 5 possibilities use 1 for the last move, and the last 3 possibilities use 2 for the last move. That explains it - you can go up 5 steps by either going up 4 steps and taking 1 more step, or by going up 3 steps and going up 2 more steps. The number of ways of going up 5 steps is exactly equal to the sum of the number of ways of going up 4 steps plus the number of ways of going up 3 steps.\n"
+"\n"
+"Patterns are often understood by patiently going through examples, organizing the data, looking closely at the data, and digging for explanations of why things happen the way they do. This is a good habit to develop in your child."
+msgstr ""
+"Suponha que seu filho goste de subir degraus dois de cada vez às vezes, mas um de cada vez em outras. Se seu filho quiser subir alguns degraus, uma pergunta natural é: de quantas maneiras isso pode ser feito?\n"
+"\n"
+"Por exemplo, para 0 degraus há apenas uma maneira - você apenas fica parado. Para 1 degrau há uma maneira - você dá um único passo. Para dois degraus, você pode dar um passo duplo ou dois passos únicos.\n"
+"\n"
+"Seu filho deve contar cuidadosamente muitos casos disso e fazer uma tabela dos resultados. Quando há muita informação, uma tabela muitas vezes ajuda a organizar a informação e permite que os padrões se destaquem. A tabela ficaria assim (ok, ir além de 6 pode exigir muita paciência, mas aqui estão os números):\n"
+"\n"
+"1 - 1 - 2 - 3 - 5 - 8 - 13 - 21 - 34 - 55\n"
+"\n"
+"Depois de olhar para esses números, seu filho pode notar que cada par de números consecutivos soma o próximo número. Por que isso acontece? Esses números são chamados de Números de Fibonacci. A regra para criar os Números de Fibonacci oficiais é que cada número é a soma dos dois anteriores. Isso também acontece para os degraus. Hmm...\n"
+"\n"
+"Vamos olhar de perto um exemplo - digamos 5 degraus. As 8 possibilidades são: 1+1+1+1+1, 1+1+2+1, 1+2+1+1, 2+1+1+1, 2+2+1, 1+1+1+2, 1+2+2 e 2+1+2. As primeiras 5 possibilidades usam 1 para o último movimento, e as últimas 3 possibilidades usam 2 para o último movimento. Isso explica - você pode subir 5 degraus ou subindo 4 degraus e dando mais 1, ou subindo 3 degraus e dando mais 2. O número de maneiras de subir 5 degraus é exatamente igual à soma do número de maneiras de subir 4 degraus mais o número de maneiras de subir 3 degraus.\n"
+"\n"
+"Os padrões são frequentemente entendidos ao passar pacientemente por exemplos, organizar os dados, olhar de perto para os dados e procurar explicações de por que as coisas acontecem da maneira que acontecem. Este é um bom hábito para desenvolver em seu filho."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Balance Scale"
+msgstr "Balança"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a simple device for telling when two things have exactly the same weight. The scale is usually supplied with a set of weights that are used to measure the weight of other objects. There are many interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**One Kind of Weight** Suppose you have lots of weights, but they are all the same - say, 5 units. Then the only things you can weigh exactly are objects that are a multiple of 5 (just like skip counting by 5).\n"
+"\n"
+"**Two Kinds of Weights - One Side** Suppose you have lots of weights that are either 4 units or 7 units and you only use them on one side of the balance. The things you can weigh are the same numbers you found in the flower petal investigation. For 4 and 7, starting at 18 units you can weigh everything exactly. If the weights are 4 units and 6 units, you can only weigh even numbers starting with 4.\n"
+"\n"
+"**Two Kinds of Weights - Both Sides** After doing the investigation with two kinds of weights on one side, your child might be surprised if you ask them to weigh a 3-unit item, or even a 1-unit item, with 4’s and 7’s. The trick is to put some weights on one side and other weights on the other side. For example, verify an item weighs 3 units by putting it with a 4-unit weight and see that it balances with a 7-unit weight. Similarly, verify an item weighs 1 unit by putting it with a 7-unit weight and see that it balances with two 4-unit weights.\n"
+"\n"
+"There is an important math theorem called Bezout’s Theorem hidden in this investigation. Your child doesn’t need to know about that theorem at this point, but isn’t it cool that a young child can be playing around with advanced mathematics!\n"
+"\n"
+"**Doubling Weights** What happens if you have one weight each for each of the weights in the doubling progression 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? What is the largest weight you can measure? \n"
+"\n"
+"After some investigation, you will find that you can weigh everything up to one less than double the highest weight - in this case that is 31. Also, each item you can weigh can only be weighed in one way - for example, 13 = 1 + 4 + 8, and there is no other way to do it. Pretty cool! This situation is related to the binary number system.\n"
+"\n"
+"Fibonacci Weights: What happens if the weights are in the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction that would cause there to be only one way for each weight.\n"
+"\n"
+"Suppose you have one each for the weights 1, 1, 2, 3, 5, 8, and 13. With this, 10 = 2 + 3 + 5 = 2 + 8 = 1 + 1 + 3 + 5 = 1 + 1 + 8. What is causing the duplication is that the Fibonacci rule creates more than one way to write the Fibonacci numbers in terms of themselves - for example, 2 = 1 + 1 and 8 = 5 + 3. The way to fix this problem is to insist that you cannot use two Fibonacci numbers that are neighbors of each other in the sequence. When you add that restriction, the only way to get 10 is 2 + 8."
+msgstr ""
+"Uma balança é um dispositivo simples para dizer quando duas coisas têm exatamente o mesmo peso. A balança é geralmente fornecida com um conjunto de pesos que são usados para medir o peso de outros objetos. Existem muitas investigações interessantes que você pode fazer se você restringir os pesos que você pode usar.\n"
+"\n"
+"**Um Tipo de Peso:** Suponha que você tenha muitos pesos, mas todos são iguais - digamos, 5 unidades. Então as únicas coisas que você pode pesar exatamente são objetos que são um múltiplo de 5 (assim como a contagem pulando números por 5).\n"
+"\n"
+"**Dois Tipos de Pesos - Um Lado:** Suponha que você tenha muitos pesos que são de 4 unidades ou 7 unidades e você os usa apenas em um lado da balança. As coisas que você pode pesar são os mesmos números que você encontrou na investigação das pétalas de flores. Para 4 e 7, a partir de 18 unidades você pode pesar tudo exatamente. Se os pesos forem de 4 unidades e 6 unidades, você só pode pesar números pares a partir de 4.\n"
+"\n"
+"**Dois Tipos de Pesos - Ambos os Lados:** Depois de fazer a investigação com dois tipos de pesos em um lado, seu filho pode se surpreender se você pedir para ele pesar um item de 3 unidades, ou até mesmo um item de 1 unidade, com 4s e 7s. O truque é colocar alguns pesos de um lado e outros pesos do outro lado. Por exemplo, verifique se um item pesa 3 unidades colocando-o com um peso de 4 unidades e veja se ele se equilibra com um peso de 7 unidades. Da mesma forma, verifique se um item pesa 1 unidade colocando-o com um peso de 7 unidades e veja se ele se equilibra com dois pesos de 4 unidades.\n"
+"\n"
+"Existe um teorema matemático importante chamado Teorema de Bezout escondido nesta investigação. Seu filho não precisa saber sobre esse teorema neste momento, mas não é legal que uma criança pequena possa estar brincando com matemática avançada?!\n"
+"\n"
+"**Pesos Dobrados:** O que acontece se você tiver um peso para cada um dos pesos na progressão de duplicação 1, 2, 4, 8 e 16? De quantas maneiras você pode pesar algo que pesa 13? Qual é o maior peso que você pode medir?\n"
+"\n"
+"Após alguma investigação, você descobrirá que pode pesar tudo até um a menos que o dobro do maior peso - neste caso, 31. Além disso, cada item que você pode pesar pode ser pesado de apenas uma maneira - por exemplo, 13 = 1 + 4 + 8, e não há outra maneira de fazê-lo. Muito legal! Esta situação está relacionada ao sistema de números binários.\n"
+"\n"
+"**Pesos de Fibonacci:** O que acontece se os pesos estiverem nos Números de Fibonacci? Existe mais de uma maneira de pesar alguns pesos? Encontre uma restrição que faria com que houvesse apenas uma maneira para cada peso.\n"
+"\n"
+"Suponha que você tenha um de cada para os pesos 1, 1, 2, 3, 5, 8 e 13. Com isso, 10 = 2 + 3 + 5 = 2 + 8 = 1 + 1 + 3 + 5 = 1 + 1 + 8. A duplicação é causada pelo fato de a Regra de Fibonacci criar mais de uma forma de escrever os Números de Fibonacci em termos de si mesmos — por exemplo, 2 = 1 + 1 e 8 = 5 + 3. A solução para esse problema é insistir que não se pode usar dois Números de Fibonacci que sejam consecutivos na sequência. Ao adicionar essa restrição, a única forma de obter 10 é 2+8."
 
 #. type=data_list
 msgctxt "data_list"
