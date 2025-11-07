@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-11-04 20:44\n"
+"PO-Revision-Date: 2025-11-07 23:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -21451,6 +21451,11 @@ msgstr "矩形面積"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Introduction"
+msgstr "介紹"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "The area of a rectangle is its length times its width. That dry statement can be made tangible to your child in at least two ways."
 msgstr "矩形的面積等於它的長乘寬。這個枯燥的陳述可以透過至少兩種方式讓孩子更容易理解。"
 
@@ -21654,6 +21659,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "PRACTICE PRIME FACTORIZATIONS"
 msgstr "練習質因數分解"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Activity"
+msgstr "活動"
 
 #. type=data_list
 msgctxt "data_list"
@@ -27251,6 +27261,12 @@ msgstr "高階"
 msgctxt "template"
 msgid "**Beginning Storybooks**"
 msgstr "**初階故事書**"
+
+#. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
 
 #. type=template
 msgctxt "template"
