@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Portuguese, Brazilian\n"
 "\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-11-05 00:36\n"
+"PO-Revision-Date: 2025-11-07 22:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14709,6 +14709,152 @@ msgstr ""
 "**Pesos de Fibonacci:** O que acontece se os pesos estiverem nos Números de Fibonacci? Existe mais de uma maneira de pesar alguns pesos? Encontre uma restrição que faria com que houvesse apenas uma maneira para cada peso.\n"
 "\n"
 "Suponha que você tenha um de cada para os pesos 1, 1, 2, 3, 5, 8 e 13. Com isso, 10 = 2 + 3 + 5 = 2 + 8 = 1 + 1 + 3 + 5 = 1 + 1 + 8. A duplicação é causada pelo fato de a Regra de Fibonacci criar mais de uma forma de escrever os Números de Fibonacci em termos de si mesmos — por exemplo, 2 = 1 + 1 e 8 = 5 + 3. A solução para esse problema é insistir que não se pode usar dois Números de Fibonacci que sejam consecutivos na sequência. Ao adicionar essa restrição, a única forma de obter 10 é 2+8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With Factors"
+msgstr "Nim com Fatores"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Start with any number, say 20. Let the child decide whether to go first or second. During their turn, a player may subtract any divisor of the current number from the number. The player forced to 0 loses."
+msgstr "Comece com qualquer número, por exemplo 20. Deixe a criança escolher se quer ir primeiro ou depois. Em seu turno, um jogador poderá subtrair qualquer divisor do número atual do número. O jogador que chegar a 0 primeiro perde."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As usual, a good strategy for learning about this game is to look at a simpler version of the game, which in this case means starting with very small numbers. If it is your turn and you are faced with each of these numbers, here is what will happen: 1 - lose, 2 - win, 3 - lose, 4 - win, 5 - lose, 6 - win, 7 lose, and 8 win. By now the pattern is clear - if it is your move and you have an odd number, then you will lose; if you have an even number, then you will win.\n"
+"\n"
+"Finding the winning strategy is a big step, but let’s go deeper. Why does this work? What are the properties of odd and even numbers that create this situation? Set this question before your child and give them a lot of time to think about it and experiment with it - there is no hurry, and this process of wrestling with a question is invaluable and should not be short circuited.\n"
+"\n"
+"Some experimentation with small numbers quickly reveals what is going on. If you have an odd number, all of the divisors are odd, so when you subtract any divisor the result is an even number. Consequently, odd numbers on one turn always lead to an even number on the next turn. Even numbers always have both odd and even numbers for divisors. So, the situation is not quite the same. However, if you have an even number, your goal is to give your opponent an odd number, and there is an easy way to do that - select the divisor 1 and subtract it!"
+msgstr ""
+"Como sempre, uma boa estratégia para aprender sobre esse jogo é observar uma versão mais simples do jogo, que nesse caso significa começar com números bem pequenos. Se é a sua vez e você ver algum desses números, isso que irá acontecer : 1 - perde, 2 - ganha, 3 - perde, 4 - ganha, 5 - perde, 6 - ganha, 7 - perde, e 8 - ganha. Nesse momento o padrão está claro - se é a sua vez e você tem um número ímpar, você perde; se você tem um número par, você ganha.\n"
+"\n"
+"Encontrar a estratégia para vencer é importante, mas vamos nos aprofundar mais nisso. Por que isso funciona? Quais são as propriedades dos números ímpares e pares que criam essa situação? Faça essa pergunta para o seu filho e dê a ele bastante tempo para pensar sobre o assunto e fazer experimentos - não há pressa, afinal esse processo de raciocinar sobre a pergunta é extremamente valioso e não pode ser apressado.\n"
+"\n"
+"Alguns experimentos com números pequenos rapidamente revelam o que está acontecendo. Se você tem um número ímpar, todos os divisores são ímpares, então quando você subtrai qualquer divisor o resultado é um número par. Consequentemente, um número ímpar em um turno sempre leva a um número par no próximo turno. Números pares sempre possuem ambos números ímpares e pares como divisores. Portanto, a situação não é exatamente igual. No entanto, se você tem um número par, seu objetivo é dar um número ímpar para o oponente, e há um jeito fácil de fazer isso - selecione o divisor 1 e subtraia!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sieve of Eratosthenes"
+msgstr "Crivo de Eratóstenes"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Start with a number line numbered from 1 to 25 - or a larger range if space and your patience allows. \n"
+"\n"
+"Write the number 2 below itself. On the line even with this 2, put X’s below each multiple of 2. \n"
+"\n"
+"Now, pull down the first number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples. Continue in this way. At the end, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!"
+msgstr ""
+"Comece com uma reta numérica de 1 a 25 - ou mais se o espaço e sua paciência permitir.\n"
+"\n"
+"Reescreva o número 2 abaixo de si mesmo. Na mesma linha do número 2, escreva X abaixo de cada múltiplo de 2.\n"
+"\n"
+"Agora, pegue o primeiro número que não possui um X abaixo dele mesmo (nesse caso o 3) e coloque ele na próxima linha. Escreva o 3 e coloque X nesta linha no lugar de todos os seus múltiplos. Continue desse jeito. No fim, você terá obtido todos os números primos. Lembre-se que 1 é uma unidade e não um primo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This simple process reveals some interesting facts about primes. See if your child can come up with some of these questions - however, if they don’t arise naturally, here are some questions to ask.\n"
+"\n"
+"a) Why are the numbers that drop down primes?\n"
+"\n"
+"Suppose you have a composite number. We want to show that this number will have an X under it. Being composite, it is divisible by some number, n, between 1 and that number. If n is a prime, then our composite number would have an X under it from n being an earlier prime. If n is not a prime, then it has an X under it from some earlier prime, call it p. Now, p evenly divides n and n evenly divides our new number, so p must divide our new number. Consequently, when marking the multiples of p, an X would have been placed under our new number.\n"
+"\n"
+"b) When you are placing X’s for the multiples of a prime, there are some numbers that already have an X from an earlier prime. When does that happen and when doesn’t it happen?\n"
+"\n"
+"Let’s look at the multiples of 5 in the sieve above. The multiples 5 x 2, 5 x 3, and 5 x 4 are already crossed out. Only 5 x 5 is new. This happens because 5 x 2, 5 x 3, and 5 x 4 are all multiples of 2 and 3, earlier primes. If we want to put X’s in fresh places, we must multiply 5 by numbers that only have prime factors that are 5 and above. Because it is a little tedious to keep track of all that, what some people do is only cross out odd multiples and leave it at that.\n"
+"\n"
+"c) For this sieve, what was the last prime that had a useful new X in its row?\n"
+"\n"
+"In this sieve, the primes with useful X’s are 2, 3, and 5. The multiples of 7 and 11 were all old X’s. If you look at the answer to the last question, you will see the answer here. The only way to get new X’s is to multiply a prime by primes bigger than or equal to itself. Once we reach a prime like 7 where 7 x 7 > 25, we do not need to check it. So, we only need to check primes whose square is smaller than or equal to the last number.\n"
+"\n"
+"d) If you were given a number, say 53, which primes would you need to divide it by to see that it is prime? \n"
+"\n"
+"From the answer to the last question, we only need to check primes whose square is less than or equal to 53. Those primes are 2, 3, 5, and 7 – none of these divides 53 evenly, so 53 must be prime!"
+msgstr ""
+"Esse processo simples revela alguns fatos interessantes sobre os números primos. Veja se o seu filho consegue pensar nessas perguntas - contudo, se elas não vierem naturalmente, aqui estão algumas perguntas para fazer.\n"
+"\n"
+"1) Porque os números que descem são primos?\n"
+"\n"
+"Vamos supor que você tenha um número composto. Nós queremos mostrar que esse número terá um X abaixo. Sendo composto, ele é divisível por algum número, n, entre o 1 e aquele número. Se n é um número primo, então o nosso número composto terá um X abaixo dele sendo n um número primo anterior. Se n nao é um número primo, então ele tem um X abaixo de um número primo que veio antes, vamos chamar ele de p. Agora, p divide igualmente n e n divide igualmente nosso novo número, então p deve dividir o nosso novo número. Consequentemente, quando marcar os múltiplos de p, um X deve ser colocado abaixo do nosso novo número.\n"
+"\n"
+"2) Quando você estiver colocando os Xs para os múltiplos de um número primo, há alguns números que já possuem o X de um número primo anterior. Quando isso acontece e quando isso não acontece?\n"
+"\n"
+"Vamos observar os múltiplos de 5 no crivo acima. Os múltiplos 5 x 2, 5 x 3, e 5 x 4 já foram riscados. Apenas 5 x 5 é novo. Isso acontece porque 5 x 2, 5 x 3, e 5 x 4 são todos múltiplos de 2 e 3, números primos anteriores. Se quisermos colocar o X em lugares novos, devemos multiplicar o 5 por números que possuem fatores primos 5 ou maiores. Por ser um pouco tedioso acompanhar tudo isso, o que algumas pessoas fazem é riscar apenas os múltiplos ímpares e deixar por isso mesmo.\n"
+"\n"
+"3) Nesse crivo, qual foi o último número primo que possui um novo X útil na sua fileira?\n"
+"\n"
+"Nesse crivo, os números primos com X úteis são 2, 3, e 5. Os múltiplos de 7 e 11 já possuíam outros X. Se você observar a resposta da última questão, você verá a resposta aqui. A única maneira de obter novos Xs é multiplicar um número primo por números primos maiores ou iguais a ele mesmo. Uma vez que chegamos a um primo como o 7 onde 7 x 7 > 25, nós não precisamos conferir ele. Então, nós apenas precisamos conferir os primos que o quadrado é menor ou igual ao último número.\n"
+"\n"
+"4) Se te dessem um número, 53 por exemplo, quais números primos você precisa dividir ele para descobrir se ele é primo?\n"
+"\n"
+"Segunda a resposta da última pergunta, nós apenas precisamos checar os números primos que o quadrado é menor ou igual a 53. Esses números primos são 2, 3, 5, e 7 – nenhum desses divide 53 igualmente, então 53 deve ser um número primo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Levers and Mobiles"
+msgstr "Alavanca e Móbiles"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Levers"
+msgstr "Alavancas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The lever principle states that the force exerted on one side of a lever by a mass is equal to the mass times its distance from the pivot point, the fulcrum."
+msgstr "O princípio da alavanca afirma que a força exercida em um lado da alavanca por uma massa é igual à multiplicação da massa vezes a distância do ponto de pivô, o ponto de apoio."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In the lever above, the 3 on the left side is a distance of 5 from the fulcrum, so its force is 3 x 5 = 15. The 5 on the right side is a distance of 3 from the fulcrum, so its force is 5 x 3 = 15. This lever is in balance.\n"
+"\n"
+"If there is more than one weight on a side, the forces will add up."
+msgstr ""
+"Na alavanca acima, o 3 no lado esquerdo está a uma distância de 5 do ponto de apoio, então a força é 3 x 5 = 15. O 5 no lado direito está a uma distância de 3 em relação ao ponto de apoio, então a sua força é 5 x 3 = 15. Essa alavanca está em equilíbrio.\n"
+"\n"
+"Se houver mais de um peso em um lado, as forças irão se somar."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this lever, there is 3 x 4 + 1 x 2 + 1 x 1 = 15 on the left side, and 5 x 3 = 15 on the right side. So it is in balance.\n"
+"\n"
+"We will restrict these problems to only use whole numbers. You can decide whether you allow multiple weights to be hung off of the same point – we will assume it’s okay to do multiple weights in the discussion that follows."
+msgstr ""
+"Nessa alavanca, há 3 x 4 + 1 x 2 + 1 x 1 = 15 no lado esquerdo, e 5 x 3 = 15 no lado direito. Então está em equilíbrio.\n"
+"\n"
+"Nós iremos limitar esses problemas a apenas números inteiros. Você pode decidir se permitirá ou não ter mais de um peso pendurado no mesmo ponto – assumiremos que é aceitável o uso de múltiplos pesos na discussão a seguir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lever Puzzles"
+msgstr "Quebra-Cabeças de Alavancas"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be the distances 5 and 3, but it can also be 10 and 6, or even larger answers such as 15 and 9. Be open to discussing whatever your child comes up with. \n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? This question continues the questions on the Make It Count page at the end of Chapter 4. As before, explore different combinations of weights. What happens if 3 and 5 are replaced by 4 and 5, 4 and 9, or 6 and 9?\n"
+"\n"
+"How does this last problem change if we put the 3-unit and 5-unit weights on opposite sides of the fulcrum? Now it is easy to weigh a 1-unit weight by using 3 x 2 = 5 x 1 + 1 x 1. What other weights can you weigh this way?"
+msgstr ""
+"Você tem um peso de 3-unidades e um de 5-unidades para colocar em lados opostos do ponto de apoio. Onde eles devem ser postos para que eles fiquem equilibrados? A resposta para isso é colocá-los nas distâncias 5 e 3, mas também pode ser no 10 e no 6, ou em números até maiores como 15 e 9. Mantenha-se receptivo a discutir qualquer ideia que seu filho apresentar.\n"
+"\n"
+"Se você tem um peso de 3-unidades e um peso de 5-unidades para colocar em um lado de uma alavanca, quais pesos você pode colocar a quais distâncias no outro lado? Essa pergunta é uma continuação da página Contando Pra Valer ao final do Capítulo 4. Como antes, explore diferentes combinações de pesos. O que acontece se o 3 e 5 forem substituídos por 4 e 5, 4 e 9, ou 6 e 9?\n"
+"\n"
+"Como esse problema muda se nós colocarmos o peso de 3-unidades e 5-unidades em lados opostos do ponto de apoio? Agora é fácil pesar um peso de 1-unidade usando 3 x 2 = 5 x 1 + 1 x 1. Quais outros pesos você consegue pesar dessa forma?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mobiles"
+msgstr "Móbiles"
 
 #. type=data_list
 msgctxt "data_list"
