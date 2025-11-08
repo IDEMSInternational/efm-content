@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Traditional\n"
 "\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-11-07 23:53\n"
+"PO-Revision-Date: 2025-11-08 01:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -22119,6 +22119,11 @@ msgstr "為玩家設置數字範圍——可以是 1 到 12，也可以是 1 到
 msgctxt "data_list"
 msgid "BOUNCING BILLIARD BALL"
 msgstr "反彈撞球"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Investigation"
+msgstr "調查"
 
 #. type=data_list
 msgctxt "data_list"
