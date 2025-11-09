@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-11-09 22:24\n"
+"PO-Revision-Date: 2025-11-09 23:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14989,6 +14989,31 @@ msgstr "Некоторые люди становятся врачами пото
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "Этап 1 – Я Тебя Слышу!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "Этап 2 – Я Могу Считать до 5!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "Этап 3 – Я Могу Считать до 10!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "Этап 4 – Я Могу Считать до 20!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "Этап 5 – Я Могу Считать до 100!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "A father, his son, and their donkey started a long journey.\n"
 "\n"
@@ -15414,7 +15439,7 @@ msgstr "Балет - это не спорт. Однако танцоры спо�
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 1 – I CAN HEAR YOU!"
-msgstr "Этап 1 – Я Тебя Слышу!"
+msgstr "ЭТАП 1 – Я ТЕБЯ СЛЫШУ!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16406,7 +16431,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 2 – I CAN COUNT TO 5!"
-msgstr "2-ОЙ ЭТАП – Я СЧИТАЮ ДО 5!"
+msgstr "ЭТАП 2 – Я МОГУ СЧИТАТЬ ДО 5!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17738,13 +17763,28 @@ msgstr "Если таблица 4x4 слишком сложна, начните 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "STAGE 3 – I CAN COUNT TO 10!"
+msgstr "ЭТАП 3 – Я МОГУ СЧИТАТЬ ДО 10!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Stage 3 Introduction"
 msgstr "3-ый Этап – Введение"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "STAGE 4 – I CAN COUNT TO 20!"
+msgstr "ЭТАП 4 – Я МОГУ СЧИТАТЬ ДО 20!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Stage 4 Introduction"
 msgstr "4-ый Этап – Введение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 5 – I CAN COUNT TO 100!"
+msgstr "ЭТАП 5 – Я МОГУ СЧИТАТЬ ДО 100!"
 
 #. type=data_list
 msgctxt "data_list"
