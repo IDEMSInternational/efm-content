@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-10 22:06\n"
+"PO-Revision-Date: 2025-11-10 23:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15716,13 +15716,13 @@ msgid ""
 "\n"
 "Player 2: “I see it! It’s the clock!”"
 msgstr ""
-"プレイヤー 1: \"大きな青い円のようなものが見えます。\"\n"
+"プレイヤー 1: 「大きな青い円のようなものが見えます。」\n"
 "\n"
-"プレイヤー 2: \"それは自転車の車輪ですか？\"\n"
+"プレイヤー 2: 「それは自転車の車輪ですか？」\n"
 "\n"
-"プレイヤー 1: \"いいえ。壁の真ん中にあります。\"\n"
+"プレイヤー 1: 「いいえ。壁の真ん中にあります。」\n"
 "\n"
-"プレイヤー 2: \"見つけました！それは時計です！\""
+"プレイヤー 2: 「見つけました！それは時計です！」"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15767,7 +15767,7 @@ msgstr "色付きタイル"
 #. type=data_list
 msgctxt "data_list"
 msgid "**How to create:** Create a set of “tiles” from cardboard or stiff paper. Use the patterns in the EFM Printables PDF, or download the patterns from a source on the internet. Use one source for all the shapes so that they fit well together. For each shape, use just one or two colors, such as red squares and blue triangles – that will help your child pick up the pattern of which shapes are which, and it will make the patterns more interesting."
-msgstr "**作成方法：** 段ボールや厚紙から\"タイル\"のセットを作ります。EFM プリント教材のPDFのパターンを使うか、インターネットの別のソースからパターンをダウンロードします。すべての形がうまく組み合わさるように、1つのソースを使用してください。それぞれの形には、赤の正方形と青の三角形のように、1色か2色だけを使います。そうすることで、お子さんがどの形がどれかを把握しやすくなり、パターンがより興味深くなります。"
+msgstr "**作り方：** 段ボールや厚紙から「タイル」のセットを作ります。EFMのプリント教材のPDFのパターンを使うか、インターネットの別のソースからパターンをダウンロードします。すべての形がうまく組み合わさるように、1つのソースを使用してください。それぞれの形には、赤の正方形と青の三角形のように、1色か2色だけを使います。そうすることで、お子さんがどの形がどれかを把握しやすくなり、パターンがより興味深くなります。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15778,7 +15778,7 @@ msgid ""
 msgstr ""
 "お子さんがタイルを組み合わせて模様を作るのを見守りましょう。形や色の名前を言いながら進めていきます。\n"
 "\n"
-"年齢の高いお子さんには、繰り返すパターンについて話します。また、デザイン全体の対称性についても話しましょう。デザインの中には、一方がもう一方の反射になっているものがあり、それは**鏡対称**と呼ばれます。**"
+"年齢の高いお子さんには、繰り返すパターンについて話します。また、デザイン全体の対称性についても話しましょう。デザインの中には、一方がもう一方の反射になっているものがあり、それは \\textbf{鏡対称}と呼ばれます。"
 
 #. type=data_list
 msgctxt "data_list"
