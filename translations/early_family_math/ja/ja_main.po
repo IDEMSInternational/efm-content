@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-11 17:17\n"
+"PO-Revision-Date: 2025-11-11 18:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16973,9 +16973,9 @@ msgid ""
 "\n"
 "**Examples:** The challenger might say “Which two numbers have a product of 12 and a difference of 4?” You can extend this to three numbers, if you like - “Which three numbers have a product of 12 and a sum of 8?”"
 msgstr ""
-"ステージ4の終わり近くで、合計差のアクティビティでは、1人が2つの数字を考え、もう1人がその数字を見つけるように挑戦し、その際、数字の合計と差を教えます。秘密の演算では同じアイデアを使用しますが、今回は挑戦者が掛け算や引き算など、任意の2つの演算を使用できるようになっています。\n"
+"ステージ4の終わり頃に行った「足し算・引き算ゲーム」では、1人が2つの数を考え、その合計と差だけを相手に伝えて、その2つの数を当ててもらうというアクティビティがありましたね。秘密の演算では同じアイデアを使用しますが、今回は挑戦者がかけ算や引き算など、任意の2つの演算を使用できるようになっています。\n"
 "\n"
-"**例:** 挑戦者は「積が12で差が4の2つの数字はどれですか？」と言うかもしれません。このアイデアを3つの数字に拡張することもできます。例えば「積が12で合計が8の3つの数字はどれですか？」"
+"**例：** 挑戦者は「積が12で差が4になる2つの数字は何ですか？」こう言うかもしれません。また、希望があれば3つの数字に拡張して、「積が12で和が8になる3つの数字は何ですか？」と出題することもできます。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16990,7 +16990,7 @@ msgstr "混合演算"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Levers:** Use the lever principle to practice multiplication and addition. The principle says that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
-msgstr "**てこ:** てこの原理を使って掛け算と足し算を練習します。この原理では、てこの一方の側にある質量が与える力は、その質量と支点からの距離を掛けたものに等しいとされています。一方の側にある複数の質量による力は合計され、全体の力が求められます。そして、てこがバランスを保つためには、両側の力の合計が等しくなければなりません。"
+msgstr "**てこ：** てこの原理を使ってかけ算と足し算を練習します。この原理では、てこの一方の側にある質量が与える力は、その質量と支点からの距離を掛けたものに等しいとされています。複数の物体が同じ側にある場合、それぞれの力を足し合わせて合計の力を求めます。そして、てこがバランスしている状態とは、左右の合計の力が等しいときに成立します。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16999,14 +16999,14 @@ msgid ""
 "\n"
 "If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? What if the two weights are on different sides of the lever? This question continues the questions on the Make It Count page at the end of Stage 4."
 msgstr ""
-"**例:** 3ユニットの重さと5ユニットの重さを支点の反対側に置いてバランスを取るには、どこに置けばよいでしょうか？この答えは、距離5と3でもよいですが、10と6、またはさらに大きな答えとして15と9のようなものも可能です。\n"
+"**例：** 3ユニットの重さと5ユニットの重さを支点の両側に置いてバランスを取るには、どこに置けばよいでしょうか？この答えは、距離5と3でもよいですが、10と6、またはさらに大きな答えとして15と9のようなものも可能です。\n"
 "\n"
-"もし、3ユニットと5ユニットの重さをレバーの一方に置く場合、反対側にはどのような重さと距離を置くことができるでしょうか？もし、2つの重さがレバーの異なる側にある場合はどうでしょうか？この質問は、ステージ4の最後にある「一緒に数えよう」ページの質問を続けています。"
+"3単位と5単位の重りをてこの片側に置く場合、反対側にはどんな重りをどの距離に置けばバランスが取れるでしょうか？また、もし3単位と5単位の重りがてこの左右それぞれの側に置かれている場合はどうでしょうか？この質問は、ステージ4の最後にある「一緒に数えよう」ページの質問の続きになります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "BEEP"
-msgstr "ビー"
+msgstr "ブー"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17024,18 +17024,18 @@ msgid ""
 "\n"
 "**How to win:** The last player remaining in wins!"
 msgstr ""
-"**準備:** プレイヤーを円形に配置します。ゲームのラウンドで使用する数字のグループを最初に決めます。楽しいものや概念の練習になる数字のグループを選びましょう。一般的な選択肢には次のようなものがあります。\n"
+"**準備：** プレイヤーを円になって座らせます。今回のゲームで使用する数字のグループを最初に決めます。楽しくなるものや、特定の概念の練習になる数字のグループを選びましょう。一般的な選択肢には次のようなものがあります。:\n"
 "\n"
 "* 奇数か偶数\n"
 "* 3の倍数 (または他の数の倍数)\n"
 "* 3の倍数と7の倍数\n"
-"* 3の倍数で5の倍数ではない \n"
+"* 3の倍数で5の倍数ではない\n"
 "* 3の倍数と、数字に3が含まれている数\n"
 "* 素数\n"
 "\n"
-"**遊び方:** 円を回りながら、プレイヤーは1から始めて順番に数字を言います。もしその数字がグループに含まれていれば、そのプレイヤーは数字の代わりに「ビー」と言わなければなりません。プレイヤーが「ビー」を言い忘れるか、間違った数字で「ビー」と言った場合、そのプレイヤーはアウトになります。\n"
+"**遊び方：** 円を回りながら、プレイヤーは1から始めて順番に数字を言います。もしその数字がグループに含まれていれば、そのプレイヤーは数字の代わりに「ブー」と言わなければなりません。プレイヤーが「ブー」を言い忘れるか、間違った数字で「ブー」と言った場合、そのプレイヤーはアウトになります。\n"
 "\n"
-"**勝利方法:** 最後に残ったプレイヤーが勝ちです！"
+"**勝ち方：** 最後に残ったプレイヤーが勝ちです！"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17051,21 +17051,21 @@ msgid ""
 "\n"
 "**How to win:** The first player to get 3 in a row wins."
 msgstr ""
-"**準備:** Q（0として）、A（1として）、および2から9のカードが含まれたデッキを使用するか、0から9までの数字カードを4セット使用します。紙に4×5のグリッドを作り、20のスペースにランダムに5の倍数と10の倍数を埋めます。各プレイヤーにはコマをセットします。\n"
+"**準備：** Qを0として、Aを1として扱い、2から9のカードを加えたトランプのデッキを使用するか、0から9までの数字のカードを4セット使用します。紙に 4 × 5 のマス目を作り、20のスペースにランダムに5の倍数と10の倍数を書いて埋めます。各プレイヤーにはコマを用意します。\n"
 "\n"
-"**遊び方:** ランダムにカードを選び、その番号の5倍または10倍の場所に自分のコマを置きます（選択肢は自由です）。一度その場所が占められると、他のプレイヤーはそこに移動できません。\n"
+"**遊び方：** ランダムにカードを選び、その番号の5倍または10倍の場所に自分のコマを置きます。すでに誰かがコマを置いた場所には、他のプレイヤーは移動できません。\n"
 "\n"
-"**勝利方法:** 初めに3つの列を獲得した人が勝ちです。"
+"**勝ち方：** 初めに3つの列を獲得した人が勝ちです。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "The numbers 5 and 10 can be replaced by other pairs such as 2 and 4, or 3 and 6. These pairings help with practicing doubling strategies for multiplication. For example, if the player does not know 6 × 7, they can double 3 × 7."
-msgstr "5と10は、2と4や3と6のような他のペアに置き換えることができます。これらのペアは、掛け算の倍数戦略を練習するのに役立ちます。例えば、もしプレイヤーが6×7を知らなければ、3×7を倍にすることで解くことができます。"
+msgstr "数字の5と10は、2と4や3と6のような他のペアに置き換えることができます。これらのペアは、かけ算の倍数戦略を練習するのに役立ちます。例えば、もしプレイヤーが 6 × 7 を知らなければ、3 × 7 を倍にすることで解くことができます。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "WAR – MULTIPLICATION"
-msgstr "戦争 – 掛け算"
+msgstr "戦争 – かけ算バージョン"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17076,21 +17076,21 @@ msgid ""
 "\n"
 "**How to win:** The player with the most cards after playing for a set time is the winner."
 msgstr ""
-"**準備:** デッキから絵札を取り除き、2人のプレイヤーで均等に分けます。より集中した練習を行うためにAと10のカードも取り除きます。\n"
+"**準備：** デッキから絵札を取り除き、2人のプレイヤーで均等に分けます。より特定の数に集中した練習を行いたい場合は、Aと10のカードも取り除きます。\n"
 "\n"
-"**遊び方:** 各プレイヤーはカードを2枚裏返し、それらを掛け算します。そして、積が大きいプレイヤーがその4枚のカードを獲得します。積が同じ場合はさらに2枚のカードを裏返し、勝者が8枚すべてのカードを獲得します。\n"
+"**遊び方：** 各プレイヤーはカードを2枚裏返し、それらをかけ算します。そして、積が大きいプレイヤーがその4枚のカードを獲得します。積が同じ場合はさらに2枚のカードを裏返し、勝者が8枚すべてのカードを獲得します。\n"
 "\n"
-"**勝利方法:** 決められた時間が経過した後最も多くのカードを持っているプレイヤーが勝者です。"
+"**勝ち方：** 決められた時間が経過した後最も多くのカードを持っているプレイヤーが勝者です。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "TURNING THE TABLES"
-msgstr "逆転する"
+msgstr "テーブルをひっくりかえせ"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Multiplying and Tables"
-msgstr "掛け算と九九"
+msgstr "かけ算と九九"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17101,11 +17101,11 @@ msgid ""
 "\n"
 "**Example:** Here is an example using headings of 2 through 9:"
 msgstr ""
-"標準的な掛け算表を埋めるのは退屈で、子どもたちはすぐに掛け算ではなく繰り返し足し算を使って埋めることに気づきます。掛け算の練習だけでなく、問題解決や因数分解の練習もするために、それらを混ぜ合わせた掛け算表を作成しましょう。\n"
+"標準的なかけ算表を埋めるのは退屈で、子どもたちはすぐにかけ算ではなく、たし算を繰り返し使って埋められることに気がつきます。かけ算の練習だけでなく、問題解決力や因数分解の練習をするために、ミックスアップ九九表を作成しましょう。\n"
 "\n"
-"**作り方:** これらの表を行や列を入れ替えて作成し、その後見出しや中央のほとんどの項目を省略します。\n"
+"**作り方：** この九九表の作り方は、行や列の順番を入れ替えて、中央の答えや見出しの多くを空欄にします。\n"
 "\n"
-"**例:** こちらは2から9の見出しを使用した例です。"
+"**例：** こちらは2から9の見出しを使用した例です。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17116,11 +17116,11 @@ msgid ""
 "\n"
 "The 49 forces its column and row to be multiplying by 7. The 9 forces its column and row to be multiplying by 3."
 msgstr ""
-"**解決方法:** 最初に特徴的な項目から始めます。\n"
+"**解決方法：** 最初に特徴的な項目から始めます。\n"
 "\n"
-"20はその行が4と掛け算をすることを強制し、次に36はその列が9になるようにします。\n"
+"20があることで、その行は4をかける段であることがわかり、次に36があることで、その列は9をかける列であることが分かります。\n"
 "\n"
-"49はその列と行が7と掛け算をすることを強制します。9はその列と行が3と掛け算をすることを強制します。"
+"49があることで、その行と列の両方が7の段であることがわかります。9があることで、その行と列の両方が3の段であることがわかります。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17134,9 +17134,9 @@ msgid ""
 "\n"
 "**Your child can make them:** Challenge your child to make one of these puzzles for you. A lot of good thought can go into creating one of these!"
 msgstr ""
-"**難易度:** 難易度を上げたり下げたりするために数字をもっと省略したり、少なくしたりします。この例では、5列の 「5」を省略することもできました。20には 5 の因数が必要ですがその因数は20の行からは出せません。なぜならその行には36があるからです。\n"
+"**難易度：** 難易度を調整するには、表の中に残す数の量を増やしたり減らしたりしましょう。この例では、5列の 「5」を省略することもできました。20には 5 の因数が必要ですがその因数は20の行からは出せません。なぜならその行には36があるからです。\n"
 "\n"
-"**お子さんが作ることもできます:** お子さんにこれらのパズルの1つを作ってもらいましょう。これを作るには多くの良い考えが必要ですよ！"
+"**お子さんが作ることもできます：** お子さんにこれらのパズルを1つ作ってもらいましょう。これを作るには多くの良いアイデアが必要です！"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17146,17 +17146,17 @@ msgstr "長方形の面積"
 #. type=data_list
 msgctxt "data_list"
 msgid "The area of a rectangle is its length times its width. That dry statement can be made tangible to your child in at least two ways."
-msgstr "長方形の面積は、その長さと幅を掛け算したものです。この単純な説明はお子さんに少なくとも2つの方法で具体的に示すことができます。"
+msgstr "長方形の面積は、その長さと幅をかけ算したものです。このシンプルな事実を、お子さんにわかりやすく実感させる方法が少なくとも2つあります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "The first way uses rectangles broken into an array of squares. The second uses number shapes to see how a quantity, such as 12, can be placed into an array – 3 by 4, 2 by 6, or 1 by 12. Playing with rectangle areas gives us an arena to play around with multiplication and factoring!"
-msgstr "最初の方法は、長方形を小さな正方形の配列に分ける方法です。二番目は、数の形を使って12のような数量がどのように配列できるかを示す方法です。– 例えば、3×4、2×6、または1×12です。長方形の面積を扱うことで掛け算や因数分解を遊びながら学ぶことができます！"
+msgstr "最初の方法は、長方形を小さな正方形の配列に分ける方法です。二番目は、数の形を使って12のような数量がどのように配列できるかを示す方法です。– 例えば、3 × 4、2 × 6、または 1 × 12 です。長方形の面積を扱うことでかけ算や因数分解を遊びながら学ぶことができます！"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "NUMBER SHAPES REVISITED"
-msgstr "数の形の再考"
+msgstr "数の図形の再考"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17170,19 +17170,19 @@ msgid ""
 "\n"
 "**Rectangles:** The sides of rectangles are values that evenly divide the number and multiply together to give the number. Making rectangles is a direct way to experience divisibility."
 msgstr ""
-"小さな物、例えばレーズンの大きな集合から始めます。各番号について、その数の物で作れる長方形やその他の形を調べてみましょう。\n"
+"たとえばレーズンなど、小さな物をたくさん用意しましょう。それぞれの数について、その数の物を使ってどんな長方形やその他の図形を作れるか調べてみます。\n"
 "\n"
-"**長方形:** 長方形の辺は、その数を均等に割り切り、掛け合わせてその数を得る値です。長方形を作ることは、割り算を体験する直接的な方法です。"
+"**長方形：** 長方形の辺の長さは、その数を割り切ることができ、かけ合わせると元の数になる値です。長方形を作ることは、割り算を直接体験する方法です。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**Unit, prime, composite:** 1 is a unit, and can only be made with a 1 by 1 rectangle. The numbers, such as 5, that only have flat rectangles, are called primes. Numbers that are not a unit or a prime are called composite because they are composed of primes being multiplied together, such as 12 = 2 × 2 × 3. Numbers, such as 9, are called squares because one of their rectangles is a square – one rectangle for 9 is the 3 by 3 square."
-msgstr "**単位、素数、合成数:** 1は単位であり、1×1の長方形でしか作れません。5のように平面の長方形だけが作れる数は素数と呼ばれます。単位でも素数でもない数は合成数と呼ばれ、素数を掛け合わせてできるためです。例えば、12=2×2×3のようにです。9のような数は平方数と呼ばれ、1つの長方形が正方形になるためです。9の場合、1つの長方形は3×3の正方形です。"
+msgstr "**単位、素数、合成数：** 1は単位で、1 × 1 の長方形でしか作れません。5のように平面の長方形だけが作れる数は素数と呼ばれます。単位でも素数でもない数は合成数と呼ばれます。なぜなら素数を掛け合わせてできるためです。例えば、12 = 2 × 2 × 3 です。9のような数は平方数と呼ばれ、1つの長方形が正方形になるためです。9の場合、1つの長方形は3×3の正方形です。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**Trapezoidal numbers:** There are other shapes that are fun to investigate. For example, which numbers are trapezoidal? These are the numbers that can be represented as stair steps (where each level changes its length by 1)? If you include triangular numbers in this group, the answer is surprising – it is all numbers that are not a power of 2!"
-msgstr "**台形数:** 他にも調べるのが楽しい形があります。例えばどの数が台形数でしょうか？これらは階段のように表現できる数です（各段が1ずつ長さが変わります）。もしこのグループに三角数を含めると、答えは驚くべきものです。それは、2の累乗でないすべての数です！"
+msgstr "**台形数：** 他にも調べるのが楽しい形があります。例えばどの数が台形数でしょうか？これらは階段のように表現できる数です（各段が1ずつ長さが変わります）。もしこのグループに三角数を含めると、答えは驚くべきものです。それは、2の累乗でないすべての数です！"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17198,16 +17198,16 @@ msgid ""
 "\n"
 "**How to win:** The player with the largest total wins."
 msgstr ""
-"**準備:** 各プレイヤーは1枚のグラフ用紙を準備します。\n"
+"**準備：** 各プレイヤーに1枚ずつ方眼紙を準備します。\n"
 "\n"
-"**遊び方:** プレイヤーのターンでは、1から10の2枚のトランプカードを使って長方形の寸法を決めます。もしプレイヤーの用紙にスペースがあれば、長方形は既存の長方形と重ならない場所に配置できます。配置したら、その内部を軽く色付けし、面積と寸法を記入します。もしスペースがなければ、そのターンはスキップされます。\n"
+"**遊び方：** プレイヤーのターンでは、1から10の2枚のトランプカードを使って長方形の寸法を決めます。もしプレイヤーの用紙にスペースがあれば、長方形は既存の長方形と重ならない場所に配置できます。配置したら、その内部を軽く色付けし、面積と寸法を記入します。もしスペースがなければ、そのターンはスキップされます。\n"
 "\n"
-"**勝利方法:** 合計が大きいプレイヤーが勝利です。"
+"**勝ち方：** 合計が大きいプレイヤーが勝利です。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "For a normal piece of graph paper, this can be a long game – reduce the time by using half the paper or limiting the number of turns."
-msgstr "普通のグラフ用紙を使うと、このゲームは長時間かかることがあります。時間を短縮するために紙の半分を使うか、ターンの回数を制限してください。"
+msgstr "普通の方眼紙を使うと、ゲームが長くなることがあります。時間を短縮するために紙の半分を使うか、ターンの回数を制限してください。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17222,12 +17222,12 @@ msgstr "長方形の面積ゲーム"
 #. type=data_list
 msgctxt "data_list"
 msgid "**The challenge:** A rectangle, 4 by 4 or larger, with numbers in some of its squares, is to be divided into smaller rectangles. Each number must end up in a separate rectangle whose area is that number."
-msgstr "**挑戦:** 4×4以上の大きさの長方形がいくつかの小さな長方形に分割され、そのうちいくつかのマス目には数字が入っています。各数字は、面積がその数字に等しい別々の長方形に分けられなければなりません。"
+msgstr "**挑戦：** 4×4以上の大きさの長方形があり、その中のいくつかのマス目には数字が入っています。これをいくつかの小さな長方形に分けていきます。それぞれ別々の長方形の中に入らなければならず、その長方形の面積は、書かれている数字とまったく同じでなければなりません。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**How to create:** Out of the sight of your child, create these puzzles by first filling in the big rectangle with smaller rectangles. Next, place the area in each rectangle. Lastly, give your child the big rectangle with only the numbers."
-msgstr "**作り方:** お子さんの視界から外れて、大きな長方形をまず小さな長方形に分割してパズルを作ります。次に、それぞれの長方形に面積を記入します。最後に、数字だけが書かれた大きな長方形をお子さんに渡します。"
+msgstr "**作り方：** お子さんの視界から外れて、大きな長方形をまず小さな長方形に分割してパズルを作ります。次に、それぞれの長方形に面積を記入します。最後に、数字だけが書かれた大きな長方形をお子さんに渡します。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17243,7 +17243,7 @@ msgid ""
 msgstr ""
 "これらのパズルを解くためにはまず素数の面積に注目してください。それらの形状は厳しく制約されています。\n"
 "\n"
-"次に、囲まれた領域を考慮します。このパズルでは、上の「4」は上左の2×2の四角形に関連しています。また、上右の隅は縦の3×1の長方形として使用しなければなりません。"
+"次に、囲まれた領域を考慮します。このパズルでは、上の「4」は上左の 2 × 2の四角形に関連しています。また、上右の隅は縦の 3 × 1 の長方形として使わなければなりません。"
 
 #. type=data_list
 msgctxt "data_list"
