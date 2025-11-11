@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-11 18:17\n"
+"PO-Revision-Date: 2025-11-11 19:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17261,18 +17261,18 @@ msgid ""
 "\n"
 "**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
 msgstr ""
-"**定義:** 4x2 が 2+2+2+2 を簡単に書く方法であるのと同じように、2<sup>4</sup> は 2 × 2 × 2 × 2</sup> を簡単に書く方法です。「二の四乗」と言う方が、「二かける二かける…」と言うよりもずっと簡単で理解しやすいです。\n"
+"**定義：** ちょうど「4 × 2」が「2 + 2 + 2 + 2」を簡単に書く方法であるように、「2<sup>4</sup>（にのよんじょう）」は「2 × 2 × 2 × 2」を簡単に書く方法です。「２×２×…」と言うよりも、「2の4乗」と言ったほうが、 ずっと簡単で、わかりやすいですよね。\n"
 "\n"
-"**特別な名前:** 二乗、例えば 4<sup>2</sup> は「四の二乗」と言え、三乗、例えば 4<sup>3</sup> は「四の三乗」と言えます。\n"
+"**特別な名前：** 2乗（例：4<sup>2</sup>）は「4の2乗」または「4の平方」と言い、3乗（例：4<sup>3</sup>）は「4の3乗」または「4の立方」と言います。\n"
 "\n"
-"**規則:** 同じ数字の累乗が掛け合わされるとき、結果を簡単にするための単純な規則があります。それは累乗を足すことです。例えば、4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, のように、2つの4が3つの4と掛け合わされると、結果は5つの4が掛け合わされることになります。\n"
+"**規則：** 同じ数のべき乗（乗数）をかけ算するときには、シンプルなルールで結果を簡単に表すことができます。 それは、「指数（べき数）を足す」ことです。たとえば、4<sup>2</sup> を計算すると、(4 × 4) × (4 × 4 × 4) = 4<sup>5</sup> となります。つまり、「4が2個」と「4が3個」をかけているので、合わせて 5個の4をかけている ことになり、結果は 4の5乗 になります。\n"
 "\n"
-"**注意:** この累乗の指数を足す規則は、同じ数字が累乗されている場合にのみ適用されます。例えば、3<sup>2</sup> × 5<sup>3</sup> のような式は簡単に簡略化することはできません。"
+"**注意：** この「指数を足す」ルールは、同じ数をべき乗している場合にだけ使えることに注意してください。たとえば、3<sup>2</sup> × 5<sup>3</sup> のように、異なる数のべき乗が掛けられている場合は、簡単にはまとめられません。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "REUSE OLD ADDITION ACTIVITIES"
-msgstr "古い足し算の活動を再利用する"
+msgstr "古い足し算アクティビティを再利用する"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17282,12 +17282,15 @@ msgstr "累乗を感じる"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
-msgstr "**パズルとゲームの再利用:** 累乗が掛け算されるときに指数が足し合わされるため、以前の足し算に関するゲームやパズルを使って累乗の掛け算の練習ができます。これらの古い足し算の活動の例としては、ステージ3のシェイプサムやサムグループ、ステージ4の囲まれた合計やサムトライアングル、そして修正などがあります。"
+msgstr "**パズルとゲームの再利用：** 累乗がかけ算されるときに指数が足し合わされるため、以前の足し算に関するゲームやパズルを使って累乗のかけ算の練習ができます。これらの古い足し算のアクティビティの例としては、ステージ3のシェイプサムやサムグループ、ステージ4の囲まれた合計やサムトライアングル、そして修正などがあります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
-msgstr "左側にはステージ3のシェイプサムの2つの例があります。右側には足し算の代わりに掛け算を使用したシェイププロダクトの同じ例があります。"
+msgstr ""
+"左側にはステージ3のシェイプサムの2つの例があります。\n"
+"\n"
+"右側には足し算の代わりにかけ算を使用したシェイププロダクトの同じ例があります。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17297,7 +17300,7 @@ msgstr "累乗を扱うことは、元の足し算の問題と同じように習
 #. type=data_list
 msgctxt "data_list"
 msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
-msgstr "もしお子さんがこれらの問題を楽しんでいて、さらに挑戦をしたい場合は、複数の数字を累乗する問題を取り入れてみましょう。例えば、(4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) を掛け算すると、4の累乗と3の累乗にそれぞれ規則を適用して、結果として 4<sup>7</sup> × 3<sup>5</sup>. が得られます。"
+msgstr "もしお子さんがこれらの問題を楽しんで、もっと難しい挑戦をしたい場合は、複数の異なる数をべき乗する問題に取り組んでみましょう。たとえば、(4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) を計算する場合、まず4のべき乗どうしでルールを適用し、次に3のべき乗に対してルールを適用すると、結果は 4<sup>7</sup> × 3<sup>5</sup> となります。"
 
 #. type=data_list
 msgctxt "data_list"
