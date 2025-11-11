@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-11 15:15\n"
+"PO-Revision-Date: 2025-11-11 16:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16455,18 +16455,18 @@ msgid ""
 "\n"
 "Extend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
 msgstr ""
-"**あなたはどこにいたの**\n"
+"**これまでのこと**\n"
 "\n"
-"現在お子さんは100まで数えることができます! 彼らは快適に1桁の足し算と引き算をすることができます。また彼らはどんな数でも上に数えたり下に数えたり、飛ばして数えることができ、そのスキルに関連しているのは、1桁の数字と2桁の数字を足し算または引き算する能力です。彼らは2つの2桁の数字を比較することができ、10の位と1の位に関する位取りの基本的な感覚を持っています。\n"
+"お子さんは今では100まで数えることができます！1桁の足し算と引き算も無理なくすることができます。さらにどんな数からでも上に数えたり下に数えたり、またスキップカウントもできます。これらのスキルに関連しているのは、1桁の数字と2桁の数字を足し算または引き算する能力です。お子さんは2桁の数字を2つ比較することができ、10の位と1の位に関する基本的な感覚を身につけてきています。\n"
 "\n"
-"彼らの飛び級数が上達するにつれて、2,3,4,5,と10の掛け算のスキルも身につけていきます。現在、奇数と偶数の数字の考えも彼らはさらに理解しています。\n"
+"お子さんたちのスキップカウントが上達するにつれて、2、3、4、5、と10のかけ算のスキルも身につけていきます。奇数と偶数の数字の考え方についても、ずっとよく理解できるようになってきました。\n"
 "\n"
-"以前のステージからこれらの大きな数字の活動を広げる: ステージ 3:図形の合計、さらに増えていく; ステージ 4: 戦争- 2桁の足し算と引き算, 三角形の差と三角形の合計, 修正する, 1の位から10の位で島を渡る,比較の空欄を埋める, 四角形の合計とピラミッドの加算。"
+"これまでのステージで行ってきたアクティビティを、大きな数字に広げていきましょう: ステージ 3：図形の足し算、もっと上がる。ステージ 4：バトルー2桁の足し算と引き算、 差の三角形と和の三角形、直してみよう、一の位と十の位で島渡り、空欄を埋めよう–比較、 和の四角形、足し算ピラミッド。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "New ideas for this stage"
-msgstr "このステージの新たな考え"
+msgstr "このステージで出てくる新しいアイデア"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16482,26 +16482,26 @@ msgid ""
 "* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n"
 "* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."
 msgstr ""
-"* 200まで数える – I100から200の数字を見ながら100の位を紹介する。\n"
-"* 100までの飛び級数 – これは新しくないが、強化するために重要。\n"
-"* 展開形と位の価値 – これは基本的なスキルなのでさらに強化される。\n"
-"* 2桁の足し算と引き算 – 飛び級数はこれを簡単に感じさせる助けになります。\n"
-"* すべての1桁掛け算 – これは6,7,8,9の欠けている部分を埋める時です。\n"
-"* 長方形の面積は長さ×幅 – これはそれ自体で重要な考え方です。この真実は掛け算や因数分解に関するゲームやパズルの多くの機会も提供します。\n"
-"* 因数分解 – お子さんは数字がどのように因数に分解されるかという美しさを学びます。 1は単位です。1とその数自身だけで割り切れる数字は素数です。1より大きな数で素数でないものは合成数です。3の2乗は3 × 3です。3の3乗は3 × 3 × 3です。そして、3の累乗は、3をその回数だけ掛け算することを意味します。例えば、3の4乗は3 × 3 × 3 × 3です。\n"
-"* 因数、約数、倍数 – 3は12に均等に分けられます。それにより3は12の因数または約数になり、12は3の倍数となります。3は12と15の共通の因数となり、12は4と6の共通の倍数になります。\n"
-"* 1桁の割り算 – お子さんは掛け算の問題でかけている因数を見つける形で間接的に割り算を学びます。\n"
-"* 掛け算と割り算の数字の家族 – 私たちはこれらの2つの操作の関係を強化します。例、 2 x 5 = 10, 5 x 2 = 10, 10 / 2 = 5, と 10 / 5 = 2 数字の家族から。"
+"* 200まで数える – 100から200の数字を見ながら100の位を紹介しましょう。\n"
+"* 100までのスキップカウント – これは新しいアイデアではないですが、強化することが大切なスキルです。\n"
+"* 展開形と位の理解 – 算数の基礎となる大切なスキルなので、強化していきます。\n"
+"* 2桁の足し算と引き算 – スキップカウントはこれを簡単に感じさせる助けになります。\n"
+"* すべての1桁のかけ算 – 6、7、8、9のかけ算を補っていきましょう。\n"
+"* 長方形の面積は長さ×幅 – これはとても重要な考え方です。この事実を知ることで、かけ算や因数分解に関する楽しいゲームやパズルの機会がたくさん生まれます。\n"
+"* 因数分解 – お子さんは数字がどのように因数に分解されるかという美しさを学びます。 1は単位です。1とその数自身だけで割り切れる数字は素数です。1より大きな数で素数でないものは合成数です。3の2乗は3 × 3です。3の3乗は3 × 3 × 3です。そして、3の累乗は、3をその回数だけかけ算することを意味します。例えば、3の4乗は3 × 3 × 3 × 3です。\n"
+"* 因数、約数、倍数 – 3は12をきれいに割り切ります。つまり、3は12の約数（因数）であり、12は3の倍数です。3は12と15の共通の因数であり、12は4と6の共通の倍数でもあります。\n"
+"* 1桁の割り算 – お子さんは、かけ算の問題で「欠けている因数」を見つけることで、自然に割り算の考え方を身につけていきます。\n"
+"* かけ算と割り算のファクトファミリー – この2つの計算のつながりをしっかりと強化しましょう。例えば、2 × 5 = 10、5 × 2 = 10、10 ÷ 2 = 5、そして10÷5=2はすべて同じファクトファミリーに属します。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MENTAL MULTIPLICATION"
-msgstr "暗算による掛け算"
+msgstr "暗算によるかけ算"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "These teaching methods provide structured strategies for learning single-digit multiplication. Your child should already be good at doubling any number, skip counting by any number, and multiplying by 5 and 10."
-msgstr "これらの教育方法は1桁の掛け算を学ぶための体系的な戦略を提供します。お子さんはどんな数でも倍にすること、どんな数でも飛び級数にすること、5や10の掛け算をするのが得意であるべきです。"
+msgstr "これらの教育方法は1桁のかけ算を体系的に学ぶための戦略を提供します。お子さんはどんな数でも2倍にすること、どんな数でもスキップカウントができること、5や10のかけ算がすでに得意であるとよいでしょう。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16511,7 +16511,7 @@ msgstr "3 x 4 = 4 x 3"
 #. type=data_list
 msgctxt "data_list"
 msgid "Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2. Although not as obvious, the same is true for multiplication."
-msgstr "お子さんは足し算にとても慣れているので 2 + 3 が 3 + 2と同じだということに驚きません。 明確ではありませんが、掛け算でも同じことが言えます。"
+msgstr "お子さんは足し算にとても慣れていると、 2 + 3 が 3 + 2と同じだということには驚きません。 一見して分かりにくいかもしれないですが、かけ算でも同じことが言えます。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16522,9 +16522,9 @@ msgid ""
 "\n"
 "It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 × 4, they also know 4 × 3."
 msgstr ""
-"このイラストは3つの列が2つ並んでいるのは2つの列が3つ並んでいることと同じです。 – あなたはただ視点を変えるだけです! 2つの数字を掛ける順番がどちらでも同じ答えになります。\n"
+"このイラストは3つの列が2つ並んでいるのと、2つの列が3つ並んでいることが同じだということを表しています。 つまり、見る視点を変えただけで、実際の数は変わりません。\n"
 "\n"
-"この素晴らしい発見のおかげで、お子さんは掛け算の事実を半分だけ覚えればよいということになります。– 3 x 4の計算が一度理解できれば, また 4 x 3も分かります。"
+"このすごい発見のおかげで、お子さんはかけ算の事実を半分だけ覚えればよいということになります。– 3 x 4の計算が一度理解できれば、また 4 x 3も分かります。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16534,12 +16534,12 @@ msgstr "平方"
 #. type=data_list
 msgctxt "data_list"
 msgid "Just as addition twins are favorite addition math facts, squares are often favorites for multiplication. Learning these provides another foundation for learning other multiplication facts."
-msgstr "足し算のペアがよく使われるのと同じように、掛け算では平方がよく使われます。これらを学ぶことは、他の掛け算の事実を学ぶためのもう一つの基盤となります。"
+msgstr "足し算のペアがよく使われるのと同じように、かけ算では平方がよく使われます。これらを学ぶことは、他のかけ算の事実を学ぶためのもう一つの基盤となります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "1 MORE OR 1 LESS"
-msgstr "1足すか、1引く"
+msgstr "1つ多い、1つ少ない"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16550,26 +16550,26 @@ msgid ""
 "\n"
 "Similarly, 3 × 7 is one more 7 than doubling 7, so 3 × 7 = 7 + 14 = 21. This works for all 3’s."
 msgstr ""
-"以前に学んだ他のスキルと組み合わせることで、「1つ多い」や「1つ少ない」という戦略は、残りの掛け算の事実を計算するのに効果的です。\n"
+"以前に学んだ他のスキルと組み合わせること、「1つ多い」や「1つ少ない」という戦略は、残りのかけ算の答えを計算するのに効果的です。\n"
 "\n"
-"例、 9 x 7は10 x 7より7少ない。なので 9 x 7 = 70 - 7 = 63となる。これは全ての9の段に共通する。\n"
+"例えば、9 x 7は10 x 7より7少ないので、 9 x 7 = 70 - 7 = 63となる。これは全ての9の段に共通します。\n"
 "\n"
-"似たように、 3 x 7は7を2倍した数より7多い、なので3 x 7 = 7 + 14 = 21. これは全ての3の段に共通する。"
+"同様に、 3 x 7は7を2倍した数より7多いので、3 x 7 = 7 + 14 = 21. これは全ての3の段に共通します。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MULTIPLYING BY 9"
-msgstr "9の掛け算"
+msgstr "9のかけ算"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Mental Multiplication"
-msgstr "暗算による掛け算"
+msgstr "暗算によるかけ算"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Although multiplying by 9 is covered by the last strategy, they are fun to learn in their own right. If you write the multiples of 9 in order, you’ll see the tens digit is always one less than the number you are multiplying by and the ones digit plus the tens digit always adds up to 9!"
-msgstr "9をかけることは最後の戦略でカバーされていますが、それらはそれ自体で学ぶのが楽しいです。もし9の倍数を順番に書いて見ると、10の位の数字が掛け算している数より常に1少なく、また1の位と10の位の数字を足すといつも9になることがわかります！"
+msgstr "9をかけることは最後の学習で扱っていますが、それだけで取り上げても楽しく学べます。もし9の倍数を順番に書いてみると、10の位の数字がかけ算している数より常に1少なく、また1の位と10の位の数字を足すといつも9になることがわかります！"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16585,11 +16585,11 @@ msgid ""
 "\n"
 "**How to win:** A player that goes over the target of 100 “goes bust” and loses. If neither player goes bust, the one closer to 100 wins."
 msgstr ""
-"**準備:** 各プレイヤーが7行3列の配置の紙を持っています。列は「10の位」、「1の位」、「合計の累積」とマークされています。”\n"
+"**準備：** 各プレイヤーが7行3列の配置の紙を持っています。列は「10の位」、「1の位」、「累計」とマークされています。」\n"
 "\n"
-"**遊び方:** 各プレイヤーの合計の累積は0から始まります。サイコロを振るか、1から9の中でランダムにカードを引きます。各プレイヤーはこの数字を現在の行の「1の位」または「10の位」の列に使うことを選びます。例えば4が出た場合、これは 4か40として使うことができます。選ばれた数字は合計の累積に加算されます。\n"
+"**遊び方：** 各プレイヤーの累計は0から始まります。サイコロを振るか、1から9の中でランダムにカードを引きます。各プレイヤーはこの数字を現在の行の「1の位」または「10の位」の列に使うことを選びます。例えば4が出た場合、これは 4か40として使うことができます。選ばれた数字は合計の累計に加算されます。\n"
 "\n"
-"**勝利方法:** プレイヤーはターゲットの100を超えると「バスト」となり負けます。もしどちらのプイレヤーも「バスト」にならなかった場合、100に一番近い人の勝利です。"
+"**勝ち方：** プレイヤーはターゲットの100を超えると「バースト」となり負けます。もしどちらのプイレヤーも「バースト」にならなかった場合、100に一番近い人が勝利です。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16602,13 +16602,13 @@ msgid ""
 "* Use a fourth column of 100’s to practice 3-digit numbers.\n"
 "* Practice subtraction by starting at the target number and subtract down to 0."
 msgstr ""
-"このゲームはたくさんの選択肢があります。:\n"
+"このゲームにはたくさんのオプションがあります。:\n"
 "\n"
-"* 異なるターゲットの数字を使う。\n"
-"* 行数を増やしたり減らしたりする。\n"
-"* ターゲットを超えてもバストしない。ターゲットの両側で一番近いプレイヤーが勝ち。\n"
-"* 100の列を追加し、3桁の数字の練習をする。\n"
-"* 引き算の練習をするためにターゲットの数字から始めて0になるまで引いていく。"
+"* 100とは違うターゲットの数字を使いましょう。\n"
+"* 行数を増やしたり減らしたりしましょう。\n"
+"* ターゲットを超えてもバーストさせない。ゲーム終了時にターゲットを超えているかどうかに関わらずターゲットにより近い人が勝ちとしてみましょう。\n"
+"* 100の列を追加し、3桁の数字の練習をしましょう。\n"
+"* 引き算の練習をするためにターゲットの数字から始めて0になるまで引いていきましょう。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16618,7 +16618,7 @@ msgstr "自分の領土を確保する"
 #. type=data_list
 msgctxt "data_list"
 msgid "Place Value and Addition Games"
-msgstr "位取りと足し算のゲーム"
+msgstr "位取りと、足し算ゲーム"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16629,11 +16629,11 @@ msgid ""
 "\n"
 "**How to win:** The first player to get four numbers in a region without any of the opponent’s numbers in between wins."
 msgstr ""
-"**準備:** 0から99までの番号付き数直線が書かれた紙を用意する。\n"
+"**準備：** 0から99までの番号付き数直線が書かれた紙を用意してみんなと共有します。\n"
 "\n"
-"**遊び方:** ターンごとに、プレイヤーは0から9までのランダムなカードを2枚使い、その2つの数字の順番を選んで00から99の数字を作り、その数字を自分の側の数直線に置く。\n"
+"**遊び方：** ターンごとに、プレイヤーは0から9までのランダムなカードを2枚使い、その2つの数字の順番を自分で決めて00から99の数字を作り、その数字を自分側の数直線に置きます。\n"
 "\n"
-"**勝利方法:** 相手の数字が間に入っていない状態で、ある範囲に4つの数字を並べた最初のプレイヤーが勝ちとなる。"
+"**勝ち方：** 相手の数字が間に入らないように、最初にある範囲に自分の数字を4つ並べたプレイヤーが勝ちとなります。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16658,22 +16658,22 @@ msgstr "このパズルには2つのバージョンがあります。"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Version 1:** The is the same as the Sum Groups puzzles in Stage 3, only now the target sums can be bigger. The boards can be any size, and here we use a 4 by 4 board. The target number is on the left, which is 13 in this case."
-msgstr "**バージョン1:** これはステージ3の合計のグループのパズルと同じですが、今回はターゲットの合計が大きくなることがあります。ボードのサイズは自由で、ここでは4×4のボードを使用しています。ターゲットの数字は左側にあり、この場合は13です。"
+msgstr "**バージョン1：** これはステージ3の「合計グループパズル」と同じですが、今回はターゲットの合計がより大きくなることがあります。ボードのサイズは自由で、ここでは4 × 4のボードを使用します。ターゲットの数字は左側にあり、この場合は13です。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**The challenge:** Identify groups of connected numbers whose sum is the target (13)."
-msgstr "**挑戦:** ターゲットの合計になるように、つながった数字のグループを特定します。(13)"
+msgstr "**挑戦：** ターゲットの合計（13）になるように、つながった数字のグループを見つけましょう。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**Version 2:** Here is an example of a 4 by 4 board with a target number of 20. As in Sum Groups, the board is filled with pairs and triples of numbers that add up to the target. However, now there will be one square not involved in any of those groups."
-msgstr "**バージョン2:** こちらはターゲットの数字が20の4×4のボードの例です。合計のグループと同様に、ボードはターゲットの合計になるペアやトリプルの数字で埋められています。しかし、今回はどのグループにも含まれない1つのマスが存在します。"
+msgstr "**バージョン2：** これはターゲットの数字が20の 4 × 4 のボードの例です。「合計グループパズル」と同様に、ボードはターゲットの合計になるペアやトリプルの数字で埋められています。しかし、今回はどのグループにも含まれない1つのマスが存在します。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**The challenge:** The challenge is to find the single square that has that number. In this example, it is '5.'"
-msgstr "**挑戦:** 課題は、その数字が入っている唯一のマスを見つけることです。この例では、その数字は「5」です。"
+msgstr "**挑戦：** 課題は、その数字が入っている唯一のマスを見つけることです。この例では、その数字は「5」です。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16687,19 +16687,19 @@ msgid ""
 "\n"
 "**Example:** The following two problems are turned into Missing Number puzzles by leaving out a couple digits in each one."
 msgstr ""
-"**作り方:** これらのパズルは、簡単な足し算や引き算の式からいくつかの数字を省略することによって作成します。もし数字を省略しすぎてしまった場合、それがどんな解答が可能かという議論を生むきっかけになります。例えば、2 + 5 = 7 という式から最初と3番目の数字を省略すると、? + 5 = ? のように、多くの解答が考えられます。\n"
+"**作り方：** 簡単な足し算や引き算の式からいくつかの数字を抜いて、パズルを作成します。もし数字を抜きすぎてしまった場合は、それがどんな解答が可能かという議論を生むきっかけにもなります。例えば、2 + 5 = 7 という式から最初と3番目の数字を抜くと、? + 5 = ? のように、多くの解答が考えられます。\n"
 "\n"
-"**例:** 2つの問題は、それぞれいくつかの数字を省略することによって欠けた数字パズルに変換されます。"
+"**例：** 以下の2つの問題は、それぞれいくつかの数字を抜くことによって「欠けた数字パズル」に変換されます。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**Letter substition puzzles:** These missing number puzzles form a very understandable stepping stone to using simple variables. After getting comfortable with these puzzles, your child will be ready to do some Letter Substitution puzzles that are described later in this Stage."
-msgstr "**文字置き換えパズル:** これらの欠けた数字のパズルは簡単な変数を使うためのとても理解しやすいステップとなります。これらのパズルに慣れた後、お子さんはステージで説明される文字置き換えパズルに挑戦する準備が整います。"
+msgstr "**文字置き換えパズル：** これらの「欠けた数字パズル」は簡単な変数の理解に向けた、とてもわかりやすいステップとなります。このパズルに慣れた後は、あなたのお子さんは後半のステージで説明されている「文字置き換えパズル」に挑戦する準備が整うでしょう。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "MAKING MULTIPLICATION CARDS"
-msgstr "掛け算カードを作ろう"
+msgstr "かけ算カードを作ろう"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16708,9 +16708,9 @@ msgid ""
 "\n"
 "**How to create:** Hand draw four cards for each math fact. These are the four cards for 3 × 4."
 msgstr ""
-"これらの数学的真実を練習するために掛け算のカードを1セット作ります。これらのカードは以前ご家族で遊んだマッチングゲームで使えます: ステージ1 - ゴーフィッシュ, メモリーチャレンジ; ステージ2 - ビンゴ; ステージ3 - ホットポテト; そして ステージ4 - ジン ラミー\n"
+"これらの数学的真実を練習するためにかけ算のカードを1セット作ります。これらのカードは以前ご家族で遊んだマッチングゲームで使えます: ステージ1 - 釣りに行こう！、 記憶チャレンジ; ステージ2 - ビンゴ; ステージ3 - ホットポテト; ステージ4 - ジンラミー\n"
 "\n"
-"**作り方:** 各数学的事実に対して4つのカードを手書きで作ります。3 x 4のための4枚のカードの場合:"
+"**作り方：** 次の各数学的事実に対して4つのカードを手書きで作ります。3 x 4のための4枚のカードは:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16721,8 +16721,8 @@ msgid ""
 "* prime factoring"
 msgstr ""
 "* 数式\n"
-"* オブジェクトグループ,\n"
-"* 配列, そして\n"
+"* オブジェクトグループ\n"
+"* 配列、 そして\n"
 "* 素因数分解"
 
 #. type=data_list
@@ -16732,24 +16732,24 @@ msgid ""
 "\n"
 "For array cards, put the skip counting numbers along one or both sides to help your child practice skip counting."
 msgstr ""
-"**方法:** 一つの選択肢は3 x 4を含め、4 x 3を含めないことです。この方法には欠点があり、3つのグループの4つと4つのグループの3つは異なります。\n"
+"**オプション：** 一つの選択肢は3 x 4を含めて、4 x 3を含めないことです。これには、3つのグループを4つと4つのグループを3つは異なるという欠点があります。\n"
 "\n"
-"配列カードについては、片側または両側に飛ばし計算の数字を記入し、お子さんが飛ばし計算を練習できるようにします。"
+"配列カードについては、片側または両側にスキップカウントの数字を記入し、お子さんがスキップカウントを練習できるようにします。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "For expression cards, replace each number with the prime factorization symbol for the number. This makes it easier to see how the prime factorizations fit together when multiplying two numbers."
-msgstr "数式カードについては、各数字を素因数分解記号に置き換えます。これは2つの数字を掛け算する時にどのように素因数分解が組み合わさるかを見やすくします。"
+msgstr "数式カードについては、各数字を素因数分解記号に置き換えます。これは2つの数字をかけ算する時にどのように素因数分解が組み合わさるかが分かりやすくなります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "REVEALING PRODUCTS"
-msgstr "掛け算の結果"
+msgstr "かけ算の結果を見せる"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Multiplication Cards and Tables"
-msgstr "掛け算カードと表"
+msgstr "かけ算カードと表"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16758,24 +16758,24 @@ msgid ""
 "\n"
 "**The challenge:** Your child can ask to reveal, one at a time, up to 10 of the 16 product entries. The goal is to find the entries for the top and left sides before running out of turns."
 msgstr ""
-"**作り方:** 4行4列の積の表を使います。表の上部と左側は4つの欠けた数字のグループもあります– これらのいくつかの数字は2から9で重複があるかもしれません。お子さんの目に見えないところで表を埋めて、裏返えすか数字を隠してください。\n"
+"**作り方：** 4行4列の積の表を使います。表の上部と左側は4つの欠けた数字のグループもあります– これらのいくつかの数字は2から9で重複があるかもしれません。お子さんの目に見えないところで表を埋めて、裏返えすか数字を隠してください。\n"
 "\n"
-"**挑戦:** お子さんは16個の積のエントリーのうち、最大10個まで1回ずつ明らかにするように頼むことができます。目標はターンがなくなる前に上部と左側のエントリーを見つけることです。"
+"**挑戦：** お子さんは16個の積のエントリーのうち、最大10個まで1回ずつ見せてくれるように頼むことができます。目標はターンがなくなる前に上部と左側のエントリーを見つけることです。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
-msgstr "**例:** この例ではすべてのカードが裏返しになっていると仮定します。もしお子さんが63のカードを裏返すと選択した場合、それが7と9から来ていることが分かります。63と同じ行または列にある他のカードを裏返すと、7と9の位置がわかります。2回目に裏返したカードが56だとします。3列目は7が入り、2行目は9で3行目は8になることが分かります。"
+msgstr "**例：** この例ではすべてのカードが裏返しになっていると仮定します。もしお子さんが63のカードを裏返すと選択した場合、それが7と9から来ていることが分かります。63と同じ行または列にある他のカードを裏返すと、7と9の位置がわかります。2回目に裏返したカードが56だとします。3列目は7が入り、2行目は9で3行目は8になることが分かります。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "COVER FACTORS AND MULTIPLES"
-msgstr "因数と倍数を隠す"
+msgstr "かける数と倍数を隠す"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**The setup:** Have a board of numbers from 1 to 24. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens."
-msgstr "**準備:** 1から24の数字が書かれたボードを用意します。駒は2種類あり、1つは「最後の動き」のために予約された単一の駒と、もう1つはその他の駒が積まれています。"
+msgstr "**準備：** 1から24の数字が書かれたボードを用意します。トークンは2種類あり、1つは「最後の一手」のために取っておく専用のトークンで、もう1つはそれ以外の駒の山です。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16786,11 +16786,11 @@ msgid ""
 "\n"
 "**Example:** This board shows the middle of a game that started 10 -> 5 -> 15 -> 3."
 msgstr ""
-"**遊び方:** 最初のプレイヤーはランダムに数字を選び、最終手番駒を置きます。そしてプレイヤーは最終手番駒をほかの種類の駒に置き換え、最終手番駒を前回置かれた数の倍数または約数の数に移動させます。\n"
+"**遊び方：** 最初のプレイヤーは、好きな数字を1つ選び、「最後の一手」トークンでその数字をおおいます。その後のプレイヤーは、「最後の一手」トークンを通常のトークンに置き換え、前回の数字の約数または倍数になっている別の数字に「最後の一手」トークンを移動させます。\n"
 "\n"
-"**勝利方法:** 負けたプレイヤーは1の数に駒を置かなければならないプレイヤーです.\n"
+"**勝ち方：** 数字の1をおおわなければならなくなったプレイヤーが負けです。\n"
 "\n"
-"**例:** このボードは、10 -> 5 -> 15 -> 3 から始まったゲームの途中経過を示しています。"
+"**例：** このボードは、10 -> 5 -> 15 -> 3 から始まったゲームの途中経過を示しています。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16799,14 +16799,14 @@ msgid ""
 "\n"
 "Adjust the range of numbers to the skill level of the players – 1 to 30, 1 to 48, or 1 to 60."
 msgstr ""
-"お子さんがこのゲームが上達すると、合理的な最初の手のルールを見つけだします。最も基本的なルールは最初の手が数の上半分にある素数の上には置けないということです。\n"
+"子どもたちがこのゲームに慣れてくると、最初の手として適切な数字にはルールがあることに気づき始めます。最も基本的なルールは、最初の手を上半分にある素数にしてはいけないということです。\n"
 "\n"
-"プレイヤーのスキルレベルに応じて、数字の範囲を調整します – 1から30、1から48、または1から60。"
+"プレイヤーのスキルレベルに応じて、数字の範囲を調整しましょう。 – 1から30、1から48、または1から60など。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "NIM WITH FACTORS"
-msgstr "因数付きニム"
+msgstr "約数ニム"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16815,11 +16815,11 @@ msgid ""
 "\n"
 "**How to win:** The player forced to 0 loses."
 msgstr ""
-"**準備:** ランダムな数、例えば20から始めます。お子さんに先行するか後攻するかを決めさせてください。\n"
+"**準備：** ランダムな数、例えば20から始めます。お子さんに先行するか後攻するかを決めさせてください。\n"
 "\n"
-"**遊び方:** 自分の番の間、プレイヤーは現在の数字の任意の約数をその数から引くことができます。例えば20から始めた場合、始めのプレイヤーは最初の手で1,2,4,5,か10を引くことができます。\n"
+"**遊び方：** 自分の番では、プレイヤーは現在の数字のいずれかの約数をその数から引くことができます。例えば20から始めた場合、始めのプレイヤーは最初の手で1、2、4、5、または10を引くことができます。\n"
 "\n"
-"**勝利方法:** ０にされられたプレイヤーが負けです。"
+"**勝ち方：** ０になったプレイヤーが負けです。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16829,7 +16829,7 @@ msgstr "戦略"
 #. type=data_list
 msgctxt "data_list"
 msgid "After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for always winning - once they discover it, see if they can explain why it works."
-msgstr "お子さんがこのゲームに慣れたら、常にそれに勝つために驚くほど簡単な戦略を見つけるように促してください。戦略を見つけたら、それがなぜうまくいくのか説明できるかどうか見てみましょう。"
+msgstr "お子さんがゲームに慣れたら、必ず勝てるとてもシンプルな戦略を探すよう促しましょう。それを見つけたら、なぜその戦略がうまくいくのか説明できるかどうか試してみてください。"
 
 #. type=data_list
 msgctxt "data_list"
