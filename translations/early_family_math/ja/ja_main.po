@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-11 20:46\n"
+"PO-Revision-Date: 2025-11-11 23:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17540,18 +17540,18 @@ msgid ""
 "* The leftmost digit of a number is never 0\n"
 "* Different letters must be different digits"
 msgstr ""
-"**準備:** このパズルでは、1桁の数字が文字に置き換えられています。一見すると、これらのパズルはこのステージの前半で紹介した「欠けている数字」のパズルと同じように見えるかもしれません。しかし、文字の使用により、より興味深い問題解決の機会が提供されます。もしお子さんが「欠けている数字」のパズルに慣れているのであれば、これらのパズルに移行することをお勧めします。\n"
+"**準備：** このパズルでは、1桁の数字が文字に置き換えられています。一見すると、これらのパズルはこのステージの前半で紹介した「欠けている数字」のパズルと同じように見えるかもしれません。しかし、文字の使用により、より面白い問題解決の機会が生まれます。もしお子さんが「欠けている数字」のパズルに慣れているのであれば、これらのパズルに移行することをお勧めします。\n"
 "\n"
-"これらのパズルで文字を使用する際には、3つのルールに従います。:\n"
+"これらのパズルで文字を使用する際には、3つのルールに従います。\n"
 "\n"
-"* 与えられた文字は、常に0から9の間の同じ数字を表します。\n"
-"* 数字の最も左の桁は決して0ではありません。\n"
+"* 与各文字は、必ず0から9までの同じ数字を表します。\n"
+"* 数字の最も左の桁は0にはなりません。\n"
 "* 異なる文字は異なる数字でなければなりません。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
-msgstr "**作り方:** 通常の加算または減算の問題を取り、1つ以上の数字を置き換えます。同じ数字を置き換える際には、同じ文字を使用します。この例では、6が両方の場所で「A」に置き換えられています。"
+msgstr "**作り方：** 普通の足し算や引き算の問題の数字の一部または複数を文字に置き換えます。 同じ数字を置き換える場合は、同じ文字を使います。この例では、6が両方の場所で「A」に置き換えられています。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17560,7 +17560,7 @@ msgid ""
 "\n"
 "Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
 msgstr ""
-"**特別なパズル:** この種類のパズルの特徴は、興味深い問題解決の挑戦を作り出すことができる点です。これらは少し設計が必要ですが、その結果として楽しいパズルが生まれます。\n"
+"**特別なパズル：** この種類のパズルの特徴は、おもしろい問題解決の挑戦を作り出すことができる点です。これらは少し設計が必要ですが、その結果として楽しいパズルが生まれます。\n"
 "\n"
 "文字の値はパズルごとに引き継がれないことに注意してください。この最初のパズルで値が1の「B」は、2番目のパズルでは値が4になります。"
 
@@ -17578,16 +17578,16 @@ msgid ""
 "\n"
 "**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
 msgstr ""
-"8×8のチェスボードと1×2のタイルの集合があるとしましょう。この32枚の1×2タイルを使ってチェスボードをぴったり覆う方法を見つけるのは簡単です。\n"
+"たとえば、8 × 8 のチェスボードと、1 × 2 のタイルを32枚持っているとします。このチェスボードを、ちょうどその32枚の 1 × 2 タイルでぴったり覆う方法を見つけるのは、それほど難しくありません。\n"
 "\n"
-"**角を取り除く:** チェスボードから正方形を取り除いてみましょう。もしチェスボードの1つの角を取り除くと、すぐにタイルでボードを覆うことができなくなることがわかります。なぜなら、タイルは偶数個の正方形を覆うため、残りの正方形が63個になるからです。さて、2つの角を取り除いて、残りの正方形が偶数個になるようにしてみましょう — これで覆うことはできるでしょうか？その答えは、取り除く2つの角によって異なります。なぜでしょうか？もし角を取り除くことに制限を設けずに、他の場所からも正方形を取り除いていったら、どうなるでしょうか？\n"
+"**角を取り除く：** チェスボードからマスを取り除いてみましょう。もしチェスボードの1つの角を取り除くと、すぐにタイルでボードを覆うことができなくなることがわかります。なぜなら、タイルは必ず偶数個のマスを覆いますが、残りの正方形が63個になってしまうからです。2つの角を取り除いて、残りの正方形が偶数個になるようにしてみましょう。 これで覆うことはできるでしょうか？その答えは、取り除く2つの角の位置によって決まります。なぜでしょうか？もし角に限らず、他の場所からもマスを取り除いてもいいという条件にすると、どうなるでしょうか？\n"
 "\n"
-"**小さな例から学ぶ:** このような問題を解く際の重要な教訓は、小さな問題から学ぶことです。まずは4×4や6×6のボードでこの問題に挑戦してみましょう。"
+"**小さな例から学ぶ：** このような問題を解く際の重要な教訓は、小さな問題から学ぶことです。まずは4×4や6×6のボードでこの問題に挑戦してみましょう。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
-msgstr "ボードを埋めるために他の形を使ってみましょう。1×3のタイルやL字型の3つの正方形を使ってボードを埋める方法を試してみましょう。これらを使って、どんなパターンや法則を見つけることができますか？他にどんな形が面白いと思いますか？"
+msgstr "ボードを埋めるために他の形を使ってみましょう。1 × 3 のタイルやL字型の3つの正方形を使ってボードを埋める方法を試してみましょう。これらを使って、どんなパターンや法則を見つけることができますか？他にも、どんな形を使ってみたら面白そうですか？"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17606,9 +17606,9 @@ msgid ""
 "\n"
 "Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
 msgstr ""
-"**挑戦:** 異なるサイズの正方形を使って、どのように正方形を埋めることができるでしょうか？質問は、「可能な正方形の数はすべて何か？」ということです。もしそれらが可能な場合、どのように埋めるかを簡単に説明する方法はあるのでしょうか？\n"
+"**挑戦：** 異なるサイズの正方形を使って、1つの正方形をどのように埋めることができるでしょうか？すべての正方形が同じ大きさである必要はありません。ここでの問いは：いくつの正方形で埋めることができるのか？ 可能な個数はどれか？可能な場合、簡単に埋め方を説明する方法はあるか？\n"
 "\n"
-"お子さんが答えを急がず、何日もかけて楽しんで取り組むことができるようにしましょう。ここに6つの正方形がどのように配置できるかを示す図があります。"
+"お子さんが答えを急がず、何日もかけて楽しんで取り組むことができるようにしましょう。ここちらが、6つの正方形で1つの大きな正方形を埋めることが可能であることを示す図です。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17616,7 +17616,7 @@ msgid ""
 "What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
 "\n"
 "For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
-msgstr "もし1×1、2×2、3×3のような特定のサイズの正方形のみを使う場合、どうなるでしょうか？また、同じ形をした図形を使って他の図形を埋めるとどうなるでしょうか？例えば、正三角形（すべての辺の長さが同じ三角形）を使って埋める場合はどうでしょうか？このように調査するのが面白い図形はどれでしょうか？"
+msgstr "もし 1 × 1、2 × 2、3 × 3 のような特定のサイズの正方形のみを使う場合、どうなるでしょうか？また、同じ形をした図形を使って他の図形を埋めるとどうなるでしょうか？例えば、正三角形（すべての辺の長さが同じ三角形）を使って埋める場合はどうでしょうか？このような方法で調べてみると面白い図形は、どれでしょうか？"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17626,12 +17626,12 @@ msgstr "プロダクトゲーム"
 #. type=data_list
 msgctxt "data_list"
 msgid "**The setup:** Use a shared piece of paper filled out as shown."
-msgstr "**準備:** 示された通りに記入された共有の紙を使用してください。"
+msgstr "**準備：** 示された通りに記入された共有用の紙を使いましょう。"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
-msgstr "**遊び方:** 最初のプレイヤーは、1から9の範囲のいずれかの数字に駒を置きます。次に、2番目のプレイヤーは1から9のいずれかの数字にもう1つの駒を置き、6×6のグリッド内でその積を主張します。その後、各プレイヤーは2つの駒のいずれかを移動させ、積を主張します（できる場合）。"
+msgstr "**遊び方：** 最初のプレイヤーは、1から9の範囲のいずれかの数字に駒を置きます。次に、2番目のプレイヤーは1から9のいずれかの数字にもう1つの駒を置き、6 × 6 のグリッド内でその積を取得します。その後、各プレイヤーは2つの駒のいずれかを移動させ、積の取得を主張します（できる場合）。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17640,9 +17640,9 @@ msgid ""
 "\n"
 "**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
 msgstr ""
-"**勝利方法:** 3つのマスが縦・横・斜めに並んだ最初のプレイヤーが勝ちです。\n"
+"**勝ち方：** 3つのマスが縦・横・斜めに並んだ最初のプレイヤーが勝ちです。\n"
 "\n"
-"**バリエーション:** 積の数字を混ぜて、お子さんが積を識別する練習をより効果的にしましょう。また、ステージ5のボーナスマテリアルでは、より大きな範囲の大きなボードのデザインも確認できます。"
+"**バリエーション：** かけ算の積の数字を入れ替えて、お子さんが積を見つける練習になるようにしましょう。また、もっと大きな範囲の盤面デザインは、ステージ5のボーナスマテリアルも参考にしてください。"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17652,7 +17652,7 @@ msgstr "積を使った島渡り"
 #. type=data_list
 msgctxt "data_list"
 msgid "Multiplying and Multiples"
-msgstr "掛け算と倍数"
+msgstr "かけ算と倍数"
 
 #. type=data_list
 msgctxt "data_list"
