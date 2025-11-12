@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 20:57\n"
+"PO-Revision-Date: 2025-11-12 21:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18933,6 +18933,161 @@ msgstr ""
 "**遊び方：** 最初の1回目の振りで、0個から5個までのサイコロを選んでキープします。一度キープしたサイコロは動かせません。2回目と3回目の振りでも、残ったサイコロで同じようにキープします。最後の4回目の振りでは、すべてのサイコロがキープされます。合計点が20以下なら得点になりますが、20を超えるとその回の得点は0になります。\n"
 "\n"
 "**勝ち方：** 1回以上のラウンドをプレイできます。合計得点が一番高い人が勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "目標得点の20、サイコロの数、振る回数は、年齢に合わせて変えることができます。たとえば、目標得点を12、サイコロの数を3個にして遊ぶこともできます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "島渡り – 工夫"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "一けたの足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "これらのパズルは、工夫することで足し算の問題がより簡単になることを説明しています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**挑戦：** 同じ答えを持つすべての島をつなぐ道を見つけましょう。ただし、道でつながる2つの島の問題の数字は、片方の数が1増え、もう片方の数が1減っている場合のみです。\n"
+"\n"
+"たとえば、「5 + 8」は「6 + 7」とつながります。道に含まれる島はすべてではありません。この例では、道は左下から始まり、右上で終わります。\n"
+"\n"
+"**作り方：** まず、約10個の空欄の丸を用意し、いくつかのつながりを作ります。島の片側からもう一方の側まで通る道を決めます。その道に沿って、数字が一つずつ違う計算問題を入れます。近くの島には、少し数字が変わっていて答えが違う問題を入れましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "部分と全体の三角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**準備：** 1から13の数字カードを使います。最初に、各プレイヤーにカードを6枚ずつ表向きに配ります。山札を作り、1枚を表向きにして捨て札の山を始めます。\n"
+"\n"
+"**遊び方：** 自分の番では、プレイヤーは捨て札の一番上のカードか、山札の一番上の裏向きのカードのどちらかを取ります。取ったカードは、すでに持っているカードの1枚と入れ替え、その入れ替えたカードを捨て札として出します。\n"
+"\n"
+"**勝ち方：** 一番最初に、下の2枚のカードの合計がその上のカードになるように、6枚のカードでピラミッドを作ったプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "年齢やレベルに合わせて、カードの範囲を小さくしたり大きくしたり調整しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "目標数に近づけるカード"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**準備：** まず、1から5までのカードをすべて4行5列のマス目に並べます。合計は0からスタートし、たとえば「25」などの目標の数を決めます。\n"
+"\n"
+"**遊び方：** プレイヤーは順番に1枚ずつカードをめくり、その数字を合計に加えていきます。合計が目標の数を超えない最後のカードを取ったプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "練習したい数字を自由に5つ選んで、1から5の代わりに使いましょう。引き算の練習をする場合は、目標の数からスタートし、選んだ数字を引いていきます。合計が0を下回らないようにしてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "「私の家から出ていけ！」－ 足し算と引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**準備：** 1（エース）から10までの数字カードのデッキを使います。共有の紙に0から19までの番号が付いた20個の箱や簡単な家の絵を描きます。各プレイヤーは、相手と区別できる7つのコマを持ちます。\n"
+"\n"
+"**遊び方：** 自分の番では、プレイヤーはランダムに2枚のカードを選びます。選んだ2枚のカードで足し算、引き算、またはかけ算をして、その結果の数字の家に自分のコマを置くことができます。ただし、その家に相手のコマが3つ未満でなければなりません。もしその家に相手のコマが1つか2つあった場合は、その相手のコマを相手に返し、プレイヤーは「私の家から出ていけ！」と言います。\n"
+"\n"
+"**勝ち方：** すべてのコマを家に置いた最初のプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "コンボドミノ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them.\n"
+"\n"
+"**How to play:** To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes.\n"
+"\n"
+"For example, if [1, 5] is on top, then it matches [2, 4] because 1 + 5 = 2 + 4, and it also matches [2, 2] because 5 - 1 = 2 x 2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile.\n"
+"\n"
+"**How to win:** The first player to get rid of all their dominoes wins."
+msgstr ""
+"**準備：** 1から6まで、または1から9までのドミノセットを使います。各プレイヤーは相手に見せずに、ランダムに5枚のドミノを持ってスタートします。\n"
+"\n"
+"**遊び方：** 最初に、ランダムに1枚のドミノを中央に表向きで置きます。その後、プレイヤーは中央の一番上のドミノとマッチするドミノを出さなければなりません。マッチするとは、中央のドミノの2つの数字を、足し算・引き算・（必要なら）かけ算などのいずれかの計算で組み合わせて、その結果が、自分の持っているドミノの2つの数字に別の計算（足し算、引き算、かけ算など）をした結果と同じになることを意味します。\n"
+"\n"
+"例えば、もし中央の一番上のドミノが【1、 5】なら、【2、4】はマッチします。なぜなら、1 ＋ 5 ＝ 2 ＋ 4 だからです。また、【2、2】もマッチします。なぜなら、5 − 1 ＝ 2 × 2 だからです。マッチするドミノは、前の一番上のドミノの上に置きます。もしマッチできなければ、山札から新しいドミノを引かなければなりません。\n"
+"\n"
+"**勝ち方：** 手持ちのドミノをすべてなくした最初のプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "差の三角形と和の三角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Add & Sub"
+msgstr "足し算と引き算のゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**DiffTriangles:** These puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides – the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares."
+msgstr "**差の三角形：** これらのパズルには、辺を共有する三角形と四角形があります。三角形は必ず2つの四角形と隣接しており、残りの1辺は三角形か空欄になっています。三角形の数字は、隣接する2つの四角形の数字の差です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**和の三角形：** これらのパズルでは、引き算の代わりに足し算を使います。三角形の値は、隣接する2つまたは3つの四角形の数字の合計です。\n"
+"\n"
+"**挑戦：** それぞれのパズルを完成させるために、欠けている数字を埋めましょう。\n"
+"\n"
+"**作り方：** ループのないパズルを作るのは簡単です。四角形と三角形が交互に並ぶ列を描きます。そして、片端から順番に数字を入れていきます。数字を入れ終わったら、その中からいくつかの数字を取り除きます。ループがあるパズルの作り方については、ボーナスマテリアルを参照してください。"
 
 #. type=data_list
 msgctxt "data_list"
