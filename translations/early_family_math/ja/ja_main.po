@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 13:48\n"
+"PO-Revision-Date: 2025-11-12 14:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17659,6 +17659,57 @@ msgstr "もしまだお持ちでなければ、0から20までの数字を使っ
 msgctxt "data_list"
 msgid "BINGO WITH 10"
 msgstr "10を使ったビンゴ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Place a random collection of 16 Number Cards from 0 to 20 with expanded form on a 4 by 4 bingo board for each child.\n"
+"\n"
+"**How to play:** Generate random numbers to be called out one at a time. Mix up a collection of counting cards from 0 to 20. Select one card at a time from this pile until the first child gets four in a row and yells Bingo!"
+msgstr ""
+"**準備：** 4 × 4のビンゴボードの上に、0から20までの16枚の数字カードをランダムに並べます。\n"
+"\n"
+"**遊び方：** 0から20までの数え札のセットをよくまぜて、数字をランダムに1枚ずつ取り出せる山を作ります。この山からカードを1枚ずつ引いて、数字を順番に読み上げていきましょう。最初に4つのマスが1列にそろった子が「ビンゴ！」と叫んで勝ちです！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One important variation of this game is to do a “Tens-Reversed” version using cards with numerals. When a card is chosen, if it is 1 to 10, then 10 is added to find the matching value, and if it is 11 to 20, then 10 is subtracted for the matching value."
+msgstr "このゲームの重要なバリエーションのひとつに、「10の位を逆にする」バージョンがあります。数字が書かれたカードを使います。カードが1から10の数字だった場合は、その数字に10を足して対応する数字を見つけます。11から20の数字だった場合は、そこから10を引いて対応する数字を見つけます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE – 10’S"
+msgstr "記憶チャレンジ ～10の位～"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting 10"
+msgstr "10の足し算と引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This version of the Memory Challenge game uses a Number Card deck from 0 to 20 with the rule that two numbers match if they are 10 apart. If you also have cards from 0 to 20 that use expanded form or ten frames, you should use those too. Deal a 3 by 4 grid of cards out on the table, all face-down.\n"
+"\n"
+"**How to play:** Players take turns flipping two cards face-up. If the two cards are ten apart, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards do not match, the player flips the cards back over and ends their turn.\n"
+"\n"
+"**How to win:** The game ends when the last pair of cards is taken. The player with the most cards wins."
+msgstr ""
+"**準備：** このバージョンの記憶チャレンジゲームでは、0から20までの数字カードを使い、2つの数字が10ずつ離れていれば一致するというルールを採用しています。 0から20までの数字カードで、展開形や10のコマを使ったものがあれば、そちらも使いましょう。 テーブルの上に3 × 4のマス目のカードをすべて裏向きに配ります。\n"
+"\n"
+"**遊び方：** プレイヤーは交互に2枚のカードを表向きにめくります。 2枚のカードが10枚違ったら、そのプレイヤーはそのカードをキープし、山札から2枚のカードを取り替えて手番を続けます。 2枚のカードが同じでなかった場合、そのプレイヤーはカードを裏返して自分の番を終了します。\n"
+"\n"
+"**勝ち方：** 最後のカードのペアが取られた時点でゲーム終了です。 最も多くのカードを持っているプレイヤーの勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GEOMETRIC ART"
+msgstr "幾何学アート"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Similarity and symmetry are two geometric concepts your child can play with."
+msgstr "類似と対称は、お子さんが遊びながら学べる2つの幾何学の概念です。"
 
 #. type=data_list
 msgctxt "data_list"
