@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 05:55\n"
+"PO-Revision-Date: 2025-11-12 13:48\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17654,6 +17654,11 @@ msgstr "0から20までの数字カードを作ろう"
 msgctxt "data_list"
 msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
 msgstr "もしまだお持ちでなければ、0から20までの数字を使った数え札の拡張デッキをいくつか作りましょう。 一つ目のデッキは普通の数字カードです（0〜20）。二つ目のデッキはは0から20までの数字を0 + (0から9)、10 + (0から9)、20 + 0のように、分解の形（展開形）で表したカードです。そして三つ目のデッキは10マスを使ったカードです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO WITH 10"
+msgstr "10を使ったビンゴ"
 
 #. type=data_list
 msgctxt "data_list"
