@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 04:50\n"
+"PO-Revision-Date: 2025-11-12 05:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17420,6 +17420,240 @@ msgstr ""
 msgctxt "data_list"
 msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
 msgstr "自分自身から数字を引く問題や、0を引く問題も混ぜて練習しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n"
+"\n"
+"**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n"
+"\n"
+"**Example:** The Puzzler thinks of 11. The discussion could go like this:\n"
+"\n"
+"• Puzzler: Stripes is a number between 0 and 15.\n"
+"• Questioner: How does Stripes compare to 8?\n"
+"• Puzzler: Stripes is bigger than 8.\n"
+"• Questioner: How does Stripes compare to 12? \n"
+"• Puzzler: Stripes is less than 12.\n"
+"• Questioner: How does Stripes compare to 10? \n"
+"• Puzzler: Stripes is bigger than 10.\n"
+"• Questioner: Is your number 11?\n"
+"• Puzzler: Yes, congratulations!"
+msgstr ""
+"**準備：** 2人の役割があります。数字を考える「パズラー」と、その数字を当てる「質問者」です。\n"
+"\n"
+"**遊び方：** まず、パズラーは「クッパは0から12までの数字です」と言います。それから、質問者は「クッパは4と比べてどうですか？」のような質問をします。パズラーは「クッパは4より小さい」「4と等しい」「4より大きい」と答えます。\n"
+"\n"
+"**例：** パズラーは「11」を考えます。やり取りはこんな感じになるでしょう：\n"
+"\n"
+"* パズラー：ストライプスは0から15の間の数字です。\n"
+"* 質問者：ストライプスは8と比べてどうですか？\n"
+"* パズラー：ストライプスは8より大きいです。\n"
+"* 質問者：ストライプスは12と比べてどうですか？\n"
+"* パズラー：ストライプスは12より小さいです。\n"
+"* 質問者：ストライプスは10と比べてどうですか？\n"
+"* パズラー：ストライプスは10より大きいです。\n"
+"* 質問者：あなたの数字は11ですか？\n"
+"* パズラー：はい、おめでとうございます！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n"
+"\n"
+"As your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”"
+msgstr ""
+"質問の回数を数えてゲームにしましょう。交互に質問を繰り返し、質問の合計回数が少ないプレイヤーの勝ちです。\n"
+"\n"
+"お子さんの数学力が伸びてきたら、「クッパは偶数ですか？」や「クッパは素数ですか？」といった別の種類の質問も使いましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ESTIMATION GAME"
+msgstr "見積もりゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n"
+"\n"
+"Force yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest."
+msgstr ""
+"列に並んでいる人の集まりの大きさなど、グループの数量を見て、誰が一番上手に見積もれるかを競いましょう。\n"
+"\n"
+"数えずに素早く見積もるようにしましょう。みんなが見積もりを出したら、実際に数えて、一番近い人を褒めてあげましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "数の大きさ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15 SLIDING PUZZLE"
+msgstr "15 スライドパズル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "数字の順番"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid."
+msgstr "**準備：** まず、4 × 4のマス目の空のマス目を用意します。マス目は5本の横線と5本の縦線でできています。マス目の大きさと同じサイズの紙を15枚用意し、それぞれに1から15までの番号を書きます。パズルは、誰かがその紙片をマス目の上に並べるところから始まります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr ""
+"**挑戦：** パズルの目的は、紙片を順番に並べて、マス目の右下の角だけを空けておくことです。これを達成するには、空いているマスに隣接している紙片を動かし、その空間にスライドさせます。パズルの配置によっては、解ける場合と解けない場合があります。\n"
+"\n"
+"**作り方：** このパズルを作るには2つの方法があります。1つ目は、紙片をランダムに並べる方法で、その場合、解ける確率は50％です。もう1つは、紙片を完成した状態に最初に並べてから、合法的な動きを繰り返して紙片を動かす方法です。この方法で作れば、必ず解けるパズルになります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Different sizes"
+msgstr "違うサイズ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr "4 × 4のマス目が初心者には難しすぎる場合は、もっと小さいサイズから始めましょう。マス目は2 × 2のように小さくてもよいし、お子さんが望む大きさでもかまいません。番号のついた紙片の数は、常にマス目のマスの数より1つ少なくなります。例えば、2 × 3のマス目の場合は、1から5までのカードを使います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 3 – I CAN COUNT TO 10!"
+msgstr "ステージ 3 – 10まで数えられるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Introduction"
+msgstr "ステージ 3 – 紹介"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n"
+"\n"
+"In addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them"
+msgstr ""
+"**これまでのこと**\n"
+"\n"
+"あなたのお子さんは、0から10までの数を数えたり、逆に数えたりでき、その数量の意味を理解しています。初歩的な足し算と引き算のスキルが発達しつつあります。 これらのスキルの重要な基盤となるのは、「1」や「2」を使って少ない数で足し算と引き算をすることに自信を持つことです。 お子さんは、小さな数量を理解し、その数量を使って小さな数の足し算や引き算をすることができます。\n"
+"\n"
+"そのような素晴らしいことに加えて、あなたのお子さんの考える力が格段に向上しています！物や数字には性質があることを理解し、それについて考えたり、簡単な問題解決ができるようになります。 お子さんは、家族で算数のゲームやパズルに参加できるようになり、身の回りの数学的な世界を探求します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n"
+"* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n"
+"* Number Bonds – These are all pairs of numbers that add up to a specific number.\n"
+"* Ten Frames – Represent a number from 0 to 10 as that number of dots inside a 2 by 5 rectangular grid. For numbers greater than 4, the upper group of 5 squares is always filled.\n"
+"* Expanded Form – This refers to writing a multi-digit number broken down into the contribution of each of its digits. For example: 25 = 20 + 5 and 317 = 300 + 10 + 7.\n"
+"* Fact Families – This refers to a group of closely related math facts. For example, 2 + 5 = 7 is in the same family as 7 - 2 = 5 and 7 - 5 = 2.\n"
+"* Adding twins and near twins – An adding twin is adding a number to itself, such as 4 + 4. A near twin is one away from a twin, such as 4 + 5.\n"
+"* Doubling, multiplying by two, and halving, two equal parts, dividing in two – Children usu-\n"
+"ally enjoy adding twins. With that comes the idea of doubling and multiplying by 2. Also\n"
+"associated with that is halving, splitting something into two equal parts, and dividing by two.\n"
+"* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n"
+"* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
+msgstr ""
+"* カウントアップ – いつも1から数え始めるのではなく、どんな数字からでも上に数えることができるようになります。これは、足し算や差を見つけるのに役立ちます。\n"
+"* カウントダウン – どんな数字からでもカウントダウンすることができます。これは、引き算に役立つだけでなく、数同士の関係を理解する力を育てるのにも役立ちます。\n"
+"* 数の結びつき – 足すと特定の数になる数字の組み合わせです。\n"
+"* 10マス} – 0から10までの数を、2 × 5のマス目の中にある点の数で表します。 4より大きい数では、5つのマスからなる上のグループは常に埋まっています。\n"
+"* 展開形 – これは、複数桁の数字を各桁の寄与度に分解して書くことを指します。 例：25 ＝ 20 ＋ 5、317 ＝ 300 ＋ 10 ＋ 7。\n"
+"* ファクトファミリー – これは、密接に関連した数学的事実のグループを指します。 例えば、2 ＋ 5 ＝ 7は、7 - 2 ＝ 5 や 7 - 5 ＝ 2と同じ仲間です。\n"
+"* 同じ数（ツイン）と近い数（ニアツイン）の足し算 – ツインの足し算とは、4 ＋ 4のように、ある数字をそれ自体に足すことです。ニアツインの足し算とは、4 ＋ 5のように、ある数字から１つ離れた数字を足したものです。\n"
+"* 2倍にする、2をかける、半分にする、2つに分ける – 子どもたちは同じ数を足すことを楽しむことが多いです。そこから、2倍にすることや2をかけることの考えが生まれます。また、それに関連して、半分にすること、物を2つに等しく分けること、そして2で割ることもあります。\n"
+"* 偶数と奇数 – 偶数は2等分できます。 奇数は2等分しても1つ余ります。 偶数はツインを足した結果です。\n"
+"* 2ずつスキップカウント – 例えば、0、2、4、6や13、11、9、7などです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUMS"
+msgstr "図形の足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**挑戦：** 下に線で直接つながっているすべての円の中の数字の合計が、線でつながれている上の円の数になるように、空欄の円を数字で埋めましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"一番やさしいパズルでは、ほとんどの円がすでに埋まっています。年上の子ども向けには、より大きな数や、ひらめきが必要なバリエーションもあります。\n"
+"\n"
+"**繰り返しの数字：** 一つのオプションとして、繰り返される数字に円ではない図形を使うことです。 円の中の数値は、他の円や他の図形の数値と重複してもよいですが、円ではないの図形の中の数値は、同じ形状の他のすべて形の数値と一致しなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"例えば、与えられたパズルでは、すべての正方形が同じ値になります。 最初の例では、ツインの足し算、ニアツインの足し算、半分にする足し算を練習します。\n"
+"\n"
+"**作り方：** これらのパズルは、完全に埋まっている図から始め、いくつかの数字を削除して作ります。 繰り返しの数字がある場合は、丸の代わりに正方形や三角形などの形を使います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MYSTERY CHANGE"
+msgstr "不思議な変化"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fact Families"
+msgstr "ファクトファミリー"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**遊び方：** 子供に、いくつかの小さな物の数を数えさせます。 目を離した隙に、物の数を変えましょう。 子どもたちが振り返ったときに、どのような変化を加えたかを尋ねてください。 彼らは、起こったと思われることを再現することで、自分の理論を検証することができます。\n"
+"\n"
+"**バリエーション** これが簡単にできるようになったら、もっと自由な発想で答えを考えさせてみましょう。たとえば、4が6になった場合、「4を2倍にしてから2を引いた」というような答えも考えられます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTRODUCING 10’S"
+msgstr "10の位の紹介"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. Before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The games on the next pages are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next Stage."
+msgstr ""
+"10本の指を超える世界へようこそ！ ここには素晴らしい発見があります。10から20までの数は、お子さんがすでに知っている数に「10を足したもの」と考えることができます。これが簡単にできるようになる前に、まずは「11（じゅういち）」「12（じゅうに）」「13（じゅうさん）」といった、少しややこしい名前に慣れる必要があります。\n"
+"\n"
+"次のページのゲームは、「6と16」のように、10の違いでつながっている数字のペアに注目できるように作られています。また、「16は10と6でできている」と考えることの大切さも強調しています。数を「10の位」と「1の位」に分けて考えるこの見方（位の値を使った分解）は、次のステージで100まで数える学習に進むときに、さらに重要になってきます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING NUMBER CARDS 1 TO 20"
+msgstr "0から20までの数字カードを作ろう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
+msgstr "もしまだお持ちでなければ、0から20までの数字を使った数え札の拡張デッキをいくつか作りましょう。 一つ目のデッキは普通の数字カードです（0〜20）。二つ目のデッキはは0から20までの数字を0 + (0から9)、10 + (0から9)、20 + 0のように、分解の形（展開形）で表したカードです。そして三つ目のデッキは10マスを使ったカードです。"
 
 #. type=data_list
 msgctxt "data_list"
