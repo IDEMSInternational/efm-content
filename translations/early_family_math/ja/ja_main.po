@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 14:56\n"
+"PO-Revision-Date: 2025-11-12 15:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17710,6 +17710,137 @@ msgstr "幾何学アート"
 msgctxt "data_list"
 msgid "Similarity and symmetry are two geometric concepts your child can play with."
 msgstr "類似と対称は、お子さんが遊びながら学べる2つの幾何学の概念です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Similar shapes:** Two shapes are similar if they have the same shape, where one may be smaller or larger than the other. Circles have the same shape, so all circles are similar. This sequence of three stars are similar.\n"
+"\n"
+"Challenge your child to pick a picture and draw it two or three times as big, or twice as small."
+msgstr ""
+"**似た図形：** 2つの図形は、形が同じであれば「相似」と言います。たとえ大きさが違っていても、形が同じであれば相似です。たとえば、円はどれも同じ形をしているので、すべての円は相似です。この3つの星の並びも、相似の関係にあります。\n"
+"\n"
+"お子さんに好きな絵を選ばせて、それを2倍や3倍の大きさで描いたり、半分の大きさで描いたりするようチャレンジさせてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Mirror symmetry:** Another geometric concept to play with is mirror symmetry. Show this using a mirror with a flat side – put it down along its edge on a drawing or photo and see what the mirror image looks like. Once your child has the idea, give your child half a picture and challenge them to draw the mirror image."
+msgstr "**鏡合わせ：** もうひとつ遊びながら学べる幾何学の概念に、「鏡映対称（鏡合わせ）」があります。手鏡などの平らな面を使って、絵や写真の端にそって鏡を置いてみましょう。鏡の中に映る対称な形を見せてあげることで、鏡映対称のしくみが視覚的にわかります。お子さんがこの考え方をつかめたら、絵の半分だけを見せて、残りの半分を鏡に映ったように描いてみるチャレンジをしてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIM TRIANGLE"
+msgstr "相似な三角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes"
+msgstr "図形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The two players have different colored markers. Place six (use more for a harder game) dots evenly around a circle. Players take turns drawing lines between the dots using their color. The loser is the first player forced to create a triangle all of whose sides have the player’s color and whose corners are on the circle."
+msgstr "**遊び方：** 二人のプレーヤーはそれぞれ異なる色のマーカーを使います。円のまわりに、6つの点を等間隔に置きましょう（もっと点を増やすと、ゲームは難しくなります。）。 プレーヤーは交互に自分の色を使って点と点の間に線を引いていきます。ゲームに負けるのは、円の上の3つの点を結んだ三角形が、すべて自分の色の線でできてしまった最初のプレイヤーです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example game:** Here is a game with 'red' moving first. This is a sequence of board positions after each of red's moves. In the last position, no matter where 'green' moves next they will form a triangle and lose."
+msgstr "**ゲームの例：** これは「赤」が先手で始めるゲームです。以下は、赤の手番ごとに変化していく盤面の様子です。最後の盤面では、「緑」がどこに線を引いても、自分の色の三角形ができてしまい、負けになります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SHAPES"
+msgstr "数のかたち"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Shapes"
+msgstr "数のかたち"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using something small, such as pieces of food, challenge your child to make shapes with a given number of pieces. These shapes can be rectangles, triangles, squares, or anything fun.\n"
+"\n"
+"**Making rectangles:** Your child may notice that for some numbers, such as 12, there are different shapes of rectangles that can be made, and that for other numbers, such as 7, only flat rectangles can be made. Numbers such as 5 and 7 are called prime numbers because there is no way to break them into normal rectangles.\n"
+"\n"
+"**Even and Odd:** Investigate even and odd numbers using number shapes. For a given number, ask your child to put the pieces into two equal rows. You would do this if you were splitting food fairly between two people. For which numbers does it work out evenly?"
+msgstr ""
+"食べ物のかけらなど、小さなものを使って、指定された数で形を作ることに挑戦しましょう。 形は、長方形、三角形、正方形など、何でもかまいません。\n"
+"\n"
+"**長方形を作る：** お子さんは、12などいくつかの数では、さまざまな形の長方形が作れること、また7など他の数では、平らな長方形しか作れないことに気づくかもしれません。 5や7のような数は、普通の長方形に分割する方法がないため、素数と呼ばれています。\n"
+"\n"
+"**偶数と奇数：** 数の形を使って偶数と奇数を調べましょう。ある数について、お子さんにその数の形を2つの等しい列に並べてもらってください。これは、2人の人に食べ物を公平に分けるときと同じやり方です。どの数で均等に分けられるでしょうか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding Evens and Odds:** Representing even and odd numbers this way makes it easy to see why: Even + Even = Even, Odd + Odd = Even, and Even + Odd = Odd."
+msgstr "**偶数と奇数の足し算：** 偶数と奇数をこのように表すと、その理由が簡単にわかります： 偶数＋偶数＝偶数、奇数＋奇数＝偶数、偶数＋奇数＝奇数です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Adding up odd numbers:** Once your child knows what an odd number is, investigate adding up the first few odd numbers as shown in this diagram. Amazingly, the sum of the first odd numbers is always a square number."
+msgstr "**偶数と奇数の足し算：** 偶数と奇数をこのように表すと、その理由が簡単にわかります： 偶数＋偶数＝偶数、奇数＋奇数＝偶数、偶数＋奇数＝奇数です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 2"
+msgstr "2倍する"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Very gradually, introduce multiplication to your child by a small change in language – start referring to doubling a number as taking “two of it” or as “multiplying it by 2.”"
+msgstr "とてもゆっくりと、言葉を少しずつ変えながらお子さんにかけ算を紹介しましょう。数を「2つ分にする」や「2倍する」と言い始めてみてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM – DOUBLING THE LIMIT"
+msgstr "ニム — 制限を倍にする"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Set a starting total, say 20. Let your child choose whether to go first or second.\n"
+"\n"
+"**How to play:** During the first turn, a player chooses to subtract 1 or 2 from the current total. After the first turn, a player may subtract any number from 1 up to twice the number used on the last turn.\n"
+"\n"
+"**How to win:** The first person to reach 0 wins (an alternative rule is they lose)."
+msgstr ""
+"**準備：** 最初の合計を例えば20に設定します。お子さんに先手か後手かを選ばせてください。\n"
+"\n"
+"**遊び方：** 最初のターンでは、プレイヤーは現在の合計から1か2を引きます。最初のターンの後は、プレイヤーは前のターンで使った数の2倍までの任意の数（1以上）を引くことができます。\n"
+"\n"
+"**勝ち方：** 最初に0になった人が勝ちです（別のルールでは負けとなります）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can also be played, with essentially the same rules, by starting at 0 and adding your way up to the target. Once children learn to play this without writing anything down, it is a fun travel game."
+msgstr "これも、基本的に同じルールで、0から始めて目標まで足し算で遊ぶことができます。子どもたちが何も書かずに遊べるようになれば、楽しい旅行ゲームになります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HALVES AND HALF NOTS"
+msgstr "半分と半分じゃないもの"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Two players agree on a target number, say 20, set their running total to 0, and choose who will go first.\n"
+"\n"
+"**How to play:** A turn starts by generating a number using one die or the sum of two dice. If the number is odd, the player must double it. If the number is even, the player may take half of it as many times as is desired as long as the numbers being halved are even. The player then adds that final result to the running total as long as that does not put the total over the target - if the final result cannot be used, the turn is skipped.\n"
+"\n"
+"**How to win:** The player who brings the total exactly to the target number wins."
+msgstr ""
+"**準備：** 2人のプレイヤーが目標の数字（例えば20）を決め、合計を0に設定し、どちらが先に行くかを決めます。\n"
+"\n"
+"**遊び方：** ターンは、1つのサイコロの目、または2つのサイコロの合計を出すことから始まります。出た数字が奇数なら、その数字を2倍にしなければなりません。数字が偶数の場合は、その偶数を何度でも半分にしてかまいません。ただし、半分にする数字が偶数である限りです。その後、最終的な結果を合計に足します。ただし、その合計が目標数を超えない場合に限ります。もし最終結果を使えない場合は、そのターンはスキップされます。\n"
+"\n"
+"**勝ち方：** 合計をちょうど目標の数にしたプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
+msgstr "プレイヤーが最初の数字を変えずにそのまま使うことを許してもかまいません。半分にする操作は1回までに制限することもできます。最後に、目標の数から始めて0になるまで引き算をしていくことで、引き算の練習にもなります。"
 
 #. type=data_list
 msgctxt "data_list"
