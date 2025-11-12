@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 15:54\n"
+"PO-Revision-Date: 2025-11-12 17:46\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17841,6 +17841,26 @@ msgstr ""
 msgctxt "data_list"
 msgid "You can allow the player not to change the initial number. You can allow halving at most once. Finally, you can practice subtracting by starting at the target number and subtracting your way down to 0."
 msgstr "プレイヤーが最初の数字を変えずにそのまま使うことを許してもかまいません。半分にする操作は1回までに制限することもできます。最後に、目標の数から始めて0になるまで引き算をしていくことで、引き算の練習にもなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING EVENS AND ODDS"
+msgstr "偶数と奇数を数えよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a small collection of playing cards involving some small quantities. Start with combinations of three cards and work your way up to more cards.\n"
+"\n"
+"Suppose the numbers are 1, 2, and 3. The question is: If you randomly pick two cards and add them, are you more likely to get an even or odd number? Count how many ways there are of getting an odd number versus an even number. For example, in the case of using 1, 2, and 3, there is one way to get an even number (1 + 3) and two ways to get an odd number (1 + 2, 2 + 3). So the odd number sums are more likely (twice as likely).\n"
+"\n"
+"**Make it a contest:** Let one player be Even and the other player be Odd. See who has the most successes after a dozen trial runs."
+msgstr ""
+"**準備：** 少しのトランプを使って、小さな数の組み合わせを扱いましょう。 3枚のカードの組み合わせから始め、徐々にカードを増やしていきます。\n"
+"\n"
+"数字が1、2、3だとします。 ランダムに2枚のカードを選んで足し算をした場合、偶数になる確率と奇数になる確率のどちらが高いでしょうか。 奇数が出る方法と偶数が出る方法の数を数えてみましょう。 例えば、1、2、3を使う場合、偶数になる方法は1通り（1＋3）、奇数になる方法は2通り（1＋2、2＋3）あります。 つまり、奇数の和の方が可能性が高いです（2倍の確率）。\n"
+"\n"
+"**コンテストにしよう：** 一人のプレイヤーは「偶数チーム」、もう一人は「奇数チーム」になりましょう。12回の試行のあと、どちらが多く成功したかを比べてみてください。"
 
 #. type=data_list
 msgctxt "data_list"
