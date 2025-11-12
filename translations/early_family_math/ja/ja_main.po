@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 18:55\n"
+"PO-Revision-Date: 2025-11-12 19:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18176,6 +18176,385 @@ msgstr ""
 "お子さんに、これらの質問に対する答えについて自分の考えを説明させ、それから実験をして自分の考えを調べさせましょう。\n"
 "\n"
 "ラウンドが始まる前に、どのコマが勝つかを予想し、競争的な要素を加えてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "数独のバリエーション"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"このページで出題されるパズルは、正方形のマス目に数字がちょうど一度ずつ入るように配置されるという基本ルールがあります。\n"
+"\n"
+"パズルが完全に埋まっている状態からスタートし、多くの数字またはすべての数字を削除し、小さく区切られたエリアとそのパズルのタイプに適した追加情報を作ります。\n"
+"\n"
+"自分でもっと大きなパズルを作ることもできますし、インターネットでもっと大きなサイズのパズルを見つけることもできます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "偶数奇数数独とクロプキ数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "これらのパズルには、マークされた2 × 2の各サブ領域で数字が1回ずつしか出てこないという制約があります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**偶数奇数数独：** 偶数の数字が入っているマスはグレーで塗られています。\n"
+"\n"
+"**クロプキ数独：** マスの間の空洞の点は、数字が1つ違うことを表します。塗りつぶされた点は、片方の数字がもう一方の数字の半分であることを意味します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "和数独、差数独、和差数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sudoku Variations"
+msgstr "数独のバリエーション"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "通常のナンプレのルールに加え、このパズルではターゲットとなる数字が小さいエリアに分割されています。 通常の数独とは異なり、同じ数字が繰り返し使われることがあります。 マスが1つしかない場合は、そのマスの数字がターゲットになります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**和数独：** 小さいエリア内の数字の合計が目標の数字になります。\n"
+"\n"
+"**差数独：** 小さいエリア内は1マスか2マスで構成されています。2マスの場合は、その数字の差が目標の数字になります。\n"
+"\n"
+"**和差数独：** 小さいエリアには、和（＋）または差（−）を示す記号が付けられています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "通常の4 × 4のパズルで使う1から4の代わりに、別の数字のグループを使いましょう。例えば、1、3、5、7を使います。この場合は、パズルの上に使う数字を一覧で示してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "箱を閉じるゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**準備：** 各プレイヤーは、1 から 9 までの数字を紙に書き並べます。\n"
+"\n"
+"**遊び方：** ターンを始めるとき、プレイヤーは2つのサイコロの出た目の合計を求めます。まだ消されていない数字だけを使って、その合計になるように1つ以上の数字のグループを消します。もしその合計になる数字の組み合わせがなければ、何も変わりません。プレイヤーはあらかじめ、サイコロ1つだけを使うことを選んでもかまいません。\n"
+"\n"
+"**勝ち方：** すべての数字を最初に消したプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "このゲームの変化形の一つとして、使う数字の範囲を広げて10や12までにする方法があります。もう一つの方法は、各プレイヤーに1回のターンを与えるルールです。そのターンは、新たにサイコロを振り続け、はじめて動けなくなるまで続きます。ターンの最後に、そのプレイヤーのスコアは消されていない数字の合計になります。スコアが一番低いプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "的を射る"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "和の組み合わせ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**準備：** トランプのデッキから、絵札と子どもたちが扱いにくい大きな数字のカードを取り除きます。カードをよくシャッフルして、5枚を表向きに並べ、さらに6枚目を「目標の数字」としてめくります。残りのカードは山札として置き、使ったカードを補充するときに使います。\n"
+"\n"
+"**遊び方：** プレイヤーのターンでは、5枚のカードのうち2枚を使って、その和または差が6枚目の「目標のカード」の数字と一致すれば、その3枚すべてを獲得できます。 獲得したカードは山札から補充します。もし達成できなかった場合は、新しい目標カードを1枚めくり、次のプレイヤーの番になります。\n"
+"\n"
+"**勝ち方：** ゲーム終了時に、最も多くのカードを持っているプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "いくつかのバリエーションを加えることもできます。2枚ではなく3枚のカードを使って6枚目の目標カードの数字を作ることを許可してもよいですし、好きな枚数のカードを使って合計を目標の数字にしてもかまいません。さらに、足し算と引き算を組み合わせて、任意の枚数のカードで目標の数字を作るというバリエーションもあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "何通りあるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"何かを選ぶ方法の数を数えることは、興味深い探究につながります。いくつかの例を紹介しますので、ぜひお子さんと一緒に、さらにたくさんのパターンを考えて楽しんでみてください。\n"
+"\n"
+"**調査１：** 赤と青だけで描くと、帽子、目、マントのあるモンスターは何通り描けるでしょうか？ 帽子とマントだけに色をつけたらどう変わるかな？ もし3色使ったり、それぞれの色を1回しか使わないとしたら、どう変わるでしょう？などの質問をしましょう。\n"
+"\n"
+"**調査２：** 同じキャンディーが5つ並んでいます。 赤いキャンディーが2個、青いキャンディーが3個になるように色を塗る方法は何通りありますか？\n"
+"\n"
+"**調査３：** 小さな数の集合を使って和を求める方法をすべて見つけてみましょう。 これは、順序を考慮する場合と考慮しない場合で行います。 例えば、1と2を使う場合、順序を考えずに4を得る方法は1 + 1 + 1 + 1 = 2 + 1 + 1 = 2 + 2通りあり、順序を考えて4を得る方法は1 + 1 + 1 + 1 = 2 + 1 + 1 = 1 + 2 + 1 = 1 + 1 + 2 = 2 + 2通りあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "どうやって作れるかな？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "いくつあるか数えてみよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"1人が相手に目標の数字を出し、それを足し算や引き算を使って作るいろいろな方法を考えるようにチャレンジします。たとえば、目標が「3」なら、最初は 1 + 2 になるかもしれませんが、次に 1 + 5 − 3 のように、より複雑な式を作っていくことができます。\n"
+"\n"
+"もっと難しくするために制限を加えましょう。たとえば、「4より小さい数字は使えない」や、「4より小さい数字だけを使う」などのルールを設けることができます。\n"
+"\n"
+"「1と2だけを使って5を作る方法は何通りあるかな？」のような質問をして、これを探究活動にすることもできます。\n"
+"\n"
+"お子さんが数学をもっと学ぶにつれて、倍にすることや半分にすることなど、追加のスキルを身につけることができます。例えば、5は2を倍にして1を足した数であったり、10を2つ分から5を3つ引いた数です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "数字の入れ替えゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**準備：** 1つのサイコロを2回振って、2桁の目標数字を作ります。最初の出た目が十の位、2回目の出た目が一の位になります。その後、5つのサイコロを振って、計算に使う数字を作ります。\n"
+"\n"
+"**挑戦：** 足し算、引き算、そして2桁の数字を作ることを使って、目標の数字にできるだけ近づけましょう。スコアはどれだけ近づけたかで決まります。\n"
+"\n"
+"**勝ち方：** ラウンドごとに勝者を決めることもできますし、複数のラウンドのスコアを合計して、合計スコアが一番低い人を総合優勝者にすることもできます。もちろん、チャレンジとしてプレイしてスコアをつけないことも可能です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Examples"
+msgstr "例"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**例1：** 出目が 4、4、3、1、3、22と出たとします。 最初のプレイヤーは4 ＋ 4 ＋ 3 ＋ 1 ＋ 3 ＝ 15、次のプレイヤーは14 ＋ 4 ＋ 3 ＋ 3 ＝ 24、別のプレイヤーは34 - 14 ＋ 3 ＝ 23です。\n"
+"\n"
+"**例2：** 例えば、出た数字が「1、2、5、6、4、63」だったとします。あるプレイヤーは「65 - 4 + 2 + 1 = 64」で近い答えを出しました。別のプレイヤーは「56 + 4 + 2 + 1 = 63」でピッタリ当てました。さらにもう一人は「52 + 6 + 4 + 1 = 63」でも同じく正解になると言います。こうした問題で複数の解が生まれる理由について話し合ってみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "自由自在"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "パズルのピースを組み合わせる"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"プレイヤーは目標の数を決めます。10は使いやすい目標ですが、他の数字でも構いません。\n"
+"\n"
+"各プレイヤーには、絵札のないデッキから5枚のカードが配られます。プレイヤーは、配られたカードを使って、足し算や引き算の組み合わせで目標の数を作る方法をできるだけ多く見つけるか、目標にできるだけ近づけます。\n"
+"\n"
+"これはグループ活動として行い、グループ全員に5枚のカードが配られ、協力して合計を作る方法を考えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "ピラミッドソリティア"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**準備：** 目標の数字（例えば10）を超えるカードは取り除きます。6段で21枚のピラミッドを作ります。カードは表向きにして、下の段は上の段のカードの半分重なるように配置します。残ったカードは山札になります。\n"
+"\n"
+"**遊び方：** めくれているカードの中から、合計が目標の数字になるグループを集めて取り除きます。このグループには、山札の一番上のカードや捨て札の一番上のカードも含めることができます。合計が合う組み合わせがない場合は、山札の一番上のカードを捨て札の山に移します。\n"
+"\n"
+"**挑戦：** ピラミッドのすべてのカードを取り除きます。山札が空になったらゲーム終了です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**小さいターゲット：** 目標が10より小さい場合は、ピラミッドの大きさを1列か2列減らし、山札を十分に大きくしましょう。 例えば、目標が 8 の場合、5 列15 枚のカードを使用します。\n"
+"\n"
+"**引き算を使う：** 足し算の代わりに引き算を使ってみましょう。 10までのカードを使う場合、目標とする数字は5がよいでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "差のピラミッド"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "ソリティアパズル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**挑戦：** チャレンジは、1から6までの数字をピラミッドに配置することです。ピラミッドは、1枚のカードが一番上の段に、2枚が2段目に、3枚が3段目に並びます。各数字は、ちょうど下の段にある2つの数字の差になっています。\n"
+"\n"
+"お子さんに時間をかけて遊ばせてあげてください。遊んでいるうちに、自然と解答にたどり着くことが多いでしょう。ただし、お子さんが不安を感じた場合は、次の2つのヒントが役立ちます。6は、どんな数字の差にもなりえないので、必ず一番下の段に置きます。同様に、5は一番下の段か、6と1の上の中段に置く必要があります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "関連チャレンジ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "もしお子さんがこれを簡単にできるようなら、いくつの方法でできるか挑戦してみましょう。二つの解答が異なるとはどういうことか話し合ってみてください。例えば、ある解答が別の解答の鏡像（左右反転）であった場合、それを別の解答とみなすべきでしょうか？さらに難しいチャレンジとして、1から10までの数字を使って4段の差のピラミッドを解く問題にも挑戦してみてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "戦略ゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "戦略ゲームで遊ぶことは、推理力、計画力、問題解決力など、多くのスキルを身につけるのに役立ちます。 三目並べ、9メンズ・モリス、フォックス・アンド・ギース、ダラ、コネクト・フォー、マンカラ、チェッカー、囲碁、チェスなど、ここでは紹介しきれないほど多くのゲームがあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "タパタン"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "**準備：** このゲームに似たものはたくさんあります。例えば、ロータ、そして3メンズモリスなどです。このゲームでは、3本の横線と3本の縦線で結ばれた9つの点がグリッド状に並んでいます。各プレイヤーは3つの同じコマを使います。ゲームの目的は、自分の3つのコマを一直線に並べることです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**遊び方：** ゲームは2つのフェーズに分かれています。最初の「配置」フェーズでは、プレイヤーが交互に空いている点にコマを1つずつ置いていきます。コマをすべて置き終わると、次に「移動」フェーズが始まります。このフェーズでは、プレイヤーが順番に自分のコマを隣接する空いている点に動かしていきます。別のルールでは、コマは隣接する点だけでなく、空いている任意の点に動かすこともできます。\n"
+"\n"
+"**勝ち方：** ゲームは、どちらかのプレイヤーが勝つか、同じ局面が3回繰り返された場合に終了します。その場合は引き分けとなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "点と箱"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "戦略ゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**準備：** この楽しいゲームは、例えば3 × 4の長方形の点のグリッドから始まります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**遊び方：** ターンの間、プレイヤーは隣接しているまだつながっていない2つの点を結ぶ水平または垂直の線を引きます。もしその線が1 × 1の四角形を完成させたら、そのプレイヤーは1点を獲得し、もう一度線を引くことができます。\n"
+"\n"
+"**勝ち方：** これ以上線が引けなくなったら、点数が多いプレイヤーの勝ちです。点数を管理する簡単な方法は、取った四角の中にイニシャルを書くことです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "もともとは小さな四角で遊ばれますが、三角形や六角形を作るような点の配置でも遊ぶことができます。ただし、その場合は線を引くのが少し難しくなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STAGE 4 – I CAN COUNT TO 20!"
+msgstr "ステージ 4 – 20まで数えられるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Introduction"
+msgstr "ステージ 4 – 紹介"
 
 #. type=data_list
 msgctxt "data_list"
