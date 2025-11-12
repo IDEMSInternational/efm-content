@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 19:55\n"
+"PO-Revision-Date: 2025-11-12 20:57\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18555,6 +18555,384 @@ msgstr "ステージ 4 – 20まで数えられるよ！"
 msgctxt "data_list"
 msgid "Stage 4 Introduction"
 msgstr "ステージ 4 – 紹介"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child has come so far! They can count up and down between 0 and 20 and understand what those quantities mean. Your child is comfortable “counting on” or “counting down” starting at any number in between 0 and 20. There is also a budding understanding of place value and how that relates to expanded form.\n"
+"\n"
+"Calculational abilities have also grown! Beyond adding and subtracting small numbers, your child has a sense of the number relationships of number bonds and fact families. The ideas of adding and subtracting 1 or 2, adding twins, and near twins, are ready to be the foundation for learning all addition and subtraction facts. Your child has also picked up skip counting by 2, doubling, halving, and even and odd numbers – all of which set the stage for learning multiplication and division."
+msgstr ""
+"**これまでのこと**\n"
+"\n"
+"お子さんはここまで大きく成長しました！0から20までの数を順に数えたり逆に数えたりでき、それぞれの数の量的な意味も理解しています。また、0から20の間のどの数からでもカウントアップ、またはカウントダウンすることに慣れています。さらに、位の値（位取り）についての理解も芽生え始めていて、それが展開形とどのように関連するのかも少しずつ分かってきています。\n"
+"\n"
+"計算力も大きく伸びています！小さな数の足し算、引き算だけでなく、数の結びつきやファクトファミリーを通して、数同士の関係性を理解する力も身についてきました。1や2の足し算、引き算、同じ数を足す「ツイン」や「ニアツイン」などの考え方など、全ての足し算、引き算の学習の土台となる準備ができています。さらに、お子さんは2ずつ飛ばすスキップカウントや、2倍、半分、偶数・奇数といった概念も身につけており、これらは今後のかけ算や、わり算の学習に向けた大切なステップとなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting to 100 – While it’s fun to hear your child count to 100, keep this practice grounded in understanding the numbers – place value and counting backwards will help a lot with this.\n"
+"* Expanded Form and Place Value – The earlier practice with this will be reinforced here. Understanding tens and ones, and using expanded form (such as 37 = 30 + 7), is essential to\n"
+"understanding numbers.\n"
+"* Comparing double-digit numbers – Understanding place value will make this easy.\n"
+"* All single-digit adding and subtracting – This is first done with manipulatives, especially fingers. Then, using number relationships, it will be extended to mental arithmetic.\n"
+"* Compensation for Addition and Subtraction – Adjusting addition and subtraction problems to make them easier helps with mental arithmetic, and teaches the structure of numbers.\n"
+"* Skip Counting – Skipping up and down by single-digit numbers starting anywhere is great for doing mental addition and subtraction, and helps with multiplication and division.\n"
+"* Beginning multiplying – Your child already knows how to multiply by 2. This will be extended, in part using skip counting, to all single-digit numbers.\n"
+"* Games, Puzzles, Problem Solving and Investigations – The games and puzzles will be more\n"
+"challenging in keeping with your child’s growing sophistication and abilities. Keep these activities fun and playful - enjoyment is the most important thing for your child’s long term mathematical success. Kindle sparks of joy when your child discovers or experiences particularly beautiful or satisfying mathematical patterns."
+msgstr ""
+"* 100まで数える – お子さんが100まで数えるのを聞くのは楽しいことですが、数の理解に基づいた練習を心がけましょう。位の値や逆に数える練習が、その理解を深めるのに役立ちます。\n"
+"* 数の展開形と位の値 – 以前の練習がここで活かされます。十の位と一の位の理解、そして 37 = 30 + 7 のような展開形の活用は、数を理解するために非常に重要です。\n"
+"* 二けたの数の大きさくらべ} – 位の値を理解すれば、簡単にできるようになります。\n"
+"* 一けたの足し算と引き算の全て} – これはまず、指などの具体的な物を使って行います。その後、数の関係を使って、暗算へと発展させていきます。\n"
+"* 足し算と引き算の補正を使った計算} – 足し算や引き算の問題を調整して簡単にすることは、暗算の助けになり、数の構造を理解することにもつながります。\n"
+"* スキップカウント – どの数字からでも一けたの数を飛び飛びに足したり引いたりする練習は、暗算にとても効果的で、かけ算やわり算の理解にも役立ちます。\n"
+"* かけ算の入門 – お子さんはすでに2のかけ算ができます。これからは、スキップカウントなどを使いながら、一けたの数すべてのかけ算へと広げていきます。\n"
+"* ゲーム、パズル、問題解決、探求活動 – お子さんの成長と能力に合わせて、ゲームやパズルは少しずつ難しくなっていきます。これらのアクティビティは楽しく遊びながら取り組むことが大切です。楽しむことが、お子さんの長期的な数学の成功につながります。特に美しいまたは満足感のある数学のパターンを発見したり体験したりしたときには、その喜びの火花を大切に育んであげてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION W/ COMPENSATION"
+msgstr "指を使った工夫する足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Use compensation for sums between 11 and 18 to make them easier.\n"
+"\n"
+"**Giving away fingers:** Suppose you’re adding 7 + 8. One person puts up 7 fingers and the other person puts up 8 fingers. Then, one person gives away as many fingers as are needed to put up 10 fingers on the other person’s hands. In this example, 7 + 8 could turn into 5 + 10 (giving away 2) or 10 + 5 (giving away 3).\n"
+"\n"
+"**Magic:** Be dramatic and give away the fingers by having one person’s hand bang into the other person’s hand and having the fingers transfer “magically.”"
+msgstr ""
+"11から18の足し算は、数をうまく調整することで、より簡単に計算できます。\n"
+"\n"
+"**指をわたす：** たとえば「7 + 8」を計算するとき、ひとりが7本、もうひとりが8本の指を出します。\n"
+"\n"
+"それから、どちらかが相手に指を分けてあげて、どちらかの手が10本になるようにします。 この例では、7 + 8 は「2 を渡して 5 + 10」にすることも、「3 を渡して 10 + 5」にすることもできます。\n"
+"\n"
+"**マジック：** 指を渡すときは、片方の手をもう片方の手にドンッとぶつけて、まるで魔法のように指が移る演出をしてみましょう！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION THE EASY WAY"
+msgstr "指でかんたん足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Counting on:** Use the idea of 'counting on' to make addition easier. Counting on refers to doing addition by starting at one of the numbers, rather than starting at 0 and counting out both of the numbers."
+msgstr "**数え足し：** 「数え足し」の考え方を使うと、足し算がもっと簡単になります。数え足しとは、0から両方の数を数えるのではなく、どちらか一方の数から数え始める方法です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Let's use adding 8 + 3 as an example. It is easier if you pick the larger number being added as the starting point for the 'counting on.'\n"
+"\n"
+"Have your child make a closed fist and say '8.' Then, lift one more finger each time as your child counts out loud '9, 10, 11.' When 3 fingers are raised, you are done adding 3, and the counting stops. At that point, you have that 8 plus 3, which is 11."
+msgstr ""
+"「8 + 3」を例にしてみましょう。数え足しをするときは、大きい方の数を出発点にすると、計算がかんたんになります。'\n"
+"\n"
+"お子さんにグーの手を作らせて、「8」と言わせます。それから、指を1本ずつ立てながら、「9、10、11」と声に出して数えさせましょう。指が3本立ったら、3を足し終えたことになり、数えるのを止めます。この時点で、「8たす3は11」だとわかります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "With practice and further number relationship ideas, these math facts will become automatic for your child. However, there is no hurry for memorization, and it can wait until more experience with the quantities and relationships between the numbers has been gained."
+msgstr "練習を重ねたり、数の関係についての理解が深まったりすることで、これらの計算は自然と身についていきます。ただし、暗記を急ぐ必要はありません。数やその関係性についての経験をしっかり積んでからで大丈夫です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION THE EASY WAY"
+msgstr "指を使った工夫する引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math up to 20"
+msgstr "ゆび算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Two methods:** Subtraction can be thought of as 'take away' or 'difference.' Both models are essential to a complete understanding of subtraction. Have your child practice both ways of thinking of subtraction using these finger subtraction methods.\n"
+"\n"
+"We’ll use 11 - 3 for our examples."
+msgstr ""
+"**二つの方法：** 引き算は「取り去る」考え方と、「差」として考える方法の2つがあります。どちらも、引き算をしっかり理解するために大切な考え方です。お子さんには、指を使った引き算の方法を使って、この2つの考え方の両方を練習させてあげましょう。\n"
+"\n"
+"例として「11 - 3」を使ってみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Take Away method:** Start with a closed fist and say “11.” Then, lifting one more finger each time, count “10, 9, 8.” Each time you lift a finger and count down, you are taking one more away from the original number.\n"
+"\n"
+"When your child sees 3 fingers raised, the counting stops. They now see that taking 3 away from 11 leaves 8."
+msgstr ""
+"**取り去る方法：** まずはグーの手を作って、「11」と言います。それから、指を1本ずつ立てながら、「10、9、8」と声に出して数えます。指を1本立てるごとに、元の数から1つずつ取り去っていることになります。\n"
+"\n"
+"お子さんが3本の指が立ったのを見たら、数えるのを止めます。こうして、11から3を取り去ると8が残ることがわかります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference method:** This uses counting on, much as we did for Easy Way Finger Addition. What we are doing is finding out which number weneedtoaddto3toget11.\n"
+"\n"
+"Have your child make a closed fist and say “3.” Then, lifting one more finger each time, count “4, 5, 6, 7, 8, 9, 10, 11.” When your child says 11, there are 8 fingers raised. That shows that the difference between 3and11is8!"
+msgstr ""
+"**差として考える方法：** これは「指の足し算」と同じように、数え足しを使っています。ここでやっているのは、「3にいくつ足せば11になるか」を見つけることです。\n"
+"\n"
+"お子さんにグーの手を作らせて、「3」と言わせます。それから、指を1本ずつ立てながら、「4、5、6、7、8、9、10、11」と声に出して数えさせましょう。お子さんが「11」と言ったとき、指は8本立っています。これで、3と11の差は8だとわかります！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PIG"
+msgstr "ピッグ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, roll a die as many times as you want. When a roll is not 1, you add that roll to your turn’s total. If it is 1, you lose everything for that turn and the turn is over. A player may choose to stop before rolling a 1, keep the turn’s points so far, and add them to the player’s running total.\n"
+"\n"
+"**How to win:** The first player to reach the target number, say 30, wins."
+msgstr ""
+"**遊び方：** 1回のターンで、サイコロを何回でも振っていいです。振った目が「1」以外なら、その数をそのターンの合計に足します。もし「1」が出たら、そのターンの得点はすべて失い、ターンが終わります。プレイヤーは「1」が出る前にやめることもでき、その時点までの得点を自分の合計得点に加えることができます。\n"
+"\n"
+"**勝ち方：** 最初に目標の数字（たとえば30）に到達したプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A two dice variation has these rules: If neither die shows a 1, the sum is added to the turn’s running total. If exactly one of the dice shows a 1, then nothing more is added to the running total and the turn ends. If two 1’s are rolled, the turn’s total becomes 0 and the turn ends."
+msgstr "2つのサイコロを使うバリエーションのルールは次の通りです。どちらのサイコロも「1」が出なければ、2つの目の合計をそのターンの合計に足します。片方のサイコロだけが「1」の場合は、それ以上合計に加えられず、ターンが終わります。両方のサイコロが「1」の場合は、そのターンの合計が0になり、ターンが終了します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ENCLOSED SUMS"
+msgstr "かっこ内の足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These puzzles have shapes connected by lines. Each enclosed region, such as where the 9 or the 7 are in this example, has a number that is the sum of the shapes that border it.\n"
+"\n"
+"While circles may have any value, a non-circle must have the same value as any other figure of the same shape."
+msgstr ""
+"**準備：** このパズルは、線でつながれた図形でできています。この例でいうと、9や7がある囲まれた部分には、その部分を囲む図形の数字の合計が書かれています。\n"
+"\n"
+"丸はどんな数字でもかまいませんが、丸以外の図形は、同じ形の図形と同じ数字でなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers in the shapes and the inside of the regions.\n"
+"\n"
+"**How to create:** Create these puzzles by making a diagram of circles and maybe some squares. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers."
+msgstr ""
+"**挑戦：** 図形や囲まれた部分の中の数字を空いているところに書き入れましょう。\n"
+"\n"
+"**作り方：** まず、丸や四角を組み合わせた図を作ります。次に、すべての図形に数字を入れ、その周りの図形の数字の合計を囲まれた部分に書きます。最後に、いくつかの数字を消して問題を完成させます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – ADDITION AND SUBTRACTION"
+msgstr "バトル – 足し算と引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Evenly split a shuffled deck of playing cards with the face cards removed. If you like, use dominoes instead.\n"
+"\n"
+"**How to play:** Both players turn over their top two cards and add them. The player with the larger sum wins all four cards. If the sums are equal, the next two pairs of cards are added and the winner gets all eight cards. Play this with a single pass through the deck or multiple passes.\n"
+"\n"
+"**How to win:** The winner is the player who has the most cards."
+msgstr ""
+"**準備：** 絵札を抜いたトランプの山札をよくシャッフルして、均等に分けます。トランプの代わりにドミノを使ってもかまいません。\n"
+"\n"
+"**遊び方：** 両方のプレイヤーは自分の山札の上から2枚ずつめくり、その合計を出します。合計が大きいプレイヤーが4枚すべてのカードを取ります。もし合計が同じ場合は、次の2枚ずつのカードの合計を比べ、勝ったプレイヤーが8枚すべてのカードを取ります。このゲームは、1回だけ遊んでも、何度か繰り返して遊んでもかまいません。\n"
+"\n"
+"**勝ち方：** カードを一番多く持っている人が勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For variety, play this using the difference of the two cards. Or, you can add three cards at a time. Another option is to assign one person to be Odd and the other Even. For this, each player turns over a card and the evenness or oddness of the sum determines who gets the cards."
+msgstr "バリエーションとして、2枚のカードの差で勝負する方法もあります。また、3枚ずつカードをめくって足す方法もあります。ほかの選択肢として、一人を「奇数」役、もう一人を「偶数」役に決める方法もあります。この場合は、各プレイヤーがカードを1枚ずつめくり、その合計が奇数か偶数かで、どちらがカードを取るかを決めます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET GIN RUMMY"
+msgstr "ターゲット・ジンラミー"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds and Fact Families"
+msgstr "数のつながりとファクトファミリー"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Agree on a target sum, say 10. Remove the face cards and deal seven cards to each player. The remaining cards become a draw pile, and its top card is flipped over to start the discard pile. The goal is to hold seven cards that are broken into separate groups of one or more cards that add up to the target.\n"
+"\n"
+"**How to play:** During a turn, the player has the choice of picking up the top card of the discard pile or the unseen card at the top of the draw pile. That player then discards a card.\n"
+"\n"
+"**How to win:** When a player successfully fills their whole hand, the player lays down the hand and says “Gin!”"
+msgstr ""
+"**準備：** まず、目標の合計（たとえば10）を決めます。絵札を抜いて、各プレイヤーに7枚ずつ配ります。残りのカードは山札になり、その一番上のカードをめくって捨て札の山を作ります。目的は、7枚のカードをいくつかのグループに分けて、それぞれのグループの合計が目標の数字になるようにすることです。\n"
+"\n"
+"**遊び方：** 自分のターンの間、プレイヤーは捨て札の山の一番上のカードを取るか、山札の一番上のカードを取るかを選べます。その後、プレイヤーはカードを1枚捨てます。\n"
+"\n"
+"**勝ち方：** プレイヤーが手札を全部そろえたら、カードを出して「ジン！」と言います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "カードのペアで差を使う方法もあります。その場合は、各プレイヤーに偶数枚のカードを配ってください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "フラッシュカード"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"フラッシュカードを使えば、計算の基本的な事実を簡単に練習できるため、つい頼りたくなります。しかし、悪意のない大人によって使い方を誤られることが多く、それが原因で子どもが算数を嫌いになってしまうこともあります。熱心すぎる反復練習は、心理的なストレスを引き起こすだけでなく、数字同士の大切な関係性を学ぶ機会を奪ってしまいます。フラッシュカードを使う場合は、限られた少数の事実に集中して、短時間で、リラックスした雰囲気の中で行うようにしましょう。\n"
+"\n"
+"このページと次のページでは、構造的な理解を深めるための方法を紹介しています。これらはお子さんにとって役に立つだけでなく、ずっと興味深く感じられるはずです。計算の事実が自然に身につくまで、ぜひ繰り返し使ってください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "足し算のスキルの復習"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"このページの活動に取り組むためには、お子さんが次のことを頭の中でできるようになっていることが望ましいです。：\n"
+"\n"
+"* 0、1、2（できれば3も）の足し算と引き算ができること\n"
+"* ツインとニアツインの足し算ができること\n"
+"* 10になる数の組み合わせを知っていること\n"
+"* 一けたの数字に10を足せること\n"
+"\n"
+"もしお子さんがこれらのスキルのどれかに苦手意識があるなら、今がそのスキルをもう少し練習するタイミングです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "足し算をやりやすくする工夫"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"補正は、暗算を簡単にする強力な方法です。2つの数を足すとき、一方の数の一部をもう一方に移すことで、同じ合計を求めることができます。特に8や9を足すときに補正は便利です。たとえば、6 + 9の場合、6から1を9に移して、5 + 10に変えることができます。同様に、4 + 8は2 + 10に変えることができます。\n"
+"\n"
+"ツインやニアツインの足し算の補正を使って、残りの計算も簡単にしましょう。たとえば、3 + 5、3 + 6、4 + 7、5 + 7があります。そのうち、5 + 7は補正を使うと6 + 6と同じになります。\n"
+"\n"
+"**いくつかの方法があります：** いくつかの計算は、いろいろなやり方で解くことができます。お子さんに、１つの問題を複数の方法で解くことに挑戦させてみましょう。たとえば、5 + 7は6 + 6に変えられますが、2 + 10にも変えられます。このような算数の遊びは、長く役立つ気づきをもたらします。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "引き算のスキルの復習"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"これらの引き算のアクティビティを始める前に、お子さんが苦手な以下のスキルを練習しておきましょう：\n"
+"\n"
+"* 0、1、2（できれば3も）を足したり引いたりできること\n"
+"* 1や2だけ違う数を引くこと\n"
+"* 10の数の組み合わせ（ナンバーボンド）を理解し、それを使って10からの引き算を簡単にできること\n"
+"* 11から19までの数から10を引くこと"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "10を通って計算する方法"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"10より大きい数の引き算（たとえば 13 − 8 など）の問題では、2つの差に分けて考えることができます。その際に「10」を中間のステップとして使います。13から8までの距離は、「13から10まで」と「10から8まで」の距離に分けられます。この考え方を使えば、13 − 8 は（13 − 10）＋（10 − 8）＝ 3 ＋ 2 ＝ 5となります。\n"
+"\n"
+"この方法を使うことで、引き算の負担を大きく減らし、2つのわかりやすい部分に分けて考えることができます。10〜20の数から10を引くのはとても簡単です。また、10から数を引くことに慣れるには、「10の数の組み合わせ」を覚えることが大切です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "引き算をやりやすくする工夫"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "暗算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"引き算の補正とは、2つの数の両方に同じ数を足したり引いたりすることです。同じ数を加えたり減らしたりしても、2つの数の間の差（距離）は変わりません。\n"
+"\n"
+"13 − 8 に補正を使って、両方の数に2を足すと、問題は 15 − 10 に変わります。少し調整しただけで、計算がとても簡単になったことに注目してみましょう！\n"
+"\n"
+"1けたの引き算もこの方法で考えることができます。たとえば、7 − 3 に両方とも3を足すと、10 − 6 になり、答えは4です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "オーバーしないように気をつけよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**準備:** 5つのサイコロを使い、4回振ります。\n"
+"\n"
+"**遊び方：** 最初の1回目の振りで、0個から5個までのサイコロを選んでキープします。一度キープしたサイコロは動かせません。2回目と3回目の振りでも、残ったサイコロで同じようにキープします。最後の4回目の振りでは、すべてのサイコロがキープされます。合計点が20以下なら得点になりますが、20を超えるとその回の得点は0になります。\n"
+"\n"
+"**勝ち方：** 1回以上のラウンドをプレイできます。合計得点が一番高い人が勝ちです。"
 
 #. type=data_list
 msgctxt "data_list"
