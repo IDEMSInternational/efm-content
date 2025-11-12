@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 21:56\n"
+"PO-Revision-Date: 2025-11-12 23:07\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19088,6 +19088,27 @@ msgstr ""
 "**挑戦：** それぞれのパズルを完成させるために、欠けている数字を埋めましょう。\n"
 "\n"
 "**作り方：** ループのないパズルを作るのは簡単です。四角形と三角形が交互に並ぶ列を描きます。そして、片端から順番に数字を入れていきます。数字を入れ終わったら、その中からいくつかの数字を取り除きます。ループがあるパズルの作り方については、ボーナスマテリアルを参照してください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "スキップカウント"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"お子さんはすでに0から20までの間で2、5、10のスキップカウントを練習しています。これからは、好きな数字から始めて、好きな数字で、好きな方向（増える方向でも減る方向でも）にスキップカウントを練習しましょう。\n"
+"\n"
+"上がり **下がり** のスキップカウントは、すべての算数の計算や位取り（特に5や10の単位でのスキップカウント）に役立ちます。スキップカウントで難しいのは、十の位の数字が変わるときなので、そこに注意しましょう。これは、旅行中やちょっとした空き時間にできる便利な練習です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "目標への短いステップ"
 
 #. type=data_list
 msgctxt "data_list"
