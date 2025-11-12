@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 01:37\n"
+"PO-Revision-Date: 2025-11-12 03:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16620,6 +16620,56 @@ msgstr ""
 msgctxt "data_list"
 msgid "WITHIN ONE OR TWO"
 msgstr "1か2以内"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**準備：** お子さんが使いやすい枚数の数字カードを用意します。 カードを2人のプレイヤーに均等に分け、裏向きに置きます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**遊び方：** プレイヤーは交互にカードを1枚ずつ、中央の山札の上に置いていきます。 そのカードが前のカードより1枚多いか、同じか、1枚少ない場合、最初に「1枚多い」、「同じ」、「1枚少ない」と言ったプレイヤーが、残りすべてのカードを獲得します。\n"
+"\n"
+"**勝ち方：** プレイを止めたときに、一番多くカードの山を持っていた人が勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* 「2つ多い」と「2つ少ない」の関係を選択肢に含めてみましょう。\n"
+"* 目標の合計を決めましょう（たとえば10）。山札の上から2枚のカードの合計がその目標になり、最初にそれを言った人の勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "1と2で行うニム（石取りゲーム）"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "近くの数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 10. Let your child choose to go first or second. \n"
+"\n"
+"**How to play:** Start at 0. Players take turns adding 1 or 2 to the current total. Count aloud the progress for each turn.\n"
+"\n"
+"**How to win:** The player who lands on the target (e.g. 10) wins."
+msgstr ""
+"**準備：** 目標の数を例えば10に決めます。お子さんに先攻か後攻かを選ばせてください。\n"
+"\n"
+"**遊び方：** 0からスタートし、プレーヤーは交互に現在の合計に1または2を加えていきます。 各ターンの進行状況を声に出して数えましょう。\n"
+"\n"
+"**勝ち方：** 目標（例えば10）に着地したプレイヤーの勝ちです。"
 
 #. type=data_list
 msgctxt "data_list"
