@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 03:36\n"
+"PO-Revision-Date: 2025-11-12 04:50\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16670,6 +16670,756 @@ msgstr ""
 "**遊び方：** 0からスタートし、プレーヤーは交互に現在の合計に1または2を加えていきます。 各ターンの進行状況を声に出して数えましょう。\n"
 "\n"
 "**勝ち方：** 目標（例えば10）に着地したプレイヤーの勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Once children learn to play this verbally, it is a great travel game.\n"
+"• Use a pile of objects. Players add one or two objects to the pile until the target quantity\n"
+"is reached.\n"
+"• Use a number line. Advance a marker along the line one or two spaces during a move.\n"
+"• Use subtraction. Players start at the target, say 10. On their turn, players choose whether\n"
+"to subtract 1 or 2. The first person to reach 0 wins.\n"
+"• Use larger target numbers as your child’s skills improve.\n"
+"• Instead of winning, the player forced to hit or go beyond the target number loses.\n"
+"• Allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"* 子どもたちが口頭でこの遊びを覚えたら、旅行中にできるゲームとしても最適です。\n"
+"* 物の山を用意します。 プレイヤーは目標に達するまで、1つか2つその物を山に加えていきます。\n"
+"* 数直線を使用します。 マーカーを線に沿って1〜2スペース進め、移動します。\n"
+"* 減算を使用します。 プレイヤーは目標（例えば10）からスタートする。 自分の番でプレイヤーは1か2のどちらを引くかを選びます。 最初に0になった人が勝ちです。\n"
+"* スキルが上達するにつれて、目標数字を大きくしてください。\n"
+"* 目標の数に達するか、それを超えてしまったプレイヤーを負けにしてみましょう。\n"
+"* 自分の番ごとにプレイヤーに1、2、3を加算(または減算)させてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – SINGLE-DIGIT COMPARING"
+msgstr "バトル – 一桁の数のくらべっこ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove the cards from two, four, or six Number Decks outside your child’s comfort range. Split the cards evenly in two piles face down."
+msgstr "**準備：** お子さんの得意な範囲を超えるような数字のカード（2、4、6など）を山札から取り除きます。残ったカードを裏向きにして、2つの山に均等に分けましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Flip over the top cards and the player with the larger card keeps both cards. If the cards match, flip the next two cards and the winner gets all four cards."
+msgstr "**遊び方：** 一番上のカードをめくり、数字が大きい方のプレイヤーが両方のカードをもらいます。もし同じ数字だった場合は、次のカードをそれぞれめくり、数字が大きかった方が4枚すべてをもらいます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The player with the most cards after one or more runs through all the cards is the winner.\n"
+"\n"
+"**Variations:** To change things up, sometimes play that the smaller of the two cards wins."
+msgstr ""
+"**勝ち方：** カードを全部使い終わったあと、複数回繰り返して、最も多くのカードを持っているプレイヤーが勝ちです。\n"
+"\n"
+"**バリエーション：** 変化をつけるために、時々は2枚のカードのうち数字が小さい方が勝ちになるルールで遊びましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing"
+msgstr "比較"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is an introductory version of a fun game we will revisit again soon.\n"
+"\n"
+"**How to play:** There are two people: the Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (for example). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number.\n"
+"\n"
+"**Use cards:** With younger children, play this game with counting cards from 0 to 8 placed face up. Hide a star under one of the cards. After each guess, the Questioner turns over all the eliminated cards until the star is discovered."
+msgstr ""
+"これは楽しいゲームの入門編で、またすぐに一緒に遊ぶことになるでしょう。\n"
+"\n"
+"**遊び方：** 2人で遊びます。パズラーが数字を考え、質問者がその数字を当てます。 例えば、パズラーは「私は0から8までの数字を考えています」と宣言します。 質問者は「あなたの数字は3と比べてどうですか？ 」のように質問をします。パズラーはその数がその数より「小さい」、「同じ」、または「大きい」と答えます。\n"
+"\n"
+"**カードを使う：** 小さいお子さんには、0から8までのカードを表向きにして数えてもらいます。 カードの下に星を隠します。 質問のたびに、質問者は除外されたカードを全部めくっていき、星が見つかるまで続けます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** The game pictured above uses cards with a target of 5.\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. \n"
+"Question: How does your number compare to 3? \n"
+"Puzzler: My number is larger than 3.\n"
+"Question: How does your number compare to 6? \n"
+"Puzzler: My number is smaller than 6.\n"
+"Question: How does your number compare to 5? \n"
+"Puzzler: Well done! My number is equal to 5."
+msgstr ""
+"**例：** 5をターゲットにしたゲームです。\n"
+"\n"
+"パズラー：0から8までの数字を考えています。\n"
+"質問者： あなたの数字は3より大きいですか？\n"
+"パズラー：私の数字は3より大きいです。\n"
+"質問者： あなたの数字は6と比べてどうですか？\n"
+"パズラー：私の数字は6より小さいです。\n"
+"質問者： あなたの数字は5と比べてどうですか？\n"
+"パズラー：よくできました！ 私の数字は5です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "ぴったり合う"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "お子さんに小さな物を7個ほど渡し、一緒に数えます。 目標とする数（例えば5個）を決めます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "もしできれば、元の7つの物の中から5つを取り出すよう、お子さんにお願いしましょう。 こうすることで、数の大きさの違いや、どれくらい多いか少ないかを自然に学ぶことができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "最初のうちは、目標の数は全体の数以下にしましょう。慣れてきたら、あえて大きすぎる数を目標にしてみるのもよい練習になります。これにより、量の大小関係を理解する力がつくだけでなく、そのお願いは現実かどうかを確かめる力も育ちます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "見えない足し算と引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**最初に：** お子さんに小さな物を数えさせて、箱に入れさせましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**次に：** 箱の中の物と同じ数の指を立てるように言います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**最後に：** 箱に物を1つか2つ追加（または削除）していることを子供に見せ、「今、箱の中に物はいくつありますか？ 」と聞きます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "これが簡単になってきたら、2つ以上のものを足したり引いたりしてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "数直線バトルシップ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**準備：** 各プレイヤーは、戦艦用と推理用の2つの数直線を持っています。 これらの数字列は0から12まで（子供たちがもっと数えられる場合はそれ以上）あります。 各プレイヤーは、自分の戦艦となる2つの数字の上にコマを置きます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**遊び方：** 準備の後、プレイヤーは順番に数字を推測します。プレイヤーが推測をすると、相手はその推測が一番近いターゲットにどれくらい近かったかを伝えます。推測したプレイヤーは、その情報を自分の2本目の数直線に記録します。\n"
+"\n"
+"**勝ち方：** すべてのターゲットを見つけた最初の人が勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* より広い範囲の数字を使ってみましょう。\n"
+"* 推測に対する返答は、正確な距離ではなく、範囲で伝えることもできます。たとえば「一番近い船は1か2マス離れています。」などです。\n"
+"* 長さが2マスや3マスの戦艦を使ってみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "何個消えた？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bigger and Smaller Numbers"
+msgstr "大きい数と小さい数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "少ない数の小さな物を数えましょう。お子さんが見ていない間にその物をいくつか隠します。お子さんがまた見たときに、「いくつ隠れているかな？」と聞いてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "**例：** テーブルにレーズンが6つあります。お子さんにそちらを見ないようにしてもらい、その間に2つをボウルで隠します。お子さんがこちらを見たら、見えている4つのレーズンを数えて、全部で6つあるときにボウルの下にはいくつレーズンがあるか聞いてみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "考える力"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "お子さんがこれを理解する一つの方法は、4から6まで「数え足し」をすることです。お子さんが4、5、6と数えるとき、最初は指を0本立てて、1本ずつ指を立てながら2本の指を立てるまで数えます。同様に、「数え引き」をして6から4まで数えることもほぼ同じ方法です。「4に2を足すと6になる」ことと、「6から2を引くと4になる」ことを結びつけるのは、数のファクトファミリー（関係性）を理解するのにとても良い練習になります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "特徴合わせゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr "図形カードには3つの特性があります：形（丸、三角、四角）、カウント（1、2、3）、色（赤、青、黒）です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**準備：** 各プレイヤーにカードを5枚ずつ配ります。 残りのカードを裏向きに山札に置きましょう。山札の一番上のカードを表向きにし、新しい山を作ります。 新しいカードは、一番上のカードの2つの特徴と一致しなければなりません。 自分の番でカードを出せなかった場合、山札からカードを1枚引いて手番を終了します。\n"
+"\n"
+"**勝ち方：** 最初に手札がなくなった人が勝ちとなります。山札がなくなった場合、手札が最も少ないプレイヤーの勝ちとなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* ゲームを簡単にするために、場に出ている一番上のカードと１つの性質だけが合っていればよいことにします。\n"
+"* 各カードが直前のカードに対してルールに従ったプレイであれば、1ターンに複数のカードを続けて出すことを許可します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "特徴合わせパズル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "最初のカードとして図形カードを選びます。 この例は、2 つの青い丸が描かれたカードです。 4枚から8枚のカードの連続を作りましょう。各カードは前のカードと2つの特徴を共有していなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"使わないカードは脇に置き、最初のカードを分けて、パズル用のカードをシャッフルします。\n"
+"\n"
+"**挑戦：** シャッフルしたカードを取り、最初のカードに続くルールに沿った手の連続として並べましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "三目並べ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"準備：} 各マスに図形カードが入る大きさの三目並べを作ります。 それぞれの性質を2つずつ持つ図形カードを8枚、ボードの周りに置きます。 例えば、三角形か四角形で、図形が1つか2つあり、赤か青のカードを8枚選びます。\n"
+"\n"
+"**遊び方：** プレイヤーは交互に、使っていないカードを選んで相手に盤に置かせます。盤に置かれたカードはどちらのプレイヤーも使って3つ並べることができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**勝ち方：** 共通する性質が1つ以上あるカードを3枚並べて完成させたプレイヤーの勝ちです！ 勝敗が決まらずに全てのカードを出した場合は引き分けとなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "カードを裏向きにして山札に置き、各プレイヤーに一番上のカードを出させることで、ゲームを単純化し、運の要素を加えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "図形数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Games"
+msgstr "図形ゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**準備：** 4種類のコマを4個ずつ使います。 例えば、色の違うグミを使いましょう。例はオレンジの三角、青の四角、赤の丸、紫のひし形を使いました。\n"
+"\n"
+"**作り方：** まず答えからパズルを作りましょう。 答えは、各行と各列にそれぞれの種類のトークンが1つずつ、またマス目の 2 × 2 の隅のボックスにもそれぞれの種類のトークンが1つずつ入っているパターンです。答えができたら、いくつかのトークンを取り外して脇にまとめて置きます。\n"
+"\n"
+"**挑戦：** お子さんにパズルを渡して、抜いたトークンを戻す方法を考えてもらいます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "パズルの作り方の戦略"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "パズルを作るための簡単な戦略をいくつか紹介します：各行から1つずつトークンを取り外す。1種類のトークンをすべて取り外し、他の種類からはそれぞれ1つずつ取り外す。1行と1列をまるごと取り外す。などです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "まほうの手 － 足し算と引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "これは足し算と引き算を練習するための手品です。 お子さんが何が起こっているのかわかるように、ゆっくり行ってください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**足し算：** 足して5以下になる数字を2つ選びます。例えば左手の指の数を3本あげ、数えます。 そして右手の指を1本上げ、1本と言います。 両手を合わせると、右手の指が左手にうつって、左手には4本の指が立っています。魔法みたい！\n"
+"\n"
+"最後に「3本の指にもう1本足すと、4本の指になります。じゃじゃーん！」といいます。\n"
+"\n"
+"**引き算：** 左手の指を何本か上げます。例えば4本としましょう。次に、右手でそのうちの1本を「つかんで取る」動きをします。すると、左手には3本、右手には1本の指が残ります。 このことは、「4から1を取ると3になる」、あるいは「4を2つのかたまりに分けると、3と1になる」と考えることもできます。このようにして、ある数を作る2つの数字の組み合わせ（ナンバーボンド）を学びます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "重要な例外"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* 足し算： 片方または両方の手で指を0本立ててもよく、0を足しても何も変わらないことを示しましょう。\n"
+"* 引き算： すべての指を引いて、指が1本も残らないことを示しましょう。また、指を1本も引かない場合もあり、その時は何も変わらないことを見せましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "数字のフラッシュ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "はじめての指算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"お子さんが物の数を簡単かつ素早く認識できるように手助けしましょう。2つの方法で練習します。\n"
+"\n"
+"**10コマを使う：** 10コマの数字カードを使います。カードをランダムに1枚選び、お子さんがその数量を認識できるかどうか、遊び感覚で試してみましょう。 時々、お子さんにクイズを出題してみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame."
+msgstr "**指を使う：** 片方または両方の手で指をいくつか立てて、お子さんに合計の数を認識してもらいましょう。5より大きい数を表すときは、片方の手は必ず5本の指を立てるようにしましょう。 そうすることで、指が「テンフレーム」のように見えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CUTTING SYMMETRIC SHAPES"
+msgstr "対称的な形を切る"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions."
+msgstr "切り紙とは、紙を折りたたんでから、その折りたたんだ状態のまま切ることで模様やデザインを作り出す技法です。折り目は一つだけではなく、複数ある場合もあり、さまざまな方向に折ることもあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other."
+msgstr "紙を一度折ってから切ると、片面がもう片面の鏡写し（または対称）になるデザインができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ideas to explore"
+msgstr "探求するアイデア"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Experiment with cutting out faces, lamps, or geometric shapes.\n"
+"• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n"
+"• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n"
+"• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape."
+msgstr ""
+"* 顔、ランプ、または幾何学的な形を切り抜いて実験しましょう。\n"
+"* 交差する2つの折り目を使用して、2方向に鏡像のあるデザインを作成します。 花などのデザインが簡単にできます。\n"
+"* いろいろな折り方や切り方を試してみましょう。前の例と同じ2回の折り方から始めて、さらに折りたたんだ紙を三等分するようにもう2回折ることで、雪の結晶のようなデザインを作ることができます。\n"
+"* 逆からやってみましょう。紙に非対称の形を描いて、それを作るために折った紙を切るチャレンジをお互いにしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINDING SQUARES"
+msgstr "正方形を見つける"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Figures"
+msgstr "図形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
+"\n"
+"**How to play:** Players take turns putting their tokens on points where the lines cross in the grid."
+msgstr ""
+"**準備：** 水平と垂直の5本の線を使って、5 × 5の格子を作ります。\n"
+"\n"
+"**遊び方：** プレイヤーは交互にトークンをマス目の線が交差する点に置いていきます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The first player with four tokens on the corners of a square of any size wins."
+msgstr "**勝ち方：** 任意の大きさのマスの角に最初に4つのトークンを置いたプレイヤーの勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow squares with diagonal sides (pictured above).\n"
+"• Use grids larger than 5 by 5."
+msgstr ""
+"* 斜めの辺を持つ正方形を許可してみましょう。\n"
+"* 5 × 5 より大きなマス目を使ってみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BAG STORIES – ADD AND SUBTRACT"
+msgstr "袋の物語 － 足し算と引き"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”"
+msgstr "**袋についての物語：** あなたとお子さんそれぞれが、いくつかのものが入った袋を持っているふりをします。例えば、一人が「あなたの袋にはレーズンが3つ入っていて、私の袋にはそれより1つ多いよ。私はいくつ持っているでしょう？」というような話を作ります。お子さんが慣れてきたら、時々お子さんに問題を考えてもらいましょう。ときどきわざと「間違い」をすると、さらに楽しく遊べますよ。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n"
+"\n"
+"**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”"
+msgstr ""
+"**複雑さを加えてみよう：** このようなストーリーは、経験を積めば積むほど精巧になります。 例えば、「私はあなたよりクッキーを2枚少なく持っています。 あなたはクッキーをいくつ持っていますか？」 別の例として、「あなたは私の2倍のキャンディーを持っていて、合わせて9個持っています。 あなたは何個持っていますか？」\n"
+"\n"
+"**他のシナリオ：** 袋や食べ物のかわりに、二種類（またはそれ以上）の魚がいる金魚鉢のイメージや、お子さんが興味を持つ他のイメージを使うこともできます。例えば、金魚鉢の話なら、「金魚鉢の中に魚が7匹いて、テトラよりも金魚が1匹多いとします。金魚は何匹いるでしょう？」というような物語を作ることができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH STORIES"
+msgstr "算数の物語"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "数字の物語"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stories are a fun way to add interest to calculations. Here are two examples of such stories:"
+msgstr "ストーリーは、計算に興味を持たせる楽しい方法です。 そのようなストーリーの例を2つ紹介します："
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n"
+"\n"
+"**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?"
+msgstr ""
+"**椅子：** 部屋に4つの椅子があります。 最初は2人でしたが、その後3人がやってきました。 みんな座れるかな？ これは、単に2 + 3が4より大きいかどうかを尋ねるよりも面白いです。\n"
+"\n"
+"**アイスクリーム：** 友だち二人と私でアイスクリームを食べています。私は自分がもらう量より、それぞれの友だちにひとつずつ多くのアイスクリームをあげます。アイスクリームは全部で10スクープあります。私は何スクープ食べられますか？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions."
+msgstr "食べ物や動物など、お子さんの興味のあるトピックを選んでください。 お子さんが上手になるにつれて、ストーリーのいくつかは多少曖昧なものにして、お子さんがもっと分析し、明確な質問をすることを学べるようにしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduce the idea of variable names by using silly names for missing numbers in activities."
+msgstr "アクティビティの中で、欠けている数字におもしろい名前をつけ、変数名の考え方を紹介しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – 1 MORE/LESS"
+msgstr "私の家から出て行って"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this."
+msgstr "**準備：** 1から10までの数字が書かれたカードを使います。共有の紙に、0から11まで番号がついた箱や簡単な家の絵を用意します。順番を考える練習ができるように、これらの箱は紙の上に順番通りに並べないでください。各プレイヤーは、相手と区別できる7つのトークンを持ちます。色を変えるのが分かりやすい方法の一つです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to place all their tokens wins."
+msgstr ""
+"遊び方：}順番が来たら、プレイヤーはカードを1枚引き、その数字の1つ多い家か1つ少ない家に自分のトークンを置くことができます。ただし、その家に相手のトークンが3つ以上ある場合は置けません。もし相手のトークンが1つか2つある場合は、それらを相手に返しながら、「私の家から出て行って！」と言います。\n"
+"\n"
+"**勝ち方：** 先にすべてのトークンを置いたプレイヤーの勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n"
+"• Use a smaller or larger range of Number Cards and boxes.\n"
+"• Allow moves to houses that are 2 numbers more or less."
+msgstr ""
+"* 数字に慣れていない場合は、数字カードの代わりに点の数が描かれたカードや箱を使いましょう。\n"
+"* カードと箱の範囲を小さくしたり大きくしたりしましょう。\n"
+"* 2つ多い、または2つ少ない家にも移動できるようにしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE IN-BETWEEN GAME"
+msgstr "数のあいだゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "順序"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens."
+msgstr "**準備：** 0から10までのトランプを1セット使います。また、各プレイヤーは20枚のトークンを持ちます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n"
+"\n"
+"**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins."
+msgstr ""
+"**遊び方：** 自分の番のプレイヤーには、表向きのカードが2枚配られ、その間に裏向きの3枚目のカードが置かれます。プレイヤーは、その3枚目のカードが最初の2枚の間の数であると予想して、0〜3個のトークンを賭けます。予想が当たれば、その数のトークンを相手からもらい、外れた場合はその分のトークンを相手に渡します。\n"
+"\n"
+"**勝ち方：** 5ラウンドまでプレイするか、1人のプレイヤーがトークンを使い切るまでプレイします。終了時に最も多くのトークンを持っていたプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SUDOKU"
+msgstr "ナンバー数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** These are similar to the Shape Sudokus, only now they use numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper."
+msgstr ""
+"**準備：** 図形数独に似ていますが、今度は数字（または点の数）を使います。消しゴムを使わずに済むように、数字（または点）の書かれた紙のスリップを使ってパズルを解きましょう。\n"
+"\n"
+"4 × 4のパズルでは、各行と各列に1〜4の数字が1回ずつ入ります。また、枠で囲まれたそれぞれの小さな領域にも、1〜4の数字が1回ずつ入ります。それだけです！完成したパズルを用意してから、一部の数字の紙を取り除くことで、お子さん用のパズルを作ってみましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Variations:** For variety, use irregularly-sized subregions – these are called Jigsaw Sudoku puzzles. You can also create puzzles of larger size (two 5 by 5 puzzles are shown)."
+msgstr "**バリエーション：** 変化をつけるために、形が不規則な領域を使ってみましょう。これらは「ジグソー数独」と呼ばれます。また、より大きなサイズのパズルを作ることもできます（5 × 5のパズルが2つ紹介されています）。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU – COMPARING"
+msgstr "数独 ― 比べてみよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship.\n"
+"\n"
+"**Hungry alligator:** Tell a child who has never seen a comparison symbol, >, that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number.\n"
+"\n"
+"**Solving strategy:** First look for where the smallest and largest numbers are."
+msgstr ""
+"これらのパズルは、通常の数独と同じルールから始まります。つまり、各行・各列・各領域に数字がそれぞれ1回ずつ現れます。さらに、2つのマスの間に「＜」や「＞」の記号がある場合は、その記号が示す関係を数字が守らなければなりません。\n"
+"\n"
+"**はらぺこワニ：** 比較記号「＞」を見たことのない子供に、大きい数字は記号の幅が広い側にあると教えてあげましょう。 この記号はおなかをすかせたワニで、いつも大きな数字の方に口を向けていると言う人もいます。\n"
+"\n"
+"**解き方の戦略：** まず、最小と最大の数字がどこにあるかを探します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n"
+"\n"
+"**Puzzle creation:** Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to get them started."
+msgstr ""
+"お子さんの上達に合わせて、不等号をどんどん消して、パズルの難易度を上げていきましょう。\n"
+"\n"
+"**パズルの作り方：** 完成した数独のパズルを使って、これらのパズルを作りましょう。同じ形の空のマス目に「＞」や「＜」の記号を入れます。もしお子さんが詰まってしまったら、いくつか数字を入れてスタートしやすくしてあげましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKE ME A LIAR"
+msgstr "私を嘘つきにして"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Someone makes a statement and the other players attempt to show that the statement maker is lying. The goal is to come up with a counterexample that shows that the statement is not always true.\n"
+"\n"
+"**Always true:** One type of statement is saying something is always true. Examples are:\n"
+"\n"
+"• All trucks have four wheels\n"
+"• All rectangles are squares\n"
+"• All birds can fly\n"
+"\n"
+"**If -> then:** Another type of statement is of the form “if then”. Examples are:\n"
+"\n"
+"• If today is Monday, then it is a school day\n"
+"• If I don’t eat for three hours, then I am hungry\n"
+"• If a person is taller than someone, then they are older"
+msgstr ""
+"誰かがある発言をし、他のプレイヤーはその発言者が嘘をついていることを示そうとします。 目的は、その主張がいつも正しいとは限らないことを示す反例を見つけることです。\n"
+"\n"
+"**いつも正しい：** あるタイプの主張は、「いつも正しい」と言うものです。 例としては：\n"
+"\n"
+"* すべてのトラックには4つの車輪があります。\n"
+"* すべての長方形は正方形です。\n"
+"* すべての鳥は空を飛べます。\n"
+"\n"
+"**もし〜ならば〜：** もう一つのタイプの主張は、「もし〜ならば〜」という形のものです。：\n"
+"\n"
+"* もし今日が月曜日なら、学校の日です。\n"
+"* もし3時間食べなければ、私は空腹です。\n"
+"* もしある人が誰かより背が高ければ、その人は年上です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CODEBREAKER"
+msgstr "暗号解読者"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Being Logical"
+msgstr "論理的思考"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
+msgstr "**準備：** コードマスターはコードを作成し、もう一方のプレイヤーはコードブレイカーです。コードは3つの位置があり、それぞれの位置には1から5までの数字が入ります。たとえば、「321」はそのようなコードの一例です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code."
+msgstr "**暗号を解く：** コードブレイカーがコードを推測し、コードマスターはその推測がどれだけ正しいかを伝えます。例えば、コードブレイカーが「131」と推測した場合、コードマスターは「1つの位置が完全に一致していて、もう1つの位置には正しい数字があるが場所が違っている」と答えます。コードブレイカーが正しいコードを当てるまで、ゲームは続きます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins."
+msgstr "**勝利方法：** 推測の回数がコードブレイカーのスコアとなります。スコアが低いほど勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Add challenge by having a maximum number of questions that are allowed.\n"
+"• Allow or disallow repeated numbers in the code.\n"
+"• Use shorter or longer lengths for the code.\n"
+"• Use a narrower or wider range of numbers for each place of the code."
+msgstr ""
+"* 質問（推測）の回数に上限を設けて、難易度を上げましょう。\n"
+"* コードに同じ数字の繰り返しを許可するかしないかを選べます。\n"
+"* コードの長さを短くしたり長くしたりして調整できます。\n"
+"* 各桁に使える数字の範囲を狭くしたり広くしたりすることができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER ADDITION TO 10"
+msgstr "10までの指を使った足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We'll use 4 + 2 to demonstrate two methods for this."
+msgstr "「4 + 2」を使って、2つの方法を紹介します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6."
+msgstr "**方法1：** どちらの数も5以下の場合は、この方法を使いましょう。片方の手に4本、もう片方の手に2本の指を立てます。そして、両方の手を合わせます。じゃじゃーん！お子さんは「4と2を合わせると6になる」ことが目で見てわかります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n"
+"\n"
+"**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n"
+"\n"
+"This method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number."
+msgstr ""
+"**方法2：** 10までの合計を求めるときは、どちらかの数から「数え足し」を使いましょう。\n"
+"\n"
+"**例：** 4と2を足すには、片方の手に4本の指を立て、0から2まで声に出して数えます。0の後に言う数字ごとに指を1本ずつ立てていきます。2まで数え終わったときには、合計で6本の指が立っているはずです。\n"
+"\n"
+"この方法は5より大きい数字の足し算にも使えます。お子さんは、より多くの指を立てた数から始めて、少ない数を数え足すほうが簡単だと気づくようになるでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FINGER SUBTRACTION TO 10"
+msgstr "10までの指を使った引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "ゆび算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:"
+msgstr "引き算には「取り去る」と「差」の2つの考え方があります。お子さんはどちらの考え方にも慣れておくべきです。ここに「8 − 5」を両方の方法で計算した例を示します。："
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up."
+msgstr "**取り去る（左側）：** 8 − 5は、8個のものがあって、そのうち5個を取り去った後に残る数だと考えましょう。まず、8本の指を立てます。次に、0から5まで声に出して数え、0の後に言う数字ごとに指を1本ずつ下ろしていきます。5まで数え終わったときには、3本の指が残っているはずです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n"
+"\n"
+"This method uses the “counting on” addition method to find the number to add to 5 to get 8."
+msgstr ""
+"**差（右側）：** この考え方では、8 − 5を2つの数字の差や距離を求めることと見なします。まず、5本の指を立てます。次に、新たに立てる指を数え、合計で8本になったときに数えた指の数（3本）が差となります。\n"
+"\n"
+"この方法は「数え足し」の足し算を使って、5にいくつ足せば8になるかを見つけます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted."
+msgstr "自分自身から数字を引く問題や、0を引く問題も混ぜて練習しましょう。"
 
 #. type=data_list
 msgctxt "data_list"
