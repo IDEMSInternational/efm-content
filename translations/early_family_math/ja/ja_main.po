@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-12 23:07\n"
+"PO-Revision-Date: 2025-11-13 00:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19109,6 +19109,60 @@ msgstr ""
 msgctxt "data_list"
 msgid "SHORT STEPS TO A TARGET"
 msgstr "目標への短いステップ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**遊び方：** 1から9までのトランプのカードを2枚使って、2桁のスタートの数字を作ります。1枚目のカードが十の位、2枚目のカードが一の位になります。その数字からスタートし、1か10のどちらかのジャンプを5回行います。目標は50にできるだけ近づくことで、スコアは50からの差の合計です。何ラウンドか繰り返し、合計スコアが最も低いプレイヤーが勝ちです。\n"
+"\n"
+"**100マス計算表：** 幼い子どもたちは100の表を見ながら行うと良いでしょう。その表を使うことで、10ずつ増えたり減ったりするときの位取りの理解も深まります。\n"
+"\n"
+"**バリエーション：** このゲームは、ジャンプの幅を1、2、または10にしたり、1、2、5、または10に変えたりしてバリエーションをつけることができます。また、時々目標の数字を50以外にしてみるのもおすすめです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "島渡り – スキップカウント"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "スキップカウント"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "島（丸）は橋（線）でつながれており、そのつながりはスキップカウントで表されています。いくつかの島には数字が書かれていて、他の島は空欄のままです。パズルの上には、開始の数字、終了の数字、そしてスキップの間隔が示されています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**挑戦：** 欠けている数字を埋めて、道を見つけてください。\n"
+"\n"
+"数字と空欄を床に置いて、踏み台パズルを作ることもできます。\n"
+"\n"
+"スキップカウントの活動と同様に、スキップの数の倍数だけでなく、さまざまな数字から始めて、前に進んだり後ろに戻ったりする練習ができるパズルを作りましょう。\n"
+"\n"
+"**作り方：** まず島を作り、その島にスキップカウントの数字を順番に入れます。次に、それらの島を正しい順番でつなげていきます。その後、パズルとして成り立つように、いくつか追加のつながりを加えましょう。お子さんに渡すバージョンでは、いくつかの数字を取り除いてください。ただし、残された数字から正しい順番が推測できるように、十分な数は残しておきましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "ペアを作ろう"
 
 #. type=data_list
 msgctxt "data_list"
