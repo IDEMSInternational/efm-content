@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-13 00:05\n"
+"PO-Revision-Date: 2025-11-13 01:05\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19163,6 +19163,504 @@ msgstr ""
 msgctxt "data_list"
 msgid "PAIRING DOWN"
 msgstr "ペアを作ろう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**準備：** 1から、たとえば20までの数直線から始めましょう。\n"
+"\n"
+"**遊び方：** 自分の番になったら、まだ消されていない数字2つと答えを1つ選び、それらを使った足し算または引き算の式を書きます。式に使った2つの数字は消し、答えの数字は丸で囲みます。次のプレイヤーは、その答えの数字を2つのうちの1つとして使わなければなりません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**勝ち方：** 対戦形式で遊ぶ場合、最後まで正しい手を打てたプレイヤーが勝者です。また、協力して遊ぶこともでき、その場合は、いくつの数字を残さず使えるかに挑戦します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "直してみよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "このゲームは、数字がすべて埋められた4×4のマス目と、ひとつの合計目標値から始まります。別のバージョンでは、各行と各列に個別の合計目標値を設定します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**挑戦：** 各行と各列の残った数字の合計が目標値になるように、取り除く数字を見つけましょう。\n"
+"\n"
+"**作り方：** 目標の合計になるように、合計が目標値になる数字のペアやトリオを入れてパズルを作ります。残りのマスにはだましの数字を入れましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "展開形式を折りたたむ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "これは、2けたの数字が「十の位」と「一の位」からどのようにできているかを実際に見て理解する方法です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "紙を用意して、ちょうど4枚の数字カードが横に並ぶ大きさにします。紙に「スペース」「0」「＋」「スペース」と記入してください。「＋」の両側に縦の折り目を入れます。数字カードを2つのスペースにクリップで留めます。例えば「2」と「3」を使うと、折りたたむと「23」に見えますが、広げると「20 + 3」になります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "ぼくの考えている数字"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"1人のプレイヤーが0から99までの数字を1つ思い浮かべます。もう1人のプレイヤーは、その数字の「十の位」と「一の位」について質問をして、その数字を当てます。\n"
+"\n"
+"例えば数字が23だとします。プレイヤーは「十の位は一の位以上ですか？」と聞くことができますが、23の場合は違います。次に「2つの位の合計は8未満ですか？」と聞くと、23ではそうです。さらに「十の位の2倍は一の位より大きいですか？」と聞くと、これもそうです。この時点で数字は23か34のどちらかに絞られます。最後に「位の合計は6未満ですか？」と聞けば、答えは23であると分かります。\n"
+"\n"
+"プレイヤー同士で決めたどんな種類の質問でも構いませんが、できれば「一の位」と「十の位」に関する質問が望ましいです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "一の位と十の位で島渡り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "数の展開形式と位の値"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "長方形の数字のマス目があり、いくつかの数字がすでに埋まっています。残りのマスを埋めてください。ただし、隣り合うマスの数字は一つの桁だけが異なり、その桁の数字の差が1でなければなりません（0と9の間の差も含みます）。同じ数字を複数使ってはいけません。初心者には100の表を使うと助けになるでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**作り方：** 空のマス目に数字を重複なく入れます。次に、いくつかの数字を取り除きます。例では、赤い数字が取り除かれたものです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "算数マルバツゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**準備：** マルバツゲームの盤を使い、1から9までの数字が書かれたコマを用意します。奇数のコマは一方のプレイヤーが、偶数のコマはもう一方のプレイヤーが使用します。\n"
+"\n"
+"**遊び方：** プレイヤーは交互にコマを置いていきます。奇数のプレイヤーが先攻です。縦・横・斜めのいずれかで、合計が15になるように3つのコマを並べた最初のプレイヤーが勝ちです。別のバリエーションとしては、すべてのマスが埋まるまで続け、合計が15になる並びをより多く作ったプレイヤーが勝ちとする方法もあります。\n"
+"\n"
+"関連する遊び方として、「攻撃側」と「防御側」に分かれて対戦する方法があります。攻撃側が先にコマを置きます（ただし、最初の手で中央の5を使うことはできません）。攻撃側は合計15になる並びを作ることを目指し、防御側はそれを阻止します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "記憶力ゲームに再挑戦"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "足し算で遊ぼう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**準備：** カードを裏向きにして並べます。4 × 4のマス目（4行4列）がちょうどよいサイズです。\n"
+"\n"
+"**遊び方：** プレイヤーは交互にカードを2枚めくります。カードが「一致」していれば、そのプレイヤーがカードを獲得し、空いた場所に新しいカードを2枚補充して、もう一度続けてプレイできます。カードが一致しなければ、元に戻してターン終了となります。\n"
+"\n"
+"**勝ち方：** ゲームの最後に、一番多くのカードを持っているプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"カードの「一致」のアイデア例はこちらです：\n"
+"\n"
+"* 標の合計を決めます。2枚のカードの合計がその目標と同じなら、それらは「一致」とみなします。\n"
+"* 目標の差を決めます。2枚のカードの差がその目標と同じなら、それらは「一致」とみなします。\n"
+"* 計算問題（足し算や引き算）が書かれたカードと、その答えが書かれたカードを使います。問題のカードと答えのカードが一致すれば、ペアとみなします。\n"
+"* 0から99までの数字の中から20個を選びます。それらの数字を紙に書きます。さらに、それぞれの数字を展開形式（分解した形）でも紙に書きます。例えば、53なら「50 + 3」、30なら「30 + 0」、7なら「0 + 7」のように書きます。これら2つの20枚のカードを混ぜ合わせてシャッフルします。通常の数字のカードとその展開形式のカードがペアになったとき、それらは「一致」とみなします。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "いちばん近い数を見つけよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**準備：** 紙に、5、10、25、50の数字を縦に書きます。5の左右には空白を1つずつ、他の数字の左右には空白を2つずつあけておきます。一人のプレイヤーは左側の空白を埋め、もう一人のプレイヤーは右側の空白を埋めます。また、それぞれのプレイヤーは「無視する数」を1つだけ指定できる空白（特別な空白）を1回だけ使うことができます。\n"
+"\n"
+"**遊び方：** 0から9までの数字カードの山を使って遊びます。山からカードを1枚引き、使った後は山に戻します。引かれた数字は、両方のプレイヤーが、まだ空いている自分のマスのどこかに使わなければなりません。すべての空白が埋まったら、各プレイヤーの値と、それぞれの目標の数（ターゲット）を比べます。どちらのプレイヤーが目標により近いかを判定し、近い方に1ポイントが与えられます。もし2人の差が同じなら、両方に1ポイントずつ入ります。\n"
+"\n"
+"**勝ち方：** ポイントがいちばん多いプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "このゲームは、異なるターゲットを使うことでバリエーションをつけることができます。また、各プレイヤーの「誤差（目標の数との差）」をすべて合計してスコアとし、合計が少ない方が勝ちというルールにしてもよいでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "バトル：2けたの数のくらべっこ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**準備：** 絵札（J・Q・K）と10を取り除いたトランプの山をよくシャッフルし、2人のプレイヤーに均等に分けます。\n"
+"\n"
+"**遊び方：** それぞれのプレイヤーはカードを2枚めくり、横に並べて2けたの数を作ります。大きい数を作ったプレイヤーが、4枚すべてのカードを取ります。もし同じ数になった場合は、それぞれがさらに2枚ずつめくり、勝った方が8枚すべてのカードを取ります。\n"
+"\n"
+"**勝ち方：** カードを何度かめくった後、一番多くのカードを持っているプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "算数ブラックジャック"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**準備：** 一般的に目標の数字は21ですが、小さなお子さんには12などもっと小さい数字を使いましょう。お子さんに合わせてカードの内容を調整してください。例えば、小さな子ども向けには、4つのスート（マーク）の1から4のカードを使うとよいでしょう。\n"
+"\n"
+"**遊び方：** それぞれのプレイヤーに2枚ずつカードが配られます。1枚は表向きで、もう1枚は裏向きです（裏向きのカードを見ることができるのは、そのカードを受け取ったプレイヤーだけです）。プレイヤーは、自分のターン中に「もう1枚カードをもらう」か「やめる」かを選べます。全員がターンを終えたら、持っているカードの合計を比べます。\n"
+"\n"
+"**勝ち方：** 合計が目標の数字に最も近く、なおかつ超えていないプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "空欄をうめよう – 比較"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing Double-Digit Numbers"
+msgstr "2けたの数の比べ方"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9.\n"
+"\n"
+"**How to play:** Deal two cards to each player face down. Then, each player turns over one card and decides whether that card will be the tens or ones card. After deciding, each player’s remaining card is turned over and is used to fill the remaining place.\n"
+"\n"
+"**How to win:** The player with the larger number wins."
+msgstr ""
+"**準備：** 1から9までの数字が書かれたカードの山札をシャッフルします。\n"
+"\n"
+"**遊び方：** それぞれのプレイヤーにカードを2枚ずつ裏向きで配ります。次に、各プレイヤーは1枚のカードをめくり、そのカードを十の位にするか一の位にするかを決めます。決めたら、残りのカードもめくり、残った位に置きます。\n"
+"\n"
+"**勝ち方：** 大きい数を作ったプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "OとXを狙おう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"**How to play:** Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. \n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**準備：** 絵札を取り除いたトランプの山を使います。OXゲーム（三目並べ）の盤に、1から20までのランダムな数字を入れていきます。もし、かけ算も含めたい場合は、もっと大きい数の範囲を使ってもかまいません。\n"
+"\n"
+"**遊び方：** 各プレイヤーにカードを6枚ずつ配り、同時にすべてのカードを表向きにします。最初のプレイでは、2人のプレイヤーによる早押し勝負です。自分のカード2枚以上を使って、ボード上のいずれかのマスの数字と一致させた最初のプレイヤーが、そのマスに「X」を置き、使ったカードを補充します。その後は交互にプレイします。自分のカードでマスの数字と一致する組み合わせを作ることができたら、そのマスに「X」または「O」を置き、使ったカードは新しく引いて補充します。もしどのマスにも一致する数字が作れない場合は、そのターンはお休みとなり、手持ちのカードから2枚を選んで新しいカードと入れ替えることができます。\n"
+"\n"
+"**勝ち方：** 先にタテ・ヨコ・ナナメのいずれかで3つ並べたプレイヤーの勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "ターミネーター2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Add & Sub"
+msgstr "足し算・ひき算ゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and a board with three rows of five squares numbered from 1 to 15.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn.\n"
+"\n"
+"**How to win:** The winner is the one with the most claimed numbers after a fixed number of turns."
+msgstr ""
+"**準備：** サイコロを3つ使い、1から15までの数字がふられた3ぎょう5れつのマス目のボードを使います。\n"
+"\n"
+"**遊び方：** プレイヤーはサイコロを3つふり、足し算と引き算を使って、ボードの数字のどれかとあわせます。あわせた数字はけされて、そのプレイヤーのものになります。もしあわせることができなければ、もうひとりのプレイヤーがその数字を使ってあわせるチャンスがあり、そのさいはそのプレイヤーのものになります。いずれの場合も、つぎのターンはもうひとりのプレイヤーになります。\n"
+"\n"
+"**勝ち方：** 決まった数のターンのあと、一番たくさんの数字を取ったプレイヤーが勝ちです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr "小さいバージョンでは、1から10までの数字があるサイコロを2つ使い、大きいバージョンでは4つのサイコロと1から20までの数字を使います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC TRIANGLES"
+msgstr "魔法の三角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Place the numbers 1 to 6 in a triangle of six circles with three circles on a side, so each side has the same sum."
+msgstr "**挑戦：** 1から6までの数字を、1辺に3つの円が並ぶ三角形（全部で6つの円）に入れて、どの辺の合計も同じになるようにしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are really two challenges – find which sums work and how to get those sums. Let your child play with this to figure out which sums work, but if frustration wins out, the sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys this puzzle, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23."
+msgstr ""
+"このパズルには、実は2つのチャレンジがあります。どの合計が可能なのかを見つけること、そしてその合計をどうやって作るかを考えることです。まずは、お子さんが自由に遊びながら、どの合計がうまくいくかを自分で見つけてみましょう。でも、もしうまくいかなくてイライラしてきたら、可能な合計は 9、10、11、12 です。\n"
+"\n"
+"このパズルをお子さんが楽しんでいるようなら、もっと大きな三角形でも遊べます。たとえば、1辺に4つの円がある三角形（全部で9つの円）の場合、可能な合計は 17、19、20、21、23 です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC DESIGNS"
+msgstr "魔法のデザイン"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Shape Puzzles"
+msgstr "一人用の図形パズル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"From left to right, the diagrams above are for puzzles (2), (4), (8), and (9). The answers are in the Stage 4 Bonus Material file.\n"
+"\n"
+"1. The numbers 1 to 4 – a '+' shape with no circles in common.\n"
+"\n"
+"2. The numbers 1 to 5 – a '+' shape with one circle in common in the middle.\n"
+"\n"
+"3. The numbers 1 to 7 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"4. The numbers 1 to 9 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"5. The numbers 1 to 5 – an 'L' shape with one common circle in the corner.\n"
+"\n"
+"6. The numbers 1 to 8 – a '+' sign with no circles in common.\n"
+"\n"
+"7. The numbers 1 to 9 – a '+' sign with one circle in common in the middle.\n"
+"\n"
+"8. The numbers 1 to 12 – a 'star' shape, with 6 directions of lines of 4 circles.\n"
+"\n"
+"9. The numbers 1 to 7 – an 'H' shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. The five possible lines of 3 are connected. Hint: The sum is 12."
+msgstr ""
+"**挑戦：** すべての一直線上に並んだ円の合計が同じになるように、数字を円の中に入れましょう。\n"
+"\n"
+"左から順に、上の図はパズル(2)、(4)、(8)、(9)に対応しています。答えは「ステージ4 ボーナスマテリアル」ファイルにあります。\n"
+"\n"
+"1. 1から4の数字を使って、円が重ならない「＋」の形を作ります。\n"
+"\n"
+"2. 1から5の数字を使って、中央に1つだけ円が共通する「＋」の形を作ります。\n"
+"\n"
+"3. 1から7の数字を使って、3つの円が並ぶ線がある「ほし」の形を作ります。中央の円が共通しています。\n"
+"\n"
+"4. 1から9の数字を使って、3つの円が並ぶ線がある「ほし」の形を作ります。中央の円が共通しています。\n"
+"\n"
+"5. 1から5の数字を使って、角に1つ共通の円がある「L」字型を作ります。\n"
+"\n"
+"6. 1から8の数字を使って、円が重ならない「＋」の形を作ります。\n"
+"\n"
+"7. 1から9の数字を使って、中央に1つ共通の円がある「＋」の形を作ります。\n"
+"\n"
+"8. 1から12の数字を使って、6方向に4つの円が並ぶ線がある「ほし」の形を作ります。\n"
+"\n"
+"9. 1から7の数字を使って、「H」字型を作ります。左に縦に3つ、中央に1つ、右に縦に3つ並びます。3つずつ並ぶ5つの線がつながっています。ヒント：合計は12です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING 10’S"
+msgstr "10を見つけよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Turn long addition problems into simpler problems by grouping numbers that add up to 10. Instead of adding 3 + 8 + 9 + 4 + 7 + 6 + 2 from left to right, rearrange the terms to put the number bonds for 10 together. This example becomes (3 + 7) + (8 + 2) + (4 + 6) + 9, which is 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Once this is easy, include trickier problems such as 4 + 8 + 9 + 5 + 3, which can be rearranged as (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Make simplifying expressions a game with your child."
+msgstr ""
+"長い足し算の問題を、10になる数字の組み合わせを見つけてまとめることで、かんたんにしましょう。たとえば、3 + 8 + 9 + 4 + 7 + 6 + 2 を左から順にたすのではなく、10になる組み合わせをまとめて並べ替えます。この例では、(3 + 7) + (8 + 2) + (4 + 6) + 9 となり、10 + 10 + 10 + 9 = 39 となります。\n"
+"\n"
+"これが簡単にできるようになったら、4 + 8 + 9 + 5 + 3 のような少しむずかしい問題もやってみましょう。この例は、(8 + 9 + 3) + 4 + 5 = 20 + 9 = 29 と並べ替えられます。お子さんといっしょに、式をかんたんにするゲームを楽しんでください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER UP"
+msgstr "隠すゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This activity combines the approaches of 'What's Missing?' from Stage 2 and 'Shape Sums' of Stage 3. Take a collection of small objects, count them, and spread them out on a surface. Use pieces of paper, cloth, or bowls to cover over one or more groups of the objects. Use the same color paper when covering groups of the same size.\n"
+"\n"
+"**The challenge:** Find out how many objects are in each covered group.\n"
+"\n"
+"**Four Steps:**\n"
+"\n"
+"* Count the number you can see and compare to the total.\n"
+"* Find one way to solve it.\n"
+"* Find other ways to solve it.\n"
+"* Verify your answer(s)."
+msgstr ""
+"**準備：** このアクティビティは、ステージ2の「なにがない？」とステージ3の「かたちのごうけい」を組み合わせたものです。小さなものを集めて数え、それらを広げます。紙や布、ボウルなどを使って、いくつかのグループを覆います。同じ大きさのグループを覆うときは、同じ色の紙を使いましょう。\n"
+"\n"
+"**挑戦：** 覆われたグループにそれぞれ何個あるかを見つけましょう。\n"
+"\n"
+"**4つのステップ**\n"
+"\n"
+"* 見える数をかぞえて、全体とくらべましょう。\n"
+"* 一つの解決方法を見つけましょう。\n"
+"* 他の解決方法を見つけましょう。\n"
+"* 答えを確認しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** As pictured above, suppose you have 18 items and you cover 14 of them with two red pieces of paper. Your child sees the number 18 and that there are 4 uncovered items. They can subtract 18 - 4 and know that 14 pieces are covered. Because the same color is used, the covered items must be equal, so each must be 7, which is half of 14.\n"
+"\n"
+"Here is where the best, and most important, 'step' starts. What other ways are there of discovering that each covered group has 7 items? Your child could count by 2's and see that there are seven 2's as they skip count from 4 to 18. They could break 18 into halves of 9 each and break the 4 into halves of 2 each – then each group of 9 consists of a covered group plus 2 more, so the covered groups are 7 each.\n"
+"\n"
+"Keep exploring and thinking of ways to use all the interesting math relationships!"
+msgstr ""
+"**例：** 上の図のように、18個のものがあって、そのうち14個を赤い紙2枚で覆います。お子さんは18という数と、あいているものが4個あることを見ます。そこで、18 − 4 を計算して、おおわれているものは14個だとわかります。同じ色の紙を使っているので、覆われているものは同じ数で、それぞれ7個（14の半分）だと考えられます。\n"
+"\n"
+"ここからが一番大切な「ステップ」の始まりです。それぞれのおおわれたグループに7個ずつあることを見つける、ほかの方法は何でしょうか？お子さんは2ずつ数えて、4から18までのかけ飛ばし数えで7つの2があることに気づくかもしれません。または、18を9ずつの半分に分け、4を2ずつの半分に分けることもできます。すると、9のグループはおおわれたグループと2つのあいているものからなっているので、おおわれたグループはそれぞれ7個だとわかります。\n"
+"\n"
+"いろいろな面白い数学の関係を使って、どんどん探求し、考え続けましょう！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2.\n"
+"Although not as obvious, the same is true for multiplication."
+msgstr "お子さんは足し算にとても慣れているので、「2 + 3」と「3 + 2」が同じ答えになるのは、もう当たり前のことですね。かけ算でも同じことが言えるのですが、足し算ほどはわかりやすくないかもしれません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 x 4, they also know 4 x 3."
+msgstr ""
+"この図は、「2行に3つずつある」のと「3行に2つずつある」のが同じであることを示しています。見方を変えているだけなんです！\n"
+"\n"
+"どちらの順番でかけ算しても、答えは同じになります！\n"
+"\n"
+"この素敵な発見のおかげで、お子さんが覚えるかけ算の数は約半分で済みます。たとえば、3 × 4を覚えれば、4 × 3も同時にわかるからです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING IS MULTIPLICATION"
+msgstr "スキップカウントはかけ算の基礎"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"All that skip counting practice your child did paid off in getting much better at addition and subtraction. It also will be a big help in getting started with multiplication. Skip counting by 5's makes them particularly quick to learn.\n"
+"\n"
+"Although skip counting is not the fastest way to find a result, it is reliable. To find 7 x 3 either skip count by 3’s seven times or skip count by 7’s three times.\n"
+"\n"
+"Your child will eventually memorize these facts, but skip counting is handy for now."
+msgstr ""
+"お子さんがたくさん練習してきたスキップカウントのおかげで、足し算や引き算がずっと上達しました。これからかけ算を始めるときにも、とても役立ちます。特に5ずつのスキップカウントは、かけ算を覚えるのを早くしてくれます。\n"
+"\n"
+"スキップカウントは結果を出す最速の方法ではありませんが、確実です。7 × 3を求めるには、3を7回スキップカウントするか、7を3回スキップカウントすればよいのです。\n"
+"\n"
+"お子さんはいずれこれらのかけ算の答えを暗記しますが、今はスキップカウントが便利な方法です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 3 AND 4"
+msgstr "3と4のかけ算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Mental Math"
+msgstr "もっと暗算しようーかけ算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For someone good at adding, multiplying by 3 and 4 can be quick and easy.\n"
+"\n"
+"Multiplying a number by 3 is adding the number to double the number. So, 3 x 6 is 6 more than double 6, which is 6 + 12 = 18.\n"
+"\n"
+"Four times a number is doubling a number twice. So, 4 x 7 is 2 x (2 x 7), which is 14 + 14 = 28."
+msgstr ""
+"足し算が得意な人にとって、3とかけることや4とかけることは速くて簡単です。ある数を3倍するというのは、その数を2倍したものにもう一度足すことです。たとえば、3 × 6は、6の2倍に6を足すことなので、6 + 12 = 18となります。\n"
+"\n"
+"ある数を4倍するというのは、その数を2回2倍することです。たとえば、4 × 7 は 2 ×（2 × 7）で、14 + 14＝28となります。"
 
 #. type=data_list
 msgctxt "data_list"
