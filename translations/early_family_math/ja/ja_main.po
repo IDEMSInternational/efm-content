@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-13 01:05\n"
+"PO-Revision-Date: 2025-11-13 02:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19661,6 +19661,208 @@ msgstr ""
 "足し算が得意な人にとって、3とかけることや4とかけることは速くて簡単です。ある数を3倍するというのは、その数を2倍したものにもう一度足すことです。たとえば、3 × 6は、6の2倍に6を足すことなので、6 + 12 = 18となります。\n"
 "\n"
 "ある数を4倍するというのは、その数を2回2倍することです。たとえば、4 × 7 は 2 ×（2 × 7）で、14 + 14＝28となります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "和の四角形"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**準備：** 3 × 3の正方形のマス目を用意し、各行と各列に目標の合計値が与えられています。1から9までの数字のうち、いくつかはすでにマス目に配置されています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**挑戦：** 残りの数字をマス目に配置して、各行と各列の合計が目標の値になるようにしてください。\n"
+"\n"
+"**作り方：** このパズルを作るには、まず1から9までの数字が書かれた紙片を3 × 3のマス目に置きます。\n"
+"\n"
+"各行と各列の合計を右または下に書きます。次に、マス目からいくつかの数字を取り除きます。最後に、取り除いた数字の書かれた紙片をお子さんに渡して、「これらはどこにありましたか？」と尋ねてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "合計を小さく抑えるバリエーションの一つは、代わりに0から8までの数字を使うことです。より難しいバリエーションは、1から12までの数字を使い、3 × 4のマス目で同じことをする方法です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "足し算ピラミッド"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**準備：** 4段に配置された10個の数字のピラミッドがあり、目標の数字が与えられています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**挑戦：** ピラミッドの各段から1つずつ数字を選び、選んだ数字の合計が目標の数字になるように道を見つけてください。道に沿って選んだ数字は互いに隣接していなければなりません。\n"
+"\n"
+"**例：** このパズルの答えは、5 → 4 → 1 → 7 です。\n"
+"\n"
+"**作り方：** このようなパズルを作るには、まず道を作りたい数字をピラミッドに書き込み、その数字の合計を記録します。次に、残りのだましの数字をピラミッドに埋めてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "和と差"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**遊び方：** 一人が二つの数字を言います。ひとつは和で、もうひとつは差です。もう一人は、その和と差を持つ元の二つの数字を見つける挑戦をします。例えば、ある人が「和は12で差は6」と言ったら、もう一人は「元の数字は3と9です」と答えます。\n"
+"\n"
+"**役割を交代する：** この問題は簡単に作れるので、お子さんに出題者になってもらうのにぴったりの活動です。ただし、和と差の組み合わせによっては、適切な答えが出ない場合もあります。しかし、最初に二つの数字を決めてからその和と差を伝えれば、必ず答えが存在することが保証されます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "ポイズンナンバーズ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**準備：** トランプの絵札を取り除きます（使いたい場合クイーンを「0」として使ってもかまいません）。始める前に、そのラウンドでの「ポイズンナンバー（毒の数）」を決めましょう。ポイズンナンバーは、お子さんに練習させたい、またはもっと慣れさせたい任意の数字のセットにすることができます。\n"
+"\n"
+"例としては：\n"
+"\n"
+"* 偶数 (2、 4、 6、 8、10、12)\n"
+"* 奇数 (1、 3、 5、 7、 9、 11)\n"
+"* 1から9までの平方数 (1、 4、 9、 16、 25)\n"
+"* 素数 (2、 3、 5、 7、 11、 13、17、19)\n"
+"* ある数の倍数（例：3の倍数）\n"
+"\n"
+"**遊び方：** 各プレイヤーにカードを3枚ずつ配ります。最初のプレイヤーは、「ポイズンナンバー（毒の数）」ではない数字を1枚捨て、山札から1枚引いて補充します。次のプレイヤーは、最初の2枚の合計がポイズンナンバーにならないように、1枚捨てて山札から補充します。その次のプレイヤーは、3枚の合計がポイズンナンバーにならないようにプレイし、同じように続けていきます。\n"
+"\n"
+"**勝ち方：** ルールに沿ってカードを捨てられなくなった最初のプレイヤーが負けとなり、ゲームから脱落します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "このゲームは、2人以上でも同じように楽しめます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "お子さんにこれらの探究を自由に遊んだり考えたりさせてあげてください。急がないでください。大切なのは遊びながら美しいパターンを発見することです。これらの活動にはより深い数学の考え方も含まれていますが、その理解はお子さんがもう少し成長してからでかまいません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "花びら"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**問題：** ある不思議な庭には、2種類の花があります。1つは4枚の花びらを持ち、もう1つは7枚の花びらを持っています。お子さんに、合計の花びらの数が13枚になるように花をいくつか摘んでもらいました。これは可能でしょうか？では、15枚の場合はどうでしょう？どの花びらの数であれば可能ですか？可能な数については、複数の方法で摘むことができますか？たとえば、32枚の花びらは7枚の花が4つと4枚の花が1つ、または4枚の花が8つでもできます。\n"
+"\n"
+"**バリエーション：** 数字を変えることで、たくさんの例を使って遊ぶことができます。ある数字の組み合わせでは、ある時点を境にそれ以降のすべての花びらの数が作れるようになりますが、別の組み合わせではそうならないものもあります。例えば、4と7の場合は、18以上のすべての数の花びらが作れます。しかし、3と6の場合は、すべての数が作れるようになる時点はありません。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "階段の上り方 — 何通りある？"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**問題：** お子さんが時々は2段ずつ、時々は1段ずつ階段を上るのが好きだとします。いくつかの段数を上るとき、何通りの方法がありますか？\n"
+"\n"
+"例えば、0段の場合は「そのまま立っている」ので1通りです。1段の場合も1通りです。2段の場合は、2段一気に上るか、1段ずつ2回上るかのどちらかで、2通りあります。\n"
+"\n"
+"いろいろな例をよく考えてから、結果の表を作ってみましょう。情報が多いときは、表を作ると整理しやすくなります。表の始まりはこんな感じです："
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "これらの数字を見ているうちに、お子さんは隣り合う2つの数字を足すと次の数字になることに気づくかもしれません。なぜそうなるのでしょうか？これらの数字は「フィボナッチ数」と呼ばれています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "てんびん"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "数えてみよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"てんびんは、2つのものの重さが同じかどうかを確かめる道具です。てんびん秤には通常、物の重さを測るための重りのセットが付いています。使える重りを制限すると、面白い探究がいくつかできます。\n"
+"\n"
+"**問題 1：** もし4単位と7単位の重りだけを使うなら、正確に量ることができる重さは、先ほどの花びらの調査で見つけたものと同じになります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**問題 2：** 重りをてんびんの両側に置くことができる場合、どんな重さを正確に量ることができますか？\n"
+"\n"
+"**問題 3：** 4と7の重りの代わりに、3と8の重りを使ったら、この2つの質問の答えはどう変わるでしょうか？または、4と6や8と12の場合はどうでしょう？\n"
+"\n"
+"**問題 4：** 1、2、4、8、16 と倍々に増える重りをそれぞれ1つずつ持っている場合、どうなるでしょうか？重さが13のものを何通りの方法で量れますか？重りを天秤の両側に置いてもよい場合はどう変わりますか？量ることができる最大の重さはいくつでしょうか？この状況は二進法（バイナリー）と関係しています。\n"
+"\n"
+"**問題 5：** 1、3、9、27 の3倍ずつ増える重りをそれぞれ1つずつ使う場合、どうなるでしょうか？その重りを天秤の両側に置くことを許したら、どんな重さを量ることができますか？\n"
+"\n"
+"**問題 6：** 重りがフィボナッチ数の場合はどうなるでしょうか？ある重さを量る方法が複数あることはありますか？フィボナッチ数の重りに制限を加えて、どの重さもただ一通りの方法で量れるようにするにはどうしたらよいでしょうか？"
 
 #. type=data_list
 msgctxt "data_list"
