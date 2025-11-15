@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-15 17:33\n"
+"PO-Revision-Date: 2025-11-15 18:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -23658,4 +23658,468 @@ msgstr "EFMアプリがアップデートをダウンロードしました。イ
 msgctxt "template"
 msgid "Restart"
 msgstr "再起動"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "一致なし"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "ようこそ！"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "ストーリーブック"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "数学学習ステップ"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "プレイデート"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+"まず第一に、数学ゲームを遊ぶことは、家族で一緒に遊ぶ他のゲームと同じように 楽しい ものであるべきです。\n"
+"\n"
+"お子さんがうまくいかないプレイ（間違い）をしても、すぐに訂正せずに見守ってください。また、つい「こうした方がいい」と教えたくなる気持ちを抑えてください。少しずつ、お子さんはゲームが上手になり、自分で考えながら学ぶことで、より多くのことを身につけることができます。焦る必要はありません。\n"
+"\n"
+"もしお子さんが間違いをした場合は、なぜその行動を選んだのか説明してもらいましょう。お子さんが行動に迷っている場合は、それぞれの選択肢の メリット・デメリット を話し合ったり、過去に似た状況でどのように解決したかを聞いてみたりしてください。計算方法が思い出せない場合は、どのようにして答えを導き出せるか、お子さんの知っている方法を一緒に話し合いましょう。こうした会話は、お子さんが数学的に考える力を育てるうえでとても大切です。\n"
+"\n"
+"数学ゲームで遊び、こうした数学の会話を重ねることで、お子さんは 数学を楽しむ力 と 重要な問題解決能力 を身につけることができます。"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+"パズルは挑戦することを目的としており、時間をかけて取り組むものです。ですので、お子さんに解き方を教えてしまうと楽しさが損なわれてしまいます。これらのパズルは、簡単に作れて、家族で一緒に楽しみながら解けるように選ばれています。\n"
+"\n"
+"もしお子さんがパズルで行き詰まった場合、いくつかの対応方法があります。もちろん、パズルの答えを直接教えない程度の 小さなヒント を出すこともできます。また、より小さく簡単なバージョンのパズルを試してみるように提案することもできます。たとえ行き止まりに至ったとしても、お子さんのアイデアを 大胆に試すことを励ます ことが大切です。私たちは、失敗や行き止まりからも多くのことを学びます。\n"
+"\n"
+"お子さんに、パズルを最初の挑戦（あるいは二回目や三回目）で解けなくても まったく問題ない と伝えましょう。また、パズルを一日か二日置いておくことで、思いもよらない役立つアイデアが浮かぶこともあります。\n"
+"\n"
+"これらのパズルは 楽しむこと と 問題解決の力を育てること を目的としています。数学の最大の喜びのひとつは、多くの試行錯誤を経たあと、ついに答えを見つけたときの 「あっ！」というひらめきの瞬間 です。お子さんがその発見の喜びをできるだけ多く経験できるようにしましょう。"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"調べ学習は、お子さんが 遊びながら考える ことを目的としています。お子さんが興味深いパターンや美しい関係性を見つけられるよう、自由に探究させてあげてください。つい答えを教えたくなる気持ちはぐっと我慢しましょう。もしお子さんが行き詰まっているようであれば、後でまた挑戦して遊ぶように提案しても構いません。\n"
+"\n"
+"多くの調べ学習では、結果を整理することで理解が深まります。ここで親が手助けしてあげるのはとても良いことです。表や図、その他見やすくするための方法を一緒に作ってあげましょう。また、もちろん時々 やさしく方向を示す助言 をすることも大丈夫です。\n"
+"\n"
+"お子さんは、粘り強さを身につけたり、物事を深く観察する力 を養うことで、多くのことを学びます。"
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
+msgstr "お子さんをサポートする"
+
+#. type=template
+msgctxt "template"
+msgid "Before Talking"
+msgstr "発語の前段階"
+
+#. type=template
+msgctxt "template"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
+msgstr "お子さんが言葉を話したり理解できたりするようになる前から、形、色、比較や量など、目に見えるものを指差し、名前を付けて説明するなどして話しかけましょう。お子さんが言葉を理解し始めたら、たとえば「ボールはどこ？」というように、ある物について尋ね、お子さんに指差しさせてみましょう。もしお子さんが見つけられない場合は代わりに指差してあげてください。"
+
+#. type=template
+msgctxt "template"
+msgid "Early Talking"
+msgstr "発語初期"
+
+#. type=template
+msgctxt "template"
+msgid "As your child begins to understand and say words, mix in simple questions. Freely help with answers as needed. If you point and say \"Is this red?\" and they don't know, supply the answer. If you say \"Count the blocks.\" and your child does not know how, point and count the blocks with them \"one, two, three.\""
+msgstr "お子さんが言葉を理解し、話し始めたら、簡単な質問を混ぜてください。必要に応じて自由に答えを手助けしてあげてください。たとえばあなたが指差して「これは赤？」と聞いてもお子さんがわからない場合は、答えを教えてあげます。また、「ブロックを数えて」と指示してもお子さんがどのようにするのかわからなかったら、指差しながら「いち、に、さん…」と一緒に数えてあげてください。"
+
+#. type=template
+msgctxt "template"
+msgid "3 Levels of Discussion"
+msgstr "３つのレベル"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Pick an appropriate level for your child. Allow time for thought when asking questions or making comments. Help with the answer when your child stumbles, and follow up correct answers with questions or comments that are small expansions on the child's answer. \n"
+"\n"
+"**Level 1** Ask simple direct questions. Ask and point at what you see on the page. Where is the toy? What are they doing? What is its name? What color is it? How many balls are there? \n"
+"**Level 2** Ask general or open questions about this point in the story. What do you see happening here? What is this group of things? \n"
+"**Level 3** Ask about the story line. What has happened? What will happen next? Have you had experiences or seen things similar to this? How does she feel when this happens?"
+msgstr ""
+"お子さんに合ったレベルを選びましょう。質問やコメントをする時には考える時間を与えましょう。お子さんが答えに詰まった時は手助けをし、正しい答えには少し膨らませた質問やコメントをしてみましょう。\n"
+"\n"
+"**レベル1** 簡単で直接的な質問をします。見えるものについて尋ねたり指をさしたりしましょう。おもちゃはどこかな？何をしているのかな？その名前は何かな？色は何かな？いくつボールがあるかな？\n"
+"**レベル2** お話のある部分について一般的な質問または自由に答えられる質問をしてみましょう。ここで何が起こっていると思う？この物の仲間は何かな？\n"
+"**レベル3** お話の筋について質問をしてみましょう。何が起こったのかな？次はどうなるかな？これと似たようなことが前にあったかな？この時、この子はどう感じているかな？"
+
+#. type=template
+msgctxt "template"
+msgid "Read, Talk, and Have Fun!"
+msgstr "楽しく読んで話しましょう！"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The supplied questions and comments are just the beginning. \n"
+"\n"
+"1. For the first reading, read the red questions and comments. \n"
+"2. For the second reading, read the blue questions and comments. \n"
+"3. For the third reading, read the green questions and comments. \n"
+"\n"
+"After that, follow your child's interests and let your discussions go in fun directions."
+msgstr ""
+"書かれている質問やコメントはほんの一例に過ぎません。\n"
+"\n"
+"１回目は赤の質問とコメントを読みます。\n"
+"２回目は青の質問とコメントを読みます。\n"
+"３回目は緑の質問とコメントを読みます。\n"
+"\n"
+"その後はお子さんの興味に合わせて、楽しい方向に話を進めてください。"
+
+#. type=template
+msgctxt "template"
+msgid "Math Themes and Words"
+msgstr "算数のテーマと単語"
+
+#. type=template
+msgctxt "template"
+msgid "**Adult Readers**"
+msgstr "**保護者の方へ**"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "アクティビティリスト"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "ストーリーブック一覧"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**数学学習ステップ**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**ストーリーブック**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**アクティビティ**"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "はじめに"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "ゲーム"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "パズル"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "アクティビティ"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "調査"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "個別"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "トピック別"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**ステージ**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**ボーナス教材**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "ボーナス教材ーアクティビティ"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "同期中"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "同期中…"
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "コピー"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "コピー完了！"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "前回の同期: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "このデバイスは一度も同期されていません。"
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "今すぐ同期"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "ストーリー本文"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "1 回目の読み"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "2 回目の読み"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "3 回目の読み"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "プライバシーポリシー"
+
+#. type=template
+msgctxt "template"
+msgid "Template list"
+msgstr "テンプレート一覧"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "ツアー一覧"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "アプリをリセット"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "アクティビティ – ボーナス教材"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "ステージ"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "言語"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "各ステージの名前は、そのステージを始めるためにお子さんに必要な主なスキルを表しています。例えば、お子さんが10まで数えられ、その数字の意味を理解している場合は ステージ 3 から始めます。ステージの教材は 学習の進行順 に設計されており、後のセクションは前の内容に基づいて構成されています。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "各ステージの学習は 10の基本学習ステップ に分かれています。各ステップには、お子さんが何を学んでいるか、どのようにサポートできるか、そしてステップ同士のつながりが説明されています。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "各ステージには、家族で一緒に楽しめる ゲーム、パズル、アクティビティ、調べ学習 がそれぞれ約12セクションずつ含まれています。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "ステージ"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "各ステージの名前は、そのステージを始めるためにお子さんに必要な主なスキルを表しています。例えば、お子さんが10まで数えられ、その数字の意味を理解している場合は ステージ 3 から始めます。ステージの教材は 学習の進行順 に設計されており、後のセクションは前の内容に基づいて構成されています。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "行いたいアクティビティの種類を選んでください。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "ステージのアクティビティを個別に見るか、テーマ別に見るか選んでください。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "お子さんと一緒に読むことは素晴らしい体験です！これらのストーリーブックは、大人が子どもに読み聞かせるためのものです。読みながら数学に関するコメントや質問を加えることで、お子さんの 数学的な成長 を助け、楽しい読書体験と数学を結びつけることができます。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "読みたいストーリーの種類を選んでください。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "初級ストーリーブック"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "まだ言葉を話せない、理解できないお子さんに向けて、形や色、比較や数量など目に見えるものを指さしながら名前を教えたり説明したりします。言葉を理解し始めたら指さしで答えさせ、話せるようになったら簡単な質問を交えてみましょう。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "中級ストーリーブック"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "少し長めで、少し複雑なストーリーや考えさせる内容が含まれています。お子さんは、世界のさまざまな事柄について話したり考えたりできるようになっています。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "上級ストーリーブック"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "ストーリーはますます詳細で複雑になります。数学も大きな数字やより高度な概念を含み、物の描写もより詳しくなります。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "ボーナス教材"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "いくつかのアクティビティには、例やさらに詳しい説明を含むボーナス教材があります。これらは、対応するアクティビティページの最後やこちらのリンクから見ることができます。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "ようこそ！"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "一緒に数学を読み、遊びながら楽しみましょう！数学を学び、体験する最良の方法は、社会的で遊びのある方法 です。Early Family Math では、家族で楽しめる4種類の教材を作成しました。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "ストーリーブック"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "大人が子どもに読み聞かせるストーリーブックです。ページごとに数学に関するコメントや質問があり、楽しい読書体験と数学を結びつけます。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "アクティビティ"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "家族で一緒に遊べる順序立てられた数学ゲーム、パズル、アクティビティ、調べ学習です。楽しい時間を過ごしながら、お子さんは学校で必要な数学を学べます。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "数学学習ステップ"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "数学の学習を始めるステップはどのように構成されているか、ステップ同士はどのようにつながっているか知っていますか？ここでは、各ステージでお子さんが体験する10の数学学習ステップを簡単に紹介します。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "プレイデート"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "他の家族と集まって数学のプレイデートを楽しみましょう。おすすめのストーリーブック、ゲーム、パズルが提案されており、グループで楽しめます。"
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "ヘルプ"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "この導入を再度読みたい場合は、はてなマークをクリックしてください。"
 
