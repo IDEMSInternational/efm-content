@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-13 02:06\n"
+"PO-Revision-Date: 2025-11-15 17:33\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -23592,4 +23592,70 @@ msgstr "赤ちゃんゾウは、カラスともう一度友達になるべきだ
 msgctxt "data_list"
 msgid "Make up a story like this that explains how the giraffe got such a long neck."
 msgstr "このようなお話を作って、キリンの首がどのように長くなったか説明してみよう。"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "次へ"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "前へ"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "完了"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "初級"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "中級"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "上級"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**初級ストーリーブック**"
+
+#. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**中級ストーリーブック**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**上級ストーリーブック**"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "ボーナス教材を読む"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "EFMアプリがアップデートをダウンロードしました。インストールを完了するにはアプリを再起動してください。"
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "再起動"
 
