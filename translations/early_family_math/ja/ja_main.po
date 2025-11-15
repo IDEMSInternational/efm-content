@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-15 22:18\n"
+"PO-Revision-Date: 2025-11-15 23:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20877,6 +20877,11 @@ msgstr "長方形の面積"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Introduction"
+msgstr "はじめに"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "The area of a rectangle is its length times its width. That dry statement can be made tangible to your child in at least two ways."
 msgstr "長方形の面積は、その長さと幅をかけ算したものです。このシンプルな事実を、お子さんにわかりやすく実感させる方法が少なくとも2つあります。"
 
@@ -21086,6 +21091,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "PRACTICE PRIME FACTORIZATIONS"
 msgstr "素因数分解の発見"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Activity"
+msgstr "アクティビティ"
 
 #. type=data_list
 msgctxt "data_list"
@@ -21542,6 +21552,11 @@ msgstr "跳ねるビリヤードの玉"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Investigation"
+msgstr "調査"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Factors and Multiples"
 msgstr "因数と倍数"
 
@@ -21689,6 +21704,11 @@ msgstr "かけ算ビンゴ"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Game"
+msgstr "ゲーム"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
 "\n"
@@ -21706,6 +21726,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "CROSS PRODUCTS"
 msgstr "交差積"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle"
+msgstr "パズル"
 
 #. type=data_list
 msgctxt "data_list"
