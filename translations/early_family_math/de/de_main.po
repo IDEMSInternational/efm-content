@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-10-24 04:34\n"
+"PO-Revision-Date: 2025-11-19 23:17\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4205,7 +4205,7 @@ msgstr ""
 "\n"
 "0 … null Katzen.\n"
 "\n"
-"Keine Katzen sind hier!"
+"Keine Katzen sind hier."
 
 #. type=data_list
 msgctxt "data_list"
@@ -4215,7 +4215,7 @@ msgstr "Sprich es an: Die 0 ist eine besondere Zahl! Hier beginnt das Zählen, a
 #. type=data_list
 msgctxt "data_list"
 msgid "How many cats do you see?"
-msgstr "Erforscht nochmals die Frage “wie viele Katzen siehst du hier?”. Müssen wir hier also etwas abzählen, um zu wissen, wie viele es sind?"
+msgstr "Erforscht nochmals die Frage: \"Wie viele Katzen siehst du hier?”. Müssen wir hier also etwas abzählen, um zu wissen, wie viele es sind?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4305,7 +4305,7 @@ msgstr "Sprecht über die Unordnung und bildet Hypothesen, z.B. da ist wohl kein
 #. type=data_list
 msgctxt "data_list"
 msgid "Count together each group – the cats, cabinet doors, food containers, and spoons."
-msgstr "Zählt die Katzen während ihr jede antippt, und auch umgefallene Dinge, Türen, Kekse."
+msgstr "Zählt die Katzen, während ihr jede antippt, und auch umgefallene Dinge, Türen, Kekse."
 
 #. type=data_list
 msgctxt "data_list"
