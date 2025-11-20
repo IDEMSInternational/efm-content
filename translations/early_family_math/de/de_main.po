@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-11-20 01:24\n"
+"PO-Revision-Date: 2025-11-20 02:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1298,6 +1298,11 @@ msgstr "Stelle ein Klatsch-Duett auf. Eine Person fängt an mit einem Klatsch-Mu
 msgctxt "data_list"
 msgid "When you hear music, listen for the instruments that create the beat."
 msgstr "Wenn du Musik hörst, höre aufmerksam auf die Instrumente, die den Beat ausmachen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oh, no!"
+msgstr "\"Oh, nein!\""
 
 #. type=data_list
 msgctxt "data_list"
