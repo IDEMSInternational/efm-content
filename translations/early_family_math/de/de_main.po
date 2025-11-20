@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-11-20 03:24\n"
+"PO-Revision-Date: 2025-11-20 04:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4856,6 +4856,56 @@ msgstr "In dieser Geschichte übst du Größen bis sechs und vergleichen. Übung
 
 #. type=data_list
 msgctxt "data_list"
+msgid "The Day the Sun Went Away"
+msgstr "Der Tag an dem die Sonne fortging"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 7, comparing, and shapes. Practice words: numbers to 7, how many, same, less, more, one more, one less, too, too many, round, sphere, ball, cylinder, warm, warmer, cool, and cooler."
+msgstr "Diese Geschichte hat Zählen bis 7, vergleichen und Formen. Übungsworte: Zahlen bis 7, wie viele, gleich, weniger, mehr, eins mehr, eins weniger, auch, zu viele, rund, Kugel, Ball, Zylinder, warm, wärmer, kühl und kühler."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Visiting Grandmother"
+msgstr "Zu Besuch bei Großmutter"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 10 and shapes. Practice words: numbers up to 10, one more, two more, three more, counting by 2's, equal, rectangle, circle, concentric, straight, and curved."
+msgstr "Diese Geschichte beinhaltet Zählen bis 10 und Formen. Übungsworte sind: Zahlen bis 10, eins mehr, zwei mehr, drei mehr, Zählen mal zwei, gleich viel, rechteckig, Kreis, konzentrisch, gerade und gebogen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where Is Lulu?"
+msgstr "Wo ist Lulu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 10, comparing sizes, and geometry. Practice words: numbers to 10, one more, one less, less, more, small, big, too, too big, smallest, largest, triangle, rectangle, pentagon, cylinder, same, on, under, and on top of."
+msgstr "Diese Geschichte beinhaltet das Zählen bis 10, Größenvergleiche und Geometrie. Übungsworte: Zahlen bis 10, eins mehr, eins weniger, weniger, mehr, klein, groß, auch, zu groß, kleinstes, größtes, Dreieck, Rechteck, Fünfeck, Zylinder, gleich, an, unter und obenauf."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where Is My Bat?"
+msgstr "Wo ist mein Schläger?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
+msgstr "Diese Geschichte enthält Zählen bis 7, Beziehungsworte, und Formen. Übungsworte sind: wie viele, Nummern bis 7, eins mehr, eins weniger, dahinter, darin, auf, hoch, zu hoch, unter, Rechteck, Schachtel, und vertikale Linie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where Is My Cat?"
+msgstr "Wo ist meine Katze?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
+msgstr "In dieser Geschichte sind wir der kleinen Katze auf der Spur. Dabei wird bis 5 abgezählt und wichtige Vokabeln zu Farben, Muster und Raumlage werden geübt (z.B. unter, über, hinter, neben, in)."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "This is Cat.\n"
 "\n"
@@ -6151,6 +6201,161 @@ msgstr "Es gibt Leute, die Arzt werden, weil sie es mögen, Leuten zu helfen und
 msgctxt "data_list"
 msgid "Where is my cat?"
 msgstr "Wo ist meine Katze?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cat is very good at hiding. The dark black of this cat helps it hide."
+msgstr "Die kleine Katze kann sich gut verstecken. Ihr schwarzes Fell hilft, denn so kann sie leicht übersehen werden."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What kinds of places would make it easy to see this cat?"
+msgstr "Überlegt, an welchen Orten die Katze etwas besser oder sogar gut gesehen werden könnte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where do you like to hide?"
+msgstr "Sprecht darüber, wo ihr euch gern versteckt und warum. Nutzt verschiedene Positionsworte und gern auch entsprechende Gebärden."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it under the bed?"
+msgstr "Ist sie unter dem Bett?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat under the bed before the boy looked there?"
+msgstr "Überlegt, ob die Katze unter dem Bett war, bevor der Junge dort hinkam."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This bed cover has lots of colorful stripes. Count how many different colors it has."
+msgstr "Welche Farben seht ihr auf der bunten Bettdecke? Benennt und zählt die verschiedenen Farben."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The walls in this room have a free form design that doesn't repeat. Have you  seen walls like this before?"
+msgstr "Sprecht über die Formen an den Wänden, die kein festes Muster haben. Habt ihr ähnliches schon irgendwo gesehen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it on top of the cupboard?"
+msgstr "Ist sie auf dem Schrank?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Instead of being on top of the cupboard, the cat is inside it."
+msgstr "Schaut, sie ist nicht ganz oben, sondern ganz unten, nicht auf, sondern im Schrank."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This cupboard has a beautiful design. How many colors does it have?"
+msgstr "Welche Farben seht ihr auf dem Schrank, welche mögt ihr am liebsten? Zählt die verschiedenen Farben."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about the shapes and patterns on the cupboard doors."
+msgstr "Sprecht über die Formen und musterhaften Wiederholungen auf den Schranktüren."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it behind the couch?"
+msgstr "Ist sie hinter dem Sofa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is very easy to see right now. Too bad the boy is looking in the wrong place."
+msgstr "Hier ist die Katze gut zu sehen. Schaut der Junge in die richtige Richtung?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the strong colors on this page: red, orange, yellow, green, blue, and brown."
+msgstr "Sprecht wieder über die vielen Farben auf dem Bild. Zählt die Formen auf dem Sofa und die Fensterscheiben."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which colors of the rainbow are missing from the room?"
+msgstr "Überlegt, welche Farben des Regenbogens hier nicht zu sehen sind. Wie viele weitere Farben fallen euch ein?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it next to the trash can?"
+msgstr "Ist sie neben dem Mülleimer?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat must be very fast and quiet -- he was next to where the boy is now."
+msgstr "Schaut, die Katze ist ganz in der Nähe des Jungen. Sie ist wohl schnell und leise."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the red bricks just below the window."
+msgstr "Zählt die roten Steine am Fensterbrett und auf dem Boden. Wovon gibt es mehr?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many straight lines in this picture. Point to some curved lines."
+msgstr "Schaut die ganzen geraden Linien auf dem Bild an und macht einen geraden Finger. Nun zeigt auf kurvige Linien und macht einen kurvigen Finger. Ist etwas eckig?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it inside the basket?"
+msgstr "Ist sie im Korb?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which part of the cat is not inside the SOAP box?"
+msgstr "Schaut, welcher Teil der Katze passt nicht mehr in den Karton?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is inside the basket? Is that where the cat sleeps?"
+msgstr "Überlegt, was in dem Korb liegt und ob die Katze wohl gern im Korb ist."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice that the wall does not line up with the squares of the floor."
+msgstr "Sprecht über die Bodenfliesen, ihre Farbe und ihre Form. Wie verlaufen sie entlang der Wände?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is it outside the house?"
+msgstr "Ist sie Draußen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That poor boy is always looking in the wrong place."
+msgstr "Überlegt, wie es dem Jungen bei der ganzen Suche geht."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think the boy ever finds the cat, or will the boy give up?"
+msgstr "Glaubt ihr, der Junge wird die Katze bald finden oder eher aufgeben? Oder vielleicht hat er einen anderen Plan?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is the same wall pattern as on the last page, but the floor is a different color!"
+msgstr "Schaut die Wände an, sie haben das gleiche Muster wie auf der Seite zuvor. Aber, was ist anders am Boden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here it is!"
+msgstr "Hier ist sie!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It looks like the cat is in a cupboard or under a sink."
+msgstr "Die Katze ist wohl im Schrank unter der Spüle. Woran seht ihr das auf dem Bild?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Was the cat playing a game with the boy?"
+msgstr "Denkt ihr, die Katze hat ein bisschen Verstecken gespielt?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will the boy do with the cat now? Maybe he will feed it or play with it? What do you think?"
+msgstr "Überlegt, was der Junge jetzt wohl macht. Wird er die Katze kuscheln oder füttern oder mit ihr spielen?"
 
 #. type=data_list
 msgctxt "data_list"
