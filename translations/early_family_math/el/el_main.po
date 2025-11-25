@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-11-25 19:15\n"
+"PO-Revision-Date: 2025-11-25 20:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16638,6 +16638,151 @@ msgstr ""
 "**Επιλογές βαθμολόγησης:** Το σκορ του νικητή μπορεί να υπολογιστεί με δύο τρόπους. Ο παραδοσιακός τρόπος είναι να χρησιμοποιηθεί το άθροισμα των κουκίδων σε όλα τα πλακίδια των άλλων παικτών. Παίζονται γύροι μέχρι ένας παίκτης να φτάσει τους 50 ή τους 100 πόντους. Για τα μικρά παιδιά, ένα εναλλακτικό σύστημα βαθμολόγησης είναι να αναδειχθεί νικητής αυτός που έχει για σκορ τον αριθμό των πλακιδίων των άλλων παικτών.\n"
 "\n"
 "**Παραλλαγή:** Όταν το παιδί σας αρχίσει να προσθέτει, αλλάξτε τον κανόνα για το ταίριασμα – δύο πλακίδια ταιριάζουν αν οι αριθμοί τους αθροίζουν έξι (ή εννέα αν χρησιμοποιείτε μεγαλύτερο εύρος ντόμινο)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WITHIN ONE OR TWO"
+msgstr "ΕΝΤΌΣ ΕΝΌΣ Ή ΔΎΟ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down."
+msgstr "**Προετοιμασία:** Δημιουργήστε μια στοίβα με κάρτες αριθμών με ένα εύρος ποσοτήτων που το παιδί σας αισθάνεται άνετα. Μοιράστε τις κάρτες ισομερώς σε δύο παίκτες και τοποθετήστε τις κάρτες με την όψη προς τα κάτω."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n"
+"\n"
+"**How to win:** The person wins who has the larger stack of cards when you stop playing."
+msgstr ""
+"**Πώς παίζεται:** Οι παίκτες τοποθετούν εκ περιτροπής μία μόνο κάρτα στη στοίβα στη μέση μπροστά τους. Εάν η κάρτα δείχνει αριθμό κατά ένα μεγαλύτερο, τον ίδιο, ή κατά ένα μικρότερο από την προηγούμενη κάρτα, ο πρώτος παίκτης που θα πει «ένα περισσότερο», «ίδιο» ή «ένα λιγότερο» κερδίζει όλες τις κάρτες στη στοίβα.\n"
+"\n"
+"**Πώς κερδίζεις:** Κερδίζει το άτομο που έχει τη μεγαλύτερη στοίβα καρτών (τις περισσότερες κάρτες) όταν σταματήσει το παιχνίδι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Include the relationships of ‘two more’ and ‘two less’ as options.\n"
+"• Use a target sum, say 10. Be the first person to say the top two cards add up to the target."
+msgstr ""
+"* Συμπεριλάβετε τις σχέσεις του «δύο περισσότερο» και «δύο λιγότερο» ως επιλογές.\n"
+"* Χρησιμοποιήστε ένα στόχο αθροίσματος, π.χ. 10. Κερδίζει ο πρώτος που θα πει ότι οι δύο πάνω κάρτες της στοίβας αθροίζουν τον στόχο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH ONE AND TWO"
+msgstr "ΤΟ ΠΑΙΧΝΊΔΙ NIM ΜΕ ΈΝΑ ΚΑΙ ΔΎΟ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nearby Numbers"
+msgstr "Κοντινοι Αριθμοι"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 10. Let your child choose to go first or second. \n"
+"\n"
+"**How to play:** Start at 0. Players take turns adding 1 or 2 to the current total. Count aloud the progress for each turn.\n"
+"\n"
+"**How to win:** The player who lands on the target (e.g. 10) wins."
+msgstr ""
+"**Προετοιμασία:** Επιλέξτε έναν αριθμό-στόχο, π.χ. 10. Αφήστε το παιδί σας να επιλέξει αν θα ξεκινήσει πρώτο ή δεύτερο.\n"
+"\n"
+"**Πώς παίζεται:** Ξεκινήστε από το 0. Οι παίκτες προσθέτουν εκ περιτροπής 1 ή 2 στο τρέχον σύνολο. Μετρήστε δυνατά την πρόοδο για κάθε σειρά.\n"
+"\n"
+"**Πώς κερδίζεις:** Ο παίκτης που καταλήγει στον στόχο (π.χ. 10) κερδίζει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Once children learn to play this verbally, it is a great travel game.\n"
+"• Use a pile of objects. Players add one or two objects to the pile until the target quantity\n"
+"is reached.\n"
+"• Use a number line. Advance a marker along the line one or two spaces during a move.\n"
+"• Use subtraction. Players start at the target, say 10. On their turn, players choose whether\n"
+"to subtract 1 or 2. The first person to reach 0 wins.\n"
+"• Use larger target numbers as your child’s skills improve.\n"
+"• Instead of winning, the player forced to hit or go beyond the target number loses.\n"
+"• Allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"* Μόλις τα παιδιά μάθουν να το παίζουν προφορικά, είναι ένα υπέροχο παιχνίδι για ταξίδια.\n"
+"* Χρησιμοποιήστε μια στοίβα αντικειμένων. Οι παίκτες προσθέτουν ένα ή δύο στη στοίβα μέχρι να φτάσουν τον στόχο.\n"
+"* Χρησιμοποιήστε μια αριθμογραμμή. Προωθήστε έναν δείκτη κατά μία ή δύο θέσεις κατά τη διάρκεια μιας κίνησης.\n"
+"* Χρησιμοποιήστε αφαίρεση. Οι παίκτες ξεκινούν από τον στόχο, π.χ. 10. Στη σειρά τους, οι παίκτες επιλέγουν αν θα αφαιρέσουν 1 ή 2. Ο πρώτος που θα φτάσει το 0 κερδίζει.\n"
+"* Χρησιμοποιήστε μεγαλύτερους αριθμούς-στόχους καθώς βελτιώνονται οι δεξιότητες του παιδιού σας.\n"
+"* Αντί για νίκη, ο παίκτης που αναγκάζεται να χτυπήσει ή να ξεπεράσει τον αριθμό-στόχο χάνει.\n"
+"* Επιτρέψτε σε έναν παίκτη να προσθέσει (ή να αφαιρέσει) 1, 2 ή 3 για κάθε σειρά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – SINGLE-DIGIT COMPARING"
+msgstr "ΠΌΛΕΜΟΣ – ΣΎΓΚΡΙΣΗ ΜΟΝΟΨΉΦΙΩΝ ΑΡΙΘΜΏΝ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove the cards from two, four, or six Number Decks outside your child’s comfort range. Split the cards evenly in two piles face down."
+msgstr "**Προετοιμασία:** Αφαιρέστε από δύο, τέσσερα ή έξι πακέτα καρτών με αριθμούς αυτές τις κάρτες που βρίσκονται εκτός του εύρους άνεσης του παιδιού σας. Χωρίστε τις κάρτες ομοιόμορφα σε δύο στοίβες με την όψη προς τα κάτω."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Flip over the top cards and the player with the larger card keeps both cards. If the cards match, flip the next two cards and the winner gets all four cards."
+msgstr "**Πώς παίζεται:** Αναποδογυρίστε τις πάνω κάρτες και ο παίκτης με τη μεγαλύτερη κάρτα κρατά και τις δύο κάρτες. Εάν οι κάρτες είναι ίδιες, αναποδογυρίστε τις επόμενες δύο κάρτες και ο νικητής παίρνει και τις τέσσερις κάρτες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The player with the most cards after one or more runs through all the cards is the winner.\n"
+"\n"
+"**Variations:** To change things up, sometimes play that the smaller of the two cards wins."
+msgstr ""
+"**Πώς κερδίζεις:** Ο παίκτης με τις περισσότερες κάρτες μετά από έναν ή περισσότερους γύρους παιχνιδιού (όπου έχουν τελειώσει όλες οι κάρτες της στοίβας) είναι ο νικητής.\n"
+"\n"
+"**Παραλλαγές:** Για να αλλάξετε λίγο τη σκέψη, μερικές φορές παίξτε έτσι ώστε να κερδίζει η μικρότερη από τις δύο κάρτες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing"
+msgstr "Συγκρινοντας"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is an introductory version of a fun game we will revisit again soon.\n"
+"\n"
+"**How to play:** There are two people: the Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (for example). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number.\n"
+"\n"
+"**Use cards:** With younger children, play this game with counting cards from 0 to 8 placed face up. Hide a star under one of the cards. After each guess, the Questioner turns over all the eliminated cards until the star is discovered."
+msgstr ""
+"Αυτή είναι μια εισαγωγική έκδοση ενός διασκεδαστικού παιχνιδιού στο οποίο θα επανέλθουμε σύντομα.\n"
+"\n"
+"**Πώς παίζεται:** Υπάρχουν δύο άτομα: ο \"Προβληματιστής\" που σκέφτεται έναν αριθμό και ο \"Λύτης\" που ανακαλύπτει τον αριθμό. Ο Προβληματιστής δηλώνει, «Σκέφτομαι έναν αριθμό από το 0 έως το 8» (για παράδειγμα). Στη συνέχεια, ο Λύτης κάνει ερωτήσεις της μορφής «Ποια είναι η σχέση του αριθμού σου με το 3;» Ο Προβληματιστής απαντά ότι ο αριθμός είναι μικρότερος, ίσος, ή μεγαλύτερος από το 3.\n"
+"\n"
+"**Χρήση καρτών:** Με μικρότερα παιδιά, παίξτε αυτό το παιχνίδι με κάρτες μέτρησης από το 0 έως το 8 τοποθετημένες με την όψη προς τα πάνω. Κρύψτε ένα αστέρι κάτω από μία από τις κάρτες. Μετά από κάθε μαντεψιά, ο Λύτης αναποδογυρίζει όλες τις κάρτες που έχουν αποκλειστεί μέχρι να ανακαλυφθεί το αστέρι."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** The game pictured above uses cards with a target of 5.\n"
+"\n"
+"Puzzler: I’m thinking of a number from 0 to 8. \n"
+"Question: How does your number compare to 3? \n"
+"Puzzler: My number is larger than 3.\n"
+"Question: How does your number compare to 6? \n"
+"Puzzler: My number is smaller than 6.\n"
+"Question: How does your number compare to 5? \n"
+"Puzzler: Well done! My number is equal to 5."
+msgstr ""
+"**Παράδειγμα:** Ακολουθεί ένα παιχνίδι με στόχο το 5:\n"
+"\n"
+"Προβληματιστής: Σκέφτομαι έναν αριθμό από το 0 έως το 8.\n"
+"Ερώτηση: Ποια είναι η σχέση του αριθμού σου με το 3;\n"
+"Προβληματιστής: Ο αριθμός μου είναι μεγαλύτερος από το 3.\n"
+"Ερώτηση: Ποια είναι η σχέση του αριθμού σου με το 6;\n"
+"Προβληματιστής: Ο αριθμός μου είναι μικρότερος από το 6.\n"
+"Ερώτηση: Ποια είναι η σχέση του αριθμού σου με το 5;\n"
+"Προβληματιστής: Μπράβο! Ο αριθμός μου είναι ίσος με το 5."
 
 #. type=data_list
 msgctxt "data_list"
