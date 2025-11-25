@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-11-25 20:15\n"
+"PO-Revision-Date: 2025-11-25 23:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16783,6 +16783,99 @@ msgstr ""
 "Προβληματιστής: Ο αριθμός μου είναι μικρότερος από το 6.\n"
 "Ερώτηση: Ποια είναι η σχέση του αριθμού σου με το 5;\n"
 "Προβληματιστής: Μπράβο! Ο αριθμός μου είναι ίσος με το 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FITTING IN"
+msgstr "ΠΡΟΣΑΡΜΟΓΉ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five."
+msgstr "Δώστε στο παιδί σας έναν μικρό αριθμό, π.χ. επτά, μικρών αντικειμένων και μετρήστε τα μαζί. Επιλέξτε έναν αριθμό-στόχο, π.χ. πέντε."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other."
+msgstr "Ζητήστε από το παιδί σας να πάρει πέντε αντικείμενα από την αρχική ομάδα των επτά αντικειμένων, αν είναι δυνατόν. Αυτό βοηθά το παιδί σας να μάθει τις σχετικές ποσότητες των αριθμών και πόσο μεγαλύτεροι ή μικρότεροι είναι ο ένας από τον άλλο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable."
+msgstr "Στην αρχή, ο αριθμός-στόχος πρέπει να είναι μικρότερος ή ίσος με τον συνολικό αριθμό. Αργότερα, το να δίνετε αριθμούς που είναι πολύ μεγάλοι προσφέρει εξάσκηση στο σχετικό μέγεθος των ποσοτήτων, καθώς και εξάσκηση στο να ελέγχει ότι αυτό που ζητάτε είναι λογικό."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVISIBLE ADDING AND SUBTRACTING"
+msgstr "ΑΌΡΑΤΗ ΠΡΌΣΘΕΣΗ ΚΑΙ ΑΦΑΊΡΕΣΗ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**First:** Have your child count a small number of objects and put them in a box."
+msgstr "**Πρώτα:** Βάλτε το παιδί σας να μετρήσει έναν μικρό αριθμό αντικειμένων και να τα βάλει σε ένα κουτί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Next:** Ask them to put up the same number of fingers as there are objects in the box."
+msgstr "**Μετά:** Ζητήστε του να σηκώσει τον ίδιο αριθμό δαχτύλων με τα αντικείμενα που βρίσκονται στο κουτί."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’"
+msgstr "**Τέλος:** Δείξτε στο παιδί σας ότι προσθέτετε (ή αφαιρείτε) ένα ή δύο αντικείμενα στο κουτί και ρωτήστε «Πόσα αντικείμενα είναι στο κουτί τώρα;»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When this becomes too easy, you can add or remove more than two objects."
+msgstr "Όταν αυτό γίνει πολύ εύκολο, μπορείτε να προσθέσετε ή να αφαιρέσετε περισσότερα από δύο αντικείμενα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER LINE BATTLESHIP"
+msgstr "ΝΑΥΜΑΧΊΑ ΣΤΗΝ ΑΡΙΘΜΟΓΡΑΜΜΉ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships."
+msgstr "**Προετοιμασία:** Κάθε παίκτης έχει δύο αριθμογραμμές – μία για τα πολεμικά πλοία του και μία για τις μαντεψιές του. Αυτές οι αριθμογραμμές πηγαίνουν από το 0 έως το 12 (ή περισσότερο αν τα παιδιά μπορούν να μετρήσουν περισσότερο). Κρυφά, στην αριθμογραμμή των πολεμικών του, κάθε παίκτης τοποθετεί μάρκες σε δύο αριθμούς που θα είναι τα πολεμικά πλοία του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n"
+"\n"
+"**How to win:** The first person to get all the targets wins."
+msgstr ""
+"**Πώς παίζεται:** Μετά την προετοιμασία, οι παίκτες μαντεύουν εκ περιτροπής αριθμούς. Όταν ένας παίκτης κάνει μια μαντεψιά, ο άλλος παίκτης λέει πόσο κοντά ήταν η μαντεψιά στον πλησιέστερο στόχο - ο παίκτης που μαντεύει σημειώνει τότε αυτή την πληροφορία στη δεύτερη αριθμογραμμή του.\n"
+"\n"
+"**Πώς κερδίζεις:** Ο πρώτος που θα βρει όλους τους στόχους κερδίζει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Use a wider range of numbers.\n"
+"• The response to a guess can be a range of distances rather than an exact amount - for\n"
+"example: “the nearest ship is 1 or 2 away.”\n"
+"• Have ships that are two or three spaces in length."
+msgstr ""
+"* Χρησιμοποιήστε μεγαλύτερο εύρος αριθμών.\n"
+"* Η απάντηση σε μια μαντεψιά μπορεί να είναι ένα εύρος αποστάσεων αντί για μία ακριβή απόσταση - για παράδειγμα: «το πλησιέστερο πλοίο απέχει 1 ή 2».\n"
+"* Βάλτε πλοία που έχουν μήκος δύο ή τριών θέσεων."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WHAT’S MISSING"
+msgstr "ΤΙ ΛΕΊΠΕΙ;"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden."
+msgstr "Μετρήστε έναν μικρό αριθμό μικρών αντικειμένων. Κρύψτε μερικά ενώ το παιδί σας κοιτάζει αλλού. Όταν το παιδί σας ξανακοιτάξει, ρωτήστε πόσα είναι κρυμμένα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
+msgstr "Παράδειγμα:} Υποθέστε ότι έχετε 6 σταφίδες σε ένα τραπέζι. Βάλτε το παιδί σας να κοιτάξει αλλού και καλύψτε τις 2 με ένα μπολ. Όταν το παιδί σας ξανακοιτάξει, μετρήστε τις 4 ορατές σταφίδες και ρωτήστε πόσες σταφίδες είναι κάτω από το μπολ αν υπάρχουν 6 συνολικά."
 
 #. type=data_list
 msgctxt "data_list"
