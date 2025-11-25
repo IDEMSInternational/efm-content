@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-09-18 13:26\n"
+"PO-Revision-Date: 2025-11-25 02:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14978,6 +14978,31 @@ msgstr "Αυτό είναι ένα πολύ χαρούμενο τέλος! Εί�
 msgctxt "data_list"
 msgid "Some people become doctors because they like helping people to have happy endings like this."
 msgstr "Μερικοί άνθρωποι γίνονται γιατροί επειδή τους αρέσει να βοηθούν τους ανθρώπους να έχουν τέτοιο χαρούμενο τέλος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 — I Can Hear You!"
+msgstr "Στάδιο 1 – Σε Ακούω!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 — I Can Count to 5!"
+msgstr "Στάδιο 2 – Μπορώ να Μετρήσω μέχρι το 5!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 — I Can Count to 10!"
+msgstr "Στάδιο 3 – Μπορώ να Μετρήσω μέχρι το 10!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 — I Can Count to 20!"
+msgstr "Στάδιο 4 – Μπορώ να Μετρήσω μέχρι το 20!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 — I Can Count to 100!"
+msgstr "Στάδιο 5 – Μπορώ να Μετρήσω μέχρι το 100!"
 
 #. type=data_list
 msgctxt "data_list"
