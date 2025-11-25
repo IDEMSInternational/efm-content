@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-11-25 18:07\n"
+"PO-Revision-Date: 2025-11-25 19:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16400,6 +16400,244 @@ msgstr ""
 "Μετατρέψτε το σε φυσικό γρίφο τοποθετώντας κομμάτια χαρτιού με διαδοχικούς αριθμούς στο πάτωμα, δημιουργώντας μια στριφογυριστή διαδρομή. Το παιδί σας λύνει τον γρίφο περπατώντας από τον μικρότερο στον μεγαλύτερο αριθμό.\n"
 "\n"
 "Πρόσθετη πρόκληση: Αντικαταστήστε μερικά από τα αριθμημένα κομμάτια με κενά. Επίσης, ζητήστε από το παιδί να ξεκινήσει από τον μεγαλύτερο αριθμό και να κατεβαίνει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRING NUMBER LINE"
+msgstr "ΑΡΙΘΜΟΓΡΑΜΜΉ ΜΕ ΣΠΆΓΚΟ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to having a paper number line on a wall, create a number line using a piece of string. Tie or clip a section of string between two objects. Use paper clips to attach sliding Number Cards from 0 to 10 along the string in order."
+msgstr "Εκτός από μια αριθμογραμμή από χαρτί στον τοίχο, φτιάξτε μια αριθμογραμμή χρησιμοποιώντας ένα κομμάτι σπάγκου. Στερεώστε ένα τμήμα σπάγκου ανάμεσα σε δύο αντικείμενα. Χρησιμοποιήστε συνδετήρες ή μανταλάκια για να στερεώσετε και να μετακινείτε Κάρτες Αριθμών από το 0 έως το 10 με τη σωστή σειρά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In addition to exploring these ideas, you and your child will probably discover many more.\n"
+"\n"
+"• Switch two numbers and have your child find the mistake.\n"
+"• Leave out a number and have your child find which one is missing.\n"
+"• Practice adding. To do 4 + 2, slide over the first 4 numbers and then slide the next 2.\n"
+"• Practice subtracting. To do 6 - 2, slide 6 cards to the left, then slide 2 of those to the right."
+msgstr ""
+"Εκτός από αυτές τις ιδέες, εσείς και το παιδί σας μπορεί να ανακαλύψετε πολλές ακόμη.\n"
+"\n"
+"* Αλλάξτε δύο αριθμούς μεταξύ τους και ζητήστε από το παιδί να βρει το λάθος.\n"
+"* Αφαιρέστε έναν αριθμό και ζητήστε από το παιδί να εντοπίσει ποιος λείπει.\n"
+"* Εξασκηθείτε στην πρόσθεση. Για 4 + 2, γλιστρήστε πρώτα 4 κάρτες και έπειτα τις επόμενες 2.\n"
+"* Εξασκηθείτε στην αφαίρεση. Για 6 - 2, μετακινήστε 6 κάρτες προς τα αριστερά και μετά 2 από αυτές προς τα δεξιά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GO FISH!"
+msgstr "ΠΑΜΕ ΓΙΑ ΨΑΡΙΑ!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting up to 10"
+msgstr "Μετρηση μεχρι το 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Remove cards above the highest number your child is comfortable with. For more than two players, if you have restricted the number range you may need several decks."
+msgstr "**Προετοιμασία:** Αφαιρέστε τις κάρτες που είναι πάνω από τον μεγαλύτερο αριθμό με τον οποίο το παιδί σας αισθάνεται άνετα. Για περισσότερους από δύο παίκτες, αν έχετε περιορίσει το εύρος των αριθμών, ίσως χρειαστείτε περισσότερα πακέτα με κάρτες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Deal 5 cards to each player and put the other cards face down in a shared draw pile.\n"
+"\n"
+"During a turn, a player “fishes” by asking any player if they have a card matching one of their cards. For example: ‘Jonah, please give me a 4’. If they have it, they hand over the card. If they don’t, they say “Go Fish!” and the player must pick a card from the draw pile."
+msgstr ""
+"Πώς παίζεται:} Μοιράστε 5 κάρτες σε κάθε παίκτη και τοποθετήστε τις υπόλοιπες σε μια κοινή κλειστή στοίβα.\n"
+"\n"
+"Κατά τη διάρκεια της σειράς του, ο παίκτης «ψαρεύει» ρωτώντας οποιονδήποτε αν έχει κάρτα που ταιριάζει με μία από τις δικές του. Παράδειγμα: «Γιάννη, έχεις ένα 4;». Αν ναι, δίνει την κάρτα. Αν όχι, λέει «Πάμε για Ψάρια!» και ο παίκτης τραβά μία κάρτα από τη στοίβα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Making a book:** When a player has a pair of matching cards, those cards are placed in a “book” in front of them.\n"
+"\n"
+"**How to win:** The game is over after all the cards have been put into books. The player with the most books wins."
+msgstr ""
+"**Δημιουργία βιβλίου:** Όταν ένας παίκτης μαζέψει ένα ζευγάρι όμοιων καρτών, τις τοποθετεί μπροστά του, σχηματίζοντας ένα «βιβλίο».\n"
+"\n"
+"**Πώς κερδίζεις:** Το παιχνίδι τελειώνει όταν όλες οι κάρτες έχουν τοποθετηθεί σε βιβλία. Νικητής είναι ο παίκτης με τα περισσότερα βιβλία."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPES ON THE FLOOR"
+msgstr "ΣΧΉΜΑΤΑ ΣΤΟ ΠΆΤΩΜΑ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Cut large shapes from big pieces of paper (use color paper if you have it) and place the shapes on the floor. At first, use basic shapes such as triangles, rectangles, squares, pentagons, hexagons, and octagons. Find patterns for these online or in the EFM Printables file. To cause more running around, include more than one of each shape."
+msgstr "**Προετοιμασία:** Κόψτε μεγάλα σχήματα από μεγάλες κόλλες χαρτιού (χρησιμοποιήστε χρωματιστό χαρτί αν έχετε) και τοποθετήστε τα σχήματα στο πάτωμα. Ξεκινήστε με βασικά σχήματα όπως τρίγωνα, ορθογώνια, τετράγωνα, πεντάγωνα, εξάγωνα και οκτάγωνα. Βρείτε πατρόν γι’ αυτά στο διαδίκτυο ή στο αρχείο EFM Εκτυπώσιμα. Για να προκαλέσετε περισσότερο τρέξιμο κατά τη διάρκεια του παιχνιδιού, συμπεριλάβετε παραπάνω από ένα αντίγραφο κάθε σχήματος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Give your child some shape information and ask them to run to that shape, or shapes. For a very young child, show them a drawing and ask them to find and name that shape on the floor. For older children, name the shape and challenge them to find it.\n"
+"\n"
+"Add variety to this by asking for shapes all of whose sides are the same length, or all of whose angles are the same (or all different), or whose opposite sides (or angles) are the same size.\n"
+"\n"
+"**Extending the challenge:** With experience, include less basic shapes – add specific triangles (right, obtuse, acute), a kite, a parallelogram (diamond), a star, and some unusual shapes.\n"
+"\n"
+"As your child gets experienced, playfully mix in some impossible requests such as a triangle with two right angles or a quadrilateral with exactly three right angles."
+msgstr ""
+"**Η πρόκληση:** Δώστε στο παιδί σας κάποιες πληροφορίες για ένα σχήμα και ζητήστε του να τρέξει σε αυτό ή σε αυτά τα σχήματα. Για πολύ μικρό παιδί, δείξτε ένα σχέδιο και ζητήστε να βρει και να ονομάσει το σχήμα στο πάτωμα. Για μεγαλύτερα παιδιά, ονομάστε το σχήμα και προκαλέστε τα να το βρουν.\n"
+"\n"
+"Προσθέστε ποικιλία ζητώντας σχήματα των οποίων όλες οι πλευρές έχουν το ίδιο μήκος ή όλες οι γωνίες είναι ίδιες (ή όλες διαφορετικές) ή των οποίων οι απέναντι πλευρές (ή γωνίες) είναι ίδιου μεγέθους.\n"
+"\n"
+"**Επέκταση πρόκλησης: Με την εμπειρία, προσθέστε λιγότερο βασικά σχήματα – συγκεκριμένα τρίγωνα (ορθογώνιο, αμβλυγώνιο, οξυγώνιο), έναν χαρταετό, ένα παραλληλόγραμμο (ρόμβος), ένα αστέρι και ορισμένα ασυνήθιστα σχήματα.\n"
+"\n"
+"Καθώς το παιδί αποκτά εμπειρία, με παιχνιδιάρικο τρόπο ζητήστε αδύνατα σχήματα όπως ένα τρίγωνο με δύο ορθές γωνίες ή ένα τετράπλευρο με τρεις ορθές γωνίες μόνο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another way to play"
+msgstr "Άλλος τρόπος παιχνιδιού"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reverse roles so your child makes up questions and you find the shapes. Make a \"mistake\" sometimes and have your child explain to you what you did wrong."
+msgstr "Αντιστρέψτε τους ρόλους ώστε το παιδί να κάνει τις ερωτήσεις κι εσείς να βρίσκετε τα σχήματα. Κάντε «λάθος» μερικές φορές και ζητήστε από το παιδί να σας εξηγήσει τι κάνατε λάθος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CONNECT THE DOTS – STRING ART"
+msgstr "ΈΝΩΣΕ ΤΙΣ ΤΕΛΕΊΕΣ – ΤΈΧΝΗ ΜΕ ΧΟΡΔΈΣ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Make abstract drawings by connecting points with the same number along opposite sides of an angle.\n"
+"\n"
+"Another way is to put some dots, say 9, evenly spaced on a circle. Play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot."
+msgstr ""
+"Φτιάξτε αφηρημένα σχέδια ενώνοντας σημεία με τον ίδιο αριθμό στις απέναντι πλευρές μιας γωνίας.\n"
+"\n"
+"Ένας άλλος τρόπος είναι να τοποθετήσετε, π.χ., 9 τελείες ομοιόμορφα κατανεμημένες πάνω σε έναν κύκλο. Παίξτε δημιουργώντας διαφορετικά μοτίβα ενώνοντας τις τελείες με τη σειρά τους, ενώνοντας κάθε δεύτερη τελεία ή κάθε τρίτη τελεία."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE"
+msgstr "ΠΡΌΚΛΗΣΗ ΜΝΉΜΗΣ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Select two or four sets of Number Cards and remove numbers above your child’s comfort level. Place the cards face down in a 3 by 3 grid, with the remaining cards put in a draw pile."
+msgstr "**Προετοιμασία:** Επιλέξτε δύο ή τέσσερα σετ από Κάρτες Αριθμών και αφαιρέστε τους αριθμούς που ξεπερνούν το επίπεδο άνεσης του παιδιού. Τοποθετήστε τις κάρτες κλειστές σε διάταξη 3 επί 3, με τις υπόλοιπες σε μια κοινή στοίβα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Take turns flipping two cards face-up. If the cards match, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards don’t match, the player flips the cards back over and ends their turn."
+msgstr "**Πώς παίζεται:** Οι παίκτες εναλλάξ ανοίγουν δύο κάρτες. Αν οι κάρτες ταιριάζουν, ο παίκτης τις κρατά, αντικαθιστά τις δύο θέσεις από την κοινή στοίβα και συνεχίζει τη σειρά του. Αν δεν ταιριάζουν, ο παίκτης τις ξανακλείνει και τελειώνει η σειρά του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The game ends when the last pair is taken. The player with the most cards wins."
+msgstr "**Πώς κερδίζεις:** Το παιχνίδι τελειώνει όταν παρθεί το τελευταίο ζευγάρι καρτών. Ο παίκτης με τις περισσότερες κάρτες κερδίζει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Allow at most one match per turn.\n"
+"• Use a target sum larger than the largest card. Two cards match if their sum is the target."
+msgstr ""
+"* Να επιτρέπεται το πολύ ένα ταίριασμα ανά γύρο.\n"
+"* Χρησιμοποιήστε έναν στόχο αθροίσματος μεγαλύτερο από τη μεγαλύτερη κάρτα. Δύο κάρτες ταιριάζουν αν το άθροισμά τους είναι ο αριθμός που έχει μπει ως στόχος."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO! WITH CARDS"
+msgstr "ΜΠΊΝΓΚΟ ΜΕ ΚΆΡΤΕΣ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Play this with Number Cards, or if there are many players, with numbered regular playing cards."
+msgstr "**Προετοιμασία:** Παίξτε με Κάρτες Αριθμών ή, αν υπάρχουν πολλοί παίκτες, με αριθμημένες κανονικές τράπουλες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Reserve two suits worth of cards for a draw pile, and divide the remaining cards among the players. Each player randomly selects 16 cards to place in a 4 by 4 grid face up in front of them."
+msgstr "**Πώς παίζεται:** Κρατήστε τις μισές κάρτες (π.χ. τα καρό και τα σπαθιά αν πρόκειται για τράπουλα) ως στοίβα για να τραβούν και μοιράστε τις υπόλοιπες κάρτες στους παίκτες. Κάθε παίκτης επιλέγει τυχαία 16 κάρτες και τις τοποθετεί ανοικτά σε διάταξη 4 επί 4 μπροστά του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take a card from the draw pile and call it out. Each player may turn over one card from their grid that matches the number drawn. If a player has more than one card that matches, the player must choose which one to turn over.\n"
+"\n"
+"**How to win:** The first player to get four cards flipped over in a row horizontally, vertically, or diagonally wins the game and calls out “Bingo!”"
+msgstr ""
+"Τραβήξτε μια κάρτα από τη στοίβα και ανακοινώστε τον αριθμό. Κάθε παίκτης μπορεί να γυρίσει μία κάρτα στη διάταξη μπροστά του που να έχει τον ίδιο αριθμό. Αν ένας παίκτης έχει πάνω από μία κάρτες που ταιριάζουν, πρέπει να διαλέξει ποια θα γυρίσει.\n"
+"\n"
+"**Πώς κερδίζεις:** Ο πρώτος παίκτης που θα γυρίσει τέσσερις κάρτες στη σειρά, οριζόντια, κάθετα ή διαγώνια, κερδίζει και φωνάζει «Μπίνγκο!»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEALING BONES"
+msgstr "ΚΛΈΒΟΝΤΑΣ ΠΛΑΚΊΔΙΑ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** Place all dominoes (bones) face up between the players. For a turn, a player rolls two dice. If the domino that matches these dice is available, the player claims it and moves it to their pile."
+msgstr "**Πώς παίζεται:** Τοποθετήστε όλα τα πλακίδια ντόμινο με την όψη προς τα πάνω μπροστά στους παίκτες. Με τη σειρά του, κάθε παίκτης ρίχνει δύο ζάρια. Αν το ντόμινο που αντιστοιχεί σε αυτή τη ζαριά είναι διαθέσιμο, ο παίκτης το διεκδικεί και το μεταφέρει στη στοίβα του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** For two players, the first player with ten dominoes wins. For more than two players, the first player with six dominoes wins.\n"
+"\n"
+"**Variation:** Claimed dominoes can still be stolen by other players."
+msgstr ""
+"**Πώς κερδίζεις:** Για δύο παίκτες, κερδίζει ο πρώτος παίκτης με δέκα ντόμινο. Για περισσότερους από δύο παίκτες, κερδίζει ο πρώτος παίκτης με έξι ντόμινο.\n"
+"\n"
+"**Παραλλαγή:** Τα διεκδικούμενα ντόμινο μπορούν ακόμα και να \"κλαπούν\" από άλλους παίκτες."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOMINOES"
+msgstr "ΝΤΌΜΙΝΟ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Domino Games"
+msgstr "Παιχνιδια Ντομινο"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are many variations to this ancient game – discuss the rules before you start!\n"
+"\n"
+"**The setup.** Mix up all tiles (bones) face down – this is called the boneyard. Take seven tiles each for two players, and five tiles each for three or four players. The player with the highest double starts by putting it on the table. If no one has a double, start the game over."
+msgstr ""
+"Υπάρχουν πολλές παραλλαγές αυτού του αρχαίου παιχνιδιού – συζητήστε τους κανόνες πριν ξεκινήσετε!\n"
+"\n"
+"**Προετοιμασία:** Ανακατέψτε όλα τα πλακίδια με την όψη προς τα κάτω – αυτό ονομάζεται «νεκροταφείο». Πάρτε επτά πλακίδια ο καθένας για δύο παίκτες και πέντε πλακίδια ο καθένας για τρεις ή τέσσερις παίκτες. Ο παίκτης με το υψηλότερο «διπλό» ξεκινά τοποθετώντας το στο τραπέζι. Αν κανείς δεν έχει διπλό, ξεκινήστε το παιχνίδι από την αρχή."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play.** A turn consists of placing a tile that matches one of the available ends of the string of dominoes (place double dominoes crosswise to the previous domino). If the player has no matching tile, the player is “blocked,” and there are two possible rules to use: 1) the player’s turn is over, or 2) the player keeps drawing tiles until there is a match (one version restricts this to a single draw whether or not there is a match). If the boneyard is emptied before there is a move, play passes to the next player on the right.\n"
+"\n"
+"**How to win:** The game ends when a player runs out of bones, or when all players are blocked. The winner is the player with the lowest total of dots on their tiles (which is 0 if they have used up all their tiles)."
+msgstr ""
+"**Πώς παίζεται:** Μια σειρά αποτελείται από την τοποθέτηση ενός πλακιδίου που ταιριάζει σε μία από τις διαθέσιμες άκρες της αλυσίδας των ντόμινο (τα διπλά ντόμινο τοποθετούνται εγκάρσια ως προς το προηγούμενο ντόμινο). Αν ο παίκτης δεν έχει ταιριαστό πλακίδιο, ο παίκτης είναι «μπλοκαρισμένος», και υπάρχουν δύο πιθανοί κανόνες για χρήση: 1) η σειρά του παίκτη τελειώνει, ή 2) ο παίκτης συνεχίζει να τραβά πλακίδια μέχρι να υπάρξει ταίριασμα (μια εκδοχή το περιορίζει αυτό σε ένα μόνο τράβηγμα είτε υπάρχει είτε όχι ταίριασμα). Αν το «νεκροταφείο» αδειάσει πριν γίνει μια κίνηση, το παίξιμο περνά στον επόμενο παίκτη στα δεξιά.\n"
+"\n"
+"**Πώς κερδίζεις:** Το παιχνίδι τελειώνει όταν ένας παίκτης ξεμείνει από πλακίδια, ή όταν όλοι οι παίκτες είναι μπλοκαρισμένοι. Νικητής είναι ο παίκτης με το χαμηλότερο συνολικό άθροισμα κουκίδων στα πλακίδιά του (το οποίο είναι 0 αν έχει χρησιμοποιήσει όλα τα πλακίδιά του)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Scoring options:** The winner’s score can be calculated in two ways. The traditional way is to use the sum of the dots on all the other players’ tiles. Rounds are played until a player reaches 50 or 100. For little ones, a better scoring system is to let the winner have the score which is the count of all the other players’ tiles.\n"
+"\n"
+"**Matching options:** When your child starts adding, change the rule for matching – two tiles match if their numbers add up to six (or nine if using a larger range of dominoes)."
+msgstr ""
+"**Επιλογές βαθμολόγησης:** Το σκορ του νικητή μπορεί να υπολογιστεί με δύο τρόπους. Ο παραδοσιακός τρόπος είναι να χρησιμοποιηθεί το άθροισμα των κουκίδων σε όλα τα πλακίδια των άλλων παικτών. Παίζονται γύροι μέχρι ένας παίκτης να φτάσει τους 50 ή τους 100 πόντους. Για τα μικρά παιδιά, ένα εναλλακτικό σύστημα βαθμολόγησης είναι να αναδειχθεί νικητής αυτός που έχει για σκορ τον αριθμό των πλακιδίων των άλλων παικτών.\n"
+"\n"
+"**Παραλλαγή:** Όταν το παιδί σας αρχίσει να προσθέτει, αλλάξτε τον κανόνα για το ταίριασμα – δύο πλακίδια ταιριάζουν αν οι αριθμοί τους αθροίζουν έξι (ή εννέα αν χρησιμοποιείτε μεγαλύτερο εύρος ντόμινο)."
 
 #. type=data_list
 msgctxt "data_list"
