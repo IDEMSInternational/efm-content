@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-11-26 19:14\n"
+"PO-Revision-Date: 2025-11-26 19:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16081,7 +16081,7 @@ msgstr "ΑΡΙΘΜΟΓΡΑΜΜΉ ΣΤΟΝ ΤΟΊΧΟ"
 #. type=data_list
 msgctxt "data_list"
 msgid "Materials"
-msgstr "Υλικα"
+msgstr "Υλικά"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16117,7 +16117,7 @@ msgstr "ΚΟΥΤΣΌ"
 #. type=data_list
 msgctxt "data_list"
 msgid "Numbers up to 5"
-msgstr "Αριθμοι μεχρι το 5"
+msgstr "Αριθμοί μέχρι το 5"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16237,6 +16237,11 @@ msgstr "Το κόκκινο τρίγωνο είναι το μόνο που δε�
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Object Properties"
+msgstr "Ιδιότητες Αντικειμένων"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "DESCRIBING SCENES"
 msgstr "ΠΕΡΙΓΡΑΦΉ ΣΚΗΝΏΝ"
 
@@ -16289,7 +16294,7 @@ msgstr "Αυτή είναι δραστηριότητα για πολλά άτο�
 #. type=data_list
 msgctxt "data_list"
 msgid "Unknown Shapes"
-msgstr "Ανακαλυπτοντας Σχηματα"
+msgstr "Ανακαλύπτοντας Σχήματα"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16436,7 +16441,7 @@ msgstr "ΠΑΜΕ ΓΙΑ ΨΑΡΙΑ!"
 #. type=data_list
 msgctxt "data_list"
 msgid "Counting up to 10"
-msgstr "Μετρηση μεχρι το 10"
+msgstr "Μέτρηση μέχρι το 10"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16577,6 +16582,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Numbers up to 10"
+msgstr "Αριθμοί μέχρι το 10"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "STEALING BONES"
 msgstr "ΚΛΈΒΟΝΤΑΣ ΠΛΑΚΊΔΙΑ"
 
@@ -16604,7 +16614,7 @@ msgstr "ΝΤΌΜΙΝΟ"
 #. type=data_list
 msgctxt "data_list"
 msgid "Domino Games"
-msgstr "Παιχνιδια Ντομινο"
+msgstr "Παιχνίδια Ντόμινο"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16677,7 +16687,7 @@ msgstr "ΤΟ ΠΑΙΧΝΊΔΙ NIM ΜΕ ΈΝΑ ΚΑΙ ΔΎΟ"
 #. type=data_list
 msgctxt "data_list"
 msgid "Nearby Numbers"
-msgstr "Κοντινοι Αριθμοι"
+msgstr "Κοντινοί Αριθμοί"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16975,6 +16985,11 @@ msgstr "ΣΟΥΝΤΌΚΟΥ ΣΧΗΜΆΤΩΝ"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Shape Games"
+msgstr "Παιχνίδια Σχημάτων"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
 "\n"
@@ -17044,6 +17059,11 @@ msgstr "ΑΡΙΘΜΟΊ ΣΤΟ ΛΕΠΤΌ (FLASH NUMBERS)"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Beginning Finger Math"
+msgstr "Εισαγωγικά Μαθηματικά Δαχτύλων"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
 "\n"
@@ -17098,6 +17118,11 @@ msgstr "ΕΎΡΕΣΗ ΤΕΤΡΑΓΏΝΩΝ"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Figures"
+msgstr "Σχήματα"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n"
 "\n"
@@ -17146,6 +17171,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "MATH STORIES"
 msgstr "ΙΣΤΟΡΊΕΣ ΜΑΘΗΜΑΤΙΚΏΝ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Stories"
+msgstr "Ιστορίες Αριθμών"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17209,6 +17239,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "THE IN-BETWEEN GAME"
 msgstr "ΤΟ ΕΝΔΙΆΜΕΣΟ ΠΑΙΧΝΊΔΙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order"
+msgstr "Τάξη"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17321,6 +17356,11 @@ msgstr "ΣΠΆΣΙΜΟ ΚΏΔΙΚΑ"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Being Logical"
+msgstr "Λογικός Συλλογισμός"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321."
 msgstr "**Προετοιμασία:** Ο Κυρίαρχος του Κώδικα (Code Master) δημιουργεί έναν κώδικα και ο άλλος παίκτης είναι ο Σπάστης του Κώδικα (Code Breaker). Υποθέστε ότι ο κώδικας έχει τρεις θέσεις, η καθεμία από τις οποίες μπορεί να είναι από το 1 έως το 5. Ένα παράδειγμα τέτοιου κώδικα θα ήταν το 321."
 
@@ -17381,6 +17421,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "FINGER SUBTRACTION TO 10"
 msgstr "ΑΦΑΊΡΕΣΗ ΔΑΧΤΎΛΩΝ ΈΩΣ ΤΟ 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finger Math"
+msgstr "Μαθηματικά Δαχτύλων"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17472,8 +17517,18 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Number Sizes"
+msgstr "Μεγέθη Αριθμών"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "15 SLIDING PUZZLE"
 msgstr "ΠΑΖΛ ΟΛΊΣΘΗΣΗΣ 15"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbers in Order"
+msgstr "Αριθμοί σε Σειρά"
 
 #. type=data_list
 msgctxt "data_list"
