@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Greek\n"
 "\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-11-25 23:14\n"
+"PO-Revision-Date: 2025-11-26 00:16\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -16876,6 +16876,182 @@ msgstr "Μετρήστε έναν μικρό αριθμό μικρών αντι�
 msgctxt "data_list"
 msgid "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total."
 msgstr "Παράδειγμα:} Υποθέστε ότι έχετε 6 σταφίδες σε ένα τραπέζι. Βάλτε το παιδί σας να κοιτάξει αλλού και καλύψτε τις 2 με ένα μπολ. Όταν το παιδί σας ξανακοιτάξει, μετρήστε τις 4 ορατές σταφίδες και ρωτήστε πόσες σταφίδες είναι κάτω από το μπολ αν υπάρχουν 6 συνολικά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reasoning"
+msgstr "Συλλογισμός"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families."
+msgstr "Ένας τρόπος για το παιδί σας να το βρει αυτό είναι να «μετρήσει προς τα πάνω» από το 4 στο 6 - καθώς το παιδί σας μετρά 4, 5 και 6, ξεκινήστε με 0 δάχτυλα σηκωμένα και σηκώστε ένα δάχτυλο κάθε φορά μέχρι να φτάσετε στα 2 σηκωμένα δάχτυλα. Ομοίως, το παιδί σας μπορεί να κάνει σχεδόν το ίδιο πράγμα «μετρώντας προς τα κάτω» από το 6 στο 4. Το να βλέπει κανείς ότι 4 συν 2 ακόμη είναι 6 συνδέεται με το να αφαιρεί 2 από το 6 για να πάρει 4, και είναι εξαιρετική εξάσκηση για την κατανόηση των συγγενών πράξεων (πρόσθεση και αφαίρεση)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING GAME"
+msgstr "ΠΑΙΧΝΊΔΙ ΤΑΙΡΙΆΣΜΑΤΟΣ ΧΑΡΑΚΤΗΡΙΣΤΙΚΏΝ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black)."
+msgstr ""
+"Οι Κάρτες Σχημάτων έχουν τρία χαρακτηριστικά:\n"
+"* σχήμα (κύκλος, τρίγωνο, τετράγωνο)·\n"
+"* πλήθος (ένα, δύο, τρία)·\n"
+"* χρώμα (κόκκινο, μπλε, μαύρο)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n"
+"\n"
+"**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins."
+msgstr ""
+"**Προετοιμασία:** Μοιράστε πέντε κάρτες σε κάθε παίκτη. Τοποθετήστε τις υπόλοιπες κάρτες με την όψη προς τα κάτω σε μια στοίβα από την οποία θα τραβούν. Γυρίστε την πρώτη κάρτα της στοίβας με την όψη προς τα πάνω για να ξεκινήσει μια νέα στοίβα (όπου οι κάρτες θα είναι με την όψη προς τα πάνω). Τοποθετήστε εκ περιτροπής μια κάρτα στη νέα στοίβα – η κάρτα που βάζετε θα πρέπει να ταιριάζει με δύο χαρακτηριστικά της πάνω κάρτας. Εάν δεν έχετε κάρτα που να ταιριάζει και δεν μπορείτε να παίξετε στη σειρά σας, τραβήξτε μια κάρτα από τη στοίβα με τις κλειστές κάρτες και τερματίστε τη σειρά σας.\n"
+"\n"
+"**Πώς κερδίζεις:** Ο πρώτος που θα τελειώσει τις κάρτες του είναι ο νικητής. Εάν τελειώσει η στοίβα με τις κλειστές κάρτες, κερδίζει ο παίκτης με τις λιγότερες κάρτες στο χέρι του."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"• Simplify the game by only requiring a match of one property with the top card.\n"
+"• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card."
+msgstr ""
+"* Απλοποιήστε το παιχνίδι απαιτώντας μόνο ταίριασμα ενός χαρακτηριστικού με την πάνω κάρτα.\n"
+"* Επιτρέψτε σε έναν παίκτη να τοποθετήσει περισσότερες από μία κάρτες σε μια σειρά, εφόσον κάθε κάρτα είναι αποδεκτή κίνηση πάνω στην προηγούμενη κάρτα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FEATURE MATCHING PUZZLE"
+msgstr "ΠΑΖΛ ΤΑΙΡΙΆΣΜΑΤΟΣ ΧΑΡΑΚΤΗΡΙΣΤΙΚΏΝ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card."
+msgstr "Επιλέξτε μια Κάρτα Σχήματος ως κάρτα εκκίνησης. Στο παράδειγμά μας, αυτή είναι η κάρτα με δύο μπλε κύκλους. Δημιουργήστε μια ακολουθία από 4 έως 8 κάρτες που μπορούν να παιχτούν σύμφωνα με τον κανόνα - κάθε κάρτα πρέπει να μοιράζεται δύο χαρακτηριστικά με την προηγούμενη κάρτα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n"
+"\n"
+"**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card."
+msgstr ""
+"Αφήστε στην άκρη τις αχρησιμοποίητες κάρτες, χωρίστε την κάρτα εκκίνησης και ανακατέψτε τις κάρτες του παιχνιδιού.\n"
+"\n"
+"**Η πρόκληση:** Πάρτε τις ανακατεμένες κάρτες και τοποθετήστε τις σε μια σειρά αποδεκτών κινήσεων πάνω στην κάρτα εκκίνησης."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TRIPLET"
+msgstr "ΤΡΙΠΛΈΤΑ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n"
+"\n"
+"**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row."
+msgstr ""
+"**Προετοιμασία:** Φτιάξτε ένα πλέγμα τρίλιζας αρκετά μεγάλο ώστε να χωράει μια Κάρτα Σχήματος σε κάθε τετράγωνο. Τοποθετήστε γύρω από τον πίνακα 8 από τις Κάρτες Σχημάτων που έχουν δύο ιδιότητες από κάθε κατηγορία. Για παράδειγμα, επιλέξτε τις 8 κάρτες που να είναι είτε τρίγωνο είτε τετράγωνο και να έχουν μία ή δύο φιγούρες και να είναι κόκκινες ή μπλε.\n"
+"\n"
+"**Πώς παίζεται:** Οι παίκτες επιλέγουν εκ περιτροπής μια αχρησιμοποίητη κάρτα για να την τοποθετήσει ο αντίπαλός τους στον πίνακα. Οι κάρτες στον πίνακα μπορούν να χρησιμοποιηθούν από οποιονδήποτε παίκτη για να κάνει τρεις στη σειρά."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game."
+msgstr "**Πώς κερδίζεις:** Κερδίζει ο παίκτης που τοποθετεί μια κάρτα που ολοκληρώνει 3 κάρτες στη σειρά με τουλάχιστον μία κοινή ιδιότητα! Εάν παιχτούν όλες οι κάρτες χωρίς νικητή, είναι ισοπαλία."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card."
+msgstr "Απλοποιήστε το παιχνίδι και προσθέστε ένα στοιχείο τύχης τοποθετώντας τις κάρτες με την όψη προς τα κάτω σε μια στοίβα τραβήγματος και βάζοντας κάθε παίκτη να παίζει την πάνω κάρτα."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUDOKU"
+msgstr "ΣΟΥΝΤΌΚΟΥ ΣΧΗΜΆΤΩΝ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n"
+"\n"
+"**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n"
+"\n"
+"**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off."
+msgstr ""
+"**Προετοιμασία:** Χρησιμοποιήστε τέσσερις μάρκες, καθεμία από τέσσερις διαφορετικούς τύπους. Για παράδειγμα, χρησιμοποιήστε ζελεδάκια διαφορετικών χρωμάτων. Εμείς χρησιμοποιήσαμε πορτοκαλί τρίγωνα, μπλε τετράγωνα, κόκκινους κύκλους και μοβ ρόμβους.\n"
+"\n"
+"**Πώς να δημιουργήσετε γρίφο:** Δημιουργήστε ένα γρίφο ξεκινώντας από την απάντηση – αυτή θα είναι ένα μοτίβο από μάρκες που θα έχει μία μάρκα από κάθε είδος σε κάθε σειρά και στήλη, και μία από κάθε είδος σε κάθε τετράγωνο γωνιακό κουτί του πλέγματος 2x2. Μόλις έχετε την «απάντηση», αφαιρέστε μερικές από τις μάρκες και τοποθετήστε τις σε μια στοίβα στο πλάι.\n"
+"\n"
+"**Η πρόκληση:** Δώστε τον γρίφο στο παιδί σας για να βρει πώς να τοποθετήσει ξανά τις μάρκες που αφαιρέθηκαν."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle creation strategies"
+msgstr "Στρατηγικές δημιουργίας γρίφων"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column."
+msgstr "Ακολουθούν μερικές απλές στρατηγικές για τη δημιουργία γρίφων: αφαιρέστε μία μάρκα από κάθε σειρά· αφαιρέστε όλες τις μάρκες ενός τύπου και μία από κάθε άλλο τύπο· ή αφαιρέστε μία ολόκληρη σειρά και στήλη."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC HANDS – ADD AND SUBTRACT"
+msgstr "ΜΑΓΙΚΆ ΧΈΡΙΑ – ΠΡΌΣΘΕΣΗ ΚΑΙ ΑΦΑΊΡΕΣΗ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on."
+msgstr "Αυτό είναι ένα μαγικό κόλπο για την εξάσκηση στην πρόσθεση και την αφαίρεση. Κάντε το αρκετά αργά ώστε το παιδί σας να έχει την ευκαιρία να δει τι συμβαίνει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n"
+"\n"
+"Summarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n"
+"\n"
+"**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total."
+msgstr ""
+"**Για την πρόσθεση:** Επιλέξτε δύο αριθμούς που αθροίζουν 5 ή λιγότερο. Μετρήστε τον αριθμό των σηκωμένων δαχτύλων στο αριστερό σας χέρι, π.χ. 3. Μετρήστε τον αριθμό των σηκωμένων δαχτύλων στο δεξί σας χέρι, π.χ. 1. Φέρτε τα χέρια κοντά και... τσακ – τα δάχτυλα στο δεξί σας χέρι μεταφέρονται στο αριστερό – τώρα υπάρχουν 4 δάχτυλα σηκωμένα. Μαγεία!\n"
+"\n"
+"Συνοψίστε λέγοντας «3 δάχτυλα συν 1 ακόμα δάχτυλο κάνουν 4 δάχτυλα. Τα-ρα!»\n"
+"\n"
+"**Για την αφαίρεση:** Σηκώστε μερικά δάχτυλα στο αριστερό σας χέρι, π.χ. 4. Βάλτε το δεξί σας χέρι να απλωθεί και να πιάσει μερικά από τα δάχτυλα, π.χ. 1 από αυτά. Τσακ - θα μείνουν 3 δάχτυλα σηκωμένα στο αριστερό χέρι και 1 σηκωμένο στο δεξί χέρι. Συνοψίστε λέγοντας ότι 4 βγάζω 1 μένουν 3, ή πείτε ότι χωρίζετε το 4 σε δύο κομμάτια που είναι το 3 και το 1. Αυτή η διατύπωση τονίζει την έννοια των αριθμητικών δεσμών, που είναι ζευγάρια αριθμών που αθροίζουν ένα δεδομένο σύνολο."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Special cases"
+msgstr "Σημαντικές ειδικές περιπτώσεις"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n"
+"• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes."
+msgstr ""
+"* Πρόσθεση: Αφήστε το ένα ή και τα δύο χέρια να έχουν 0 δάχτυλα σηκωμένα και δείξτε ότι τίποτα δεν αλλάζει όταν προσθέτετε 0.\n"
+"* Αφαίρεση: Αφαιρέστε όλα τα δάχτυλα ώστε να μην μείνει κανένα, και μερικές φορές μην αφαιρέσετε κανένα δάχτυλο για να δείξετε ότι τίποτα δεν αλλάζει."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH NUMBERS"
+msgstr "ΑΡΙΘΜΟΊ ΣΤΟ ΛΕΠΤΌ (FLASH NUMBERS)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n"
+"\n"
+"**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes."
+msgstr ""
+"Βοηθήστε το παιδί σας να αναγνωρίζει εύκολα και γρήγορα αριθμούς αντικειμένων. Εξασκηθείτε με δύο τρόπους.\n"
+"\n"
+"**Χρήση πλαισίων των δέκα:** Χρησιμοποιήστε Κάρτες Αριθμών που έχουν πλαίσια των δέκα. Επιλέξτε μια κάρτα τυχαία και δείτε με παιγνιώδη τρόπο αν το παιδί σας μπορεί να αναγνωρίσει την ποσότητα. Για ποικιλία, βάλτε το παιδί σας να σας κάνει κουίζ μερικές φορές."
 
 #. type=data_list
 msgctxt "data_list"
