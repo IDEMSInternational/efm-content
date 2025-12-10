@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-10-24 20:55\n"
+"PO-Revision-Date: 2025-12-10 20:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26050,6 +26050,69 @@ msgstr "هل تعتقد أن الفيلة الصغيرة يجب أن تكون ص
 msgctxt "data_list"
 msgid "Make up a story like this that explains how the giraffe got such a long neck."
 msgstr "اصنع قصة كهذه تشرح فيها كيف حصلت الزرافة على رقبة طويلة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 Overview"
+msgstr "المرحلة الأولى: يمكنني سماعك!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 1 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 1 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**جلسات اللعب - المرحلة الأولى: يمكنني سماعك!**\n"
+"\n"
+"يمكن أن تبدأ هذه المرحلة من عمر 4 أشهر. إن تعريض صغيرك لمختلف أنواع التجارب يعتبر في غاية الأهمية. تكلم مع صغيرك حتى لو لم يظهر عليه انه يفهمك، واعتدْ الإشارة إلى مختلف الأشياء ووصفها، وعندما يبدأ صغيرك بالتفاعل مع كلماتك، قم بإضافة أسئلة لكلامك لكي يجيب عليها.\n"
+"\n"
+"عندما يبدأ صغيرك بالتعرف على الأشياء وخواصها، قم بالتنبيه للخواص التي تجعلها متشابهة أو مختلفة. تعتبر هذه الخواص مفيدة أيضاً للعب مع الأنماط المتكررة. وأخيراً، يمكنك أن تبدأ بوصف الأشكال باستخدام خواصها المختلفة."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-1"
+msgstr "الجلسة 1: كلام رياضي - مبكراً وبتكرار"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects."
+msgstr "**محور جلسة اللعب:** استعن بالنقاش الرياضي للإشارة للأشياء ووصفها لطفلك. تكلم عن خواص تلك الأشياء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has color words."
+msgstr "هذا الكتاب يحتوي على أسماء الألوان."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the properties of things."
+msgstr "تتضمن خصائص الأشياء التي نتعرض لها يومياً."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-2"
+msgstr "الجلسة 2: كلام رياضي - في البيت"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child."
+msgstr "**محور جلسة اللعب:** استمر باستخدام النقاش الرياضي للإشارة إلى الأشياء ووصفها لصغيرك."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This looks at how clothes can be too big or too small."
+msgstr "هذا الكتاب يتكلم عن كون الملابس أكبر أو أصغر مما يجب."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These practice shapes and descriptions."
+msgstr "تعتبر هذه تدريبات على الأشكال والأوصاف."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-3"
+msgstr "الجلسة 3: كلام رياضي - في الخارج من حولك"
 
 #. type=global
 msgctxt "global"
