@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-11-09 23:23\n"
+"PO-Revision-Date: 2025-12-10 17:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19948,6 +19948,11 @@ msgstr "Как ты думаешь, Слонёнок должна когда-н�
 msgctxt "data_list"
 msgid "Make up a story like this that explains how the giraffe got such a long neck."
 msgstr "Придумай подобную историю, объясняющую почему у жирафа такая длинная шея."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 Overview"
+msgstr "Этап 1: Я Тебя Слышу!"
 
 #. type=global
 msgctxt "global"
