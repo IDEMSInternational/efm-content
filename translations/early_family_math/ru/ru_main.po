@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-12-10 18:54\n"
+"PO-Revision-Date: 2025-12-10 19:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20267,178 +20267,703 @@ msgstr "Игровая встреча 15: Основные Формы II"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners."
+msgstr "**Фокус игровой встречи:** Развивайте у ребёнка понимание геометрических фигур. Познакомьте его с другими фигурами, их названиями, и свойствами. Теперь вы можете использовать счёт для обсуждения количества краёв и углов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes on every page."
+msgstr "Здесь есть много фигур на каждой странице."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve creating lots of geometric shapes."
+msgstr "Эти включает в себя создание множества геометрических фигур."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-6"
-msgstr "Игровая встреча 16"
+msgstr "Игровая встреча 16: На Один Больше и на Один Меньше"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction."
+msgstr "**Фокус игровой встречи:** Чаще используйте понятие «на один больше» и «на один меньше», чтобы лучше понять числовую последовательность, а также начать изучать сложение и вычитание."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 9, one more, one less, and many relationship words."
+msgstr "Здесь счёт до 9, на один больше, на один меньше, и много слов обозначающих отношения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the ordering of numbers and the use of a number line."
+msgstr "Эти включают упорядочивание чисел использования числовой прямой."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 2-7"
-msgstr "Игровая встреча 17"
+msgstr "Игровая встреча 17: Сложение и Вычитание на Пальцах до 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5."
+msgstr "**Фокус игровой встречи:** Наслаждайтесь сложением небольших чисел в сумме до 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 6, with colors and shapes."
+msgstr "Здесь счёт до 6, с цветами и фигурами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
+msgstr "Эти требуют очень мелкого счёта и сложения. Пока что используйте только небольшие суммы (до 6) для головоломок Связанные Группы."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 2-8"
-msgstr "Игровая встреча 18"
+msgstr "Игровая встреча 18: Сложение и Вычитание на Пальцах до 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less."
+msgstr "**Фокус игровой встречи:** Пальцы очень полезны для счёта, сложения, и вычитания. Покажите ребёнку, как эффективно использовать пальцы при счёте чисел до 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 12, shapes, and comparing."
+msgstr "Здесь есть счёт до 12, фигуры, и сравнение."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
+msgstr "Эти включают числовую линию для счёта, сложение и вычитание, а также совмещённые группы для практики сложения. Пусть суммы для Совмещённых Групп будут небольшими (примерно 7), и постепенно увеличивайте их."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 2-9"
-msgstr "Игровая встреча 19"
+msgstr "Игровая встреча 19: Счёт по 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way."
+msgstr "**Фокус игровой встречи:** Получайте удовольствие считая по 2 с вашим ребёнком. Это весёлый и быстрый способ счёта, который поможет ему взглянуть на цифру по-новому."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting along with shapes and comparisons."
+msgstr "Здесь есть пропуск счёта вместе с формами и сравнениями."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
+msgstr "Здесь есть фигуры с цифрами (для практики объединения предметов парами для пропуска счёта) и создание симметричных фигур."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 2-10"
-msgstr "Игровая встреча 20"
+msgstr "Игровая встреча 20: Подсчёт Групп"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful."
+msgstr "**Фокус игровой встречи:** Играя найдите множество разных способов посчитать группы предметов. Это помогает понять количество и то, что счёт, сложение, и вычитание могут быть увлекательным."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and counting up to 14."
+msgstr "Здесь есть счёт с пропусками до 14."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
+msgstr "Здесь есть размещение различных предметов в разных формах, а также игру с оценкой количества."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Overview"
+msgstr "Этап 3: Я могу считать до 10!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 3 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 3 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**Игровые Встречи Этап 3: Я могу считать до 10!**\n"
+"\n"
+"Ваш ребёнок научился считать до десяти, и эти числа и количество теперь стали для него более осмысленными. Теперь он гораздо лучше складывает и вычитает небольшие числа.\n"
+"\t\n"
+"\tНа этом этапе счёт расширяется до 20, и расширяется диапазон чисел, которые ребёнок может складывать и вычитать. Также здесь представлены начальные этапы умножения и деления. Наконец, развивающиеся аналитические способности и зрелость ребёнка требуют обсуждения ранних идей для стратегических игр."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-1"
-msgstr "Игровая встреча 21"
+msgstr "Игровая встреча 21: Сложение в Уме Путём Подсчёта"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1."
+msgstr "**Фокус игровой встречи:** Потренируйтесь сложение, используя концепцию подсчёта. Термин «подсчёт» означает, что при счёте двух групп например, 4 и 3, вы начинаете счёт с 4, а не с 1."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and groupings of objects."
+msgstr "Здесь много форм и групп объектов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
+msgstr "Эти упражнения включают сложение и вычитание. Используйте «Цифровую» версию Точек и Квадратов с небольшими числами для практики сложения."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-2"
-msgstr "Игровая встреча 22"
+msgstr "Игровая встреча 22: Умственное Вычитание – Отнять"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**Фокус игровой встречи:** Потренируйтесь считать, считая в обратном порядке от большого числа. Расскажите о том как «убрать» и «разность» это два хороших примера для вычитания."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and comparisons."
+msgstr "Здесь есть счёт пропусками, формы, и сравнения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing, adding, and subtracting."
+msgstr "Здесь есть сравнение, сложение, и вычитание."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-3"
-msgstr "Игровая встреча 23"
+msgstr "Игровая встреча 23: Вычитание в Уме – Разница"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**Фокус игровой встречи:** Практикуйтесь вычитанию, подсчитывая чтобы найти разницу. Подчеркните, что «убрать» и «разность» две хорошие модели для вычитания."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10 and shapes."
+msgstr "Здесь счёт до 10 и формы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and some estimating of small quantities."
+msgstr "Эти включает в себя сложения и некоторую оценку небольших величин."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-4"
-msgstr "Игровая встреча 24"
+msgstr "Игровая встреча 24: Числовые Связи"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this."
+msgstr "**Фокус игровой встречи:** Отношение Часть-Целoе, восприятие чего-либо как состоящего из частей, является важным этапом развития ребёнка. Практикуйтесь с ребёнком в построение Числовых Связей, представляющих собой группы чисел, дающие в сумме одинаковый результат. Важная часть этого процесса это практика с Десятью Рамками."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds."
+msgstr "Эти требуют много практики с числовыми связями."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-5"
-msgstr "Игровая встреча 25"
+msgstr ": Место Значение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more."
+msgstr "**Фокус игровой встречи:** Число десять играет очень важную роль в наших числах. Практикуйтесь складывать и вычитать по 10. Также практикуйтесь разбивать числа от 10 до 19 на 10 и несколько единиц, например 14 - это 10 плюс ещё четыре."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and counting with small numbers."
+msgstr "Здесь много форм и счёт ведётся небольшими числами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing and ordering numbers up to 20."
+msgstr "Эти включают сравнения и упорядочивание чисел до 20."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-6"
-msgstr "Игровая встреча 26"
+msgstr "Игровая встреча 26: Семьи Фактов"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds."
+msgstr "**Фокус игровой встречи:** Используйте семьи фактов, чтобы подчеркнуть связи между сложением и вычитанием. Это логичное продолжение темы, посвящённой связям чисел на прошлой встрече."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 12, colors, shapes, and patterns."
+msgstr "Здесь счёт до 12, цвета, формы, и закономерности."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds and with addition and subtraction of small numbers."
+msgstr "Эти требуют много практики с числовыми связями, а также со сложением и вычитанием небольших чисел."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-7"
-msgstr "Игровая встреча 27"
+msgstr "Игровая встреча 27: Добавление Чисел Близнецов и Почти Близнецов"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected."
+msgstr "**Фокус игровой встречи:** Сложение Близнецов, где вы прибавляете одно число к этому же числу, часто являются интересными для изучения. Сложение Почти Близнецов, где вы прибавляете одно число к следующему (например 3 + 4), часто легко освоить после того как вы освоите пример сложения близнецов, и они помогают ребёнку увидеть, как можно связать примеры сложения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, adding twins, and counting to 14."
+msgstr "Здесь есть пропуск счёта, добавление близнецов, и счёт до 14."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding practice and estimating using a number line."
+msgstr "Эти включают в себя добавление практики и оценку с использованием числовой прямой."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-8"
-msgstr "Игровая встреча 28"
+msgstr "Игровая встреча 28: Умножить и Разделить на 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally."
+msgstr "**Фокус игровой встречи:** После пропуска счёта по 2 и сложение близнецов, самое время начать изучать удвоение, умножение на 2, деление пополам, деление на 2, деление на две равные части, чётные и нечётные числа. Тем много, но они очень естественно переплетаются."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of discussion of how to split something fairly among coorperating friends."
+msgstr "Здесь много обсуждений о том как справедливо разделить что-либо между сотрудничающими друзьями."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and taking halves."
+msgstr "Эти включают в себя удвоение и взятие половин."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-9"
-msgstr "Игровая встреча 29"
+msgstr "Игровая встреча 29: Пропуск Счёта по 2 II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10."
+msgstr "**Фокус игровой встречи:** Практикуйтесь пропуск счёта по 2– делайте это упражнение в порядке возрастания и убывающем порядке, и начинайте с любого числа (не только с чисел, кратных 2). Когда станет легко, попробуйте пропуск счёта по 5 и 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
+msgstr "Эти включает в себя практику сложения и вычитания, а также изучение того, какие числа можно рассматривать как группы пар."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 3-10"
-msgstr "Игровая встреча 30"
+msgstr "Игровая встреча 30: Стратегические Игры I"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills."
+msgstr "**Фокус игровой встречи:** Играйте с ребёнком в стратегические игры. Даже в играх где нет чисел, есть много математики. Они развивают важные навыки решения задач."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10, comparisons, and a discussion of problem solving."
+msgstr "Здесь счёт до 10, сравнения, и обсуждение решения задач."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of problem solving while playing strategy games."
+msgstr "В этих есть много задач, решаемых во времени стратегических игр."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Overview"
+msgstr "Этап 4: Я Могу Считать до 20!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 4 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"**Игровые Встречи Этап 4: Я Могу Считать до 20!**\n"
+"\n"
+"На этом этапе ваш ребёнок расширит свои навыки счёта до 100. По мере развития навыков счёта, ему необходимо будет прочно усвоить разряды двузначных чисел. Он также освоит все примеры сложения и вычитания однозначных чисел. Это также увлекательное время, когда ребёнок начинает осваивать умножение на числа от 1 до 5."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-1"
-msgstr "Игровая встреча 31"
+msgstr "Игровая встреча 31: Счёт до 100"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10."
+msgstr "**Фокус игровой встречи:** Посчитайте вместе с ребёнком до 100, обращая особое внимание на переходы между числами, кратными 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes, counting, and groupings of objects."
+msgstr "Здесь есть много форм, подсчётов, и групп объектов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
+msgstr "Эти примеры включает в себя упорядочивание и сравнение чисел. Используйте числа до 100 для задания Я думаю о Числе."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-2"
-msgstr "Игровая встреча 32"
+msgstr "Игровая встреча 32: Двузначные Разрядное Значение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers."
+msgstr "**Фокус игровой встречи:** Используйте Расширённую Форму и двузначные разрядное значение, чтобы понять значение и смысл чисел. Расширённая Форма - это разложение числа на десятки и единицы, например, 43 это 40 + 3. Разрядное значение - это понимание того, что число 43 означает 4 десятка и 3 единицы – разряд, на котором стоит цифра, определяет её значение. Используйте Расширенную Форму и разрядное значение, чтобы сравнивать числа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 20, descriptions, and shapes."
+msgstr "Здесь счёт до 20, описания, и формы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing games."
+msgstr "Эти включает в себя заказы и сравнение игр."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-3"
-msgstr "Игровая встреча 33"
+msgstr "Игровая встреча 33: Сложение на Пальцах"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier."
+msgstr "**Фокус игровой встречи:** Используйте пальцы и подсчёт, чтобы легко прибавить однозначное число к любому числу. Используйте Компенсацию, чтобы значительно упростить некоторые примеры на сложение."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, quantities, and speeds."
+msgstr "Здесь есть формы, количества, и скорости."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of addition and subtraction, and some practice with number bonds."
+msgstr "Это включает в себя много сложения и вычитания, а также некоторую практику с числовыми связями."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-4"
-msgstr "Игровая встреча 34"
+msgstr "Игровая встреча 34: Вычитание на Пальцах"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number."
+msgstr "**Фокус игровой встречи:** Используйте пальцы, чтобы облегчить вычитание однозначного числа из любого числа или вычитания любых двух чисел, разность которых является однозначным числом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and polygons (many-sided flat shapes)."
+msgstr "Здесь много фигур и многоугольников (многогранные плоские формы)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with addition and subtraction."
+msgstr "Здесь есть много практики сложения и вычитания."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-5"
-msgstr "Игровая встреча 35"
+msgstr "Игровая встреча 35: Компенсация за Сложение и Вычитание"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier."
+msgstr "**Фокус игровой встречи:** Используйте компенсацию, чтобы значительно упростить сложение и вычитание."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting of groups and lots of comparison words."
+msgstr "Здесь есть подсчёт групп и много сравнительных слов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding and subtracting, as well as a little bit of probability."
+msgstr "Эти включают в себя сложение и вычитание, а также немного теории вероятности."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-6"
-msgstr "Игровая встреча 36"
+msgstr "Игровая встреча 36: 10 как Средняя Точка"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships."
+msgstr "**Фокус игровой встречи:** Используйте число 10 в качестве промежуточной точки, чтобы значительно упростить устные вычисления при сложении и вычитании, а также закрепить числовые соотношения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and number properties."
+msgstr "Здесь есть счёт с пропусками и числовые свойства."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding, subtracting, and number bonds."
+msgstr "Эти включают в себя сложение, вычитание, и числовые связи."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-7"
-msgstr "Игровая встреча 37"
+msgstr "Игровая встреча 37: Счёт с Пропусками по 2, 5, 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value."
+msgstr "**Фокус игровой встречи:** Тренируйтесь считать по 2, 5, и 10, начиная с любой точки и двигаясь вверх и вниз. Это очень помогает при сложении, вычитании, умножении, и делении. Счёт по 10 также помогает в определении разрядных значений."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 14 and skip counting."
+msgstr "Здесь счёт до 14 и пропуск счёта."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve place value and simple additions with two-digit numbers."
+msgstr "Эти включают в себя разрядные значения и простые сложения с двузначными числами."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-8"
-msgstr "Игровая встреча 38"
+msgstr "Игровая встреча 38: Начальное Умножение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it."
+msgstr "**Фокус игровой встречи:** Используйте удвоение и деление пополам, чтобы начать использовать слова умножение и деление, не придавая этому большого значения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and shapes."
+msgstr "Здесь есть пропуск счёта и формы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+msgstr "Эти включают в себя удвоение, сложение или вычитание однозначных чисел с двузначными числами а также определение разрядного значения."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-9"
-msgstr "Игровая встреча 39"
+msgstr "Игровая встреча 39: Умножение 1-5 на 1-5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
+msgstr "**Фокус игровой встречи:** Умножайте в уме с вашим ребёнком любые два числа от 1 до 5. Это начало освоения умножения!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and colors."
+msgstr "Здесь есть счёт с пропусками, формы, и цвета."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+msgstr "Эти включают сложение, вычитание, и умножение. В игре Перебор Чисел теперь можно использовать все три операции. В игре Война с Умножением следует использовать только карточки от 1 до 5, пока ваш ребёнок не освоится с более крупными числами."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 4-10"
-msgstr "Игровая встреча 40"
+msgstr "Игровая встреча 40: Стратегические Игры II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse."
+msgstr "**Фокус игровой встречи:** Это возможность глубже взглянуть на решение задач с помощью стратегических игр. Стратегическая игра - это любая игра, в которой у игроков есть выбор, который может улучшить или ухудшить исход игры."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting, comparisons, and problem solving."
+msgstr "Здесь есть счёт, сравнение, и решение задач."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+msgstr "Эти упражнения включает сложение и вычитание. Используйте пронумерованную версию Tочек и Kвадратов и записывайте двузначные числа, если ваш ребёнок готов к ним."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Overview"
+msgstr "Этап 5: Я Могу Считать до 100!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr ""
+"**Игровая встреча Этап 5: Я Могу Считать до 100!**\n"
+"\n"
+"На этом этапе счёт переходит к трёхзначным числам, превышающим 100. Понятие разрядных значений становятся всё более важным, использование развёрнутой формы записи чисел может сделать многие из них более понятными. Теперь, когда освоены сложение и вычитание однозначных чисел, пора переходить к умножению и делению однозначных чисел."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-1"
-msgstr "Игровая встреча 41"
+msgstr "Игровая встреча 41: 3-значное Разрядное Значение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them."
+msgstr "**Фокус игровой встречи:** Ваш ребёнок уже оперирует числами выше 100, и его сложение и вычитание включает двузначные числа. Практикуйтесь с двузначными и трёхзначными числами в развернутом виде и найдите с ними значение."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-2"
-msgstr "Игровая встреча 42"
+msgstr "Игровая встреча 42: Двузначное Сложение/Вычитание"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction."
+msgstr "**Фокус игровой встречи:** Используйте развёрнутую форму для практики сложения и вычитания двузначных чисел."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve two-digit addition and subtraction."
+msgstr "Эти включает в себя сложение и вычитание двузначных чисел."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-3"
-msgstr "Игровая встреча 43"
+msgstr "Игровая встреча 43: Пропускать Счёт по 2 до 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations."
+msgstr "**Фокус игровой встречи:** Практикуйте счёт с пропусками вверх и вниз на любое количество шагов, начиная с любого числа (не только кратного ему). Этот счёт с пропусками отлично подходят для практики всех четырёх операций."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with skip counting."
+msgstr "Эти требуют много практики с пропуском счёта."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-4"
-msgstr "Игровая встреча 44"
+msgstr "Игровая встреча 44: Умножение – 2, 4, 8, 5, 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy."
+msgstr "**Фокус игровой встречи:** Практикуйте устное умножение, используя удвоение для 2, 4, и 8. Практикуйте устное умножение на 5 и 10, потому что это полезно и легко."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and general multiplication practice."
+msgstr "Эти включают в себя удвоение и общую практику умножения."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-5"
-msgstr "Игровая встреча 45"
+msgstr "Игровая встреча 45: Умножение – 3, 4, 6, 9, 11"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5."
+msgstr "**Фокус игровой встречи:** Используйте идею на один больше и на один меньше, чтобы практиковать устное умножение на 3, 4, 6, 9, и 11. Например, умножение на 6 на один больше, чем умножение на 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of multiplication practice along with some mixed operation practice."
+msgstr "Эти включает в себя много практики умножения вместе с некоторой практикой смешанных операций."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-6"
-msgstr "Игровая встреча 46"
+msgstr "Игровая встреча 46: Умножение Однозначных Чисел"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!"
+msgstr "**Фокус игровой встречи:** Все детали на месте, и ваш ребёнок готов завершить освоение всех навыков умножения однозначных чисел!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+msgstr "Эти повторяют упражнение с последнего занятия и включает в себя много упражнений на умножение, а также упражнения на смешанные операции."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-7"
-msgstr "Игровая встреча 47"
+msgstr "Игровая встреча 47: Делители, Множители, и Кратные"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple."
+msgstr "**Фокус игровой встречи:** Теперь, когда ваш ребёнок освоился с умножением и делением, пора за раз развить у него понимание того, как одни числа можно делить нацело на другие. Это включает в себя изучение и практику слов: множитель, делитель, и кратные."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with factors and multiples."
+msgstr "Эти требуют много практики с факторами и множителями."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-8"
-msgstr "Игровая встреча 48"
+msgstr "Игровая встреча 48: Простые числа, Составные числа, и Степени"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power."
+msgstr "**Фокус игровой встречи:** При умножение простые числа становятся строительными блоками чисел. Помогите ребёнку развить навыки разложения на простые множители. Новые слова для этого игрового дня: простое число, составное число, единица, и степень."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+msgstr "Эти требуют много практики с умножением и делением, играя в Переворачивать Столы. Тренируйтесь в разложении на простые множители, используя их во время игры Бип."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-9"
-msgstr "Игровая встреча 49"
+msgstr "Игровая встреча 49: Семьи Фактов II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division."
+msgstr "**Фокус игровой встречи:** Практика с фактическими семьями– хороший способ углубить понимание ребенка взаимосвязи между умножением и делением."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+msgstr "Эти требуют много практики с умножением и делением, играя в Переворачивать Столы. Тренируйтесь использовать кратные числа играя с ними в Бип."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Playdate 5-10"
-msgstr "Игровая встреча 50"
+msgstr "Игровая встреча 50: Деление Однозначных Чисел"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a quick first step at practicing division with and without remainders."
+msgstr "**Фокус игровой встречи:** Это быстрый первый шаг к практике деления с остатком и без него."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and division."
+msgstr "Эти требуют много практики с умножением и делением."
 
 #. type=global
 msgctxt "global"
