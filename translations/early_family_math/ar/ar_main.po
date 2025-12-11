@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-12-10 23:55\n"
+"PO-Revision-Date: 2025-12-11 18:06\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25010,6 +25010,11 @@ msgstr "ما هو أكثر عدد من البسكويت أو الوجبات ال
 msgctxt "data_list"
 msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
 msgstr "تحدثت هذه القصة عن الكثير من الأصوات المختلفة التي يمكنك سماعها من جسدك. كم منها يمكنك أن تتذكر؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1.0 Stage 1 Introduction"
+msgstr "المرحلة 1: يمكنني سماعك!"
 
 #. type=data_list
 msgctxt "data_list"
