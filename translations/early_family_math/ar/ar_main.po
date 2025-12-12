@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-12-12 03:56\n"
+"PO-Revision-Date: 2025-12-12 04:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26162,6 +26162,85 @@ msgstr ""
 msgctxt "data_list"
 msgid "4.0 Stage 4 Introduction"
 msgstr "المرحلة 4: أستطيع العد حتى 20!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"During this Stage, your child will extend their counting to 100. As their counting develops, they need to get a solid understanding of double-digit place value. They will also come to master all their single-digit addition and subtraction facts. This is also an exciting time when multiplication by the numbers from 1 to 5 starts to be mastered.\n"
+"\n"
+"**1. Counting to 100** Count both forward and backward to solidify an understanding of these numbers.\n"
+"**2. Two-digit place value** Use expanded form to understand place value and how to compare numbers.\n"
+"**3. Finger Addition** Learn finger addition doing it the Easy Way.\n"
+"**4. Finger Subtraction** Learn finger subtraction doing it the Easy Way.\n"
+"**5. Compensation for Add and Subtract** Compensation is a useful tool for simplifying addition and subtraction calculations.\n"
+"**6. 10 as a midway point** Use 10 as a midway point for addition and subtraction.\n"
+"**7. Skip counting by 2s, 5s, 10s** Practice this skip counting going up and down, starting anywhere.\n"
+"**8. Beginning multiplying** Gently introduce the words \"multiplying\" and \"times\" to describe doubling and skip counting.\n"
+"**9. Multiplying 1-5 by 1-5** At this point, your child knows all the multiplication facts for 1 to 5.\n"
+"**10. Strategy games II** Discuss deeper ideas about strategy games."
+msgstr ""
+"خلال هذه المرحلة، ستتوسع مدارك قدرة العد لدى الطفل لتصل للرقم 100. ومع تطور قدرته على العد، سيحتاجون لفهم راسخ لقيمة الخانتين المكانية. وسيتقنون نتائج الجمع والطرح للأرقام ذات الخانة الواحدة. وعندما يبدأ بإتقان تقسيم الأرقام 1 إلى 5 سيحظى بوقت ممتع.\n"
+"\n"
+"**الخطوة 31: العد لل100** لترسخ فهم هذه الأرقام قم بالعد تصاعدياً وتنازلياً.\n"
+"**الخطوة 32: القيمة المكانية للخانتين** إستخدم الصيغة التحليلية لفهم القيمة المكانية ولكيفية مقارنة الأرقام.\n"
+"**الخطوة 33: الجمع بالأصابع** تعلم الجمع بالأصابع من خلال القيام بها بالطريقة السهلة.\n"
+"**الخطوة 34: الطرح بالأصابع** تعلم الطرح بالأصابع من خلال القيام بها بالطريقة السهلة.\n"
+"**الخطوة 35: عوض بالجمع والطرحt** إن التعويض أداة مفيدة لتبسيط عمليات الجمع والطرح الحسابية.\n"
+"**الخطوة 36: ال10 كنقطة المنتصف** إستخدم الرقم 10 كنقطة المنتصف للجمع والطرح.\n"
+"**الخطوة 37: العد القفزي ب2 و5 و 10** مارس العد القفزي صعوداً ونزولاً، ابدأ من أي رقم.\n"
+"**الخطوة 38: ابدأ بالضرب**عَرِف الكلمات \"ضرب\" و \"كلمات\" بلطافة حتى تصف المضاعفة والعد القفزي.\n"
+"**الخطوة 39: إضرب 1-5 ب 1-5** عند هذه النقطة، سيعرف طفلك نتائج المضاعفة للأرقام 1 إلى 5. \n"
+"**الخطوة 40: ألعاب الإستراتيجية II** ناقش الأفكار الأعمق حول ألعاب الإستراتيجية."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.1 Counting to 100"
+msgstr "الخطوة 31: العد لل 100"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.2 Two-Digit Place Value"
+msgstr "الخطوة 32: القيمة المكانية للرقمين"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.3 Finger Addition The Easy Way"
+msgstr "الخطوة 33: الإضافة بالأصابع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.4 Finger Subtraction The Easy Way"
+msgstr "الخطوة 34: الطرح بالأصابع"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.5 Compensation for Add and Subtract"
+msgstr "الخطوة 35: التعويض في الجمع والطرح"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.6 10 as a Midway Point"
+msgstr "الخطوة 36: 10 كنقطة وسطى"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.7 Skip Counting by 2's, 5's, and 10's"
+msgstr "الخطوة 37: العد التخطي بالـ 2، الـ 5، الـ 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.8 Beginning Multiplying"
+msgstr "الخطوة 38: بداية الضرب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.9 Multiplying 1-5 by 1-5"
+msgstr "الخطوة 39: الضرب 1-5 ب 1-5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.10 Strategy Games II"
+msgstr "الخطوة 40: الألعاب الاستراتيجية II"
 
 #. type=data_list
 msgctxt "data_list"
