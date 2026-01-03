@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-03 19:44\n"
+"PO-Revision-Date: 2026-01-03 21:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25809,6 +25809,11 @@ msgstr ""
 "**자연스러운 상황에서 써 보세요:** 거꾸로 세기가 자연스러운 순간이 정말 많아요. 타이머가 10초 남았을 때 함께 10부터 내려가며 세어 볼 수 있고, “세 번만 더 할 수 있어”라고 말한 뒤 3부터 1까지 함께 세어 볼 수도 있어요.\n"
 "\n"
 "**0도 함께 세어 보세요:** 거꾸로 셀 때 0을 포함하는 것은 자연스럽고, 또 좋은 습관이에요. 남은 시간을 세면 0이 되었을 때 “0초 남음”이 되죠. 음식 조각을 몇 개 더 먹을 수 있는지 세면 0이 되었을 때 “남은 게 없음”이 돼요. 0을 ‘정상적인 수량’으로 자연스럽게 다루도록 도와주는 것이 좋아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2.3 Comparing Small Quantities"
+msgstr "학습 스텝 13: 작은 수량 비교하기"
 
 #. type=data_list
 msgctxt "data_list"
