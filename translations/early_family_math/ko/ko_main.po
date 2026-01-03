@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-10-17 23:45\n"
+"PO-Revision-Date: 2026-01-03 05:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25320,6 +25320,11 @@ msgstr "여러분은 한꺼번에 다 먹어버린 쿠키나 간식이 있나요
 msgctxt "data_list"
 msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
 msgstr "여기 이야기는 여러분의 몸에서 나는 여러가지 소리에 대해 이야기하고 있습니다. 여러분은 몇 개나 기억하고 있나요?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1.0 Stage 1 Introduction"
+msgstr "1단계: 말소리가 들려요!"
 
 #. type=data_list
 msgctxt "data_list"
