@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-03 16:54\n"
+"PO-Revision-Date: 2026-01-03 18:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25715,6 +25715,11 @@ msgstr ""
 "* 상자(정육면체)\n"
 "\n"
 "**직접 만지며 해요:** 아이가 이런 도형을 가진 물건을 가지고 놀 때, 도형 이름을 써서 설명해 주세요. 서로 어떻게 맞물리는지, 위에 어떻게 쌓이는지 직접 보게 해 주세요. 밖에서 도형을 발견할 때도 “이건 어떤 도형일까?” 하며 함께 찾아보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2.0 Stage 2 Introduction"
+msgstr "2단계: 5까지 셀 수 있어요!"
 
 #. type=data_list
 msgctxt "data_list"
