@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-03 06:52\n"
+"PO-Revision-Date: 2026-01-03 15:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25561,6 +25561,39 @@ msgstr ""
 "**수량 이해하기:** 어른에게는, 예를 들어 조약돌 4개를 “1, 2, 3, 4”라고 세면 마지막 숫자 4가 ‘전체 개수’라는 것이 너무 당연해요. 하지만 아이는 세기와 수량에 대해 여러 가지를 동시에 배우고 있어요. ‘수량’ 자체를 이해하고, 물건 하나에 숫자 하나를 대응시키는 법(1대1 대응)을 배우고, 어떤 순서로 세든 개수는 같다는 것도 배우고, 마지막 숫자가 전체 개수라는 규칙도 배워요. 어른에게는 당연한 일들이지만 아이에게는 큰 배움이에요. 조급해하지 말고, 서두를 필요가 없다는 걸 기억해 주세요.\n"
 "\n"
 "**무엇이든 세어 봐요:** 세어 볼 수 있는 것은 정말 많아요. 의자, 짧은 거리를 갈 때의 걸음 수, 음식, 줄에 서 있는 사람, 모여 있는 사람, 방이나 식탁 주변의 가구, 팔과 다리 등 뭐든지요. 내가 속으로 세고 있는 것이 있다면, 아이 앞에서 소리 내어 세어 보세요. 그리고 가끔은 거꾸로도 세고, 0도 포함해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1.6 Math Talk – Point, Describe, Ask"
+msgstr "학습 스텝 6: 수학 이야기 - 가리키기, 설명하기, 묻기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Responding:** Once your child is able to respond to what you say, that will allow you to start asking questions. Your \"Point and Describe\" Math Talk will now become Point, Describe, and Ask. Even before your child can say words, they will start to respond nonverbally to you as they begin to make sense of your words.\n"
+"\n"
+"**Ask questions:** Use this new level of communication to make it clearer which ideas your child understands. \"Where is the bird?\" or \"Where is the ball? makes it clear if your child knows what a bird or ball is. Similarly, \"Point to the tree.\" or \"Point to a car.\" works for those two concepts.\n"
+"\n"
+"**Handling mistakes:** Ask all kinds of questions. Ask which of two things is bigger or smaller. Ask where you are walking to. Ask where something belongs. All these questions are opportunities for your child to express their understanding and for you to clear up any misconceptions. If your child points to the wrong thing or picks up the wrong thing, simply point out the right thing and don't try to explain their mistake to them.\n"
+"\n"
+"**Do this while reading:** Now you can add asking questions to your pointing and describing as you read a story. Point to pictures in the story and ask the same questions you would ask about the things around you.\n"
+"\n"
+"**Simple riddles:** Play games with your child's new skill and have fun with it. Have fun unraveling puzzles together such as: \"There is something red under something blue. Where is it?\""
+msgstr ""
+"**반응하기:** 아이가 우리의 말에 반응할 수 있게 되면, 질문을 시작할 수 있어요. 그동안 해 왔던 “가리키고 설명하기” 수학 대화가 이제 “가리키고, 설명하고, 질문하기”로 확장돼요. 아이가 아직 말을 못하더라도, 말이 의미를 갖기 시작하면 몸짓으로도 반응을 보여 주기 시작해요.\n"
+"\n"
+"**질문해 보세요:** 이 새로운 소통 수준을 활용하면, 아이가 어떤 개념을 이해하고 있는지 더 분명하게 알 수 있어요. “새는 어디 있어?” “공은 어디 있어?” 같은 질문은 아이가 ‘새’나 ‘공’을 알고 있는지 확인해 줘요. “나무를 가리켜 볼래?” “자동차를 가리켜 볼래?” 같은 말도 같은 방식으로 사용할 수 있어요.\n"
+"\n"
+"**실수 다루기:** 여러 가지 질문을 해 보세요. 두 개 중에 무엇이 더 큰지, 더 작은지 묻고, 어디로 걸어가는지 묻고, 물건이 어디에 있어야 하는지 물어보세요. 이런 질문은 아이가 이해를 표현할 기회가 되고, 우리가 오해를 바로잡을 기회가 돼요. 아이가 엉뚱한 것을 가리키거나 잘못 집으면, 그냥 올바른 것을 가리켜 주면 돼요. 아이의 실수를 길게 설명하려고 하지 않아도 괜찮아요.\n"
+"\n"
+"**책을 읽을 때도 해요:** 이제 책을 읽을 때도, 가리키고 묘사하는 것에 질문을 더할 수 있어요. 이야기 속 그림을 가리키며, 주변 사물에 하던 질문을 똑같이 해 보세요.\n"
+"\n"
+"**간단한 수수께끼:** 아이가 새로 익힌 능력으로 놀이를 해 보세요. 예를 들어 “파란 것 아래에 빨간 것이 하나 있어. 어디 있을까?” 같은 퍼즐을 함께 풀며 즐길 수 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1.7 Object Properties"
+msgstr "학습 스텝 7: 개체 속성"
 
 #. type=data_list
 msgctxt "data_list"
