@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-04 04:22\n"
+"PO-Revision-Date: 2026-01-04 05:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28101,8 +28101,189 @@ msgstr "**놀이 주제:** 계속해서 수학 대화로 사물을 가리키고 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This looks at how clothes can be too big or too small."
+msgstr "이 책은 옷이 너무 크거나 너무 작을 때를 보여 줘요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These practice shapes and descriptions."
+msgstr "이 활동들은 모양을 익히고, 말로 묘사하는 연습을 해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-3"
+msgstr "수학 놀이 3: 수학 대화 - 밖에서"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child."
+msgstr "**놀이 주제:** 어디를 가든 주변에 있는 수학을 찾아서 말해 보세요. 수학 대화로 그 이야기를 아이와 함께 나눠요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This talks about speed, colors, and small counting."
+msgstr "이 책은 속도, 색, 그리고 작은 수 세기를 다뤄요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve descriptions of places and objects, and also the following of directions."
+msgstr "이 활동들은 장소와 사물을 묘사하고, 간단한 방향을 따라가는 연습도 포함해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-4"
+msgstr "수학 놀이 4: 수학 대화 - 묘사하고 비교하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Math is not just counting – math is also about properties and relationships. This should be brought out in your Math Talk."
+msgstr "**놀이 주제:** 수학은 세기만이 아니에요. 속성과 관계에 대한 것도 수학이에요. 수학 대화에서 이 점이 드러나게 해 주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The storybook talks about colors, shapes, and spatial relationships."
+msgstr "이 책은 색, 모양, 그리고 위치 관계를 다뤄요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve properties of objects and how those properties can create patterns."
+msgstr "이 활동들은 사물의 속성과, 그 속성이 어떻게 패턴을 만들 수 있는지를 다뤄요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-5"
+msgstr "수학 놀이 5: 수학 대화 - 수 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use counting in your Math Talk. Count everything you come across."
+msgstr "**놀이 주제:** 수학 대화에 ‘세기’도 넣어 보세요. 마주치는 것을 무엇이든 함께 세어 봐요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This involves counting and the ideas of one more and one less."
+msgstr "이 책은 세기와 ‘하나 더, 하나 덜’ 같은 생각을 다뤄요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve quantities of objects and building with various shapes."
+msgstr "이 활동들은 물건의 수량을 살펴보고, 여러 가지 모양으로 만들어 보는 놀이예요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-6"
+msgstr "수학 놀이 6: 수학 대화 - 가리키고 묘사하고 질문하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions."
+msgstr "**놀이 주제:** 아이가 내 말과 질문에 반응할 수 있게 되면, 수학 대화도 달라져요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story."
+msgstr "이 책은 5까지 세기와 관계를 나타내는 말을 담고 있어요. 이제 그 말을 이용해 이야기 속 상황을 아이에게 물어볼 수 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve describing things and finding properties that make things similar or different."
+msgstr "이 활동들은 사물을 묘사하고, 무엇이 비슷하거나 다른지 만드는 속성을 찾아봐요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-7"
+msgstr "수학 놀이 7: 사물의 속성"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Continue to emphasize words that describe properties and relationships."
+msgstr "**놀이 주제:** 속성과 관계를 설명하는 말을 계속 강조해 주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has relative sizes and shapes."
+msgstr "이 책에는 상대적인 크기와 모양이 나와요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve using properties to compare things and find patterns."
+msgstr "이 활동들은 속성을 이용해 비교해 보고, 패턴을 찾아보는 연습을 해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-8"
+msgstr "수학 놀이 8: 같은 점과 다른 점"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is centered on what makes objects the same and different."
+msgstr "**놀이 주제:** 이 수학 놀이는 ‘무엇이 같고 무엇이 다른지’에 초점을 맞춰요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, colors, relationships, and counting up to 5."
+msgstr "이 책에는 모양, 색, 관계를 나타내는 말, 그리고 5까지 세기가 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve grouping things with the same property."
+msgstr "이 활동들은 같은 속성을 가진 것끼리 모아 보는 연습을 해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-9"
+msgstr "수학 놀이 9: 패턴"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics."
+msgstr "**놀이 주제:** 사물의 속성을 이용해 패턴을 만들어 보세요. 패턴은 수학의 핵심이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This talks about the daily feeding of hungry animals."
+msgstr "이 책은 배고픈 동물들에게 매일 먹이를 주는 이야기를 담고 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve properties and finding patterns involving those properties."
+msgstr "이 활동들은 사물의 속성을 살피고, 그 속성으로 패턴을 찾아보는 놀이예요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-10"
+msgstr "수학 놀이 10: 기본 도형 I"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions."
+msgstr "**놀이 주제:** 기본 도형을 이야기하고, 이름과 설명을 함께 강조해 주세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "his has shapes on every page."
+msgstr "이 책은 거의 모든 페이지에 도형이 나와요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These continue the ongoing discussions about properties and patterns."
+msgstr "이 활동들은 속성과 패턴에 대한 대화를 계속 이어 가요."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Stage 2 Overview"
 msgstr "2단계: 5까지 셀 수 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 2 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"아이는 5까지 세는 것을 익혔고, 숫자를 ‘수량’으로 이해하기 시작했어요. 또한 사물에는 여러 속성이 있고, 그 속성을 기준으로 비교하고 대조할 수 있다는 것도 알기 시작해요.\n"
+"\n"
+"이 단계에서는 10까지 세기를 익히고, 작은 수의 덧셈과 뺄셈을 시작해요. 또 작은 수량의 크기를 더 잘 가늠하게 돼요."
 
 #. type=data_list
 msgctxt "data_list"
