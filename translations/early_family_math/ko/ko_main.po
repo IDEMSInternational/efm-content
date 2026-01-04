@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-04 15:33\n"
+"PO-Revision-Date: 2026-01-04 19:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28698,6 +28698,156 @@ msgid ""
 "\n"
 "The Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
 msgstr "이 단계에서는 아이의 세기가 100까지로 확장돼요. 두 자리 수의 자릿값을 본격적으로 익히고, 한 자리 수 덧셈과 뺄셈 사실도 더 탄탄해져요. 또 1~5 범위의 곱셈도 처음으로 본격 연습하기 시작하는 시기예요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-1"
+msgstr "수학 놀이 31: 100까지 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10."
+msgstr "**놀이 주제:** 아이와 함께 100까지 오르내리며 세어 보세요. 특히 10의 배수에서 십의 자리가 바뀌는 구간을 집중해서 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes, counting, and groupings of objects."
+msgstr "이 책에는 도형, 세기, 그리고 물건을 묶어 보는 장면이 많이 나와요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
+msgstr "이 활동들은 숫자를 순서대로 놓고 비교하는 연습을 해요. ‘난 숫자를 생각하고 있어’ 게임에서는 100까지의 숫자를 사용해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-2"
+msgstr "수학 놀이 32: 두 자리 수의 자릿값"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers."
+msgstr "**놀이 주제:** 전개형과 두 자리 수의 자릿값을 이용해 숫자의 의미를 이해해 보세요. 전개형과 자릿값을 활용하면 숫자를 비교하기도 쉬워져요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 20, descriptions, and shapes."
+msgstr "이 책에는 20까지 세기, 묘사하기, 도형이 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing games."
+msgstr "이 활동들은 숫자를 순서대로 놓고 비교하는 게임이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-3"
+msgstr "수학 놀이 33: 손가락 덧셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier."
+msgstr "**놀이 주제:** 손가락과 이어 세기를 함께 쓰면 어떤 수에 한 자리 수를 더하는 게 쉬워져요. 또 보완 전략(맞춰서 계산하기)을 쓰면 일부 덧셈 문제를 훨씬 쉽게 풀 수 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, quantities, and speeds."
+msgstr "이 책에는 도형, 수량, 속도가 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of addition and subtraction, and some practice with number bonds."
+msgstr "이 활동들은 덧셈과 뺄셈을 많이 연습하고, 숫자 결합 연습도 조금 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-4"
+msgstr "수학 놀이 34: 손가락 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number."
+msgstr "**놀이 주제:** 손가락을 쓰면 한 자리 수를 빼는 것이 쉬워져요. 두 수의 차이가 한 자리 수인 경우도 손가락으로 쉽게 다룰 수 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and polygons (many-sided flat shapes)."
+msgstr "이 책에는 도형이 많이 나오고, 다각형(변이 여러 개인 평면 도형)도 많이 나와요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with addition and subtraction."
+msgstr "이 활동들은 덧셈과 뺄셈을 많이 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-5"
+msgstr "수학 놀이 35: 보완 전략(맞춰서 계산하기)으로 덧셈·뺄셈하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier."
+msgstr "**놀이 주제:** 보완 전략(맞춰서 계산하기)을 쓰면 덧셈과 뺄셈이 훨씬 쉬워져요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting of groups and lots of comparison words."
+msgstr "이 책에는 묶음 세기와 비교 표현이 많이 나와요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding and subtracting, as well as a little bit of probability."
+msgstr "이 활동들은 덧셈과 뺄셈을 연습하고, 확률을 아주 조금 맛보는 내용도 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-6"
+msgstr "수학 놀이 36: 10을 중간 지점으로 삼기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships."
+msgstr "**놀이 주제:** 덧셈과 뺄셈을 할 때 10을 중간 지점으로 삼으면 암산이 훨씬 쉬워져요. 숫자 관계도 더 잘 보이게 돼요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and number properties."
+msgstr "이 책에는 건너뛰어 세기와 수의 성질이 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding, subtracting, and number bonds."
+msgstr "이 활동들은 덧셈, 뺄셈, 숫자 결합을 함께 다뤄요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-7"
+msgstr "수학 놀이 37: 2, 5, 10 씩 건너뛰어 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value."
+msgstr "**놀이 주제:** 2씩, 5씩, 10씩 건너뛰어 세기를 연습해 보세요. 어디서든 시작해서 위로도 아래로도 세어 봐요. 이런 연습은 덧셈, 뺄셈, 곱셈, 나눗셈에도 도움이 돼요. 10씩 건너뛰어 세기는 자릿값 이해에도 특히 좋아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 14 and skip counting."
+msgstr "이 책에는 14까지 세기와 건너뛰어 세기가 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve place value and simple additions with two-digit numbers."
+msgstr "이 활동들은 자릿값과 두 자리 수의 간단한 덧셈을 다뤄요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-8"
+msgstr "수학 놀이 38: 곱셈 시작하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it."
+msgstr "**놀이 주제:** 두 배 만들기와 반으로 나누기를 활용해서, ‘곱셈’과 ‘나눗셈’이라는 말을 부담 없이 자연스럽게 써 보세요."
 
 #. type=data_list
 msgctxt "data_list"
