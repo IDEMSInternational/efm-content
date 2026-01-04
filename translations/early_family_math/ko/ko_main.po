@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-04 19:42\n"
+"PO-Revision-Date: 2026-01-04 20:00\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25593,7 +25593,43 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "1.7 Object Properties"
-msgstr "학습 스텝 7: 개체 속성"
+msgstr "학습 스텝 7: 사물의 속성"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Your child responds!:** All the pointing, describing, and asking you have been doing with your child has established that things have properties that can be discussed and reasoned with. You have been building up a vocabulary of words and concepts for describing things. It is time to start making more use of them.\n"
+"\n"
+"**Ask for things with a specific property:** Practice using properties by asking your child to bring you something with that property. You could ask \"Please bring me something that is red.\" for example. As your child gets better at this, make the requests more complicated by combining more than one property – \"Find a round wooden thing.\"\n"
+"\n"
+"**Grouping things with a property:** Practice grouping things with the same property. If your child has a collection of objects, ask to have all the round things put to one side."
+msgstr ""
+"**아이가 이렇게 반응해요:** 지금까지 아이와 함께 가리키고, 묘사하고, 질문해 온 과정 덕분에 “물건에는 이야기하고 생각해 볼 수 있는 특징이 있다”는 것을 아이가 조금씩 배워 왔어요. 우리는 물건을 설명하는 단어와 개념의 어휘를 차근차근 쌓아 왔고요. 이제는 그 단어들을 더 적극적으로 써 볼 때예요.\n"
+"\n"
+"**특정한 특징이 있는 물건을 부탁해 보세요:** “특징”을 실제로 써 보는 연습을 해 보세요. 아이에게 그 특징을 가진 물건을 가져오라고 부탁하는 거예요. 예를 들어 “빨간색인 것 하나 가져와 줄래?”라고 말할 수 있어요. 아이가 익숙해지면, 특징을 두 가지 이상 묶어서 더 어렵게 해 보세요. 예를 들면 “동그랗고 나무로 된 것 찾아줘.”처럼요.\n"
+"\n"
+"**같은 특징끼리 모아 보기:** 같은 특징을 가진 물건들을 모아 보는 연습도 해 보세요. 아이에게 물건 모음이 있다면, “동그란 것들만 이쪽에 모아 볼까?”처럼 같은 특징끼리 한쪽으로 모아 달라고 해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**A circle for each property:** Make this more visible by drawing a big circle and having all the things that have a particular property put in that circle. For example, you could have all the things with a hole in them put in the circle. As this becomes easy for your child, use two circles that overlap – one circle could be for triangles, the other for things with holes, and the common area to the two circles would be for triangles with holes."
+msgstr "**특징마다 원을 하나씩:** 큰 원을 하나 그려 놓고, 특정한 특징이 있는 물건들을 그 원 안에 넣어 보게 하면 더 눈에 잘 보여요. 예를 들어, “구멍이 있는 것”을 모두 원 안에 넣어 볼 수 있어요. 이게 쉬워지면, 두 개의 원을 겹치게 그려 보세요. 한 원은 “삼각형”, 다른 원은 “구멍이 있는 것”으로 하고, 두 원이 겹치는 부분에는 “구멍이 있는 삼각형”을 넣는 식이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Which one doesn't belong?:** A fun activity for practicing with proper- ties is to show your child a small set of objects and ask which of them doesn't belong. Challenge your child to identify the object that is not like the others and to explain why. Accept any reason that makes sense; your child may have an unusual reason.\n"
+"\n"
+"For example, you could have pictures of some animals. Perhaps only one of them can fly. Maybe only one of them has two legs. This ac- tivity can provide fun challenges that let your child do some creative thinking with new concepts."
+msgstr ""
+"**이들 중 하나는 다른 것들과 같지 않아요:** 특징을 연습하기 좋은 재미있는 활동은, 물건 몇 개를 보여 주고 그중 “어떤 것이 다른지”를 묻는 거예요. 다른 것들과 닮지 않은 물건을 찾아 보게 하고, 왜 그렇게 생각했는지도 설명하게 해 보세요. 말이 되는 이유라면 무엇이든 받아 주세요. 아이가 예상치 못한 이유를 댈 수도 있어요.\n"
+"\n"
+"예를 들어 동물 그림 몇 장을 준비해 보세요. 그중 하나만 날 수 있을 수도 있고, 하나만 다리가 두 개일 수도 있죠. 이런 활동은 아이가 새로운 개념을 가지고 창의적으로 생각해 볼 수 있게 해 주는 재미있는 도전이 될 수 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1.8 Same and Different"
+msgstr "학습 스텝 8: 같은 점과 다른 점"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28851,8 +28887,211 @@ msgstr "**놀이 주제:** 두 배 만들기와 반으로 나누기를 활용해
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This has skip counting and shapes."
+msgstr "이 책에는 건너뛰어 세기와 도형이 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+msgstr "이 활동들은 두 배 만들기, 두 자리 수에 한 자리 수를 더하거나 빼기, 그리고 자릿값을 함께 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-9"
+msgstr "수학 놀이 39: 1~5의 곱셈 배우기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
+msgstr "**놀이 주제:** 1부터 5까지 어떤 두 수를 골라도 아이와 함께 암산으로 곱해 보세요. 이게 곱셈을 마스터하는 첫걸음이에요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and colors."
+msgstr "이 책에는 건너뛰어 세기, 도형, 색이 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+msgstr "이 활동들은 덧셈, 뺄셈, 곱셈을 함께 연습해요. ‘조각을 같이 조립하기’ 게임에는 세 가지 연산이 모두 들어갈 수 있어요. ‘전쟁 - 곱셈’은 아이가 더 큰 수에 익숙해지기 전에는 1부터 5까지 카드만 사용하는 것이 좋아요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-10"
+msgstr "수학 놀이 40: 전략 게임 II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse."
+msgstr "**놀이 주제:** 전략 게임을 통해 문제 해결을 더 깊게 들여다볼 수 있는 기회예요. 전략 게임은 선택에 따라 결과가 더 좋아지거나 더 나빠질 수 있는 모든 게임을 말해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting, comparisons, and problem solving."
+msgstr "이 책에는 세기, 비교하기, 문제 해결이 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+msgstr "이 활동들은 덧셈과 뺄셈을 연습해요. ‘점과 상자’는 숫자가 적힌 버전을 써 보세요. 아이가 준비되었다면 두 자리 수도 써 볼 수 있어요."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Stage 5 Overview"
 msgstr "5단계: 100까지 셀 수 있어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr "이 단계에서는 세기가 세 자리 수로 확장돼요. 자릿값 개념이 더 중요해지고, 전개형으로 생각하는 연습이 도움이 돼요. 이제는 한 자리 수 곱셈과 나눗셈을 배울 시기예요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-1"
+msgstr "수학 놀이 41: 세 자리 수의 자릿값"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them."
+msgstr "**놀이 주제:** 아이의 숫자가 100을 넘어가기 시작해요. 이제 두 자리 수와 세 자리 수의 전개형과 자릿값을 함께 연습해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-2"
+msgstr "수학 놀이 42: 두 자리 수의 덧셈과 뺄셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction."
+msgstr "**놀이 주제:** 전개형을 활용해서 두 자리 수 덧셈과 뺄셈을 연습해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve two-digit addition and subtraction."
+msgstr "이 활동들도 두 자리 수 덧셈과 뺄셈을 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-3"
+msgstr "**놀이 주제:** 수학 놀이 43: 2~10 씩 건너뛰어 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations."
+msgstr "2~10처럼 원하는 간격을 정해서, 위로도 아래로도 건너뛰어 세기를 연습해 보세요. 시작 숫자는 어디에서든 잡아도 돼요. 건너뛰어 세기는 사칙연산 모두에 아주 좋은 연습이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with skip counting."
+msgstr "이 활동들은 건너뛰어 세기를 충분히 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-4"
+msgstr "수학 놀이 44: 곱셈 - 2, 4, 8, 5, 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy."
+msgstr "**놀이 주제:** 2, 4, 8은 ‘두 배’ 생각으로 암산 곱셈을 연습해 보세요. 5와 10으로 곱하는 것도 자주 쓰이고 쉽기 때문에 꼭 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and general multiplication practice."
+msgstr "이 활동들은 두 배 만들기와 일반 곱셈 연습을 포함해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-5"
+msgstr "수학 놀이 45: 곱셈 - 3, 4, 6, 9, 11"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5."
+msgstr "**놀이 주제:** ‘하나 더하기’와 ‘하나 빼기’ 아이디어를 활용해서 암산 곱셈을 연습해 보세요. 예를 들어 6을 곱하는 것은 5를 곱한 것에서 한 번 더한 것처럼 생각할 수 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of multiplication practice along with some mixed operation practice."
+msgstr "이 활동들은 곱셈을 많이 연습하면서, 다른 연산도 섞어서 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-6"
+msgstr "수학 놀이 46: 한 자리 수 곱셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!"
+msgstr "**놀이 주제:** 이제 준비가 다 됐어요. 아이가 한 자리 수 곱셈을 완전히 마무리할 준비가 되었어요!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+msgstr "이 활동들은 바로 앞 수학 놀이에서 했던 내용을 다시 한 번 해요. 곱셈을 충분히 연습하고, 다른 연산도 섞어 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-7"
+msgstr "수학 놀이 47: 약수, 인수, 배수"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple."
+msgstr "**놀이 주제:** 아이의 곱셈과 나눗셈이 익숙해지기 시작했어요. 이제 어떤 수가 다른 수로 나누어 떨어지는지 살펴볼 차례예요. 이때 약수, 인수, 배수라는 말을 배우고 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with factors and multiples."
+msgstr "이 활동들은 인수와 배수를 많이 연습해요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-8"
+msgstr "수학 놀이 48: 소수, 합성수, 거듭제곱"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power."
+msgstr "**놀이 주제:** 곱셈을 이용하면 소수는 수를 이루는 기본 재료예요. 아이가 소인수분해를 잘 이해할 수 있도록 도와주세요. 이 수학 놀이에서 새로 만나는 말은 소수, 합성수, 단위수(1), 거듭제곱이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+msgstr "이 활동들은 곱셈과 나눗셈을 많이 연습해요. 삐삐를 할 때는 소인수분해를 활용해 연습해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-9"
+msgstr "수학 놀이 49: 연산 묶음 II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division."
+msgstr "**놀이 주제:** 연산 묶음으로 연습하면 곱셈과 나눗셈이 서로 연결되어 있다는 점을 더 깊이 이해하는 데 도움이 돼요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+msgstr "이 활동들은 곱셈과 나눗셈을 많이 연습해요. 곱셈표를 돌리기에서는 곱셈과 나눗셈의 성질을 연습할 수 있어요. 삐삐를 할 때는 배수를 활용해 연습해 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-10"
+msgstr "수학 놀이 50: 한 자리 수 나눗셈"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a quick first step at practicing division with and without remainders."
+msgstr "**놀이 주제:** 나머지가 있는 나눗셈과 없는 나눗셈을 연습하는 빠른 첫걸음이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and division."
+msgstr "이 활동들은 곱셈과 나눗셈을 많이 연습해요."
 
 #. type=global
 msgctxt "global"
