@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-04 05:22\n"
+"PO-Revision-Date: 2026-01-04 06:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28284,6 +28284,46 @@ msgstr ""
 "아이는 5까지 세는 것을 익혔고, 숫자를 ‘수량’으로 이해하기 시작했어요. 또한 사물에는 여러 속성이 있고, 그 속성을 기준으로 비교하고 대조할 수 있다는 것도 알기 시작해요.\n"
 "\n"
 "이 단계에서는 10까지 세기를 익히고, 작은 수의 덧셈과 뺄셈을 시작해요. 또 작은 수량의 크기를 더 잘 가늠하게 돼요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-1"
+msgstr "수학 놀이 11: 0과 1부터 차례대로 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction."
+msgstr "**놀이 주제:** 1부터 세어 보고, 가끔은 0에서 시작해 보세요. 이것은 수량을 이해하는 기초가 되고, 덧셈과 뺄셈을 시작하는 데도 도움이 돼요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors."
+msgstr "이 책에는 0부터 9까지 세기가 들어 있고, ‘가장 작다/가장 크다’, ‘하나 더/하나 덜’, 색깔도 함께 나와요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
+msgstr "한 활동은 ‘예외’라는 생각을 소개해요. 다른 활동은 두 사람이 함께 하는 ‘삼각형 만들기’ 전략 게임이에요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-2"
+msgstr "수학 놀이 12: 1과 0까지 거꾸로 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction."
+msgstr "**놀이 주제:** 1까지 거꾸로 세고, 가끔은 0에서 끝나게 해 보세요. 이렇게 거꾸로 세는 연습은 숫자 순서를 더 깊게 이해하게 해 주고, 뺄셈에도 도움이 돼요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has the numbers from 1 to 7. It also has color descriptions on every page."
+msgstr "이 책에는 1부터 7까지 숫자가 나오고, 모든 페이지에 색깔 묘사가 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
+msgstr "이 활동들은 세기와 작은 수량을 많이 다뤄요. 그중 한 활동에는 1과 2를 더하거나 빼는 내용도 들어 있어요."
 
 #. type=data_list
 msgctxt "data_list"
