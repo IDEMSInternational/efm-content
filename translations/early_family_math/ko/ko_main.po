@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-04 06:22\n"
+"PO-Revision-Date: 2026-01-04 14:32\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28324,6 +28324,36 @@ msgstr "이 책에는 1부터 7까지 숫자가 나오고, 모든 페이지에 �
 msgctxt "data_list"
 msgid "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
 msgstr "이 활동들은 세기와 작은 수량을 많이 다뤄요. 그중 한 활동에는 1과 2를 더하거나 빼는 내용도 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-3"
+msgstr "수학 놀이 13: 작은 수량 비교하기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Understand strategies for comparing small numbers and quantities."
+msgstr "**놀이 주제:** 작은 수와 수량을 비교하는 방법을 익혀 보세요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under."
+msgstr "이 책에는 1부터 10까지 세기와 함께, 관계를 나타내는 말(너무 크다/너무 작다 등)과 위치를 나타내는 말(위/아래 등)도 들어 있어요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve  discovering shapes for quantities and playing with the order of numbers."
+msgstr "이 활동들은 수량을 ‘모양’으로 발견해 보고, 숫자의 순서도 놀이로 다뤄요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-4"
+msgstr "수학 놀이 14: 이어 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition."
+msgstr "**놀이 주제:** ‘이어 세기’라는 생각을 소개해요. 이어 세기는 수량을 이해하는 데 큰 도움이 되고, 덧셈의 기초를 만들어 줘요."
 
 #. type=data_list
 msgctxt "data_list"
