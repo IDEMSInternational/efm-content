@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Korean\n"
 "\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-01-04 01:22\n"
+"PO-Revision-Date: 2026-01-04 03:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26442,6 +26442,43 @@ msgstr ""
 "**학습 스텝 38: 곱셈 시작하기** 두 배와 건너뛰어 세기를 설명할 때 ‘곱하기’, ‘몇 배’ 같은 말을 자연스럽게 소개해요.\n"
 "**학습 스텝 39: 1~5의 곱셈 배우기** 이 시점이면 아이는 1~5 곱셈 사실을 모두 익힐 준비가 되어 있어요.\n"
 "**학습 스텝 40: 전략 게임 II** 전략 게임을 하며 한 걸음 더 깊은 생각을 나눠 봐요."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.1 Counting to 100"
+msgstr "학습 스텝 31: 100까지 세기"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**10's:** When your child's counting extends from 20 up to 100, the hard parts are the changes in 10's. Those are the parts to give special support and practice. Once your child knows the sequence of the 10's, it is usually very easy for them to fill in the changes in 1's. For example, they will quickly learn to count \"70, 71, 72, 73, 74, 75, 76, 77, 78, 79.\"\n"
+"\n"
+"**Skip count by 10's:** When your child gets stuck counting between 1 and 100, it is usually at a transition in 10's. Typical questions to help your child get unstuck are: \"What comes next after the 60's?\" or \"What comes before the 50's?\" Practice skip counting by 10's to help with this. If your child can produce the 10's from 0 to 100 forward and backward, then they will be ready to answer those questions about which 10's come next or before.\n"
+"\n"
+"**Use objects:** Make this counting have more meaning by practicing it using a large group of small objects, such as pebbles. Gather together 100 of these objects and put them in a big pile off to the side. As your child counts up from one, pull over one object at a time with each number and include it in the current group of objects. Each time a group of ten objects is formed, put that group together in a special tens area. As the numbers increase, the tens area will have more and more groups of tens. By the time your child is in the 50's, there should be five groups of ten and a small collection of left over ones.\n"
+"\n"
+"You can also do this practice in reverse by starting with ten groups of tens and then taking away one at a time as your child counts down from 100.\n"
+"\n"
+"**Count both directions:** Children often become really good counting quickly and automatically upward from 1 to 100, but then have trouble counting in the opposite direction. Counting from 100 to 1 forces more thought about the 10's transitions and helps with understanding the numbers better in general.\n"
+"\n"
+"**100 number chart:** Having a ten by ten 100 number chart going from 1 to 100, or from 0 to 99, will help your child see the pattern of the numbers. It will make it particularly clear how the tens place stays the same for ten numbers and the ones place keeps changing."
+msgstr ""
+"**십의 자리 바뀌는 구간:** 아이가 세기를 20에서 100으로 확장할 때 가장 어려운 부분은 ‘십의 자리’가 바뀌는 지점이에요. 이 구간을 의식해서 연습하면, 아이는 금방 “70, 71, 72, 73, 74, 75, 76, 77, 78, 79” 같은 수열을 자연스럽게 이어서 말할 수 있게 돼요.\n"
+"\n"
+"**10씩 건너뛰어 세기:** 1부터 100까지 세다가 막히는 아이는 ‘10씩 건너뛰어 세기’가 도움이 될 때가 많아요. 0부터 100까지 10씩 앞뒤로 세어 보는 연습을 하면, “60 다음에는 몇 십이지?” 같은 십의 자리 변화 질문에도 더 잘 답할 수 있게 돼요.\n"
+"\n"
+"**사물로 연습하기:** 세기가 ‘말’로만 느껴지지 않도록, 조약돌 같은 작은 물건을 많이 모아 연습해 보세요. 10개씩 묶어 “십 묶음”을 만들고, 남는 것은 “일”로 남겨 보세요. 예를 들어 50까지 세고 나면, 10개 묶음이 5개이고 남는 것이 몇 개 있는지 눈으로 확인할 수 있어요.\n"
+"\n"
+"이 연습은 거꾸로도 할 수 있어요. 10개씩 묶음 10개(=100)를 만들어 놓고, 하나씩 빼면서 100에서 내려오며 세어 보세요.\n"
+"\n"
+"**양방향으로 세기:** 아이들은 1부터 100까지 빠르게 세는 데 익숙해질 수 있지만, 거꾸로 세기는 더 어려워하는 경우가 많아요. 100에서 1까지 거꾸로 세는 연습을 하면 십의 자리 변화에 대한 이해가 깊어지고, 숫자 전체를 더 잘 이해하는 데도 도움이 돼요.\n"
+"\n"
+"**100 숫자표 활용하기:** 1부터 100까지(또는 0부터 99까지) 배열된 10×10 숫자표를 사용하면 숫자의 패턴을 시각적으로 볼 수 있어요. 십의 자리는 10개 동안 그대로 유지되고, 일의 자리가 1씩 바뀌는 규칙이 한눈에 보이죠."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.2 Two-Digit Place Value"
+msgstr "학습 스텝 32: 두 자리 수의 자릿값"
 
 #. type=data_list
 msgctxt "data_list"
