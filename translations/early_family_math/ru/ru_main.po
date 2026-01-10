@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 03:12\n"
+"PO-Revision-Date: 2026-01-10 04:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18268,6 +18268,101 @@ msgstr ""
 msgctxt "data_list"
 msgid "Scoring options"
 msgstr "Варианты подсчёта очков"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are several options for scoring, and you may think of your own.\n"
+"\n"
+"* 1 point to each player who hits the target. Total over several rounds.\n"
+"* A player's score for a round is the difference between their result and the target. The\n"
+"scores are totaled over several rounds, and the lowest total score wins.\n"
+"* A player earns twice as many points as the number of cards they use to reach the target; a player receives 5 points for hitting the target with help; and a player receives\n"
+"6 points for helping someone hit the target."
+msgstr ""
+"Существует несколько вариантов подсчёта очков, и вы можете придумать свой способ.\n"
+"\n"
+"* 1 очко каждому игроку, попавшему в цель. Всё количество за несколько раундов.\n"
+"* Результат игрока за раунд – это разница между его результатом и целевым числом. Очки суммируются за несколько раундов, и побеждает игрок с наименьшим количеством очков.\n"
+"* Игрок зарабатывает в два раза больше очков, чем количество карт которые он использовал для достижения цели; игрок получает 5 очков за попадание в цель с помощью; И игрок получает 6 очков за помощь кому-либо в попадании в цель."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PARENTHESES PUZZLES"
+msgstr "ГОЛОВОЛОМКИ СО СКОБКАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Take an expression, such as \n"
+"\n"
+"2 + 7 × 5 − 2 × 2\n"
+"\n"
+"and add parentheses to it so that a target result, say 9, is obtained.\n"
+"\n"
+"**How to create:** These are easy to create and tailor to you child's skill set. Take any equation, in our case \n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+"and then remove the parentheses. It's as simple as that! \n"
+"\n"
+"Use the operations and numbers that your child is comfortable with. Use shorter expressions and fewer parentheses to make simpler puzzles."
+msgstr ""
+"**Задача:** Возьмите выражение, например\n"
+"\n"
+"2 + 7 × 5 - 2 × 2\n"
+"\n"
+"и добавьте к нему скобки, чтобы получить целевой результат, скажем 9, получается.\n"
+"\n"
+"**Как создать:** Их легко создать и адаптировать к навыкам вашего ребёнка. Возьмём любое уравнение, в нашем случае\n"
+"\n"
+"9 = (2 + 7) × (5 − 2 × 2)\n"
+"\n"
+" и затем удалите скобки.\n"
+"\n"
+"Это так просто! Используйте те операции и числа, которые удобны вашему ребёнку. Используйте более короткие выражения и меньше скобок, чтобы упростить головоломки."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SECRET OPS"
+msgstr "СЕКРЕТНЫЕ ОПЕРАЦИИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Near the end of Stage 4, the Sum Difference activity had one person think of two numbers and then challenge the other person to find the numbers by telling them the sum and difference of the numbers. Secret Ops uses the same idea, only now the challenger can use any two operations, such as multiplying and subtracting.\n"
+"\n"
+"**Examples:** The challenger might say “Which two numbers have a product of 12 and a difference of 4?” You can extend this to three numbers, if you like - “Which three numbers have a product of 12 and a sum of 8?”"
+msgstr ""
+"Ближе к концу 4-го этапа в задании Сумма и Разность один человек должен был задумать два числа, а затем предложить другому человеку найти эти числа, назвав ему сумму и разность этих чисел. Секретные операции используя ту же идею, только теперь претендент может использовать любые две операции, например умножение и вычитание.\n"
+"\n"
+"**Примеры:** Претендент может сказать «Произведения каких двух чисел равно 12, а разность равна 4?» Вы можете расширить это на 3 числа, если хотите – «Произведение каких трёх чисел равно 12, а сумма равна 8?»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LEVER BALANCE"
+msgstr "РЫЧАГ БАЛАНСА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mixed Operations"
+msgstr "Смешанные Операции"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Levers:** Use the lever principle to practice multiplication and addition. The principle says that the force exerted by a mass on one side of a lever is equal to the mass times its distance from the pivot point, the fulcrum. The forces on one side from several masses add up to give the total force. The total forces on the two sides must be equal for the lever to be in balance."
+msgstr "**Рычаги:** Используйте принципы рычага для практики умножения и сложения. Принцип гласит, что сила, действующая со стороны массы на одну сторону рычага, равна массе, умноженной на её расстояния от точки опоры. Силы на одной стороне от нескольких масс складывается, давая общую силу. Сила с обеих сторон должна быть равна, чтобы рычаг находился в равновесии."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Examples:** You have a 3-unit weight and a 5-unit weight to put on opposite sides of the fulcrum. Where should they be put to balance? The answer to this can be distances 5 and 3, but it can also be 10 and 6, or even larger answers like 15 and 9.\n"
+"\n"
+"If you have a 3-unit and a 5-unit weight to put on one side of a lever, which weights can you put at which distances on the other side? What if the two weights are on different sides of the lever? This question continues the questions on the Make It Count page at the end of Stage 4."
+msgstr ""
+"**Примеры:** У вас есть груз массой 3 и 5, которые нужно разместить по разные стороны на точки опоры. Где их следует разместить для балансировки? Ответом на этот вопрос могут быть расстояния 5 и 3, но также могут быть 10 и 6, или даже более крупные ответы, как 15 и 9.\n"
+"\n"
+"Если у вас есть груз массой 3 и 5 которые нужно разместить на одной стороне рычага, какие грузы и на каких расстояниях можно разместить на другой стороне? Что, если два груза находятся на разных сторон рычага? Этот вопрос продолжает вопросы на странице «Сделайте это Важным» в конце 4-го этапа."
 
 #. type=data_list
 msgctxt "data_list"
