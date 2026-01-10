@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 11:51\n"
+"PO-Revision-Date: 2026-01-10 17:32\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18926,6 +18926,36 @@ msgstr ""
 "**Специальные головоломки:** Обстоятельства этого типа головоломок позволяют создавать интересные задачи по решению проблем. Они требуют немного проектирования, но в результате получается забавные головоломки.\n"
 "\n"
 "Обратите внимание, что значение букв не переносится из одной головоломки в другую. Буква В, имеющая значение 1 в первой головоломке, имеет значение 4 во второй."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING REGIONS WITH SHAPES"
+msgstr "ЗАПОЛНЕНИЕ ОБЛАСТЕЙ ФИГУРАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Suppose you have an 8 by 8 chessboard and a collection of 1 by 2 tiles. Finding a way to exactly cover the chessboard with 32 of these 1 by 2 tiles is simple enough.\n"
+"\n"
+"**Remove corners:** Let’s start playing with removing squares from the chessboard. If you remove one corner of the chessboard, you know immediately that you can no longer cover the chessboard with tiles because the tiles will cover an even number of squares, and there are now 63 squares. Okay, remove two corners to make an even number of remaining squares – can you cover it now? The answer depends on which two corners you remove. Why? What if you no longer restrict yourself to removing corners, what happens?\n"
+"\n"
+"**Learn from smaller examples:** One important lesson in dealing with questions like these is to learn from smaller problems. Try these questions on a 4 by 4 or 6 by 6 board first."
+msgstr ""
+"Предположим, что у вас есть шахматная доска размером 8х8 клеток и набор плиток размером 1х2 клетки. Найдите способ точно покрыть шахматную доску 32 такими плитками размером 1 на 2 достаточно просто.\n"
+"\n"
+"**Удалить углы:** Давайте начнём играть, удаляя клетки с шахматной доски. Если вы удалите один угол шахматной доски, вы сразу поймёте, что больше не сможете покрыть шахматную доску плитками, потому что плитки покроют чётное количество клеток, и теперь будет 63 клеток. Хорошо, уберите два угла, чтобы осталось чётное количество квадратов – теперь вы можете их закрыть? Ответ зависит от того, какие два угла вы удалите. Почему? Что произойдёт, если вы больше не будете ограничиваться удалением углов?\n"
+"\n"
+"**Учитесь с небольших примерах:** Один из важных уроков при решении таких вопросов – учиться на меньших проблемах. Попробуйте сначала ответить на эти вопросы на доске размером 4х4 или 6х6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Branch out to using other shapes to fill the board. Play around with filling it with 1 by 3 tiles or with 3 squares in an L shape. What patterns and rules do you discover with these? What other shapes might be interesting to look at?"
+msgstr "Попробуйте использовать другие фигуры для заполнения игрового поля. Поэкспериментируйте, заполняю его плитками размером 1 на 3 или 3 квадратами в форме буквы Г. Какие закономерности и правила вы обнаруживаете с помощью этого? Какие ещё формы могут быть интересны для рассмотрения?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILLING SQUARES WITH SQUARES"
+msgstr "ЗАПОЛНЕНИЕ КВАДРАТОВ КВАДРАТАМИ"
 
 #. type=data_list
 msgctxt "data_list"
