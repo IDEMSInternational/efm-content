@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 17:32\n"
+"PO-Revision-Date: 2026-01-10 18:32\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18956,6 +18956,250 @@ msgstr "Попробуйте использовать другие фигуры 
 msgctxt "data_list"
 msgid "FILLING SQUARES WITH SQUARES"
 msgstr "ЗАПОЛНЕНИЕ КВАДРАТОВ КВАДРАТАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shapes Inside Shapes"
+msgstr "Формы Внутри Форм"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** In which ways can you fill a square with other squares, where the squares need not all be the same size? The question is: What are all the numbers of squares that are possible? For those that are possible, is there an easy way to describe how to do it?\n"
+"\n"
+"Let your child play with it over many days without any hurry to get an answer. Here is a diagram showing how 6 is possible."
+msgstr ""
+"**Задача:** Какими способами можно заполнить квадрат другими квадратами, при этом не все квадраты должны быть одинакового размера? Вопрос в том: Каковы все возможные количества квадратов? Для тех случаев, когда это возможно, есть ли простой способ описать как это сделать?\n"
+"\n"
+"Позвольте вашему ребёнку играть с ним в течение многих дней, не торопясь получить ответ. Вот диаграмма, показывающая, как возможно число 6."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"What happens if you only allow squares of certain sizes, such as 1 by 1, 2 by 2, and 3 by 3? What happens when filling other figures with figures that have the same shape? \n"
+"\n"
+"For example, use figures that are regular triangles (triangles with all their sides the same length). Which figures are interesting to investigate in this way?"
+msgstr "Что произойдёт, если разрешить использовать квадраты только определённых размеров, например, 1х1, 2х2, или 3х3? Что происходит при заполнении других фигур фигурами той же формы? Например, используйте фигуры, которые представляют собой правильные треугольники (треугольники, у которых все стороны имеют одинаковую длину). Какие фигуры интересно исследовать таким образом?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THE PRODUCT GAME"
+msgstr "ИГРА ПРОИЗВЕДЕНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Use a shared piece of paper filled out as shown."
+msgstr "**Установка:** Используйте общий лист бумаги, заполненный как показано."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to play:** The first player moves a token onto any number from 1 to 9 in the 1-9 squares. The second player puts another token on one of the 1-9 squares and claims the product in the 6 by 6 grid. From then on, each player chooses to move either of the two tokens and claims the product (if they can)."
+msgstr "**Как играть:** Первый игрок перемещает фишку на любое число от 1 до 9 в клетках 1-9. Второй игрок кладёт ещё одну фишку на один из квадратов 1-9 и забирает себе произведение в сетке 6х6. С этого момента каждый игрок выбирает, какую из двух фишек переместить, и забирает себе результат (если он может)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to win:** The first player with 3 squares in a row wins.\n"
+"\n"
+"**Variations:** Mix up the product numbers to give your child better practice identifying the products. Also, see the Stage 5 Bonus Material for designs of larger boards with larger ranges."
+msgstr ""
+"**Как выиграть:** Первый игрок, выстроивший ряд из 3 квадратов, побеждает.\n"
+"\n"
+"**Вариации:** Перемешивайте номера, чтобы дать ребёнку возможность лучше практиковаться в их распознавании. Также знакомьтесь с дополнительными материалами 5-го этапа для проектирования более крупных плат с более широкими диапазонами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING WITH PRODUCTS"
+msgstr "ПУТЕШЕСТВИЕ ПО ОСТРОВАМ С ПРОДУКТАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplying and Multiples"
+msgstr "Умножение и Кратные"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have islands (circles and squares) connected by bridges (lines). If there are two circles on either side of a square, then the square holds the product of the two circles.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers."
+msgstr ""
+"В этих головоломках есть острова (круги и квадраты) которые соединены мостами (линиями). Если по обе стороны квадрата находятся два круга, то квадрат содержит произведение двух кругов.\n"
+"\n"
+"**Задача:** Заполнить пропущенные цифры."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to create:** Make these puzzles by filling in the circles, then filling in the squares, and finally removing some of the numbers before giving it to your child.\n"
+"\n"
+"In addition to practicing multiplication, these puzzles can be structured to practice common factors as well. In the first puzzle, the only number, other than 1, that divides 14 and 21 is 7, so that is the number in the bottom circle."
+msgstr ""
+"**Как это сделать:** Соберите эти головоломки, сначала заполнив круги, затем заполнив квадраты, и наконец, удалив некоторые цифры, прежде чем дать головоломку ребёнку.\n"
+"\n"
+"Помимо практики умножения, эти головоломки можно структурировать так, чтобы практиковать и общие множители. В первой задаче единственное число, кроме 1, которые делят 14 и 21 – это 7, поэтому это число в нижнем круге."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COUNTING NEIGHBORS"
+msgstr "ПОДСЧЁТ СОСЕДЕЙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and an 8 by 8 board of numbers from 1 to 64.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition, subtraction, multiplication, and division to make any unmarked number on the board. The player marks this square and receives one point for the square plus one more point for each marked square that it touches, including diagonally. If a player cannot make a play, any other player who finds a play can claim that score.\n"
+"\n"
+"**How to win:** Play five or more rounds, with the largest score winning."
+msgstr ""
+"**Установка:** Используйте три игральных кубика и игровое поле размером 8х8 с числами от 1 до 64.\n"
+"\n"
+"**Как играть:** Игрок бросает кубик и использует сложение, вычитание, умножение и деление, чтобы составить любое отмеченное число на игровом поле. Игрок отмечает этот квадрат и получает одно очко за квадрат плюс ещё одно очко за каждый отмеченный квадрат, которого он касается, в том числе по диагонали. Если игрок не может сделать ход, любой другой игрок, который имеет ход, может заявить об этом.\n"
+"\n"
+"**Как выиграть:** Играйте пять или более раундов, победителем становится игрок, набравший большее количество очков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some game options are to use a fourth die, and to use a smaller or larger board."
+msgstr "Некоторые варианты игры предполагают использование четвёртого кубика и использования доски большего или меньшего размера."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING A MOBILE"
+msgstr "СОЗДАНИЕ МОБИЛЬНОГО УСТРОЙСТВА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** You are given some weights and a design for a mobile that has some attach points. The challenge is to put at most one weight per attach point so the mobile will balance along every arm. Assume the wires are weightless. Each arm in the mobile is a lever that needs balancing, so these puzzles are an extension of the Lever Balance puzzle given earlier in this Stage - practice those puzzles before starting these."
+msgstr "**Установка:** Вам даны некоторые данные о весе и конструкции мобильного устройства, имеющего несколько точек крепления. Задача состоит в том, чтобы разместить не более одного груза на каждой точке крепления, чтобы мобильное устройство балансировало на каждой руке. Предположим, что провода невесомы. Каждая рука в мобиле представляет собой рычаг, который необходимо сбалансировать, поэтому эти головоломки являются продолжением головоломки Рычаг Баланса, представленной ранее на этом этапе – Попрактикуйтесь в решении тех головоломок, прежде чем начинать эти."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Simple example:** Start with the simplest mobiles, which are just levers in the air. Above is a solution for putting the weights from 1 to 4 on this mobile to balance it. This works because (2 × 4) + (1 × 2) = (4 × 1) + (3 × 2).\n"
+"\n"
+"**More complicated example:** Use the total of the weights below it to balance each side of the top wire (1 + 3) × 3 = (4 + 2) × 2."
+msgstr ""
+"**Простой пример:** Начните с самых простых мобильных устройств, которые представляют собой просто рычаги в воздухе. Вот решение, как разместить грузы от 1 до 4 на этом мобильном устройстве, чтобы сбалансировать его. Это работает потому что 2 x 4 + 1 x 2 = 4 x 1 + 3 x 2.\n"
+"\n"
+"**Более сложный пример:** Используйте сумму грузов, расположенных ниже, чтобы сбалансировать каждую сторону верхнего провода (1 + 3) x 3 = (4 + 2) x 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Go to the Stage 5 Bonus Material for more examples and a longer discussion of mobiles."
+msgstr "Перейдите к бонусным материалам 5-го этапа, чтобы получить больше примеров и более подробное обсуждение мобильных устройств."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LIMITED CALCULATORS"
+msgstr "ОГРАНИЧЕННИЯ КАЛЬКУЛЯТОРА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add, Subtract, and Multiply"
+msgstr "Сложение, Вычитание, и Умножение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Suppose you have a calculator that is badly broken and you are challenged to produce some result on the calculator. This is easy to play orally whenever you have a spare moment. Here are some examples to get you started.\n"
+"\n"
+"**Example:** Suppose you had a calculator with +, -, ×, and /, but only one working number key, the 4. Could you get the result 21? If so, what is the fewest number of steps you would need? Suppose you could use 4 at most four times - which numbers could you produce? Suppose you had to use the 4 exactly four times. Play around with having other single keys and creating other results."
+msgstr ""
+"**Установка:** Предложим, у вас есть очень сломанный калькулятор, и вам нужно вывести на нём какой-то результат. Это легко играть устно, когда у вас есть свободная минутка. Вот несколько примеров, с которых можно начать.\n"
+"\n"
+"**Пример:** Скажем у вас есть калькулятор с +, -, x, и /, но только одна рабочая цифровая клавиша, 4. Можете ли вы получить результат 21? Если да, то какое наименьшее количество шагов вам понадобятся? Предположим, вы можете использовать 4 максимум четыре раза – какие числа вы могли бы получить? Предположим, вам пришлось использовать цифру 4 ровно четыре раза. Поэкспериментируйте с другими одиночными клавишами и создайте другие результаты."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Suppose your calculator could only add 4 or 7. Which numbers could you produce?\n"
+"\n"
+"**Example:** Suppose the calculator only had 4 or 7, but now it can add and subtract. Which additional numbers could you produce?"
+msgstr ""
+"**Пример:** Предположим, что ваш калькулятор может складывать только 4 или 7. Какие числа вы бы могли получить?\n"
+"\n"
+"**Пример:** Предположим, что у калькулятора было только 4 или 7, но теперь он может складывать и вычитать. Какие дополнительные числа вы бы могли получить?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These are the same activities we’ve seen previoiusly in other settings, such as with the pan balance.\n"
+"\n"
+"**Example:** Suppose you only had a 1 key and could only add or double. For example, 2 × (2 × 1) + 1 is 5. What other numbers can you create?\n"
+"\n"
+"**Example:** A fun challenge is the four 4's challenge. Suppose you had a calculator with only a 4 key, with all the operations working. Starting at 1, how many numbers can you create if you must use exactly four 4's in your work on the calculator?"
+msgstr ""
+"Это те же действия которые мы видели ранее в других условиях, например, с весами.\n"
+"\n"
+"**Пример:** Предположим, у вас есть только одно клавише, и вы можете только складывать или удваивать. Например, 2 x (2 x 1) + 1 это 5. Какие ещё числа вы можете создать?\n"
+"\n"
+"**Пример:** Весёлое испытание – это испытание четыре 4. Предположим, у вас калькулятор, состоящий только из 4 клавиш, и все операции выполняются. Начиная с 1, сколько чисел вы можете составить, если при работе на калькуляторе вам необходимо использовать ровно четыре 4?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING FACTORS"
+msgstr "ЗАХВАТА ФАКТОРОВ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a board with a 4 by 6 grid of numbers from 1 to 24.\n"
+"\n"
+"**How to play:** On a turn, a player chooses a number that is uncovered and has at least one factor uncovered – the player gets the selected number and the other player gets any or all of the uncovered factors (their choice as to how many). Play alternates until there are no legal numbers left.\n"
+"\n"
+"**How to win:** The players add up their numbers and the higher sum wins.\n"
+"\n"
+"**Tax Collector solitaire:** This can also be played as a solitaire puzzle, called Tax Collector. The one player selects each number and the tax collector gets all the available factors. Play continues until the player no longer has a legal move. At that point, the tax collector receives the remaining numbers. The goal is to have as large a sum as possible – bigger than the tax collector when that’s possible."
+msgstr ""
+"**Установка:** Используйте доску сеткой 4х6 с числами от 1 до 24.\n"
+"\n"
+"**Как играть:** В свой ход игрок выбирает число, которое открыто и имеет хотя бы один открытый множитель – игрок получает выбранное число, а другой игрок получает любой или все из открытых множителей (их выбор относительно того, сколько). Играйте по очереди, пока не останется ни одного законного числа.\n"
+"\n"
+"**Как выиграть:** Игроки складывают свои числа, и выигрывает тот, у кого сумма больше.\n"
+"\n"
+"**Пасьянс Сборщик Налогов:** В эту игру также можно играть как в пасьянс под названием Сборщик Налогов. Один игрок выбирает каждое число, а сборщик налогов получает все доступные факторов. Игра продолжается до тех пор, пока у игрока не останется разрешённых ходов. В этот момент сборщик налогов получает оставшиеся цифры. Цель состоит в том чтобы собрать как можно большую сумму –больше, чем сборщик налогов, когда это возможно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Set the range of numbers for the players – it could be 1 to 12, or as high as 1 to 60."
+msgstr "Установите диапазон чисел для уровня мастерства игроков. Это может быть 1 до 12, или от 1 до 60."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BOUNCING BILLIARD BALL"
+msgstr "ПРЫГАЮЩИЙ БИЛЬЯРДНЫЙ ШАР"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Investigation"
+msgstr "Исследование"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors and Multiples"
+msgstr "Факторы и Кратные"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Imagine a billiard table that has a pocket in each of the four corners. When a ball bounces off the side of the table, it bounces away at the same angle it came in at."
+msgstr "Представьте себе бильярдный стол с лузами в каждом из четырёх углов. Когда шар отскакивает от края стола, он отскакивает по тем же углом, под которым приземлился."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This investigation looks at the question: If we shoot a ball at a 45 degree angle from one corner, where will it end up?\n"
+"\n"
+"The answer depends on the size of the table. This is what happens on a 3 by 4 table.\n"
+"\n"
+"**Investigation:** After playing with several different sizes of tables, challenge your child to predict what the answer is in advance for new sizes. Starting in the bottom left corner, which corner will be hit first and how many bounces will it take?"
+msgstr ""
+"Это расследование рассматривает вопрос: Если мы бросим мяч под углом 45° из одного угла, где он окажется?\n"
+"\n"
+"Ответ зависит от размера стола. Вот что происходит на столе 3х4.\n"
+"\n"
+"**Исследование:** Поиграв с несколькими столами разных размеров, предложите ребёнку заранее предсказать, какой будет ответ для новых размеров. Начиная с левого нижнего угла, в какой угол мяч ударится первым и сколько раз он отскочит?"
 
 #. type=data_list
 msgctxt "data_list"
