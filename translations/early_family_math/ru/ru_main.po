@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 20:52\n"
+"PO-Revision-Date: 2026-01-10 21:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18045,8 +18045,50 @@ msgstr "**Головоломки с заменой буквой:** Эти гол
 
 #. type=data_list
 msgctxt "data_list"
+msgid "FILL IN THE BLANKS REVISITED"
+msgstr "ВОЗРАЩЕНИЕ К ЗАПОЛНИТЕ ПРОПУСКИ"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Place Value, Add, and Subtract"
-msgstr "Размер Значения, Сложение, и Вычитание"
+msgstr "Разместите Значение, Сложите и Вычтите"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9. Decide on which version of this game to play and make a game board for each person. One person is designated the dealer.\n"
+"\n"
+"The game boards can be as simple as two blanks to fill in to form 2-digit numbers. In this case the winner is the person with the largest number (or the smallest number, if you prefer). You can have zero, one, or two discard blanks for numbers not to be used.\n"
+"\n"
+"More complicated game boards can involve one or more 2-digit, 3-digit, or 4-digit numbers. The task may be to add up the numbers, or perhaps to take their difference. For adding, you might want to maximize the sum without going over some agreed upon limit. For subtracting, you might want it to be as small as possible without going below 0. There are a large number of possibilities which give you many ways to practice skills. \n"
+"\n"
+"**How to play:** The dealer draws random cards one at a time. The players decide where on their game board they will use that number. After deciding, the placement of that number cannot be changed for the remainder of the game.\n"
+"\n"
+"**How to win:** When the game boards are filled, the player who does the best job of achieving the objective wins."
+msgstr ""
+"**Установка:** Перемешайте игральные карточки с числами от 1 до 9. Решите, в какую версию этой игры играть, и сделайте игровое поле для каждого человека. Один человек назначается дилером.\n"
+"\n"
+"Игровые поля могут быть такими простыми, как два пробела для заполнения, чтобы сформулировать двузначные числа. В этом случае победителем становится человек с наибольшим числом (Или наименьшим числом, если вы предпочитаете это). У вас может быть ноль, один, или два пробела для сброса чисел, которые не будут использоваться.\n"
+"\n"
+"Более сложные игровые поля могут включать одно или несколько двузначных, трёхзначных, или четырёхзначных чисел. Задача Может заключиться в том, чтобы сложить числа, или возможно взять их разность. Для сложения вы можете захотеть максимизировать сумму, не превышая некоторого согласованного предела. Для вычитания вы можете захотеть, чтобы число было как можно меньше, не опускаясь ниже нуля. Существует множество возможностей, которые дают вам множество способов отработать навыки.\n"
+"\n"
+"**Как играть:** Дилер берёт случайные карты по одной за раз. Игроки решают, Где на игровом поле они будут использовать это число. После принятия решения, размещение этого числа не может быть изменено до конца игры.\n"
+"\n"
+"**Как выиграть:** Когда игровые поля заполнены, побеждает игрок который лучше всех справляется с достижением цели."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Play that the smaller number wins.\n"
+"* Decide whether it is more dramatic to show the cards as they are turned over, or wait until all the decisions are made and the final numbers are formed.\n"
+"* Deal three cards to each player and let the players choose which one to put aside.\n"
+"* To practice a bit of addition, as well as making the decisions trickier, draw three cards to turn over one at a time to form a two-digit number and a single-digit number. The goal is to create the largest sum of the two numbers."
+msgstr ""
+"* Играйте Так, что выигрывает меньшее число.\n"
+"* Решите, будет ли более драматично показывать карты по мере их переворачивания, или подождать пока все решения будут приняты, и окончательные числа будут сформированные.\n"
+"* Раздайте по три карты каждому игроку и позвольте игрокам выбрать, какую из них отложить \n"
+"в сторону.\n"
+"* Чтобы немного попрактиковаться в сложении, а также сделать решение более сложными, вытяните три карты и переворачивайте по одной за раз, чтобы сформировать двузначное и однозначное число. Цель состоит в том, чтобы создать наибольшую сумму двух чисел."
 
 #. type=data_list
 msgctxt "data_list"
@@ -18717,6 +18759,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "PRACTICE PRIME FACTORIZATIONS"
 msgstr "ПРАКТИКА РАЗЛОЖЕНИЯ НА ПРОСТЫЕ МНОЖИТЕЛИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Activity"
+msgstr "Занятие"
 
 #. type=data_list
 msgctxt "data_list"
