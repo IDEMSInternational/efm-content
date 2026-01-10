@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 06:11\n"
+"PO-Revision-Date: 2026-01-10 11:51\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18881,6 +18881,51 @@ msgstr ""
 msgctxt "data_list"
 msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
 msgstr "Один из вариантов использовать трёхзначные числа, целевое число – 1000, и каждый игрок получает по семь карт. Другой вариант использовать вычитание с меньшим целевым числом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LETTER SUBSTITUTION"
+msgstr "ЗАМЕНЫ БУКВ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Letter Substitutions"
+msgstr "Замены Букв"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** In these puzzles, single digits are replaced by letters. At first glance, these puzzles seem to be the same as the 'Missing Number' puzzles from earlier in this Stage. However, the use of letters provides more interesting opportunities for problem solving. If your child is comfortable with the Missing Number puzzles, you should transition to these puzzles.\n"
+"\n"
+"The use of letters in these puzzles follows three rules:\n"
+"\n"
+"* A given letter is always the same digit from 0 to 9 \n"
+"* The leftmost digit of a number is never 0\n"
+"* Different letters must be different digits"
+msgstr ""
+"**Установка:** В этих головоломках отдельные цифры заменёны буквами. На первый взгляд эти головоломки кажутся такими же, как головоломка Пропущенное Число, которую мы рассматривали ранее на этом этапе. Однако использование букв даёт более интересные возможности для решения проблем. Если ваш ребёнок уверенно справляется с головоломками Пропущенные Числа, то вам следует перейти к этим головоломкам.\n"
+"\n"
+"Использование букв в этих головоломках подчиняется трём правилам:\n"
+"\n"
+"* Данная буква всегда представляет собой одну и ту же цифру от 0 до 9\n"
+"* Самая левая цифра числа никогда не равна 0\n"
+"* Разные буквы должны быть разными цифрами"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an ordinary addition or subtraction problem and replace one or more of the digits. Use the same letter when replacing the same digit. In this example, 6 is replaced by 'A' in both places."
+msgstr "**Как сделать:** Возьми обычную задачу на сложение или вычитание и замените одну или несколько цифр. Используйте одну и ту же букву при замене одной и той же цифры. В этом примере шесть заменено на А в обоих местах."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Special puzzles:** The circumstances of this type of puzzle allow for the creation of interesting problem-solving challenges. These take a bit of designing, but the result is some fun puzzles.\n"
+"\n"
+"Notice that the values of the letters do not carry over from puzzle to puzzle. The 'B,' which has value 1 in this first puzzle, has value 4 in the second."
+msgstr ""
+"**Специальные головоломки:** Обстоятельства этого типа головоломок позволяют создавать интересные задачи по решению проблем. Они требуют немного проектирования, но в результате получается забавные головоломки.\n"
+"\n"
+"Обратите внимание, что значение букв не переносится из одной головоломки в другую. Буква В, имеющая значение 1 в первой головоломке, имеет значение 4 во второй."
 
 #. type=data_list
 msgctxt "data_list"
