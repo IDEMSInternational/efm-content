@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 18:32\n"
+"PO-Revision-Date: 2026-01-10 19:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19200,6 +19200,128 @@ msgstr ""
 "Ответ зависит от размера стола. Вот что происходит на столе 3х4.\n"
 "\n"
 "**Исследование:** Поиграв с несколькими столами разных размеров, предложите ребёнку заранее предсказать, какой будет ответ для новых размеров. Начиная с левого нижнего угла, в какой угол мяч ударится первым и сколько раз он отскочит?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOUBLE OR NOTHING"
+msgstr "ДВОЙНОЕ ИЛИ НИЧЕГО"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Players start the game by secretly picking 5 distinct numbers larger than 20 and less than 121. After all selections are made, they are written where all can see them.\n"
+"\n"
+"**How to play:** Using Number Cards or some other device, a random number from 1 to 20 is created. That number is repeatedly doubled until either someone’s number is hit for the first time or the number becomes bigger than 120.\n"
+"\n"
+"**How to win:** The first player to have all five numbers hit is the winner."
+msgstr ""
+"**Установка:** Игроки начинают игру, тайна выбирая 5 различных чисел, больше чем 20 и меньше чем 121. После того, как все выбросы сделаны, они записываются там где все могут их видеть.\n"
+"\n"
+"**Как играть:** Используя числовые карточки или какой-либо другой устройство, создайте случайное число от 1 до 20. Это число многократно удваивается до тех пор, пока число кого то выбирается в первый раз, или пока число не станет больше 120.\n"
+"\n"
+"**Как выиграть:** Первый игрок, получая все пять номеров, становится победителем."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Selection strategies"
+msgstr "Стратегии выбора чисел"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It is a bad idea to pick a number, such as 46, that is not a power of 2 times some number between 1 and 20 – it will never get hit. Some numbers with lots of factors of 2, such as 32, are more likely to be hit because more starting numbers can get to them."
+msgstr "Плохая идея выбирать число, например 46, которое не является степенью два умноженное на какое-либо число от 1 до 20 – оно никогда не будет достигнуто. Некоторые числа с большим количеством делителей два, например 32, имеют большую вероятность выпадения, поскольку к ним может попасть больше начальных чисел."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can triple the number each time instead of doubling it. You can double it and add 1 each time. For younger players, select numbers above 10 and not above 60, and select a random number from 1 to 10."
+msgstr "Вы можете утроить число каждый раз вместо того, чтобы удваивать его. Вы можете удвоить его и ещё каждый раз добавлять 1. Для игроков младшего возраста выберите числа больше 10, но не больше 60, а затем выберите случайное число от 1 до 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR WITH FACTORS"
+msgstr "ВОЙНА С ФАКТОРАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factors Count"
+msgstr "Факторы Имеют Значение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have two sets of cards, say from 1 to 25.\n"
+"\n"
+"**How to play:** Play the standard game of war with these cards, only now the winner is the card that has more factors. For example, 12 beats 16 because 12 has 6 factors (1, 2, 3, 4, 6, and 12) while 16 has 5 factors (1, 2, 4, 8, and 16). The holder of the winning card must be able to correctly list the factors to win the cards – otherwise, the cards get shuffled back into each player’s draw pile. As with standard War, when there is a tie, the next cards are turned over and the winner receives all the cards."
+msgstr ""
+"**Установка:** Возьмите два набора карточек, скажем от 1 до 25.\n"
+"\n"
+"**Как играть:** Играйте в стандартную игру война с этими картами, только теперь победителем становится карта, у которой больше множителей. Например, 12 лучше 16, потому что у 12 есть 6 делителей (1, 2, 3, 4, 6, и 12) а у 16 есть 5 множителей (1, 2, 4, 8, и 16). Владелец выигрышной карты должен уметь правильно перечислить факторы, необходимые для выигрыша карты – в противном случае карты замешиваются обратно в колоду каждого игрока. Как и в стандартной войне, в случае ничьей следующие карты переворачивается, и победитель получает все карты."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the smaller number of factors wins. You can count the total of just the prime factors rather than all the factors. You can play that prime powers (numbers that are a power of a prime) beat other numbers."
+msgstr "Можно играть так что выигрывает тот, у кого меньшее количество факторов. Вы можете подсчитать сумму только простых множителей, а не всех множителей. Вы можете играть в игру, в некоторой степени простых чисел (числа, являющиеся степенями простых чисел) превосходят другие числа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSSING THE VOLCANO"
+msgstr "ПЕРЕСЕЧЕНИЕ ВУЛКАНА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a 100-chart with the 36 squares on the four edges colored gray. Use playing cards with picture cards removed or use Number Cards from 1 to 10.\n"
+"\n"
+"**How to play:** On a turn, if you pick a 1 you can claim any odd number; if you pick any other number, you can claim any multiple of it. If you claim a number, your opponent cannot claim it. The aim is to make a path from one edge to the opposite edge, in either direction. You do not need to claim the squares in the order of your path."
+msgstr ""
+"**Установка:** Используйте диаграмму с 100 клеток, с 36 квадратами по четырём краям, закрашенными серым цветом. Используйте игральные карты с удалёнными картинками или используйте числовые карты от 1 до 10.\n"
+"\n"
+"**Как играть:** Если на ходу вы выбрали 1, вы можете претендовать на любое нечётное число; Если вы выберете любое другое число, вы можете претендовать на любое кратное ему число. Если вы заявите число, ваш противник не сможет его заявить. Цель состоит в том, чтобы проложить путь от одного края до противоположного края в любом направлении. Вам не обязательно заявлять квадраты в порядке вашего пути."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can either play that diagonal connections are okay or not okay. Another option is to include picture cards – if you get one of these, you can put in a blocked square that cannot be included in either person’s path."
+msgstr "Вы можете либо считать, что диагональные соединения допустимы, либо нет. Другой вариант использовать карточки с картинками – если у вас есть одна из них, вы можете поместить заблокированный квадрат, который не может попасть на путь ни одного из участников."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CHECKERS MATH"
+msgstr "ШАШКИ МАТЕМАТИКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Multiplication Board Games"
+msgstr "Настольные Игры с Умножением"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This game is lightly inspired by checkers. Each player has 10 counters. The counters are numbered from 1 to 10, with the “10” counter marked with 10 and 11. The counters start on the end rows of a 100-chart - one player on squares 1 to 10 and the other on squares 91 to 100.\n"
+"\n"
+"**How to play:** Initially, counters can only move “forward” one row onto any multiple of the number(s) on the marker they choose – for the player starting on 1 to 10, forward means larger numbers, and for the player starting on 91 to 100, forward means smaller numbers. Once a counter has made it all the way across the board, it becomes a king and can then move forward or backward one row after that. An opponent's piece is taken by landing on it. A player’s piece cannot double up with another of the same player’s pieces.\n"
+"\n"
+"**How to win:** You win by taking all your opponent’s pieces."
+msgstr ""
+"**Установка:** Эта игра немного вдохновлена шашками. У каждого игрока есть 10 фишек. Фишки пронумерованные от 1 до 10, при этом фишка «10» имеет номера 10 и 11. Фишки располагаются в крайних рядах доски из 100 клеток: один игрок – на клетках с 1 по 10, а другой – на клетках с 91 по 100.\n"
+"\n"
+"**Как играть:** Изначально фишки могут двигаться только на один ряд вперёд, на любое число, кратное числу на выбранном ими маркера – Для игрока, начинающего с 1 до 10, вперёд означает большие числа, а для игрока, начинающего с 91 по 100, вперёд означает меньшие числа. Как только фишка пройдёт весь путь по доске, она становится дамкой и может двигаться вперёд или назад на один ряд после этого. Фишка противника считается захваченной, если она на неё попадает. Фишка игрока не может дублировать другую фишку того же игрока.\n"
+"\n"
+"**Как выиграть:** Вы выигрываете, забирая все фишки противники."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Variations"
+msgstr "Вариации"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "For younger players, shorten the board to use the first 6 rows – the numbers from 1 to 60. A child who does not know all the multiples yet can use skip counting to figure out the moves."
+msgstr "Для игроков младшего возраста сократите игровое поле, используя первые шесть рядов – числа от 1 до 60. Ребёнок, который ещё не знает всех кратных чисел, может использовать метод пропуска, чтобы понять ходы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLICATION BINGO"
+msgstr "БИНГО С УМНОЖЕНИЕМ"
 
 #. type=data_list
 msgctxt "data_list"
