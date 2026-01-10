@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 05:12\n"
+"PO-Revision-Date: 2026-01-10 06:11\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18610,6 +18610,277 @@ msgstr ""
 "Чтобы решить эти головоломки, сначала посмотрите на площадь, которая является простыми числами – ихнии формы жёстко огорчены.\n"
 "\n"
 "Далее рассмотрим площади, заключённые в рамки. В этой головоломке верхняя цифра «4» должна соответствовать верхнему левому квадрату 2х2. Кроме того, верхний правый угол должен быть включён в вертикальный прямоугольник 3x1."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A DEFINITION AND A RULE"
+msgstr "ОПРЕДЕЛЕНИЕ И ПРАВИЛА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The definition:** Just as 4 × 2 is a quick way to write 2 + 2 + 2 + 2, so 2<sup>4</sup> is a quick way to write 2 × 2 × 2 × 2. It’s much easier to say and understand the phrase “two to the fourth,” than to say “two times two times ... “\n"
+"\n"
+"**Special names:** The second power, 4<sup>2</sup> for example, can be said **four squared,** and the third power, 4<sup>3</sup> for example, can be said **four cubed.**\n"
+"\n"
+"**The rule:** When powers of the same number are multiplied, a simple rule governs how to simplify the result – add the powers. For example, if you do 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup>, we have two fours multiplied by three fours, so the result is five fours being multiplied.\n"
+"\n"
+"**Caution:** Note that this rule for adding exponents only works when it is the same number being taken to a power – you can't easily simplify 3<sup>2</sup> × 5<sup>3</sup>."
+msgstr ""
+"**Определение:** Также 4 × 2 это быстрый способ написать 2 + 2 + 2 + 2, также 2<sup>4</sup> быстрый способ написать 2 × 2 × 2 × 2. Гораздо проще произнести и понять фразу «Два в четвёртой степени,» вместо «Два умножить на два умножить… »\n"
+"\n"
+"**Особые имена:** Вторая степень, 4<sup>2</sup> например, можно сказать **четыре в квадрате,** и третья степень, 4<sup>3</sup> например, можно сказать **четыре в кубе.**\n"
+"\n"
+"**Правило:** При умножение степени одного и того же числа существует простое правило, определяющее, как упросить результат – прибавить степени. Например, если вы делаете 4<sup>2</sup> × 4<sup>3</sup> = (4 × 4) × (4 × 4 × 4) = 4<sup>5</sup> У нас есть две четвёрки, умноженные на три четвёрки, поэтому результат умножения пяти четвёрок.\n"
+"\n"
+"**Осторожно:** Обратите внимание, что это правило сложения показателей работает только тогда, когда одно и то же число возводится в степень– вы не можете легко упростить 3<sup>2</sup> × 5<sup>3</sup>."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REUSE OLD ADDITION ACTIVITIES"
+msgstr "ПОВТОРНОЕ ИСПОЛЬЗОВАНИЕ СТАРЫХ ДОПОЛНИТЕЛЬНЫХ ДЕЙСТВИЙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feel the Power"
+msgstr "Почувствуй Силу"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Reuse puzzles and games:** Because powers add up when powers are being multiplied, any of our old games and puzzles involving addition can be used to practice multiplying numbers that are powers. Some examples of these old addtition activities are: Stage 3 - Shape Sums and Sum Groups; Stage 4 - Enclosed Sums, SumTriangles, and Fix It."
+msgstr "**Повторное использование головоломок и игр:** Поскольку степени складываются, когда степени умножаются, любую из наших старых игр и головоломок, связанных со сложением, можно использовать для практики умножения чисел, являющихся степенями. Некоторые примеры этих старых дополнительных действий: 3ьт-ий Этап – Суммы Фигур и Сумма Груп; 4-тый Этап – Приложенные Суммы, СумТреугольники, и Исправить Это."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Examples:** Above are two examples from Stage 3 – Shape Sums. Below are the same examples for Shape Products, using multiplication instead of addition."
+msgstr "Слева два примера 3-го этапа – Суммы Фигур. Справа приведены те же примеры для Фигурных Произведений, но с использованием умножения вместо сложения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Working with powers will become routine and be just as easy as the original addition problems."
+msgstr "Работа со степенями станет обычной и такой же простой, как и исходные задачи на сложение."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child enjoys these problems and wants some extra challenge, start involving more than one number being raised to a power. For example, if you multiply (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) you can apply the rule separately to the powers of 4 and the powers of 3 and get the result 4<sup>7</sup> × 3<sup>5</sup>."
+msgstr "Если вашему ребёнку нравятся эти задачи и он хочет чего-то более сложного, начните включать в них возведение в степень более одного числа. Например если умножить (4<sup>2</sup> × 3<sup>3</sup>) × (4<sup>5</sup> × 3<sup>2</sup>) Вы можете применить правила отдельно к степеням 4 и степеням 3 и получить результат 4<sup>7</sup> × 3<sup>5</sup>."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FACTOR TREES"
+msgstr "ДЕРЕВО МНОЖИТЕЛЕЙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Discovering Prime Factorizations"
+msgstr "Открытие Простых Множителей"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The model for factor trees is an extension of Shape Products from the previous Feel the Power page. The goal in creating a factor tree is to reduce a number to its prime factors. Many things can be learned about a number in the process of constructing a factor tree."
+msgstr "Модель для деревьев факторов является расширением Сумма Фигур с предыдущей страницы Почувствуй Силу. Цель создание деревo множителей– разложить число на простые множители. Многое можно узнать о числе в процессе построения дерево множителей."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** Start with a number, say 54. This can be broken down several ways. One way is 9 × 6, another is 18 × 3, and yet another is 3 × 3 × 6. Each produces  a start to a factor tree.\n"
+"\n"
+"Each of these trees ultimately produces the same primes on its leaves. In each case we end up with 2  × 3 × 3 × 3, but look at the different ways of getting there!"
+msgstr ""
+"**Пример:** Начните с любого числа, например 54. Это можно разбить несколькими способами. Один способ  9 x 6, а другой 18 x 3, или ещё один это 3 x 3 x 6. Каждый из них создаёт начало дерево множителей.\n"
+"\n"
+"Каждое из этих деревьев в конечном итоге производит одинаковые простые числа на своих листьях. В каждом случае мы получаем 2 x 3 x 3 x 3, Ну посмотрите на разные способы достижения этой цели!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "Вопросы"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"After doing some examples like these, your child may naturally start asking some questions. \n"
+"\n"
+"* Why do some trees have more levels than others?\n"
+"* Why are some trees broader than others?\n"
+"* Why do the leaves always stop at primes?\n"
+"* Why do the leaves always have the same list of primes, perhaps with rearrangement?"
+msgstr ""
+"После выполнения нескольких подобных примеров ваш ребёнок может естественным образом начать задавать вопросы.\n"
+"\n"
+"* Почему у некоторых деревьев больше уровней чем у других?\n"
+"* Почему некоторые деревья шире других?\n"
+"* Почему листья всегда останавливаются на простых числах?\n"
+"* Почему листья всегда имеют один и тот же список простых чисел, возможно с перестановкой?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRACTICE PRIME FACTORIZATIONS"
+msgstr "ПРАКТИКА РАЗЛОЖЕНИЯ НА ПРОСТЫЕ МНОЖИТЕЛИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do prime factorizations in order when you travel or have time on your hands. This also provides practice with talking about powers. Knowing prime factorizations with ease will be helpful in many things to come, such as working with fractions. Have fun with this and don’t push your child beyond their comfort level."
+msgstr "Выполняйте разложение на простые множители по порядку, когда путешествуете или у вас есть свободное время. Это также даёт практику в обсуждение степеней. Лёгкое знание разложение на простые множители пригодится во многих будущих задачах, например, при работе с дробями. Получайте от этого удовольствие и не заставляйте ребёнка выходить за рамки его уровня комфортно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recital"
+msgstr "Рассказ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The recital goes like this:\n"
+"\n"
+"1. is a unit\n"
+"2. is a prime \n"
+"3. is a prime \n"
+"4. is 2 squared \n"
+"5. is a prime \n"
+"6. is 2 times 3\n"
+"7. is a prime \n"
+"8. is 2 cubed \n"
+"9. is 3 squared\n"
+"10. is 2 times 5\n"
+"11. is a prime\n"
+"12. is 2 squared times 3\n"
+"13. is a prime\n"
+"14. is 2 times 7\n"
+"15. is 3 times 5\n"
+"16. is 2 to the fourth \n"
+"17. is a prime \n"
+"18. is 2 times 3 squared\n"
+"19. is a prime\n"
+"20. is 2 squared times 5 \n"
+"21. is 3 times 7\n"
+"22. is 2 times 11\n"
+"23. is a prime\n"
+"24. is 2 cubed times 3"
+msgstr ""
+"Рассказы идёт вот так:\n"
+"\n"
+"1. это единица\n"
+"2. является простым\n"
+"3. является простым\n"
+"4. это 2 в квадрате\n"
+"5. является простым\n"
+"6. это 2 x 3\n"
+"7. это является простым\n"
+"8. это 2 в кубе\n"
+"9. это 3 в кубе\n"
+"10. это 2 x 5\n"
+"11. является простым\n"
+"12. это 2 в квадрате x 3\n"
+"13. является простым\n"
+"14. это 2 x 7\n"
+"15. это 3 x 5\n"
+"16. это 2 в четвёртой степени\n"
+"17. является простым\n"
+"18. это 2 x 3 в квадрате\n"
+"19. является простым\n"
+"20. это 2 в квадрате x 5\n"
+"21. это 3 x 7\n"
+"22. это 2 x 11\n"
+"23. является простым\n"
+"24. это 2 в кубе x 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRODUCT PYRAMID"
+msgstr "ПИРАМИДА ПРОИЗВЕДЕНИЙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Factoring With Primes"
+msgstr "Факторизация с Простыми Числами"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles are the multiplicative version of the Addition Pyramids seen in Stage 4. You are supplied with a target number and a pyramid of numbers.\n"
+"\n"
+"**The challenge:** The challenge is to find a path of connected numbers down the pyramid so the product of the selected numbers is the target."
+msgstr ""
+"Эти головоломки представляют собой мультипликативную версию Пирамиды Сложения, представленных на 4-том этапе. Вам предоставляется целое число и пирамида чисел.\n"
+"\n"
+"**Задача:** Задача состоит в том, чтобы найти путь и связанных чисел вниз по пирамиде так, чтобы произведение выбранных чисел было искомым."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this pyramid the target is 36, and the red lines indicate the path that works.\n"
+"\n"
+"These puzzles are easier if you start by doing the prime factorization of the target. Because 36 = 2 × 2 × 3 × 3, these prime factors must be picked up along the path, and this helps guide the search.\n"
+"\n"
+"Knowing about prime factorizations also makes it much easier to create these puzzles."
+msgstr ""
+"В этой пирамиде цель – 36, а красные линии указывает путь который работает.\n"
+"\n"
+"Эти головоломки будут проще, если вы начнёте с разложения на простые множители целевого числа. Потому что 36 = 2 x 2 x 3 x 3, эти основные факторы необходимо собирать по ходу пути, и это помогает направлять поиск.\n"
+"\n"
+"Знание принципов разложения на простые множители также значительно облегчает создание подобных головоломок."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "100 LAUGHS"
+msgstr "100 СМЕХОВ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with Q’s (as 0’s), A’s (as 1’s), and 2-9’s. Set the target number at 100. Four random cards are chosen in order and used to make a pair of 2-digit numbers, a shared resource.\n"
+"\n"
+"**How to play:** Each player is dealt 14 random cards face up. Players alternate turns. During a turn, a player must use exactly two of their cards to place on top of two of the four cards. The player gets one point if the current two two-digit numbers add up to the target. The name of the game comes from the optional action of a player laughing each time they succeed in getting the target amount.\n"
+"\n"
+"**How to win:** When the cards are all used up, the player with the most points wins."
+msgstr ""
+"**Установка:** Используйте колоду карт с королевами (как 0), тузы (как 1), и 2-9. Установите целевое число на уровне 100. Четыре случайные карты выбираются по порядку и используются для составления пары двузначных чисел – общий ресурс.\n"
+"\n"
+"**Как играть:** Каждому игроку раздаётся 14 случайных карт лицом вверх. Игроки чередуют ходы. Во время хода игрок должен использовать ровно две свои карты, чтобы положить их поверх двух из четырёх карт. Игрок получает одно очко, если сумма текущих двухзначных чисел равна целевому значению. Название игры происходит от необязательного действия, когда игрок смеётся каждый раз, когда ему удаётся набрать целевую сумму.\n"
+"\n"
+"**Как выиграть:** Когда все карты будут использованы, побеждает игрок набравший наибольшее количество очков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Having a target of 100 is useful for practicing number bonds for 10. However, other targets are useful for providing variety and to practice with other number bonds.\n"
+"* Give players fewer or more than 14 cards.\n"
+"* Use subtraction together with a smaller target number."
+msgstr ""
+"* Наличие цели в 100 хорошо подходят для практики числовых связей в пределах 10. Однако другие цели полезны для разнообразия и практики других числовых связей.\n"
+"* Дайте игрокам меньше или больше 14 карт.\n"
+"* Используйте вычитание вместе с меньшим целевым числом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5-CARD DRAW TO A TARGET"
+msgstr "5-ВЫТЯГИВАНИЕ КАРТЫ К ЦЕЛИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting"
+msgstr "Сложение и Вычитание"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Choose a target number, say 100.\n"
+"\n"
+"**How to play:** Each player picks up five random cards from 0 to 9. Two 2-digit numbers are made out of these numbers, the fifth card is unused. The two numbers are added and the player closest to the target wins a point for that round.\n"
+"\n"
+"**How to win:** The highest number of points after a fixed number of rounds wins."
+msgstr ""
+"**Установка:** Выберите целевое число, например 100.\n"
+"\n"
+"**Как играть:** Каждый игрок берёт пять случайных карт от 0 до 9. Из этих цифр составлены два двузначных числа, пятая карта неиспользованная. Два числа суммируются, и игрок оказавшийся ближе всего к цели, выигрывает очко в этом раунде.\n"
+"\n"
+"**Как выиграть:** Наибольшее количество очков после фиксированного количества раундов побеждает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One option is to use three-digit numbers, a target number of 1000, and each player receives seven cards. Another option is to use subtraction with a smaller target number."
+msgstr "Один из вариантов использовать трёхзначные числа, целевое число – 1000, и каждый игрок получает по семь карт. Другой вариант использовать вычитание с меньшим целевым числом."
 
 #. type=data_list
 msgctxt "data_list"
