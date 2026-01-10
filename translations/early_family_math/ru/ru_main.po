@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 19:52\n"
+"PO-Revision-Date: 2026-01-10 20:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19322,6 +19322,68 @@ msgstr "Для игроков младшего возраста сократит
 msgctxt "data_list"
 msgid "MULTIPLICATION BINGO"
 msgstr "БИНГО С УМНОЖЕНИЕМ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Game"
+msgstr "Игра"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player starts with a 4 by 4 grid of numbers that are possible multiplication products – these numbers can either be randomly assigned or carefully chosen by the player.\n"
+"\n"
+"**How to play:** To start, two cards are dealt and put face up on the table. If either player has the product of those two numbers, they cover it. From then on, the players take turns taking the top card from the draw pile and choosing which of the two cards to replace. All players who have a match with the product cover it.\n"
+"\n"
+"**How to win:** The first player to get 4 in a row wins."
+msgstr ""
+"**Установка:** Каждый игрок начинает с таблицы 4х4 чисел, которые являются возможными результатами умножения – эти числа могут быть назначенные случайным образом или тщательно выбраны игроком.\n"
+"\n"
+"**Как играть:** Сначала раздаются две карты, которые кладутся на стол лицевой стороной вверх. Если у кого-либо из игроков есть произведение этих двух чисел, он закрывает его. После этого игроки по очереди берут верхнюю карту из колоды и выбирают, какую из двух карт заменить. Все игроки, у которых есть совпадающие произведение, закрывают его.\n"
+"\n"
+"**Как выиграть:** Первый игрок, который соберёт четыре подряд, выиграет."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CROSS PRODUCTS"
+msgstr "ПЕРЕКРЕСТНЫЕ ПРОИЗВЕДЕНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle"
+msgstr "Головоломка"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Interesting Products"
+msgstr "Интересние Продукты"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This multiplication puzzle is either 3 by 3 involving each of the numbers 1 to 6 exactly once, or 4 by 4 involving the numbers 1 to 8 exactly once.\n"
+"\n"
+"**The challenge:** Fill in some of the squares, two numbers for each row and each column, so that the product of the numbers in a row is the number marked to the far left and the product of the numbers in a column is the number marked above the column. Some rows or columns may not be marked – if so, there is no constraint on the product of those rows or columns."
+msgstr ""
+"Эта головоломка на умножение представляет собой либо головоломку 3х3, в которой каждая из чисел от 1 до 6 встречается ровно один раз, либо головоломку 4х4, в которой каждое из чисел от 1 до 8 встречается ровно один раз.\n"
+"\n"
+"**Задача:** Заполните некоторые клетки, по два числа в каждой строке и каждом столбце, так, чтобы произведение чисел в строке было равно числу, отмеченному слева, а произведение чисел в столбце – числу, отмеченному над этим столбцом. Некоторые строки или столбцы могут быть не отмечены – в таком случае ограничений на произведение этих строк или столбцов нет."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Solving examples:** Solve the puzzle above by finding columns and rows where you can identify the two numbers. The 30 column must have 5 and 6, and the 10 row must have 2 and 5. Next, the 12 column must have 3 and 4 and the 4 row must have 1 and 4. The rest follows quickly."
+msgstr "**Решение примеров:** Решите эту головоломку, найдя столбцы строки, в которых вы можете найти эти два числа. В столбце 30 должны быть 5 и 6, а в строке 10 – 2 и 5. Далее, в столбце 12 должны быть 3 и 4, а в строке 4 – 1 и 4. Остальное легко проясняется."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n"
+"\n"
+"**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
+msgstr ""
+"В 5-й строке этой головоломки должны быть числа 1 и 5, в 21-й – 3 и 7, а в 32-й – 4 и 8, а в верхней строке методом исключения – 2 и 6. В 7-м столбце – 1 и 7, в 40-м – 5 и 8, в 18-м – 3 и 6, а во 2-м столбце – 2 и 4. Сложите это вместе для решения.\n"
+"\n"
+"**Как создать:** Как это часто бывает с такими головоломками, взрослый может сделать их, сначала заполнив числа на внутренней стороне головоломки, записывай результаты а затем удалив все внутренние числа."
 
 #. type=data_list
 msgctxt "data_list"
