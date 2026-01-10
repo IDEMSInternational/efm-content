@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 01:12\n"
+"PO-Revision-Date: 2026-01-10 03:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18118,6 +18118,156 @@ msgstr ""
 msgctxt "data_list"
 msgid "**Example:** Imagine all cards are flipped over in this example. If your child chose to flip over the card that has the 63 under it, they would know it came from 7 and 9. Flipping over any other card in the same row or column as the 63 would show where the 7 and 9 are. Suppose the second card they flipped over is the 56. The third column must be 7, and also the second row is 9 and the third row is 8."
 msgstr "**Пример:** Представьте, что в этом примере все карты перевёрнуты. Если ваш ребёнок решит перевернуть карточку, под которой находится число 63, он поймёт, что оно произошло от чисел 7 и 9. Переверните любую другую карту в том же ряду или столбце что и 63, чтобы увидеть где находится 7 и 9. Предложим, что вторая перевёрнутая карта - это 56. Третий столбец должен быть 7, а также вторая строка 9 и третья строка 8."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER FACTORS AND MULTIPLES"
+msgstr "ФАКТОР ПОКРЫТИЯ И КРАТНОСТИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Have a board of numbers from 1 to 24. There are two kinds of tokens – a single token reserved for “the last move,” and a pile of other tokens."
+msgstr "**Установка:** Иметь доску с числами с 1 до 24. Существует два вида фишек – Одна фишка, зарезервированная для «последнего шага,» и кучу других фишек."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** The first player gets to pick any number and cover it with the last move token. After that, a player replaces the last move token with the other type of token and moves the last move token to any number that is a factor or multiple of the number from the last move.\n"
+"\n"
+"**How to win:** The losing player is the one forced to cover the number 1.\n"
+"\n"
+"**Example:** This board shows the middle of a game that started 10 -> 5 -> 15 -> 3."
+msgstr ""
+"**Как играть:** Первый игрок выбирает любое число и накрывает его фишкой последнего хода. После этого, игрок заменяет последнюю фишку хода фишкой другого типа и перемещает последнюю фишку хода на любое число, которое является на жителем или кратным числу из последнего хода.\n"
+"\n"
+"**Как выиграть:** Проигравший игрок вынужден закрыть номер 1.\n"
+"\n"
+"**Пример:** На этой доске показана середина игры, которая началась 10 -> 5 -> 15 -> 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As children get better at this game, they will discover rules they need to follow governing reasonable first moves. The most basic rule is that the first move cannot be on a prime number in the upper half of the numbers.\n"
+"\n"
+"Adjust the range of numbers to the skill level of the players – 1 to 30, 1 to 48, or 1 to 60."
+msgstr ""
+"По мере того, как дети будут лучше играть в эту игру, они поймут правила, регулирующие разумные первые ходы. Самое основное правило заключается в том, что первый ход не может быть сделан на простое число верхней половине списка чисел.\n"
+"\n"
+"Отрегулируйте диапазон чисел соответствии с уровнем мастерства игроков – 1 до 30, 1 до 48, или 1 до 60."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NIM WITH FACTORS"
+msgstr "НИМ С ФАКТОРАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with any number, say 20. Let your child decide whether to go first or second. How to play: During their turn, a player may subtract any divisor of the current number from the number. For example, starting at 20, the first player can subtract 1, 2, 4, 5, or 10 for their first move.\n"
+"\n"
+"**How to win:** The player forced to 0 loses."
+msgstr ""
+"**Установка:** Начните с любого числа, например, с 20. Позвольте вашему ребёнку решить, будет ли он ходить первым или вторым.\n"
+"\n"
+"**Как играть:** Во время своего хода игрок может вычесть любой делитель текущего числа из числа. Например, начиная с 20, первый игрок может вычитать 1, 2, 4, 5, или 10 для своего первого шага.\n"
+"\n"
+"**Как выиграть:** Игрок, которому пришлось поставить ноль, проигрывает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy"
+msgstr "Стратегия"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your child becomes familiar with the game, encourage them to look for the remarkably simple strategy for always winning - once they discover it, see if they can explain why it works."
+msgstr "После того, как ваш ребёнок освоится с игрой, предложите ему найти удивительно простую стратегию, которая поможет ему всегда выигрывать – как только он её найдёт, посмотрите, сможет ли он объяснить почему она работает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SIEVE OF ERATOSTHENES"
+msgstr "РЕШЕТО ЭРАТОСФЕРА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finding Primes"
+msgstr "Нахождение Простых Чисел"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Children have fun putting in X’s and watching primes fall through this sieve. This investigation\n"
+"creates opportunities for discovering many interesting properties of divisibility and primes. \n"
+"\n"
+"Start with a number line numbered from 1 to 25 (or larger if space and patience allows). \n"
+"\n"
+"Write the number 2 below itself. On this new line put X’s below each multiple of 2.\n"
+"\n"
+"Next, pull down the lowest number with no X’s below it (3 in this case) and put it on the next line. Write the 3 and put X’s on that line for all its multiples."
+msgstr ""
+"Дети с удовольствием проставляют крестики и наблюдает, как простые числа просеиваются через это решето. Это исследование создаёт возможности для открытия многих интересных свойств делимости и простых чисел.\n"
+"\n"
+"Начните с числовой прямой, от 1 до 25 (или больше, если есто и терпение позволяет).\n"
+"\n"
+"Напишите цифру 2 под собой. На этой новой строке поставьте крестики под каждым числом, квадратным 2.\n"
+"\n"
+"Затем перетащите вниз наименьшее число, под которым нет крестиков (3 в этом случае) и поместите его на следующую строку. Напишите число три и отметьте крестиками все его кратные."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Keep pulling down numbers and marking their multiples.\n"
+"\n"
+"When you are finished, you will have pulled down all the primes. Remember that 1 is a unit and not a prime!"
+msgstr ""
+"Продолжайте записывать числа и отмечать их кратные.\n"
+"\n"
+"Когда вы закончите, вы снимете все простые числа. Помните, что 1 - это единица, а не простое число!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Discuss these questions with your child as they play with the sieve:\n"
+"\n"
+"* Why are primes the numbers the numbers that are pulled down?\n"
+"* What is the last prime whose multiples you need to cross out? Why were the other\n"
+"primes not useful?\n"
+"* For all the primes that were useful, which of their multiples produced new restrictions\n"
+"and which were not useful? Is there a pattern in that answer?\n"
+"* If you had a number, say 53, which prime numbers would you need to divide it by to\n"
+"confirm that it’s a prime?"
+msgstr ""
+"Обсудите эти вопросы с вашим ребёнком, пока он играет с решетом:\n"
+"\n"
+"* Почему простые числа – это числа, которые стянуты вниз?\n"
+"* Какое последнее простое число, кратное которому нужно вычеркнуть? Почему остальные простые числа оказались бесполезными?\n"
+"* Для всех простых чисел, которые были полезны, какие их кратных создавали новые ограничения, а какие были бесполезны? Есть ли закономерность в этом ответе?\n"
+"* Если бы у вас было число, скажем 53, на какие простые числа вам нужно было бы его разделить, чтобы подтвердить, что оно простое?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MIX IT UP"
+msgstr "СМЕШАЕМ ВСЁ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use numbered cards from 1 to 25, or a range your child is comfortable with.\n"
+"\n"
+"**How to play:** A card is selected at random and used as everyone’s target number. That card is returned to the deck. Each player is dealt five cards to be used, in any order and with any operations, to get as close as possible to the target number.\n"
+"\n"
+"**Examples:** Suppose the target number is 14, and you are dealt 3, 6, 12, 17, and 20. 17 - 3 or 20 - 6 work, but only use two cards. 20 - 12 + 6 uses three cards. 17 x (6 / 3) - 20 or 20 - (12 /  (6  /  3)) use four cards, so that's an improvement, if you're trying to use all the cards. Can you find a way to use all five?"
+msgstr ""
+"**Установка:** Используйте пронумерованные карточки от 1 до 25 или любой другой диапазон, который удобен вашему ребёнку.\n"
+"\n"
+"**Как играть:** Карта выбирается случайным образом и используется в качестве целевого числа для всех. Эта карта возвращается в колоду. Каждому игроку раздаётся пять карт, которые нужно использовать в любом порядке и с любыми операциями, чтобы максимально приблизиться к целевому числу.\n"
+"\n"
+"**Примеры:** Предложим, что целевое число 14, и вам раздали 3, 6, 12, 17, и 20. 17 - 3 или 20 - 6 работают, но использует только две карты. 20 - 12 + 6 использует три карты. 17 x (6 / 3) - 20 или 20 - (12 / (6 / 3)) использует четыре карты, так что это улучшение, если вы пытаетесь использовать все карты. Можете придумать способ использовать все пять?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring options"
+msgstr "Варианты подсчёта очков"
 
 #. type=data_list
 msgctxt "data_list"
