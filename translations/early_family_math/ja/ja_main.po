@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-01-14 15:26\n"
+"PO-Revision-Date: 2026-01-14 17:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13375,6 +13375,179 @@ msgstr "６ｘ６のパズル"
 msgctxt "data_list"
 msgid "Okay, you are getting the idea. There are a lot of these! Here are just a few 6 by 6 puzzles to give you some ideas for what is possible. As always, play around with your child with these puzzle pieces and numbers. Perhaps design a few of these together."
 msgstr "さて、これでゲームの基本的な理解ができました。実は他にも似たようなパズルがたくさんあります！ここでは、いくつかのアイデアを提供するために、２つの ６x６のパズルを示しました。以前と同じように、お子さんと一緒に自分のゲームをデザインしてみてください。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Greater Than Sudoku"
+msgstr "不等式を使った数独"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship. \n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
+msgstr ""
+"不等式を使った数独のパズルは、通常の数独と同じルールで始まります。各行、各列、各サブ領域には、それぞれ１つの数字が１度だけ現れます。さらに、２つのセルの間に「より小さい」「より大きい」の記号がある場合、そのセル内の数字はその関係に従う必要があります。\n"
+"\n"
+"これらのより多くの数独は、以前に行った通常の数独を使って作成できます。この教科書で以前に提供された数独の例はすべて、これらの新しいパズルを作成するのに役立ちます。同じ領域の空白のマス目に大なり記号と小なり記号を挿入します。すべての数字を記入せず、すべての不等式 (より小さいまたはより大きい) を入力すると、通常、ゲームは簡単に解決できます。お子さんが最初に使う戦略として、最小の数字と最大の数字を配置すべき場所を探してみるのがよいでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your child is first learning how to do these puzzles, put in all the inequalities and some of the numbers. Gradually, start omitting more of the numbers and some of the inequalities."
+msgstr "お子さんがこれらのパズルを初めて学ぶ際には、すべての不等式と一部の数字を入れてください。徐々に、より多くの数字と不等式の一部を省略し始めるのがよいでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make Me a Liar"
+msgstr "嘘つきをさがそう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone makes an absolute statement and the other players attempt to show that the person is lying. This is done by finding an example that breaks the statement."
+msgstr "誰かが絶対的な発言をし、他のプレイヤーはその人が嘘をついていることを示します。これは違った例を見つけるなどして行います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simple Statements That Are Almost Always True"
+msgstr "ほとんどの場合真実であるという簡単な発言"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One type of statement to use is saying that something is always true. Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* All trucks have four wheels. - Large trucks often have 6, 10 or more wheels.\n"
+"* All rectangles are squares. - Rectangles need not have all their sides the same length.\n"
+"* All birds can fly. - Ostriches, emus, and kiwis are birds that cannot fly.\n"
+"* The moon is only visible at night. - The moon is often visible during the day.\n"
+"* All shapes have straight sides. - A circle does not have a straight side.\n"
+"* All playgrounds have swing sets. - Some playgrounds don’t have swing sets.\n"
+"* All rooms have chairs. Bedrooms and bathrooms often don’t have a chair."
+msgstr ""
+"使用する文の一例として、何かが常に真実であるというものがあります。以下に、なぜそれが嘘であるのかの理由を簡単に説明したいくつかの例を挙げます。\n"
+"\n"
+"* すべてのトラックには４つの車輪があります。 - 大型トラックには、多くの場合、６個、１０個、またはそれ以上の車輪が付いています。\n"
+"* すべての長方形は正方形です。 - 長方形の辺は同じ長さである必要はありません。\n"
+"* すべての鳥が飛ぶことができます。 - ダチョウ、エミュー、キーウィは飛べない鳥です。\n"
+"* 月は夜しか見えません。 - 日中でも月は見えます。\n"
+"* すべての形状の側面はまっすぐです。 - 円には直線の辺がありません。\n"
+"すべての遊び場にはブランコがあります。 - 一部の遊び場にはブランコがありません。\n"
+"* すべての部屋に椅子があります。 - 通常、寝室とバスルームには椅子がない場合が多いです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If-Then Statements That Are Almost Always True"
+msgstr "もし～ならば、ほとんどの場合～は真実ですという発言"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Another type of statement is of the form “if __, then ___ .” Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* If today is Monday, then it is a school day. - Some Mondays are holidays and some Mondays occur during the summer.\n"
+"* If I don’t eat for three hours, then I am hungry. - Most people can sleep for more than three hours and not wake up hungry.\n"
+"* If a person is taller than someone, then they are older. - Children often grow up to be taller than their parents.\n"
+"* If the sun is shining, it is a warm day. - Winter days can be sunny and cold.\n"
+"* If someone is late, something bad must have happened to them. - Sometimes people are late through carelessness or reasons beyond their control (traffic, bad weather, car trouble)."
+msgstr ""
+"発言のもう 1 つの形式は、「もし〜ならば、〜である」です。以下に、それらが嘘である理由の簡単な説明を含むいくつかの例を示します。\n"
+"\n"
+"* 月曜日なら、今日は学校です。 - 月曜日が祝日の場合と、夏休みの間に月曜日があります。\n"
+"* 3時間食べないとお腹が空く。 - ほとんどの人は、３時間以上眠っても空腹にならない.\n"
+"* ある人が他の人より背が高い場合、背の高い人は背の低い人よりも年上です。 - 子どもは通常、成長すると親よりも背が高くなります。\n"
+"* 太陽が輝いていれば、暖かい日です。 - 冬は晴れて寒いことがあります。\n"
+"* 誰かが遅刻した場合、何か悪いことが起こったに違いありません。 - 不注意またはやむを得ない理由 (交通、悪天候、車の故障) により、人が遅れることがあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15-Sliding Puzzle"
+msgstr "１５ピースのスライドパズル"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle Description"
+msgstr "パズルの説明"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The classic version of this puzzle starts with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid. The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"A 4 x 4 grid is too hard for a beginner, so start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr ""
+"このゲームの古典的なバージョンは、縦横５本の線で囲まれた４×４のマスからスタートします。マス目の大きさと同じ大きさの紙を１５枚用意し、１〜１５までの番号を振ります。このゲームは、誰かが紙をマス目に配置するところから始まります。パズルの目的は、マス目の右下隅だけが空欄になるように紙片を並べることです。これを達成するために、空欄に隣接する紙片を空欄にスライドさせることができます。パズルをどのように設定するかによって、パズルが解ける場合と解けない場合があります。\n"
+"\n"
+"４x４マス目は初心者には難しすぎるため、小さいマス目から始めます。マス目は、２x２からお子さんの希望に応じて大きくすることができます。番号付きシートの数は、常にマス目の数よりも１つ少なくなります。たとえば、２x３のマス目では、１から５までのカードを使用します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr "これらのパズルを作成するには、２つの方法があります。１つ目は、マス目をランダムに配置する方法で、この場合、マス目を解ける位置に配置できる確率は50%です。もう1つの方法は、最終的な位置に紙片を配置し、その後、ルールに即した一連の手順で紙片を移動させる方法です。移動が完了した時点で、パズルが解けることが保証されます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving the Puzzle"
+msgstr "ゲームを解く"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The main reason for a child to play with this puzzle is to have fun moving pieces around until they accidentally solve it and also to practice getting numbers in order. Despite that simple goal, you may start to wonder about deeper ideas in the puzzle.\n"
+"\n"
+"A frequent theme of problem solving is to learn from simpler problems or examples. So, let’s do that.\n"
+"\n"
+"The smallest example is 2 by 2. For this size, it is clear that the rows will end up being either 1 2; 3 0 or 1 3; 2 0.\n"
+"\n"
+"The next smallest is 2 by 3. Start this by getting the 1 and 4 in the left column. Once this is done, your puzzle will look like 1 _ _; 4 _ _ . Finish off the last four squares as you would the 2 by 2 case.\n"
+"\n"
+"The 2 by 4 puzzle is done similarly. Start by putting 1 and 5 in the left column. Next, put the 2 and 6 in the second left column without disturbing the 1 and 4. Finally finish off the last 2 by 2.\n"
+"\n"
+"At this point, the pattern for attacking puzzles with 2 rows is clear. What to do with more than 2 rows? Suppose you have 3 rows. Start the solution by getting the top row correctly laid out. After that, leave the top row undisturbed and use your ability to solve a puzzle with 2 rows.\n"
+"\n"
+"Similarly, if there are 4 rows, do the top row first, the second row next (without disturbing the top row), and finish off the last 2 rows as before."
+msgstr ""
+"子供たちがこのパズルで遊ぶ主な理由は、ピースを動かして楽しんでいるうちに偶然に解けてしまうことと、数字を順番に並べる練習になることです。 シンプルな目的とは裏腹に、パズルに込められた深い考えについて考え始めるかもしれません。\n"
+"\n"
+"問題解決への一般的なアプローチは、単純な問題や例から学ぶことです。それでは始めましょう。\n"
+"\n"
+"一番小さい例は２x２です。このサイズの場合、行が最終的に １２;３０ または １３;２０になることは明らかです。\n"
+"\n"
+"２番目に小さいのは２x３です。このサイズの場合、最初に１と４を一番左の列に移動できます。これを行うと、パズルは １_ _;４_ _ のようになります。２x２の場合と同様に、最後の４つのマスを完成させます。\n"
+"\n"
+"２x４パズルも同様に処理されます。最初に１と５を一番左の列に移動します。次に、左から２番目の列に２と６を入れ、１と４はそのままにします。最後に２x２を解きます。\n"
+"\n"
+"ここまでで、２行のパズルを解く方法を理解しましたが、２行以上の場合はどうでしょうか。たとえば、３行のパズルの場合、最初の行を正しく配置することから始めることができます。あとは１行目を維持しながら、次は２行パズルを解くのと同じになります。\n"
+"\n"
+"同様に４つの行がある場合、最初の行が実行され、次に(最初の行に影響を与えずに)２番目の行が実行され、最後の２つは以前と同様に実行されます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is This Puzzle Solvable?"
+msgstr "このパズルは解けますか?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Okay, you have a simple method for solving the puzzle. The next question is: How can I just look at the puzzle and know whether it is solvable or not?\n"
+"\n"
+"To make describing the answer as simple as possible, do a few quick moves, if needed, to place the empty square in the bottom row. Next, make a list of the rows in one long list - the first row is listed first, the second row is listed second, and so on with the last row listed last. Omit the empty square when you list the last row.\n"
+"\n"
+"Take this long list and count the number of inversions in it. When a number earlier in the list is larger than a number later in the list, this is called an inversion. If the number of inversions is an even number, then the puzzle is solvable. If it is an odd number, it is not.\n"
+"\n"
+"As an example, take the 3 by 3 puzzle at the start of this discussion. Start by moving the 4 up to the second row. Then the list is: 6 1 2 4 8 5 3 7. There are 10 inversions in this list: 6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7, and 5 3. There are an even number of inversions, so the puzzle is solvable.\n"
+"\n"
+"Why does this rule work? I won’t drag you through a detailed analysis. The key idea is to keep track of the number of inversions every time you make a move. It turns out that, if you adjust for the hole being in the last row, the number of inversions must always change by an even number after any move. Consequently, if the number of inversions starts as an odd number, it can never get down to 0 inversions."
+msgstr ""
+"これで、パズルを解く簡単な方法がわかりました。では、次の質問に移ります。どうすればパズルを見て、解けるかどうかを知ることができるでしょうか。\n"
+"\n"
+"回答の説明をできるだけ単純にするために、必要に応じて、いくつかの簡単な操作を行って、一番下の行に空白の四角を配置します。次に、一つの長い行のリストを作成します。最初の行を最初に、２番目の行を２番目に、最後の行を最後にリストします。最後の行をリストするときは、空の四角は無視してください。\n"
+"\n"
+"この長いリストを取り、その中の反転の数を数えます。リストの前の数字が後の数字よりも大きい場合、これを反転と呼びます。反転された数が偶数の場合ゲームは解けます。奇数であれば解くことはできません。\n"
+"\n"
+"例として、このディスカッションの最初の３x３パズルを取り上げます。最初に４を２行目に移動します。次に、リストは６ １ ２ ４ ８ ５ ３ ７です。このリストには、６ １、６ ２、６ ４、６ ５、６ ３、４ ３、８ ５、８ ３、８ ７、および５ ３の１０組の数字が反転しています。反転の数が偶数なのでこのパズルは解けます。\n"
+"\n"
+"なぜこのルールが成立するのでしょうか？ここでは詳細な解析は行いません。重要なアイデアは、移動するたびに反転の数に注意することです。最後の行にスペースを入れると、反転された数の対数は、１つ移動すると常に偶数に変化することがわかります。したがって、反転の数が奇数である場合、反転の数は決して０になることはありません。"
 
 #. type=data_list
 msgctxt "data_list"
