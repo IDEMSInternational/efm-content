@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-15 23:13\n"
+"PO-Revision-Date: 2026-01-14 14:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12964,6 +12964,246 @@ msgstr "長方形はこのページのように、角のある、4つのまっ�
 msgctxt "data_list"
 msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
 msgstr "ほとんどの新聞は長方形のような形をしています。キオさんの新聞は変わった形をしていますね。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of These is Not Like the Others"
+msgstr "間違い探しゲーム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This activity has your child looking at four things and deciding which three share a property that the fourth one does not. The following is a quick list of examples together with explanations. Children often have a fresh way of looking at things and it is well worth listening to them to see if their reasoning is novel yet sound.\n"
+"\n"
+"There are several ways to present these four items to your child. The easiest for you is to simply say the list. If the items are easy to draw, you can draw them. If the items are hard to draw, you may be able to find photos or drawings in ads or magazines that you can cut out and select from. You may be able to use a single photo with lots of content and point out four things in the photo.\n"
+"\n"
+"For activities like this, once your child has practiced this for a while and has a solid idea of the activity, it is good to reverse your roles - your child will learn a lot by creating examples for you to solve. As before, their reasoning may be very different from yours, so listen carefully."
+msgstr ""
+"このアクティビティは、お子さんに４つのものを見てもらいその中の１つにはないけれど、他の３つには共通することを見つけるというものです。以下は、例題とその説明の簡単なリストです。子どもたちは様々な視点から物事を見る力があります。そんな彼らの意見をよく聞き、意見が独創的でありながら筋が通っているかを確認する価値が十分にあります。\n"
+"\n"
+"お子さんにこの４つのものを出題する方法はいくつかあります。最も簡単な方法は、それぞれを声に出して読み上げることです。それぞれを絵にしやすい場合は、紙に描いてみるのも良いかもしれません。アイテムが描きにくい場合、広告や雑誌にある写真や図を切り抜いてみたりするのもよいでしょう。また、１枚の写真にたくさんのアイテムがのっている場合、それらを指さして使うのも良いでしょう。\n"
+"\n"
+"このようなアクティビティで、お子さんが解き方を学んだら、お子さんとあなたの役割を逆転させることも良いでしょう。お子さん自身が解くための問題を作成することには多くの学びがあります。前述の通り、お子さんの視点は大人の方とは大きく異なる場合があるため、注意深く聞きましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Groups of Four"
+msgstr "４つのうちのグループ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"最初に例を示します。\n"
+"\n"
+"* うさぎ、いぬ、ちょうちょ、まくら - 最初の３つは動物ですが、まくらは動物ではありません。\n"
+"* バナナ、チーズ、ハンマー、ニンジン - 食べられないものはハンマーだけです。\n"
+"* チーズ、靴、コート、シャツ - チーズ以外はすべて衣類です。\n"
+"* 赤い三角形、穴のある赤い四角、緑の四角、穴のない赤い四角 - 最初の３つのいずれもが答えになる可能性があります。赤い三角形は、四角形ではない唯一の形です。穴の開いた赤い四角だけがソリッドではありません。緑の四角は赤ではない唯一のものです。\n"
+"* 犬、猫、ライオン、金魚 - ライオンはこの中でペットとして許可されていない唯一の動物であり、他の動物よりもはるかに大きい。この中の３匹はそれぞれ４本の足を持ち、陸上に住んでいますが、魚には足がなく、水中に住んでいます。\n"
+"* バラ、かし、カエデ、松 - バラ以外はすべて木です。\n"
+"* ベンチ、テーブル、ソファ、椅子 - テーブルは、座ることができない唯一の家具です。｜ソファは他のアイテムよりも柔らかいです。\n"
+"* ワンワン、プップー、虹、カチッ - 虹は音ではありません。\n"
+"* 靴下、ズボン、歯ブラシ、帽子 - 着れないのは歯ブラシだけです。\n"
+"* 椅子、傘、ソファ、スツール - 座れないのは傘だけです。\n"
+"* アリ、ブタ、クモ、バッタ - 虫ではないものはブタだけです。\n"
+"\n"
+"このゲームでは、言葉の代わりに写真を使うこともできます。このゲームを遊ぶために使える広告、雑誌、またはその他の場所から写真を切り取る習慣を身に付けましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "島に橋をかけよう(数え方)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "それぞれの島 (円) には番号が振ってあり、他の島と紙に描かれた橋 (線) で結ばれています。このアクティビティの目的は島を順番に通る道順を見つけることです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest versions have all the numbers filled in and the numbers go from 1 to the number of islands. You can vary this activity by starting at some number other than 1 and by leaving out some of the numbers.\n"
+"\n"
+"Puzzles with all the numbers are straightforward once your child is confident with counting. Those beginning puzzles are good counting practice and are also good for building up confidence in puzzle solving. The more challenging puzzles are the ones with numbers left out.\n"
+"\n"
+"Ease your child into these harder puzzles by leaving out just a few numbers and slowly move to leaving out more."
+msgstr ""
+"最も簡単な問題には、上の図のように１から７までの数字が既に振ってあります。１以外の数字から始め、いくつかの数字を省くことでゲームに変化を加えることができます。\n"
+"\n"
+"お子さんが数え方を十分理解しているのであれば、数字が降ってある問題は簡単です。数を数える練習にもなりますし、パズルを解く自信をつけるのにもよいでしょう。難易度が高いのは、数字が抜けているパズルです。\n"
+"\n"
+"最初は少しの数字を省き、徐々に省く数を増やすことで難易度を少しずつあげることができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The first of these two puzzles has every other number left out. This makes it relatively easy to fill in the missing numbers. 1 must attach to 0 and 2, and there is only one place for that. 3 must attach to 2 and 4, and with 1 filled in there is only one remaining place for the 3. 5 must go in the remaining place between 4 and 6.\n"
+"\n"
+"The second puzzle is a little bit harder. 3 must attach to 2 and 4, so there is only one place for it. 5 must attach to 4, so there is only one place for it now. 6 must attach to the 5. Finally, 0 must go in the remaining spot."
+msgstr ""
+"最初の問題はひとつ飛ばしで数字を省いているため、比較的簡単に数字を埋めることができます。 例えば１は０と２と隣り合う必要がありますが、上の図でその条件に当てはまる島はひとつだけです。 ３は２と４の隣にくる必要があり、１の島を見つけたら、３の条件を満たす島は１つだけです。５は残りの場所で４と６の隣り合う島になります。\n"
+"\n"
+"２番目の問題は少し難しくなっています。３は２と４と隣り合う必要があり、当てはまる島が一つだけあります。 ５は４の隣り合うので、これも当てはまる島は一つだけあります。６は５の隣の島が一つあります。最後に残った島は残った数字、０になります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
+msgstr "この問題をさらに難しくするためには、数字の１といくつかの橋を除いてみましょう。様々な変化を加えたり、お子さんに作らせてみるのもよいでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "線対称の図形を切ってみよう"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "一枚の紙を半分に折り、切り取って形を作ります。これは切り紙と呼ばれます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Fold"
+msgstr "１つ折り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "紙を半分に折って切り取ると。片方が鏡に映った像を作ることができます。顔やランプ、幾何学模様を試しに切ってみましょう。以下の２つの例（星と木）は、１つ折りで作ることができます。左側が半分に折りたたまれた像で、右側が広げた状態の像です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Folds"
+msgstr "２つ折り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "紙を半分に一度折り、さらに縦方向に半分に折って模様を切り取ると二つの線に対して鏡に映った像を作ることができます。こうすることで花などを簡単に作ることができます。以下の例は左が２回折った後に切りとった形、右がそれを広げた時の全体図です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three Folds"
+msgstr "３つ折り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "さまざまな折り方や切り方を試してみましょう。以下の図は2回折った紙を、前の折り目の角を通るようにもう１回斜めに折って切り取ったものです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Snowflakes"
+msgstr "雪の結晶"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a sequence of folds for creating 6-point snowflakes. Though it takes a few steps, don’t be put off by them - with a little practice they become quick and easy. \n"
+"\n"
+"Start by taking a standard sheet of paper and folding at one of the corners so the sides marked A and B meet. Leave the fold in place and cut along the line marked C.\n"
+"\n"
+"Take the triangle produced and fold it in half so that sides AB and C overlap.\n"
+"\n"
+"Put a temporary fold in this triangle and use the fold to mark the middle of side ABC. Undo the temporary fold.\n"
+"\n"
+"Make a fold over F. When you fold over F, you will be looking to have G placed so that G breaks the angle in half. \n"
+"\n"
+"Fold along G - do this fold underneath so that this new folded piece is underneath the other paper.\n"
+"\n"
+"Although not strictly necessary, it is a good idea to slice off the top of this figure. Otherwise, you might be tempted to use the region above the red dotted line without realizing that there isn’t paper on all levels.\n"
+"\n"
+"Lastly, fold this triangle in half. At last you are all set to do the cutting of your design!\n"
+"\n"
+"Have fun experimenting with many different combinations of cuts and colors!"
+msgstr ""
+"これは６角形の雪の結晶を作るための手順です。少し手間がかかりますが、練習すれば早く簡単にできるようになります。\n"
+"\n"
+"まず、普通紙を用意し、図のＡとＢマークが付いた２辺が合うように、一つの角を合わせて三角に折ります。折ったまま、三角からはみ出る場所をＣの線に沿って切ります。\n"
+"\n"
+"先ほど作った三角形を半分に折り、辺ＡＢと辺Ｃが重なるようにします。\n"
+"\n"
+"この三角形を一旦折り、点線の一番下でＡＢＣの中央に印を付けたあとに開きます。\n"
+"\n"
+"Ｆを折ります。Ｆを折るときにはＧのラインがＡＢＣとＦラインで作られた角度の半分になるように調整します。\n"
+"\n"
+"Ｇに沿って折ります。新しく折った箇所がもう一方の紙の下にくるようにします。\n"
+"\n"
+"厳密には必要ありませんが、この図の上部は切り取った方がよいでしょう。そうしておかないと、紙がすべて重なっていない部分を使ってしまうかもしれないからです。\n"
+"\n"
+"最後に、この三角形を半分に折りましょう。ついに、模様を切り取る準備ができました！\n"
+"\n"
+"さまざまな模様や色の組み合わせを試して、楽しんでみてください！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "１と２を使ったニム"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Game Rules"
+msgstr "ルール説明"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"例えば最初に目標とする数を１０と決めましょう。お子さんに先攻か後攻かを選んでもらいます。 合計は０から始まります。それぞれの番の時に合計数に１または２を足し算し、最初に決めた数字に到達した人が勝ちです。\n"
+"\n"
+"このゲームは引き算で遊ぶこともできます。目標の数字を１０として始め、プレイヤーは各ターンで １または２を引き算します。最初に０になった人が勝ちになります。\n"
+"\n"
+"このゲームに少し変更を加えたい場合は、最初に目標とした数字に到達したり、その数字を越えたプレーヤーが負けるルールにしてみましょう。また、プレイヤーがそれぞれの番に１、２、３のいずれかを足し算 (または引き算) をするルールにするとどうなるかを実験してみるのも良いでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding the Game"
+msgstr "ゲームについて"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"何も分析しなくても、このゲームは楽しく遊べ、１と２の足し算や引き算の練習にもなります。これだけで終わらせることもできますが、２つの優れた問題解決の方法として、１) 単純な例から学ぶこと、２) パターンを探すことをお子さんに示すことができる良い例です。\n"
+"\n"
+"上に書かれたどのルールでもこの問題解決の方法を学習できます。１０から引き算し、０にたどり着いた人が勝つルールを見てみましょう。この例の難しいところは、１０が０から遠すぎることです。もう少し簡単な例を見てみましょう。子ども達とこの簡単なルールで遊ぼうとすると、1から始めるのはばかげているように思えるため、通常５か６から始めたがりますが、実際にはそうすべきです！できるだけシンプルに始めるのが最善の策である場合がよくあります。実際に１から始めてみましょう。あなたが先攻であれば、１なので勝ちになります。次のいくつかの数字の場合を見てみましょう。２でも、あなたの勝ちです。数字が３の場合はあなたは負けます。１を引いても２を引いても、相手に勝ちポジションを与えるため対戦相手が勝ちます。数字が４の場合、最初にあなたが１を引けば相手は負けるポジションに追い込まれるため、あなたが勝つことになります。このように数字を増やしていくと、次の表の結果が作成できます。\n"
+"\n"
+"1勝ち - 2勝ち - 3負け - 4勝ち - 5勝ち - 6負け - 7勝ち - 8勝ち - 9負け - 10勝ち"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"この表を見れば、３つの繰り返しパターンがあることは明らかです。１０から始めるときは、先行で１を引きたくなるでしょう。シンプルなバージョンを検討すると、分析は素早く簡単に行うことができ、難しい分析は必要ありません。これで、あなたはもうこのゲームの達人です。どの数字から始めても、何をすべきか分かっています！この基本的なゲームのどのバージョンも、同じように簡単に分析できます。\n"
+"\n"
+"上の表で勝負パターンが３つずつなのはなぜか疑問に思うでしょうか？1人のプレーヤーが３の倍数で負ける数字にはまると、それ以降のすべてのペアの動きは、負けたプレーヤーが1を引けば相手は２を引く、負けたプレーヤーが２を引けば相手は１を引く、というように、すべて合計が３になるようにすることができるためです。"
 
 #. type=data_list
 msgctxt "data_list"
