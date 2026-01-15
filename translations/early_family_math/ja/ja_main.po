@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-01-15 00:23\n"
+"PO-Revision-Date: 2026-01-15 04:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14867,6 +14867,27 @@ msgstr "モビールに複数の段がある場合、それぞれの段にある
 msgctxt "data_list"
 msgid "Have fun making mobile puzzles for each other. Here is a last one to play with using each of the numbers from 1 to 6. Don’t worry about being fancy and using each number once. Any completed puzzle will be fun. Checking the levels we have: 2 x 2 = 4 x 1; 1 x 4 + (2 + 4) x 1 = 5 x 2; 3 x 2 = 6 x 1; and (1 + 2 + 4 + 5) x 3 = (3 + 6) x 4."
 msgstr "モビールのパズル作りを楽しみましょう。最後に、１から６までの数字を使った問題があります。それぞれの数字を１回ずつ使ったり、凝った作りにしたりする必要はありません。完成したパズルであれば、どれでも楽しいものになります。各段を確認すると、次のようになります。２×２＝４×１；１×４+（２+４）×１＝５×２；３×２＝６×１；（１+２+４+５）×３＝（３+６）×４。このように、すべての段でバランスが取れています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Divide Up the Box"
+msgstr "ボックスの分割"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A rectangle, 4 by 4 or larger, with numbers in some of its squares,  is to be divided into smaller rectangles. Each number must end up  in a separate rectangle whose area is that number. \n"
+"\n"
+"For adults, constructing these puzzles is simple enough. Take a rectangle, divide its interior into rectangles, put numbers for the areas inside each interior rectangle, and then remove any sign of the interior rectangles. The only tricky part is putting numbers in places that make the puzzle reasonably easy to solve - you can always give hints as needed if your puzzle ends up being too hard."
+msgstr ""
+"４×４以上の大きさの長方形があり、そのいくつかのマスには数字が書かれています。この長方形は、より小さな長方形に分割されます。それぞれの数字は、その数と同じ面積を持つ、他と重ならない１つの長方形の中に必ず収まらなければなりません。\n"
+"\n"
+"大人であれば、このようなパズルを作るのはそれほど難しくありません。まず長方形を１つ用意して、その中をいくつかの長方形に分けます。次に、それぞれの長方形の中に、その面積を表す数字を書き込みます。そして最後に、分割した線や形が分からないように、すべて消してしまいます。少し工夫が必要なのは、解く人にとってほどよく解きやすくなるように数字を置くことです。もし難しすぎると感じたら、必要に応じてヒントを出してあげてもよいでしょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving Strategies"
+msgstr "解決戦略"
 
 #. type=data_list
 msgctxt "data_list"
