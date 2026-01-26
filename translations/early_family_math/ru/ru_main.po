@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-10 21:53\n"
+"PO-Revision-Date: 2026-01-16 13:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -24718,6 +24718,11 @@ msgstr "Стадия"
 msgctxt "template"
 msgid "Language"
 msgstr "Язык"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Продолжить"
 
 #. type=tour
 msgctxt "tour"
