@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-28 19:13\n"
+"PO-Revision-Date: 2026-01-28 21:34\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18232,6 +18232,58 @@ msgstr ""
 "**Разделение:** При разделении игрок хлопает и распределяет пальцы между двумя руками. Разделение при этом не может просто поменять местами количество пальцев на руках.\n"
 "\n"
 "**Условие победы:** Игрок побеждает, когда руки всех остальных игроков становятся «мёртвыми». В одном из вариантов игры побеждает тот, у кого первым обе руки становятся «мёртвыми»."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GOING UP"
+msgstr "ВВЕРХ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Each player draws a staircase with anywhere from 4 to 10 steps (more steps for older players)."
+msgstr "**Подготовка:** Каждый игрок рисует лестницу с количеством ступеней от 4 до 10 (чем старше игрок, тем больше ступеней)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a two-digit number using cards numbered from 0 to 9. Determine the tens digit by selecting from cards 0 and 1, and then determine the ones digit by selecting from all the cards. If possible, the player must place this number on their steps.\n"
+"\n"
+"**How to win:** The first player to fill their steps in increasing order from bottom to top wins. Make it easier by allowing neighboring steps to have the same value."
+msgstr ""
+"**Правила:** Составьте двузначное число, используя карточки с числами от 0 до 9. Цифру десятков выбирают из карточек с числами 0 и 1, а цифру единиц из всех карточек. Если возможно, игрок должен поместить это число на одну из своих ступенек.\n"
+"\n"
+"**Условие победы:** Первым побеждает тот игрок, кто заполнит все свои ступеньки в порядке возрастания снизу вверх. Можно упростить игру, разрешив соседним ступенькам иметь одинаковое значение."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CREATING ORDER"
+msgstr "РАНЖИР"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Order in the House"
+msgstr "Порядок"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a deck of Number Cards that goes from 0 to 40 (higher with more players). Deal ten cards to each player (as few as four for younger players). The dealt cards are placed in front of each player in the order dealt. The remaining cards are placed face down in a draw pile. Place the top card face up as the first card in a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player may select either the top card of the discard pile or the draw pile - this card must be used to replace one of the cards in front of the player, and the replaced card is put face up on the top of the discard pile."
+msgstr ""
+"**Подготовка:** Начните с колоды числовых карточек от 0 до 40 (можно использовать более высокие числа, если игроков больше). Раздайте каждому игроку по десять карточек, в ряд без изменений (младшим игрокам можно раздать всего четыре). Оставшиеся карточки кладутся в стопку для добора лицевой стороной вниз. Верхнюю карту из этой стопки положите лицевой стороной вверх — она станет первой картой сброса.\n"
+"\n"
+"**Правила:** Во время своего хода игрок может выбрать верхнюю карту из стопки сброса или стопки для добора — эту карту необходимо использовать для замены одной из карточек, лежащих перед игроком. Заменённая карта кладётся лицевой стороной вверх на верх стопки сброса."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** The goal of the game is to get the cards in inreasing order from left to right."
+msgstr "**Условие победы:** Цель игры — выстроить карточки в порядке возрастания слева направо."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Scoring variations"
+msgstr "Вариации подсчёта очков"
 
 #. type=data_list
 msgctxt "data_list"
