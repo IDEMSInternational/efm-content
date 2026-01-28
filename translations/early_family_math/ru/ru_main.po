@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-28 06:24\n"
+"PO-Revision-Date: 2026-01-28 18:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17937,6 +17937,16 @@ msgstr ""
 "**Правила:** Игроки по очереди переворачивают две карточки. Если два числа отличаются на 10, игрок забирает эти карточки себе, и продолжает свой ход. Если карточки не совпадают, игрок переворачивает их обратно и завершает свой ход.\n"
 "\n"
 "**Условия победы:** Игра заканчивается, когда забирают последнюю пару карточек. Игрок с наибольшим количеством карточек побеждает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GEOMETRIC ART"
+msgstr "ГЕОМЕТРИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Similarity and symmetry are two geometric concepts your child can play with."
+msgstr "Схожесть и симметрия — два геометрических понятия, с которыми ваш ребёнок может играть."
 
 #. type=data_list
 msgctxt "data_list"
