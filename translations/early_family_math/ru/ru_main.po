@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-28 21:34\n"
+"PO-Revision-Date: 2026-01-28 22:33\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18284,6 +18284,499 @@ msgstr "**Условие победы:** Цель игры — выстроит�
 msgctxt "data_list"
 msgid "Scoring variations"
 msgstr "Вариации подсчёта очков"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can play that the first player to get their cards in order wins. Or, you can use a point system for each round of play. In this system, the winner receives 15 points. The other players receive one point for every card they have in order starting with their lowest card."
+msgstr "Игра может проходить по правилам, где побеждает первый игрок, выстроивший свои карточки по порядку. Или можно использовать систему начисления очков за каждый раунд. В этой системе победитель получает 15 очков. Остальные игроки получают по одному очку за каждую карточку, стоящую в правильном порядке, начиная с самой маленькой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLOSEST TO 10"
+msgstr "КТО БЛИЖЕ К 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards from 1 to 10. Choose a target sum, say 10.\n"
+"\n"
+"**How to play:** Each round starts by dealing five cards face down on the table. One player randomly chooses three of those cards and turns them over. Two cards are chosen from those three to add up as close to the target as possible. The unused three cards are given, face up, to the other player to choose two cards to get close to the target.\n"
+"\n"
+"**Scoring:** The player whose result is closest to the target from either side wins a point. Have a number line handy to use for discussions about which result is closer to the target sum."
+msgstr ""
+"**Подготовка:** Используйте колоду карточек с числами от 1 до 10. Выберите конечную цель , например 10.\n"
+"\n"
+"**Правила:** Вначале раунда пять карточек раздаются лицевой стороной вниз на стол. Один из игроков случайным образом выбирает три из этих карточек и переворачивает их лицом вверх. Из этих трёх карточек выбираются две, сумма которых должна быть как можно ближе к цели. Остальные три карточки передаются другому игроку (лицевой стороной вверх), чтобы он тоже выбрал две карточки, сумма которых максимально приблизится к цели.\n"
+"\n"
+"**Подсчёт Очков:** Игрок, чья сумма ближе всего к целевому числу (с любой стороны), получает одно очко."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you use subtraction instead of addition, use a lower target number, say 4."
+msgstr "Если вместо сложения использовать вычитание, выбирайте число поменьше, например 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ZOO RESCUE"
+msgstr "В ТЕСНОТЕ, ДА НЕ В ОБИДЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Small Adding and Subtracting"
+msgstr "Сложение и Вычитание"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use two dice or two sets of number cards going from 1 to 6. Each player has 6 tokens – animal tokens are perfect for this game if you have them. Each player also has a piece of paper with boxes numbered from 0 to 5. Each player decides where to put their 6 tokens – it is okay to put more than one token in a box.\n"
+"\n"
+"**How to play:** During a player’s turn, two numbers are created by rolling the dice or picking two cards, and the difference of those numbers is used. A player can free one of their tokens if they have one in that box.\n"
+"\n"
+"**How to win:** The first player to rescue all their tokens wins.\n"
+"\n"
+"**Strategy:** An important part of this game is choosing good boxes to place tokens in to start with. With practice, your child will realize that some boxes are more likely to occur than others – you can discuss ideas about why this is."
+msgstr ""
+"**Подготовка:** Используйте две кости или два набора карточек с числами от 1 до 6. У каждого игрока есть 6 фишек — отлично подойдут фишки с изображениями животных, если они у вас есть. У каждого игрока также есть лист бумаги с пронумерованными от 0 до 5 ячейками. Каждый игрок решает, как разместить свои 6 фишек — можно положить в одну ячейку несколько фишек.\n"
+"\n"
+"**Правила:** Игрок бросает две кости или выбирает две карточки,и находит разницу между этими числами. Если у игрока есть фишка в ячейке с этим номером, он может «освободить» одну из своих фишек.\n"
+"\n"
+"**Условие победы:** Первым побеждает тот, кто спасёт все свои фишки.\n"
+"\n"
+"**Стратегия:** Важной частью этой игры является грамотный выбор ячеек для размещения фишек. С практикой ваш ребёнок поймёт, что некоторые ячейки выпадают чаще других — вы можете обсудить, почему так происходит."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use cards numbered from 1 to 10 and have 10 boxes numbered from 0 to 9."
+msgstr "Используйте карточки с номерами от 1 до 10 и 10 ячеек, пронумерованных от 0 до 9."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOT POTATO WITH SUMS"
+msgstr "ГОРЯЧАЯ КАРТОШКА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a regular deck of playing cards, have a target number of 5, and remove all cards above the target, except for one card – the 'hot potato,' which can be anything else, such as a Joker or face card. Deal the entire remaining deck to all players – it’s okay if some players get one more card than others.\n"
+"\n"
+"**How to play:** All players start by placing on the table from their hands 5’s and any pairs that add up to 5. On your turn, you can pick a random card from any other player’s hand (a simpler rule is that it is always the player on your right). If this new card gives you a pair of cards that add up to the target sum, place the pair on the table; otherwise, keep the card in your hand. Play then moves to the next player on your right.\n"
+"\n"
+"**How to win:** When play ends, the player holding the hot potato loses. Alternatively, you can play that the first player to run out of cards wins."
+msgstr ""
+"**Подготовка:** Используйте обычную колоду игральных карт, выберите целевое число 5 и уберите все карты с номерами выше этого числа, кроме одной — «горячей картошки», которая может быть любой другой картой с картинкой. Оставшуюся колоду раздайте всем игрокам — не страшно, если у некоторых игроков будет на одну карту больше.\n"
+"\n"
+"**Правила:** В свой ход вы можете взять случайную карту из руки любого другого игрока. Если новая карта образует пару, сумма которой равна целевому числу, вы выкладываете эту пару на стол; если нет — оставляете карту у себя в руке. Затем ход переходит к следующему игроку.\n"
+"\n"
+"**Условие победы:** Проигрывает тот игрок, у которого остаётся «горячая картошка». Либо можно играть по другому правилу: побеждает первый игрок, который избавится от всех своих карт."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As your child’s adding skills improve, use larger target numbers up to 10. \n"
+"\n"
+"Varying the target number will provide practice with the various number bonds."
+msgstr "По мере того как у ребёнка улучшаются навыки сложения, используйте более крупные целевые числа. Изменение целевого числа даст возможность попрактиковаться с различными числовыми сочетаниями."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMMON SUMS"
+msgstr "КОСТИ СХОДЯТСЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Bonds"
+msgstr "Пары Цифр"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Collect the data:** Make a sheet of paper with 12 rows. In each row, put 8 squares. The leftmost column of squares has the numbers from 1 to 12 written in order in the squares. Put 1 token on each of the 12 numbers. Start rolling a pair of dice. After each roll, move the token for the sum of the dice one square to the right. The goal for each token is to be the first to get all the way to the right across the page.\n"
+"\n"
+"Let your child come up with some questions to investigate. Some natural questions are:\n"
+"\n"
+"* Which token(s) will win and why?\n"
+"* Which tokens do well and which ones do poorly?\n"
+"* Which token is the worst?\n"
+"* How will the winners change if the row lengths are made shorter or longer?\n"
+"\n"
+"Have your child explain their ideas about the answers to these questions, and then investigate their ideas by running experiments.\n"
+"\n"
+"Add a competitive element to this by guessing which token will win before the round starts."
+msgstr ""
+"**Сбор данных:** Нарисуйте на листе 12 строк и в каждой строке нарисуйте по 8 квадратов. В самом левом квадрате впишите числа от 1 до 12 по порядку. На каждое из этих чисел положите по одной фишке. Бросте две кости. После каждого броска передвигайте фишку с числом суммы выпавших костей, на один квадрат вправо. Цель для каждой фишки первой дойти до самого правого квадрата.\n"
+"\n"
+"Пусть ваш ребёнок придумает вопросы для исследования. Пример:\n"
+"\n"
+"* Какая фишка или фишки победят и почему?\n"
+"* Какие фишки продвигаются хорошо, а какие плохо?\n"
+"* Какая фишка — худшая?\n"
+"* Как изменятся победители, если длину строк сократить или удлинить\n"
+"\n"
+"Пусть ребёнок объяснит свои идеи по поводу ответов на эти вопросы, а затем проверит свои предположения, проводя эксперименты.\n"
+"\n"
+"Добавьте соревновательный элемент предложите угадать, какая фишка победит, до начала раунда."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUDOKU VARIATIONS"
+msgstr "СУДОКУ НЕ ТАКОЙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The next two puzzles have the basic Sudoku rule that a square grid is filled with numbers so that each number appears exactly once in each row and column.\n"
+"\n"
+"Make these puzzles by starting with a completely filled puzzle, removing many or all the numbers, and creating subregions and the appropriate extra information for that type of puzzle.\n"
+"\n"
+"To save space, the examples here are all 4 by 4. You can make larger puzzles yourself, or you can find larger versions of these on the internet."
+msgstr ""
+"Головоломки на этой странице основаны на базовом правиле Судоку: квадратная сетка заполняется числами так, чтобы каждое число встречалось ровно один раз в каждой строке и в каждом столбце.\n"
+"\n"
+"Начните с полностью заполненной сетки, затем уберите многие или все числа.\n"
+"\n"
+"Все приведённые здесь примеры имеют размер 4 на 4. Вы можете сделать более крупные головоломки самостоятельно или найти их в интернете."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "EVEN-ODD AND KROPKI SUDOKU"
+msgstr "СУДОКУ ЧЁТ-НЕЧЁТ И КРОПКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have the additional restriction that the numbers must occur exactly once in each marked 2 by 2 subregion."
+msgstr "Так же есть дополнительное условие: числа должны встречаться только один раз в каждой отмеченной области размером 2 на 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Even-Odd Sudoku:** Squares with even numbers are greyed in.\n"
+"\n"
+"**Kropki Sudoku:** Hollow dots between cells mean the numbers are one apart; filled dots mean one number is half the other."
+msgstr ""
+"**Судоку Чёт-Нечёт:** Квадраты с чётными числами выделены чёрным цветом.\n"
+"\n"
+"**Кропки Судоку:** Пустые точки между ячейками означают, что числа отличаются на единицу; заполненные точки означают, что одно число в два раза больше другого."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUMDOKU, DIFFDOKU, SUMDIFFDOKU"
+msgstr "АРИФМОДОКУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sudoku Variations"
+msgstr "Судоку не такой"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In addition to the usual Sudoku rules, these puzzles are broken into subregions with target numbes. Unlike standard Sudoku, it is allowed for a number to be repeated in a subregion. If a subregion has just one square in it, the target number will be the value of that square."
+msgstr "В дополнение к обычным правилам Судоку, эти головоломки разбиты на подрегионы с целевыми числами. В отличие от стандартного Судоку, в подрегионе допускается повторение чисел. Если подрегион состоит только из одной клетки, целевое число будет равно значению этой клетки."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Sumdoku:** The sum of the numbers in a subregion is the target number.\n"
+"\n"
+"**Diffdoku:** Subregions have one or two squares. For two squares, the difference of the numbers is the target number.\n"
+"\n"
+"**SumDiffdoku:** The subregions are marked with a “+” or a “-” to indicate sum or difference."
+msgstr ""
+"**Сумма:** Сумма чисел в подрегионе должна равняться целевому числу.\n"
+"\n"
+"**Разница:** Подрегионы состоят из одной или двух клеток. Если клеток две, то разность чисел в них должна равняться целевому числу.\n"
+"\n"
+"**Сумма и Разница:** Подрегионы отмечены знаком «+» или «–», чтобы указать сумму или разность соответственно."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use different groups of numbers instead of the usual 1 to 4 for a 4 by 4. For example, use 1, 3, 5, and 7. If you do this, list the numbers to use above the puzzle."
+msgstr "Используйте другие группы чисел вместо обычных от 1 до 4 для сетки 4 на 4. Например, используйте 1, 3, 5 и 7. Если вы так сделаете, укажите используемые числа над головоломкой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHUT THE BOX"
+msgstr "ПРИКРОЙ КОРОБКУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Each player writes the numbers from 1 to 9 in a row on a piece of paper.\n"
+"\n"
+"**How to play:** To start a turn, a player finds the sum of the roll of two dice. Using only numbers that have yet to be crossed out, the player crosses out a group of one or more numbers that add up to that sum. If this can’t be done, nothing changes. A player may decide in advance to use just one die.\n"
+"\n"
+"**How to win:** The first player to get all numbers crossed out wins."
+msgstr ""
+"**Подготовка:** Каждый игрок записывает числа от 1 до 9 в строку на листе бумаги.\n"
+"\n"
+"**Правила:** Для начала хода игрок находит сумму броска двух кубиков. Используя только числа, которые ещё не зачёркнуты, игрок зачёркивает группу из одного или нескольких чисел, сумма которых равна этой сумме. Если сделать это невозможно, ничего не меняется. Игрок может заранее решить использовать только один кубик.\n"
+"\n"
+"**Условие победы:** Первым выигрывает тот игрок, который зачеркнёт все числа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One way to vary this game is to use a larger range of numbers, such as going to 10 or even 12. Another way is to give each player a single turn - the turn continues with new rolls until the first time the player is stuck. At the end, the player’s score is the sum of the numbers not crossed out. The player with the lowest score wins."
+msgstr "Для разнообразия используйте более широкий диапазон чисел, например, до 10 или даже до 12. Или дайте каждому игроку только один ход: ход продолжается с новыми бросками, пока игрок впервые не окажется в тупике. В конце счётом игрока считается сумма незачёркнутых чисел. Побеждает игрок с наименьшим счётом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HIT THE TARGET"
+msgstr "ПОПАДИ В ЦЕЛЬ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sum Combinations"
+msgstr "КомбиСумма"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** From a deck of playing cards, remove the face cards and any numbers that are larger than what the children are comfortable with. Shuffle the cards and turn over five cards to use and a sixth card that is the target. Leave the remaining cards as a draw pile to fill in cards as they get removed.\n"
+"\n"
+"**How to play:** During a turn, if a player can use the sum or difference of two of the five cards to equal the sixth, the player gets all three cards and they are replaced from the draw pile. If the player fails, then a new sixth card is turned over and the turn moves to the next player. \n"
+"\n"
+"**How to win:** The player with the most cards at the end of the game wins."
+msgstr ""
+"**Подготовка:** Из колоды игральных карт уберите все фигуры и те числовые карты, с которыми ваш ребёнок ещё не комфортно управляется. Перетасуйте карты и откройте пять карт, которые будут использоваться, и шестую - она будет целью. Оставшиеся карты используйте как стопку для добора, чтобы заменять убранные карты.\n"
+"\n"
+"**Правила:** Во время хода, если игрок может с помощью суммы или разности двух из пяти карт получить значение шестой карты, он забирает все три карты, и они заменяются картами из колоды добора. Если игроку это не удаётся, открывается новая шестая карта, и ход переходит к следующему игроку.\n"
+"\n"
+"**Условие победы:** Игрок с наибольшим количеством карт побеждает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are several variations you can use. You can allow a player to use three cards, instead of just two, to add up to the sixth. You can even allow any number of cards to be used to add up to the sixth. Another variation is to allow a mixture of addition and subtraction with any number of cards."
+msgstr "Существует несколько вариантов этой игры. Можно разрешить игроку использовать три карты вместо двух, чтобы получить значение шестой. Можно даже разрешить использовать любое количество карт для получения суммы, равной шестой карте. Ещё один вариант - разрешить сочетание сложения и вычитания с любым количеством карт."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW MANY WAYS?"
+msgstr "СКОЛЬКО СПОСОБОВ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Counting the number of ways of doing something involving choices can lead to some inter- esting investigations. Here are a few possibilities – have fun thinking of many more with your child.\n"
+"\n"
+"**Investigation 1:** Drawing with only red and blue, how many ways can you draw a monster with a hat, eyes, and cape? How does this change if you only colored the hat and the cape? How would it change if you used three colors, or if you could only use each color once?\n"
+"\n"
+"**Investigation 2:** You have a row of 5 identical candies. How many ways can you color them so that there are 2 red ones and 3 blue ones?\n"
+"\n"
+"**Investigation 3:** Find all the ways to get a sum using a small set of numbers. Do this with and without considering order. For example, if you use 1 and 2, there are 1+1+1+1 = 2+1+1 = 2+2 ways of getting 4 without considering order, and 1+1+1+1 = 2+1+1 = 1+2+1 = 1+1+2 = 2+2 ways of getting 4 considering order."
+msgstr ""
+"Подсчёт количества способов сделать что-либо может быть очень полезным упражнением. Вот несколько возможных вариантов.\n"
+"\n"
+"**Раследование 1:** Рисуя только красным и синим, сколькими способами можно нарисовать монстра с шляпой, глазами и плащом? Как изменится количество вариантов, если раскрашивать только шляпу и плащ? А что будет, если использовать три цвета или если каждый цвет можно использовать только один раз?\n"
+"\n"
+"**Раследование 2:** У вас есть 5 одинаковых конфет в одном ряду. Сколькими способами можно их раскрасить так, чтобы 2 были красными, а 3 — синими?\n"
+"\n"
+"**Раследование 3:** Найдите все способы получить сумму, используя небольшой набор чисел. Сделайте это с учётом порядка и без него. Например, если использовать 1 и 2, то есть такие способы получить 4 без учёта порядка: 1+1+1+1, 2+1+1, 2+2. А с учётом порядка: 1+1+1+1, 2+1+1, 1+2+1, 1+1+2, 2+2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "HOW CAN I MAKE?"
+msgstr "КАК Я СДЕЛАЮ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let Me Count the Ways"
+msgstr "Я посчитаю"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One person gives the other person a target number and challenges them to come up with different ways of adding and/or subtracting to get that number. If the target is 3, it might start with 1 + 2, but then become 1 + 5 - 3 and so on.\n"
+"\n"
+"Add restrictions to make it more challenging. For example, you might not allow any numbers less than 4, or you might allow only numbers less than 4.\n"
+"\n"
+"You can turn this into an investigation by asking questions like: How many ways are there of getting 5 if I can only add 1's and 2's.\n"
+"\n"
+"As your child learns more mathematics, additional skills can be added, such as doubling and halving. For example, 5 is 2 doubled plus 1 or two 10’s minus three 5’s."
+msgstr ""
+"Один человек задаёт другому целевое число и предлагает найти разные способы сложения и/или вычитания, чтобы получить это число. Если целевое число 3, всё может начаться с 1 + 2, а затем, например, стать 1 + 5 − 3 и так далее.\n"
+"\n"
+"Чтобы сделать задачу сложнее можно запретить использовать числа меньше 4 или, наоборот, разрешать только числа меньше 4.\n"
+"\n"
+"Вы можете превратить это в раследование, задавая такие вопросы, как: Сколько существует способов получить 5, если я могу складывать только единицы и двойки?.\n"
+"\n"
+"По мере того как ваш ребёнок осваивает математику, можно добавлять новые навыки, такие как удвоение и деление пополам. Например, 5 это 2 умноженное на 2, плюс 1, или дважды по 10 минус три раза по 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "NUMBER SCRAMBLE"
+msgstr "ЦИФРЫ В КРУТУЮ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Roll one die twice to create a two-digit target number – the first roll will be the tens digit and the second roll the ones digit. Roll five dice to create numbers to work with.\n"
+"\n"
+"**The challenge:** Use addition, subtraction, and forming two-digit numbers to get as close as possible to the target number – the score is how close they come.\n"
+"\n"
+"**How to win:** You can either have a winner for each round, or you can add up the scores over several rounds and have an overall winner with the lowest score. Of course, you can play it for the challenge and not keep score."
+msgstr ""
+"**Подготовка:** Бросьте один кубик дважды, чтобы получить двузначное целевое число - первый бросок будет цифрой десятков, второй - цифрой единиц. Затем бросьте пять кубиков, чтобы получить числа для работы.\n"
+"\n"
+"**Задача:** Используйте сложение, вычитание и составление двузначных чисел, чтобы как можно точнее приблизиться к целевому числу - счёт зависит от того, насколько близко получилось.\n"
+"\n"
+"**Условие победы:** Можно определять победителя в каждом раунде или суммировать очки за несколько раундов и объявлять общего победителя с наименьшим счётом. Конечно, можно просто играть ради интереса и не вести подсчёт очков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
+"\n"
+"**Example 2:** Suppose the roll is: 1, 2, 5, 6, 4 and 63. A player gets close with 65 - 4 + 2 + 1 =  64. Another one gets it exactly with 56 + 4 + 2 + 1 = 63. A third says 52 + 6 + 4 + 1 = 63 also works. Have a chat about why some problems have lots of solutions."
+msgstr ""
+"**Пример 1:** Предположим, выпали числа: 4, 4, 3, 1, 3 и цель 22. Первый игрок получает 4 + 4 + 3 + 1 + 3 = 15; другой игрок — 14 + 4 + 3 + 3 = 24; а ещё один игрок — 34 − 14 + 3 = 23.\n"
+"\n"
+"**Пример 2:** Предположим, выпали числа: 1, 2, 5, 6, 4 и цель 63. Один игрок приближается к цели с помощью 65 − 4 + 2 + 1 = 64. Другой решает точно: 56 + 4 + 2 + 1 = 63. Третий говорит, что 52 + 6 + 4 + 1 = 63 тоже работает. Поговорите о том, почему у некоторых задач бывает много решений."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ANY WHICH WAY"
+msgstr "КАК НИ КРУТИ КАРТИНА ТАЖА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Putting the Pieces Together"
+msgstr "Складывая картинку"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The players agree on a target. A useful target is 10, but other numbers are fine.\n"
+"\n"
+"Each player is dealt five cards from a deck without face cards. Players then find as many ways as they can to get the target, or get as close to the target as possible, using any combination of addition and subtraction with any of their cards.\n"
+"\n"
+"Do this as a group activity where the whole group is given five cards to use to cooperatively come up with ways to achieve the total."
+msgstr ""
+"Игроки договариваются о целевом числе. Хорошим начальным вариантом является число 10, но можно использовать и другие числа. Каждому игроку раздают по пять карт из колоды. Затем игроки ищут как можно больше способов получить целевое число или как можно ближе к нему приблизиться, используя любую комбинацию сложения и вычитания с любыми из своих карт.\n"
+"\n"
+"Проведите это как групповое занятие, где всей группе дают пять карт, чтобы вместе придумать способы получить заданное число."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PYRAMID SOLITAIRE"
+msgstr "ПАСЬЯНС ПИРАМИДА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove cards above a target number, say 10. Make a 21-card pyramid with 6 rows. Place the cards in the pyramid face up, with each lower row half-overlapping the row above it. The remaining cards form a draw pile.\n"
+"\n"
+"**How to play:** Collect, and move aside, uncovered groups of cards that sum to the target. This group can include the top card of the draw pile or the discard pile. If there are no matches, move the top draw pile card to the discard pile.\n"
+"\n"
+"**The challenge:** Empty the pyramid of all its cards. The game is over when the draw pile is empty."
+msgstr ""
+"**Подготовка:** Уберите карты со значениями выше целевого числа, например, выше 10. Составьте пирамиду из 21 карты с 6 рядами. Разместите карты в пирамиде лицевой стороной вверх, при этом каждый нижний ряд наполовину накрывает ряд выше. Оставшиеся карты положите в стопку для добора.\n"
+"\n"
+"**Правила:** Собирайте и откладывайте в сторону открытые группы карт, сумма которых равна целевому числу. В группу может входить верхняя карта из стопки добора или из стопки сброса. Если подходящих комбинаций нет, переложите верхнюю карту из стопки добора в стопку сброса.\n"
+"\n"
+"**Задача:** Уберите все карты из пирамиды. Игра заканчивается, когда стопка добора пуста."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Lower targets:** If you use a target less than 10, reduce the pyramid size by a row or two so that you have a big enough draw pile. For example, for a goal of 8 use 15 cards in 5 rows.\n"
+"\n"
+"**Use subtraction:** Instead of using addition, use subtraction. If you use the cards up to ten, a good target number is 5 – remove pairs of cards whose difference is 5. When you have a '5,' you can either remove it or pair it with a 10."
+msgstr ""
+"**Если цель поменьше:** Если вы выбрали цель меньше 10, размер пирамиды нужно уменьшить на один-два ряда, чтобы оставить достаточно карт в стопке добора. Например, при цели 8 используйте 15 карт в 5 рядах.\n"
+"\n"
+"**С вычитанием:** Вместо сложения используй вычитание. Если использовать карты до десяти, число 5 будет хорошей целью. Убирая пары карт, разность которых равна 5. Когда у игрока есть 5, он может либо убрать её, либо составить пару с 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFERENCE PYRAMID"
+msgstr "ПИРАМИДА РАЗНИЦ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Puzzles"
+msgstr "Пасьянс"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** The challenge is to put the numbers from 1 to 6 in a pyramid with one card in the top row, two cards in the second row and three cards in the third row, where each number is the difference of the two numbers directly below it.\n"
+"\n"
+"Let your child take time and play with this. Most likely, just by playing around, they will happen upon a solution. However, if your child gets anxious, here are two tips that help. The 6 must be in the bottom row because it cannot be the difference of any pair of numbers. Similarly, the 5 must either be in the bottom row or in the middle row above the 6 and the 1."
+msgstr ""
+"**Задача:** Разместите числа от 1 до 6 в виде пирамиды - одна карта в верхнем ряду, две карты во втором ряду и три карты в третьем ряду - так, чтобы каждое число было разностью двух чисел, находящихся прямо под ним.\n"
+"\n"
+"Дайте вашему ребёнку время разобраться в этой игре. Наверняка ребёнок наткнётся на решение играючи. Однако если ребёнок начинает нервничать дайте ему несколько подсказок. Например 6 должна быть в последнем ряду, поскольку её нельзя получить вычитанием. По той же логике 5 должна быть в нижнем или центральном ряду."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related challenges"
+msgstr "Повышение сложности"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If your child finds this easy to do, challenge them to find how many ways it can be done. Discuss what it means for two solutions to be different – if one solution is the mirror image of another, should it be considered different? Another challenge is to solve the harder puzzle of putting the numbers from 1 to 10 in a four-level difference pyramid."
+msgstr "Если ваш ребёнок легко справляется с этой активностью, можно усложнить поиском всех возможных решений. Обсудите с ребёнком являются ли зеркальное решение отдельным или нет? Так же можно сделать 4 этажную пирамиду с цифрами от 1 до 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STRATEGY GAMES"
+msgstr "СТРАТЕГИИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playing strategy games will help your child with many reasoning, planning, and problem solving skills. There are dozens of such games – such as tic-tac-toe, 9 Men’s Morris, Fox and Geese, Dara, Connect Four, Mancala, Checkers, Go, Chess – far too many to cover here."
+msgstr "Стратегические игры помогут вашему ребёнку развить навыки рассуждения, планирования и решения проблем. Существует множество таких игр например, крестики-нолики, Мельница, Волк и овцы, Дара, Четыре в ряд, манкала, шашки, го, шахматы, и это лишь небольшая часть."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TAPATAN"
+msgstr "ТАПАТАН"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** There are many games similar to this one – games such as Rota, 9 Holes, and 3 Men’s Morris. In this game, there are 9 points connected in a grid by 3 horizontal and 3 vertical lines. Each player has three identical tokens to play with. The goal of the game is to get your three tokens in a line."
+msgstr "Игра «Тапатан» очень похож на «Мельницу». Тут есть 9 точек, соединённых в сетку тремя горизонтальными и тремя вертикальными линиями. У каждого игрока по три одинаковые фишки. Цель игры — выстроить свои три фишки в одну линию."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** There are two phases of play. During the first 'placement' phase, the players take turns placing their tokens one at a time on vacant points. After placing the tokens, the second 'movement' phase begins. During this phase, players take turns moving their tokens to empty adjacent points. An alternative rule is that pieces can be moved to any empty point, not just adjacent points.\n"
+"\n"
+"**How to win:** The game is over when one player wins or when the same position occurs three times, in which case it is a tie game."
+msgstr ""
+"**Правила:** Есть две фазы игры. Во время первой фазы игроки по очереди размещают свои фишки по одной на свободные точки. Во второй фазе игроки по очереди перемещают свои фишки на свободные соседние точки. Альтернативное правило допускает перемещение фишек на любую свободную точку, а не только на соседнюю.\n"
+"\n"
+"**Условие победы:** Игра заканчивается, когда один из игроков выстраивает свои токены в линию или когда одна и та же позиция повторяется три раза. В этом случае игра заканчивается вничью."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DOTS AND BOXES"
+msgstr "СУНДУЧКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Strategy Games"
+msgstr "Стратегии"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** This satisfying game starts with a rectangular grid of dots – say 3 by 4."
+msgstr "**Подготовка:** Эта увлекательная игра начинается с сетки из точек - скажем, 3 на 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** During a turn, a player draws a horizontal or vertical line connecting two unjoined adjacent dots. If the new line completes a 1 by 1 box, the player earns a point and draws another line.\n"
+"\n"
+"**How to win:** When no more lines can be drawn, the player with the most points wins. An easy way to keep track of points is to put an initial inside each earned box."
+msgstr ""
+"**Правила:** Во время хода игрок рисует горизонтальную или вертикальную линию, соединяющую две не соединенные соседние точки. Если при этом создаётся квадратное поле 1 на 1, игрок зарабатывает очко и рисует ещё одну линию.\n"
+"\n"
+"**Условие победы:** Когда больше нельзя провести ни одной линии, побеждает игрок с наибольшим количеством очков. Простой способ отслеживать очки - вписывать инициал внутри каждого заработанного квадрата."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Although this is traditionally played with little squares, it can also be played with dots in a pattern to produce triangles or hexagons – it’s just harder to draw."
+msgstr "Вы можете использовать разные фигуры и формы, их просто тяжелее рисовать."
 
 #. type=data_list
 msgctxt "data_list"
