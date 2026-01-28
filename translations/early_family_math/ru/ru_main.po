@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-28 05:25\n"
+"PO-Revision-Date: 2026-01-28 06:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17759,7 +17759,7 @@ msgstr "Размеры"
 #. type=data_list
 msgctxt "data_list"
 msgid "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
-msgstr "Если таблица 4x4 слишком сложна, начните с чего-то по меньше. Таблица может быть размером 2x2 или больше. Количество пронумерованных листов бумаги всегда будет на один меньше количества ячеек в таблице. Например, в таблице 2x3 используйте карточки с номерами от 1 до 5."
+msgstr "Если таблица 4x4 слишком сложна, начните с чего-то по меньше. Таблица может быть размером 2x2 или больше. Количество пронумерованных листов бумаги всегда будет на один меньше количества ячеек в таблице. Например, в таблице 2x3 используйте карточки с числами от 1 до 5."
 
 #. type=data_list
 msgctxt "data_list"
@@ -17770,6 +17770,173 @@ msgstr "ЭТАП 3 – Я МОГУ СЧИТАТЬ ДО 10!"
 msgctxt "data_list"
 msgid "Stage 3 Introduction"
 msgstr "3-ый Этап – Введение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Where You've Been**\n"
+"\n"
+"Your child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n"
+"\n"
+"In addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them"
+msgstr ""
+"**Где ты Был?**\n"
+"\n"
+"Ваш ребёнок считает от 0 до 10 и понимает, что означает это количество. Формируются начальные навыки сложения и вычитания. Важной основой является уверенность в сложении и вычитании 1 и 2 с небольшими числами. Ваш ребёнок понимает небольшие объемы и использует их для выполнения сложений и вычитаний с маленькими числами.\n"
+"\n"
+"Помимо всех этих замечательных вещей, ваш ребёнок теперь намного лучше рассуждает! Он понимает, что у объектов и чисел есть свойства, и может рассуждать и начинать решать простые задачи. Ваш ребёнок теперь является полноценным участником семейных математических игр и головоломок, а также активно исследует математический мир вокруг себя."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n"
+"* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n"
+"* Number Bonds – These are all pairs of numbers that add up to a specific number.\n"
+"* Ten Frames – Represent a number from 0 to 10 as that number of dots inside a 2 by 5 rectangular grid. For numbers greater than 4, the upper group of 5 squares is always filled.\n"
+"* Expanded Form – This refers to writing a multi-digit number broken down into the contribution of each of its digits. For example: 25 = 20 + 5 and 317 = 300 + 10 + 7.\n"
+"* Fact Families – This refers to a group of closely related math facts. For example, 2 + 5 = 7 is in the same family as 7 - 2 = 5 and 7 - 5 = 2.\n"
+"* Adding twins and near twins – An adding twin is adding a number to itself, such as 4 + 4. A near twin is one away from a twin, such as 4 + 5.\n"
+"* Doubling, multiplying by two, and halving, two equal parts, dividing in two – Children usu-\n"
+"ally enjoy adding twins. With that comes the idea of doubling and multiplying by 2. Also\n"
+"associated with that is halving, splitting something into two equal parts, and dividing by two.\n"
+"* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n"
+"* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
+msgstr ""
+"* Складываем – Складывать начиная с любого числа, а не всегда с 1. Это полезно для сложения и поиска разницы.\n"
+"* Вычитаем – Вычитать начиная с любого числа. Это полезно для развития понимания отношений между числами.\n"
+"* Числовые пары – Это все пары чисел которые в сумме дают заданное число.\n"
+"* 10 Рамок – Представьте число от 0 до 10 в виде соответствующего количества точек внутри прямоугольной сетки размером 2 на 5. Для чисел больше 4 верхняя группа из 5 квадратов всегда заполнена.\n"
+"* Разложенный Вид – Это относится к записи многозначного числа, в разложенном виде. Например: 25 = 20 + 5 и 317 = 300 + 10 + 7.\n"
+"* Обратная взаимосвязь – Это относится к группе тесно связанных математических фактов. Например, 2 + 5 = 7 относится к тому же факту, что и 7 - 2 = 5 и 7 - 5 = 2.\n"
+"* Близнецы и почти близнецы – «Близнец» — это сложение числа с самим собой, например, 4 + 4. «Почти близнец» — это число, отличающееся на 1 от близнеца, например, 4 + 5.\n"
+"* Умножение и деление на два – Дети обычно любят добавлять близнецов. И из этого вытекает понимание умножения на 2 и деление пополам.\n"
+"* Чëт-Нечëт – Чëтные числа можно разделить на две равные части. Нечëтные числа имеют остаток 1, когда их делят на две равные части.\n"
+"* Через 2 – Считать вверх или вниз с шагом 2 — например, 0, 2, 4, 6 или 13, 11, 9, 7."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHAPE SUMS"
+msgstr "ПИРАМИДА СУММ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Fill in the missing circles so that every circle is the sum of all the circles directly below and connected to it."
+msgstr "**Задание:** Заполните недостающие круги так, чтобы каждый круг был суммой всех кругов, расположенных непосредственно ниже."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The easiest puzzles have most of the circles filled in. For older children, there are variations that involve larger numbers and cleverer solutions.\n"
+"\n"
+"**Repeated numbers:** One option is to use non-circular shapes for repeated numbers. While the value in a circle may duplicate the value in some other circle or shape, the value in a non-circular shape must match the value in all other places with the same shape."
+msgstr ""
+"Круги в данной головоломке должны быть заполнены цифрами или числами. Для детей постарше есть вариации, которые включают большие числа и более сложные решения.\n"
+"\n"
+"**Повторяющиеся числа** Один из вариантов — использовать другие формы для повторяющихся чисел. Цифры или числа в круге могут совпадать со значением в любой другой фигуре, но значения во всех других фигурах должны совпадать только друг с другом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For example, all squares have the same value in a given puzzle. Use matching shapes to practice adding twins, near twins, and halving – in the first example, the solver is asked to find a number that is half of 8.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with a diagram that is completely filled in and then removing some numbers. If the puzzle has some repeated numbers, use a square, triangle, or other shape instead of a circle for that repeated number."
+msgstr ""
+"Например, все квадраты имеют одинаковое значение в данной головоломке. Используйте совпадающие формы для практики сложения близнецов, почти близнецов и деления пополам — в первом примере нужно найти число, которое является половиной от 8.\n"
+"\n"
+"**Подготовка:** Начните с диаграммы, полностью заполненной числами, а затем удалите некоторые из них. Если в головоломке есть повторяющиеся числа, используйте квадрат, треугольник или другую фигуру."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MYSTERY CHANGE"
+msgstr "ТАЙНАЯ ЗАМЕНА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fact Families"
+msgstr "Обратная взаимосвязь"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Have your child count some small number of objects. While they look away, change the number of objects. When they look back, ask what change you made. They can test their theory by reenacting what they think happened.\n"
+"\n"
+"**Variations:** Once this is easy, you can have them be more creative with their answers. For example, if 4 became 6, the answer might be that you doubled the 4 and then took 2 away."
+msgstr ""
+"**Правила:** Пусть ваш ребëнок посчитает несколько маленьких объектов. Пока он отворачивается, измените количество объектов. Затем спросите, какое изменение вы сделали. Ребëнок может проверить свою теорию озвучив то что, он думает, произошло.\n"
+"\n"
+"**Вариации** Когда это станет легко, вы можете предложить им быть более креативными в своих ответах. Например, если 4 стало 6, ответ может быть таким: вы удвоили 4, а затем убрали 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INTRODUCING 10’S"
+msgstr "НАЧИНАМ С 10-ТИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Welcome to the world beyond 10 fingers! There are wonderful things to discover here. The next group of numbers from 10 to 20 is 10 more than the numbers your child already knows. Before this can become easy, your child needs to conquer the crazy names we use for eleven, twelve, and thirteen.\n"
+"\n"
+"The games on the next pages are designed to emphasize the role that 10 plays in connecting pairs of numbers such as 6 and 16. These games also emphasize the idea that 16 should be thought of as 10 plus 6. This view of decomposing numbers using place value will be much more important as your child counts to 100 in the next Stage."
+msgstr ""
+"Добро пожаловать в мир за пределами 10 пальцев! Здесь можно открыть для себя много удивительного. Следующая группа чисел от 10 до 20, на 10 больше тех, к которым привык ваш ребёнок.\n"
+"\n"
+"Игры на следующей странице предназначены для того, чтобы подчеркнуть роль числа 10 в соединении чисел, таких как 6 и 16. Эти игры также подчёркивают идею, что число 16 следует воспринимать как 10 плюс 6. Такой способ разложения чисел с использованием разрядов станет гораздо более важным, когда ваш ребёнок будет учиться считать до 100."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAKING NUMBER CARDS 1 TO 20"
+msgstr "ИЗГОТОВЛЕНИЕ КАРТОЧЕК С ЧИСЛАМИ ОТ 0 ДО 20"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you don’t have them already, create some extended decks of counting cards from 0 to 20. One deck will be normal numbers, one deck will have the numbers in expanded form from 0 to 20 as 0 + (0 to 9),10 + (0 to 9), and 20 + 0 ,and one deck will use ten frames."
+msgstr "Если у вас их ещё нет, изготовьте несколько видов колод счётных карточек с числами от 0 до 20. Одна колода будет содержать обычные числа. Вторая, числа в разложенном виде, например: 0 + (от 0 до 9), 10 + (от 0 до 9) и 20 + 0. Третья колода будет использовать рисунки с 2 рамками 5 на 2."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BINGO WITH 10"
+msgstr "БИНГО"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Place a random collection of 16 Number Cards from 0 to 20 with expanded form on a 4 by 4 bingo board for each child.\n"
+"\n"
+"**How to play:** Generate random numbers to be called out one at a time. Mix up a collection of counting cards from 0 to 20. Select one card at a time from this pile until the first child gets four in a row and yells Bingo!"
+msgstr ""
+"**Подготовка:** Разместите 16 карточек с числами от 0 до 20 на сетку размером 4 на 4 для каждого ребёнка.\n"
+"\n"
+"**Правила:** Выберите случайные числа, чтобы их называли по одному. Перемешайте коллекцию карточек с числами от 0 до 20. Выбирайте по одной карточке из этой стопки, пока первый ребёнок не соберёт четыре числа в линию и не закричит «Бинго!»."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One important variation of this game is to do a “Tens-Reversed” version using cards with numerals. When a card is chosen, if it is 1 to 10, then 10 is added to find the matching value, and if it is 11 to 20, then 10 is subtracted for the matching value."
+msgstr "Одна важная вариация. Версия «Обратные десятки», используя карточки с цифрами. При выборе карточки, если число от 1 до 10, то добавляется 10 для получения значения, а если число от 11 до 20, то вычитается 10 для получения значения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE – 10’S"
+msgstr "УПРАЖНЕНИЕ НА ПАМЯТЬ — ДЕСЯТКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Adding and Subtracting 10"
+msgstr "Вычитаем и Складываем по 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** This version of the Memory Challenge game uses a Number Card deck from 0 to 20 with the rule that two numbers match if they are 10 apart. If you also have cards from 0 to 20 that use expanded form or ten frames, you should use those too. Deal a 3 by 4 grid of cards out on the table, all face-down.\n"
+"\n"
+"**How to play:** Players take turns flipping two cards face-up. If the two cards are ten apart, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards do not match, the player flips the cards back over and ends their turn.\n"
+"\n"
+"**How to win:** The game ends when the last pair of cards is taken. The player with the most cards wins."
+msgstr ""
+"**Подготовка:** Эта игра использует колоду карточек с числами от 0 до 20 с правилом, что два числа совпадают, если их разница составляет 10. Разложите карточки на столе лицевой стороной вниз.\n"
+"\n"
+"**Правила:** Игроки по очереди переворачивают две карточки. Если два числа отличаются на 10, игрок забирает эти карточки себе, и продолжает свой ход. Если карточки не совпадают, игрок переворачивает их обратно и завершает свой ход.\n"
+"\n"
+"**Условия победы:** Игра заканчивается, когда забирают последнюю пару карточек. Игрок с наибольшим количеством карточек побеждает."
 
 #. type=data_list
 msgctxt "data_list"
