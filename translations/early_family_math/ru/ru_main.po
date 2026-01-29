@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-28 23:34\n"
+"PO-Revision-Date: 2026-01-29 00:33\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19007,6 +19007,253 @@ msgstr ""
 "**Как играть:** Во время своего хода игрок может выбрать, взять ли верхнюю карту из стопки сброса или верхнюю, ещё не открытую карту из колоды. Затем игрок сбрасывает одну карту.\n"
 "\n"
 "**Как выиграть:** Когда игрок успешно собирает полную комбинацию карт, он выкладывает карты на стол и говорит «Джин!»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking the difference with pairs of cards can be used instead of addition. In that case, deal an even number of cards to each player."
+msgstr "Вместо сложения можно использовать вычитание разницы между парами карт. В этом случае каждому игроку следует раздать чётное количество карт."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLASH CARDS"
+msgstr "ФЛЕШ-KАРТЫ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The ease of practicing math facts using flash cards makes them tempting. However, they are often abused by well-meaning helpers and can contribute to math hatred. Beyond the psychological damage that occurs with overly-enthusiastic drill, using flash cards misses out on learning important relationships between numbers. Feel free to use flash cards to give focused practice for a small handful of facts, but please keep the practice limited and relaxed.\n"
+"\n"
+"This page and the next have methods that practice structural insights that are useful and far more interesting to your child, and they should be used until the facts become automatic."
+msgstr ""
+"Простота использования карточек для изучения математических фактов делает их привлекательными. Однако их часто используют неправильно, даже из лучших побуждений, что может привести к неприязни к математике. Помимо психологического вреда, который наносят чрезмерное усердие в заучивание, использование карточек не позволяет понять важные взаимосвязи между числами. Вы можете использовать карточки для целенаправленной отработки небольшого количества фактов, но, пожалуйста, ограничьте время занятий и проводите их спокойной обстановке.\n"
+"\n"
+"На этой и следующей страницах представлены методы, которые помогают развить структурное мышление, что полезно и гораздо интереснее для вашего ребёнка, и их следует использовать до тех пор, пока усвоенные факты не станут автоматическими."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING ADDITION SKILLS"
+msgstr "ПОВТОРЕНИЕ НАВЫКОВ СЛОЖЕНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To do the activities on this page your child should know how to mentally do the following:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3) \n"
+"* Do adding twins and near twins\n"
+"* Know the number bonds for 10\n"
+"* Add 10 to single-digit numbers.\n"
+"\n"
+"If your child is weak with any of these skills, this is the time to practice those skills some more."
+msgstr ""
+"Для выполнения заданий на этой странице ваш ребёнок должен уметь выполнять следующие действия в уме:\n"
+"\n"
+"* Сложение и вычитание 0, 1, 2 (и возможно 3)\n"
+"* Добавление близнецов и почти близнецов\n"
+"* Знайте состав числа 10\n"
+"* Прибавление 10 к однозначным числам.\n"
+"\n"
+"Если у вашего ребёнка есть проблемы с какими-либо из этих навыков, сейчас самое время попрактиковаться с ними ещё немного."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION COMPENSATION"
+msgstr "ДОПОЛНИТЕЛЬНАЯ КОМПЕНСАЦИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation is a powerful tool for making mental math easier. When adding two numbers, you can get the same sum by shifting over part of one number to the other. Adding 8 or 9 is easy using compensation. For example, add 6 + 9 by shifting 1 from the 6 to the 9, which gives 5 + 10. Similarly, 4 + 8 becomes 2 + 10.\n"
+"\n"
+"Use compensation from twins and near twins to make all of the remaining math facts easier: 3 + 5, 3 + 6, 4 + 7, and 5 + 7. For example, using compensation, 5 + 7 is the same as 6 + 6.\n"
+"\n"
+"More than one way: Some math facts can be done several ways. Challenge your child to find more than one way to do a problem. For example, 5 + 7 can become 6 + 6, but it can also become 2 + 10. This kind of math play will lead to lasting insights."
+msgstr ""
+"Компенсация - это мощный инструмент, упрощающий устные вычисления. При сложении двух чисел можно получить ту же сумму, перенеся часть одного числа к другому. Сложение с числами 8 или 9 легко выполняется с помощью компенсации. Например, чтобы сложить 6 + 9, можно перенести 1 от 6 к 9, получив 5 + 10. Аналогично, 4 + 8 превращается в 2 + 10.\n"
+"\n"
+"Используйте метод компенсации, основанной на сложении одинаковых или почти одинаковых чисел, чтобы упростить запоминание всех оставшихся математических фактов: 3 + 5, 3 + 6, 4 + 7, и 5 + 7. Например, используя метод компенсации, 5 + 7 то же самое что 6 + 6.\n"
+"\n"
+"**Более чем Один Способ:** Некоторые математические задачи можно решить несколькими способами. Предложите своему ребёнку найти несколько способов решения одной и той же задачи. Например, 5 + 7 можно представить как 6 + 6, или 2 + 10. Такие математические игры приведут к глубокому пониманию предмета."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REVIEWING SUBTRACTION SKILLS"
+msgstr "ПОВТОРЕНИЕ НАВЫКОВ ВЫЧИТАНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before starting these subtraction activities, practice any of the following skills that happen to\n"
+"be weak for your child:\n"
+"\n"
+"* Add and subtract 0, 1, 2 (and perhaps 3)\n"
+"* Subtract numbers 1 or 2 apart\n"
+"* Know the number bonds for 10 and how they make subtracting from 10 easy \n"
+"* Subtract 10 from numbers from 11 to 19"
+msgstr ""
+"Перед началом выполнения заданий на вычитание потренируйтесь с ребёнком те навыки, которые у него развиты недостаточно хорошо:\n"
+"\n"
+"* Сложение и вычитание 0, 1, 2 (и возможно 3)\n"
+"* Вычитайте числа, отличающиеся на 1 или 2\n"
+"* Знайте состав числа 10 и то, как это упрощает вычитание из 10\n"
+"* Вычтите 10 из чисел от 11 до 19"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "USING 10 AS AN INTERMEDIATE STOP"
+msgstr "ИСПОЛЬЗОВАНИЕ 10 В КАЧЕСТВЕ ПРОМЕЖУТОЧНОЙ ТОЧКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For problems with numbers larger than 10, such as 13 - 8, break them into two differences. Make 10 an intermediate stop when going between the two numbers. The distance from 13 to 8 is the distance from 13 to 10 plus the distance from 10 to 8. Using this, 13 - 8 becomes (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"This simplifies the mental load considerably by breaking these subtractions into two manageable parts. Subtracting 10 from a number between 10 and 20 is very straightforward. Learning how to subtract numbers from 10 is a matter of learning the number bonds for 10."
+msgstr ""
+"Для задачи с числами больше 10, например 13 - 8, разделите вычитание на два этапа. Используйте число 10 в качестве промежуточной точки между двумя числами. Расстояние от 13 до 8 равно сумме расстояний от 13 до 10 и от 10 до 8. Таким образом, 13 - 8 превращается в (13 - 10) + (10 - 8) = 3 + 2 = 5.\n"
+"\n"
+"Это значительно упрощает умственную нагрузку, разбивая вычитания на две лёгко выполнимые части. Вычитание 10 из числа от 10 до 20 очень простая задача. Научиться вычитать числа из 10 - это значит выучить состав числа 10."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUBTRACTION COMPENSATION"
+msgstr "КОМПЕНСАЦИЯ ВЫЧИТАНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Compensation for subtraction means adding or subtracting the same amount to both num- bers. By adding or subtracting the same thing, the distance or difference between the two numbers is maintained.\n"
+"\n"
+"Use compensation on 13 - 8 by adding 2 to both numbers to turn the problem into 15 - 10. Notice how much easier the problem became using this minor adjustment!\n"
+"\n"
+"Single-digit problems can also be done this way. For example, 3 can be added to both numbers in 7 - 3 to make it 10 – 6, which is 4."
+msgstr ""
+"Компенсация при вычитании означает добавление или вычитание одной и той же величины из обоих чисел. При добавлении или вычитании одной и той же величины расстояние или разница между двумя числами сохраняется.\n"
+"\n"
+"Используйте метод компенсации при вычитании 13 - 8, добавив 2 к обоим числам, чтобы преобразовать задачу в 15 - 10. Заметь насколько проще стало задача благодаря этой небольшой корректировке!\n"
+"\n"
+"Таким же образом можно решать и задачи с однозначными числами. Например, к обоим числам в выражение 7 - 3 можно добавить 3, чтобы получить 10 - 6, что равно 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DON’T GO OVER"
+msgstr "НЕ ПЕРЕХОДИТЕ ЧЕРТУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use 5 dice and 4 rolls.\n"
+"\n"
+"**How to play:** On the first roll, choose to save from 0 to 5 of the dice. Once a die is saved it cannot be changed. Similarly with the remaining dice on rolls two and three. On the final roll, all dice are saved. Any score less than or equal to 20 counts, any score over 20 gives the player 0.\n"
+"\n"
+"**How to win:** You can play one or more rounds. The highest total score wins."
+msgstr ""
+"**Подготовка:** Используйте 5 кубиков и 4 броска.\n"
+"\n"
+"**Как играть:** При первом броске выберите от 0 до 5 кубиков, которые хотите сохранить. Сохранённые кубики нельзя изменить. То же самое относится к оставшимся кубикам при втором и третьем броске. После последнего броска все кубики сохраняются. Любой результат, равный или меньший 20 засчитывается, а результат больше 20 даёт игроку 0 очков.\n"
+"\n"
+"**Как выиграть:** Вы можете сыграть один или несколько раундов. Побеждает тот, кто наберёт наибольшее количество очков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The target score of 20, the number of dice, and the number of rolls, can all be changed to suit younger or older players. For example, you could play this with a target of 12 and 3 dice."
+msgstr "Целевое количество очков 20, количество кубиков и количество бросков можно изменить в зависимости от возраста игроков. Например, можно играть установив целевое количество очков равным 12 или используя 3 кубика."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – COMPENSATION"
+msgstr "ПУТЕШЕСТВИЕ ПО ОСТРОВАМ – КОМПЕНСАЦИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Addition up to 20"
+msgstr "Сложение Однозначных Чисел"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles show how using compensation creates easier addition problems."
+msgstr "Эти головоломки показывают, как использование компенсации упрощает задачи на сложение."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path that connects all the islands that have the same answer. Two islands can only connect if their problem’s numbers differ by 1 – with one number increased by one and the other decreased by one.\n"
+"\n"
+"For example, '5 + 8' would connect with '6 + 7.' Only some of the islands will be on the path. In this example, the path starts in the lower left and ends in the upper right.\n"
+"\n"
+"**How to create:** Make these puzzles by starting with about ten empty circles with some connections. Identify a path from one edge of the islands to the other. Along that path, put in problems whose numbers differ from each other by one. In the nearby islands, put problems with small changes that have different answers."
+msgstr ""
+"**Задача:** Найдите путь, соединяющие все острова, на которых указаны одинаковые ответы. Два острова могут быть соединены только в том случае, если числа в их задачах отличается на 1 – одно число увеличено на единицу, а другое уменьшено на единицу.\n"
+"\n"
+"Например, «5 + 8» будет связано с выражением «6 + 7.» Только некоторые из островов будут находиться на этом пути. В этом примере путь начинается в левом нижнем углу и заканчивается в правом верхнем.\n"
+"\n"
+"**Как сделать:** Создайте эти головоломки, начав примерно с 10 пустых кругов с некоторыми соединениями. Найдите путь от одного края островов к другому. Вдоль этого пути разместите задачи, числа которые отличаются друг от друга на единицу. На соседних островах разместите задачи с небольшими изменениями, имеющими разные ответы."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PART-WHOLE TRIANGLES"
+msgstr "ЧАСТЬ–ЦЕЛЫЕ ТРЕУГОЛЬНИКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use number cards 1 to 13. To start, each player is dealt 6 cards face up. There is a draw pile with one card turned over to start a discard pile.\n"
+"\n"
+"**How to play:** During a turn, a player takes the top discard card or the unknown top draw pile card. The chosen card replaces a card they already have, and the replaced card is discarded.\n"
+"\n"
+"**How to win:** The first player to create a 6-card pyramid where each card is the sum of the two cards below it wins."
+msgstr ""
+"**Подготовка:** Используйте карточки с числами 1 до 13. В начале игры каждому игроку раздаётся по 6 карт лицевой стороной вверх. Также имеется колода для добора карт, из которой одна карта переворачивается лицевой стороной вверх, образуя стопку сброшенных карт.\n"
+"\n"
+"**Как играть:** Во время своего хода игрок берёт верхнюю карту из стопки сброса или верхнюю неизвестную карту из колоды. Выбранная карта заменяет одну из карт, которые уже есть у игрока, а заменённая карта сбрасывается.\n"
+"\n"
+"**Как выиграть:** Побеждает игрок, который первым создаст пирамиду 6 карт, где каждая карта является суммой двух карт, расположенных под ней."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Use smaller or larger ranges of cards to match the skills of younger or older players."
+msgstr "Используйте меньшее или большее количество карт, чтобы игра соответствовала уровню навыков более молодых или более взрослых игроков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CARDS TO A TARGET"
+msgstr "КАРТЫ К ЦЕЛИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start by laying out all the playing cards from 1 to 5 in a 4 by 5 grid. Start the running total at 0 and choose a target number, say 25.\n"
+"\n"
+"**How to play:** Players take turns turning over one number and adding it to the running total. The last player to pick a number that does not run over the target number wins."
+msgstr ""
+"**Подготовка:** Начните с того, чтобы разложить все игральные карты от 1 до 5 в сетку размером 4 на 5. Начальное значение суммы установите равным 0 и выберите целевое число, например, 25.\n"
+"\n"
+"**Как играть:** Игроки по очереди переворачивают по одной карточке с числом и добавляют его к текущей сумме. Побеждает тот игрок, который последним выберет число, не превышающие заданное целое число."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Replace 1 to 5 with any five numbers you want practice adding. To practice subtraction, start at the target number, subtract the selected numbers, and don’t allow going below 0."
+msgstr "Замените числа от 1 до 5 любыми пятью числами, с которыми вы хотите потренироваться. Для отработки навыков вычитания начните с целевого числа, вычитайте выбранные числа и не допускайте получение отрицательного результата."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET OUT OF MY HOUSE – ADD/SUB"
+msgstr "УБИРАЙТЕСЬ ИЗ МОЕГО ДОМА – СЛОЖЕНИЕ И ВЫЧИТАНИЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck of cards with numbers from 1 (Ace) to 10. On a shared piece of paper, draw 20 boxes or simple houses numbered from 0 to 19. Each player has 7 tokens distinct from the other player’s 7 tokens.\n"
+"\n"
+"**How to play:** During a turn, a player selects two random cards, and can choose to add, subtract, or multiply them to put their token in a house with fewer than three of the opponent’s tokens. If the house contains one or two of the opponent’s tokens, those tokens are given back to the opponent and the player says “Get out of my house.”\n"
+"\n"
+"**How to win:** The first player to put all their tokens in houses wins."
+msgstr ""
+"**Подготовка:** Используйте колоду карт с числами от 1 (Туз) до 10. На общем листе бумаги нарисуйте 20 клеток или простых домиков, пронумерованных от 0 до 19. У каждого игрока есть 7 фишек, отличающиеся от фишек другого игрока.\n"
+"\n"
+"**Как играть:** Во время своего хода игрок выбирает две случайные карты и может сложить, вычесть или умножить их значения, чтобы поместить свою фишку в дом, где находятся менее трёх фишек противника. Если в доме находится одна или две фишки противника, эти фишки возвращаются противнику, игрок говорит «Убирайтесь из моего дома.»\n"
+"\n"
+"**Как выиграть:** Побеждает игрок, который первым разместит все свои фишки в домах."
 
 #. type=data_list
 msgctxt "data_list"
