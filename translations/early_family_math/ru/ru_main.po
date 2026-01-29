@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-29 02:44\n"
+"PO-Revision-Date: 2026-01-29 03:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18207,6 +18207,35 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "STAND UP / SIT DOWN"
+msgstr "ВСТАТЬ / СИДЕТЬ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Have everyone in a place where it is easy to stand up and sit down. Designate someone to lead.\n"
+"\n"
+"**How to play:** Suppose the leader selects the number 10. If the leader says the number 10, or anything that equals 10, such as 7 + 3, everyone stands up. If the leader says any other number, or anything not equal to 10, then everyone sits down. The leader can try to trick everyone else by standing up or sitting down when everyone should do the opposite."
+msgstr ""
+"**Подготовка:** Поставь всех в такое место где им будет легко вставать и садиться. Назначьте кого-то ведущим.\n"
+"\n"
+"**Как играть:** Предложим, что ведущий выбирает число 10. Если ведущие называют число 10 или что-то равное 10, например, 7 + 3, все встают. Если ведущие называют любое другое число или что-то неравное 10, все садятся. Ведущий может попытаться Обмануть всех остальных, вставая или садясь, когда все должны делать наоборот."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Replace 10 with some other number.\n"
+"* Stand up when the number is larger than 5; sit down if it is 5 or below.\n"
+"* Stand when the number is even; sit when it is odd.\n"
+"* Stand if the digit 1 appears in the number; sit otherwise."
+msgstr ""
+"*Замените 10 на какое-либо другое число.\n"
+"*Встаньте, если число больше 5; сядьте, если оно 5 или меньше.\n"
+"*Встаньте, если число чётное; сядьте, если оно нечётное.\n"
+"*Встаньте, если в числе есть цифра 1; в противоворотном случае сядьте."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "CHOPSTICKS HAND GAME"
 msgstr "ЩЕЛКУНЧИКИ"
 
@@ -18772,6 +18801,11 @@ msgstr ""
 "**Правила:** Во время хода игрок рисует горизонтальную или вертикальную линию, соединяющую две не соединенные соседние точки. Если при этом создаётся квадратное поле 1 на 1, игрок зарабатывает очко и рисует ещё одну линию.\n"
 "\n"
 "**Условие победы:** Когда больше нельзя провести ни одной линии, побеждает игрок с наибольшим количеством очков. Простой способ отслеживать очки - вписывать инициал внутри каждого заработанного квадрата."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Use numbers.** One variation is to place numbers inside each square of the grid when the grid is first drawn. When a player completes a square, they receive the number of points inside the box. After all lines are drawn, the points are totaled up and the player with the most points wins."
+msgstr "**Используйте числа.** Один из вариантов - это разместить числа внутри каждого квадрата сетки, когда сетка впервые нарисована. Когда игрок завершает квадрат, он получает количество очков внутри поля. После того, как все линии нарисованы, очки суммируются и игрок с наибольшим количеством очков побеждает."
 
 #. type=data_list
 msgctxt "data_list"
@@ -19480,6 +19514,584 @@ msgstr "**Как сделать:** Возьмите пустую сетку и �
 msgctxt "data_list"
 msgid "MATH TIC TAC TOE"
 msgstr "МАТЕМАТИЧЕСКИЕ КРЕСТИКИ-НОЛИКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a Tic-Tac-Toe board and tokens with the numbers from 1 to 9 on them. One player has the odd numbers and the other the even ones.\n"
+"\n"
+"**How to play:** Players take turns placing a token, with the Odd player going first. The first player to complete 3 in a row whose sum is 15 wins. One variation is to keep going, fill all the squares, and see which player made the most 15’s.\n"
+"\n"
+"A related game is to have an attacker and a defender. The attacker goes first (the first move cannot be a 5 in the center) and tries to get 15, and the defender tries to stop the attacker."
+msgstr ""
+"**Подготовка:** Используйте игровое поле для крестиков ноликов и фишки с числами от 1 до 9. Один игрок использует фишки с нечётными числами, а другой с чётными.\n"
+"\n"
+"**Как играть:** Игроки по очереди ставят фишки, первым будет игрок, которому выпало нечётное число. Побеждает тот, кто первым соберёт три фишки в ряд, сумма которых равна 15. Один из вариантов игры - это продолжать игру до тех пор, пока не будут заполнены все клетки, и посмотреть, кто из игроков собрал больше рядов с суммой 15.\n"
+"\n"
+"В похожей игре участвуют нападающий и защитник. Нападающие ходят первым (первый ход не может быть числом 5 в центре) и пытается набрать 15 очков, а защитник пытается помешать нападающему."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MEMORY CHALLENGE REVISITED"
+msgstr "ПЕРЕСМОТРИМ ЗАДАНИЕ НА ПАМЯТЬ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Sum Play"
+msgstr "Играйте Вместе"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Deal a grid of cards face down. A 4 by 4 grid is a good size.\n"
+"\n"
+"**How to play:** The players take turns turning over two cards. If the cards 'match,' the player keeps the cards, two more cards are dealt into the empty spaces, and the player gets another turn. If the cards don’t match, the cards are turned back over and the player’s turn ends.\n"
+"\n"
+"**How to win:** At the end of the game, the player with the most cards wins."
+msgstr ""
+"**Подготовка:** Разложите карты рубашкой вверх, образуя сетку. Сетка размером 4 на 4 карты оптимальный вариант.\n"
+"\n"
+"**Как играть:** Игроки по очереди переворачивают две карты. Если карты совпадают, игрок забирает их себе, на освободившиеся места кладутся две новые карты, и игрок получает право на ещё один ход. Если карты не совпадают, они переворачиваются обратно, и ход переходит к следующему игроку.\n"
+"\n"
+"**Как выиграть:** В конце игры побеждает игрок, у которого больше всего карт."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are ideas for how cards can match:\n"
+"\n"
+"* Use a target sum. Two cards match if their sum is the target.\n"
+"* Use a target difference. Two cards match if their difference is the target.\n"
+"* Use cards with addition or subtraction problems together with cards that have the answers – cards match if the problem matches the answer.\n"
+"* Use expanded form. Select 20 numbers from 0 to 99. Write those numbers on pieces of paper. Also, write each one in expanded form on a piece of paper. For example, create 50 + 3 for 53, 30 + 0 for 30, and 0 + 7 for 7. Shuffle those two decks of 20 cards together. Two cards match when a regular number is paired with its expanded form."
+msgstr ""
+"Вот несколько идей, как можно подобрать подходящие карты:\n"
+"\n"
+"* Используйте целевую сумму. Две карты считаются совпадающими, если их сумма равна целевой сумме.\n"
+"* Используйте заданную разницу. Две карты считаются совпадающими, если разница между их значениями равна целевому числу.\n"
+"* Используйте карты с примерами на сложение или вычитание вместе с картами, на которых написаны ответы- карты совпадают, если пример соответствует ответу.\n"
+"* Используйте развёрнутую форму. Выберите 20 чисел от 0 до 99. Напишите эти числа на отдельном листе бумаги. Также напишите каждое число в развёрнутой форме на отдельном листе. Например, для числа 53 напишите 50 + 3, для 30 – 30 + 0, и для 7 – 0 + 7. Перемешайте две колоды из 20 карт. Две карты считаются совпадающими если обычное число совпадает с его развёрнутой формой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GET CLOSEST"
+msgstr "САМЫЙ БЛИЗКИЙ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Write the numbers 5, 10, 25, and 50 vertically on a piece of paper. Put a single blank space on each side of the 5, and two blank spaces on each side of the other numbers. One player fills in the blanks on the left side and the other fills the other side. Each player also has one extra blank to use once with a number to ignore.\n"
+"\n"
+"**How to play:** Play with a deck of Number Cards from 0 to 9. Randomly pick a card from the deck, and put it back in after it is used. Both players must use that number somewhere in the spaces that haven’t been filled in yet. Once all the spaces are filled, the player’s values are compared to each of the target numbers. Whichever player gets closest to each target number gets a point, with both players getting a point if they are equally close.\n"
+"\n"
+"**How to win:** Whoever has the most points wins."
+msgstr ""
+"**Подготовка:** Напишите числа 5, 10, 25, и 50 вертикально на листе бумаги. Поставьте по одному пустому месту с каждой стороны от числа 5 и по два пустых места с каждой стороны от остальных чисел. Один игрок заполняет пустые места слева, а другой справа. У каждого игрока также есть одно дополнительное пустое место, которое можно использовать один раз, чтобы пропустить одно из чисел.\n"
+"\n"
+"**Как играть:** Игра ведётся с колодой числовых карт от 0 до 9. Игроки по очереди вытягивают карту из колоды и возвращает её обратно. Оба игрока должны использовать попавшие число в одном из незаполненных полей. После того, как все поля будут заполнены, значение игроков сравниваются с целевыми числами. Если значение игроков одинаково близкие к целевому числу, оба игрока получают по одному очку.\n"
+"\n"
+"**Как выиграть:** Побеждает тот, кто наберёт больше всего очков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Vary this game by having a different set of target numbers. You can also choose to score the game by summing up all the errors for each player. For this, the player with the smaller score wins."
+msgstr "Разнообразьте эту игру, используя другой набор целевых чисел. Вы также можете подсчитывать очки, суммируя ошибки каждого игрока и побеждает игрок с наименьшим количеством ошибок."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "WAR – DOUBLE-DIGIT COMPARISON"
+msgstr "ВОЙНА – СРАВНЕНИЕ ДВУЗНАЧНЫХ ЧИСЕЛ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the face cards and tens removed, and split it evenly between two players.\n"
+"\n"
+"**How to play:** Each player turns over two cards and puts them side by side to form a two-digit number. The player with the larger number keeps all four cards. If there is a tie, each player turns over two more cards with the winner getting all eight cards.\n"
+"\n"
+"**How to win:** After one or more passes through the cards, the player with the most cards wins."
+msgstr ""
+"**Подготовка:** Перетасуйте колоду игральных карт, предварительно удалив карты с изображениями и десятки, и разделите её поровну между двумя игроками.\n"
+"\n"
+"**Как играть:** Каждый игрок переворачивает две карты и кладёт их рядом, образуя двузначное число. Игрок, у которого получилось большее число, забирает все четыре карты. В случае ничьей каждый игрок переворачивает ещё две карты, и победитель получает все восемь карт.\n"
+"\n"
+"**Как выиграть:** После одного или нескольких кругов раздачи карт побеждает игрок, у которого окажется больше всего карт."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH BLACKJACK"
+msgstr "МАТЕМАТИЧЕСКИЙ БЛЭКДЖЕК"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Traditionally, the target number is 21, but for a young child use a smaller number such as 12. Adjust the contents of the playing cards for your child. For example, for a very young child this might be the cards 1 to 4 in the four suits.\n"
+"\n"
+"**How to play:** Two cards are dealt to each player - one is face up and one is face down (the receiving player is the only one to look at the face down card). During a turn, the player has the option of asking for one more card until the player decides to stop. After every player has had a turn, the players compare the sum of their cards.\n"
+"\n"
+"**How to win:** The player with the sum closest to the target without going over wins."
+msgstr ""
+"**Подготовка:** Традиционно-целевое число равно 21, но для маленького ребёнка лучше использовать меньшее число, например, 12. Подберите содержимое игральных карт в соответствии с возрастом вашего ребёнка. Например, для совсем маленького ребёнка это могут быть карты от 1 до 4 всех четырёх мастей.\n"
+"\n"
+"**Как играть:** Каждому игроку раздаются две карты – одна лицевой стороной вверх, другая лицевой стороной вниз (только игрок, получивший карту, может посмотреть на карту, лежащую лицевой стороной вниз). Во время своего хода игрок может взять ещё одну карту, пока не решит остановиться. После того, как все игроки сделали свой ход, они сравнивают сумму своих карт.\n"
+"\n"
+"**Как выиграть:** Побеждает игрок, сумма очков которого ближе всего к целевому значению, не превышая его."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FILL IN THE BLANKS COMPARISON"
+msgstr "ЗАПОЛНИТЕ ПРОПУСКИ – СРАВНЕНИЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Comparing Double-Digit Numbers"
+msgstr "Сравнение Двузначных Чисел"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Shuffle a deck of playing cards with the numbers 1 to 9.\n"
+"\n"
+"**How to play:** Deal two cards to each player face down. Then, each player turns over one card and decides whether that card will be the tens or ones card. After deciding, each player’s remaining card is turned over and is used to fill the remaining place.\n"
+"\n"
+"**How to win:** The player with the larger number wins."
+msgstr ""
+"**Подготовка:** Перетасуйте колоду игральных карт с числами от 1 до 9.\n"
+"\n"
+"**Как играть:** Каждому игроку раздаются по две карты лицевой стороной вниз. Затем каждый игрок переворачивает одну карту и решает, будет ли эта карта обозначать десятки или единицы. После принятия решения оставшаяся карта каждого игрока переворачивается и используется для заполнения оставшегося места.\n"
+"\n"
+"**Как выиграть:** Игрок, у которого большее число, выигрывает."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TARGET O’s AND X’s"
+msgstr "ЦЕЛИ O И X"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a deck with the picture cards removed. Fill a tic-tac-toe board with randomly generated numbers from 1 to 20. Use a larger range if you want to include multiplication.\n"
+"\n"
+"**How to play:** Deal 6 cards to each player and then flip them all over at the same time. For the first play, it is a race among the two players – the first player to combine two or more of their cards to match one of the squares gets to put an X there and replaces the cards they used. After that, the players take turns putting an X or an O in a chosen square whose value they can match – the cards used for the match are replaced by drawing new ones. If no match can be made, they lose their turn and can choose two of their cards to replace with new ones. \n"
+"\n"
+"**How to win:** The first player to get 3 in a row wins."
+msgstr ""
+"**Подготовка:** Используйте колоду карт без карт с картинками. Заполните игровое поле для крестиков ноликов случайными числами от 1 до 20. Если хотите использовать умножение, используйте больший диапазон чисел.\n"
+"\n"
+"**Как играть:** Раздайте каждому игроку по шесть карт, затем одновременно переверните их лицевой стороной вверх. Первый ход - это соревнование между двумя игроками: тот, кто первым сможет скомбинировать две или более своих карт, чтобы получить число, соответствующее одному из чисел на игровом поле, ставит там крестик и заменяет использованные карты новыми. После этого игроки по очереди ставят крестик или нолик в выбранную клетку, число которое они могут получить используя свои карты. Если игрок не может составить число, соответствующее ни одной из клеток, он пропускает ход и может заменить две свои карты новыми.\n"
+"\n"
+"**Как выиграть:** Побеждает тот, кто первым соберёт три крестика или нолика в ряд."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TERMINATOR 2"
+msgstr "ТЕРМИНАТОР 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Games for Add & Sub"
+msgstr "Больше Игр на Сложение/Вычитание"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use three dice and a board with three rows of five squares numbered from 1 to 15.\n"
+"\n"
+"**How to play:** A player rolls the dice and uses addition and subtraction to combine the three numbers to match one of the numbers on the board. The matched number is crossed out and claimed. If a player can’t find a match, the other player gets a chance to use the numbers and claim the result - in any event, the other player gets the next turn.\n"
+"\n"
+"**How to win:** The winner is the one with the most claimed numbers after a fixed number of turns."
+msgstr ""
+"**Подготовка:** Используйте три игральных кубика и игровое поле с тремя рядами по пять клеток, пронумерованных от 1 до 15.\n"
+"\n"
+"**Как играть:** Игрок бросает кубик и, используя сложение и вычитание, комбинирует три выпавших числа, чтобы получить одно из чисел на игровом поле. Найденное число зачёркивается и считается занятым. Если игрок не может найти совпадение другой игрок получает возможность использовать выпавшие числа и занять результат – в любом случае, ход переходит к другому игроку.\n"
+"\n"
+"**Как выиграть:** Победителем становится тот, кто зафиксирует наибольшее количество чисел после определённого количества ходов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A smaller version would use two dice with the numbers from 1 to 10, and a larger version would use 4 dice and the numbers from 1 to 20."
+msgstr "В упрощенном варианте используются два игральных кубиков с числами от 1 до 10, а в более сложном варианте 4 игральных кубиков с числами от 1 до 20."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC TRIANGLES"
+msgstr "МАГИЧЕСКИЕ ТРЕУГОЛЬНИКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The challenge:** Place the numbers 1 to 6 in a triangle of six circles with three circles on a side, so each side has the same sum."
+msgstr "**Задача:** Разместите числа от 1 до 6 в треугольнике из шести кругов, по три круга на каждой стороне, так, чтобы сумма чисел на каждой стороне была одинаковой."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are really two challenges – find which sums work and how to get those sums. Let your child play with this to figure out which sums work, but if frustration wins out, the sums are 9, 10, 11, and 12.\n"
+"\n"
+"If your child enjoys this puzzle, this can be done for larger triangles as well. For a triangle with nine circles with four circles on a side, the possible sums are 17, 19, 20, 21, and 23."
+msgstr ""
+"Здесь есть две задачи – найти, какие суммы возможны, и как получить эти суммы. Позвольте вашему ребёнку поэкспериментировать, чтобы выяснить, какие суммы работают, но если он начнёт расстраиваться, подскажите что возможные суммы 9, 10, 11, и 12.\n"
+"\n"
+"Если вашему ребёнку понравится эта головоломка, её можно использовать и для более крупных треугольников. Для треугольника с девятью кругами, по четыре круга на каждой стороне, возможные суммы составляют 17, 19, 20, 21, и 23."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MAGIC DESIGNS"
+msgstr "МАГИЧЕСКИЕ ДИЗАЙНЫ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solitaire Shape Puzzles"
+msgstr "Головоломки в Фроме Пасьянса"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Put the numbers in the circles so every straight line of connected circles has the same sum.\n"
+"\n"
+"From left to right, the diagrams above are for puzzles (2), (4), (8), and (9). The answers are in the Stage 4 Bonus Material file.\n"
+"\n"
+"1. The numbers 1 to 4 – a '+' shape with no circles in common.\n"
+"\n"
+"2. The numbers 1 to 5 – a '+' shape with one circle in common in the middle.\n"
+"\n"
+"3. The numbers 1 to 7 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"4. The numbers 1 to 9 – a 'star' shape with lines of 3 circles; a circle in common in the middle.\n"
+"\n"
+"5. The numbers 1 to 5 – an 'L' shape with one common circle in the corner.\n"
+"\n"
+"6. The numbers 1 to 8 – a '+' sign with no circles in common.\n"
+"\n"
+"7. The numbers 1 to 9 – a '+' sign with one circle in common in the middle.\n"
+"\n"
+"8. The numbers 1 to 12 – a 'star' shape, with 6 directions of lines of 4 circles.\n"
+"\n"
+"9. The numbers 1 to 7 – an 'H' shape - 3 vertically on the left, 1 in the center, 3 vertically on the right. The five possible lines of 3 are connected. Hint: The sum is 12."
+msgstr ""
+"**Задача:** Расставьте числа в кружках таким образом, чтобы сумма чисел в каждой прямой линии из соединённых кружков была одинаковой.\n"
+"\n"
+"Слева направо, приведённые выше диаграммы относятся к головоломкам (2), (4), (8), и (9). Ответы находятся в файле Этап 4: Дополнительные Материалы.\n"
+"\n"
+"1. Числа от 1 до 4 – форма «+» без общих кругов.\n"
+"\n"
+"2. Числа от 1 до 5 – форма «+» с одним общим кругом посередине.\n"
+"\n"
+"3. Числа от 1 до 7 – форма «звезда» с линиями из 3 кругов; один общий Круг посередине.\n"
+"\n"
+"4. Числа от 1 до 9 – форма «звезда» с линиями из 3 кругов; один общий Круг посередине.\n"
+"\n"
+"5. Числа от 1 до 5 – форма «L» с одним общим кругом в углу.\n"
+"\n"
+"6. Числа от 1 до 8 – форма «+» без общих кругов.\n"
+"\n"
+"7. Числа от 1 до 9 – форма «+» с одним общим кругом посередине.\n"
+"\n"
+"8. Числа от 1 до 12 – форма «звезда», с 6 направлениями линий из 4 кругов.\n"
+"\n"
+"9. Числа от 1 до 7 – форма «Н» - 3 вертикально слева, 1 в середине, 3 вертикально справа. Пять возможных линий из 3 соединены. Подсказка: сумма равна 12."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "GRABBING 10’S"
+msgstr "ХВАТАТЬ 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Turn long addition problems into simpler problems by grouping numbers that add up to 10. Instead of adding 3 + 8 + 9 + 4 + 7 + 6 + 2 from left to right, rearrange the terms to put the number bonds for 10 together. This example becomes (3 + 7) + (8 + 2) + (4 + 6) + 9, which is 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Once this is easy, include trickier problems such as 4 + 8 + 9 + 5 + 3, which can be rearranged as (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Make simplifying expressions a game with your child."
+msgstr ""
+"Превратите длинные задачи на сложение в более простые, группируя числа, сумма которых равна 10. Вместо того чтобы складывать 3 + 8 + 9 + 4 + 7 + 6 + 2 слева направо, переставьте слагаемые так, чтобы числа дающие в сумме 10, оказались рядом. В этом примере получится (3 + 7) + (8 + 2) + (4 + 6) + 9, что равно 10 + 10 + 10 + 9 = 39.\n"
+"\n"
+"Как только это станет легко, переходите к более сложным задачам, например, 4 + 8 + 9 + 5 + 3, которые можно перегруппировать как (8 + 9 + 3) + 4 + 5 = 20 + 9 = 29. Превратите упрощение выражений в игру со своим ребёнком."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVER UP"
+msgstr "НАКРЫВАТЬ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Example:** As pictured above, suppose you have 18 items and you cover 14 of them with two red pieces of paper. Your child sees the number 18 and that there are 4 uncovered items. They can subtract 18 - 4 and know that 14 pieces are covered. Because the same color is used, the covered items must be equal, so each must be 7, which is half of 14.\n"
+"\n"
+"Here is where the best, and most important, 'step' starts. What other ways are there of discovering that each covered group has 7 items? Your child could count by 2's and see that there are seven 2's as they skip count from 4 to 18. They could break 18 into halves of 9 each and break the 4 into halves of 2 each – then each group of 9 consists of a covered group plus 2 more, so the covered groups are 7 each.\n"
+"\n"
+"Keep exploring and thinking of ways to use all the interesting math relationships!"
+msgstr ""
+"**Пример:** Как показано на рисунке выше, предположим, у вас есть 18 предметов, и вы закрываете 14 из них двумя красными листами бумаги. Ваш ребёнок видит число 18 и то, что 4 предмета остались открытыми. Он может вычесть 18 - 4 и узнать, что 14 предметов закрыты. Поскольку используется один и тот же цвет, закрытые предметы должны быть разделены поровну, поэтому в каждой группе должно быть по 7 предметов, что составляет половину от 14.\n"
+"\n"
+"Здесь начинается самый лучший и важный шаг. Какие ещё способы существуют, чтобы узнать, что в каждой закрытой группе по 7 предметов? Ваш ребёнок может считать по два и увидеть, что от 4 до 18 получается 7 двоек. Он может разделить 18 на две половины по 9 каждая и разделить 4 на две половины по 2 каждая – тогда каждая группа из 9 состоит из закрытой группы плюс ещё 2 предмета, следовательно, в каждой закрытой группе по 7 предметов.\n"
+"\n"
+"Продолжайте исследовать и придумывать способы использования всех интересных математических взаимосвязей!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child is so familiar with addition that it’s no surprise that 2 + 3 is the same as 3 + 2.\n"
+"Although not as obvious, the same is true for multiplication."
+msgstr "Ваш ребёнок настолько хорошо знаком со сложением, что для него не станет сюрпризом, что 2 + 3 равно 3 + 2. Хотя это не так очевидно, то же самое верно для умножения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This illustration shows that two rows of three is the same as three rows of two – you’re just changing your point of view!\n"
+"\n"
+"It doesn’t matter which order you multiply two numbers – you get the same answer either way!\n"
+"\n"
+"It's great that this cool observation means that your child needs to master only about half as many multiplication facts – once your child knows 3 x 4, they also know 4 x 3."
+msgstr ""
+"Это иллюстрация показывается, что два ряда по три элемента – это то же самое, что три ряда по два элемента – вы просто меняете точку зрения!\n"
+"\n"
+"Неважно, в каком порядке вы умножаете два числа – результат в любом случае будет одинаковым!\n"
+"\n"
+"Замечательно, что это интересное наблюдение означает, что вашему ребёнку нужно выучить примерно вдвое меньше примеров на умножение – ведь когда ребёнок знает чему равно 3 x 4, он также знает чему равно 4 x 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING IS MULTIPLICATION"
+msgstr "СЧЁТ С ПРОПУСКАМИ - УМНОЖЕНИЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"All that skip counting practice your child did paid off in getting much better at addition and subtraction. It also will be a big help in getting started with multiplication. Skip counting by 5's makes them particularly quick to learn.\n"
+"\n"
+"Although skip counting is not the fastest way to find a result, it is reliable. To find 7 x 3 either skip count by 3’s seven times or skip count by 7’s three times.\n"
+"\n"
+"Your child will eventually memorize these facts, but skip counting is handy for now."
+msgstr ""
+"Все эти упражнения на счёт с пропуском чисел, которые выполнял ваш ребёнок, принесли свои плоды, значительно улучшив его навыки сложения и вычитания. Это также поможет ему освоить умножение. Счёт с пропуском чисел по 5 особенно быстро усваивается.\n"
+"\n"
+"Хотя счёт с пропуском чисел не самый быстрый способ найти результат он надёжен. Чтобы найти 7 x 3, можно посчитать по 3 семь раз или по 7 три раза.\n"
+"\n"
+"В конечном итоге ваш ребёнок запомнит эти факты, но пока счёт с пропуском чисел - это удобный способ."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MULTIPLYING BY 3 AND 4"
+msgstr "УМНОЖЕНИЕ НА 3 И 4"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More Mental Math"
+msgstr "Больше Задач на Устный Счёт – Умножение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"For someone good at adding, multiplying by 3 and 4 can be quick and easy.\n"
+"\n"
+"Multiplying a number by 3 is adding the number to double the number. So, 3 x 6 is 6 more than double 6, which is 6 + 12 = 18.\n"
+"\n"
+"Four times a number is doubling a number twice. So, 4 x 7 is 2 x (2 x 7), which is 14 + 14 = 28."
+msgstr ""
+"Для тех, кто хорошо умеет складывать, умножение на 3 и 4 может быть быстрым и простым.\n"
+"\n"
+"Умножение числа на три - это сложение числа с удвоенным числом. Таким образом, 3 x 6 это 6 плюс удвоенное 6, то есть 6 + 12 = 18.\n"
+"\n"
+"Умножение числа на четыре - это удвоение числа дважды. Таким образом, 4 x 7 это 2 x (2 x 7), что равно 14 + 14 = 28."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM SQUARE"
+msgstr "СУММА КВАДРАТОВ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** Start with a 3 by 3 square grid that has target sums given for each row and column. Some of the numbers from 1 to 9 are already placed in the grid."
+msgstr "**Подготовка:** Начните с квадратной сеткой 3 на 3, для каждой строки и столбца который заданы целевые числа. Некоторые числа от 1 до 9 уже размещены в сетке."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Place the remaining numbers in the grid to make the row and column sums be the target values.\n"
+"\n"
+"**How to create:** To make one of these puzzles, start by placing pieces of paper with the numbers from 1 to 9 on a 3 x 3 grid.\n"
+"\n"
+"For each row and column, write the sum to the right or below. Then, remove some of the numbers from the grid. Lastly, hand the pieces of paper with the numbers you removed to your child and ask “Where were these?”"
+msgstr ""
+"**Задача:** Разместите оставшиеся числа в сетке таким образом, чтобы сумма чисел в строках и столбцах соответствовали заданным значениям.\n"
+"\n"
+"**Как сделать:** Чтобы создать такую головоломку разложите листочки бумаги с числами от 1 до 9 на сетке 3 на 3.\n"
+"\n"
+"Для каждой строки из столбца запишите сумму справа или снизу. Затем удалите некоторые числа из таблицы. Наконец, передайте ребёнку листы бумаги с удалёнными числами и спросите «Где они находятся?»"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One variation that keeps the sums smaller is to use the numbers from 0 to 8 instead. A harder variation is to do the same thing with the numbers 1 to 12 in a 3 by 4 grid."
+msgstr "Один из вариантов, позволяющий получить меньшие суммы - это использование чисел от 0 до 8. Более сложный вариант сделать то же самое с числами от 1 до 12 в сетке 3 на 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ADDITION PYRAMID"
+msgstr "ПИРАМИДА СЛОЖЕНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**The setup:** A pyramid of 10 numbers placed in 4 rows is given with a target number."
+msgstr "**Подготовка:** Дана пирамида и 10 чисел, расположенных в 4 ряда, а также целевое число."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find a path through the pyramid using one number from each row so that the sum of the numbers is the target number. The numbers on the path must connect to each other.\n"
+"\n"
+"**Example:** The answer to this puzzle is 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**How to create:** Make one of these puzzles by filling in the numbers that you want to form the path, and record the sum of those numbers. Then fill in the remaining decoy numbers in the pyramid."
+msgstr ""
+"**Задача:** Найдите путь через пирамиду, используя по одному числу из каждого ряда, так чтобы сумма чисел равнялась заданному числу. Числа на пути должны быть соединены друг с другом.\n"
+"\n"
+"**Пример:** Ответ на эту головоломку 5 –> 4 –> 1 –> 7.\n"
+"\n"
+"**Как сделать:** Создайте одну из таких головоломок, заполнив нужными числами ячейку, образующие путь, и запишите сумму этих чисел. Затем заполните оставшееся ячейки пирамиды числами отвлекающими элементами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SUM DIFFERENCE"
+msgstr "РАЗНИЦА В СУММЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** One person says two numbers, one a sum and the other a difference, and the other person is challenged to find the original two numbers that have that sum and difference. For example, if one person says the sum is 12 and the difference is 6, the other person says the original numbers are 3 and 9.\n"
+"\n"
+"**Reverse roles:** Because of how easy it is to create these questions, this is a good activity to let your child be the questioner. Not all combinations of numbers for the sum and difference will produce reasonable answers. However, if you start with two numbers and then say their sum and difference, that will guarantee that there is an answer."
+msgstr ""
+"**Как играть:** Один человек называет два числа: одно – сумму, другое – разность, а другой человек должен найти исходные два числа, сумма и разность которых равны названным числам. Например, если один человек говорит, что сумма равна 12, а разность равна 6, другой человек отвечает, что исходные числа это 3 и 9.\n"
+"\n"
+"**Поменяйтесь ролями:** По сколько составлять такие задачи очень легко, это хорошее упражнение, чтобы ваш ребёнок выступил в роли задающего вопроса. Не все комбинации чисел для суммы и разности дадут разумные ответы. Однако, если вы сначала выберите два числа, а затем назовёте их сумму и разность, это гарантирует наличие решения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "POISON NUMBERS"
+msgstr "ЯДОВИТЫЕ ЧИСЛА"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Remove the picture cards from a deck (you can use the Queens as 0’s if you like). Before starting, agree on a set of “poison” numbers for the round. The poison numbers can be any set of numbers you want your child to practice with or become more familiar with. \n"
+"\n"
+"Some examples are:\n"
+"\n"
+"* even numbers (2, 4, 6, 8, 10, 12)\n"
+"* odd numbers (1, 3, 5, 7, 9, 11)\n"
+"* square numbers (1, 4, 9, 16, 25)\n"
+"* prime numbers (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* multiples of a number, such as multiples of 3\n"
+"\n"
+"**How to play:** Deal each player three cards. The first player discards a number that is not a poison number and replaces it from the draw pile. The next player discards a number so the sum of the first two numbers is not a poison number and replaces the discard from the draw pile. The next player plays so the sum of the three cards is not a poison number, and so on.\n"
+"\n"
+"**How to win:** The first player unable to discard a legal card loses and drops out."
+msgstr ""
+"**Подготовка:** Уберите из колоды карты с картинками (можно использовать дам в качестве 0). Перед началом игры договоритесь о наборе «ядовитых» чисел для этого раунда. Ядовитыми числами могут быть любые числа, с которыми вы хотите, чтобы ваш ребёнок попрактиковался или лучше познакомился. Вот некоторые примеры:\n"
+"\n"
+"* чётные числа (2, 4, 6, 8, 10, 12)\n"
+"* нечётные числа (1, 3, 5, 7, 9, 11)\n"
+"* квадратные числа (1, 4, 9, 16, 25)\n"
+"* простые числа (2, 3, 5, 7, 11, 13, 17, 19)\n"
+"* кратные числа, например, кратные числу 3\n"
+"\n"
+"**Как играть:** Раздайте каждому игроку по три карты. Первый игрок сбрасывает карту с числом, которое не является ядовитым, и заменяет её картой из колоды. Следующий игрок сбрасывает карту так, чтобы сумма первых двух чисел не была ядовитым числом, и заменяет сброшенную карту картой из колоды. Следующий игрок играет так, чтобы сумма трёх карт не была ядовитым числом, и так далее.\n"
+"\n"
+"**Как выиграть:** Первый игрок, который не сможет сбросить допустимую карту, проигрывает и выбывает из игры."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This game works equally well with more than two players."
+msgstr "Эта игра одинаково хорошо подходит для игры с участием более двух игроков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child play with and think about these investigations. Don't be in a hurry. The value is in the playing around and discovering beautiful patterns. There is some deeper mathematics in these activities, but those ideas can wait until your child is older."
+msgstr "Позвольте своему ребёнку поиграть с этими заданиями и поразмышлять над ними. Не торопитесь. Ценность заключается в процессе игры и открытие красивых закономерностей. В этих заданиях есть более глубокие математические идеи, но с ними можно подождать, пока ваш ребёнок не станет старше."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FLOWER PETALS"
+msgstr "ЛЕПЕСТКИ ЦВЕТОВ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** In a peculiar garden there are two kinds of flowers. One has 4 petals and the other kind has 7 petals. A child was asked to pick some flowers so that the total number of petals was 13. Could ibt be done? How about 15 petals? For which numbers of petals is it possible? For numbers that are possible, can it be done in more than one way? For example, 32 petals is four 7’s and one 4, and it is also eight 4’s.\n"
+"\n"
+"**Variations:** By varying the numbers, there are lots of examples to play with. For some pairs of numbers there comes a point where all numbers of petals are possible, and for other pairs of numbers there is no such point. For 4 and 7, every number from 18 on is possible. For 3 and 6, there is no point after which all numbers occur."
+msgstr ""
+"**Вопрос:** В необычном саду растут два вида цветов. У одного 4 лепестка, а у другого 7 лепестка. Ребёнка попросите собрать несколько цветов так, чтобы общее количество лепестков составило 13. Возможно ли это? А 15 лепестков? Для каких чисел лепестков - это возможно? Для чисел, для которых это возможно, можно ли это сделать несколькими способами? Например, 32 лепестка можно получить, взяв четыре цветка с 7 лепестками и один цветок с 4 лепестками, а также восемь цветков с 4 лепестками.\n"
+"\n"
+"**Вариации:** Варьируя числа, можно получить множество примеров для экспериментов. Для некоторых пар чисел существует точка, после которой становится возможными все количество лепестков, а для других пар чисел такой точки нет. Например, для чисел 4 и 7 возможно любое количество лепестков, начиная с 18. Для чисел 3 и 6 такой точки, после которой встречаются все числа, не существует."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "CLIMBING STEPS – HOW MANY WAYS"
+msgstr "ПОДЪЁМ ПО СТУПЕНЬКАМ – СКОЛЬКО СПОСОБОВ?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The question:** Suppose your child likes to take steps two at a time sometimes, and one at a time other times. If your child goes up some steps, how many ways can this be done?\n"
+"\n"
+"For example, for 0 steps there is one way - you stand there. For 1 step there is one way. For two steps, you can either take one double step or two single steps, so there are two ways.\n"
+"\n"
+"Carefully think through many examples and then make a table of the results. When there is lots of information, making a table often helps. The start of the table looks like this:"
+msgstr ""
+"**Вопрос:** Предположим, ваш ребёнок иногда делает шаги по два за раз, а иногда по одному. Если ваш ребёнок поднимается по ступенькам, сколькими способами он может это сделать?\n"
+"\n"
+"Например, для 0 ступенек есть один способ – вы просто стоите на месте. Для 1 ступеньки есть один способ. Для двух ступенек можно либо сделать один двойной шаг, либо два одинарных, поэтому есть два способа.\n"
+"\n"
+"Внимательно проанализируйте множество примеров, а затем составьте таблицу результатов. При большом объёме информации составление таблицы часто оказывается полезным. Начало таблицы выглядят следующим образом:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After looking at these numbers, your child may notice that each pair of numbers adds up to the next number. Why does this happen? These numbers are called Fibonacci Numbers."
+msgstr "Изучив эти числа, ваш ребёнок может заметить, что сумма каждой пары чисел равна следующему числу. Почему так происходит? Эти числа называются числами Фибоначчи."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "BALANCE SCALE"
+msgstr "ВЕСЫ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make It Count"
+msgstr "Сделайте это Важным"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A balance scale is a device for telling when two things have the same weight. The scale is usually supplied with a set of weights that are used to weigh objects. Here are some interesting investigations you can do if you restrict the weights you are allowed to use.\n"
+"\n"
+"**Question 1**: If you only have weights that are 4 units and 7 units, then the things you can weigh exactly are the same as you found in the flower petal investigation."
+msgstr ""
+"Весы - это прибор для определения равенства веса двух предметов. Обычно весы комплектуются набором гирь, которые используются для взвешивания предметов. Вот несколько интересных экспериментов, которые вы можете провести, если ограничите набор используемых гирь.\n"
+"\n"
+"**Вопрос 1:** Если у вас есть только гири весом 4 и 7, то предметы, которые вы сможете точно взвесить, будут такими же, как и в исследовании с лепестками цветов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Question 2**: Which things can you weigh exactly if the weights are on either side of the scale?\n"
+"\n"
+"**Question 3:** How do the answers of these two questions change if instead of using weights of size 4 and 7, you use 3 and 8? Or perhaps you use 4 and 6 or 8 and 12?\n"
+"\n"
+"**Question 4:** What happens if you have one weight each for each of the weights in a doubling progression of 1, 2, 4, 8, and 16? How many ways can you weigh something that weighs 13? Does it change things if you allow weights on both sides? What is the largest weight you can measure? This situation is related to the binary number system.\n"
+"\n"
+"**Question 5:** What happens if you use single weights in the tripling progression 1, 3, 9, and 27? Which things can you weigh if you allow those weights on both sides?\n"
+"\n"
+"**Question 6:** What happens if the weights are the Fibonacci Numbers? Is there more than one way to weigh some weights? Find a restriction on the Fibonacci weights so that there is only one way to get each weight."
+msgstr ""
+"**Вопрос 2:** Какие предметы можно точно взвесить, если гири находятся по обе стороны весов?\n"
+"\n"
+"**Вопрос 3:** Как изменится ответы на эти два вопроса, если вместо гирь весом 4 и 7 использовать гири весом 3 и 8? Или, может быть, использовать 4 и 6, или 8 и 12?\n"
+"\n"
+"**Вопрос 4:** Что произойдёт, если у вас есть по одному грузу каждого веса из последовательности 1, 2, 4, 8, и 16? Сколькими способами можно взвесить предмет весом 13? Изменится ли ситуация, если разрешить размещать грузы с обеих сторон весов? Какой наибольший вес можно измерить? Эта ситуация связана с двоичной системой счисления.\n"
+"\n"
+"**Вопрос 5:** Что произойдёт, если использовать отдельные гири с весами 1, 3, 9, и 27? Какие предметы можно взвесить, если разрешить размещать эти гири на обеих чашах весов?\n"
+"\n"
+"**Вопрос 6:** Что произойдёт, если в качестве весов использовать числа Фибоначчи? Существует ли более одного способа взвешивания с помощью таких гирь? Найдите ограничение на веса, соответствующие числам Фибоначчи, такое, чтобы каждый вес можно было получить только одним способом."
 
 #. type=data_list
 msgctxt "data_list"
