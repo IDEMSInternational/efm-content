@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-29 00:33\n"
+"PO-Revision-Date: 2026-01-29 01:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19254,6 +19254,227 @@ msgstr ""
 "**Как играть:** Во время своего хода игрок выбирает две случайные карты и может сложить, вычесть или умножить их значения, чтобы поместить свою фишку в дом, где находятся менее трёх фишек противника. Если в доме находится одна или две фишки противника, эти фишки возвращаются противнику, игрок говорит «Убирайтесь из моего дома.»\n"
 "\n"
 "**Как выиграть:** Побеждает игрок, который первым разместит все свои фишки в домах."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COMBO DOMINOES"
+msgstr "КОМБО ДОМИНО"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Use a set of dominoes that either go from 1 to 6 or 1 to 9. Each player starts with 5 random dominoes without letting the other player see them.\n"
+"\n"
+"**How to play:** To start, a random domino is placed face up in the middle. After that, a player must match the top domino in the middle. Matching means that the two numbers on the top domino can be combined with any operation – add, subtract, or even multiply if you want – to make the same result as some, possibly different, operation acting on the two numbers of one of your dominoes.\n"
+"\n"
+"For example, if [1, 5] is on top, then it matches [2, 4] because 1 + 5 = 2 + 4, and it also matches [2, 2] because 5 - 1 = 2 x 2. The matching domino is placed on top of the previous top. If you can’t make a match, you must pick up a new domino from the pile.\n"
+"\n"
+"**How to win:** The first player to get rid of all their dominoes wins."
+msgstr ""
+"**Подготовка:** Используйте набор домино, фишки которого oт 1 до 6 или 1 до 9. Каждый игрок получает по пять случайных фишек, не показывая их другому игроку.\n"
+"\n"
+"**Как играть:** Для начала, выбирается одна костяшка домино и кладётся лицевой стороной вверх в центр. После этого игрок должен подобрать костяшку, соответствующую верхней костяшки в центрe. Соответствие означает, что два числа на верхней костяшке можно объединить с помощью любой операции – сложение, вычитание или даже умножение, если хотите – чтобы получить тот же результат, что и при применении какой-либо возможно, другой операции к двум числам одной из ваших костяшек.\n"
+"\n"
+"Например, если сверху лежит [1,5], то ей соответствует [2,4], потому что 1+5 = 2+4, а также [2,2] потому что 5-1 = 2x2. Соответствующая костяшка кладётся поверх предыдущей верхней костяшки. Если вы не можете найти подходящую костяшку, вы должны взять новую костяшку из кучи.\n"
+"\n"
+"**Как выиграть:** Побеждает игрок, который первым избавиться от всех своих домино."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DIFFTRIANGLES AND SUMTRIANGLES"
+msgstr "РАЗТРИУГОЛЬНИКИ И СУММТРИУГОЛЬНИКИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Games for Add & Sub"
+msgstr "Игры для Сложения и Вычитания"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**DiffTriangles:** These puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides – the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares."
+msgstr "**РазТриугольники:** В этих головоломках используются треугольники и квадраты, имеющие общие стороны. У каждого треугольника всегда есть ровно два квадрата, примыкающих к его сторонам – Оставшаяся сторона либо примыкает к другому треугольнику, либо остаётся свободной. Число внутри треугольника равно разнице чисел в двух примыкающих к нему квадратах."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**SumTriangles:** These puzzles use addition in place of subtraction. The value of a triangle is the sum of its two or three square neighbors.\n"
+"\n"
+"**The challenge:** Fill in the missing numbers to make each type of puzzle work.\n"
+"\n"
+"**How to create:** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles. Then put in numbers starting at one end working your way to the far end. When you are done, remove some of the numbers. Look at the Bonus Material for ideas on how to make these puzzles with loops."
+msgstr ""
+"**СуммТриугольники:** В этих головоломках вместо вычитания используется сложение. Значение треугольника равно сумме значений двух или трёх соседних квадратах.\n"
+"\n"
+"**Задача:** Заполните недостающие числа, чтобы каждая головоломка работала правильно.\n"
+"\n"
+"**Как сделать:** Создавать головоломки без циклов очень просто. Нарисуйте чередующуюся последовательность квадратов и треугольников. Затем расставьте числа, начиная с одного конца и двигаясь к другому. Когда закончите, удалите некоторые числа. В разделе «Дополнительные материалы» вы найдёте идеи о том как создавать такие головоломки с использованием циклов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SKIP COUNTING"
+msgstr "СЧЁТ С ПРОПУСКАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has already practiced skip counting by 2’s, 5’s, and 10’s between 0 and 20. Start practicing skip counting by any number, starting at any number, going in either direction.\n"
+"\n"
+"Skip counting up **and down** helps with all arithmetic operations, as well as place value (when skipping by 5's or 10's). The tricky part in skip counting is when the tens digit changes, so focus on that. This is a handy activity to do when you are traveling or have some idle time."
+msgstr ""
+"Ваш ребёнок уже практиковался в счёте с пропусками по 2, 5, и 10 от 0 и до 20. Теперь начните практиковать счёт с любым пропуском, начиная с любого числа и двигаясь в любом направлении.\n"
+"\n"
+"Счёт с пропусками вверх \\textbf{и вниз} помогает освоить все арифметические операции, а также понятие разрядности чисел (когда считаете с пропусками по 5 или 10). Самая сложная часть при счёте с пропусками – это изменение разряда десятков, поэтому сосредоточьтесь на этом. Это полезное занятие, с которым можно заняться в дороге или в свободное время."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHORT STEPS TO A TARGET"
+msgstr "КОРОТКИЕ ШАГИ К ЦЕЛИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**How to play:** Create a 2-digit starting number using two playing cards from 1 to 9 - the first card gives the tens place and the other the ones place. Starting at that number, use 5 jumps each of which is either by 1 or 10. The goal is to get as close to 50 as possible, and the score is the difference from 50. The lowest total score after several rounds wins.\n"
+"\n"
+"**100 chart:** Young players benefit from referring to a 100 chart. Using that chart will also emphasize place value as they go up or down by 10.\n"
+"\n"
+"**Variations:** You can vary this game by allowing steps of 1, 2 or 10, or steps of 1, 2, 5, or 10. Also, use target numbers other than 50 sometimes."
+msgstr ""
+"**Как играть:** Создайте двузначное число, используя две игральные карты от 1 до 9, первая карта определяет разряд десятков, а вторая разряд единиц. Начиная с этого числа, совершите 5 ходов, каждый из которых представляет собой прибавление или вычитание 1 или 10. Цель – максимально приблизится к числу 50, а количество очков - это разница между полученным числом и 50. Побеждает игрок с наименьшим общим количеством очков после нескольких раундов.\n"
+"\n"
+"**Диаграмма из 100 пунктов:** Молодым игрокам полезно использовать таблицу чисел от 1 до 100. Использование этой таблицы также поможет им лучше понять разрядности чисел при движении вверх или вниз на 10 единиц.\n"
+"\n"
+"**Вариации:** Эту игру можно разнообразить, расширив шаги в 1, 2 или 10, или шаги в 1, 2, 5, или 10. Также можно иногда использовать другие целевые числа, отличные от 50."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING – SKIP COUNTING"
+msgstr "ПУТЕШЕСТВИЕ ПО ОСТРОВАМ – СЧЁТ С ПРОПУСКАМИ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip Counting"
+msgstr "Счёт с Пропусками"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The islands (circles) are connected by bridges (lines), with connections made by skip counting. Some islands have numbers, and others start blank. Above the puzzle is the starting number, ending number, and skip amount."
+msgstr "Острова (круги) соединены мостами (линиями), соединение сделаны с пропуском счёта. На некоторых островах есть числа, а другие пустые. Над головоломкой указано начальное число, конечное число и пропуск счёта."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Fill in the missing numbers and find the path.\n"
+"\n"
+"You can also place the numbers and blanks on the floor to make a stepping puzzle.\n"
+"\n"
+"As with the Skip Counting activity, create puzzles to practice going forward or backward starting at a variety of numbers, not just numbers that are a multiple of the skip amount.\n"
+"\n"
+"**How to create:** Create these puzzles by making the islands first, filling in the skip counting numbers, connecting those islands in the correct order, and then adding some additional connections to help make a puzzle out of it. In the version you give your child, remove some numbers leaving enough of the numbers so that it can still be figured out."
+msgstr ""
+"**Задача:** Заполните пропущенные числа и найдите путь.\n"
+"\n"
+"Вы также можете разместить числа и пустые клетки на полу, чтобы получилась игра головоломка с шагами.\n"
+"\n"
+"Как и в упражнении с подсчётом с пропусками, создавайте головоломки для отработки движения вперёд или назад, начиная с разных чисел, а не только с чисел, кратных пропуску.\n"
+"\n"
+"**Как сделать:** Создайте эти головоломки, сначала нарисовав островки, заполнив их числами, следуя правилу счёта с пропуском чисел, соединив эти островки в правильном порядке, а затем добавив несколько дополнительных соединений, чтобы получилась полноценная головоломка. В версии, которые вы дадите ребёнку, удалите некоторые числа, оставив достаточное количество чисел, чтобы головоломку всё ещё можно было решить."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PAIRING DOWN"
+msgstr "СОКРАЩЕНИЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The setup:** Start with a number line that goes from 1 to some number, say 20.\n"
+"\n"
+"**How to play:** During a turn, choose two numbers and a result, none of which have been crossed out, and write down an addition or subtraction equation that involves those numbers. The two numbers in the equation are crossed off, and the result is circled. The next player must use the result as one of the two numbers."
+msgstr ""
+"**Подготовка:** Начните с числовой линией, которая идёт от 1 до какого-либо числа, например до 20.\n"
+"\n"
+"**Как играть:** Во время своего хода выберите два числа и результат, которые ещё не зачёркнуты, и запишите уравнение сложения или вычитания, используя эти числа. Два числа в уравнении зачёркиваются, а результат обводится кругом. Следующий игрок должен использовать этот результат в качестве одного из двух чисел."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to win:** If it is played competitively, the winner is the last player with a legal move. It can also be played cooperatively to see how few numbers are left untouched."
+msgstr "**Как выиграть:** Если игра ведётся в соревновательном режиме, победителем становится игрок, сделавший последние допустимые ход. Также можно играть в кооперативном режиме, чтобы выяснить, сколько чисел остаются нетронутыми."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FIX IT"
+msgstr "ИСПРАВИТЬ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This starts with a completely filled 4 by 4 grid of numbers with a target sum. An alternative version uses individual target sums for each row and column."
+msgstr "Задача начинается с полностью заполненной сетки чисел размером 4 на 4 с заданной целевой суммой. В альтернативном варианте используется отдельные целевые суммы для каждой строки и каждого столбца."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**The challenge:** Find entries to remove so that the sum of the remaining numbers in every row and column is the target.\n"
+"\n"
+"**How to create:** Make these puzzles by putting in pairs or triples of numbers that sum to the target sum. Then fill in the remaining spaces with decoy numbers."
+msgstr ""
+"**Задача:** Найдите элементы, которые необходимо удалить, чтобы сумма оставшихся чисел в каждой строке и каждом столбце равнялась заданному значению.\n"
+"\n"
+"**Как сделать:** Составьте эти головоломки, размещая пары или тройки чисел, сумма которых равна целевой сумме. Затем заполните оставшиеся места числами обманками."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "FOLDING EXPANDED FORM"
+msgstr "СКЛАДЫВАТЬ РАЗВЁРНУТУЮ ФОРМУ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This gives a physical way to see how two-digit numbers are formed from tens and ones."
+msgstr "Это позволяет наглядно увидеть, как двузначные числа образуются из десятков и единиц."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a piece of paper that exactly fits four Number Cards side by side. Mark the paper with: Space - “0” - “+” - Space. Have vertical folds on both sides of the “+” sign. Paper clip numbers to the two spaces. If you use 2 and 3, folded up this looks like 23, but unfolded this becomes 20 + 3."
+msgstr "Возьмите лист бумаги, на котором точно поместится четыре карточки с числами, расположенные рядом. Отметьте на бумаге: пробел - «0» - «+» - пробел. Сделайте вертикальные сгибы по обеим сторонам знака «+». Прикрепите числа с помощью скрепки к двум пробелам. Если вы используете числа 2 и 3, то в сложенном виде это будет выглядеть как 23, а в разложенном как 20 + 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I’M THINKING OF A NUMBER"
+msgstr "Я ДУМАЮ О ЧИСЛЕ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One player thinks of a number between 0 and 99. The other player figures out the number by asking questions about the tens and ones digits.\n"
+"\n"
+"Suppose the number is 23. The player could ask if the tens digit is bigger than or equal to the ones digit – it isn’t for 23. The player could ask if the sum of the two digits is less than 8 – it is for 23. The player could then ask if twice the tens digit is bigger than the ones digit – it is. At this point, the number must be 23 or 34. Asking if the sum of the digits is less than 6 finishes things off.\n"
+"\n"
+"The types of questions can be anything the players agree to, but it is best if the questions involve the ones and tens digits."
+msgstr ""
+"Один игрок загадывает число от 0 до 99. Другой игрок должен угадать это число, задавая вопросы о цифрах в разрядах десятков и единиц.\n"
+"\n"
+"Предположим, загаданное число 23. Игрок может спросить, больше ли цифра десятков или она равна цифре единиц – для 23 это не так. Игрок может спросить, сумма двух цифр меньше 8 – для 23 это так. Затем игрок может спросить, больше ли удвоенная цифра десятков, чем цифра единиц – это так. На этом этапе число должно быть 23 или 34. Вопрос о том, меньше ли сумма цифр, чем 6 завершит игру.\n"
+"\n"
+"Типы вопросов могут быть любыми о которых договорятся игроки, но лучше всего, если вопросы будут касаться цифры единиц и десятков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ISLAND HOPPING BY ONES AND TENS"
+msgstr "ПУТЕШЕСТЕВИЕ ПО ОСТРОВАМ ПО ЕДИНИЦАМ И ДЕСЯТКАМ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Expanded Form and Place Value"
+msgstr "Развернутая Форма и Разрядное Значение"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangular grid of numbers is given with some numbers filled in. Fill in the remaining numbers so that any two numbers that share a side only differ in a single place, and the difference of the digits in that place is 1 (including going between 0 and 9). No number may be used more than once. Using a 100-Chart may be helpful for beginning solvers."
+msgstr "Дана прямоугольная сетка чисел, некоторые числа уже заполнены. Заполните оставшиеся числа так, чтобы любые два числа, имеющие общую сторону, отличались только одной цифрой, и разница цифр в этом разряде составляла 1 (включая переход между 0 и 9). Каждое число может быть использовано только один раз. Для начинающих может быть полезно использовать таблицу чисел от 1 до 100."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
+msgstr "**Как сделать:** Возьмите пустую сетку и заполните её числами так, чтобы ни одно число не повторялось. Затем удалите некоторые числа. В примере красным цветом обозначены недостающие числа."
 
 #. type=data_list
 msgctxt "data_list"
