@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-29 03:55\n"
+"PO-Revision-Date: 2026-01-29 04:18\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18651,6 +18651,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Examples"
+msgstr "Примеры"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**Example 1:** Suppose the roll is: 4, 4, 3, 1, 3 and 22. The first player gets 4 + 4 + 3 + 1 + 3 = 15; another player gets 14 + 4 + 3 + 3 = 24; and another player gets 34 - 14 + 3 = 23.\n"
 "\n"
@@ -18913,6 +18918,11 @@ msgstr "ПРОСТОЙ СПОСОБ ВЫЧИТАНИЯ НА ПАЛЬЦАХ"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Finger Math up to 20"
+msgstr "Математика на Пальцах"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**Two methods:** Subtraction can be thought of as 'take away' or 'difference.' Both models are essential to a complete understanding of subtraction. Have your child practice both ways of thinking of subtraction using these finger subtraction methods.\n"
 "\n"
@@ -19152,6 +19162,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "SUBTRACTION COMPENSATION"
 msgstr "КОМПЕНСАЦИЯ ВЫЧИТАНИЯ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mental Math – Single-Digit Add & Sub"
+msgstr "Ментальная Математика"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20002,6 +20017,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "This game works equally well with more than two players."
 msgstr "Эта игра одинаково хорошо подходит для игры с участием более двух игроков."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "INVESTIGATIONS"
+msgstr "РАССЛЕДОВАНИЯ"
 
 #. type=data_list
 msgctxt "data_list"
