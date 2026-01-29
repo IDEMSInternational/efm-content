@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-01-29 01:35\n"
+"PO-Revision-Date: 2026-01-29 02:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -19475,6 +19475,11 @@ msgstr "Дана прямоугольная сетка чисел, некото�
 msgctxt "data_list"
 msgid "**How to create:** Take an empty grid and fill it with numbers, with no number repeated. Next, remove some of the numbers. In the example, the red numbers are the missing ones."
 msgstr "**Как сделать:** Возьмите пустую сетку и заполните её числами так, чтобы ни одно число не повторялось. Затем удалите некоторые числа. В примере красным цветом обозначены недостающие числа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "MATH TIC TAC TOE"
+msgstr "МАТЕМАТИЧЕСКИЕ КРЕСТИКИ-НОЛИКИ"
 
 #. type=data_list
 msgctxt "data_list"
