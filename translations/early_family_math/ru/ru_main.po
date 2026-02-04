@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-02-04 02:45\n"
+"PO-Revision-Date: 2026-02-04 03:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13071,6 +13071,499 @@ msgstr ""
 msgctxt "data_list"
 msgid "To make the puzzle harder still, we can remove the 1 and play with removing some of the bridges. Have fun with variations and let your child design some of them, too."
 msgstr "Чтобы усложнить головоломку, мы можем убрать единицу (1) и поэкспериментировать с удалением мостов. Получайте удовольствие от вариаций и позвольте своему ребенку создать некоторые из них."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Cutting Symmetric Shapes"
+msgstr "Вырезание Симметричных Фигур"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create designs by folding a piece of paper and cutting the paper while it is folded. This is called Kirigami."
+msgstr "Сложив лист бумаги и вырезая из него, можно создавать узоры. Это называется Киригами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One Fold"
+msgstr "Одно складывание"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once and cutting it creates a design with one side the mirror image of the other. Experiment with cutting out faces, lamps, or geometric shapes. The star and tree were produced with a single fold, which is shown on the left, and then the unfolded paper is shown on the right."
+msgstr "Если сложить лист бумаги один раз и вырезать на нем рисунок, получится узор, у которого одна сторона является зеркальным отражением второй. Экспериментируйте, вырезая лица, лампы или геометрические фигуры. Звезда и ёлка были вырезаны при одном складывании: сложенный лист показан слева, а развернутый — справа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two Folds"
+msgstr "Два складывания"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Folding the paper once, and then folding once more in the opposite direction, will produce figures with two lines of mirror images. This makes it easy to create designs such as flowers. The figure on the left is the paper folded twice and cut to leave the blue area, and the figure on the right shows the unfolded paper."
+msgstr "Если сложить лист бумаги один раз, а затем ещё раз в противоположном направлении, получится узор с двумя линиями зеркальной симметрии. Это хороший способ создавать такие узоры, как, например, цветы. Фигура слева — лист бумаги, сложенный два раза, а затем разрезанный. Фигура справа показывает развернутый лист бумаги после вырезания."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three Folds"
+msgstr "Три складывания"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Experiment with various folds and cuts. This figure was created by taking a twice folded piece of paper and then folding it once more diagonally through the corner of the previous folds."
+msgstr "Экспериментируйте с разными способами складываниями и вырезания. Данная фигура была создана из листа бумаги, сложенного дважды, а затем ещё раз — по диагонали, через угол предыдущих сгибов."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Snowflakes"
+msgstr "Снежинки"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a sequence of folds for creating 6-point snowflakes. Though it takes a few steps, don’t be put off by them - with a little practice they become quick and easy. \n"
+"\n"
+"Start by taking a standard sheet of paper and folding at one of the corners so the sides marked A and B meet. Leave the fold in place and cut along the line marked C.\n"
+"\n"
+"Take the triangle produced and fold it in half so that sides AB and C overlap.\n"
+"\n"
+"Put a temporary fold in this triangle and use the fold to mark the middle of side ABC. Undo the temporary fold.\n"
+"\n"
+"Make a fold over F. When you fold over F, you will be looking to have G placed so that G breaks the angle in half. \n"
+"\n"
+"Fold along G - do this fold underneath so that this new folded piece is underneath the other paper.\n"
+"\n"
+"Although not strictly necessary, it is a good idea to slice off the top of this figure. Otherwise, you might be tempted to use the region above the red dotted line without realizing that there isn’t paper on all levels.\n"
+"\n"
+"Lastly, fold this triangle in half. At last you are all set to do the cutting of your design!\n"
+"\n"
+"Have fun experimenting with many different combinations of cuts and colors!"
+msgstr ""
+"Вот последовательность сгибов для создания шестиконечной снежинки. Несмотря на то, что процесс занимает какое-то время, не бойтесь пробовать — немного практики и снежинки будут получаться быстро и легко.\n"
+"\n"
+"Возьмите лист бумаги и сложите один из его углов таким образом, чтобы стороны, отмеченные на схеме как A и B, соединились. Сделайте сгиб и прорежьте по линии, отмеченной буквой C.\n"
+"\n"
+"Полученный треугольник сложите пополам, чтобы соединились стороны AB и C.\n"
+"\n"
+"Сделайте временный сгиб на треугольнике и используйте его, чтобы отметить середину стороны ABC. Уберите временный сгиб, разгладив его.\n"
+"\n"
+"Сделайте сгиб по стороне F. После, вам понадобится сделать сгиб по стороне G таким образом, чтобы она делила угол пополам.\n"
+"\n"
+"Сделайте сгиб по стороне G так, чтобы согнутая часть листа находилась под остальной бумагой.\n"
+"\n"
+"Хотя это и необязательно, было бы хорошей идеей отрезать верхушку этой фигуры. В противном случае, вам возможно захочется использовать область выше красной пунктирной линии, не осознавая, что бумага есть не на всех уровнях.\n"
+"\n"
+"В заключение, сложите этот треугольник пополам. Теперь, вы полностью готовы сделать разрезы для своего дизайна!\n"
+"\n"
+"Получайте удовольствие от разнообразия комбинаций разрезов и цветовых решений!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Nim With One and Two"
+msgstr "Прибавь 1 или 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Game Rules"
+msgstr "Правила игры"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A target number, say 10, is chosen. Let your child choose whether to go first or second. The total starts at 0. During a turn, a person chooses to add 1 or 2 to the current total. The first person to reach the target wins. \n"
+"\n"
+"This game can also be played with subtraction. In this version, the starting total starts at the target, which in this example is 10. On a given turn the player chooses whether to subtract 1 or 2. The first person to reach 0 wins.\n"
+"\n"
+"Another variation is that instead of winning, the player forced to hit or go beyond the target number loses. You can also experiment with what happens if you allow a player to add (or subtract) 1, 2, or 3 for each turn."
+msgstr ""
+"Выбирается число, например 10. Позвольте ребенку выбрать: ходить первым или вторым. Первоначальное число — 0. Во время своего хода, игрок выбирает добавить ли ему 1 или 2 к текущему числу. Тот, кто первым достиг выбранного числа — выиграл.\n"
+"\n"
+"В эту игру также можно играть с использованием вычитания. В этой версии начальная сумма начинается с цели, которая в этом примере равна 10. Во время хода, игрок выбирает вычесть 1 или 2. Побеждает тот, кто первым достигнет 0.\n"
+"\n"
+"Другая вариация заключается в том, что вместо победы проигрывает игрок, который вынужден попасть в целевое число или превысить его. Вы также можете поэкспериментировать с тем, что произойдет, если вы позволите игроку добавлять (или вычитать) 1, 2 или 3 во время каждого хода."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Understanding the Game"
+msgstr "Понимание игры"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Without analyzing anything, this game is enjoyable to play and it provides good practice with adding or subtracting 1 and 2. We could leave it at that. However, it is also a great example of two problem solving techniques that you can show to your child when they are ready: 1) learning from simpler examples, and 2) looking for patterns.\n"
+"\n"
+"Any of the versions can be studied this way. Let’s look at one: Subtracting starting at 10 and whoever gets 0 wins. The hard part of this game is that 10 is so far from 0. So, let’s look at a simpler version. When children are asked to do this, they often suggest starting at 5 or 6 - it seems absurd to them to start at 1, but that is actually what they should do! Often it is best to start as simply as possible - that means starting at 1. If it is your move and the count is 1, you win. Do the next few. If the count is 2, you win. If the count is 3, you must lose - whether you subtract 1 or 2, you will give your opponent a winning position. If the count is 4, you will win because you will subtract 1 and put your opponent in a losing position. Continuing in this way, build up a table of results:\n"
+"\n"
+"1W - 2W - 3L - 4W - 5W - 6L - 7W - 8W - 9L - 10W"
+msgstr ""
+"Ничего не анализируя, в эту игру приятно играть, и она дает хорошую практику прибавления или вычитания 1 и 2. На этом мы могли бы остановиться. Однако это ещё и отличный пример двух техник решения задач, которые вы можете показать своему ребенку, когда он будет готов: 1) обучение на более простых примерах; 2) поиск закономерностей.\n"
+"\n"
+"Таким образом, можно изучить любую из версий. Давайте посмотрим на одну: вычитание, начиная с 10, и тот, кто получит 0, выигрывает. Сложность этой игры заключается в том, что 10 очень далеко от 0. Итак, давайте посмотрим на более простую версию. Когда детей просят сделать это, они часто предлагают начинать с 5 или 6 — им кажется абсурдным начинать с 1, но на самом деле это то, что они и должны делать! Часто лучше всего начать с самого простого— с единицы. Если сейчас ваш ход и счет равен 1, вы выигрываете. Сделайте еще несколько ходов. Если счет равен 2, вы выигрываете. Если счет равен 3, вы проиграете: вычтите вы 1 или 2, вы дадите своему противнику выигрышную позицию. Если счет равен 4, вы выиграете, потому что вычтите 1 и поставите вашего оппонента в проигрышную позицию. Продолжая таким же образом, составьте таблицу результатов:\n"
+"\n"
+"1 – Победа\n"
+"2 – Победа\n"
+"3 – Проигрыш\n"
+"4 – Победа\n"
+"5 – Победа\n"
+"6 – Проигрыш\n"
+"7 – Победа\n"
+"8 – Победа\n"
+"9 – Проигрыш\n"
+"10 – Победа"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This table makes it obvious that there is a repeating pattern of 3. When starting at 10, you should want to go first and subtract 1. What is satisfying about this is that, once you decide to look at simpler versions of the problem, the analysis is quick and easy - no tricky analysis needed. Now you are a Master at this game and you know what to do starting at any number! Any version of this basic game is just as easy to analyze.\n"
+"\n"
+"But wait, there is one last question. Why is there a repeating pattern of 3? Once one player is stuck on a losing number which is a multiple of three, every pair of moves after that can be made to add up to 3 - if the losing player subtracts 1 the other player subtracts 2, and if the losing player subtracts 2 the other player subtracts 1."
+msgstr ""
+"Эта таблица наглядно показывает, что существует повторяющаяся последовательность из 3. Когда вы начинаете с 10, вам следует сделать первый ход и вычесть 1. Вся радость в том, что как только вы решите рассмотреть упрощённые версии задачи, анализ становится быстрым и простым — никакого сложного разбора не требуется. Теперь вы мастер этой игры и знаете что делать, начиная с любого числа! Любую версию этой базовой игры так же легко проанализировать.\n"
+"\n"
+"Но погодите, есть последний вопрос. Почему же здесь есть последовательность из 3? Как только один игрок застревает на проигрышном числе, которое кратно трем, сумма каждой пары ходов после этого может быть равна 3: если проигравший игрок вычитает 1, другой игрок вычитает 2, а если проигравший вычитает 2, то другой вычитает 1."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connect The Dots"
+msgstr "Соединение Точек"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Everyday Scenes With Dots"
+msgstr "Создание предметов из точек"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Complete fun drawings by connecting numbered dots. One way is to take a simple drawing, say of a house, remove some straight lines and replace them with numbered dots, that when connected in order recreate the original drawing."
+msgstr "Рисуйте забавные картинки, соединяя пронумерованные точки. Первый способ — взять простой рисунок, допустим дом, убрать прямые линии и заменить их пронумерованными точками, чтобы соединяя их в последовательности чисел получилось оригинальное изображение."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Geometric Patterns With Angles"
+msgstr "Создание геометрических закономерностей с помощью углов"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make abstract drawings by connecting points with the same number along opposite sides of an angle. The numbers may not be needed - if so, feel free to omit them - this will make the finished designs a little less cluttered. You can add variety to these by having your child draw with colors. There are lots of amazing examples of this to be found under the category of String Art on the Internet. This circle drawing was made by moving ahead by one dot on one side of the line segment and ahead by two dots on the other side."
+msgstr "Вы можете создать абстрактные рисунки, соединяя точки с одинаковыми числами, находящимися на противоположных сторонах угла. Числа могут и не понадобиться, и если это так, то можете спокойно избавиться от них: законченный дизайн будет выглядеть менее перегруженным. К тому же, вы можете разнообразить рисунки, предложив своему ребенку рисовать красками или цветными карандашами. Существует много потрясающих примеров, которые в Интернете можно найти как «Стринг-Арт» (нитяное искусство). Приведенный ниже круговой рисунок был выполнен так: на одной стороне отрезка переходили от одной точки к следующей, а на другой стороне — перемещались от одной точки к точке, расположенной через одну."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making Patterns With Circles"
+msgstr "Закономерности кругов"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is a special case of the last idea. Put some dots, say 8 or 9, evenly spaced on a circle. Your child can play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot. To make it easier to do different experiments, use push pins in a piece of cardboard or wood and then use string between the push pins.\n"
+"\n"
+"If your child is intrigued by the patterns that are produced, you can look at questions such as: For a circle with 8 dots, why is only one string needed to skip by 1, 3, 5, or 7, but 2 or 4 strings are needed for skipping 2, 4, or 6. Similarly, for a circle with 9 dots, why is only one string needed to skip by 1, 2, 4, 5, 7, or 8, but 3 strings are needed for 3 and 6? It’s too young to understand the idea that 2, 4, and 6 have a factor in common with 8, and 3 and 6 have a factor in common in 9 - however, seeing the patterns may plant the seeds for later ideas."
+msgstr ""
+"Это — частный случай последней идеи. Нарисуйте несколько равноудаленных друг от друга точек — предположим 8 или 9 — на круге. Ребенок может играть с созданием разных закономерностей, соединяя точки по порядку или соединяя каждую вторую, каждую третью точку. Чтобы облегчить осуществление других похожих экспериментов, воспользуйтесь канцелярскими кнопками для закрепления нити на картоне или дереве. Затем натяните нить между кнопками.\n"
+"\n"
+"Если вашему ребенку интересны закономерности, которые получаются в итоге, вы можете задать такие вопросы: почему для окружности с 8 точками нужна только одна нить, если пропускать 1, 3, 5 или 7 точек, но требуется 2 или 4 нити, если пропускать 2, 4 или 6 точек? Таким же образом, почему для окружности с 9 точками нужна одна нить, если пропускать 1, 2, 4, 5, 7, или 8, но нужно 3 нити, если пропускаешь 3 и 6? Вероятно, еще слишком рано для понимания того, что цифры 2, 4, и 6 являются делителями цифры 8, а 3 и 6 — делители числа 9. Однако, способность замечать такие закономерности может положить начало будущим идеям."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shape Sudoku"
+msgstr "Фигурный Судоку"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is your child’s first math puzzle, and that’s pretty cool! It also means you should take it very slowly so your child has lots of success and fun, and very little frustration.\n"
+"\n"
+"The rules for these 4 by 4 Sudokus are very simple. There are four different types of tokens. There should be one of each kind of token in each row, column, and 2 by 2 corner of the puzzle. Use moveable pieces so that it is easy for your child to experiment in finding solutions.\n"
+"\n"
+"The first puzzles you make should just have one token missing from each row. Once your child understands and figures out those puzzles, you can move to trickier ones, but do not be in a hurry.\n"
+"\n"
+"The easiest way to create these puzzles is to start with a finished Sudoku and remove some of the tokens. To help you to do that, there are a number of finished Sudokus supplied below. After those finished examples, there is a list of methods you can use to create puzzles from a finished puzzle."
+msgstr ""
+"Это первая математическая головоломка вашего ребенка, что очень хорошо! Это также означает, что вы должны решать её не торопясь, чтобы у ребенка было много успехов и мало разочарований.\n"
+"\n"
+"Правила для этих судоку 4 на 4 очень просты. Есть четыре разных типов фигур. В каждой строке, столбце и углах размером 2 на 2, должно быть по одной фигуре каждого вида. Используйте фигуры, которые можно двигать, чтобы ребенку было легко экспериментировать с поиском решений.\n"
+"\n"
+"В самых первых головоломках в каждой строке должно не хватать одной фигуры. Как только ваш ребенок начнет понимать и разгадывать такие задачи, вы можете переходить к более сложным, однако не спешите.\n"
+"\n"
+"Самый простой способ составить такую головоломку — взять готовый пример и убрать некоторые фигуры. Чтобы помочь вам в этом, ниже представлен ряд таких судоку. После них идет список методов, которые вы можете использовать для создания головоломки из готового примера."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Finished Sudokus"
+msgstr "Готовые судоку"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Before giving you a collection of finished Sudokus, there is one thing to note. You can take any one of these and create 23 more of them simply by interchanging token types - for example, you can take a finished puzzle and create a “new” one by swapping the circles and triangles and swapping the diamonds and squares. \n"
+"\n"
+"The examples below are distinctly different from each other and cannot be made from each other by doing interchanges. You can create more examples from these by doing such interchanges if you like."
+msgstr ""
+"Прежде чем дать вам сборник готовых судоку, нужно отметить одну вещь: вы можете взять любой из примеров и создать еще 23, просто поменяв местами типы фигур. Например, можно взять готовую головоломку и создать новую, поменяв местами круги и треугольники, ромбы и квадраты.\n"
+"\n"
+"Приведенные ниже примеры существенно отличаются и не могут быть составлены друг из друга путем обмена фигур местами. Если хотите, можете создать из них больше примеров."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Methods for Creating Sudokus From Solved Ones"
+msgstr "Способы создания судоку из готовых примеров"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Once you have a finished Sudoku, you can use any of the following strategies to create a puzzle that has a unique solution. Generally speaking, the more tokens you remove, the harder the puzzle will be.\n"
+"\n"
+"* Remove a single token from each row or from each column.\n"
+"* Remove a single token from each 2 by 2 corner.\n"
+"* Remove all of one kind of token from the entire puzzle.\n"
+"* Remove all tokens from one 2 by 2 corner.\n"
+"* Remove one entire row and one entire column.\n"
+"* Remove all of one kind of token and one each of the other kinds of tokens.\n"
+"* Remove all tokens from two 2 by 2 opposite corners.\n"
+"* Remove all tokens from two 2 by 2 opposite corners and 1 token each from the other two corners.\n"
+"\n"
+"Of course, these are not the only methods you can use. They are just supplied here as sure-fire general methods that will quickly create puzzles."
+msgstr ""
+"С помощью готового судоку можно использовать любую из следующих стратегий для создания головоломки с уникальным решением. В общем, чем больше фигур вы уберете, тем сложнее будет головоломка.\n"
+"\n"
+"* Уберите по одной фигуре из каждой строки или каждого столбца\n"
+"* Уберите по одной фигуре из каждого угла 2 на 2\n"
+"* Уберите все фигуры одного вида\n"
+"* Уберите все фигуры одного угла 2 на 2\n"
+"* Уберите фигуры одной строки и столбца\n"
+"* Уберите все фигуры одного вида и по одной фигуре других видов\n"
+"* Уберите все фигуры с двух противоположных углов 2 на 2\n"
+"* Уберите все фигуры с двух противоположных углов 2 на 2 и по 1 фигуре с двух других углов\n"
+"\n"
+"Конечно, это не все методы, которые вы можете использовать. Они просто представлены здесь как безошибочные общие методы, с помощью которых можно быстро создавать головоломки."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Number Sudoku With Jigsaws"
+msgstr "Судоку с Числами с Элементами Пазла"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is similar to the Shape Sudoku puzzles, only now it uses numbers. If your child is not ready to recognize numerals yet, you can use quantities of dots instead. To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n"
+"\n"
+"For a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once.\n"
+"\n"
+"Create these puzzles for your child by starting with a completed puzzle with moveable pieces of numbered paper and then removing some of the pieces of paper."
+msgstr ""
+"Данные головоломки похожи на Фигурный Судоку, только теперь здесь используются цифры. Если ваш ребенок еще не готов распознавать числа, вы можете использовать определенное количество точек. Чтобы не стирать, используйте пронумерованные бумажные карточки (или карточки с точками) для решения головоломок.\n"
+"\n"
+"В пазлах 4 на 4, каждая строка и столбец пронумерованы числами от 1 до 4. Также, в каждой отмеченной подобласти (выделена более жирным контуром) числа от 1 до 4 встречаются по одному разу.\n"
+"\n"
+"Создавайте такие пазлы для своего ребенка, начав с готовой головоломки, пользуясь кусочками пронумерованной бумаги, которые можно двигать, а затем убрав некоторые из них."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4 by 4 Puzzles"
+msgstr "Пазлы 4 на 4"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The 4 by 4 puzzles with subregions that are the 2 by 2 corners are exactly the same as the Shape Sudoku puzzles given before. You can go back to that page in these Resources to see solved versions of those puzzles. To create a numbered version of them, replace each colored shape by a number. For example, red circles could be 1, orange triangles 2, purple diamonds 3, and blue squares 4."
+msgstr "Пазлы 4 на 4, разделенные части и представляющие собой углы 2 на 2, в точности такие же, как и в приведенном ранее Фигурном Судоку. Вы можете вернуться назад на ту страницу в разделе Ресурсы, чтобы посмотреть уже решенные пазлы. Чтобы создать версии с числами, замените каждую цветную фигуру номером. Например, красные кружочки могут быть 1, оранжевые треугольники — 2, фиолетовые ромбы — 3 и синие квадраты — 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5 by 5 Puzzles"
+msgstr "Пазлы 5 на 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"There are too many of these puzzles to come anywhere close to showing all the possible jigsaw geometries. These are here just to suggest what is possible. Your child may enjoy finding different ways of carving up a 5 by 5 square into pieces that have 5 small squares. \n"
+"\n"
+"Pieces that consist of 5 little squares are called “pentominoes.” Making shapes with pentominoes can be lots of fun. Maybe cut out some pentomino shapes out of stiff thick colored paper and see what designs you can make!"
+msgstr ""
+"Подобных головоломок слишком много, чтобы приблизиться к отображению всех возможных геометрических вариаций. Они здесь только для того, чтобы показать какие варианты возможны. Вашему ребенку может понравиться находить разные способы разделить квадрат 5 на 5 на части, состоящие из 5 маленьких квадратов.\n"
+"\n"
+"Части, состоящие из 5 маленьких квадратов, называются «пентамино». Создание фигур из пентамино может быть очень увлекательным занятием. Может быть, вырежьте фигурки пентамино из твердой, плотной цветной бумаги и посмотрите, какие оформления вы сможете сделать!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "6 by 6 Puzzles"
+msgstr "Пазлы 6 на 6"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Okay, you are getting the idea. There are a lot of these! Here are just a few 6 by 6 puzzles to give you some ideas for what is possible. As always, play around with your child with these puzzle pieces and numbers. Perhaps design a few of these together."
+msgstr "Хорошо, вы уловили идею. Их очень много! Вот всего несколько головоломок 6 на 6, которые подскажут вам, что возможно. Как всегда, поиграйте с ребенком в части пазла и числами. Возможно, разработайте несколько из них вместе."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Greater Than Sudoku"
+msgstr "Больше чем Судоку"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greater Than Sudoku puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship. \n"
+"\n"
+"Make these puzzles by using a finished Sudoku puzzle - all the example Number Sudoku Jigsaw puzzles given early in these Resources will be useful in creating these puzzles. Put in greater than and less than signs on a blank grid of the same geometry. If you omit all the numbers and put in all the inequalities (less than or greater than), it is generally fairly easy to solve the puzzle. A useful strategy for your child is to first look for where the smallest and largest numbers should go."
+msgstr ""
+"Головоломка «Больше чем Судоку» начинается с тех же правил, что и в обычном судоку — каждая цифра появляется лишь раз в каждой строке, столбце и области (выделена более жирным контуром). К тому же, если между двумя клетками находится знак «больше» или «меньше», то числа в этих клетках должны соответствовать условию.\n"
+"\n"
+"Такие головоломки можно создать, пользуясь решенными судоку — все примеры числовых головоломок судоку, приведенные в начале этих материалов, будут полезны при создании головоломок. Поставьте знаки «больше» и «меньше» на сетку внутри каждой из областей. Избавившись от всех цифр и оставив только знаки неравенства, такую головоломку достаточно просто решить. Стратегия, которая будет полезна вашему ребенку — сначала посмотреть, где могут находиться меньшие и большие числа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When your child is first learning how to do these puzzles, put in all the inequalities and some of the numbers. Gradually, start omitting more of the numbers and some of the inequalities."
+msgstr "Если ребенок впервые учится решать подобные головоломки, то поместите знаки неравенства и добавьте несколько цифр. Через некоторое время начните убирать всё больше цифр и знаков неравенства."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make Me a Liar"
+msgstr "Сделай Меня Лжецом"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Someone makes an absolute statement and the other players attempt to show that the person is lying. This is done by finding an example that breaks the statement."
+msgstr "Кто-то из игроков приводит утверждение, в то время как другие пытаются доказать, что тот является лжецом. Победа объявляется в том случае, если приводится пример, который не соотносится с утверждением."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Simple Statements That Are Almost Always True"
+msgstr "Простые утверждения, которые практически всегда являются правдой"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"One type of statement to use is saying that something is always true. Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* All trucks have four wheels. - Large trucks often have 6, 10 or more wheels.\n"
+"* All rectangles are squares. - Rectangles need not have all their sides the same length.\n"
+"* All birds can fly. - Ostriches, emus, and kiwis are birds that cannot fly.\n"
+"* The moon is only visible at night. - The moon is often visible during the day.\n"
+"* All shapes have straight sides. - A circle does not have a straight side.\n"
+"* All playgrounds have swing sets. - Some playgrounds don’t have swing sets.\n"
+"* All rooms have chairs. Bedrooms and bathrooms often don’t have a chair."
+msgstr ""
+"Один из видов утверждения — говорить о том, что всегда правдиво. Вот некоторые примеры с краткими пояснениями о том, почему они ложны:\n"
+"\n"
+"* У всех грузовиков 4 колеса» — у больших грузовиков часто есть 6, 10 или более, колес.\n"
+"* Все четырехугольники – квадраты» – четырехугольники могут не иметь 4 одинаковые по длине стороны.\n"
+"* Все птицы умеют летать» — страусы, эму и киви – птицы, которые не могут летать.\n"
+"* Луна видна только ночью» —луна часто видна днём.\n"
+"* У всех фигур прямые линии» — у окружности нет ни одной прямой.\n"
+"* На всех площадках установлены качели» — на некоторых площадках нет качелей. \n"
+"* Во всех комнатах есть стулья» — в спальне и ванной чаще всего нет стульев."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If-Then Statements That Are Almost Always True"
+msgstr "Утверждения «если..., то…», которые часто правдивы"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Another type of statement is of the form “if __, then ___ .” Here are some examples with quick discussions of why they are lies.\n"
+"\n"
+"* If today is Monday, then it is a school day. - Some Mondays are holidays and some Mondays occur during the summer.\n"
+"* If I don’t eat for three hours, then I am hungry. - Most people can sleep for more than three hours and not wake up hungry.\n"
+"* If a person is taller than someone, then they are older. - Children often grow up to be taller than their parents.\n"
+"* If the sun is shining, it is a warm day. - Winter days can be sunny and cold.\n"
+"* If someone is late, something bad must have happened to them. - Sometimes people are late through carelessness or reasons beyond their control (traffic, bad weather, car trouble)."
+msgstr ""
+"Ещё один вид утверждений — форма «если…, то…». Вот несколько примеров с пояснениями о том, почему они ложны:\n"
+"\n"
+"* «Если сегодня понедельник, то нужно идти в школу» — некоторые понедельники праздничные дни, а другие — дни летних каникул.\n"
+"* «Если я не буду есть три часа, то проголодаюсь» — большинство людей может спать больше чем три часа и проснуться, не имея при этом голода.\n"
+"* «Если один человек выше другого, то тот кто выше – старше» — дети часто вырастают выше, чем их родители.\n"
+"* «Если солнце светит, то на улице тепло» — зимой может быть солнечно, но при этом холодно.\n"
+"* «Если кто-то опоздал, то, вероятно, с ним случилось что-то плохое» — иногда люди опаздывают из-за несобранности или по причинам, не зависящим от них (загруженность автомобильных дорог, плохие погодные условия, поломка машины)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "15-Sliding Puzzle"
+msgstr "Головоломка из 15"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Puzzle Description"
+msgstr "Описание"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The classic version of this puzzle starts with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid. The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n"
+"\n"
+"A 4 x 4 grid is too hard for a beginner, so start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5."
+msgstr ""
+"Классическая версия этой головоломки состоит из пустой сетки размером 4 на 4 квадрата, образованной 5 горизонтальными и вертикальными линиями. Воспользуйтесь набором из 15 карточек, размером с один квадрат сетки, с числами на них — от 1 до 15. Головоломка начинается с того, что кто-то кладёт карточку на клетку. Цель — положить карточки в порядке от 1 до 15, оставляя квадрат снизу справа пустым. Чтобы это получилось, можно перемещать карточку, если она находится рядом с пустым квадратом — в этом случае её можно переставить в свободную клетку. В зависимости от того, как человек составляет головоломку, она может оказаться нерешаемой.\n"
+"\n"
+"Сетка 4 на 4 — сложна для новичка, поэтому предлагаем начать с варианта полегче. Сетка может быть маленького размера, как 2 на 2, или большего размера, в зависимости от того, как захочет ваш ребенок. Количество пронумерованных карточек всегда будет на один меньше, чем размер сетки. К примеру, с сеткой 2 на 3 будут использоваться карточки от 1 до 5."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable."
+msgstr "Для создания такой головоломки есть два варианта. Первый вариант: поместить карточки случайным образом. В таком случае вероятность наличия решения составляет 50 / 50. Второй: вы можете расставить карточки на конечные позиции и затем сделать несколько ходов, чтобы переместить их. Когда вы закончите, задача гарантированно будет иметь способ решения."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solving the Puzzle"
+msgstr "Решение головоломки"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The main reason for a child to play with this puzzle is to have fun moving pieces around until they accidentally solve it and also to practice getting numbers in order. Despite that simple goal, you may start to wonder about deeper ideas in the puzzle.\n"
+"\n"
+"A frequent theme of problem solving is to learn from simpler problems or examples. So, let’s do that.\n"
+"\n"
+"The smallest example is 2 by 2. For this size, it is clear that the rows will end up being either 1 2; 3 0 or 1 3; 2 0.\n"
+"\n"
+"The next smallest is 2 by 3. Start this by getting the 1 and 4 in the left column. Once this is done, your puzzle will look like 1 _ _; 4 _ _ . Finish off the last four squares as you would the 2 by 2 case.\n"
+"\n"
+"The 2 by 4 puzzle is done similarly. Start by putting 1 and 5 in the left column. Next, put the 2 and 6 in the second left column without disturbing the 1 and 4. Finally finish off the last 2 by 2.\n"
+"\n"
+"At this point, the pattern for attacking puzzles with 2 rows is clear. What to do with more than 2 rows? Suppose you have 3 rows. Start the solution by getting the top row correctly laid out. After that, leave the top row undisturbed and use your ability to solve a puzzle with 2 rows.\n"
+"\n"
+"Similarly, if there are 4 rows, do the top row first, the second row next (without disturbing the top row), and finish off the last 2 rows as before."
+msgstr ""
+"Главная причина, почему ребенку стоит поиграть в эту головоломку - это радость от перемещения карточек, пока они случайно не станут на свои места, а также возможность попрактиковаться в расставлении чисел в порядке. Несмотря на простоту цели, вы, возможно, начнете задаваться более глубокими вопросами, связанными с головоломкой.\n"
+"\n"
+"Часто основой решения задач является изучение более простых задач или примеров. Так вот, давайте с этого и начнем.\n"
+"\n"
+"Наименьший пример — сетка 2 на 2. В такой ситуации очевидно, что в конце ряды будут иметь либо числа 1 2; 3 0, либо 1 3; 2 0.\n"
+"\n"
+"Следующий пример — один из меньших: сетка 2 на 3. Начните с расстановки 1 и 4 в левом столбике. Тогда головоломка будет выглядеть как 1_ _; 4 _ _. Заполните последние четыре клетки, тем же способом, что и с сеткой 2 на 2.\n"
+"\n"
+"Головоломка 2 на 4 решается аналогично. Начните с заполнения цифр 1 и 5 в левом столбике. Затем поставьте 2 и 6 во второй столбик слева, не меняя расположение 1 и 4. И, наконец, заполните последний квадрат 2 на 2.\n"
+"\n"
+"Теперь закономерность решения головоломок с двумя рядами предельно ясна: что же делать, если в задаче больше двух рядов? Предположим, у вас есть три ряда. Начните решение с правильного расположения цифр в верхнем ряду. Затем оставьте ряд без изменений и воспользуйтесь своим, уже отработанным, навыком решения головоломки из двух рядов.\n"
+"\n"
+"Точно так же, если в головоломке четыре ряда, сначала сделайте верхний, затем второй (не меняя верхний ряд), и закончите последние два таким же способом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is This Puzzle Solvable?"
+msgstr "Имеет ли эта головоломка решение?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Okay, you have a simple method for solving the puzzle. The next question is: How can I just look at the puzzle and know whether it is solvable or not?\n"
+"\n"
+"To make describing the answer as simple as possible, do a few quick moves, if needed, to place the empty square in the bottom row. Next, make a list of the rows in one long list - the first row is listed first, the second row is listed second, and so on with the last row listed last. Omit the empty square when you list the last row.\n"
+"\n"
+"Take this long list and count the number of inversions in it. When a number earlier in the list is larger than a number later in the list, this is called an inversion. If the number of inversions is an even number, then the puzzle is solvable. If it is an odd number, it is not.\n"
+"\n"
+"As an example, take the 3 by 3 puzzle at the start of this discussion. Start by moving the 4 up to the second row. Then the list is: 6 1 2 4 8 5 3 7. There are 10 inversions in this list: 6 1, 6 2, 6 4, 6 5, 6 3, 4 3, 8 5, 8 3, 8 7, and 5 3. There are an even number of inversions, so the puzzle is solvable.\n"
+"\n"
+"Why does this rule work? I won’t drag you through a detailed analysis. The key idea is to keep track of the number of inversions every time you make a move. It turns out that, if you adjust for the hole being in the last row, the number of inversions must always change by an even number after any move. Consequently, if the number of inversions starts as an odd number, it can never get down to 0 inversions."
+msgstr ""
+"Хорошо, теперь у вас есть простой метод решения головоломки. Следующий вопрос: как понять, имеет ли головоломка решение, просто взглянув на нее?\n"
+"\n"
+"Чтобы описание ответа было наиболее понятным, сделайте несколько быстрых ходов, и, если нужно, оставьте пустую клетку в нижнем ряду. Затем составьте список рядов: первый ряд записан первым, второй — вторым и так далее, включая последний ряд. После того как записан последний ряд, исключите из списка пустую клетку.\n"
+"\n"
+"Возьмите этот длинный список и посчитайте количество инверсий. Инверсия — это когда число, идущее раньше, больше числа, стоящего после него. Если количество инверсий четное, головоломка имеет решение; если нечетное — нет.\n"
+"\n"
+"Например, возьмите сетку размером 3 на 3. Начните перемещать 4 вверх, до второго ряда. В списке будут такие числа: 6 1 2 4 8 5 3 7. В списке есть 10 инверсий: 6-1, 6-2, 6-4, 6-5, 6-3, 4-3, 8-5, 8-3, 8-7 и 5-3. В данном примере количество инверсий чётное, поэтому головоломка решаема.\n"
+"\n"
+"Почему работает это правило? Не будем вдаваться в подробности анализа, однако ключевая идея — следить за количеством инверсий при каждом ходе. Если учитывать, что пустая клетка находится в последнем ряду, то после любого хода число инверсий всегда изменяется на чётное число. Следовательно, если изначально число инверсий нечётное, оно никогда не сможет стать равным нулю."
 
 #. type=data_list
 msgctxt "data_list"
