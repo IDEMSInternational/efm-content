@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2026-03-05 16:38\n"
+"PO-Revision-Date: 2026-03-05 17:37\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -267,4 +267,9 @@ msgstr "Această poveste conține numărarea până la 7, cuvinte de relaționar
 msgctxt "data_list"
 msgid "Where Is My Cat?"
 msgstr "Unde este pisica mea?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
+msgstr "Această poveste conține numărare până la 5, cuvinte de relație și culori. Cuvinte de exersat: numerele până la 5, sub, pe, peste, în spatele, lângă, înăuntru, afară, nume de culori, drept și curbat."
 
