@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2026-03-06 01:13\n"
+"PO-Revision-Date: 2026-03-06 02:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -380,6 +380,32 @@ msgstr "Care dintre ei are mustăți pe care le putem vedea? Câte mustăți?"
 msgctxt "data_list"
 msgid "Which one is red and which one is yellow?"
 msgstr "Care este roșu și care este galben?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Cat and Dog look through the window.\n"
+"\n"
+"They look through the window."
+msgstr ""
+"Pisica și Câinele privesc pe fereastră.\n"
+"\n"
+"Ei privesc pe fereastră."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many times does it say that they are looking through the window? The writer repeats it to tell us that Cat and Dog have nothing to do."
+msgstr "De câte ori ni se spune că privesc pe fereastră? Scriitorul repetă acest lucru pentru a ne sugera că Pisica și Câinele nu au nimic de făcut."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do Cat and Dog look bored?"
+msgstr "Pisica și Câinele par plictisiți?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of trees."
+msgstr "Numărați împreună copacii."
 
 #. type=data_list
 msgctxt "data_list"
