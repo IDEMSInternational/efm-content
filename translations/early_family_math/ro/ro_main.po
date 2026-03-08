@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2026-03-08 01:21\n"
+"PO-Revision-Date: 2026-03-08 03:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1364,6 +1364,11 @@ msgstr "Numărați împreună pernele și ochiurile de geam."
 msgctxt "data_list"
 msgid "Are there more or less cushions than window panes? What is the difference -- how far apart are the two numbers?"
 msgstr "Sunt mai multe sau mai puține perne decât ochiuri de geam? Care este diferența -- cât de distanțate sunt cele două numere?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is she behind the curtain?"
+msgstr "Este în spatele perdelei?"
 
 #. type=data_list
 msgctxt "data_list"
