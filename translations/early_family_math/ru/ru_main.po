@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-03-30 01:03\n"
+"PO-Revision-Date: 2026-04-03 20:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14218,6 +14218,33 @@ msgstr ""
 "8 3 10 9,  6 1 10 8,  8 1 10 6\n"
 "\n"
 "Пирамиды размером 15, 21 или более оставим для самых увлеченных. Удачи!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Enclosed Sums"
+msgstr "Суммы внутри фигур"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes  that border it. Similar to Shape Sums puzzles, circles may have any value, and the value for a non-circular shape must be the same as any other shape of the same type. For example, all squares must have the same value and all hexagons would have the same value. You can optionally add the rule that different non-circular shapes must have different values - for example, that squares and hexagons must have different values.\n"
+"\n"
+"The puzzle for your child is to figure out the numbers in the shapes and regions that are not supplied."
+msgstr ""
+"В этих головоломках фигуры соединены линиями. Каждая замкнутая область содержит число, которое является суммой значений фигур, окружающих её. Аналогично головоломкам с суммами фигур, круги могут иметь любое значение, а значение некруглых фигур должно быть одинаковым для одного и того же типа. Например: все квадраты имеют одинаковое значение, все шестиугольники — тоже. Дополнительно можно ввести правило, что разные некруглые фигуры должны иметь разные значения, например: квадраты и шестиугольники не равны между собой.\n"
+"\n"
+"Задача ребёнка — определить значения тех фигур и областей, в которых числа не указаны."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Create these puzzles by making a diagram of circles and maybe some other shapes. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers.\n"
+"\n"
+"As with Shape Sums puzzles in Chapter 3, start with simple puzzles with just one or two numbers missing and slowly progress to puzzles with more numbers missing, more enclosed regions next to each other, and more use of values in non-circular regions."
+msgstr ""
+"Такую головоломку можно создать, составив схему из кругов и других фигур. Следует вписать в каждую фигуру число, а в каждую замкнутую область — сумму значений фигур, которые окружают её. После этого уберите некоторые из чисел.\n"
+"\n"
+"Как и в задачах «Суммы фигур» из главы 3, начните с простого: одна-две пропущенные цифры. Затем переходите к более сложным — с бóльшим количеством пропусков, областей и значений в фигурах других форм."
 
 #. type=data_list
 msgctxt "data_list"
