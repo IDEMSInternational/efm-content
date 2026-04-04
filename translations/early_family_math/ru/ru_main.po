@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Russian\n"
 "\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-04-03 20:35\n"
+"PO-Revision-Date: 2026-04-04 23:31\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14245,6 +14245,75 @@ msgstr ""
 "Такую головоломку можно создать, составив схему из кругов и других фигур. Следует вписать в каждую фигуру число, а в каждую замкнутую область — сумму значений фигур, которые окружают её. После этого уберите некоторые из чисел.\n"
 "\n"
 "Как и в задачах «Суммы фигур» из главы 3, начните с простого: одна-две пропущенные цифры. Затем переходите к более сложным — с бóльшим количеством пропусков, областей и значений в фигурах других форм."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Compensation"
+msgstr "Прыжки по островам: метод компенсации"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"Использование компенсации при сложении — это способ упростить вычисления. Смысл в том, чтобы забрать немного от одного слагаемого и добавить к другому — результат не изменится, но одно из чисел станет удобнее.\n"
+"\n"
+"Например, при сложении 7 + 8 можно забрать 2 от 7 и добавить к 8 — получится 5 + 10. Или наоборот: забрать 3 от 8 и прибавить к 7 — получится 10 + 5. Всякий раз, когда одно из чисел становится кратным 10, задача упрощается.\n"
+"\n"
+"Эти задания помогают потренироваться в создании новых примеров с помощью компенсации. Задача — найти путь, соединяющий все острова с одинаковыми ответами. Соединять можно только те острова, в которых числа в примерах отличаются на 1. Маршрут будет состоять не из всех островов.\n"
+"\n"
+"Сначала нарисуйте около десяти островов с некоторыми соединениями. Заранее выберите маршрут от одного края до другого и разместите вдоль него примеры, отличающиеся друг от друга на 1. Начните, например, с примера на сложение с 10, а затем создавайте его варианты. На соседние с маршрутом острова поместите примеры с небольшими изменениями и другими ответами."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "На самом деле, в этих головоломках почти невозможно варьировать уровень сложности. Добавление ложных путей, скорее всего, приведёт к путанице, а не к усложнению задачи, поэтому, это не лучшая идея."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "Треугольники разностей и сумм"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles"
+msgstr "Треугольники разностей"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "Головоломка «Треугольники разностей» состоит из треугольников и квадратов, которые соединены сторонами. У каждого треугольника всегда есть ровно два квадрата по сторонам, а третья сторона — либо пустая, либо граничит с другим треугольником. Число внутри треугольника — разность значений двух соседних квадратов. Задача — восстановить недостающие числа."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Constructing Puzzles** Making puzzles without loops is easy. Draw an alternating sequence of squares and triangles, put in numbers starting at one end, and then work your way to the far end. When you are done, remove some of the numbers. Making puzzles with loops or more complicated interactions is trickier; however, the effort pays off with some challenging puzzles!\n"
+"\n"
+"When your child gets very comfortable with these, they may want to take a turn creating some new puzzles of their own. They should have fun and learn a lot by figuring out how the numbers fit together.\n"
+"\n"
+"**Strategies for Solving** The places to do first are any triangles between two filled in squares. Another easy case is a square next to a filled triangle that has a smaller filled square next to it - in this case, because we are not working with negative numbers, there is only one choice for filling in the empty square. The most common case is a square that has two possible values looking in one direction, and two other possibilities looking in the other direction - there is usually only one number that overlaps in those possibilities."
+msgstr ""
+"**Как создавать головоломки:** Создать головоломку, которая не замкнута в круг, довольно просто. Нарисуйте чередующуюся последовательность квадратов и треугольников, впишите числа, начиная с одного края, и двигайтесь к другому. Когда закончите, удалите некоторые из чисел. Создание заданий в виде замкнутого круга или более трудными связями — задача посложнее, но результат стоит усилий: такие головоломки получаются действительно увлекательными.\n"
+"\n"
+"Когда ребёнок хорошо освоится с простыми головоломками, он, возможно, захочет попробовать придумать свои собственные. Это отличный способ получить удовольствие и многому научиться, разбираясь, как между собой связаны числа.\n"
+"\n"
+"**Стратегии решения:** Начинать лучше с треугольников, расположенных между двумя заполненными квадратами. Другой простой случай — квадрат, который находится рядом с заполненным треугольником, а с другой стороны — с меньшим по значению заполненным квадратом. В этом случае, так как мы не используем отрицательные числа, существует только один возможный вариант для пустого квадрата. Наиболее распространённая ситуация — квадрат, у которого есть два возможных значения с одной стороны и два других — с противоположной. Обычно только одно число совпадает в обеих группах, и оно и будет правильным ответом."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are some examples with lots of interconnections."
+msgstr "Вот несколько примеров с множеством взаимосвязей:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SumTriangles"
+msgstr "Треугольники сумм"
 
 #. type=data_list
 msgctxt "data_list"
