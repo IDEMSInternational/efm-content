@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-04-23 00:22\n"
+"PO-Revision-Date: 2026-04-23 02:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28456,6 +28456,51 @@ msgstr "スキップカウントと１４までの数え方を扱います。"
 msgctxt "data_list"
 msgid "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
 msgstr "物の量をいろいろな形に並べたり、量を見積もってみたりするアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-1"
+msgstr "プレイデート２１：カウントオン方式による暗算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1."
+msgstr "**プレイデートの狙い:** カウントオンの考え方を使って足し算の練習をしましょう。カウントオンとは、たとえば４と３のように２つのグループを数えるとき、１からではなく４から数え始めることを意味します。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and groupings of objects."
+msgstr "たくさんの形や物のグループ分けを扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
+msgstr "足し算や引き算に関わるアクティビティです。足し算の練習には、小さい数を使った「番号付き」の「点と箱」を使いましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-2"
+msgstr "プレイデート２２：取り去りで行う暗算の引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**プレイデートの狙い:** 大きい数から数を減らしていくことで、引き算の練習をしましょう。「取り去る」と「差」は、引き算を考えるためのよいモデルであることについて話しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and comparisons."
+msgstr "スキップカウント、形、そして比較を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing, adding, and subtracting."
+msgstr "比べること、足し算、引き算に関するアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-3"
+msgstr "プレイデート２３：差を求める暗算の引き算"
 
 #. type=global
 msgctxt "global"
