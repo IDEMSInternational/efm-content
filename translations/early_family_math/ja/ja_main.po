@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Japanese\n"
 "\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-04-23 02:12\n"
+"PO-Revision-Date: 2026-04-23 03:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28064,6 +28064,22 @@ msgstr "このようなお話を作って、キリンの首がどのように長
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stage 1 Overview"
+msgstr "プレイデートステージ １: 聞こえているよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 1 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 1 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"このステージは、生後４か月頃から始まります。お子さんにさまざまな経験をさせてあげることがとても大切です。お子さんがまだ理解している様子を見せていなくても、話しかけることを始めてください。いろいろな物を指さしながら、それについて説明することを習慣にしましょう。お子さんが言葉に反応し始めたら、少しずつお子さんが答えられるような質問も取り入れていくと良いです。\n"
+"\n"
+"お子さんが物にはさまざまな性質があることを理解し始めたら、物事が似ている点や異なる点となる性質を指摘してあげましょう。これらの性質は、パターン遊びをする際にも役立ちます。最後に、形についても多くの性質に注目しながら説明していきましょう。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 1-1"
 msgstr "プレイデート１: 算数に触れる会話–早期に頻繁に"
 
@@ -28264,6 +28280,19 @@ msgstr "性質やパターンについての話し合いを引き続き行いま
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stage 2 Overview"
+msgstr "プレイデートステージ ２: ５まで数えられるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 2 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr "お子さんは５まで数えることを身につけ、それらの数を量として理解しています。また、物にはさまざまな性質があり、それらを比べたり、ちがいを見つけたりできることも理解しています。このステージでは、お子さんは１０まで数えられるようになり、小さな数の足し算や引き算の理解を始めます。また、少ない数の物の量の大きさについても、ずっとよく分かるようになっていきます。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 2-1"
 msgstr "プレイデート１１：１と０から数え始める"
 
@@ -28459,6 +28488,19 @@ msgstr "物の量をいろいろな形に並べたり、量を見積もってみ
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stage 3 Overview"
+msgstr "プレイデートステージ ３: １０まで数えられるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 3 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 3 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr "お子さんは１０まで数えることに慣れ、その数字と量の意味も以前より分かるようになりました。小さな数の足し算・引き算もずっと上手になっています。このステージでは、２０までの数え方に広げ、お子さんが足し算・引き算できる数の範囲も広げます。また、かけ算・わり算の入り口も学び始めます。さらに、お子さんの分析する力と成長に合わせて、戦略ゲームを楽しむための初歩的な考え方についても話し合います。"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Playdate 3-1"
 msgstr "プレイデート２１：カウントオン方式による暗算"
 
@@ -28501,6 +28543,522 @@ msgstr "比べること、足し算、引き算に関するアクティビティ
 msgctxt "data_list"
 msgid "Playdate 3-3"
 msgstr "プレイデート２３：差を求める暗算の引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**プレイデートの狙い:** 差を見つけるために、小さい数から数え上げて引き算の練習をしましょう。「取り去る」と「差」は、引き算を考えるためのよいモデルであることを改めて確認しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10 and shapes."
+msgstr "これは、１０までの数え方と形を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and some estimating of small quantities."
+msgstr "足し算と小さい量の見積もりに関わるアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-4"
+msgstr "プレイデート２４：数の組み合わせ"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this."
+msgstr "**プレイデートの狙い:** 部分と全体の関係、つまり物事をいくつかの部分からできているものとして見ることは、お子さんの発達において大切な段階です。お子さんと一緒に、同じ合計になる数の組である「数の組み合わせ」を練習しましょう。「テンフレーム」を使った練習も、その大切な一部です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds."
+msgstr "数の組み合わせの練習をたくさん行うアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-5"
+msgstr "プレイデート２５：位取り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more."
+msgstr "**プレイデートの狙い:** １０は、私たちの数にとってとても重要な役割を持っています。１０を足したり引いたりする練習をしましょう。また、１０から１９までの数を、１０といくつかの１に分ける練習もしましょう。たとえば、１４は１０と４を合わせた数です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and counting with small numbers."
+msgstr "たくさんの形と小さい数での数え方を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing and ordering numbers up to 20."
+msgstr "２０までの数を比べたり順番に並べたりするアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-6"
+msgstr "プレイデート２６:ファクトファミリー"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds."
+msgstr "**プレイデートの狙い:** ファクトファミリーを使って、足し算と引き算のつながりを強調しましょう。これは、前回のプレイデートで取り上げた数の組み合わせの学びを自然に発展させるものです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 12, colors, shapes, and patterns."
+msgstr "これは、１２までの数え方、色、形、そしてパターンを扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds and with addition and subtraction of small numbers."
+msgstr "これらは、数の組み合わせや小さい数の足し算・引き算をたくさん練習するアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-7"
+msgstr "プレイデート２７：ツインの足し算と、ニアツインの足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected."
+msgstr "**プレイデートの狙い:** 同じ数どうしを足す「ツインの足し算」は、お子さんにとって楽しく覚えやすい足し算です。ツインの足し算を覚えたあとには、次の数を足す「ニアツイン」（たとえば３＋４）も学びやすくなります。これにより、足し算の計算どうしがどのようにつながっているかを理解する助けになります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, adding twins, and counting to 14."
+msgstr "これは、スキップカウント、ツインの足し算、そして１４までの数え方を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding practice and estimating using a number line."
+msgstr "足し算の練習と数直線を使った見積もりを行うアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-8"
+msgstr "プレイデート２８：２でのかけ算とわり算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally."
+msgstr "**プレイデートの狙い:** ２ずつのスキップカウントやツインの足し算をしたあとには、２倍にすること、２をかけること、半分にすること、２で割ること、物を２つの同じ大きさの部分に分けること、そして奇数と偶数を見ることを始めるよいタイミングです。これらは内容は多いですが、とても自然に関連し合っています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of discussion of how to split something fairly among coorperating friends."
+msgstr "ここでは、協力する友だちの間で物を公平に分ける方法についての話し合いをたくさん扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and taking halves."
+msgstr "２倍にすることと、半分にすることに関連しています。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-9"
+msgstr "プレイデート２９：２ずつのスキップカウント２"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10."
+msgstr "**プレイデートの狙い:** ２ずつのスキップカウントをたくさん練習しましょう。上下に数えたり、２の倍数だけでなくどこからでも始めたりしてください。これが簡単になったら、５や１０ずつなどのほかのスキップカウントも練習しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
+msgstr "足し算や引き算の練習と、どの数がペアの集まりとして見えるかを考えるアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-10"
+msgstr "プレイデート３０：戦略ゲーム１"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills."
+msgstr "**プレイデートの狙い:** お子さんと一緒にたくさん戦略ゲームをしましょう。数字を使わないゲームでも、そこにはたくさんの算数があります。問題を解く大切な力を育てることができます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10, comparisons, and a discussion of problem solving."
+msgstr "これは、１０までの数え方、比較、そして問題解決についての話し合いを扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of problem solving while playing strategy games."
+msgstr "戦略ゲームをしながらたくさんの問題解決を行うアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Overview"
+msgstr "プレイデートステージ ４: ２０まで数えられるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 4 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr "このステージでは、お子さんは１００まで数えられるように発展していきます。数える力が伸びるにつれて、２けたの位取りの仕組みをしっかり理解することが大切になります。また、１けたの足し算と引き算の計算も身につけていきます。さらに、１から５までの数をかけるかけ算を身につけ始める、わくわくする時期でもあります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-1"
+msgstr "プレイデート３１: １００まで数える"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10."
+msgstr "**プレイデートの狙い:** お子さんと一緒に１００まで順番に数えたり、１００から逆に数えたりしましょう。特に、１０の倍数のところでの変わり目に注意しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes, counting, and groupings of objects."
+msgstr "たくさんの形、数え方、そして物のグループ分けを扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
+msgstr "数を順番に並べたり比べたりするアクティビティです。「僕の考えている数字」では、１００までの数を使いましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-2"
+msgstr "プレイデート３２: ２けたの位取り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers."
+msgstr "**プレイデートの狙い:** 展開形と２けたの位取りを使って、数の値や意味を理解しましょう。展開形とは、数を十のまとまりと一の数に分けて表すことで、たとえば４３は４０＋３のように表します。位取りとは、４３は「４つの１０」と「３つの１」を表していると理解することで、数字がどの位にあるかによってその値が決まります。展開形と位取りを使って、数を比べることにも役立てましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 20, descriptions, and shapes."
+msgstr "２０までの数え方、説明、形を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing games."
+msgstr "順番に並べたり比べたりするゲームです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-3"
+msgstr "プレイデート３３: 指を使った足し算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier."
+msgstr "**プレイデートの狙い:** 指や順番に数字を数える方法を使って、どんな数にも１けたの数を足しやすくしましょう。また、補正の考え方を使うと、いくつかの足し算がとてもやりやすくなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, quantities, and speeds."
+msgstr "形、量、速さを扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of addition and subtraction, and some practice with number bonds."
+msgstr "足し算と引き算の練習、そして数の組み合わせの練習をたくさん行うアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-4"
+msgstr "プレイデート３４: 指を使った引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number."
+msgstr "**プレイデートの狙い:** 指を使って、どんな数からでも１けたの数を引きやすくしたり、差が１けたの数になる２つの数の引き算を簡単にしたりしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and polygons (many-sided flat shapes)."
+msgstr "たくさんの形と多角形を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with addition and subtraction."
+msgstr "足し算と引き算の練習をたくさん行うアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-5"
+msgstr "プレイデート３５: 足し算・引き算の補正"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier."
+msgstr "**プレイデートの狙い:** 補正を使うと、足し算や引き算がずっとやりやすくなります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting of groups and lots of comparison words."
+msgstr "グループの数え方と、比較の言葉がたくさん出てきます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding and subtracting, as well as a little bit of probability."
+msgstr "足し算と引き算、そして確率も少し扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-6"
+msgstr "プレイデート３６：１０を真ん中の目安にする"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships."
+msgstr "**プレイデートの狙い:** １０を途中のポイントとして使うと、暗算での足し算や引き算がずっとやりやすくなり、数の関係の理解も強まります。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and number properties."
+msgstr "スキップカウントと数の性質を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding, subtracting, and number bonds."
+msgstr "足し算、引き算、そして数の組み合わせを扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-7"
+msgstr "プレイデート３７：２ずつ・５ずつ・１０ずつのスキップカウント"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value."
+msgstr "**プレイデートの狙い:** ２の倍数、５の倍数、１０の倍数のスキップカウントを、どこからでも始めて上にも下にも数える練習をしましょう。これは、足し算、引き算、かけ算、わり算にとても役立ちます。１０の倍数のスキップカウントは、位取りの理解にも役立ちます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 14 and skip counting."
+msgstr "１４までの数え方とスキップカウントを扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve place value and simple additions with two-digit numbers."
+msgstr "位取りと２けたの数を使った簡単な足し算に関わるアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-8"
+msgstr "プレイデート３８: 初歩のかけ算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it."
+msgstr "**プレイデートの狙い:** ２倍にすることと半分にすることを使って、かけ算やわり算の言葉に自然に触れる練習をしましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and shapes."
+msgstr "スキップカウントと形を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+msgstr "２倍にすること、２けたの数に１けたの数を足したり引いたりすること、そして位取りに関わるアクティビティです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-9"
+msgstr "プレイデート３９：１〜５どうしのかけ算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
+msgstr "**プレイデートの狙い:** お子さんと一緒に、１から５までの２つの数の暗算のかけ算をしてみましょう。これは、かけ算を身につけるはじめの一歩です！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and colors."
+msgstr "スキップカウント、形、そして色を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+msgstr "足し算、引き算、かけ算を扱います。数字の入れ替えゲームでは、これら３つすべての計算を使うことができます。かけ算を使うバトルは、お子さんが大きい数に慣れるまでは、１から５までのカードだけを使いましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-10"
+msgstr "プレイデート４０：戦略ゲーム２"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse."
+msgstr "**プレイデートの狙い:** これは、戦略ゲームを使って問題解決をより深く考える機会です。戦略ゲームとは、プレイヤーの選択によってゲームの結果がよくなったり悪くなったりするようなゲームのことです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting, comparisons, and problem solving."
+msgstr "数え方、比較、そして問題解決を扱います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+msgstr "足し算と引き算を扱います。番号付きの「点と箱」を使い、お子さんの準備ができていれば２けたの数を書きましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Overview"
+msgstr "プレイデートステージ ５: １００まで数えられるよ！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr "このステージでは、数える力が１００を超えて３けたの数へと発展していきます。位取りの考え方がますます重要になり、数を展開形で表すことで、これらの考え方がよりはっきり理解できるようになります。１けたの足し算と引き算を身につけたので、次は１けたのかけ算とわり算を学ぶ時期です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-1"
+msgstr "プレイデート４１: ３けたの位取り"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them."
+msgstr "**プレイデートの狙い:** お子さんが扱う数は１００を超えるようになり、足し算や引き算でも２けたの数を使うようになります。２けたや３けたの展開形と位取りを一緒に練習しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-2"
+msgstr "プレイデート４２：２けたの足し算・引き算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction."
+msgstr "**プレイデートの狙い:** 展開形を使って、２けたの足し算と引き算を練習しましょう。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve two-digit addition and subtraction."
+msgstr "二桁の足し算と引き算に関するものです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-3"
+msgstr "プレイデート４３：２ずつから１０ずつのスキップカウント"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations."
+msgstr "**プレイデートの狙い:** 任意の数字から始めて、好きな間隔で上や下にスキップカウントの練習をします（倍数だけでなくてもよいです）。このスキップカウントは、四則演算すべての練習にとても役立ちます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with skip counting."
+msgstr "スキップカウントの練習をたくさんします。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-4"
+msgstr "プレイデート４４：かけ算－２、４、８、５、１０"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy."
+msgstr "**プレイデートの狙い:** ２、４、８のかけ算は倍にする方法で頭の中で計算する練習をします。５と１０のかけ算は便利で簡単なので、頭の中で計算する練習をします。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and general multiplication practice."
+msgstr "倍にする計算や、基本的なかけ算の練習を行います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-5"
+msgstr "プレイデート４５：かけ算－３、４、６、９、１１"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5."
+msgstr "**プレイデートの狙い:** ３、４、６、９、１１のかけ算では、「１つ多い」「１つ少ない」という考え方を使って、頭の中で計算する練習をします。例えば、６のかけ算は５のかけ算より１つ多いと考えます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of multiplication practice along with some mixed operation practice."
+msgstr "かけ算をたくさん練習するとともに、いくつかの混合計算の練習も行います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-6"
+msgstr "プレイデート４６：１けたのかけ算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!"
+msgstr "**プレイデートの狙い:** すべての準備が整い、お子さんは１桁のかけ算を完全にマスターする準備ができています！"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+msgstr "これは前回のプレイデートと同じ内容で、かけ算をたくさん練習するとともに、いくつかの混合計算の練習も含まれます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-7"
+msgstr "プレイデート４７：約数、因数、倍数"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple."
+msgstr "**プレイデートの狙い:** お子さんがかけ算とわり算に慣れてきたので、今度は数字がほかの数字をきれいに割れる感覚を身につける時期です。これには「因数」「約数」「倍数」という言葉の学習と練習が含まれます。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with factors and multiples."
+msgstr "これは因数と倍数の練習をたくさん行う内容です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-8"
+msgstr "プレイデート４８：素数、合成数、べき乗"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power."
+msgstr "**プレイデートの狙い:** かけ算を使うと、素数は数の基本となる要素です。お子さんが素因数分解の感覚をしっかり身につけられるようにしましょう。このプレイデートで学ぶ新しい言葉は、「素数」「合成数」「単位」「累乗」です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+msgstr "これらは、かけ算や割り切れるかどうかの性質について、「テーブルをひっくりかえせ」を使ってたくさん練習する内容です。「ブー」を遊びながら、素因数分解の練習も行います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-9"
+msgstr "プレイデート４９：ファクトファミリー２"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division."
+msgstr "**プレイデートの狙い:** ファクトファミリーの練習は、かけ算とわり算のつながりへの理解を深めるよい方法です。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+msgstr "かけ算や割り切れるかどうかの性質について、「テーブルをひっくりかえせ」を使ってたくさん練習する内容です。「ブー」を遊びながら、倍数の練習も行います。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-10"
+msgstr "プレイデート５０：１桁のわり算"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a quick first step at practicing division with and without remainders."
+msgstr "**プレイデートの狙い:** これは、余りのあるわり算とないわり算の練習を始めるための、手早い最初のステップです。"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and division."
+msgstr "かけ算とわり算の練習をたくさん行う内容です。"
 
 #. type=global
 msgctxt "global"
