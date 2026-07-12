@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-07-12 21:13\n"
+"PO-Revision-Date: 2026-07-12 22:30\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -359,7 +359,7 @@ msgstr "Zähle die Tiere zusammen, die winken."
 #. type=data_list
 msgctxt "data_list"
 msgid "Are there more animals or balls? By how much?"
-msgstr "Gibt es mehr Tiere oder mehr Bälle? Wie viele gibtes jeweils?"
+msgstr "Gibt es mehr Tiere oder mehr Bälle? Wie viele gibt es jeweils?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3837,7 +3837,7 @@ msgid ""
 msgstr ""
 "Kater und Hund laufen zu einem Vogel.\n"
 "\n"
-"Sie fragen den Vogel: \"Ist das dein Ei?\""
+"Sie fragen den Vogel: „Ist das dein Ei?“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3857,7 +3857,7 @@ msgstr "Beschreibe, wo der Vogel ist -- Der Kater und der Hund sind unter dem Da
 #. type=data_list
 msgctxt "data_list"
 msgid "But the bird says, \"No, that is not my egg. Ask the owl. Maybe it is his egg.\""
-msgstr "Aber der Vogel sagt: \"Nein, das ist nicht mein Ei. Frag die Eule. Vielleicht ist es ihr Ei.\""
+msgstr "Aber der Vogel sagt: „Nein, das ist nicht mein Ei. Frag die Eule. Vielleicht ist es ihr Ei.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3883,7 +3883,7 @@ msgid ""
 msgstr ""
 "Der Kater und der Hund gehen zur Eule.\n"
 "\n"
-"Sie fragen die Eule: \"Ist das dein Ei?\""
+"Sie fragen die Eule: „Ist das dein Ei?“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3903,7 +3903,7 @@ msgstr "Bemerke die unübliche Drachenförmige Krawatte der Eule!"
 #. type=data_list
 msgctxt "data_list"
 msgid "But the owl says, \"No, that is not my egg. Ask the goose. Maybe it is her egg.\""
-msgstr "Aber die Eule sagt: \"Nein das ist nicht mein Ei. Frag die Gans. Vielleicht ist es ihr Ei.\""
+msgstr "Aber die Eule sagt: „Nein das ist nicht mein Ei. Frag die Gans. Vielleicht ist es ihr Ei.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3929,7 +3929,7 @@ msgid ""
 msgstr ""
 "Der Kater und der Hund gehen zur Gans.\n"
 "\n"
-"Sie fragen die Gans: \"Ist das dein Ei?\""
+"Sie fragen die Gans: „Ist das dein Ei?“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3949,7 +3949,7 @@ msgstr "Es gibt drei Vögel. Wie sind diese einander ähnlich und wie voneinande
 #. type=data_list
 msgctxt "data_list"
 msgid "But the goose says, \"No, that is not my egg. Ask the two ducks. Maybe it is their egg.\""
-msgstr "Aber die Gans sagt: \"Nein, das ist nicht mein Ei. Fragt die zwei Enten. Vielleicht ist es ihr Ei.\""
+msgstr "Aber die Gans sagt: „Nein, das ist nicht mein Ei. Fragt die zwei Enten. Vielleicht ist es ihr Ei.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3975,7 +3975,7 @@ msgid ""
 msgstr ""
 "Der Kater und der Hund gehen zu den zwei Enten.\n"
 "\n"
-"Sie fragen die zwei Enten: \"Ist das euer Ei?\""
+"Sie fragen die zwei Enten: „Ist das euer Ei?“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3999,7 +3999,7 @@ msgid ""
 "\n"
 "Then the egg breaks."
 msgstr ""
-"Aber die zwei Enten sagen: \"Nein das ist nicht unser Ei.\"\n"
+"Aber die zwei Enten sagen: „Nein das ist nicht unser Ei.“\n"
 "\n"
 "Dann bricht das Ei."
 
@@ -4051,7 +4051,7 @@ msgid ""
 "\n"
 "Cat and Dog bring the baby lizard to his mother and father."
 msgstr ""
-"Die Baby-Eidechse sagt: \"Wo ist meine Mutter? Wo ist mein Vater? Wo sind mein Vater und meine Mutter?\"\n"
+"Die Baby-Eidechse sagt: „Wo ist meine Mutter? Wo ist mein Vater? Wo sind mein Vater und meine Mutter?“\n"
 "\n"
 "Kater und Hund bringen die Baby-Eidechse zu ihrer Mutter und ihrem Vater."
 
@@ -4068,7 +4068,7 @@ msgstr "Warum sind Eidechsen an sonnigen Tagen gerne auf Steinen?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Are most rocks round like these, or do some have sharp edges and points?"
-msgstr "Sind die meisten Steinerund wie diese, oder haben manche scharfe Kanten und Stellen?"
+msgstr "Sind die meisten Steine rund wie diese, oder haben manche scharfe Kanten und Stellen?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8226,7 +8226,7 @@ msgstr "Sprich es an: Die 0 ist eine besondere Zahl! Hier beginnt das Zählen, a
 #. type=data_list
 msgctxt "data_list"
 msgid "How many cats do you see?"
-msgstr "Erforscht nochmals die Frage: \"Wie viele Katzen siehst du hier?”. Müssen wir hier also etwas abzählen, um zu wissen, wie viele es sind?"
+msgstr "Erforscht nochmals die Frage: „Wie viele Katzen siehst du hier?“. Müssen wir hier also etwas abzählen, um zu wissen, wie viele es sind?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8431,7 +8431,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Point at each of the seven cats."
-msgstr "Findet die Katzen und zählt sie tippend. Zeigt auf die Katzen direkt am Haus und benennt sie mit “4 von insgesamt 7 Katzen”"
+msgstr "Findet die Katzen und zählt sie tippend. Zeigt auf die Katzen direkt am Haus und benennt sie mit „4 von insgesamt 7 Katzen“."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8482,7 +8482,7 @@ msgid ""
 msgstr ""
 "Ein Kätzchen sitzt oben im Baum.\n"
 "\n"
-"“Ich rette dich!”, ruft Paul."
+"„Ich rette dich!“, ruft Paul."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8510,13 +8510,13 @@ msgid ""
 "\n"
 "\"That is too many cats!\" says Mama."
 msgstr ""
-"“Mama, ich habe sie. Können wir sie behalten?”\n"
+"„Mama, ich habe sie. Können wir sie behalten?“\n"
 "\n"
 "Wie viele Katzen sind es jetzt zusammen?\n"
 "\n"
 "9 … neun Katzen.\n"
 "\n"
-"“Neun Katzen sind zu viele,”, sagt Mama."
+"„Neun Katzen sind zu viele“, sagt Mama."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8531,7 +8531,7 @@ msgstr "Neun Katzen und ein Hund sind insgesamt wie viele Tiere?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Do you think nine cats is too many?"
-msgstr "Kennt ihr jemanden mit Katzen? Wie viele Katzen haben sie? Sind neun Katzen “zu viele”?"
+msgstr "Kennt ihr jemanden mit Katzen? Wie viele Katzen haben sie? Sind neun Katzen „zu viele“?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9740,7 +9740,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Name all the colors in the colorful clothes they are wearing."
-msgstr "Nenne alle Farben in den buntenKleidern, die sie tragen."
+msgstr "Nenne alle Farben in den bunten Kleidern, die sie tragen."
 
 #. type=data_list
 msgctxt "data_list"
@@ -9857,7 +9857,7 @@ msgid ""
 "\n"
 "She was angry and began to cry."
 msgstr ""
-"In der Mitte des Flussesfiel Akadelis Frucht ins Wasser.\n"
+"In der Mitte des Flusses fiel Akadelis Frucht ins Wasser.\n"
 "\n"
 "Sie war wütend und begann zu weinen."
 
@@ -9869,7 +9869,7 @@ msgstr "Akadeli steht in der Mitte von ein paar Kreisen im Wasser. Wie viele sin
 #. type=data_list
 msgctxt "data_list"
 msgid "People cry sometimes when they are sad or angry. Have you been sad or angry when you spilled something?"
-msgstr "Menschen weinen manchmal, wenn sie traurig oder wütend sind. Warst du jemals traurig oder wütend, als du etwas verschüttethast?"
+msgstr "Menschen weinen manchmal, wenn sie traurig oder wütend sind. Warst du jemals traurig oder wütend, als du etwas verschüttet hast?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9920,7 +9920,7 @@ msgstr "Die Flügel des Falken und Akadelis Hemd sehen ein bisschen ähnlich aus
 #. type=data_list
 msgctxt "data_list"
 msgid "What is Akadeli feeling as she watches the hawk fly away with her fish?"
-msgstr "Was fühlt Akadeli, während sie den Falkenmit ihrem Fisch wegfliegen sieht?"
+msgstr "Was fühlt Akadeli, während sie den Falken mit ihrem Fisch wegfliegen sieht?"
 
 #. type=data_list
 msgctxt "data_list"
