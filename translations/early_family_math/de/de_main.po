@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-07-06 16:16\n"
+"PO-Revision-Date: 2026-07-12 21:13\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14425,4 +14425,10 @@ msgstr "**Fokus des Spieltreffens:** Dies ist ein erster, einfacher Schritt zum 
 msgctxt "data_list"
 msgid "These involve lots of practice with multiplication and division."
 msgstr "Diese Spiele beinhalten viel Übung mit Multiplikation und Division."
+
+#. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
 
