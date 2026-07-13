@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-07-13 04:11\n"
+"PO-Revision-Date: 2026-07-13 13:08\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2069,6 +2069,36 @@ msgstr "Überlege, ob dir noch etwas einfällt, das man nicht gut zählen kann, 
 msgctxt "data_list"
 msgid "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer."
 msgstr "In Schritten zu zählen kann Spaß machen. Man kommt damit viel schneller zur Lösung kommt, als wenn man immer nur 1 dazuzählt. Und es ist spannend zu sehen, dass man in unterschiedlichen Schritten zählen kann und trotzdem zur gleichen Lösung kommt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"A long time ago, deep in the forests, King Leopard began to think about the future.\n"
+"\n"
+"He thought, \"I'm getting old and one day, I'm going to die. A wise ruler should pick a successor while still young and healthy.\"\n"
+"\n"
+"But how could King Leopard choose? He loved all the members of the animal kingdom the same!"
+msgstr ""
+"Es war einmal vor langer, langer Zeit, da saß König Leopard tief in den Wäldern und dachte über die Zukunft nach.\n"
+"\n"
+"Er dachte: „Ich werde alt und eines Tages werde ich sterben. Ein weiser Anführer sollte einen Nachfolger wählen, solange er noch jung und gesund ist.“\n"
+"\n"
+"Aber wie sollte König Leopard sich nur entscheiden? Er liebte alle Tiere im Königreich gleich!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you were going to pick a leader, which skills would you want them to have?"
+msgstr "Wenn du einen Anführer wählen müsstest, welche Fähigkeiten wären dir bei ihm wichtig?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess what King Leopard will look for in a successor. Do you think he will look for the largest, the fastest, or the friendliest animal?"
+msgstr "Was denkst du, nach was für einem Nachfolger König Leopard sucht? Wird er sich für das größte, das schnellste oder das freundlichste Tier entscheiden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the tree trunks you can see. Can you count that high?"
+msgstr "Zähle alle Baumstämme, die du finden kannst. Kannst du schon so hoch zählen?"
 
 #. type=data_list
 msgctxt "data_list"
