@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-07-13 02:12\n"
+"PO-Revision-Date: 2026-07-13 03:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -389,17 +389,17 @@ msgstr "Wollen die Tiere etwas vom Bauern?"
 #. type=data_list
 msgctxt "data_list"
 msgid "The cow says, \"Moo.\""
-msgstr "Die Kuh sagt: “Muh.\""
+msgstr "Die Kuh sagt: „Muh.“"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "The cow is looking at an empty trough. What do you think \"Moo\" means?"
-msgstr "Die Kuh schaut auf einen leeren Trog. Was, meinst du, bedeutet \"Muh\"?"
+msgstr "Die Kuh schaut auf einen leeren Trog. Was, meinst du, bedeutet „Muh“?"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?"
-msgstr "Wenn du nur ein Wort hast (\"Muh\"), kannst du es auf verschiedene Arten sagen, damit es verschiedene Dinge bedeutet. Was, meinst du, will die Kuh?"
+msgstr "Wenn du nur ein Wort hast („Muh“), kannst du es auf verschiedene Arten sagen, damit es verschiedene Dinge bedeutet. Was, meinst du, will die Kuh?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -409,7 +409,7 @@ msgstr "Einige der schwarzen Flecken auf dem Rücken der Kuh sind klein und manc
 #. type=data_list
 msgctxt "data_list"
 msgid "The goat says, \"Meh, meh.\""
-msgstr "Die Ziege sagt: \"Mäh, mäh.\""
+msgstr "Die Ziege sagt: „Mäh, mäh.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -424,12 +424,12 @@ msgstr "Ist die Ziege durstig, hungrig oder beides?"
 #. type=data_list
 msgctxt "data_list"
 msgid "How many horns does a goat have? Name some other animals that have two hard things growing on their head."
-msgstr "Wie viele Hörner hat eine Ziege? Benenne andere Tiere die zwei harte Dinge haben, die auf ihren Köpfen wachsen."
+msgstr "Wie viele Hörner hat eine Ziege? Benenne andere Tiere, die zwei harte Dinge haben, die auf ihren Köpfen wachsen."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "The horse says, \"Neigh.\""
-msgstr "Das Pferd sagt: \"Wieher.\""
+msgstr "Das Pferd sagt: „Wieher.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -449,12 +449,12 @@ msgstr "Gibt es Tiere mit einer anderen Anzahl Beinen als zwei oder vier? Wie st
 #. type=data_list
 msgctxt "data_list"
 msgid "The pig says, \"Grunt.\""
-msgstr "Das Schwein sagt, \"Grunz.\""
+msgstr "Das Schwein sagt, „Grunz.“"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Some people think that pigs say \"Oink.\" What do you think they say?"
-msgstr "Manche Leute denken, dass Schweine \"Oink.\" sagen. Was denkst du, sagen sie?"
+msgstr "Manche Leute denken, dass Schweine „Oink.“ sagen. Was denkst du, sagen sie?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -469,7 +469,7 @@ msgstr "Zähle die Pfosten zusammen, die den Zaun vor dem Schwein ausmachen."
 #. type=data_list
 msgctxt "data_list"
 msgid "The chicken says, \"Cluck.\""
-msgstr "Das Huhn sagt, \"Gock.\""
+msgstr "Das Huhn sagt, „Gock.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -489,7 +489,7 @@ msgstr "Wie viel macht eins mehr als drei?"
 #. type=data_list
 msgctxt "data_list"
 msgid "The dog says, \"Woof.\""
-msgstr "Der Hund sagt, \"Wuff.\""
+msgstr "Der Hund sagt, „Wuff.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -509,12 +509,12 @@ msgstr "Zähle die Anzahl Zacken am Rechen in der Ecke zusammen. Findest du noch
 #. type=data_list
 msgctxt "data_list"
 msgid "The farmer says, \"Shhh!\""
-msgstr "Der Bauer sagt, \"Shhh!\""
+msgstr "Der Bauer sagt, „Shhh!“"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Why does the farmer say \"Shhh?\"  Is the farmer tired of being pestered by the animals?"
-msgstr "Warum sagt der Bauer \"Shhh?\"  Ist der Bauer es Leid, von den Tieren gestört zu werden?"
+msgstr "Warum sagt der Bauer „Shhh?“  Ist der Bauer es Leid, von den Tieren gestört zu werden?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5276,7 +5276,7 @@ msgstr "Die Katze wartet immer noch. Hofft die Katze vielleicht auf einen Klecks
 #. type=data_list
 msgctxt "data_list"
 msgid "Why are Pendo's back two legs tied to a post? Do you think she likes being milked?"
-msgstr "Warum sind Pendos zwei Hinterbeine an einen Pflock gebunden? Meinst du sie mag es gemolken zu werden?"
+msgstr "Warum sind Pendos zwei Hinterbeine an einen Pflock gebunden? Meinst du sie mag es, gemolken zu werden?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5321,7 +5321,7 @@ msgstr "Beschreibe das farbenfrohe Kleid der Frau."
 #. type=data_list
 msgctxt "data_list"
 msgid "What is the picture on the paper on the wall? The sign says \"Milk here.\""
-msgstr "Was zeigt das Bild auf dem Papier an der Wand? Auf dem Schild steht: \"Milch hier.\""
+msgstr "Was zeigt das Bild auf dem Papier an der Wand? Auf dem Schild steht: „Milch hier.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5346,7 +5346,7 @@ msgstr "Es gibt viele Rechtecke hier. Zähle die Türen und Fenster, die du sehe
 #. type=data_list
 msgctxt "data_list"
 msgid "He says, \"Thank you Pendo!\""
-msgstr "Er sagt, \"Danke Pendo!\""
+msgstr "Er sagt, „Danke Pendo!“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5376,7 +5376,7 @@ msgstr "Warum, denkst du, hatte Mod das Wasser satt?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Mod has four \"fingers\" on each leg. Who has more fingers -- you or Mod? How many more?"
-msgstr "Mod hat vier \"Finger\" an jedem Bein. Wer hat mehr Finger – Du oder Mod? Wie viele mehr?"
+msgstr "Mod hat vier „Finger“ an jedem Bein. Wer hat mehr Finger – Du oder Mod? Wie viele mehr?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5386,7 +5386,7 @@ msgstr "Mit vier Fingern an jedem Bein, wie viele hat Mod insgesamt? Du kannst s
 #. type=data_list
 msgctxt "data_list"
 msgid "Be careful, said the turtle. \"Your skin will dry out.\""
-msgstr "\"Sei vorsichtig\", sagte die Schildkröte. \"Deine Haut wird austrocknen.\""
+msgstr "„Sei vorsichtig“, sagte die Schildkröte. „Deine Haut wird austrocknen.“"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5606,7 +5606,7 @@ msgstr "Bist du jemals zu einem Teich, Fluss oder See gegangen, um das Leben im 
 #. type=data_list
 msgctxt "data_list"
 msgid "Mother Sun decided to visit her sister, the moon. Sister Moon lives on the other side of the sky. \"I will be back soon,\" said Sun to the clouds."
-msgstr "Mutter Sonne entschied sich, ihren Bruder, den Mond, zu besuchen. Bruder Mond lebt auf der anderen Seite des Himmels. \"Ich bin bald zurück\", sagte die Sonne zu den Wolken."
+msgstr "Mutter Sonne entschied sich, ihren Bruder, den Mond, zu besuchen. Bruder Mond lebt auf der anderen Seite des Himmels. „Ich bin bald zurück“, sagte die Sonne zu den Wolken."
 
 #. type=data_list
 msgctxt "data_list"
@@ -5812,7 +5812,7 @@ msgstr "Wenn die Wolken glücklich waren darüber, die Sonne zu sehen, warum gin
 #. type=data_list
 msgctxt "data_list"
 msgid "Lots of little plants popped out of the earth to say, \"Hello.\" The whole world sparkled."
-msgstr "Viele kleine Pflanzen sprangen aus der Erde um \"Hallo.\" zu sagen. Die ganze Welt glitzerte."
+msgstr "Viele kleine Pflanzen sprangen aus der Erde um „Hallo.“ zu sagen. Die ganze Welt glitzerte."
 
 #. type=data_list
 msgctxt "data_list"
@@ -5832,7 +5832,7 @@ msgstr "Was sind ein paar Dinge, die Pflanzen brauchen, um glücklich zu werden 
 #. type=data_list
 msgctxt "data_list"
 msgid "Mother Sun shined her light everywhere. \"I told you I would be back,\" she beamed."
-msgstr "Mutter Sonne leuchtete mit ihrem Licht überall hin. \"Ich habe dir gesagt, ich werde zurückkehren\", strahlte sie."
+msgstr "Mutter Sonne leuchtete mit ihrem Licht überall hin. „Ich habe dir gesagt, ich werde zurückkehren“, strahlte sie."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10148,7 +10148,7 @@ msgstr "Der Schatten einer Palme ist immer kühl."
 #. type=data_list
 msgctxt "data_list"
 msgid "Is there something special about the shade of a palm tree that makes it cool?"
-msgstr "Gibt es etwas Spezielles über den Schatten einer Palme, das ihn kühl macht?"
+msgstr "Gibt es etwas Spezielles am Schatten einer Palme, das ihn kühl macht?"
 
 #. type=data_list
 msgctxt "data_list"
