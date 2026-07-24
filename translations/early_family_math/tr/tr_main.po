@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-02-03 22:15\n"
+"PO-Revision-Date: 2026-07-24 17:25\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25333,6 +25333,11 @@ msgstr "Sizin tek seferde yediğiniz en fazla kurabiye veya diğer atıştırmal
 msgctxt "data_list"
 msgid "This story has talked about a lot of different sounds to hear from your body. How many of them can you remember?"
 msgstr "Bu hikâye, vücudunuzdan duyabileceğiniz pek çok farklı sesten bahsetti. Kaçını hatırlayabiliyorsunuz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "1.0 Stage 1 Introduction"
+msgstr "Aşama 1: Seni Anlayabiliyorum!"
 
 #. type=data_list
 msgctxt "data_list"
