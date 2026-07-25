@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-07-25 15:41\n"
+"PO-Revision-Date: 2026-07-25 16:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28919,6 +28919,194 @@ msgctxt "data_list"
 msgid "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
 msgstr "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte 1'den 5'e kadar olan iki sayı için zihinsel çarpma işlemi yapın. Bu, çarpma işleminde ustalaşmanın başlangıcıdır!"
 
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and colors."
+msgstr "Bu etkinlik ritmik saymayı, şekilleri ve renkleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+msgstr "Bu etkinlik toplama, çıkarma ve çarpmayı içerir. Sayı Karışımları artık bu üç işlemin hepsini içerebilir. Çocuğunuz daha büyük sayılarla rahat hissedene kadar, çarpma savaşlarında yalnızca 1'den 5'e kadar olan kartları kullanmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-10"
+msgstr "Oyun Buluşması 40: Strateji Oyunları II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse."
+msgstr "**Oyun Buluşması Odağı:** Strateji oyunları sorun çözmeye daha derinden bakma şansı verir. Strateji oyunu, oyuncuların farklı seçimlere sahip olduğu ve alınan kararların oyunu iyi veya kötü yönde etkileyebildiği herhangi bir oyundur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting, comparisons, and problem solving."
+msgstr "Bu etkinlik saymayı, karşılaştırmayı ve sorun çözmeyi içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+msgstr "Bu etkinlik toplama ve çıkarmayı içerir. Çocuğunuz hazırsa Numaralı Noktaları ve Kutuları kullanarak iki basamaklı sayıları oluşturun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Overview"
+msgstr "Oyun Buluşmaları Aşama 5 — 100’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr "Bu aşamada sayma becerisi, 100’ün üzerindeki üç basamaklı sayılara kadar ilerler. Basamak değerini anlama becerisi gelişir ve sayılar için genişletilmiş formu kullanmak bu kavrayışı daha da netleştirir. Tek basamaklı toplama ve çıkarma işlemlerinde ustalaştıktan sonra, artık bir basamaklı çarpmayı ve bölmeyi öğrenme zamanı geldi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-1"
+msgstr "Oyun Buluşması 41: Üç Basamaklı Sayılar ve Basamak Değeri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzun sayıları 100’ün üzerine çıkıyor ve toplama ile çıkarma işlemleri artık iki basamaklı sayıları içerir. Onunla birlikte iki ve üç basamaklı sayılarda genişletilmiş formu ve basamak değerini çalışın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-2"
+msgstr "Oyun Buluşması 42: Çift Basamaklı Toplama ve Çıkarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction."
+msgstr "**Oyun Buluşması Odağı:** Genişletilmiş Formlarını iki basamaklı toplama ve çıkarma alıştırmaları için kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve two-digit addition and subtraction."
+msgstr "Bu etkinlik iki basamaklı toplama ve çıkarmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-3"
+msgstr "Oyun Buluşması 43: 2 ile 10 Arasındaki Sayılarla Ritmik Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations."
+msgstr "**Oyun Buluşması Odağı:** Herhangi bir sayıdan başlayarak ileri-geriye herhangi bir ritmik saymayı çalışın (sadece katları değil). Ritmik sayma dört işlemin hepsi için harika bir alıştırmasıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with skip counting."
+msgstr "Bu etkinlik bol miktarda ritmik sayma alıştırması içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-4"
+msgstr "Oyun Buluşması 44: Çarpma – 2, 4, 8, 5, 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy."
+msgstr "**Oyun Buluşması Odağı:** 2, 4 ve 8’in ikiye katlama yöntemini kullanarak zihinden çarpma alıştırması yapın. Hem yararlı hem de kolayı olduğu için zihinden 5 ve 10’la çarpma alıştırmaları yapın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and general multiplication practice."
+msgstr "Bu etkinlik ikiye katlama stratejisini ve temel çarpma alıştırmalarını içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-5"
+msgstr "Oyun Buluşması 45: Çarpma – 3, 4, 6, 9, 11"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5."
+msgstr "**Oyun Buluşması Odağı:** 3, 4, 6, 9 ve 11 ile çarpmayı zihinden “artı bir” ve “eksi bir” stratejileriyle çalışın. Örneğin, 6 ile çarpma 5’in çarpımına bir fazlasını eklemek gibidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of multiplication practice along with some mixed operation practice."
+msgstr "Bu etkinlik bazı karışık işlemlerle birlikte birçok çarpma alıştırması içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-6"
+msgstr "Oyun Buluşması 46: Tek Basamaklı Sayılarla Çarpma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!"
+msgstr "**Oyun Buluşması Odağı:** Tüm parçalar yerli yerinde ve çocuğunuz tek basamaklı çarpma işlemlerinin tümünde usta olmaya hazır!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+msgstr "Bunlar, bir önceki Oyun Buluşmasından tekrar edilen etkinliklerdir ve çok sayıda çarpma işleminin yanı sıra bazı karışık işlemleri de içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-7"
+msgstr "Oyun Buluşması 47: Bölenler, Çarpanlar ve Katlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuz artık çarpma ve bölme konusunda rahatlıyor, şimdi sayıların diğer sayıları nasıl eşit şekilde bölünebileceğini anlatmanın zamanı geldi. Bu, çarpanlar, bölen ve kat kelimelerini öğrenmeyi ve uygulamayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with factors and multiples."
+msgstr "Bu etkinlik çarpanlar ve katlarla ilgili çok sayıda alıştırma içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-8"
+msgstr "Oyun Buluşması 48: Asal Sayılar, Bileşik Sayılar ve Kuvvetler"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power."
+msgstr "**Oyun Buluşması Odağı:** Çarpma işlemi açısından bakıldığında, asal sayılar sayıların yapı taşlarıdır. Çocuğunuzun asal çarpanlara ayırma konusunda güçlü bir anlayış geliştirmesine yardımcı olun. Bu oyun buluşmasında öğrenilecek yeni kelimeler: asal, bileşik, birim ve kuvvettir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+msgstr "Bu etkinlik, Karışık Tablolar oyunu ile çarpma ve bölünebilirlik üzerine yoğun alıştırmalar içerir. BOM! oynarken asal çarpanlara ayırmayı pratik yapın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-9"
+msgstr "Oyun Buluşması 49: Sayı Aileleri II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzun çarpma ve bölme arasındaki bağlantıyı güçlendirmek için sayı aileleri ile pratik yapmak etkili bir yoldur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+msgstr "Bu etkinlik, Karışık Tablolar oyunu ile çarpma ve bölünebilirlik üzerine yoğun alıştırmalar içerir. BOM! oynarken katları pratik yapın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-10"
+msgstr "Oyun Buluşması 50: Tek Basamaklı Sayılarla Bölme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a quick first step at practicing division with and without remainders."
+msgstr "**Oyun Buluşması Odağı:** Bu etkinlik kalanlı ve kalansız bölmeyi çalışmanın ilk hızlı adımıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and division."
+msgstr "Bu etkinlik çok sayıda çarpma ve bölme alıştırması içerir."
+
 #. type=global
 msgctxt "global"
 msgid "Next"
@@ -28953,6 +29141,12 @@ msgstr "İleri Düzey"
 msgctxt "template"
 msgid "**Beginning Storybooks**"
 msgstr "**Temel Hikaye Kitapları**"
+
+#. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
 
 #. type=template
 msgctxt "template"
