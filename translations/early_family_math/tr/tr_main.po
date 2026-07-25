@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-07-25 00:22\n"
+"PO-Revision-Date: 2026-07-25 15:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -28848,6 +28848,76 @@ msgstr "Bu etkinlik birçok grup sayma etkinliğini ve karşılaştırmaları i�
 msgctxt "data_list"
 msgid "These involve adding and subtracting, as well as a little bit of probability."
 msgstr "Bu etkinlik toplama ve çıkarmayı, ayrıca biraz da olasılıkları içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-6"
+msgstr "Oyun Buluşması 36: 10'u Ara Durak Olarak Kullanmak"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships."
+msgstr "**Oyun Buluşması Odağı:** Toplama ve çıkarmayı zihinden daha kolay yapmak ve sayı ilişkilerini pekiştirmek için 10'u durak olarak kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and number properties."
+msgstr "Bu etkinlik ritmik saymayı ve sayı özellikleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding, subtracting, and number bonds."
+msgstr "Bu etkinlik toplamayı, çıkarmayı ve sayı gruplarını içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-7"
+msgstr "Oyun Buluşması 37: 2’şer, 5’er ve 10’ar Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value."
+msgstr "**Oyun Buluşması Odağı:** Herhangi bir sayıdan başlayıp, ileri-geri 2’şer, 5’er ve 10’ar sayma alıştırmaları yapın. Bu toplama, çıkarma, çarpma ve bölme işlemlerine çok yardım eder. 10’ar sayma basamak değerlerine de yardım eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 14 and skip counting."
+msgstr "Bu etkinlik 14’e kadar saymayı ve ritmik saymayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve place value and simple additions with two-digit numbers."
+msgstr "Bu etkinlik basamak değerlerini ve basit iki basamaklı sayılarla toplamayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-8"
+msgstr "Oyun Buluşması 38: Çarpmaya Başlangıç"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it."
+msgstr "**Oyun Buluşması Odağı:** Çarpma ve bölme kelimelerini basitleştirerek tanıtmak için ikiye katlama ve yarıya bölme ile başlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and shapes."
+msgstr "Bu etkinlik ritmik saymayı ve şekilleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+msgstr "Bu etkinlik tek basamaklı sayıların iki basamaklı sayılarla ikiye katlanmasını, eklenmesini veya çıkarılmasını ve basamak değerini içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-9"
+msgstr "Oyun Buluşması 39: 1 ile 5 Arasındaki Sayıları Birbiriyle Çarpma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte 1'den 5'e kadar olan iki sayı için zihinsel çarpma işlemi yapın. Bu, çarpma işleminde ustalaşmanın başlangıcıdır!"
 
 #. type=global
 msgctxt "global"
