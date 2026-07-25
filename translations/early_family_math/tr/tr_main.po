@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-07-25 16:41\n"
+"PO-Revision-Date: 2026-07-25 22:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -29493,6 +29493,11 @@ msgstr "Aşama"
 msgctxt "template"
 msgid "Language"
 msgstr "Dil"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Devam Et"
 
 #. type=tour
 msgctxt "tour"
