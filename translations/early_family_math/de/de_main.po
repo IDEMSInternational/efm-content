@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-07-26 23:34\n"
+"PO-Revision-Date: 2026-07-27 00:35\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4671,6 +4671,16 @@ msgstr "Der Kibale Nationalpark ist ein wundervoller Ort. Ich liebe Wälder! Und
 msgctxt "data_list"
 msgid "Do you like to visit forests?"
 msgstr "Besuchst du auch gerne Wälder?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite place to visit away from where you live?"
+msgstr "Welche Orte, die etwas weiter weg sind von deinem Zuhause, besuchst du am liebsten?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is your favorite spot to go to around where you live?"
+msgstr "An welchen Ort, der in der Nähe von deinem Zuhause liegt, gehst du am liebsten?"
 
 #. type=data_list
 msgctxt "data_list"
