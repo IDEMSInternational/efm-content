@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-08-20 14:11\n"
+"PO-Revision-Date: 2026-08-20 15:37\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4681,6 +4681,26 @@ msgstr "Es wird immer später und ein Wind beginnt zu wehen. Hmm ... Was denkst 
 msgctxt "data_list"
 msgid "It's hard to see all of Tortoise's shell. What's your best estimate for how many yellow regions are in his shell? An estimate is an educated guess."
 msgstr "Es ist schwierig, den gesamten Panzer der Schildkröte zu sehen. Wie viele gelbe Bereiche, schätzt du, gibt es auf ihrem Panzer? Eine Schätzung ist eine wohlbegründete Vermutung."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A little later they passed Mouse. He was making a garland of daisies. \"Are you looking for something?\" asked Mouse. \"Yes, Mouse, I'm looking for my house. Have you seen it, by any chance?\""
+msgstr "Ein wenig später kamen sie an einer Maus vorbei. Sie bastelte eine Kette aus Gänseblümchen. „Suchst du nach etwas?“ fragte die Maus. „Ja, Maus, ich suche mein Haus. Hast du es vielleicht gesehen?“"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Estimate and then count the number of daisies. Do the same for the number of dark spots on Tortoise."
+msgstr "Schätze zunächst und dann zähle die Anzahl der Gänseblümchen. Mache dasselbe für die Anzahl der dunklen Flecken auf der Schildkröte."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there more daisies or spots, and how many more are there?"
+msgstr "Gibt es mehr Gänseblümchen oder Flecken, und wie viele mehr sind es?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What happened to all the animals Tortoise was carrying? Where do you think they went?"
+msgstr "Was ist mit all den Tieren passiert, die die Schildkröte trug? Wo denkst du, sind sie hin?"
 
 #. type=data_list
 msgctxt "data_list"
