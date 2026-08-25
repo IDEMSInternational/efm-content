@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-08-25 00:26\n"
+"PO-Revision-Date: 2026-08-25 17:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1273,6 +1273,32 @@ msgstr "Policzcie razem szczeble drabiny."
 msgctxt "data_list"
 msgid "Notice that the bird is yellow again!"
 msgstr "Zauważ, że ptak znowu jest żółty!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This is Cat.\n"
+"\n"
+"This is Dog."
+msgstr ""
+"To jest kot.\n"
+"\n"
+"To jest pies."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the animals together and describe their colors."
+msgstr "Policzcie razem zwierzęta i opiszcie ich kolory."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has shorter ears? Which one has longer ears?"
+msgstr "Które zwierzę ma krótsze uszy? A które ma dłuższe?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which one has short whiskers? Which one has long whiskers?"
+msgstr "Które zwierzę ma krótkie wąsy? A które ma długie?"
 
 #. type=data_list
 msgctxt "data_list"
