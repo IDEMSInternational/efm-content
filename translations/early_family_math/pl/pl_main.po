@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-08-26 00:34\n"
+"PO-Revision-Date: 2026-08-26 17:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2194,6 +2194,41 @@ msgstr "Czy wiesz, czym różni się fioletowy od purpurowego?"
 msgctxt "data_list"
 msgid "Brown is not one of the main colors of the rainbow. Are there other colors you know that are not one of the seven?"
 msgstr "Brązowy nie jest jednym z siedmiu kolorów tęczy. Jakie inne znane Ci kolory nie należą do tej siódemki?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana and her family live in a busy town."
+msgstr "Fana i jej rodzina mieszkają w tętniącym życiem mieście."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana lives in a very colorful town. Is your town colorful too?"
+msgstr "Fana mieszka w bardzo kolorowym mieście. Czy miejsce, w którym mieszkasz, też jest pełne kolorów?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and name all the colors of the clothes and buildings."
+msgstr "Wskaż i nazwij wszystkie kolory ubrań i budynków."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fana has a cat, two hens, a goat and a dove."
+msgstr "Fana ma kota, dwie kury, kozę i gołębia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many animals does Fana have?"
+msgstr "Ile zwierząt ma Fana?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which animal does Fana have the most of?"
+msgstr "Których zwierząt Fana ma najwięcej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most people living in a city do not have so many different animals."
+msgstr "Większość osób mieszkających w mieście nie ma aż tylu różnych zwierząt."
 
 #. type=data_list
 msgctxt "data_list"
