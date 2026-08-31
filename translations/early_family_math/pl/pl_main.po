@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-08-31 02:52\n"
+"PO-Revision-Date: 2026-08-31 03:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2529,6 +2529,246 @@ msgstr "Zauważ, że ptak znowu jest żółty!"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This is Ndalo."
+msgstr "To jest Ndalo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Identify together the kinds of animals you see and count each type."
+msgstr "Wymieńcie razem rodzaje zwierząt, które widzicie, i policzcie, ile jest zwierząt każdego rodzaju."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which type of animal in this picture is there the most of?"
+msgstr "Których zwierząt jest na tym obrazku najwięcej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the buttons on Ndalo's shirt."
+msgstr "Policzcie razem guziki na koszulce Ndalo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo likes to read books."
+msgstr "Ndalo lubi czytać książki."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the books in front of Ndalo on the table."
+msgstr "Policzcie razem książki, które leżą przed Ndalo na stole."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can see on his face how much he likes to read!"
+msgstr "Po jego minie widać, jak bardzo lubi czytać!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like hearing stories from books?"
+msgstr "Czy lubisz słuchać historii z książek?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is Pendo."
+msgstr "To jest Pendo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many little details in this picture. Count the animals that you can find."
+msgstr "Na tym obrazku jest mnóstwo drobnych szczegółów. Ile zwierząt uda Ci się znaleźć?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trees and power poles do you see?"
+msgstr "Ile drzew i słupów widzisz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at and count the people moving around that you can just barely see."
+msgstr "Wskaż i policz ludzi, których ledwo widać w oddali."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo likes to eat carrots."
+msgstr "Pendo lubi jeść marchewki."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you tell by looking at Pendo that Pendo likes carrots?"
+msgstr "Po czym można poznać, że Pendo lubi marchewki?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you like eating carrots? What is your favorite vegetable?"
+msgstr "Czy lubisz jeść marchewki? Jakie warzywo lubisz najbardziej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo is eating two carrots, and Ndalo is holding three more carrots. What is three more than two?"
+msgstr "Pendo je dwie marchewki, a Ndalo trzyma jeszcze trzy. Ile marchewek jest razem?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo grazes Pendo after school."
+msgstr "Ndalo opiekuje się Pendo po szkole."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count all the different animals in the yard, or just count your favorites."
+msgstr "Policzcie wszystkie zwierzęta na podwórku albo tylko te, które najbardziej Ci się podobają."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which type of animal is there the most of and which has the least?"
+msgstr "Których zwierząt jest najwięcej, a których najmniej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What food are Pendo and the goats eating? Do you suppose you would like eating grass?"
+msgstr "Co jedzą Pendo i kozy? Jak myślisz, czy smakowałaby Ci trawa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He gives fresh water to Pendo."
+msgstr "Ndalo daje Pendo świeżą wodę."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo is very good about taking care of Pendo. Do you have any animals that you care for?"
+msgstr "Ndalo bardzo dobrze opiekuje się Pendo. Czy Ty opiekujesz się jakimiś zwierzętami?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point at the many colors -- Pendo is brown, Ndalo's shirt is blue, the pail is yellow, the grass is green, and the underside of the water basin is pink."
+msgstr "Wskaż różne kolory na obrazku. Pendo jest brązowa, koszulka Ndalo jest niebieska, wiadro jest żółte, trawa jest zielona, a spód zbiornika na wodę jest różowy."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo looks very big next to Ndalo. How many times bigger than Ndalo do you think Pendo is?"
+msgstr "Pendo wygląda na bardzo dużą w porównaniu z Ndalo. Jak myślisz, ile razy może być od niego większa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father gives grain to Pendo."
+msgstr "Tata daje Pendo ziarno."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is watching Pendo eat the grain.. Do you think the cat wants some of the grain?"
+msgstr "Kot patrzy, jak Pendo je ziarno. Jak myślisz, czy też chciałby trochę ziarna?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think the cat is waiting for?"
+msgstr "Jak myślisz, na co czeka kot?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo provides the family with a lot of milk. What does the cat provide the family?"
+msgstr "Pendo daje rodzinie dużo mleka. A co kot daje rodzinie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He milks Pendo every day."
+msgstr "Pendo jest codziennie dojona."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The cat is still waiting. Perhaps the cat is hoping for some splashed milk?"
+msgstr "Kot wciąż czeka. Może liczy na trochę rozlanego mleka?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why are Pendo's back two legs tied to a post? Do you think she likes being milked?"
+msgstr "Dlaczego tylne nogi Pendo są przywiązane do słupka? Jak myślisz, czy Pendo lubi, kiedy się ją doi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A rectangle is a four-sided shape like this page. Point at a few of the many rectangles in this picture."
+msgstr "Prostokąt to figura, która ma cztery boki - tak jak ta strona. Wskaż kilka prostokątów na tym obrazku."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pendo gives a lot of milk."
+msgstr "Pendo daje dużo mleka."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the number of milk containers."
+msgstr "Policzcie razem pojemniki na mleko."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The window behind them is split into parts called panes. How many panes are there?"
+msgstr "Okno za nimi jest podzielone na części zwane szybami. Ile jest szyb?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Liquid containers are often round, but sometimes milk comes in milk cartons in the shape of boxes."
+msgstr "Pojemniki na płyny często mają okrągły kształt, ale mleko czasami sprzedaje się też w kartonach w kształcie pudełek."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Father sells Pendo's milk."
+msgstr "Tata sprzedaje mleko Pendo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "His father's shirt has some interesting patterns. Point at and describe the stripes and black diamonds."
+msgstr "Koszulka taty ma ciekawy wzór. Wskaż i opisz paski oraz czarne romby."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe this woman's colorful dress."
+msgstr "Opisz kolorową sukienkę tej pani."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the picture on the paper on the wall? The sign says \"Milk here.\""
+msgstr "Co przedstawia obrazek na kartce wiszącej na ścianie? Na kartce jest napis: „Tu sprzedajemy mleko”."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo drinks fresh milk every day."
+msgstr "Ndalo codziennie pije świeże mleko."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can you tell Ndalo has been drinking milk?"
+msgstr "Po czym możesz poznać, że Ndalo pił mleko?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you drink something, do you end up with the liquid around your mouth?"
+msgstr "Czy kiedy pijesz, czasem zostaje Ci coś wokół ust?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are many rectangles here. Count the doors and windows that you can see. Are there more or less doors than windows?"
+msgstr "Na tym obrazku jest wiele prostokątów. Policz widoczne drzwi i okna. Czego jest więcej - drzwi czy okien?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He says, \"Thank you Pendo!\""
+msgstr "Mówi: „Dziękuję Ci, Pendo!”"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Ndalo's family feeds and takes care of Pendo, and Pendo gives them milk. Does that seem like a fair trade?"
+msgstr "Rodzina Ndalo karmi Pendo i opiekuje się nią, a Pendo daje im mleko. Czy wydaje Ci się, że to uczciwa wymiana?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk about some of the places your food comes from."
+msgstr "Porozmawiajcie o tym, skąd pochodzi jedzenie, które jecie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are you thankful for where your food comes from?"
+msgstr "Czy czujesz wdzięczność za to, skąd pochodzi Twoje jedzenie?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Mod the toad was tired of living in water."
 msgstr "Mod, ropucha, miała już dość życia w wodzie."
 
@@ -2766,6 +3006,372 @@ msgstr "Czy zdarzyło Ci się kiedyś zobaczyć żabę albo ropuchę? Czy potraf
 msgctxt "data_list"
 msgid "Have you ever gone to a pond, river, or lake to explore water life?"
 msgstr "Czy zdarzyło Ci się wybrać nad staw, rzekę lub jezioro, żeby poobserwować, co żyje w wodzie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mother Sun decided to visit her sister, the moon. Sister Moon lives on the other side of the sky. \"I will be back soon,\" said Sun to the clouds."
+msgstr "Mama Słońce postanowiła odwiedzić swoją siostrę, Księżyc. Siostra Księżyc mieszka po drugiej stronie nieba. „Wkrótce wrócę” - powiedziała Mama Słońce do chmur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will change for the clouds and the mountains when the Sun goes away?"
+msgstr "Co się zmieni dla chmur i gór, kiedy Słońce odejdzie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever imagined faces on the clouds and mountains?"
+msgstr "Czy zdarzyło Ci się kiedyś wyobrażać sobie twarze na chmurach albo górach?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five things in the sky. When the sun goes away, how many will be left? What is one less than five?"
+msgstr "Na niebie jest pięć obiektów. Kiedy Słońce odejdzie, ile ich zostanie? Ile to jest o jeden mniej niż pięć?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When Sun left, the mountains put on their white scarves."
+msgstr "Kiedy Słońce odeszło, góry pokryły się śniegiem."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why did the mountains put on white scarves when the Sun went away?"
+msgstr "Dlaczego góry pokryły się śniegiem, kiedy Słońce odeszło?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many clouds are there? Are there more mountains or clouds on this page?"
+msgstr "Ile jest chmur? Czego jest więcej na tym obrazku - gór czy chmur?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are the clouds doing and what do you think they are feeling?"
+msgstr "Co robią chmury? Jak myślisz, co czują?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Wind had an argument with the trees. The trees became angry. They threw their leaves all over the place."
+msgstr "Wiatr pokłócił się z drzewami. Drzewa się zezłościły i rozrzuciły swoje liście po całej okolicy."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guess how many leaves there are blowing around. Do you know numbers that are that big?"
+msgstr "Zgadnij, ile liści wiruje w powietrzu. Czy potrafisz policzyć je wszystkie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Notice how hard the wind is blowing. The leaves are blowing everywhere!"
+msgstr "Wiatr wieje bardzo mocno, a liście fruwają we wszystkie strony!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind is blowing so hard that the trees are bending over. Have you ever been outside when the wind blew so hard that you had trouble walking?"
+msgstr "Wiatr wieje tak mocno, że drzewa aż się wyginają. Czy zdarzyło Ci się kiedyś, że wiatr wiał tak mocno, że trudno było Ci iść?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The sky started to grumble.\n"
+"\n"
+"She turned grey."
+msgstr ""
+"Niebo pokryło się chmurami.\n"
+"\n"
+"Stało się szare."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The clouds are worried and anxious. What do you think is about to happen?"
+msgstr "Chmury wyglądają na zmartwione i niespokojne. Jak myślisz, co się za chwilę wydarzy?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count the faces on the clouds. They are in three groups: groups of two, four, and one. How many is that all together?"
+msgstr "Policz twarze na chmurach. Są w trzech grupach: dwie, cztery i jedna. Ile jest ich razem?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Counting the trees, the mountains, and the groups of clouds, there are all the numbers from one to five -- can you find them all?"
+msgstr "Jeśli policzymy drzewa, góry i chmury, znajdziemy liczby od jednego do pięciu. Potrafisz je wskazać?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The clouds were sad to see all this. They started crying. There were many tears."
+msgstr "Chmurom było smutno, gdy na to patrzyły. Zaczęły płakać. Łez było bardzo dużo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The clouds may have made rain because they were sad, but some people enjoy watching and listening to the rain. How does the rain make you feel?"
+msgstr "Chmury mogły sprowadzić deszcz, bo były smutne, ale niektórzy ludzie lubią patrzeć na deszcz i słuchać, jak pada. Jak deszcz wpływa na Twój nastrój?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are a great many raindrops. Can you count them all, or is it too many?"
+msgstr "Kropel deszczu jest tak dużo, że trudno je wszystkie policzyć. Czy da się je policzyć?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of something else that there are too many to count."
+msgstr "Pomyśl o czymś, czego jest tak dużo, że nie da się tego policzyć."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The whole world began to sink under water."
+msgstr "Cały świat zaczął tonąć w wodzie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Trees need water, but do you think they like having this much water? The faces on the trees look a little anxious or sad."
+msgstr "Drzewa potrzebują wody, ale czy myślisz, że lubią, kiedy jest jej aż tak dużo? Twarze na drzewach wyglądają na trochę zmartwione albo smutne."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trees do you count in this picture?"
+msgstr "Ile drzew widzisz na tym obrazku?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Is the world sinking under the water, or is the water filling up on top of it?"
+msgstr "Jak myślisz, co się dzieje? Czy woda zalewa świat, czy świat tonie w wodzie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Meanwhile, on the other side of the sky, Sun was ready to leave her sister. She kissed the moon goodbye and went home."
+msgstr "Tymczasem po drugiej stronie nieba Mama Słońce była już gotowa, by pożegnać się z siostrą. Pocałowała Księżyc na pożegnanie i wróciła do domu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think it is possible for the Sun to kiss the Moon?"
+msgstr "Czy myślisz, że Słońce naprawdę może pocałować Księżyc?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you ever seen stars near the moon or the sun?"
+msgstr "Czy zdarzyło Ci się kiedyś zobaczyć gwiazdy w pobliżu Księżyca lub Słońca?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A sphere is a shape like a ball -- it is round in all directions. The moon and the sun are shaped like spheres, though the moon doesn't always look like it."
+msgstr "Kula ma kształt podobny do piłki - jest zaokrąglona ze wszystkich stron. Księżyc i Słońce są okrągłe jak kule, chociaż Księżyc nie zawsze tak wygląda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sky was so happy to see Sun that she turned bright blue. The mountains put on their pretty green dresses."
+msgstr "Niebo tak ucieszyło się z powrotu Mamy Słońce, że rozjaśniło się i stało się błękitne. Góry znów zrobiły się pięknie zielone."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What is the green dress on the mountains made of?"
+msgstr "Co sprawia, że góry są teraz zielone?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many clouds are there now? What happened to the other clouds?"
+msgstr "Ile jest teraz chmur? Co się stało z pozostałymi chmurami?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Compare the number of things in the sky to the number of mountains with faces. One of them is one more than the other, and one of them is one less than the other -- which is which?"
+msgstr "Porównaj liczbę obiektów na niebie z liczbą gór z twarzami. W jednej grupie jest o jeden obiekt więcej, a w drugiej o jeden mniej. W której jest więcej, a w której mniej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The wind went to sleep. The trees stretched their branches and smiled."
+msgstr "Wiatr poszedł spać. Drzewa wyprostowały gałęzie i się uśmiechnęły."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The mountains and trees like the warm weather. Do you like warmer or cooler weather?"
+msgstr "Góry i drzewa cieszą się z ciepłej pogody. Wolisz, kiedy jest cieplej czy chłodniej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A cylinder is a shape like a tube or a straw. A broom handle is often a cylinder. The trunks of these trees between the ground and their first branches are cylinders."
+msgstr "Walec to kształt podobny do rurki albo słomki. Trzonek miotły często ma kształt walca. Pnie tych drzew, od ziemi do pierwszych gałęzi, również mają kształt walca."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What other things around you are in the shape of a cylinder?"
+msgstr "Jakie inne rzeczy wokół Ciebie mają kształt walca?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The clouds were very happy to see Mother Sun again. They went away to play."
+msgstr "Chmury bardzo się ucieszyły, że znów zobaczyły Mamę Słońce. Odeszły, żeby się bawić."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are five clouds in the sky. If you add one more for the sun, how many things are in the sky?"
+msgstr "Na niebie jest pięć chmur. Jeśli dodamy do nich Słońce, ile obiektów będzie na niebie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two pages ago there were two clouds. How many more clouds are there now?"
+msgstr "Dwie strony wcześniej były tylko dwie chmury. O ile więcej chmur jest teraz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If the clouds were happy to see the Sun, why did they go away?"
+msgstr "Jeśli chmury cieszyły się z powrotu Słońca, to dlaczego odeszły?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lots of little plants popped out of the earth to say, \"Hello.\" The whole world sparkled."
+msgstr "Z ziemi zaczęły wyrastać małe roślinki i wołać: „Cześć!”. Cały świat znów ożył i rozbłysnął w słońcu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are butterflies, flowers, stems, and lots of little plants. Count some of these things together."
+msgstr "Są tu motyle, kwiaty, łodygi i mnóstwo małych roślin. Policzcie razem kilka z nich."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which group of things are there the most of and which group has the least?"
+msgstr "Czego jest najwięcej, a czego najmniej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are some things that plants need to make them happy and grow?"
+msgstr "Czego potrzebują rośliny, żeby rosnąć zdrowo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mother Sun shined her light everywhere. \"I told you I would be back,\" she beamed."
+msgstr "Mama Słońce rozjaśniła swoim światłem cały świat. „Mówiłam, że wrócę!” - powiedziała z uśmiechem."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The rays of the Sun extend very far on this page. Are there days when the rays of the Sun seem to reach all the way to you?"
+msgstr "Promienie Słońca sięgają na tym obrazku bardzo daleko. Czy czasem wydaje Ci się, że sięgają aż do ziemi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which are there the least of on this page: trees, mountains, or things in the sky?"
+msgstr "Czego jest na tej stronie najmniej: drzew, gór czy obiektów na niebie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which are there the most of? Sometimes there are two things with the same amount with the most -- that's okay, just say both of them."
+msgstr "Czego jest najwięcej? Jeśli dwie grupy mają tyle samo elementów, wskaż obie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Odongo and Apiyo waited for the school holidays to come."
+msgstr "Odongo i Apiyo czekali na wakacje."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They look excited. Do you suppose they have big plans for their holidays?"
+msgstr "Wyglądają na podekscytowanych. Jak myślisz, czy mają plany na wakacje?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are there holidays that you get excited about?"
+msgstr "Czy jest coś, na co szczególnie czekasz podczas wakacji?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell a story about something you did during a recent holiday."
+msgstr "Opowiedz o czymś, co najbardziej podobało Ci się podczas ostatnich wakacji."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It was time for them to visit their grandmother."
+msgstr "Nadszedł czas, żeby odwiedzić babcię."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you ever get so excited about something that you had trouble sleeping?"
+msgstr "Czy zdarzyło Ci się kiedyś tak bardzo na coś cieszyć, że trudno było Ci zasnąć?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rectangles are shapes with four straight sides and corners like those on this page. Point to all the rectangles you can find on this page."
+msgstr "Prostokąty to kształty, które mają cztery proste boki i cztery rogi, takie jak te na tej stronie. Wskaż wszystkie prostokąty, które możesz znaleźć na tej stronie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to some of the rectangles around where you are."
+msgstr "Wskaż kilka prostokątów w swoim otoczeniu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They drove past mountains, wild animals, and farms."
+msgstr "Po drodze mijali góry, dzikie zwierzęta i gospodarstwa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together all the wild animals you see on this page."
+msgstr "Policzcie razem wszystkie dzikie zwierzęta, które widzicie na tej stronie."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When you add two children to the five other animals, how many animals are there all together? What is two more than five?"
+msgstr "Policz zwierzęta. Jest ich pięć. A ile to jest o dwa więcej niż pięć?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Point to and describe the pairs of animals here."
+msgstr "Wskaż pary zwierząt i opisz je."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After a while, Odongo and Apiyo fell asleep."
+msgstr "Po pewnym czasie Odongo i Apiyo zasnęli."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Some people have trouble sleeping sitting up. Can you fall asleep while you're sitting?"
+msgstr "Niektórym osobom trudno jest zasnąć na siedząco. Czy potrafisz zasnąć, siedząc?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The girl is sleeping with her mouth open -- do you think she is snoring?"
+msgstr "Dziewczynka śpi z otwartymi ustami. Jak myślisz, czy chrapie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Describe the colors of some of the strips in this picture. There are yellows, blues, and greens on the bag, and yellows, oranges, and reds on their seat."
+msgstr "Opisz kolory niektórych pasków na tym obrazku. Na torbie są żółte, niebieskie i zielone paski, a na siedzeniu - żółte, pomarańczowe i czerwone."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They found their grandmother resting under a tree."
+msgstr "Znaleźli babcię odpoczywającą pod drzewem."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you have friends or relatives you like to go on trips to visit?"
+msgstr "Czy masz przyjaciół lub krewnych, których lubisz odwiedzać podczas wyjazdów?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Remember a happy visit you had. What do you like to do when you visit someone?"
+msgstr "Przypomnij sobie miłą wizytę u kogoś. Co lubisz robić, kiedy kogoś odwiedzasz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What will these two do with their grandmother? Will they hear stories, cook meals, and go on walks together?"
+msgstr "Jak myślisz, co ta dwójka będzie robić z babcią? Czy będą słuchać opowieści, gotować i chodzić razem na spacery?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Grandmother danced and sang. The children gave her presents."
+msgstr "Babcia tańczyła i śpiewała. Dzieci wręczyły jej prezenty."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you like to get as a present?"
+msgstr "Co lubisz dostawać w prezencie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What feels so good about getting a present from someone?"
+msgstr "Co jest tak miłego w otrzymywaniu prezentu od kogoś?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The background on the last page had blues and greens. This one has yellows and oranges. What feels different to you when you see the colors on these two pages?"
+msgstr "Na poprzedniej stronie tło było niebiesko-zielone. Tutaj jest żółte i pomarańczowe. Jak się czujesz, kiedy patrzysz na kolory na tych dwóch stronach? Czy czujesz jakąś różnicę?"
 
 #. type=data_list
 msgctxt "data_list"
