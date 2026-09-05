@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-09-05 05:43\n"
+"PO-Revision-Date: 2026-09-05 20:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10304,6 +10304,32 @@ msgstr "Jakie drzewa w Twojej okolicy są ważne i do czego się je wykorzystuje
 msgctxt "data_list"
 msgid "Whether useful or not, what are some of your favorite trees near you?"
 msgstr "Czy są jakieś drzewa w Twojej okolicy, które szczególnie Ci się podobają, nawet jeśli nie mają żadnego szczególnego zastosowania?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Today I an not going to school.\n"
+"\n"
+"It is a holiday."
+msgstr ""
+"Dzisiaj nie idę do szkoły.\n"
+"\n"
+"Jest święto."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What do you think she will do with her day off from school?"
+msgstr "Jak myślisz, co dziewczynka będzie robić w dzień wolny od szkoły?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why does she like not going to school?"
+msgstr "Dlaczego cieszy się, że nie musi iść do szkoły?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you think she will miss seeing her school friends and teachers?"
+msgstr "Jak myślisz, czy będzie tęsknić za kolegami, koleżankami i nauczycielami ze szkoły?"
 
 #. type=data_list
 msgctxt "data_list"
