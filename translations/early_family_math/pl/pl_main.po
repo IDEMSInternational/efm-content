@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-09-03 20:40\n"
+"PO-Revision-Date: 2026-09-05 04:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1613,6 +1613,166 @@ msgstr "W rodzinie Izanzawu jest sześć osób. Jeśli „stworzenie” dołącz
 msgctxt "data_list"
 msgid "If you arrange these seven people in order of height, putting the shortest on the left and tallest on the right, what would the order be? Describe this order using the color of their clothes."
 msgstr "Ustaw te siedem osób od najniższej do najwyższej. Kto powinien stać po lewej, a kto po prawej? Opisz kolejność, używając kolorów ich ubrań."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs do two ladybugs have?"
+msgstr "Ile nóg mają dwie biedronki?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting is counting by steps bigger than 1. You can skip count these legs by 6's by counting 6, 12. You can also skip count by 3's using the sides of their bodies 3, 6, 9, 12."
+msgstr "Liczenie co kilka oznacza liczenie po więcej niż 1. Te nogi można policzyć po 6: 6, 12. Można też liczyć po 3, wykorzystując trzy części ciała każdej biedronki: 3, 6, 9, 12."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can skip count to 12 in steps of 3 and 6. Can you think of other ways to skip count to 12? Which ways work (1, 2, 3, 4, 6, 12) and which ways don't (5, 7, 8, 9, 10, 11)?"
+msgstr "Możesz policzyć do 12, licząc po 3 lub po 6. Czy potrafisz znaleźć inne sposoby liczenia po kilka do 12? Które z nich działają (1, 2, 3, 4, 6, 12), a które nie (5, 7, 8, 9, 10, 11)?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Count together the dots on each ladybug's back. Have you seen ladybugs around where you live -- did they have more or fewer dots than these?"
+msgstr "Policzcie razem kropki na grzbiecie każdej biedronki. Czy zdarzyło Ci się kiedyś zobaczyć biedronkę? Miała więcej czy mniej kropek niż te na obrazku?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many wings do four birds have?"
+msgstr "Ile skrzydeł mają cztery ptaki?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting by 2's -- one 2 for each bird."
+msgstr "Policz skrzydła, licząc po 2: 2, 4, 6, 8 - po 2 na każdego ptaka."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip count the wings by counting the four left wings and then the four right wings. It's fun that you get the same answer whether you skip by 2's or 4's!"
+msgstr "Możesz też najpierw policzyć cztery lewe skrzydła, a potem cztery prawe. Ciekawe, że niezależnie od tego, czy liczysz po 2, czy po 4, otrzymujesz ten sam wynik!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If the bird in the sky flies away, how many of the four birds will remain?"
+msgstr "Jeśli ptak na niebie odleci, ile z czterech ptaków zostanie?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many horns do three rhinos have?"
+msgstr "Ile rogów mają trzy nosorożce?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has two horns, a big one and a small one. Skip count their horns by 2's and 3's."
+msgstr "Każdy nosorożec ma dwa rogi - jeden duży i jeden mały. Policz rogi, licząc po 2 albo po 3."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How would you skip count to find out how many feet they have?"
+msgstr "Jak można liczyć, żeby dowiedzieć się, ile mają razem nóg?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each rhino has twice as many feet as horns. Take the total number of horns and double that to get the total number of feet."
+msgstr "Każdy nosorożec ma dwa razy więcej nóg niż rogów. Pomnóż liczbę wszystkich rogów przez 2, a otrzymasz liczbę wszystkich nóg."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many trunks do five elephants have?"
+msgstr "Ile trąb ma pięć słoni?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count trunks, tails, tusks, and ears. Counting tails and trunks is simple -- what number do you get?"
+msgstr "Policzmy trąby, ogony, kły i uszy. Ogony i kły łatwo policzyć. Ile ich jest?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each elephant has two tusks and two ears. Which do you like better -- skip counting these by 2's or by 5's?"
+msgstr "Każdy słoń ma dwa kły i dwoje uszu. Wolisz liczyć je po 2 czy po 5?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four big elephants and one baby elephant. How much is four plus one more?"
+msgstr "Są tu cztery duże słonie i jeden mały. Ile to jest cztery plus jeden?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many ears do seven dogs have?"
+msgstr "Ile uszu mają cztery psy?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did you count the ears by 1's, 2's, or 7's?"
+msgstr "Czy liczyliście uszy po 1, po 2 czy po 4?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are 14 ears. We can skip count to 14 by 1's, 2's, and 7's. Are there any other step sizes that work for counting to 14?"
+msgstr "Jest 14 uszu. Możemy liczyć do 14 po 1, 2 lub 7. Czy są jeszcze inne sposoby liczenia do 14?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There are four dogs in the top group and three in the bottom. What do you get when put four dogs together with three more?"
+msgstr "W górnej grupie są cztery psy, a w dolnej trzy. Ile psów jest razem?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many tails do three monkeys have?"
+msgstr "Ile ogonów mają trzy małpy?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's count the tails, eyes, and feet. How many tails do you count?"
+msgstr "Policzcie ogony, oczy i nogi. Ile jest ogonów?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Would you count the eyes two at a time, two for each monkey, or would you count them three at a time, which is doubling the number of monkeys?"
+msgstr "Wolisz liczyć oczy po 2 czy po 3? Który sposób jest dla Ciebie łatwiejszy?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You have many choices for skip counting their feet. What are your choices and which one would you choose to use?"
+msgstr "Możesz wybrać kilka sposobów liczenia nóg małp. Jak można je policzyć i który sposób wybierzesz?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many eyes do six cats have?"
+msgstr "Ile oczu ma sześć kotów?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Wow, these cats are a bit creepy! Did you skip count the eyes by 2's or 6's?"
+msgstr "Te koty wyglądają trochę strasznie! Czy liczyliście oczy po 2 czy po 6?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many whiskers does each cat have? Can you count high enough to skip count all the whiskers?"
+msgstr "Ile wąsów ma każdy kot? Czy potrafisz policzyć po kilka, aż doliczysz się wszystkich wąsów?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you skip count high enough to count all the feet?"
+msgstr "Czy potrafisz policzyć po kilka, aż doliczysz się wszystkich nóg?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many legs does one worm have?"
+msgstr "Ile nóg ma jeden robak?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you count all those legs, or is it too tricky to see or too high to count?"
+msgstr "Czy potrafisz policzyć wszystkie te nogi, czy jest ich tak dużo, że trudno je policzyć?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think of some other things that are just too many to count."
+msgstr "Pomyśl o innych rzeczach, których jest tak dużo, że nie da się ich policzyć."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer."
+msgstr "Liczenie po kilka może być świetną zabawą, bo pozwala szybciej dojść do wyniku niż liczenie po 1. Ciekawe jest też odkrywanie różnych sposobów liczenia, które prowadzą do tego samego wyniku."
 
 #. type=data_list
 msgctxt "data_list"
