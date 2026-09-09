@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-09-09 18:22\n"
+"PO-Revision-Date: 2026-09-09 18:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10315,6 +10315,21 @@ msgstr "W poszukiwaniu wiosny"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This story has shapes and descriptions. Practice words: circle, oval, arc, cone, rectangle, triangle, long, longest, far, far away, distance, big, bigger, pattern, color, bright, dull, muted, drab, giant, dark, too dark, and problem solving."
+msgstr "W tej historii poznasz różne kształty i słowa opisujące ich cechy. Poćwiczysz takie słowa jak: koło, owal, łuk, stożek, prostokąt, trójkąt, duży, długi, najdłuższy, daleko, bardzo daleko, odległość, większy, wzór, kolor, jasny, matowy, przygaszony, ponury, olbrzymi, ciemny, zbyt ciemny, a także określenia związane z rozwiązywaniem problemów."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Share it Fair!"
+msgstr "Dzielmy się sprawiedliwie!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
+msgstr "W tej historii pojawiają się różne kształty oraz zadania związane ze sprawiedliwym dzieleniem. Poćwiczysz słowa: prostokąt, kwadrat, okrąg, koło, łuk, owal, elipsa, pasek, równy, dzielić po równo, punkt widzenia, perspektywa, połowa, jedna trzecia, jedna czwarta, ćwierć, rozwiązywanie problemów, prostsze wersje problemu, wytrwałość, odejmowanie 1, 2 i 3, szacowanie oraz wielokrotności liczby 3."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Singing the Truth: The Story of Miriam Makeba"
 msgstr "Wyśpiewując prawdę: historia Miriam Makeby"
 
@@ -10322,6 +10337,26 @@ msgstr "Wyśpiewując prawdę: historia Miriam Makeby"
 msgctxt "data_list"
 msgid "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
 msgstr "Ta historia jest pełna różnych kształtów. Nauczysz się słów takich jak: kształt, prostokąt, prosty, koło, łuk, owal, sklepienie, stożek, elipsa, różny, taki sam, płaski, zarys i pasek."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sizwe's Smile"
+msgstr "Uśmiech Sizwe"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has shapes and progressions. Practice words: muted, bright, rectangle, circle, arc, oval, ellipse, big, biggest, curve, vertical lines, parallel lines, stripe, twice, doubling, exponential growth, estimate, and counting by 2's and 4's."
+msgstr "W tej historii pojawiają się różne kształty i ciągi liczb. Poćwiczysz słowa i pojęcia takie jak: stonowany, jaskrawy, prostokąt, okrąg, łuk, owal, elipsa, duży, największy, krzywa, linie pionowe, linie równoległe, pas, dwa razy więcej, podwajanie, wzrost wykładniczy, szacowanie oraz liczenie co 2 i co 4."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The Smell Thief"
+msgstr "Złodziejka zapachów"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle."
+msgstr "W tej historii pojawia się liczenie z przeskokiem oraz figury geometryczne. Ćwiczone słownictwo: liczenie co 1, co 2, co 3, co 4 i co 6; mnożenie, dzielenie, szacowanie, prostokąt i trójkąt."
 
 #. type=data_list
 msgctxt "data_list"
@@ -15563,4 +15598,66 @@ msgstr "Jak myślisz, czy słoniątko powinno jeszcze kiedyś zaprzyjaźnić si�
 msgctxt "data_list"
 msgid "Make up a story like this that explains how the giraffe got such a long neck."
 msgstr "Wymyśl własną historię, która wyjaśni, skąd żyrafa ma tak długą szyję."
+
+#. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
+
+#. type=template
+msgctxt "template"
+msgid "3 Levels of Discussion"
+msgstr "3 poziomy rozmowy"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Pick an appropriate level for your child. Allow time for thought when asking questions or making comments. Help with the answer when your child stumbles, and follow up correct answers with questions or comments that are small expansions on the child's answer. \n"
+"\n"
+"**Level 1** Ask simple direct questions. Ask and point at what you see on the page. Where is the toy? What are they doing? What is its name? What color is it? How many balls are there? \n"
+"**Level 2** Ask general or open questions about this point in the story. What do you see happening here? What is this group of things? \n"
+"**Level 3** Ask about the story line. What has happened? What will happen next? Have you had experiences or seen things similar to this? How does she feel when this happens?"
+msgstr ""
+"Wybierz poziom odpowiedni dla swojego dziecka. Kiedy zadajesz pytania lub coś komentujesz, daj dziecku czas na zastanowienie się i odpowiedź. Jeśli dziecko ma trudności z odpowiedzią, pomóż mu. Kiedy odpowie, zadawaj kolejne pytania lub dodawaj komentarze, które nawiązują do jego odpowiedzi i pomagają mu rozwinąć myśl.\n"
+"\n"
+"**Poziom 1** Zadawaj proste i konkretne pytania. Pytaj o to, co widzicie na stronie, i wskazuj poszczególne elementy. Na przykład: „Gdzie jest zabawka?”, „Co oni robią?”, „Jak nazywa się ta rzecz?”, „Jakiego jest koloru?”, „Ile jest piłek?”\n"
+"\n"
+"**Poziom 2** Zadawaj bardziej ogólne lub otwarte pytania dotyczące tego, co dzieje się w danym momencie historii. Na przykład: „Co widzisz na tej stronie?”, „Co to za grupa przedmiotów?”\n"
+"\n"
+"**Poziom 3** Pytaj o przebieg historii i zachęcaj dziecko do przewidywania, co wydarzy się dalej. Na przykład: „Co się wydarzyło?”, „Co wydarzy się dalej?”, „Czy zdarzyło Ci się coś podobnego?”, „Czy masz podobne doświadczenia?”, „Jak myślisz, co czuje ta osoba?”."
+
+#. type=template
+msgctxt "template"
+msgid "Read, Talk, and Have Fun!"
+msgstr "Czytaj, rozmawiaj i baw się!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"The supplied questions and comments are just the beginning. \n"
+"\n"
+"1. For the first reading, read the red questions and comments. \n"
+"2. For the second reading, read the blue questions and comments. \n"
+"3. For the third reading, read the green questions and comments. \n"
+"\n"
+"After that, follow your child's interests and let your discussions go in fun directions."
+msgstr ""
+"Podane pytania i komentarze to dopiero początek.\n"
+"\n"
+"1. Dla pierwszego poziomu podczas czytania korzystaj z czerwonych pytań i komentarzy.\n"
+"2. Dla drugiego poziomu podczas czytania korzystaj z niebieskich pytań i komentarzy.\n"
+"3. Dla trzeciego poziomu podczas czytania korzystaj z zielonych pytań i komentarzy.\n"
+"\n"
+"Następnie podążaj za zainteresowaniami dziecka. Pozwól, żeby rozmowa rozwijała się w ciekawy i kreatywny sposób."
+
+#. type=template
+msgctxt "template"
+msgid "Math Themes and Words"
+msgstr "Matematyka i nowe słowa"
+
+#. type=template
+msgctxt "template"
+msgid "**Adult Readers**"
+msgstr "**Dla dorosłych czytelników**"
 
