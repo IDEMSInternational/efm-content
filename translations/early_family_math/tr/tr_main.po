@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Turkish\n"
 "\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-09-08 15:18\n"
+"PO-Revision-Date: 2026-07-25 22:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17412,27 +17412,27 @@ msgstr "Bazı kişiler doktor olurlar çünkü bunun gibi mutlu sonlara sahip ol
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 1 — I Can Hear You!"
-msgstr "1. Aşama — Seni Anlayabiliyorum!"
+msgstr "Aşama 1: Seni Anlayabiliyorum!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 2 — I Can Count to 5!"
-msgstr "2. Aşama — 5’e Kadar Sayabiliyorum!"
+msgstr "Aşama 2: 5’e Kadar Sayabiliyorum!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 3 — I Can Count to 10!"
-msgstr "3. Aşama — 10’e Kadar Sayabiliyorum!"
+msgstr "Aşama 3: 10’e Kadar Sayabiliyorum!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 4 — I Can Count to 20!"
-msgstr "4. Aşama — 20’e Kadar Sayabiliyorum!"
+msgstr "Aşama 4: 20’e Kadar Sayabiliyorum!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 5 — I Can Count to 100!"
-msgstr "5. Aşama — 100’e Kadar Sayabiliyorum!"
+msgstr "Aşama 5: 100’e Kadar Sayabiliyorum!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -17861,12 +17861,12 @@ msgstr "Bale bir spor değildir. Ancak dansçılar birer atlettirler; bir takım
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 1 – I CAN HEAR YOU!"
-msgstr "1. AŞAMA — SENI ANLAYABILIYORUM!"
+msgstr "AŞAMA 1: SENI ANLAYABILIYORUM!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 1 Introduction"
-msgstr "1. Aşama — Giriş"
+msgstr "Aşama 1: Giriş"
 
 #. type=data_list
 msgctxt "data_list"
@@ -18856,12 +18856,12 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 2 – I CAN COUNT TO 5!"
-msgstr "2. Aşama — 5’e Kadar Sayabiliyorum!"
+msgstr "AŞAMA 2: 5’E KADAR SAYABİLİYORUM!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 2 Introduction"
-msgstr "2. Aşama — Giriş"
+msgstr "Aşama 2: Giriş"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20197,12 +20197,12 @@ msgstr "Eğer, 4 x 4’lük kare yeni başlayanlar için çok zorsa, o zaman dah
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 3 – I CAN COUNT TO 10!"
-msgstr "3. Aşama — 10’e Kadar Sayabiliyorum!"
+msgstr "AŞAMA 3: 10’E KADAR SAYABİLİYORUM!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 3 Introduction"
-msgstr "3. Aşama — Giriş"
+msgstr "Aşama 3: Giriş"
 
 #. type=data_list
 msgctxt "data_list"
@@ -21255,12 +21255,12 @@ msgstr "Bu oyun geleneksel olarak küçük karelerle oynansa da, noktalar kullan
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 4 – I CAN COUNT TO 20!"
-msgstr "4. Aşama — 20’e Kadar Sayabiliyorum!"
+msgstr "AŞAMA 4: 20’E KADAR SAYABİLİYORUM!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 4 Introduction"
-msgstr "4. Aşama — Giriş"
+msgstr "Aşama 4: Giriş"
 
 #. type=data_list
 msgctxt "data_list"
@@ -22576,12 +22576,12 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "STAGE 5 – I CAN COUNT TO 100!"
-msgstr "5. Aşama — 100’e Kadar Sayabiliyorum!"
+msgstr "AŞAMA 5: 100’E KADAR SAYABİLİYORUM!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Stage 5 Introduction"
-msgstr "5. Aşama — Giriş"
+msgstr "Aşama 5: Giriş"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25336,6 +25336,48 @@ msgstr "Bu hikâye, vücudunuzdan duyabileceğiniz pek çok farklı sesten bahse
 
 #. type=data_list
 msgctxt "data_list"
+msgid "1.0 Stage 1 Introduction"
+msgstr "Aşama 1: Seni Anlayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This Stage starts as early as 4 to 6 months. Exposing your child to all kinds of experiences is so important. Start talking with your child even though they show no outward signs of understanding you. Make a habit to point at and describe all sorts of things. As your child starts reacting to your words, begin mixing in questions for your child to respond to.\n"
+"\n"
+"When your child begins to understand that objects have properties, start pointing out properties that make things similar or different. These properties are also useful for playing with patterns. Finally, start describing shapes in terms of their many properties.\n"
+"\n"
+"The math learning steps for this Stage are:\n"
+"\n"
+"**1. Math Talk – Early and Often** Constantly pointing at and describing things is very important for a child's development. Start doing this long before they seem to understand.\n"
+"**2. Math Talk – At Home** There are many mathematical things in your home to talk about.\n"
+"**3. Math Talk – Out and About** Talk about math in a store, in the park, and in many other places. Math is all around us!\n"
+"**4. Math Talk – Describe, Compare** Use describing, comparison, and spatial relationship words with your child - this is math!\n"
+"**5. Math Talk – Counting** Whenever possible, count things for your child.\n"
+"**6. Math Talk – Point, Describe, and Ask** Begin asking questions that they can respond nonverbally to by pointing or actions.\n"
+"**7. Object properties** Your descriptions and play should start to involve lots of properties of objects.\n"
+"**8. Same and Different** Discuss properties that make things the same or different\n"
+"**9. Patterns** Start playing with identifying, creating and extending patterns.\n"
+"**10. Basic shapes I** Introduce geometric ideas and objects, and the names of simple shapes."
+msgstr ""
+"Bu aşama 4 ila 6 aylık gibi çok erken bir dönemde başlayabilir. Çocuğunuzu her türlü deneyimle tanıştırmak son derece önemlidir. Dışarıdan anlamış gibi görünmeseler bile, çocuğunuzla konuşmaya başlayın. Gördüğünüz her şeyi işaret etmeyi ve tanımlamayı alışkanlık hâline getirin. Çocuğunuz sözlerinize tepki vermeye başladıkça, onun da yanıt verebileceği sorular eklemeye başlayın.\n"
+"\n"
+"Çocuğunuz nesnelerin özellikleri olduğunu fark etmeye başladığında, benzerlikleri ve farklılıkları vurgulayan özelliklere dikkat çekin. Bu özellikler aynı zamanda örüntülerle (pattern) oynamak için de oldukça faydalıdır. Son olarak, şekilleri sahip oldukları temel özellikler üzerinden tanımlamaya başlayın.\n"
+"\t\n"
+"Bu aşama için matematik öğrenme adımları şunlardır:\n"
+"\n"
+"**Adım 1: Matematik Sohbeti – Erken ve Sık Sık** Nesneleri sürekli işaret etmek ve tanımlamak, çocuğun gelişimi için çok önemlidir. Çocuğunuzun anlamasa bile duyduğu kelimelerle yavaş yavaş tanışmasına yardımcı olur.\n"
+"**Adım 2: Matematik Sohbeti – Evde** Evinizde matematikle ilgili konuşabileceğiniz pek çok şey vardır. Günlük yaşamda karşılaştığınız nesneleri ve durumları fırsat bilerek matematik dilini kullanın.\n"
+"**Adım 3: Matematik Sohbeti– Dışarıda ve Çevrede** Markette, parkta ve bulunduğunuz pek çok farklı ortamda matematik hakkında konuşun. Matematik her yerdedir.\n"
+"**Adım 4: Matematik Sohbeti – Tarif Et ve Karşılaştır** Çocuğunuzla konuşurken betimleme, karşılaştırma ve mekânsal ilişki kelimelerini kullanın. İşte matematik tam olarak budur!\n"
+"**Adım 5: Matematik Sohbeti – Sayı Sayma** Mümkün olduğunda çocuğunuzla birlikte nesneleri sayın.\n"
+"**Adım 6: Matematik Sohbeti – İşaret Et, Tarif Et, Sor** Çocuğunuzun işaret ederek ya da hareketlerle yanıt verebileceği sorular sormaya başlayın.\n"
+"**Adım 7: Nesnelerin Özellikleri** Nesnelerin sahip olduğu özellikler hakkında konuşun. Bu, çocuğunuzun benzerlikleri ve farklılıkları fark etmesine yardımcı olur.\n"
+"**Adım 8: Aynı ve Farklı** Nesneleri aynı ya da farklı yapan özellikler hakkında konuşun.\n"
+"**Adım 9: Örüntüler** Örüntüleri fark etmeye, oluşturmaya ve devam ettirmeye yönelik oyunlar oynamaya başlayın.\n"
+"**Adım 10: Temel Şekiller I** Geometrik kavramları ve nesneleri tanıtın; temel şekillerin isimlerini öğretin."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "1.1 Math Talk – Early and Often"
 msgstr "Adım 1: Matematik Sohbeti – Erken ve Sık Sık"
 
@@ -25457,7 +25499,7 @@ msgstr ""
 "\n"
 "**Parkta:** Çocukları, ağaçları ya da başka nesneleri sayın. Bir şey seçin ve neden bir bölgede daha fazla olduğunu tartışın.\n"
 "\n"
-"**Salıncakta:** Çocuğunuzu salıncakta ileri geri sallamak, birlikte saymak için güzel bir fırsattır. Her itişte “1, 2, 3, 4, 5” diye sayın. Çocuğunuz 5’e kadar saymayı öğrendiğinde 5’ten geriye sayabilirsiniz. 0’dan başlamak ve 0’da bitirmek gibi farklı yollar deneyin.\n"
+"**Salıncakta:** Salıncakta: Çocuğunuzu salıncakta ileri geri sallamak, birlikte saymak için güzel bir fırsattır. Her itişte “1, 2, 3, 4, 5” diye sayın. Çocuğunuz 5’e kadar saymayı öğrendiğinde 5’ten geriye sayabilirsiniz. 0’dan başlamak ve 0’da bitirmek gibi farklı yollar deneyin.\n"
 "\n"
 "Parkta gördüğünüz daireleri, eğrileri, düz çizgileri, üçgenleri ve dikdörtgenleri gösterin. Nesnelerin birbirlerinin nasıl üstünde, altında, arasında ve üzerinde olduğunu konuşun."
 
@@ -25651,7 +25693,7 @@ msgid ""
 "\n"
 "**Sequence of drawings:** For older children, create puzzles by drawing a pattern of shapes. One person establishes a pattern and then leaves gaps in the repeating sequence for the other to fill in."
 msgstr ""
-"Örüntü oluştururken kullanılabilecek özelliklerden bazıları (bunları tek başlarına veya bir arada kullanabilirsiniz:\n"
+"Örüntü oluştururken kullanılabilecek özelliklerden bazıları (bunları tek başlarına veya bir arada kullanabilirsiniz):\n"
 "\n"
 "* Hareket örüntüleri: yürüme, zıplama, el sallama, baş sallama\n"
 "* Ses örüntüleri: alkış, diz vurma, dil şaklatma, ayak sesi\n"
@@ -25699,7 +25741,7 @@ msgid ""
 "\n"
 "**Hands on:** Use and explain these shape names as your child plays with objects that have these shapes. Give them lots of opportunities to see how these fit together or build on top of each other. Help your child identify these shapes as you see the shapes out in the world."
 msgstr ""
-"**Şekillerin dünyası::** Çocuğunuzun nesnelerin özelliklerini anlaması geliştikçe birçok yeni fırsat doğar. Mesela, artık geometrik şekilleri anlayabilir ve bunlar hakkında konuşabilirler.\n"
+"**Şekillerin dünyası:** Çocuğunuzun nesnelerin özelliklerini anlaması geliştikçe birçok yeni fırsat doğar. Mesela, artık geometrik şekilleri anlayabilir ve bunlar hakkında konuşabilirler.\n"
 "\n"
 "**Kenar sayma:** Üçgen, kare, dikdörtgen, altıgen ve sekizgen gibi şekilleri ayırt etmek, “kenar” kavramını ve bu kenarları saymayı gerektirir. Çocuğunuz şekillerin kenarlarını “miktar” konusunu kavrayınca daha rahat sayabilecektir. Bu farkındalık, çocuğunuz şekilleri kendi başına tanımaya başlayınca, onun 3, 4, 6 ve 8 gibi sayıların anlamını daha iyi kavramasına da yardımcı olacaktır.\n"
 "\n"
@@ -25721,6 +25763,44 @@ msgstr ""
 "* Kutu (Küp)\n"
 "\n"
 "**Uygulamalı etkinlikler:** Çocuğunuz nesnelerle oynarken, nesnelerin şekillerini belirtin ve ne olduklarını açıklayın. Nesneleri birleştirme, sıralama ve tanıma etkinlikleriyle şekil bilgilerini pekiştirin. Dışarıda bu şekilleri gördüğünüzde onları fark etmelerine yardımcı olun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2.0 Stage 2 Introduction"
+msgstr "Aşama 2 — 5’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has mastered counting to five and understands those numbers in terms of quantities. They also understand that objects have various properties and that those properties can be compared and contrasted.\n"
+"\n"
+"During this Stage, your child will learn to count to ten and begin to understand adding and subtracting of small numbers. They will also become much better at understanding the size of small quantities of objects.\n"
+"\n"
+"**1. Counting up from 1 and 0** This is the foundation of understanding quantities, and builds a basis for addition and sub- traction.\n"
+"**2. Counting down to 1 and 0** This solidifies the understanding of the number sequence and helps with subtraction.\n"
+"**3. Comparing small quantities** Use quantities of objects to build understanding of relative sizes.\n"
+"**4. Counting On** Counting On helps with an understanding of quantities, saves time for counting, and is im- portant for adding.\n"
+"**5. Basic shapes II** Use more sophisticated geometric ideas of shapes.\n"
+"**6. One more and one less** Learning the next number and previous number are the first steps towards learning addition and subtraction.\n"
+"**7. Finger add and subtract to 5** Small sums up to 5 can be handled effectively with one hand.\n"
+"**8. Finger add and subtract to 10** Using your child's fingers is an effective way to do addition and subtraction to 10.\n"
+"**9. Skip counting by 2’s** This is a fun and fast way to count a group of objects.\n"
+"**10. Counting groups** Explore different ways of counting groups of objects."
+msgstr ""
+"Çocuğunuz 5’e kadar saymayı öğrenmiştir ve bu sayıları miktarlarla ilişkilendirebilmektedir. Ayrıca nesnelerin çeşitli özelliklere sahip olduğunu ve bu özelliklerin karşılaştırılabileceğini ve ayırt edilebileceğini de anlamaktadır.\n"
+"\n"
+"Bu aşamada çocuğunuz 10’a kadar saymayı öğrenecek ve küçük sayılarla toplama ve çıkarma kavramlarını tanımaya başlayacaktır. Ayrıca küçük miktarların büyüklüğünü anlamada çok daha yetkin hâle gelecektir.\n"
+"\n"
+"**Adım 11: 1 ve 0’dan Başlayarak İleri Sayma** Bu adım, miktarları anlamanın temelini oluşturur ve toplama ile çıkarma işlemleri için sağlam bir zemin hazırlar.\n"
+"**Adım 12: 1 ve 0’a Kadar Geri Sayma** Bu adım, sayı dizisinin anlaşılmasını pekiştirir ve çıkarma işlemini destekler.\n"
+"**Adım 13: Küçük Miktarları Karşılaştırma** Küçük miktarları birbirinden farklı kılan özellikler hakkında konuşun.\n"
+"**Adım 14: Ekleyerek Saymak** Ekleyerek sayma, miktarları anlamaya yardımcı olur, sayma süresini kısaltır ve toplama işlemi için önemlidir.\n"
+"**Adım 15: Temel Şekiller II** Şekillerle ilgili daha gelişmiş geometrik kavramları kullanmaya başlayın.\n"
+"**Adım 16: Bir Fazla ve Bir Eksik** Bir sonraki sayıyı ve bir önceki sayıyı öğrenmek, toplama ve çıkarma becerilerinin ilk adımlarıdır.\n"
+"**Adım 17: Parmaklarla 5’e Kadar Toplama ve Çıkarma** 5’e kadar olan küçük işlemler tek el kullanılarak etkili bir şekilde yapılabilir.\n"
+"**Adım 18: Parmaklarla 10’a Kadar Toplama ve Çıkarma** Çocuğunuzun parmaklarını kullanmak, 10’a kadar toplama ve çıkarma yapmak için etkili bir yöntemdir.\n"
+"**Adım 19: 2’şer Sayma** Bu, bir grup nesneyi saymanın eğlenceli ve hızlı bir yoludur.\n"
+"**Adım 20: Grupları Saymak** Nesne gruplarını saymanın farklı yollarını keşfedin."
 
 #. type=data_list
 msgctxt "data_list"
@@ -25872,11 +25952,11 @@ msgid ""
 "\n"
 "**Tilings:** Point out tiling patterns to your child. A lot of buildings have tiling patterns on floors, walls, or ceilings. Brick walls often have interesting patterns made by their bricks. These patterns often have mirror symmetries."
 msgstr ""
-"**Keşifleri Derinleştirme:** Zamanla, çocuğunuzun şekillerle, sayılarla ve tanımlamalarla becerileri gelişecektir. Bu sayede daha detaylı ve ileri düzey şekil tanımlarını de tanıtmaya başlayabilirsiniz. Bu süreçte birlikte bol bol pratik yapmayı ihmal etmeyin. Çocuğunuzun parçaları birleştirmesini, nesneleri üst üste koymasını, bir nesneyi diğerinin içine yerleştirmesini teşvik edin. Etrafındaki nesnelerin hangi şekillerden oluştuğunu birlikte gözlemleyin. Bu etkinlikler sırasında şekillerin isimlerini kullanın, onlardan bahsedin ve sık sık sorular yöneltin.\n"
+"**Keşifleri Derinleştirme:** Zamanla, çocuğunuzun şekillerle, sayılarla ve tanımlamalarla becerileri gelişecektir. Bu sayede daha detaylı ve ileri düzey şekil tanımlarını da tanıtmaya başlayabilirsiniz. Bu süreçte birlikte bol bol pratik yapmayı ihmal etmeyin. Çocuğunuzun parçaları birleştirmesini, nesneleri üst üste koymasını, bir nesneyi diğerinin içine yerleştirmesini teşvik edin. Etrafındaki nesnelerin hangi şekillerden oluştuğunu birlikte gözlemleyin. Bu etkinlikler sırasında şekillerin isimlerini kullanın, onlardan bahsedin ve sık sık sorular yöneltin.\n"
 "\n"
-"**Şekil kelimeleri:** Bu alanda öğrenilecek çok fazla kelime varmış gibi görünebilir. Ama bu kelimeleri çocuğunuz yanında düzenli olarak tekrar ederseniz, onları zamanla yavaş ama sağlam bir şekilde öğrenmesini sağlarsınız.\n"
+"**Şekil kelimeleri:** Bu alanda öğrenilecek bol miktarda kelime varmış gibi görünebilir. Ama bu kelimeleri çocuğunuz yanında düzenli olarak tekrar ederseniz, onları zamanla yavaş ama sağlam bir şekilde öğrenmesini sağlarsınız.\n"
 "\n"
-"şekiller:\n"
+"Düz (2 boyutlu) şekiller:\n"
 "\n"
 "* Paralel çizgiler (tren rayları gibi birbirine paralel ilerleyen, kesişmeyen iki çizgi)\n"
 "* Dik açı (kâğıt parçasının köşesindeki açı)\n"
@@ -25978,7 +26058,7 @@ msgstr "Adım 18: Parmaklarla 10’a Kadar Toplama ve Çıkarma"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Fingers and quantities:** Using your child's fingers is an effective way to do addition and subtraction to 10, and it will build your child's confidence and understanding of these operations in terms of quantities. The focus of this step is using fingers in a simple way to do adding and subtracting problems whose largest number is ten or less."
-msgstr "**Parmaklar ve miktarlar:** Çocuğunuzun parmaklarını kullanması, 10’a kadar olan toplama ve çıkarma işlemleri için hem etkili hem de kendine güven duyarak yapmasını sağlayan bir yöntemdir. Bu yöntem, çocuğunuzun toplama ve çıkarma işlemlerini miktarlar üzerinden düşünmesine ve bu işlemleri daha somut bir şekilde anlamasına yardımcı olur. Bu adımdaki hedefimiz, parmakları kullanarak 10’a kadar olan işlemleri basit ama etkili biçimde yapmaktır."
+msgstr "**Parmaklar ve miktarlar:** Çocuğunuzun parmaklarını kullanması, 10’a kadar olan toplama ve çıkarma işlemleri için hem etkili hem de çocuğunuzun kendine güvenle yapmasını sağlayan bir yöntemdir. Bu yöntem, çocuğunuzun toplama ve çıkarma işlemlerini miktarlar üzerinden düşünmesine ve bu işlemleri daha somut bir şekilde anlamasına yardımcı olur. Bu adımdaki hedefimiz, parmakları kullanarak 10’a kadar olan işlemleri basit ama etkili biçimde yapmaktır."
 
 #. type=data_list
 msgctxt "data_list"
@@ -25996,7 +26076,7 @@ msgid ""
 msgstr ""
 "**Anlık sayılar:** Eğlenceli bir etkinlik olarak, çocuğunuza kısa süreliğine bazı parmaklarınızı ya da kısmen doldurulmuş bir onluk çerçevesi gösterin ve bu miktarı hızlıca söylemesini isteyin. Eğer 5 veya daha fazla parmak gösterecekseniz, bir elinizdeki bütün beş parmağı kaldırın. Böylece iki el birlikte bir onluk çerçevesine benzer. Bu etkinlik, çocuğunuzun iki eli birden kullanarak daha rahat toplama ve çıkarma yapmasının önünü açar.\n"
 "\n"
-"**10’a kadar parmakla toplama:** Her iki sayı da 5 veya 5’ten küçükse, iki elinizle uygun sayıda parmağı kaldırın ve toplamı birlikte sayın. Alternatif olarak, önce sayılardan biri kadar parmak kaldırın, ardından diğer sayı kadar parmak daha ekleyin. En sonunda gösterilen toplam parmak sayısı işleminin sonucunu verir.\n"
+"**10’a kadar parmakla toplama:** Her iki sayı da 5 veya 5’ten küçükse, iki elinizle uygun sayıda parmağı kaldırın ve toplamı birlikte sayın. Alternatif olarak, önce sayılardan biri kadar parmak kaldırın, ardından diğer sayı kadar parmak daha ekleyin. En sonunda gösterilen toplam parmak sayısı, işlemin sonucunu verir.\n"
 "\n"
 "**10’a kadar parmakla çıkarma:** 10’a kadar olan sayılardan çıkarma yapmak için, önce çıkarma yapılacak sayı kadar parmağı kaldırın. Ardından çıkarılacak sayı kadar parmağı birer birer indirerek sonucu bulun. Yukarıda kalan parmak sayısı, işlemin cevabını verir."
 
@@ -26020,7 +26100,7 @@ msgid ""
 msgstr ""
 "**Hızlı ve eğlenceli:** Çocuğunuza 2’şer saymanın 1’er saymadan çok daha hızlı ve eğlenceli bir yol olduğunu gösterin. Nesneleri ikili gruplar hâlinde eşleştirip 2’şer saymak, çiftlerin ikişer olduğu fikrini pekiştirmeye yardımcı olur.\n"
 "\n"
-"**2’şer saymaya başlamak:** 2’şer saymayı çocuğunuza tanıtmanın iki yolu vardır. Bir yol, sırayla belirli bir sayıya kadar sayarken, sayıları dönüşümlü olarak söylemektir. Çocuğunuzla ile biriniz 0’dan, diğeriniz 1’den başlayacak şekilde sayarsınız. Biraz pratik yaptıktan sonra, biriniz sessiz kalırken diğeriniz her iki sayıda birini söyleyecek şekilde saymaya devam eder.\n"
+"**2’şer saymaya başlamak:** 2’şer saymayı çocuğunuza tanıtmanın iki yolu vardır. Bir yol, sırayla belirli bir sayıya kadar sayarken, sayıları dönüşümlü olarak söylemektir. Biriniz 0’dan, diğeriniz 1’den başlayacak şekilde dönüşümlü sayarsınız. Biraz pratik yaptıktan sonra, biriniz sessiz kalırken diğeriniz her iki sayıda birini söyleyecek şekilde saymaya devam eder.\n"
 "\n"
 "İkinci yol: İlk olarak normal şekilde 1’er sayarak belirli bir sayıya kadar sayın. Ardından aynı saymayı tekrar edin ama bu kez her iki sayıdan birini sessizce söyleyin. Pratik yaptıkça bu sessizce söylenen sayılar tamamen ortadan kalkar ve sadece 2’şer sayılar duyulur.\n"
 "\n"
@@ -26036,7 +26116,7 @@ msgstr "Adım 20: Grupları Saymak"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Variety:** Skip counting is one way to add interest to counting a group of objects, and there are often many other ways as well. Show your child that they can use their imagination to explore the many other interesting ways they can count a picture of some objects."
-msgstr "**Çeşitlilik:** Atlayarak saymak, nesneleri saymayı daha ilgi çekici kılan yollarından sadece biridir. Bunun yanı sıra başka pek çok farklı yöntem de vardır. Çocuğunuza bir resimdeki nesneleri hayal gücünü kullanarak farklı ilginç şekillerde de sayabileceğini gösterin."
+msgstr "**Çeşitlilik:** Atlayarak saymak, nesneleri saymayı daha ilgi çekici kılan yollardan sadece biridir. Bunun yanı sıra başka pek çok farklı yöntem de vardır. Çocuğunuza bir resimdeki nesneleri hayal gücünü kullanarak farklı ilginç şekillerde de sayabileceğini gösterin."
 
 #. type=data_list
 msgctxt "data_list"
@@ -26057,9 +26137,47 @@ msgstr ""
 "\n"
 "**Toplamsal yaklaşımlar:** Bir grubu saymanın bir yolu, onu parçalara ayırıp her parçayı tek tek saymak ve sonra bunları toplamaktır. Yukarıdaki on çerçevesi örneğinde, üst sıradaki 5 noktayı alt sıradaki 2 noktayla topladık.\n"
 "\n"
-"**Atlayarak sayma:** Bir grubun parçalarını toplarken tekrar eden bir desen görebilirsiniz. Bu, örneğin soldaki iki çift 2’yi atlayarak saydığımızda karşılaştığımız durum.\n"
+"**Atlayarak sayma:** Bir grubun parçalarını toplarken tekrar eden bir desen görebilirsiniz. Bu, örneğin soldaki iki çifti 2’şer sayarak atladığımızda karşılaştığımız durumdur.\n"
 "\n"
 "**Çıkarma:** Başka bir yaygın yöntem, tam olan bir gruptan eksik olanı çıkararak geriye kaç kaldığını bulmaktır. Yukarıdaki örnekte 10’dan 3 çıkararak yaptığımız da tam olarak budur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3.0 Stage 3 Introduction"
+msgstr "Aşama 3 — 10’a Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Your child has become comfortable with counting to ten, and those numbers and quantities are now more meaningful. Your child is much better now with adding and subtracting small numbers.\n"
+"\n"
+"This Stage extends counting to 20, and it extends the range of numbers your child can add and subtract. It also introduces the beginning of multiplying and dividing. Finally, your child's improving analytical skills and maturity warrant a discussion of early ideas for playing strategy games.\n"
+"\n"
+"**1. Mental adding by Counting On** Adding by Counting On from one of the numbers is an important step in learning addition.\n"
+"**2. Mental subtracting – take away** Subtracting by taking away and counting down is an important step in learning subtraction.\n"
+"**3. Mental subtracting – difference** Another way to subtract is to find the difference between two numbers by Counting On.\n"
+"**4. Number bonds** Number bonds reinforce part and whole concepts, as well as fact families for addition and subtraction.\n"
+"**5. Place value** Introduce your child to the role of 10 in the numbers up to 20.\n"
+"**6. Fact families** The facts 2 + 3 = 5, 3 + 2 = 5, 5 - 2 = 3, and 5 - 3 = 2 are connected. Knowing this deepens the understanding of each fact.\n"
+"**7. Adding twins and near twins** Most children learn adding twins easily. This provides a foundation for doubling.\n"
+"**8. Multiply and Divide by 2** This is the start of many concepts – doubling, multiplying by 2, halving, dividing by 2, and equal sharing.\n"
+"**9. Skip counting by 2s II** Further develop skip counting by 2s by going up and down and starting with any number.\n"
+"**10. Strategy games I** These games naturally motivate children to do problem solving."
+msgstr ""
+"Çocuğunuz artık 10’a kadar sayma konusunda kendini rahat hissetmektedir ve bu sayılar ile miktarlar onun için daha anlamlı hâle gelmiştir. Ayrıca küçük sayılarla toplama ve çıkarma konusunda da çok daha yetkindir.\n"
+"\n"
+"Bu aşama, saymayı 20’ye kadar genişletir ve çocuğunuzun toplayıp çıkarabildiği sayı aralığını artırır. Aynı zamanda çarpma ve bölmeye giriş niteliğindeki ilk fikirleri tanıtır. Son olarak, çocuğunuzun gelişen analitik becerileri ve olgunluğu, strateji oyunlarına yönelik erken fikirlerin konuşulmasını mümkün kılar.\n"
+"\n"
+"**Adım 21: Zihinde Toplamak – Ekleyerek Sayma** Ekleyerek sayma yoluyla toplama yapmak, toplama becerilerini öğrenmede önemli bir adımdır.\n"
+"**Adım 22: Zihinde Çıkarmak – Eksiltme** Geriye doğru sayarak çıkarma yapmak, çıkarma becerilerini öğrenmede önemli bir adımdır.\n"
+"**Adım 23: Zihinde Çıkarmak – Fark** Çıkarmanın bir başka yolu da, iki sayı arasındaki farkı ekleyerek sayma yoluyla bulmaktır.\n"
+"**Adım 24: Sayı Bağları** Sayı bağları, parçalar ile bütün arasındaki ilişkiyi güçlendirir ve toplama ile çıkarma için sayı ailelerini destekler.\n"
+"**Adım 25: Yer Değeri** 10’un, 20’ye kadar olan sayılardaki rolünü çocuğunuza tanıtın.\n"
+"**Adım 26: Sayı Aileleri** 2 + 3 = 5, 3 + 2 = 5, 5 − 2 = 3 ve 5 − 3 = 2 işlemleri birbiriyle ilişkilidir. Bu ilişkileri bilmek, her bir işlemin daha iyi anlaşılmasını sağlar.\n"
+"**Adım 27: İkizleri ve Yakın İkizleri Toplama** Çoğu çocuk ikizleri (aynı sayıları) toplama işlemini kolayca öğrenir. Bu beceri, 2 ile çarpma (iki katını alma) için sağlam bir temel oluşturur.\n"
+"**Adım 28: 2 ile Çarpma ve Bölme** Bu adım; iki katını alma, 2 ile çarpma, yarıya bölme, 2’ye bölme ve eşit paylaşma gibi pek çok kavramın başlangıcıdır.\n"
+"**Adım 29: İkişer Sayma II** Herhangi bir sayıdan başlayarak ileri ve geri ikişer sayma çalışmalarıyla bu beceriyi daha da geliştirin.\n"
+"**Adım 30: Strateji Oyunları I** Bu oyunlar, çocukları problem çözmeye doğal bir şekilde motive eder."
 
 #. type=data_list
 msgctxt "data_list"
@@ -26087,7 +26205,7 @@ msgstr ""
 "\n"
 "Zamanla, çocuğunuz küçük toplama problemlerinde parmak kullanmaya daha az ihtiyaç duyacaktır. 6’dan 9’a gitmenin 3 sayılık bir değişim olduğunu zihninde görebilecek ve 1 ya da 2 eklerken parmak kullanmaya ihtiyaç duymadığı gibi, burada da ihtiyaç duymayacaklardır.\n"
 "\n"
-"**Büyük sayıdan başlamak:** Çocuğunuz deneyim kazandıkça, iki sayıdan büyük olanla başlamanın daha kolay ve hızlı olduğunu fark etmeye başlayacaktır. Örneğin, 3 + 6 işlemini yapmak için 6’dan başlayıp 3 Ekleyerek Saymak, 3’ten başlayıp 6 Ekleyerek Saymaktan daha kolaydır. Bu tercihin bir parçası da, 3 + 6 ile 6 + 3’ün aynı sonuca ulaştığını fark etmektir. Bu önemli gözlem, çocuğunuzun öğreneceği toplama kurallarının sayısını yarıya indirecektir!"
+"**Büyük sayıdan başlamak:** Çocuğunuz deneyim kazandıkça, iki sayıdan büyük olanla başlamanın daha kolay ve hızlı olduğunu fark etmeye başlayacaktır. Örneğin, 3 + 6 işlemini yapmak için 6’dan başlayıp 3 ekleyerek saymak, 3’ten başlayıp 6 Ekleyerek Saymaktan daha kolaydır. Bu tercihin bir parçası da, 3 + 6 ile 6 + 3’ün aynı sonuca ulaştığını fark etmektir. Bu önemli gözlem, çocuğunuzun öğreneceği toplama kurallarının sayısını yarıya indirecektir!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26115,7 +26233,7 @@ msgstr ""
 "\n"
 "**Geriye sayma:** Geriye saymak, eksiltme işlemi için doğal bir yöntemdir. Bunun için örnek olarak 9 - 3 çıkarma işlemini kullanın.\n"
 "\n"
-"Toplamada olduğu gibi, çocuğunuz başlangıçta bunu parmaklarını kullanarak yapmak isteyebilir, bu da gayet doğaldır. “9” deyin ve 0’ı ifade etmek için elinizi bir yumruk haline getirin. Sonra “8, 7, 6” diye geriye sayın ve her sayı ile bir parmak kaldırın. Üç parmak kaldırdığınızda 6’da durun.\n"
+"Toplamada olduğu gibi, çocuğunuz başlangıçta bunu parmaklarını kullanarak yapmak isteyebilir, bu da gayet doğaldır. “9” deyin ve 0’ı ifade etmek için elinizi bir yumruk haline getirin. Sonra “8, 7, 6” diye geriye sayın ve her sayıyla bir parmak kaldırın. Üç parmak kaldırdığınızda 6’da durun.\n"
 "\n"
 "Zamanla, çocuğunuz küçük çıkarma işlemleri için parmak kullanmaya daha az ihtiyaç duyacaktır. 9’dan 6’ya gitmenin 3 sayılık bir değişim olduğunu zihinsel olarak görmeye başlayacak ve artık 1 ya da 2 çıkarma işlemleri için parmak kullanmadığı gibi burada da kullanmayacaktır.\n"
 "\n"
@@ -26139,9 +26257,9 @@ msgid ""
 msgstr ""
 "**Mesafe ya da aralık büyüklüğü:** Eğer sizden iki sayı arasındaki farkı bulmanız isteniyorsa, bir çıkarma işlemi yapıyorsunuz demektir. Farkı bulmak, sayılar arasındaki mesafeyi bulmak anlamına gelir ve bu, iki sayı arasındaki boşluğu kapatmak için hangi sayının eklenmesi gerektiği sorularak hesaplanabilir.\n"
 "\n"
-"**Ekleyerek Saymak:** Örnek olarak 9 ve 6 arasındaki farkı bulun. Bu farkı hesaplamak için, 6’dan başlayarak 9’a kadar Ekleyerek Sayın ve kaç sayı kullandığınıza dikkat edin. Daha önceki bir öğrenme adımında olduğu gibi, bu işlem parmakla da yapılabilir, parmaksız da. Çocuğunuz daha önce toplama problemleriyle pratik yaptıysa, büyük ihtimalle “7, 8, 9” diye hızla sayabilir ve farkın 3 olduğunu fark edebilir.\n"
+"**Ekleyerek Saymak:** Örnek olarak 9 ve 6 arasındaki farkı bulun. Bu farkı hesaplamak için, 6’dan başlayarak 9’a kadar ekleyerek sayın ve kaç sayı kullandığınıza dikkat edin. Daha önceki bir öğrenme adımında olduğu gibi, bu işlem parmakla da yapılabilir, parmaksız da. Çocuğunuz daha önce toplama problemleriyle pratik yaptıysa, büyük ihtimalle “7, 8, 9” diye hızla sayabilir ve farkın 3 olduğunu fark edebilir.\n"
 "\n"
-"**Çıkarma ve toplama:** Farkı bulmak için Ekleyerek Sayma yöntemini kullanmak, toplama ve çıkarma arasındaki ilişkiyi görmek için harika bir yoldur. 6 + 3 işlemini yaparken 6’dan başlayarak Ekleyerek Saydık, yani üç sayı ekleyerek ilerledik. Aynı şekilde, 6’dan başlayarak 9 - 6 işlemi için ekleyerek saydığımızda, 9’a ulaşmak için 6’ya ne eklememiz gerektiğini bulduk.\n"
+"**Çıkarma ve toplama:** Farkı bulmak için Ekleyerek Sayma yöntemini kullanmak, toplama ve çıkarma arasındaki ilişkiyi görmek için harika bir yoldur. 6 + 3 işlemini yaparken 6’dan başlayarak ekleyerek saydık, yani üç sayı ekleyerek ilerledik. Aynı şekilde, 6’dan başlayarak 9 - 6 işlemi için ekleyerek saydığımızda, 9’a ulaşmak için 6’ya ne eklememiz gerektiğini bulduk.\n"
 "\n"
 "**1’den 4’e kadar olan farklar:** Çocuğunuz alıştırma yaptıkça 1’den 4’e kadar olan sayıları bu yöntemle çıkarmada hız kazanacaktır. Acele etmeyin ve herkesin bu süreçten keyif aldığından emin olun."
 
@@ -26157,7 +26275,7 @@ msgid ""
 "\n"
 "**What's missing?:** Let's continue using number bonds for 6 as our example. The number bonds for 6 are: 0 + 6, 1 + 5, 2 + 4, and 3 + 3. A child who has learned these well will then have little trouble answering the question: \"What do I need to add to 2 to get 6?\" They will know that 2 + 4 is a number bond for 6, so 4 is the part of 6 that is missing."
 msgstr ""
-"**Parça ve bütün:** Bir şeyi, onu oluşturan parçalardan oluşan bir bütün olarak görmek, çocuklar için önemli bir adımıdır. Sayı bağları, bir sayının değerini toplanınca veren bütün iki sayılardır. Örnek olarak 6’yı ele alalım. 6’nın sayı bağları, 6’yı bir bütün olarak alıp iki parçaya ayırmanın farklı yollarıdır. Bu aynı zamanda toplama ve çıkarma arasındaki bağlantıyı, sayı aileleri şeklinde değerlendirmeyi de pekiştirir. Bu konu ileriki bir öğrenme adımında ele alınacaktır.\n"
+"**Parça ve bütün:** Bir şeyi, onu oluşturan parçalardan oluşan bir bütün olarak görmek çocuklar için önemli bir adımdır. Sayı bağları, bir sayıyı oluşturan iki parçayı gösterir. Örnek olarak 6’yı ele alalım. 6’nın sayı bağları, 6’yı bir bütün olarak alıp iki parçaya ayırmanın farklı yollarıdır. Bu aynı zamanda toplama ve çıkarma arasındaki bağlantıyı, sayı aileleri şeklinde değerlendirmeyi de pekiştirir. Bu konu ileriki bir öğrenme adımında ele alınacaktır.\n"
 "\n"
 "**Eksik olan ne?:** 6 için sayı bağlarını kullanmaya devam edelim. 6’nın sayı bağları şunlardır: 0 + 6, 1 + 5, 2 + 4 ve 3 + 3. Bu bağları iyi öğrenmiş bir çocuk, “6’ya ulaşmak için 2’ye ne eklemem gerekiyor?” sorusuna cevap vermekte zorlanmayacaktır. 2 + 4’ün 6 için bir sayı bağı olduğunu bilecek, yani bu durumda 6’nın eksik parçasının 4 olduğunu anlayacaktır."
 
@@ -26277,7 +26395,7 @@ msgstr ""
 "\n"
 "**2 ile çarpmak:** 2 ile çarpmak, ikiz toplamak ile aynı şeydir. Fakat çarpma işlemi çocuğunuzun alışması gereken bazı yeni sözcükler içerir. 2 ile çarpma ifadesini ilk tanıttığınızda, bu konuya geçişi kolaylaştırmak için zaman zaman “ikiz” terimini de kullanmaya dikkat edin. Çocuğunuz böylece “çarpma” ve “kere” gibi kelimelere alışmaya başlayacaktır.\n"
 "\n"
-"**Bir şeyin yarısı:** Bir şey 2 ile çarpıldığında, örneğin 3 iki katına çıkıp 6 olduğunda, sonucun yarısını alarak başlangıçtaki sayıya geri dönebilirsiniz. Örneğin 3’ün ikiyle çarpılmasını, iki sıra olarak dizilmiş 3 nesne olarak hayal edin. Bu iki sıranın yarısını almak, bir sırayı almak demektir. Bu da 3 nesnedir.\n"
+"**Bir şeyin yarısı:** Bir şey 2 ile çarpıldığında, örneğin 3 iki katına çıkıp 6 olduğunda, sonucun yarısını alarak başlangıçtaki sayıya geri dönebilirsiniz. Örneğin 3’ün 2 ile çarpılmasını, iki sıra olarak dizilmiş 3 nesne olarak hayal edin. Bu iki sıranın yarısını almak, bir sırayı almak demektir. Bu da 3 nesnedir.\n"
 "\n"
 "**Eşit paylaşım:** Bir şeyin yarısını almaktan bahsederken, bunu bir şeyi iki kişi arasında eşit paylaştırma fikriyle birleştirebilirsiniz. Eğer iki kişi eşit miktarda pay alacaksa, her kişi aynı şeyi alır ve bu da başlangıçtaki miktarın yarısı olur.\n"
 "\n"
@@ -26305,7 +26423,7 @@ msgid ""
 "\n"
 "**Skip count by other numbers:** If you like, this is a good time to start skip counting by other numbers. Skip counting by 10's, 11's, and 5's are good starting places."
 msgstr ""
-"**Yeni bağlantılar:** Çocuğunuz 2. Aşamada 2’şer saymaya başlamıştı. Artık ikişer atlayarak daha ileriye ve daha hızlı sayabiliyor. Aynı zamanda, atlayarak sayma, çarpma ve çift ve tek sayılar gibi yeni fikirlerle de bağlantılı hale geliyor.\n"
+"**Yeni bağlantılar:** Çocuğunuz Aşama 2’de 2’şer saymaya başlamıştı. Artık ikişer atlayarak daha ileriye ve daha hızlı sayabiliyor. Aynı zamanda, atlayarak sayma, çarpma ve çift ve tek sayılar gibi yeni fikirlerle de bağlantılı hale geliyor.\n"
 "\n"
 "**2 ile çarpmak:** Örneğin, bir şeyi 2 ile çarpmak demek, o kadar tane 2 toplamak demektir. Diyelim ki çocuğunuz 5 kere 2’yi hesaplıyor. Bu, 2’yi beş kez kendisine eklemek anlamına gelir ve bu tam olarak çocuğunuzun 0’dan başlayarak 2’şer sayarak 5 adım ilerlediğinde elde edeceği değerdir. Tabii ki, bu miktarı 5’i ikiyle çarparak da bulabilirler.\n"
 "\n"
@@ -26338,6 +26456,40 @@ msgstr ""
 "**Etraftaki şeylerle oyna:** Başlarda çocuğunuz kazanmak ya da kaybetmek gibi kavramları önemsemeyebilir ya da yaptığı seçimlerin sonucu etkilediğini henüz anlamayabilir. Bu bir sorun değildir. Sadece birlikte keyifli vakit geçirmeye odaklanın. Çocuğunuz zamanla oyunun yapısını ve yaptıkları seçimleri daha iyi kavrayacak, seçimlerinin fark yarattığını görecek ve bu farkları önemsemeye başlayacaktır.\n"
 "\n"
 "**Bazen matematik görünmez:** Strateji oyunları her zaman açık bir şekilde sayılar içermez ama yine de matematik öğeleri içerir. Her strateji oyunu, sayısal olan ve olmayan birçok önemli öğrenme fırsatı sunar. Daha önce de belirtildiği gibi problem çözme bu oyunların kazandırdığı en önemli becerilerden biridir. Eleştirel düşünme ve mantıklı iletişim yetenekleri de gelişir. Kurallara uymak ve sırayla oynamak, sosyal ve duygusal gelişim açısından çok faydalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4.0 Stage 4 Introduction"
+msgstr "Aşama 4 — 20’ye Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"During this Stage, your child will extend their counting to 100. As their counting develops, they need to get a solid understanding of double-digit place value. They will also come to master all their single-digit addition and subtraction facts. This is also an exciting time when multiplication by the numbers from 1 to 5 starts to be mastered.\n"
+"\n"
+"**1. Counting to 100** Count both forward and backward to solidify an understanding of these numbers.\n"
+"**2. Two-digit place value** Use expanded form to understand place value and how to compare numbers.\n"
+"**3. Finger Addition** Learn finger addition doing it the Easy Way.\n"
+"**4. Finger Subtraction** Learn finger subtraction doing it the Easy Way.\n"
+"**5. Compensation for Add and Subtract** Compensation is a useful tool for simplifying addition and subtraction calculations.\n"
+"**6. 10 as a midway point** Use 10 as a midway point for addition and subtraction.\n"
+"**7. Skip counting by 2s, 5s, 10s** Practice this skip counting going up and down, starting anywhere.\n"
+"**8. Beginning multiplying** Gently introduce the words \"multiplying\" and \"times\" to describe doubling and skip counting.\n"
+"**9. Multiplying 1-5 by 1-5** At this point, your child knows all the multiplication facts for 1 to 5.\n"
+"**10. Strategy games II** Discuss deeper ideas about strategy games."
+msgstr ""
+"Bu aşamada çocuğunuz saymayı 100’e kadar genişletecektir. Sayma becerisi geliştikçe, iki basamaklı sayılarda yer değerini sağlam bir şekilde anlaması gerekir. Ayrıca tek basamaklı tüm toplama ve çıkarma işlemlerinde ustalaşacaktır. Bu dönem, 1’den 5’e kadar olan sayılarla çarpma becerilerinin de gelişmeye başladığı heyecan verici bir zamandır.\n"
+"\n"
+"**Adım 31: 100’e Kadar Sayma** Bu sayıları daha iyi kavramak için ileriye ve geriye doğru sayma çalışmaları yapın.\n"
+"**Adım 32: Çift Basamaklı Sayılar** Yer değerini anlamak ve sayıları karşılaştırmak için Genişletilmiş Form yöntemini kullanın.\n"
+"**Adım 33: Parmaklarla Toplama** Kolay bir yöntemle parmakları kullanarak toplama yapmayı öğrenin.\n"
+"**Adım 34: Parmaklarla Çıkarma** Kolay bir yöntemle parmakları kullanarak çıkarma yapmayı öğrenin.\n"
+"**Adım 35: Toplama ve Çıkarmada Dengeleme** Dengeleme, toplama ve çıkarma işlemlerini basitleştirmek için yararlı bir yöntemdir.\n"
+"**Adım 36: 10'u Ara Durak Olarak Kullanmak** Toplama ve çıkarma işlemlerinde 10’u ara bir durak olarak kullanın.\n"
+"**Adım 37: 2’şer, 5’er ve 10’ar Sayma** Herhangi bir sayıdan başlayarak ileri ve geri 2’şer, 5’er ve 10’ar ritmik sayma alıştırmaları yapın.\n"
+"**Adım 38: Çarpmaya Başlangıç** İki katını alma ve ritmik saymayı anlatmak için “çarpma” ve “kere” kavramlarını yumuşak bir şekilde tanıtın.\n"
+"**Adım 39: 1 ile 5 Arasındaki Sayıları Birbiriyle Çarpma** Bu noktada çocuğunuz, 1 ile 5 arasındaki sayıların tüm çarpım sonuçlarını öğrenmiş olur.\n"
+"**Adım 40: Strateji Oyunları II** Strateji oyunlarıyla ilgili daha derin kavramlar ve fikirler üzerine konuşun."
 
 #. type=data_list
 msgctxt "data_list"
@@ -26447,7 +26599,7 @@ msgid ""
 "\n"
 "**Reliable but will be replaced:** These will eventually be replaced by other methods, but for now these are reliable and are something your child can be assured will always give them the right answer any time they need it."
 msgstr ""
-"**İki çıkarma modeli:** Çıkarma işlemini iki farklı şekilde değerlendirebiliriz: eksiltme ve fark bulma. Bu yaklaşımların ikisi de önemlidir ve pratik yaparak pekiştirilmelidir. Bu adımda çocuğunuzun çıkarma işlemini daha rahat yapabilmesi için farklı yöntemler sunacağız Parmakla toplamada olduğu gibi, burada da parmak sayılarıyla miktarları tanıma becerisi devreye girer. Her iki yöntem için de 14 - 8 örneğini kullanalım.\n"
+"**İki çıkarma modeli:** Çıkarma işlemini iki farklı şekilde değerlendirebiliriz: eksiltme ve fark bulma. Bu yaklaşımların ikisi de önemlidir ve pratik yaparak pekiştirilmelidir. Bu adımda çocuğunuzun çıkarma işlemini daha rahat yapabilmesi için farklı yöntemler sunacağız. Parmakla toplamada olduğu gibi, burada da parmak sayılarıyla miktarları tanıma becerisi devreye girer. Her iki yöntem için de 14 - 8 örneğini kullanalım.\n"
 "\n"
 "**Parmakla eksiltme:** Bu yöntemde, büyük bir sayıdan tek basamaklı küçük bir sayı çıkarılır ve geriye doğru sayılır. Çocuğunuz ellerini yumruk yaparak “14” der. Ardından geriye doğru saymaya başlar ve her yeni sayı söylediğinde bir parmak kaldırır: “13, 12, 11, 10, 9, 8, 7, 6.” Çocuğunuz 8 parmağı kalkınca 6 sayısında durur.\n"
 "\n"
@@ -26458,7 +26610,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "4.5 Compensation for Add and Subtract"
-msgstr "Adım 35: Toplama ve Çıkarmada için Dengeleme"
+msgstr "Adım 35: Toplama ve Çıkarmada Dengeleme"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26557,7 +26709,7 @@ msgid ""
 "\n"
 "**Skip counting is multiplying:** If your child skip counts by 5's seven times starting at 0, your child will have seven 5's. That is the same as multiplying 7 times 5. From now on, anytime your child is asked to do a multiplication problem, they can skip count to find the answer. Over time, they will have better ways to find the answer, but this is a secure method they can use for now."
 msgstr ""
-"**Yeni kelimeler:** 4. Aşamanın sonlarına doğru iki katına çıkarma kavramını işlerken, “çarpmak” ve “kere” terimlerine de yer vermeye başladık. Henüz yapmadıysanız, artık bu kelimeleri daha sık kullanmanın zamanı geldi. Artık bu sözcükleri kullanabileceğiniz pek çok durumla karşılaşacaksınız.\n"
+"**Yeni kelimeler:** Aşama 4’ün sonlarına doğru iki katına çıkarma kavramını işlerken, “çarpmak” ve “kere” terimlerine de yer vermeye başladık. Henüz yapmadıysanız, artık bu kelimeleri daha sık kullanmanın zamanı geldi. Artık bu sözcükleri kullanabileceğiniz pek çok durumla karşılaşacaksınız.\n"
 "\n"
 "**İki ve üç katına çıkarmak:** İki katına çıkarmak, bir sayıyı 2 ile çarpmaktır. Üç katına çıkarmaksa 3 ile çarpmaktır. Artık bu işlemleri bu şekilde adlandırmaya başlamalısınız. Örneğin bir sayıyı, diyelim ki 4’ü, iki katına çıkarmanız gerekiyorsa çocuğunuza “2 çarpı (veya kere) 4 kaç eder?” diye sorun. Çocuğunuz gerekli tüm becerilere artık sahip. Sadece bu yeni terimlere alışması gerekiyor.\n"
 "\n"
@@ -26632,6 +26784,40 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "5.0 Stage 5 Introduction"
+msgstr "Aşama 5 — 100’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"In this Stage counting progresses into the three-digit numbers beyond 100. The ideas of place value become incresingly important, and the use of expanded form for numbers can make many of these ideas clearer. Now that single-digit addition and subtraction have been mastered, it is time to learn single-digit multiplication and dividision.\n"
+"\n"
+"**1. 3-digit place value** Extend the use of expanded form to 3-digit numbers to understand place value.\n"
+"**2. Double-digit add/sub** Use expanded form to see how 2-digit addition and subtraction work.\n"
+"**3. Skip counting by 2's to 10's** Practice skip counting up and down starting anywhere and by any number from 2 to 10.\n"
+"**4. Multiplication – 2, 4, 8, 5, 10** These involve doubling and multiples of 5. They are quick to learn and provide a good framework for the remaining numbers.\n"
+"**5. Multiplication – 3, 4, 6, 9, 11** Use the idea of one more or one less to learn these based on the earlier numbers.\n"
+"**6. Single-digit multiplication** Your child will now know all of single-digit multiplication!\n"
+"**7. Divisors, factors, and multiples** Introduce the terms divisors, factors, and multiples.\n"
+"**8. Primes, composites, and powers** Learn about primes, composite numbers, and units. Practice prime factorizations – these often involve repeated factors, which is a good time to learn about powers of numbers.\n"
+"**9. Fact families II** Group multiplication and division facts by families.\n"
+"**10. Single-digit division** Your work with skip counting, learning multiplication facts, and fact families will smooth the way for dividing both with and without remainders."
+msgstr ""
+"Bu aşamada sayma, 100’ün ötesindeki üç basamaklı sayılara doğru ilerler. Basamak değeri giderek daha önemli hâle gelir ve sayıları genişletilmiş form ile ele almak bu fikirlerin çoğunu daha anlaşılır kılar. Tek basamaklı toplama ve çıkarma artık öğrenildiğine göre, tek basamaklı çarpma ve bölmeyi öğrenmenin zamanı gelmiştir.\n"
+"\n"
+"**Adım 41: Üç Basamaklı Sayılar** Yer değerini anlamak için Genişletilmiş Form kullanımını üç basamaklı sayılara genişletin.\n"
+"**Adım 42: Çift Basamaklı Toplama ve Çıkarma** İki basamaklı toplama ve çıkarma işlemlerinin nasıl çalıştığını görmek için Genişletilmiş Form yöntemini kullanın.\n"
+"**Adım 43: 2 ile 10 Arasındaki Sayılarla Atlayarak Sayma** 2’den 10’a kadar herhangi bir sayıyla, herhangi bir noktadan başlayarak ileri ve geri ritmik sayma çalışmaları yapın.\n"
+"**Adım 44: Çarpma – 2, 4, 8, 5, 10** Bu işlemler iki katını alma ve 5’in katlarını içerir. Hızlı öğrenilir ve kalan sayılar için iyi bir temel oluşturur.\n"
+"**Adım 45: Çarpma – 3, 4, 6, 9, 11** Bu çarpımları öğrenirken, önceki sayılara göre “bir fazla” ya da “bir eksik” fikrinden yararlanın.\n"
+"**Adım 46: Tek Basamaklı Sayılarla Çarpma** Bu aşamada çocuğunuz tek basamaklı tüm çarpma işlemlerini öğrenmiş olur.\n"
+"**Adım 47: Bölenler, Çarpanlar ve Katlar** Bölen, çarpan ve kat kavramlarını tanıtın.\n"
+"**Adım 48: Asal Sayılar, Bileşik Sayılar ve Kuvvetler** Asal sayılar, bileşik sayılar ve birimler hakkında bilgi edinin. Asal çarpanlara ayırma çalışmaları yapın; bu çalışmalar genellikle tekrar eden çarpanlar içerir ve sayıların kuvvetlerini öğrenmek için iyi bir fırsat sunar.\n"
+"**Adım 49: Sayı Aileleri II** Çarpma ve bölme işlemlerini sayı ailelerine göre gruplandırın.\n"
+"**Adım 50: Tek Basamaklı Sayılarla Bölme** Ritmik sayma, çarpma işlemlerini öğrenme ve sayı aileleriyle yapılan çalışmalar; kalansız ve kalanlı bölme işlemlerine geçişi kolaylaştırır."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "5.1 3-Digit Place Value"
 msgstr "Adım 41: Üç Basamaklı Sayılar"
 
@@ -26648,7 +26834,7 @@ msgstr ""
 "\n"
 "**Nesneleri kullanın:** Çocuğunuzun birlik, onluk ve yüzlük gruplar hâlinde düzenlenmiş nesneleri kullanarak farklı sayıları temsil etmesini isteyin. Örneğin, 325 sayısını bu nesnelerle nasıl gösterebileceklerini sorun. Ayrıca, bazı basamaklarında sıfır olan sayıları da dahil edin (örneğin 206, 430 ve 500). Birlik, onluk ve yüzlük nesne grupları oluşturun ve çocuğunuzdan bu grupların hangi sayıyı temsil ettiğini söylemesini isteyin.\n"
 "\n"
-"**Basamaklara ayırın:** Çocuğunuz sayılar ve miktarlar arasındaki ilişkiyi iyice kavradıktan sonra, sayıları yazarak basamaklara ayırmaya başlayın. Örneğin 325 sayısını ele alın. Önce bu sayıyı yüzlük, onluk ve birlik miktarlarıyla temsil edin, ardından basamaklarına ayırarak 325 = 300 + 20 + 5 şeklinde yazın. Aynı uygulamayı ters şekilde de yapın: örneğin 100 + 40 + 6 ifadesini yazın. Sonra, bunu yüzlük, onluk ve birlik nesne gruplarıyla gösterin ve bu ifadenin toplamda hangi sayı olduğunu sorun."
+"**Basamaklara ayırın (Genişletilmiş Form):** Çocuğunuz sayılar ve miktarlar arasındaki ilişkiyi iyice kavradıktan sonra, sayıları yazarak Genişletilmiş Form olarak basamaklara ayırmaya başlayın. Örneğin 325 sayısını ele alın. Önce bu sayıyı yüzlük, onluk ve birlik miktarlarıyla temsil edin, ardından basamaklarına ayırarak 325 = 300 + 20 + 5 şeklinde yazın. Aynı uygulamayı ters şekilde de yapın: örneğin 100 + 40 + 6 ifadesini yazın. Sonra, bunu yüzlük, onluk ve birlik nesne gruplarıyla gösterin ve bu ifadenin toplamda hangi sayı olduğunu sorun."
 
 #. type=data_list
 msgctxt "data_list"
@@ -26670,7 +26856,7 @@ msgid ""
 "\n"
 "**Making it automatic:** Over time and with lots of practice, your child will stop needing to use groups of tens and ones or expanded form. However, as with so many other things, there is no hurry getting to that point – it will come with practice."
 msgstr ""
-"**Tek basamak:** Çift basamaklı iki sayıyla çalışmaya başlayım. Sayıların birinin tek basamaklı olması, burada işimizi rahatlatacaktır. Tek basamaklı bir sayıyı çift basamaklı bir sayıya ekleme ya da çıkarma alıştırması yaparken atlayarak saymak çok etkilidir. Bunun için farklı sayılarla atlayabilir, ileri ya da geri doğru sayabilir veya farklı başlangıç noktaları seçebilirsiniz. Aşağıdaki yöntemler çift basamaklı iki sayı için verilse de sayılardan biri tek basamaklı olduğunda da işe yararlar.\n"
+"**Tek basamak:** Çift basamaklı iki sayıyla çalışmaya başlayalım. Sayıların birinin tek basamaklı olması, burada işimizi rahatlatacaktır. Tek basamaklı bir sayıyı çift basamaklı bir sayıya ekleme ya da çıkarma alıştırması yaparken atlayarak saymak çok etkilidir. Bunun için farklı sayılarla atlayabilir, ileri ya da geri doğru sayabilir veya farklı başlangıç noktaları seçebilirsiniz. Aşağıdaki yöntemler çift basamaklı iki sayı için verilse de sayılardan biri tek basamaklı olduğunda da işe yararlar.\n"
 "\n"
 "**Nesneleri kullanın:** Çocuğunuzun kavramları daha iyi anlaması için nesnelerle çalışmasını teşvik edin. Her iki sayıyı da onluk ve birlik gruplarıyla temsil ederek başlayın.\n"
 "\n"
@@ -26678,7 +26864,7 @@ msgstr ""
 "\n"
 "**Çıkarma:** Çıkarma yaparken önce büyük sayıdan çıkarılacak onluk grupları çıkarmakla başlayın. Ardından gerekli birlikleri çıkarmaya çalışın. Örneğin, 45’ten 23’ü çıkarıyorsanız elinizde yeterince birlik grup olduğu için işlem kolayca tamamlanır. Ama eğer 45’ten 28’i çıkarıyorsanız birlikler yeterli olmayabilir. Bu durumda bir onluk grubu parçalayarak birlik gruplara dönüştürebileceğinizi gösterin. Örneğin 45 başlangıçta 4 onluk ve 5 birlik gruptan oluşurken, onu 3 onluk ve 15 birlik grup şeklinde yeniden düzenleyebiliriz. Bu da yeniden gruplamadır.\n"
 "\n"
-"**Basamaklara ayırın:** Çocuğunuz sayıların yapısını ve yeniden gruplamanın neden gerekli olduğunu tam olarak anlayana kadar somut nesneler kullanmaya devam edin. Bir sonraki adımda, işlemleri basamaklara ayrılmış sayılar kullanarak ve yazılı olarak yapmaya başlayın. Sayıları basamaklara ayırırken kullandığımız yöntem ve adımlar, onluk ve birlik nesne gruplarıyla yaptığımız işlemlerle aynıdır.\n"
+"**Basamaklara ayırın (Genişletilmiş Form):** Çocuğunuz sayıların yapısını ve yeniden gruplamanın neden gerekli olduğunu tam olarak anlayana kadar somut nesneler kullanmaya devam edin. Bir sonraki adımda, işlemleri basamaklara ayrılmış sayılar kullanarak ve yazılı olarak yapmaya başlayın. Sayıları basamaklara ayırırken kullandığımız yöntem ve adımlar, onluk ve birlik nesne gruplarıyla yaptığımız işlemlerle aynıdır.\n"
 "\n"
 "**Otomatikleştirme:** Zamanla ve bol pratikle, çocuğunuz onluk ve birlik gruplara ya da sayıları basamaklarına ayırmaya gerek duymadan işlemleri yapabilecektir. Ancak, diğer pek çok beceride olduğu gibi, bu seviyeye ulaşmak için acele etmeye gerek yoktur. Bu, pratikle doğal olarak gelişecektir."
 
@@ -26700,7 +26886,7 @@ msgstr ""
 "\n"
 "**100’lük sayı tablosunda örüntüler:** Çocuğunuz atlayarak sayarken ortaya çıkan örüntülere dikkat edin. Bunu yapmanın en kolay yolu 100’lük bir sayı tablosu kullanmaktır. Aynı şekilde, sayıları bir sütun hâlinde yazarak ve aşağı doğru ilerledikçe birler ve onlar basamaklarında neyin değiştiğini gözlemleyerek de örüntüler fark edebilirsiniz. Bazı sayılarda (örneğin 8 ve 9’da) atlayarak sayıldığında birler basamağında ilginç örüntüler oluşur. Bazı sayılarda ise (örneğin 3’te) bu kadar belirgin ya da ilginç örüntüler görülmeyebilir.\n"
 "\n"
-"**Eğlenceli hale getirin:** Bu etkinliği iki ya da daha fazla kişiyle oynanabilecek bir oyuna dönüştürebilirsiniz. Bir kişi başlangıç sayısını, kaçar sayılacağını ve ileri mı yoksa geri mı sayılacağını söyler. Sonra sırayla herkes bir sonraki sayıyı söyler ve oyun böyle devam eder."
+"**Eğlenceli hale getirin:** Bu etkinliği iki ya da daha fazla kişiyle oynanabilecek bir oyuna dönüştürebilirsiniz. Bir kişi başlangıç sayısını, kaçar sayılacağını ve ileri mi yoksa geri mi sayılacağını söyler. Sonra sırayla herkes bir sonraki sayıyı söyler ve oyun böyle devam eder."
 
 #. type=data_list
 msgctxt "data_list"
@@ -26720,7 +26906,7 @@ msgid ""
 msgstr ""
 "**İyi bir temel:** Bu sayılar genellikle çabuk öğrenilir ve bir kez öğrenildikten sonra diğer çarpım işlemlerini öğrenmek için sağlam bir temel oluşturur.\n"
 "\n"
-"**5 ve 10 ile çarpma:** 0 ile çarpmayı öğrenmek kolaydır ve basamak değeri kavramını anlamak açısından oldukça önemlidir. Aynı zamanda, 5 ile çarpmayı öğrenmeyi de kolaylaştırır.\n"
+"**5 ve 10 ile çarpma:** 10 ile çarpmayı öğrenmek kolaydır ve basamak değeri kavramını anlamak açısından oldukça önemlidir. Aynı zamanda, 5 ile çarpmayı öğrenmeyi de kolaylaştırır.\n"
 "\n"
 "5’in katları iki şekilde öğrenilebilir: 5’erli atlayarak sayarak ya da 10’un katlarını kullanarak. Örneğin, 6 kere 5 işlemi size 6’nın yarısı kadar 10 verir. 6’nın yarısı 3 olduğuna göre, sonuç 30’dur. 77 kere 5 işlemini yaparken, 5’lerden birini kenara ayırıp kalan 6 adet 5 ile 6 kere 5 işlemini yapabilirsiniz. Sonuç 30’dur. Ardından, kenara ayırdığınız 5’i de eklediğinizde sonuca ulaşırsınız: 35.\n"
 "\n"
@@ -26766,7 +26952,7 @@ msgid ""
 msgstr ""
 "**Eksik bilgiler:** Çocuğunuzun tüm tek basamaklı çarpma işlemlerini öğrenmiş olması için geriye yalnızca bir ya da iki bilgi kaldı! Örneğin, çocuğunuz henüz 7 kere 7’nin sonucunu bilmiyor olabilir. İkiz sayıların toplamı gibi, kare sayılar da birçok çocuk için eğlencelidir ve kendi başlarına pratik edilebilir. Bu alıştırmalardan keyif almaya bakın ve hedef odaklı olmaktan kaçının.\n"
 "\n"
-"**Tüm bilgileri birleştirme ve ezberleme:** Adım adım, bol pratik ve tekrar yoluyla, çocuğunuz tüm çarpmayla ilgili tüm bilgileri ezberleyecektir. Bu bilgilerin zamanla kolay ve kendiliğinden uygulanabilir hâle gelmesi önemlidir, ancak bunun hemen olması gerekmez. Asıl önemli olan, sürecin eğlenceli olması ve çocuğunuzun farklı çarpma işlemleri arasındaki ilişkileri keşfetmekten keyif almasıdır. Örneğin, hangi işlemler diğerlerinin iki katı ya da yarısıdır, hangileri bir fazla ya da bir eksiktir, hangileri birler basamağında ilginç desenler oluşturur.\n"
+"**Tüm bilgileri birleştirme ve ezberleme:** Adım adım, bol pratik ve tekrar yoluyla, çocuğunuz çarpmayla ilgili tüm bilgileri ezberleyecektir. Bu bilgilerin zamanla kolay ve kendiliğinden uygulanabilir hâle gelmesi önemlidir, ancak bunun hemen olması gerekmez. Asıl önemli olan, sürecin eğlenceli olması ve çocuğunuzun farklı çarpma işlemleri arasındaki ilişkileri keşfetmekten keyif almasıdır. Örneğin, hangi işlemler diğerlerinin iki katı ya da yarısıdır, hangileri bir fazla ya da bir eksiktir, hangileri birler basamağında ilginç desenler oluşturur.\n"
 "\n"
 "**Sınırlı ve eğlenceli kartlar:** Ara sıra ve keyifli şekilde kullanıldığında bilgi verici kartlar veya buna benzer araçlar faydalı olabilir. Çocuğunuz bazı çarpma işlemlerini hatırlamakta zorlanıyorsa, yalnızca bu işlemlerden oluşan kısa bir liste oluşturun ve bunları tek başına kısaca tekrar edebileceği şekilde çalıştırın."
 
@@ -26794,14 +26980,14 @@ msgstr ""
 "\n"
 "**Katlar:** Bir sayının katları, o sayının tam sayılarla çarpılmasıyla elde edilen sayılardır. Örneğin, 6’nın katlarından bazıları 0, 6, 12 ve 18’dir. Dikkat ederseniz, bir sayının katlarının o sayının çarpanlarını içerdiğini fark edersiniz. Örneğin, 6’nın tüm katları 6’nın çarpanlarını içerir.\n"
 "\n"
-"**Ortak katlar:** İki sayının katı olan sayılara ortak katlar denir. Örneğin, 6 ve 4’ün ortak katlarından bazıları 0, 12, 24 ve 36’dır. Tüm ortak katların, bu sayıların en küçük ortak katının katları olduğuna dikkat edin. Ortak katlar, özellikle kesirlerle toplama ve çıkarma işlemlerinde oldukça kullanışlıdır.\n"
+"**Ortak katlar:** İki sayının katı olan sayılara ortak katlar denir. Örneğin, 6 ve 4’ün ortak katlarından bazıları 0, 12, 24 ve 36’dır.Tüm ortak katların, bu sayıların en küçük ortak katının katları olduğuna dikkat edin. Ortak katlar, özellikle kesirlerle toplama ve çıkarma işlemlerinde oldukça kullanışlıdır.\n"
 "\n"
 "**Bu kelimeleri tanıtın:** Çarpma ve bölme içeren durumlar hakkında konuşurken bu yeni kavramları çocuğunuza yavaş yavaş tanıtın. Bu terimler bir kez anlaşıldığında, pek çok matematiksel konuyu açıklamak çok daha kolay hale gelir."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "5.8 Primes, Composites, and Powers"
-msgstr "Adım 48: Asal Sayılar, Birleşik Sayılar ve Kuvvetler"
+msgstr "Adım 48: Asal Sayılar, Bileşik Sayılar ve Kuvvetler"
 
 #. type=data_list
 msgctxt "data_list"
@@ -26843,7 +27029,7 @@ msgid ""
 "\n"
 "Similarly, if we take 12 and divide by 4 the answer is 3. If we then multiply 3 by 4 the answer is 12, which is where we started. Dividing by 4 and then multiplying by 4 returns things to the beginning."
 msgstr ""
-"**Aileler:** 3. Aşamada, toplama ve çıkarma işlemleri arasındaki ilişkiyi kurmak için sayı ailelerinden faydalanmıştık. Bu yaklaşım, çocukların bu iki işlemi daha iyi kavramasını sağlamıştı. Benzer şekilde çarpma ve bölme arasındaki bağlantıları görmek ve bu işlemleri sayı aileleri şeklinde gruplayarak incelemek, çocuğunuzun bu konuları daha derinlemesine anlamasına yardımcı olur.\n"
+"**Aileler:** Aşama 3’te, toplama ve çıkarma işlemleri arasındaki ilişkiyi kurmak için sayı ailelerinden faydalanmıştık. Bu yaklaşım, çocukların bu iki işlemi daha iyi kavramasını sağlamıştı. Benzer şekilde çarpma ve bölme arasındaki bağlantıları görmek ve bu işlemleri sayı aileleri şeklinde gruplayarak incelemek, çocuğunuzun bu konuları daha derinlemesine anlamasına yardımcı olur.\n"
 "\n"
 "Örneğin, 3 × 4 = 12, 4 × 3 = 12, 12 ÷ 3 = 4 ve 12 ÷ 4 = 3 işlemleri bir sayı ailesi oluşturur.\n"
 "\n"
@@ -26875,7 +27061,7 @@ msgstr ""
 "\n"
 "**Tahmin etme ve atlayarak sayma:** Diyelim ki çocuğunuzdan 29’u 4’e bölmesi isteniyor. 4 ile ilgili çarpım hakkında bildiği şeyler arasında 29 yer almadığı için, 29’dan küçük bir sayı tahmin etmesi gerekir. Çocuğunuzdan, 4’ün 29’dan küçük bir katını tahmin etmesini isteyin. Örneğin, 24’ü tahmin edebilir, bu da 4 kere 6’dır. Sonrasında, 29’a ulaşana kadar ileri doğru atlayarak sayabilir. Bu durumda 28’e ulaşır, yani 4 kere 7. Burada durması gerektiğini fark ederek “29 bölü 4 eşittir 7, kalan 1” sonucuna ulaşır.\n"
 "\n"
-"**Cevabı kontrol etme:** Çocuğunuzun işlem sonuçlarını kontrol etmeyi öğrenmesi, kazanması gereken güzel bir alışkanlıktır. Yukarıdaki örnekte, “29 bölü 4 eşittir 7, kalan 1” sonucunu elde etmiştik. Şimdi bunu çarpma kullanarak konrol edelim: 4 kere 7 eşittir 28 ve 28 artı 1 eşittir 29. Demek ki cevabımız doğru!"
+"**Cevabı kontrol etme:** Çocuğunuzun işlem sonuçlarını kontrol etmeyi öğrenmesi, kazanması gereken güzel bir alışkanlıktır. Yukarıdaki örnekte, “29 bölü 4 eşittir 7, kalan 1” sonucunu elde etmiştik. Şimdi bunu çarpma kullanarak kontrol edelim: 4 kere 7 eşittir 28 ve 28 artı 1 eşittir 29. Demek ki cevabımız doğru!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -27917,6 +28103,1010 @@ msgctxt "data_list"
 msgid "Make up a story like this that explains how the giraffe got such a long neck."
 msgstr "O halde, siz de zürafanın nasıl o kadar uzun bir boynunun olduğunu anlatan buna benzer bir hikâye uydurun."
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 1 Overview"
+msgstr "Oyun Buluşmaları Aşama 1 — Seni Anlayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 1 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 1 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"Bu aşama en erken 4. ayda başlar. Çocuğunuzu farkli deneyimlerle tanıştırmak çok önemlidir. Sizi anladığını göstermese bile onunla konuşun. Her türlü nesneyi işaret edip tanımlamayı alışkanlık haline getirin. Çocuğunuz söylediklerinize tepki göstermeye başladığında, yanıt vermesi için ona sorular sorun.\n"
+"\n"
+"Çocuğunuz nesnelerin özellikleri olduğunu anlamaya başladığında, benzerlikleri ve farklılıkları ortaya çıkaran özelliklere dikkat çekin. Bu özellikler, örüntülerle oynamada da faydalıdır. Son olarak, şekilleri farklı özellikleri açısından tanımlamaya başlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-1"
+msgstr "Oyun Buluşması 1: Matematik Sohbeti – Erken ve Sık Sık"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects."
+msgstr "**Oyun Buluşması Odağı:** Matematik dilini kullanarak çocuğunuza nesneleri gösterin ve tanımlayın. Bu nesnelerin özellikleri hakkında konuşun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has color words."
+msgstr "Bu kitapta renk isimleri yer alır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the properties of things."
+msgstr "Bu etkinlik günlük hayattaki nesnelerin özellikleri ile ilgilidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-2"
+msgstr "Oyun Buluşması 2: Matematik Sohbeti – Evde"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuza nesneleri göstermek ve tanımlamak için Matematik dilini kullanmaya devam edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This looks at how clothes can be too big or too small."
+msgstr "Bu kitap, kıyafetlerin nasıl çok büyük ya da çok küçük olabileceğini inceler."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These practice shapes and descriptions."
+msgstr "Bu etkinlikler, şekillerin ve özelliklerinin tanımlanmasına yönelik alıştırmalar içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-3"
+msgstr "Oyun Buluşması 3: Matematik Sohbeti– Dışarıda ve Çevrede"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child."
+msgstr "**Oyun Buluşması Odağı:** Gittiğiniz her yerde çevrenizde bulunan matematiği inceleyin ve bu konuda Matematik Dilini kullanarak çocuğunuzla sohbet edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This talks about speed, colors, and small counting."
+msgstr "Bu kitap, hız kavramını, renkleri ve sayma becerilerini anlatır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve descriptions of places and objects, and also the following of directions."
+msgstr "Bu etkinlikler, mekanların ve nesnelerin betimlenmesini ve yönergeleri takip etmeyi içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-4"
+msgstr "Oyun Buluşması 4: Matematik Sohbeti – Tarif Et ve Karşılaştır"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Math is not just counting – math is also about properties and relationships. This should be brought out in your Math Talk."
+msgstr "**Oyun Buluşması Odağı:** Matematik sadece sayı saymaktan ibaret değildir. Aynı zamanda özellikler ve ilişkilerle de ilgilidir. Bu noktalar Matematik Dilinde mutlaka vurgulanmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The storybook talks about colors, shapes, and spatial relationships."
+msgstr "Bu hikaye kitabında renkler, şekiller ve nesnelerin birbirine göre konumları anlatılır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve properties of objects and how those properties can create patterns."
+msgstr "Bu etkinlikler, mekanların ve nesnelerin betimlenmesini ve yönergeleri takip etmeyi içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-5"
+msgstr "Oyun Buluşması 5: Matematik Sohbeti – Sayı Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use counting in your Math Talk. Count everything you come across."
+msgstr "**Oyun Buluşması Odağı:** Matematik dilinde saymaya yer verin. Karşınıza çıkan her şeyi sayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This involves counting and the ideas of one more and one less."
+msgstr "Bu kitap saymanın yanı sıra ‘artı bir’ ve ‘eksi bir’ kavramları da içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve quantities of objects and building with various shapes."
+msgstr "Bu etkinliklerde, nesnelerin miktarları ve farklı şekiller kullanarak yapı oluşturma becerileri ele alınır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-6"
+msgstr "Oyun Buluşması 6: Matematik Sohbeti – İşaret Et, Tarif Et, Sor"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuz yorum ve sorularınıza yanıt verebildiğinde, Matematik diliniz buna göre şekillenir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story."
+msgstr "Bu etkinlik, beşe kadar saymayı içerir ve nesneler arası ilişkileri anlatan kelimeler kullanılır. Artık bu kelimeleri kullanarak çocuğunuza hikayede neler olduğunu sorabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve describing things and finding properties that make things similar or different."
+msgstr "Bu etkinlik, nesneleri betimlemeyi ve benzer ya da farklı kılan özelliklerini bulmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-7"
+msgstr "Oyun Buluşması 7: Nesnelerin Özellikleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Continue to emphasize words that describe properties and relationships."
+msgstr "**Oyun Buluşması Odağı:** Nesnelerin özelliklerini ve birbirleri arasındaki ilişkileri açıklayan kelimeler kullanmaya devam edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has relative sizes and shapes."
+msgstr "Bu etkinlikte, nesnelerin birbirine göre boyutları ve farklı şekilleri ele alınır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve using properties to compare things and find patterns."
+msgstr "Bu etkinlik, nesneleri karşılaştırmak için özelliklerini kullanmayı ve örüntüler bulmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-8"
+msgstr "Oyun Buluşması 8: Aynı ve Farklı"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is centered on what makes objects the same and different."
+msgstr "**Oyun Buluşması Odağı:** Bu etkinlik, nesneleri aynı ya da farklı kılan özelliklere odaklanır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, colors, relationships, and counting up to 5."
+msgstr "Bu etkinlik, şekiller, renkler, nesneler arasındaki ilişkiler ve beşe kadar saymayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve grouping things with the same property."
+msgstr "Bu etkinlik aynı özelliğe sahip nesneleri gruplamayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-9"
+msgstr "Oyun Buluşması 9: Örüntüler"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics."
+msgstr "**Oyun Buluşması Odağı:** Nesnelerin özelliklerini kullanarak örüntüler oluşturun. Örüntüler, matematiğin temelini oluşturur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This talks about the daily feeding of hungry animals."
+msgstr "Bu etkinlik, hayvanların günlük beslenmesini ele alır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve properties and finding patterns involving those properties."
+msgstr "Bu etkinlik, nesnelerin özelliklerini ve bu özelliklerle ilgili örüntüleri bulmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 1-10"
+msgstr "Oyun Buluşması 10: Temel Şekiller I"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions."
+msgstr "**Oyun Buluşması Odağı:** Temel şekiller hakkında konuşun; adlarını ve tanımlarını vurgulayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "his has shapes on every page."
+msgstr "Her sayfada şekiller bulunmaktadır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These continue the ongoing discussions about properties and patterns."
+msgstr "Özellikler ve örüntülerle ilgili konuşmalar devam eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 2 Overview"
+msgstr "Oyun Buluşmaları Aşama 2 — 5’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 2 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"Çocuğunuz beşe kadar saymayı öğrenmiş ve bu sayıları miktarları açısından da anlamaktadır. Ayrıca nesnelerin farklı özellikleri olduğunu ve bu özellikleri karşılaştırarak aralarındaki farkları da belirleyebilmektedir.\n"
+"\n"
+"Bu aşamada, çocuğunuz 10’a kadar saymayı öğrenirken, küçük sayılarla toplama ve çıkarma işlemlerini de anlamaya başlayacaktır. Ayrıca küçük miktarlardaki nesnelerin büyüklüğünü çok daha iyi anlamaya başlayacaktır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-1"
+msgstr "Oyun Buluşması 11: 1 ve 0’dan Başlayarak İleri Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction."
+msgstr "**Oyun Buluşması Odağı:** Saymaya genellikle 1’den bazen de 0’dan başlayın. Bu, miktar kavrayışının temelini oluşturur ve toplama ve çıkarma becerilerinin gelişmesine yardımcı olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors."
+msgstr "Bu etkinlikte 0’dan 9’a kadar sayma, en küçük ve en büyük kavramları, bir fazlası, bir eksiği ve renkler bulunur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
+msgstr "Etkinliklerde biri karşı örnek kavramını tanıtır. Diğeri ise iki kişilik, üçgen yapma üzerine bir strateji oyunudur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-2"
+msgstr "Oyun Buluşması 12: 1 ve 0’a Kadar Geri Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction."
+msgstr "**Oyun Buluşması Odağı:** Bazen 0’da bitirerek 1’e kadar geriye saymak, sayı dizisinin daha iyi kavranmasını sağlar. Ayrıca çıkarma becerisinin gelişmesine de yardımcı olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has the numbers from 1 to 7. It also has color descriptions on every page."
+msgstr "Bu etkinlikte 1’den 7’ye kadar olan sayılar ve renk tanımları yer alır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
+msgstr "Bu etkinlikler çokça sayma ve küçük miktarlarla ilgili alıştırmalar içerir. Ayrıca etkinliklerden biri, 1 ya da 2 ekleme ve çıkarma çalışmalarını da içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-3"
+msgstr "Oyun Buluşması 13: Küçük Miktarları Karşılaştırma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Understand strategies for comparing small numbers and quantities."
+msgstr "**Oyun Buluşması Odağı:** Küçük sayıları ve miktarları karşılaştırmaya yönelik stratejileri anlamak."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under."
+msgstr "Bu etkinlikte, 1’den 10’a kadar sayma; çok küçük ve çok büyük gibi büyüklük ilişkilerini anlatan kelimeler ve ayrıca üstünde ve altında gibi konumsal ilişkileri ifade eden kelimeler yer alır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve  discovering shapes for quantities and playing with the order of numbers."
+msgstr "Bu etkinlikler, miktarları temsil eden şekilleri keşfetmeyi ve sayıların dizilişleriyle oynamayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-4"
+msgstr "Oyun Buluşması 14: Ekleyerek Saymak"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition."
+msgstr "**Oyun Buluşması Odağı:** Bu etkinlik, saymanın ve miktarları anlamanın toplama için ne kadar önemli bir temel oluşturduğunu gösterir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the order of numbers and how numbers compare to each other."
+msgstr "Bu etkinlik sayı sırasını ve sayıların birbirleriyle nasıl karşılaştırıldığını içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-5"
+msgstr "Oyun Buluşması 15: Temel Şekiller II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzun şekilleri anlamasını geliştirin. Daha fazla şekli, adlarını ve özelliklerini tanıtın. Şimdi kenar ve köşe sayılarını anlamak için saymayı kullanabilirsiniz."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes on every page."
+msgstr "Her sayfasında çok sayıda şekli var."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve creating lots of geometric shapes."
+msgstr "Bu etkinlik çok sayıda geometrik şekil oluşturmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-6"
+msgstr "Oyun Buluşması 16: Bir Fazla ve Bir Eksik"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction."
+msgstr "**Oyun Buluşması Odağı:** Sayı dizisini kavramasına yardımcı olmak ve toplama ile çıkarmaya giriş yapmak için “bir artı” ve “bir eksi” ifadelerini sıkça kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 9, one more, one less, and many relationship words."
+msgstr "Bu etkinlik 9'a kadar saymayı, bir artı, bir eksi, ve birçok alakası olan kelimeleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve the ordering of numbers and the use of a number line."
+msgstr "Bu etkinlik sayıların sıralanmasını ve sayı doğrusunun kullanılmasını içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-7"
+msgstr "Oyun Buluşması 17: Parmaklarla 5’e Kadar Toplama ve Çıkarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5."
+msgstr "**Oyun Buluşması Odağı:** Toplamı 5'e kadar olan küçük sayıları toplamanın keyfini çıkarın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 6, with colors and shapes."
+msgstr "Bu etkinlik renkler ve şekillerle 6’ya kadar saymayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
+msgstr "Bu etkinlik küçük sayıları ve toplamayı  içerir. Şimdilik, Bağlı Gruplar bulmacaları için yalnızca küçük miktarlar ( 6'ya kadar) kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-8"
+msgstr "Oyun Buluşması 18: Parmaklarla 10’a Kadar Toplama ve Çıkarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less."
+msgstr "**Oyun Buluşması Odağı:** Parmaklar sayma, toplama ve çıkarma işlemlerinde çok faydalıdır. Çocuğunuza 10 veya daha küçük sayılar için parmaklarını nasıl iyi kullanacağını gösterin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting up to 12, shapes, and comparing."
+msgstr "Bu etkinlik 12’ye kadar saymayı, şekilleri ve karşılaştırmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
+msgstr "Bu etkinlik sayma, toplama ve çıkarma için sayı doğrusu etkinlikleri ve Bağlı Gruplar alıştırmalarını içerir. Bağlı Gruplar için toplamları küçük tutun (belki 7 civarı) ve toplamların yavaş yavaş artmasına izin verin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-9"
+msgstr "Oyun Buluşması 19: 2’şer Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte ikişer ikişer sayarak eğlenin. Bu, sayıları yeni bir şekilde görmelerine yardımcı olan eğlenceli ve hızlı bir sayma yöntemidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting along with shapes and comparisons."
+msgstr "Bu etkinlik şekiller ve karşılaştırmalarla birlikte ritmik saymayı da içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
+msgstr "Bu etkinlik, ritmik sayma için eşleştirme pratiği sağlayan sayı şekillerini ve simetrik şekilleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 2-10"
+msgstr "Oyun Buluşması 20: Grupları Saymak"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful."
+msgstr "**Oyun Buluşması Odağı:** Eğlenceli bir şekilde bir grup nesneyi saymanın birçok farklı yolunu bulun. Bu, miktarları kavramasına ve saymanın, toplamanın ve çıkarmanın eğlenceli olabileceğini fark etmesine yardımcı olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and counting up to 14."
+msgstr "Bu etkinlik ritmik saymayı ve 14’e kadar saymayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
+msgstr "Bu etkinlik miktarları farklı şekillerde yerleştirmeyi ve miktarlar için tahminlerde bulunmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 3 Overview"
+msgstr "Oyun Buluşmaları Aşama 3 — 10’a Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 3 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 3 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr ""
+"Çocuğunuz 10’a kadar saymaya alışmıştır ve bu sayılar ve miktarlar artık daha anlamlı. Çocuğunuz artık küçük sayıları toplama ve çıkarma konusunda çok daha iyi.\n"
+"\n"
+"Bu aşama saymayı 20'ye kadar genişletir ve çocuğunuzun toplayıp çıkarabileceği sayı aralığını arttırıyor. Ayrıca çarpma ve bölmenin başlangıcıdır. Son olarak, çocuğunuzun gelişen analitik becerileri ve olgunluğu, strateji oyunlarına giriş niteliğinde fikirlerin konuşulmasını gerektirir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-1"
+msgstr "Oyun Buluşması 21: Zihinde Toplamak – Ekleyerek Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1."
+msgstr "**Oyun Buluşması Odağı:** Toplama yaparken “ileri sayma” yöntemini kullanın. Örneğin 4 ve 3’ü toplarken saymaya 1’den değil, 4’ten başlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and groupings of objects."
+msgstr "Bu etkinlik birçok şekli ve nesneleri gruplaşmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
+msgstr "Bu etkinlik toplama ve çıkarmayı içerir. Küçük sayılarla toplama işlemini uygulamak için Noktalar ve Kutular'ın \"Numaralandırılmış\" versiyonunu kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-2"
+msgstr "Oyun Buluşması 22: Zihinde Çıkarmak – Eksiltme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**Oyun Buluşması Odağı:** Büyük rakamdan geriye sayarak çıkarma çıkarma işlemi yapın. \"Çıkarma\" ve \"fark\"ın çıkarma işlemi için iki iyi model olduğunu anlatın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and comparisons."
+msgstr "Bu etkinlik ritmik saymayı, şekilleri ve karşılaştırmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing, adding, and subtracting."
+msgstr "Bu etkinlik karşılaştırmayı, toplamayı ve çıkarmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-3"
+msgstr "Oyun Buluşması 23: Zihinde Çıkarmak – Fark"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction."
+msgstr "**Oyun Buluşması Odağı:** Farkı bulmak için sayarak çıkarma işlemini yapın. \"Çıkarma\" ve \"fark\"ın çıkarma işlemi için iki iyi model olduğunu vurgulayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10 and shapes."
+msgstr "Bu etkinlik 10’a kadar saymayı ve şekilleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and some estimating of small quantities."
+msgstr "Bu etkinlik toplamayı ve küçük miktarlarla ilgili tahminlerde bulunmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-4"
+msgstr "Oyun Buluşması 24: Sayı Bağları"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this."
+msgstr "**Oyun Buluşması Odağı:** Parça–bütün ilişkisini görmek, bir sayının parçalardan oluştuğunu anlamak, çocuğun gelişmesi için önemli bir aşamadır. Çocuğunuzla, toplamı aynı olan sayı grupları alıştırması yapın. On kutucuk ile pratik yapmak bunun önemli bir parçasıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds."
+msgstr "Bu etkinlik bol miktarda sayı grupları ile alıştırmaları içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-5"
+msgstr "Oyun Buluşması 25: Yer Değeri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more."
+msgstr "10’un sayı sistemimizde çok önemli bir rolü vardır. 10’un toplama ve çıkarma alıştırmaları yapın. Ayrıca 10'dan 19'a kadar olan sayıları alıp 10 ve bir diğer rakamın toplamı olarak bölmeyi de deneyin; örneğin, 14, 10'un ve 4'ün toplamıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and counting with small numbers."
+msgstr "Bu etkinlik bol miktarda şekli ve küçük sayılarla saymayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve comparing and ordering numbers up to 20."
+msgstr "Bu etkinlik 20’ye kadar sayıları karşılaştırmayı ve sıralamayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-6"
+msgstr "Oyun Buluşması 26: Sayı Aileleri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds."
+msgstr "**Oyun Buluşması Odağı:** Toplama ve çıkarma arasındaki bağlantıyı vurgulamak için işlem ailelerini kullanın. Bu buluşma, bir önceki buluşmada ele alınan sayı bağlarının doğal bir devamıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 12, colors, shapes, and patterns."
+msgstr "Bu etkinlik 12’ye kadar saymayı, renkleri, şekilleri ve desenleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with number bonds and with addition and subtraction of small numbers."
+msgstr "Bu etkinlik çok sayı gruplar alıştırmalarını ve küçük sayılarla toplama ve çıkarma işlemleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-7"
+msgstr "Oyun Buluşması 27: İkizleri ve Yakın İkizleri Toplama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected."
+msgstr "**Oyun Buluşması Odağı:** İkizleri toplamak, bir sayıya kendisini eklemek, çocuğun öğrenmesi için genellikle eğlenceli bir toplama işlemidir. Yakın ikizleri öğrenmek, bir sayıya ondan bir sonraki sayıyı eklemek (Örneğin 3+4), ikiz toplamayı öğrendikten sonra daha kolaydır ve çocuğunuzun aile grupların nasıl bağlantılı olduğunu görmesine yardımcı oluyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, adding twins, and counting to 14."
+msgstr "Bu etkinlik ritmik saymayı, ikiz toplamayı ve 14’e kadar saymayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding practice and estimating using a number line."
+msgstr "Bu etkinlik sayı doğrusunu kullanarak alıştırma yapmayı ve tahmin etmeyi içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-8"
+msgstr "Oyun Buluşması 28: 2 ile Çarpma ve Bölme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally."
+msgstr "**Oyun Buluşması Odağı:** 2’şer ritmik sayma ve ikizleri topladıktan sonra ikiye katlamayı ve 2 ile çarpmayı öğrenmek için uygun bir zamandır. Ayrıca ikiye bölmeyi, bir şeyi iki eşit parçaya ayırmayı ve tek–çift sayıları tanımayı da içerir. Bunlar birçok konu; ancak hepsi bir arada çok doğal bir şekilde bir araya geliyor."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of discussion of how to split something fairly among coorperating friends."
+msgstr "Bu etkinlik işbirliği yapan arkadaşlar arasında bir şeyi nasıl adil bir şekilde paylaşıldığına dair çok sayıda eleştirileri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and taking halves."
+msgstr "Bu etkinlik ikiye katlamayı ve yarıları çıkarmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-9"
+msgstr "Oyun Buluşması 29: İkişer Sayma II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10."
+msgstr "**Oyun Buluşması Odağı:** 2’şer ritmik saymayı çok çalışın – bu alıştırmayı ileri-geri yapın ve herhangi bir sayıdan başlayın (sadece 2’den değil). Bu kolaylaşınca, 5 ve 10 gibi diğer sayılarda da ritmik saymayı çalışın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
+msgstr "Bu etkinlik bol miktarda toplama ve çıkarma alıştırmalarının yanı sıra hangi sayıların çiftler halinde görülebileceğini görmeyi de içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 3-10"
+msgstr "Oyun Buluşması 30: Strateji Oyunları I"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzla bol bol strateji oyunu oynayın. Sayı içermeyen oyunlarda bile pek çok matematiksel düşünme vardır. Bu oyunlar önemli problem çözme becerilerinin gelişmesine yardımcı olur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 10, comparisons, and a discussion of problem solving."
+msgstr "Bu etkinlik 10’a kadar saymayı, karşılaştırmayı ve sorun çözme tartışmaları içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of problem solving while playing strategy games."
+msgstr "Bu etkinlik strateji oyunlar sırasında sorun çözmeyi içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 4 Overview"
+msgstr "Oyun Buluşmaları Aşama 4 — 20’ye Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 4 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities."
+msgstr "Bu aşamada çocuğunuz saymayı 100'e kadar genişletecektir. Sayma becerileri geliştikçe iki basamaklı sayıların basamak değerlerini da anlamaları gerekiyor. Ayrıca bir basamaklı sayıların toplama ve çıkarma işlemlerini de ustalıkla yapacaktır. Bu aynı zamanda 1'den 5'e kadar olan sayılarla çarpmanın öğrenilmeye başlandığı heyecanlı bir dönemdir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-1"
+msgstr "Oyun Buluşması 31: 100’e Kadar Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte 100’e kadar ileri-geri sayın, özellikle 10'un katlarındaki geçişlere dikkat edin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes, counting, and groupings of objects."
+msgstr "Bu etkinlik birçok şekli, saymayı ve nesneleri gruplandırılmasını içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
+msgstr "Bu etkinlik sayıları sıralanması ve karşılaştırmayı içerir. Bir Sayı Tuttum etkinliği için 100’e kadar sayıları kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-2"
+msgstr "Oyun Buluşması 32: Çift Basamaklı Sayılar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers."
+msgstr "**Oyun Buluşması Odağı:** Sayıların değerini daha iyi kavramak için basamak değerlerini ve Genişletilmiş Formu kullanın. Bir sayının genişletilmiş formu, onu onlar ve birler basamağına ayırmaktır; örneğin 43, 40+3 ‘dır. Basamak değeri 43’un 4 onluk ve 3 birliğin toplamı olduğunu anlamaktır – Bir sayının bulunduğu yer ona değerini verir. Sayıları karşılaştırmak için Genişletilmiş Formu ve basamak değerlerini kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 20, descriptions, and shapes."
+msgstr "Bu etkinlik 20'ye kadar saymayı, tanımlamaları ve şekilleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve ordering and comparing games."
+msgstr "Bu etkinlik oyunları sıralamayı ve karşılaştırmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-3"
+msgstr "Oyun Buluşması 33: Parmaklarla Toplama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier."
+msgstr "**Oyun Buluşması Odağı:** Herhangi bir sayıya tek basamaklı bir sayı eklemeyi kolaylaştırmak için parmaklarınızı ve Saymayı kullanın. Bazı toplama problemlerini çok daha kolay hale getirmek için tamamlamaları kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has shapes, quantities, and speeds."
+msgstr "Bu etkinlik şekilleri, miktarları ve hızları var."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of addition and subtraction, and some practice with number bonds."
+msgstr "Bu etkinlik bol miktarda toplama ve çıkarmayı ve bazı sayı grupları alıştırmaları içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-4"
+msgstr "Oyun Buluşması 34: Parmaklarla Çıkarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number."
+msgstr "**Oyun Buluşması Odağı:** Tek basamaklı bir sayıyı herhangi bir sayıdan çıkarmayı veya farkı tek basamaklı bir sayı olan iki sayıyı çıkarmayı kolaylaştırmak için parmaklarınızı kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has lots of shapes and polygons (many-sided flat shapes)."
+msgstr "Bu etkinlik birçok şekilleri ve poligonları içerir (çok kenarlı düz şekiller)."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with addition and subtraction."
+msgstr "Bu etkinlik bol miktarda toplama ve çıkarma alıştırmaları içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-5"
+msgstr "Oyun Buluşması 35: Toplama ve Çıkarmada Dengeleme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier."
+msgstr "**Oyun Buluşması Odağı:** Toplama ve çıkarmayı daha da kolaylaştırmak için tamamlamaları kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting of groups and lots of comparison words."
+msgstr "Bu etkinlik birçok grup sayma etkinliğini ve karşılaştırmaları içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding and subtracting, as well as a little bit of probability."
+msgstr "Bu etkinlik toplama ve çıkarmayı, ayrıca biraz da olasılıkları içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-6"
+msgstr "Oyun Buluşması 36: 10'u Ara Durak Olarak Kullanmak"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships."
+msgstr "**Oyun Buluşması Odağı:** Toplama ve çıkarmayı zihinden daha kolay yapmak ve sayı ilişkilerini pekiştirmek için 10'u durak olarak kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and number properties."
+msgstr "Bu etkinlik ritmik saymayı ve sayı özellikleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve adding, subtracting, and number bonds."
+msgstr "Bu etkinlik toplamayı, çıkarmayı ve sayı gruplarını içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-7"
+msgstr "Oyun Buluşması 37: 2’şer, 5’er ve 10’ar Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value."
+msgstr "**Oyun Buluşması Odağı:** Herhangi bir sayıdan başlayıp, ileri-geri 2’şer, 5’er ve 10’ar sayma alıştırmaları yapın. Bu toplama, çıkarma, çarpma ve bölme işlemlerine çok yardım eder. 10’ar sayma basamak değerlerine de yardım eder."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting to 14 and skip counting."
+msgstr "Bu etkinlik 14’e kadar saymayı ve ritmik saymayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve place value and simple additions with two-digit numbers."
+msgstr "Bu etkinlik basamak değerlerini ve basit iki basamaklı sayılarla toplamayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-8"
+msgstr "Oyun Buluşması 38: Çarpmaya Başlangıç"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it."
+msgstr "**Oyun Buluşması Odağı:** Çarpma ve bölme kelimelerini basitleştirerek tanıtmak için ikiye katlama ve yarıya bölme ile başlayın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting and shapes."
+msgstr "Bu etkinlik ritmik saymayı ve şekilleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+msgstr "Bu etkinlik tek basamaklı sayıların iki basamaklı sayılarla ikiye katlanmasını, eklenmesini veya çıkarılmasını ve basamak değerini içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-9"
+msgstr "Oyun Buluşması 39: 1 ile 5 Arasındaki Sayıları Birbiriyle Çarpma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte 1'den 5'e kadar olan iki sayı için zihinsel çarpma işlemi yapın. Bu, çarpma işleminde ustalaşmanın başlangıcıdır!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has skip counting, shapes, and colors."
+msgstr "Bu etkinlik ritmik saymayı, şekilleri ve renkleri içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+msgstr "Bu etkinlik toplama, çıkarma ve çarpmayı içerir. Sayı Karışımları artık bu üç işlemin hepsini içerebilir. Çocuğunuz daha büyük sayılarla rahat hissedene kadar, çarpma savaşlarında yalnızca 1'den 5'e kadar olan kartları kullanmalıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 4-10"
+msgstr "Oyun Buluşması 40: Strateji Oyunları II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse."
+msgstr "**Oyun Buluşması Odağı:** Strateji oyunları sorun çözmeye daha derinden bakma şansı verir. Strateji oyunu, oyuncuların farklı seçimlere sahip olduğu ve alınan kararların oyunu iyi veya kötü yönde etkileyebildiği herhangi bir oyundur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This has counting, comparisons, and problem solving."
+msgstr "Bu etkinlik saymayı, karşılaştırmayı ve sorun çözmeyi içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+msgstr "Bu etkinlik toplama ve çıkarmayı içerir. Çocuğunuz hazırsa Numaralı Noktaları ve Kutuları kullanarak iki basamaklı sayıları oluşturun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stage 5 Overview"
+msgstr "Oyun Buluşmaları Aşama 5 — 100’e Kadar Sayabiliyorum!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Overview for Stage 5 playdates**\n"
+"\n"
+"The Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities."
+msgstr "Bu aşamada sayma becerisi, 100’ün üzerindeki üç basamaklı sayılara kadar ilerler. Basamak değerini anlama becerisi gelişir ve sayılar için genişletilmiş formu kullanmak bu kavrayışı daha da netleştirir. Tek basamaklı toplama ve çıkarma işlemlerinde ustalaştıktan sonra, artık bir basamaklı çarpmayı ve bölmeyi öğrenme zamanı geldi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-1"
+msgstr "Oyun Buluşması 41: Üç Basamaklı Sayılar ve Basamak Değeri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzun sayıları 100’ün üzerine çıkıyor ve toplama ile çıkarma işlemleri artık iki basamaklı sayıları içerir. Onunla birlikte iki ve üç basamaklı sayılarda genişletilmiş formu ve basamak değerini çalışın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-2"
+msgstr "Oyun Buluşması 42: Çift Basamaklı Toplama ve Çıkarma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction."
+msgstr "**Oyun Buluşması Odağı:** Genişletilmiş Formlarını iki basamaklı toplama ve çıkarma alıştırmaları için kullanın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve two-digit addition and subtraction."
+msgstr "Bu etkinlik iki basamaklı toplama ve çıkarmayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-3"
+msgstr "Oyun Buluşması 43: 2 ile 10 Arasındaki Sayılarla Ritmik Sayma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations."
+msgstr "**Oyun Buluşması Odağı:** Herhangi bir sayıdan başlayarak ileri-geriye herhangi bir ritmik saymayı çalışın (sadece katları değil). Ritmik sayma dört işlemin hepsi için harika bir alıştırmasıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with skip counting."
+msgstr "Bu etkinlik bol miktarda ritmik sayma alıştırması içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-4"
+msgstr "Oyun Buluşması 44: Çarpma – 2, 4, 8, 5, 10"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy."
+msgstr "**Oyun Buluşması Odağı:** 2, 4 ve 8’in ikiye katlama yöntemini kullanarak zihinden çarpma alıştırması yapın. Hem yararlı hem de kolayı olduğu için zihinden 5 ve 10’la çarpma alıştırmaları yapın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve doubling and general multiplication practice."
+msgstr "Bu etkinlik ikiye katlama stratejisini ve temel çarpma alıştırmalarını içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-5"
+msgstr "Oyun Buluşması 45: Çarpma – 3, 4, 6, 9, 11"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5."
+msgstr "**Oyun Buluşması Odağı:** 3, 4, 6, 9 ve 11 ile çarpmayı zihinden “artı bir” ve “eksi bir” stratejileriyle çalışın. Örneğin, 6 ile çarpma 5’in çarpımına bir fazlasını eklemek gibidir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of multiplication practice along with some mixed operation practice."
+msgstr "Bu etkinlik bazı karışık işlemlerle birlikte birçok çarpma alıştırması içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-6"
+msgstr "Oyun Buluşması 46: Tek Basamaklı Sayılarla Çarpma"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!"
+msgstr "**Oyun Buluşması Odağı:** Tüm parçalar yerli yerinde ve çocuğunuz tek basamaklı çarpma işlemlerinin tümünde usta olmaya hazır!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+msgstr "Bunlar, bir önceki Oyun Buluşmasından tekrar edilen etkinliklerdir ve çok sayıda çarpma işleminin yanı sıra bazı karışık işlemleri de içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-7"
+msgstr "Oyun Buluşması 47: Bölenler, Çarpanlar ve Katlar"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuz artık çarpma ve bölme konusunda rahatlıyor, şimdi sayıların diğer sayıları nasıl eşit şekilde bölünebileceğini anlatmanın zamanı geldi. Bu, çarpanlar, bölen ve kat kelimelerini öğrenmeyi ve uygulamayı içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with factors and multiples."
+msgstr "Bu etkinlik çarpanlar ve katlarla ilgili çok sayıda alıştırma içerir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-8"
+msgstr "Oyun Buluşması 48: Asal Sayılar, Bileşik Sayılar ve Kuvvetler"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power."
+msgstr "**Oyun Buluşması Odağı:** Çarpma işlemi açısından bakıldığında, asal sayılar sayıların yapı taşlarıdır. Çocuğunuzun asal çarpanlara ayırma konusunda güçlü bir anlayış geliştirmesine yardımcı olun. Bu oyun buluşmasında öğrenilecek yeni kelimeler: asal, bileşik, birim ve kuvvettir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+msgstr "Bu etkinlik, Karışık Tablolar oyunu ile çarpma ve bölünebilirlik üzerine yoğun alıştırmalar içerir. BOM! oynarken asal çarpanlara ayırmayı pratik yapın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-9"
+msgstr "Oyun Buluşması 49: Sayı Aileleri II"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division."
+msgstr "**Oyun Buluşması Odağı:** Çocuğunuzun çarpma ve bölme arasındaki bağlantıyı güçlendirmek için sayı aileleri ile pratik yapmak etkili bir yoldur."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+msgstr "Bu etkinlik, Karışık Tablolar oyunu ile çarpma ve bölünebilirlik üzerine yoğun alıştırmalar içerir. BOM! oynarken katları pratik yapın."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Playdate 5-10"
+msgstr "Oyun Buluşması 50: Tek Basamaklı Sayılarla Bölme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Playdate Focus:** This is a quick first step at practicing division with and without remainders."
+msgstr "**Oyun Buluşması Odağı:** Bu etkinlik kalanlı ve kalansız bölmeyi çalışmanın ilk hızlı adımıdır."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These involve lots of practice with multiplication and division."
+msgstr "Bu etkinlik çok sayıda çarpma ve bölme alıştırması içerir."
+
 #. type=global
 msgctxt "global"
 msgid "Next"
@@ -27951,6 +29141,12 @@ msgstr "İleri Düzey"
 msgctxt "template"
 msgid "**Beginning Storybooks**"
 msgstr "**Temel Hikaye Kitapları**"
+
+#. type=template
+#. The string @local.book_title_in_table should not be translated.
+msgctxt "template"
+msgid "@local.book_title_in_table == \"NoTranslation\""
+msgstr "@local.book_title_in_table == \"NoTranslation\""
 
 #. type=template
 msgctxt "template"
@@ -28297,6 +29493,11 @@ msgstr "Aşama"
 msgctxt "template"
 msgid "Language"
 msgstr "Dil"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Devam Et"
 
 #. type=tour
 msgctxt "tour"
