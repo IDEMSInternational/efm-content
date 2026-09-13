@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-09-09 18:52\n"
+"PO-Revision-Date: 2026-09-13 01:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15660,4 +15660,199 @@ msgstr "Matematyka i nowe słowa"
 msgctxt "template"
 msgid "**Adult Readers**"
 msgstr "**Dla dorosłych czytelników**"
+
+#. type=template
+msgctxt "template"
+msgid "Activity list"
+msgstr "Lista aktywności"
+
+#. type=template
+msgctxt "template"
+msgid "Storybook list"
+msgstr "Lista książeczek"
+
+#. type=template
+msgctxt "template"
+msgid "**Math Learning Step**"
+msgstr "**Etap nauki matematyki**"
+
+#. type=template
+msgctxt "template"
+msgid "**Storybook**"
+msgstr "**Książeczka**"
+
+#. type=template
+msgctxt "template"
+msgid "**Activities**"
+msgstr "**Aktywności**"
+
+#. type=template
+msgctxt "template"
+msgid "Introductions"
+msgstr "Wprowadzenie"
+
+#. type=template
+msgctxt "template"
+msgid "Games"
+msgstr "Gry"
+
+#. type=template
+msgctxt "template"
+msgid "Puzzles"
+msgstr "Łamigłówki"
+
+#. type=template
+msgctxt "template"
+msgid "Activities"
+msgstr "Aktywności"
+
+#. type=template
+msgctxt "template"
+msgid "Investigations"
+msgstr "Dociekania"
+
+#. type=template
+msgctxt "template"
+msgid "Individually"
+msgstr "Indywidualnie"
+
+#. type=template
+msgctxt "template"
+msgid "By topic"
+msgstr "Według tematu"
+
+#. type=template
+msgctxt "template"
+msgid "**Stages**"
+msgstr "**Etapy**"
+
+#. type=template
+msgctxt "template"
+msgid "**Bonus Material**"
+msgstr "**Dodatkowe materiały**"
+
+#. type=template
+msgctxt "template"
+msgid "Bonus Material — Activities"
+msgstr "Dodatkowe materiały – aktywności"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing"
+msgstr "Synchronizowanie"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Synchronizowanie…"
+
+#. type=template
+msgctxt "template"
+msgid "Copy"
+msgstr "Kopiuj"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Skopiowano!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Beginning Storybooks"
+msgstr "Pierwsze opowieści matematyczne"
+
+#. type=tour
+msgctxt "tour"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions."
+msgstr "Rozmawiajcie ze swoim dzieckiem, zanim jeszcze zacznie mówić, a nawet zanim w pełni zrozumie słowa. Pokazujcie palcem, nazywajcie i opisujcie to, co widzicie wokół siebie – na przykład kształty, kolory, porównania czy ilości. Gdy maluch zacznie już rozumieć słowa, pytajcie go o różne rzeczy i zachęcajcie, by wskazywał je paluszkiem. A kiedy zacznie rozumieć i wypowiadać pierwsze słowa, zacznijcie wplatać do Waszych rozmów proste pytania."
+
+#. type=tour
+msgctxt "tour"
+msgid "Intermediate Storybooks"
+msgstr "Średniozaawansowane opowieści matematyczne"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world."
+msgstr "Te książeczki są nieco dłuższe, mają odrobinę bardziej złożoną fabułę i poruszają bardziej zaawansowane tematy. Wasze dziecko potrafi już rozmawiać i wyciągać wnioski na temat wielu różnych rzeczy w otaczającym je świecie."
+
+#. type=tour
+msgctxt "tour"
+msgid "Advanced Storybooks"
+msgstr "Zaawansowane książeczki z historiami"
+
+#. type=tour
+msgctxt "tour"
+msgid "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved."
+msgstr "Fabuła książeczek staje się coraz bardziej szczegółowa i złożona. Matematyka obejmuje teraz większe liczby i bardziej zaawansowane pojęcia, a opisy obiektów są o wiele bogatsze i bardziej drobiazgowe."
+
+#. type=tour
+msgctxt "tour"
+msgid "Bonus Material"
+msgstr "Materiał dodatkowy"
+
+#. type=tour
+msgctxt "tour"
+msgid "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page."
+msgstr "Niektóre zadania zawierają dodatkowe materiały z przykładami i szczegółowymi wyjaśnieniami. Możecie je przejrzeć tutaj lub na dole strony powiązanego zadania."
+
+#. type=tour
+msgctxt "tour"
+msgid "Welcome!"
+msgstr "Witajcie!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together."
+msgstr "Cieszcie się wspólnym czytaniem i zabawą z matematyką! Najlepszym sposobem na naukę i doświadczanie matematyki jest zabawa w gronie najbliższych. Organizacja Early Family Math stworzyła cztery rodzaje materiałów, z których cała Wasza rodzina może korzystać wspólnie."
+
+#. type=tour
+msgctxt "tour"
+msgid "Storybooks"
+msgstr "Książeczki z historiami"
+
+#. type=tour
+msgctxt "tour"
+msgid "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!"
+msgstr "Te książeczki są przeznaczone do wspólnego czytania przez dorosłego i dziecko. Na każdej stronie znajdziecie matematyczne wskazówki oraz pytania pomocnicze. Pomóżcie swojemu dziecku rozwijać talenty matematyczne i budować piękne skojarzenia – niech matematyka kojarzy się z ciepłą, radosną atmosferą wspólnego czytania!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Activities"
+msgstr "Zadania"
+
+#. type=tour
+msgctxt "tour"
+msgid "These educationally sequenced math games, puzzles, activities, and investigations, designed for your family to play together, provide lots of enjoyable family time as your child learns all the math they need for school."
+msgstr "Te ułożone w edukacyjne sekwencje gry, łamigłówki, zadania i eksperymenty matematyczne zostały stworzone z myślą o wspólnej, rodzinnej zabawie. Zapewnią Wam one mnóstwo radości i wspólnie spędzonego czasu, podczas gdy Wasze dziecko z łatwością opanuje całą matematykę potrzebną w szkole."
+
+#. type=tour
+msgctxt "tour"
+msgid "Math Learning Steps"
+msgstr "Etapy nauki matematyki"
+
+#. type=tour
+msgctxt "tour"
+msgid "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages."
+msgstr "Czy zastanawialiście się kiedyś, jak wyglądają pierwsze kroki w nauce matematyki i jak się ze sobą łączą? Oto krótkie opisy dziesięciu etapów nauki matematyki, przez które będzie przechodzić Wasze dziecko w ramach każdego z pięciu Poziomów."
+
+#. type=tour
+msgctxt "tour"
+msgid "Playdates"
+msgstr "Matematyczne gry i zabawy"
+
+#. type=tour
+msgctxt "tour"
+msgid "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together."
+msgstr "Spotkajcie się z innymi rodzinami na matematyczne gry i zabawy! Przygotowaliśmy dla Was propozycje ciekawych książeczek, gier i łamigłówek, którymi możecie cieszyć się wspólnie w Waszej grupie."
+
+#. type=tour
+msgctxt "tour"
+msgid "Help"
+msgstr "Pomoc"
+
+#. type=tour
+msgctxt "tour"
+msgid "If you ever want to see this introduction again, just click on the question mark."
+msgstr "Jeśli kiedykolwiek zechcesz ponownie zobaczyć to wprowadzenie, po prostu kliknij znak zapytania."
 
