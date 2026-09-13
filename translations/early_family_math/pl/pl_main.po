@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Polish\n"
 "\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-09-13 01:42\n"
+"PO-Revision-Date: 2026-09-13 02:41\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -15599,11 +15599,166 @@ msgctxt "data_list"
 msgid "Make up a story like this that explains how the giraffe got such a long neck."
 msgstr "Wymyśl własną historię, która wyjaśni, skąd żyrafa ma tak długą szyję."
 
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "Dalej"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "Poprzedni"
+
+#. type=global
+msgctxt "global"
+msgid "Done"
+msgstr "Gotowe"
+
+#. type=template
+msgctxt "template"
+msgid "Beginning"
+msgstr "Początek"
+
+#. type=template
+msgctxt "template"
+msgid "Intermediate"
+msgstr "Poziom średniozaawansowany"
+
+#. type=template
+msgctxt "template"
+msgid "Advanced"
+msgstr "Poziom zaawansowany"
+
+#. type=template
+msgctxt "template"
+msgid "**Beginning Storybooks**"
+msgstr "**Książeczki dla początkujących**"
+
 #. type=template
 #. The string @local.book_title_in_table should not be translated.
 msgctxt "template"
 msgid "@local.book_title_in_table == \"NoTranslation\""
 msgstr "@local.book_title_in_table == \"NoTranslation\""
+
+#. type=template
+msgctxt "template"
+msgid "**Intermediate Storybooks**"
+msgstr "**Książeczki dla średniozaawansowanych**"
+
+#. type=template
+msgctxt "template"
+msgid "**Advanced Storybooks**"
+msgstr "**Książeczki dla zaawansowanych**"
+
+#. type=template
+msgctxt "template"
+msgid "Read Bonus Material"
+msgstr "Przeczytaj dodatkowe materiały"
+
+#. type=template
+msgctxt "template"
+msgid "EFM App has downloaded an update. Please restart the app to finish installation."
+msgstr "Aplikacja EFM pobrała aktualizację. Uruchom ponownie aplikację, aby dokończyć instalację."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Uruchom ponownie"
+
+#. type=template
+msgctxt "template"
+msgid "No Match"
+msgstr "Brak dopasowania"
+
+#. type=template
+msgctxt "template"
+msgid "Welcome!"
+msgstr "Witajcie!"
+
+#. type=template
+msgctxt "template"
+msgid "Storybooks"
+msgstr "Książeczki z historiami"
+
+#. type=template
+msgctxt "template"
+msgid "Math Learning Steps"
+msgstr "Etapy nauki matematyki"
+
+#. type=template
+msgctxt "template"
+msgid "Playdates"
+msgstr "Matematyczne gry i zabawy"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"First and foremost, playing math games should be fun, like any other game your family plays together!\n"
+"\n"
+"Please let your child make poor plays (mistakes) without correction, and resist the urge to tell them the best ways to play. Bit by bit, your child will get better at the game, and they will learn so much more if you let them figure things out. There is no hurry.\n"
+"\n"
+"If you see your child make a mistake, ask them to describe why they decided to do what they did. If your child is stuck and doesn't know which play to make, ask them to describe the pros and cons of their choices, or ask them about how they solved a similar situation in the past. If your child doesn't remember how to do a calculation, discuss with them the methods they know for figuring it out. These conversations are important for helping your child to develop mathematically. \n"
+"\n"
+"Through math game play and math conversations, you are helping your child learn to enjoy math and develop important problem solving skills!"
+msgstr ""
+"Przede wszystkim pamiętajcie, że granie w gry matematyczne powinno być dobrą zabawą — tak jak każda inna gra, w którą gracie razem z rodziną!\n"
+"\n"
+"Pozwólcie dziecku popełniać błędy i dokonywać nie najlepszych wyborów bez poprawiania go. Powstrzymajcie się też od podpowiadania mu, jak najlepiej grać. Krok po kroku dziecko będzie coraz lepiej radzić sobie w grze, a pozwalając mu samodzielnie dochodzić do rozwiązań, pomożecie mu nauczyć się znacznie więcej. Nie ma pośpiechu.\n"
+"\n"
+"Jeśli zauważycie, że dziecko popełniło błąd, poproście je, aby opowiedziało, dlaczego zdecydowało się właśnie tak postąpić. Jeśli dziecko nie wie, jaki ruch wykonać, poproście je o zastanowienie się nad zaletami i wadami poszczególnych możliwości albo zapytajcie, jak poradziło sobie z podobną sytuacją wcześniej. Jeśli dziecko nie pamięta, jak wykonać jakieś obliczenie, porozmawiajcie z nim o znanych mu sposobach, które mogą pomóc je rozwiązać. Takie rozmowy są ważne, ponieważ pomagają dziecku rozwijać myślenie matematyczne.\n"
+"\n"
+"Dzięki wspólnemu graniu w gry matematyczne i rozmowom o matematyce pomagacie dziecku polubić matematykę i rozwijać ważne umiejętności rozwiązywania problemów!\n"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Puzzles are meant to be challenging and to take time, so please don't ruin the fun by telling your child how to do them. These puzzles are chosen so that you can create them easily and then have fun solving them together.\n"
+"\n"
+"If your child gets stuck on a puzzle, you have several options. You can, of course, give very small hints, if you can think of things that won't give away the puzzle. You can suggest looking at smaller or simpler versions of the puzzle. Encourage your child to be bold in their ideas, even if sometimes they lead to dead ends. We all learn a lot from our mistakes and dead ends! Let your child know that it is perfectly okay not to solve a puzzle on the first (or second or third) try, and that useful ideas may occur to them if they leave the puzzle alone for a day or two.\n"
+"\n"
+"These puzzles are meant to be fun and to teach problem solving. One of the greatest mathematical pleasures is that AHA moment, after many false starts and much wrestling with a problem, when the answer is finally discovered – be sure to let your child experience that feeling of discovery as many times as you can!"
+msgstr ""
+"Łamigłówki powinny być wyzwaniem i wymagać czasu, dlatego nie odbierajcie dziecku radości z ich rozwiązywania, podpowiadając mu, jak je rozwiązać. Te łamigłówki zostały wybrane tak, aby można je było łatwo przygotować, a następnie wspólnie dobrze się bawić podczas ich rozwiązywania.\n"
+"\n"
+"Jeśli dziecko utknie przy łamigłówce, macie kilka możliwości. Oczywiście możecie dać mu drobną podpowiedź, jeśli tylko uda się Wam wymyślić taką, która nie zdradzi rozwiązania. Możecie też zaproponować, żeby przyjrzało się mniejszej lub prostszej wersji łamigłówki. Zachęcajcie dziecko, aby odważnie próbowało różnych pomysłów, nawet jeśli niektóre z nich prowadzą donikąd. Wszyscy wiele uczymy się na błędach i nieudanych próbach! Powiedzcie dziecku, że to zupełnie w porządku, jeśli nie uda mu się rozwiązać łamigłówki za pierwszym, drugim czy nawet trzecim razem. Czasem najlepsze pomysły przychodzą wtedy, gdy odłożymy łamigłówkę na dzień lub dwa.\n"
+"\n"
+"Te łamigłówki mają przede wszystkim sprawiać przyjemność i uczyć rozwiązywania problemów. Jedną z największych matematycznych przyjemności jest ten moment „AHA!”, kiedy po wielu nieudanych próbach i zmaganiu się z problemem w końcu odkrywamy rozwiązanie. Postarajcie się, aby dziecko mogło jak najczęściej doświadczyć tej radości samodzielnego odkrywania!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Investigations are meant for your child to play with and think about. Let your child explore these looking for interesting patterns and beautiful relationships. Resist the temptation to unveil what is going on and give the answer. If your child seems to have reached a dead end, suggest that they come back to the investigation at a future time to play with it again.\n"
+"\n"
+"Many investigations benefit from organizing results, and this is a great thing for you to help your child with. Help them make tables, drawings, or whatever may help them see more easily what is going on. And of course, it is perfectly fine to give them gentle nudges from time to time in the right direction. Remember that your child will learn a lot by developing persistence and learning how to look more deeply at things."
+msgstr ""
+"Doświadczenia matematyczne są po to, aby dziecko mogło samodzielnie je odkrywać i zastanawiać się nad nimi. Pozwólcie mu eksperymentować, szukając ciekawych wzorów i zależności. Powstrzymajcie się od pokusy, by od razu wyjaśniać, co się dzieje, i podawać gotową odpowiedź. Jeśli dziecko wydaje się, że utknęło i nie wie, co dalej, zaproponujcie, żeby wróciło do danego doświadczenia innym razem i ponownie się nim pobawiło.\n"
+"\n"
+"Wiele doświadczeń matematycznych łatwiej zrozumieć, gdy uporządkuje się wyniki — i właśnie w tym możecie pomóc dziecku. Pomóżcie mu tworzyć tabele, rysunki lub inne sposoby przedstawiania wyników, które ułatwią dostrzeżenie tego, co się dzieje. Oczywiście nic nie stoi na przeszkodzie, aby od czasu do czasu delikatnie naprowadzić dziecko na właściwy trop. Pamiętajcie, że dziecko wiele się nauczy, rozwijając wytrwałość i ucząc się dokładniej przyglądać różnym rzeczom."
+
+#. type=template
+msgctxt "template"
+msgid "Helping your child"
+msgstr "Jak wspierać dziecko"
+
+#. type=template
+msgctxt "template"
+msgid "Before Talking"
+msgstr "Zanim zaczniesz czytać"
+
+#. type=template
+msgctxt "template"
+msgid "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them."
+msgstr "Rozmawiajcie ze swoim dzieckiem, zanim jeszcze zacznie mówić, a nawet zanim w pełni zrozumie słowa. Pokazujcie palcem, nazywajcie i opisujcie to, co widzicie wokół siebie – na przykład kształty, kolory, porównania czy ilości. Gdy maluch zacznie już rozumieć słowa, pytajcie go o różne rzeczy i zachęcajcie, by wskazywał je paluszkiem. A kiedy zacznie rozumieć i wypowiadać pierwsze słowa, zacznijcie wplatać do Waszych rozmów proste pytania."
+
+#. type=template
+msgctxt "template"
+msgid "Early Talking"
+msgstr "Rozmawiaj z dzieckiem"
+
+#. type=template
+msgctxt "template"
+msgid "As your child begins to understand and say words, mix in simple questions. Freely help with answers as needed. If you point and say \"Is this red?\" and they don't know, supply the answer. If you say \"Count the blocks.\" and your child does not know how, point and count the blocks with them \"one, two, three.\""
+msgstr "Rozmawiajcie ze swoim dzieckiem, zanim jeszcze zacznie mówić, a nawet zanim w pełni zrozumie słowa. Pokazujcie palcem, nazywajcie i opisujcie to, co widzicie wokół siebie – na przykład kształty, kolory, porównania czy ilości. Gdy maluch zacznie już rozumieć słowa, pytajcie go o różne rzeczy i zachęcajcie, by wskazywał je paluszkiem. A kiedy zacznie rozumieć i wypowiadać pierwsze słowa, zacznijcie wplatać do Waszych rozmów proste pytania."
 
 #. type=template
 msgctxt "template"
@@ -15755,6 +15910,127 @@ msgstr "Kopiuj"
 msgctxt "template"
 msgid "Copied!"
 msgstr "Skopiowano!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Ostatnia synchronizacja:"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "To urządzenie nie było jeszcze synchronizowane."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Synchronizuj teraz"
+
+#. type=template
+msgctxt "template"
+msgid "Story text"
+msgstr "Tekst opowiadania"
+
+#. type=template
+msgctxt "template"
+msgid "First reading"
+msgstr "Pierwsze czytanie"
+
+#. type=template
+msgctxt "template"
+msgid "Second reading"
+msgstr "Drugie czytanie"
+
+#. type=template
+msgctxt "template"
+msgid "Third reading"
+msgstr "Trzecie czytanie"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy policy"
+msgstr "Polityka prywatności"
+
+#. type=template
+msgctxt "template"
+msgid "Template list"
+msgstr "Lista szablonów"
+
+#. type=template
+msgctxt "template"
+msgid "Tour list"
+msgstr "Lista tras"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "Zresetuj aplikację"
+
+#. type=template
+msgctxt "template"
+msgid "Activities – Bonus Material"
+msgstr "Aktywności – dodatkowe materiały"
+
+#. type=template
+msgctxt "template"
+msgid "Stage"
+msgstr "Etap"
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "Język"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources."
+msgstr "Na każdym Poziomie przygotowaliśmy dziesięć spotkań z grami i zabawami (playdates), którymi Wasza rodzina może cieszyć się wspólnie z grupą innych rodzin. Każde spotkanie oferuje propozycje książeczek oraz zadań do wspólnego spędzania czasu. Spotkania te odpowiadają dziesięciu krokom w nauce matematyki na danym Poziomie. Zamieszczone linki zapewniają bezpośredni i łatwy dostęp do każdego z tych materiałów."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other."
+msgstr "Każdy Poziom nauki jest podzielony na dziesięć podstawowych kroków. Każdy krok opisuje, czego dokładnie uczy się Wasze dziecko, jak możecie pomóc mu w tej nauce oraz w jaki sposób poszczególne etapy łączą się ze sobą."
+
+#. type=tour
+msgctxt "tour"
+msgid "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together."
+msgstr "Każdy z Poziomów składa się z około kilkunastu sekcji pełnych świetnych gier, łamigłówek, zadań i eksperymentów, którymi cała Wasza rodzina może cieszyć się wspólnie."
+
+#. type=tour
+msgctxt "tour"
+msgid "Stages"
+msgstr "Poziomy"
+
+#. type=tour
+msgctxt "tour"
+msgid "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones."
+msgstr "Nazwa każdego Poziomu opisuje główną umiejętność, jaką Wasze dziecko powinno już posiadać, aby go rozpocząć. Na przykład, jeśli Wasza pociecha potrafi policzyć do dziesięciu i rozumie znaczenie tych liczb, zacznijcie od Poziomu 3. Materiały na poszczególnych Poziomach zostały ułożone zgodnie z naturalną ścieżką rozwoju, dzięki czemu kolejne sekcje płynnie opierają się na wiedzy z poprzednich."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of activities you would like to do."
+msgstr "Wybierzcie rodzaj zadań, na które macie dzisiaj ochotę."
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select whether you would rather view the Stage activities individually or by topic."
+msgstr "Wybierzcie, czy wolicie przeglądać zadania z tego Poziomu pojedynczo, czy pogrupowane według tematów."
+
+#. type=tour
+msgctxt "tour"
+msgid "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience."
+msgstr "Wspólne czytanie z dzieckiem to cudowne przeżycie! Te książeczki są przeznaczone do tego, aby dorosły czytał je dziecku. Wplatanie matematycznych wskazówek i pytań podczas lektury pomaga dziecku rozwijać talenty matematyczne. Buduje to również silne, piękne skojarzenia – niech matematyka kojarzy się z tą ciepłą, radosną atmosferą bliskości!"
+
+#. type=tour
+msgctxt "tour"
+msgid "Please select the kinds of stories you would like to choose from."
+msgstr "Wybierzcie rodzaj opowieści, od których chcielibyście zacząć."
 
 #. type=tour
 msgctxt "tour"
