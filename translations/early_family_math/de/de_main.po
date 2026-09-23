@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-09-23 04:28\n"
+"PO-Revision-Date: 2026-09-23 18:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11585,6 +11585,77 @@ msgstr ""
 "8 3 10 9,   6 1 10 8,   8 1 10 6\n"
 "\n"
 "Pyramiden der Größe 15, 21 oder größer überlassen wir den wirklich Hartnäckigen. Viel Erfolg und viel Spaß!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Enclosed Sums"
+msgstr "Eingeschlossene Summen"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"These puzzles have shapes connected by lines. Each enclosed region has a number that is the sum of the shapes  that border it. Similar to Shape Sums puzzles, circles may have any value, and the value for a non-circular shape must be the same as any other shape of the same type. For example, all squares must have the same value and all hexagons would have the same value. You can optionally add the rule that different non-circular shapes must have different values - for example, that squares and hexagons must have different values.\n"
+"\n"
+"The puzzle for your child is to figure out the numbers in the shapes and regions that are not supplied."
+msgstr ""
+"Bei diesen Rätseln sind Formen durch Linien verbunden. In jedem eingeschlossenen Bereich steht eine Zahl, die die Summe der Formen an seinem Rand ist. Wie bei den Formensummen-Rätseln darf ein Kreis jeden beliebigen Wert haben, während der Wert einer nicht-kreisförmigen Form derselbe sein muss wie bei jeder anderen Form desselben Typs. Alle Quadrate müssen also denselben Wert haben, und alle Sechsecke hätten ebenfalls denselben Wert. Du kannst zusätzlich die Regel einführen, dass verschiedene nicht-kreisförmige Formen verschiedene Werte haben müssen – dass zum Beispiel Quadrate und Sechsecke sich unterscheiden müssen.\n"
+"\n"
+"Die Aufgabe für dein Kind besteht darin, die Zahlen in den Formen und Bereichen herauszufinden, die nicht angegeben sind."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Create these puzzles by making a diagram of circles and maybe some other shapes. Next, fill in all the figures with numbers and fill in the bounded regions with the sum of the figures that surround them. Finally, remove some of the numbers.\n"
+"\n"
+"As with Shape Sums puzzles in Chapter 3, start with simple puzzles with just one or two numbers missing and slowly progress to puzzles with more numbers missing, more enclosed regions next to each other, and more use of values in non-circular regions."
+msgstr ""
+"Solche Rätsel erstellst du, indem du eine Zeichnung aus Kreisen und vielleicht ein paar anderen Formen anlegst. Danach trägst du in alle Figuren Zahlen ein und schreibst in jeden umschlossenen Bereich die Summe der Figuren, die ihn umgeben. Zum Schluss entfernst du einige der Zahlen.\n"
+"\n"
+"Wie bei den Formensummen-Rätseln aus Kapitel 3 fängst du mit einfachen Aufgaben an, bei denen nur eine oder zwei Zahlen fehlen, und steigerst dich langsam zu Rätseln mit mehr fehlenden Zahlen, mehr benachbarten eingeschlossenen Bereichen und mehr Werten in nicht-kreisförmigen Bereichen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Compensation"
+msgstr "Inselhüpfen – Ausgleichen"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Using compensation for addition is a way to make addition problems much easier. The idea is to take an amount away from one of the numbers being added and give it to the other other number - the result stays the same, but one of the numbers becomes easier to work with. \n"
+"\n"
+"For example, when you add 7 + 8, if you take 2 away from 7 and give it to the 8, the problem becomes 5 + 10. Alternatively, if you take 3 away from the 8 and give it to the 7, the problem becomes 10 + 5. Anytime you can make one of the numbers a multiple of 10, you will have a much simpler problem.\n"
+"\n"
+"These puzzles provide practice in creating new problems using compensation. The challenge is to find a path that connects all the islands with the same answer. It is only legal to connect two islands if their problem’s numbers differ by 1. Only some of the islands will be on the path.\n"
+"\n"
+"Make these puzzles by starting with about ten islands with some connections. Identify a path from one edge of the islands to the other. Along that path, put problems that differ from each other by one - perhaps start with a problem that involves adding 10, and then make variations on it. In the islands near to the path, put problems with small changes that have different answers."
+msgstr ""
+"Beim Addieren auszugleichen ist ein Weg, Additionsaufgaben deutlich zu vereinfachen. Die Idee: Du nimmst einer der beiden Zahlen etwas weg und gibst es der anderen – das Ergebnis bleibt gleich, aber eine der Zahlen wird bequemer.\n"
+"\n"
+"Nimmst du zum Beispiel bei 7 + 8 zwei weg von der 7 und gibst sie der 8, wird daraus 5 + 10. Nimmst du stattdessen drei weg von der 8 und gibst sie der 7, wird daraus 10 + 5. Immer wenn du eine der Zahlen zu einem Vielfachen von 10 machen kannst, wird die Aufgabe viel einfacher.\n"
+"\n"
+"Diese Rätsel üben genau das: aus einer Aufgabe durch Ausgleichen neue Aufgaben zu machen. Die Herausforderung besteht darin, einen Weg zu finden, der alle Inseln mit demselben Ergebnis verbindet. Zwei Inseln dürfen nur verbunden werden, wenn sich die Zahlen ihrer Aufgaben um 1 unterscheiden. Nur ein Teil der Inseln liegt auf dem Weg.\n"
+"\n"
+"Solche Rätsel baust du, indem du mit etwa zehn Inseln und einigen Verbindungen beginnst. Lege einen Weg von einem Rand der Inselgruppe zum anderen fest. Entlang dieses Weges trägst du Aufgaben ein, die sich jeweils um eins unterscheiden – fang vielleicht mit einer Aufgabe an, bei der 10 addiert wird, und bilde davon Abwandlungen. Auf die Inseln nahe am Weg schreibst du Aufgaben mit kleinen Abweichungen, die andere Ergebnisse haben."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "There really is little to be done to vary the hardness of these puzzles. Introducing false paths will probably lead to confusion rather than challenge, and so it is generally a bad idea."
+msgstr "Am Schwierigkeitsgrad dieser Rätsel lässt sich kaum etwas verändern. Falsche Wege einzubauen führt vermutlich eher zu Verwirrung als zu einer echten Herausforderung und ist deshalb meist keine gute Idee."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles and SumTriangles"
+msgstr "Differenzdreiecke und Summendreiecke"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles"
+msgstr "Differenzdreiecke"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "DiffTriangles puzzles have triangles and squares that share sides. A triangle always has exactly two squares on its sides, and the remaining side has either a triangle or is empty. A triangle’s number is the difference of the two adjoining squares. The challenge is to supply the missing numbers."
+msgstr "Bei Differenzdreiecken teilen sich Dreiecke und Quadrate ihre Seiten. An einem Dreieck liegen immer genau zwei Quadrate an; an der verbleibenden Seite steht entweder ein Dreieck oder nichts. Die Zahl eines Dreiecks ist die Differenz der beiden angrenzenden Quadrate. Die Herausforderung besteht darin, die fehlenden Zahlen zu ergänzen."
 
 #. type=data_list
 msgctxt "data_list"
