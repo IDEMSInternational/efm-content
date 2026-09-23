@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: German\n"
 "\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-08-20 16:33\n"
+"PO-Revision-Date: 2026-09-23 03:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10337,6 +10337,75 @@ msgstr "Ein Rechteck ist eine Form mit vier geraden Linien mit Ecken wie diese S
 msgctxt "data_list"
 msgid "Most papers are shaped like rectangles. Mr. Kio's paper is strangely shaped."
 msgstr "Die meisten Papiere sind rechteckig. Herrn Kios Papier ist seltsam geformt."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One of These is Not Like the Others"
+msgstr "Eines davon passt nicht dazu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This activity has your child looking at four things and deciding which three share a property that the fourth one does not. The following is a quick list of examples together with explanations. Children often have a fresh way of looking at things and it is well worth listening to them to see if their reasoning is novel yet sound.\n"
+"\n"
+"There are several ways to present these four items to your child. The easiest for you is to simply say the list. If the items are easy to draw, you can draw them. If the items are hard to draw, you may be able to find photos or drawings in ads or magazines that you can cut out and select from. You may be able to use a single photo with lots of content and point out four things in the photo.\n"
+"\n"
+"For activities like this, once your child has practiced this for a while and has a solid idea of the activity, it is good to reverse your roles - your child will learn a lot by creating examples for you to solve. As before, their reasoning may be very different from yours, so listen carefully."
+msgstr ""
+"Bei dieser Aktivität schaut sich dein Kind vier Dinge an und entscheidet, welche drei davon eine Eigenschaft teilen, die das vierte nicht hat. Hier ist eine kurze Liste von Beispielen mit Erklärungen. Kinder haben oft einen ganz frischen Blick auf die Dinge, und es lohnt sich sehr, ihnen zuzuhören und zu schauen, ob ihre Begründung neu, aber trotzdem sinnvoll ist.\n"
+"\n"
+"Es gibt mehrere Möglichkeiten, deinem Kind diese vier Dinge zu zeigen. Am einfachsten ist es, sie einfach aufzuzählen. Lassen sich die Dinge leicht zeichnen, kannst du sie zeichnen. Sind sie schwer zu zeichnen, findest du vielleicht Fotos oder Abbildungen in Werbeprospekten oder Zeitschriften, die du ausschneiden und auswählen kannst. Auch ein einziges bildreiches Foto kann reichen – dann zeigst du einfach auf vier Dinge darin.\n"
+"\n"
+"Bei Aktivitäten wie dieser lohnt es sich, die Rollen zu tauschen, sobald dein Kind eine Weile geübt hat und die Aufgabe gut versteht – es wird viel lernen, wenn es Beispiele für dich erfindet. Auch hier gilt: Seine Begründungen können ganz anders ausfallen als deine, also hör genau hin."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Groups of Four"
+msgstr "Vierergruppen"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are a few examples to help you get started.\n"
+"\n"
+"* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n"
+"* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n"
+"* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n"
+"* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n"
+"* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n"
+"* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n"
+"* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n"
+"* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n"
+"* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n"
+"* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n"
+"\n"
+"You can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures."
+msgstr ""
+"Hier sind ein paar Beispiele für den Anfang.\n"
+"\n"
+"* Hase, Hund, Schmetterling, Kissen – Die ersten drei leben, das Kissen nicht.\n"
+"* Banane, Käse, Hammer, Karotte – Der Hammer ist das Einzige, was man nicht essen kann.\n"
+"* Käse, Schuhe, Mantel, Hemd – Der Käse ist das Einzige, was man nicht anziehen kann.\n"
+"* rotes Dreieck, rotes Quadrat mit Loch, grünes Quadrat, rotes Quadrat ohne Loch – Jedes der ersten drei kann das Außenseiter-Teil sein. Das rote Dreieck ist das Einzige, was kein Quadrat ist. Das rote Quadrat mit Loch ist das Einzige, was nicht durchgehend gefüllt ist. Das grüne Quadrat ist das Einzige, was nicht rot ist.\n"
+"* Hund, Katze, Löwe, Goldfisch – Der Löwe ist das einzige Tier in der Liste, das ein schlechtes Haustier wäre. Er ist außerdem deutlich größer als die anderen Tiere. Oder: Drei davon haben vier Beine, und der Fisch lebt im Wasser.\n"
+"* Rosenstrauch, Eiche, Ahorn, Kiefer – Der Rosenstrauch ist das Einzige, was kein Baum ist.\n"
+"* Bank, Tisch, Sofa, Hocker – Der Tisch ist das Einzige, worauf man sich nicht setzt. Oder: Nur das Sofa ist weich.\n"
+"* Bellen, Hupen, Regenbogen, Klicken – Der Regenbogen ist das Einzige, was kein Geräusch ist.\n"
+"* Socken, Hose, Zahnbürste, Mütze – Die Zahnbürste ist das Einzige, was man nicht anziehen würde.\n"
+"* Stuhl, Regenschirm, Sofa, Hocker – Auf den Regenschirm würde man sich als Einziges nicht setzen wollen.\n"
+"* Ameisen, Schwein, Spinnen, Grashüpfer – Das Schwein ist das Einzige, was kein kleines Krabbeltier ist.\n"
+"\n"
+"Das geht auch mit Bildern statt mit Wörtern. Mach es dir zur Gewohnheit, Bilder aus Prospekten, Zeitschriften und allem, was dir sonst in die Hände fällt, auszuschneiden – dann kannst du damit Spiele spielen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Island Hopping – Counting"
+msgstr "Inselhüpfen – Zählen"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "These puzzles have numbered islands (circles) connected by bridges (lines) drawn on paper. The challenge is to find a path that connects the islands in order."
+msgstr "Bei diesen Rätseln sind nummerierte Inseln (Kreise) durch Brücken (Linien) auf Papier verbunden. Die Herausforderung besteht darin, einen Weg zu finden, der die Inseln der Reihe nach verbindet."
 
 #. type=data_list
 msgctxt "data_list"
